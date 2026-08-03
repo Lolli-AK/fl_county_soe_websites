@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T18:09:32Z",
-  "html_sha256": "08bce9f7088d20fb2fca39a75eff90eab106c3dd167a23d15fc303157f94adbb",
+  "fetched_at": "2026-08-03T18:20:17Z",
+  "html_sha256": "c32f609ae73546889aee34b6c4d86ddc8a1af1d6e7ad0b6195030484d25265e7",
   "text_sha256": "30864e77a5485a91089b732eb1869de1a067e68d61eca002047e43f4d910aac5",
-  "byte_size": 359375,
+  "byte_size": 359341,
   "title": "Past Election Results",
   "error": null
 }

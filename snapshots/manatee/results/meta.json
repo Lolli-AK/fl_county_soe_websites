@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T18:09:32Z",
-  "html_sha256": "34581ab8effe7372d54c2bf1ddbd654f0a1b544375f979d00412b4d9bfe51fcd",
+  "fetched_at": "2026-08-03T18:20:17Z",
+  "html_sha256": "33b42591864c7bcda38d3fd6583f42415b7865dd072d6a8d3ada65d94ea05a44",
   "text_sha256": "0a90a7f03597bd79b6ed9892387b68c174e5ea5fb845d30c306e482d09919214",
-  "byte_size": 136407,
+  "byte_size": 136378,
   "title": "Past Election Results - Vote Manatee",
   "error": null
 }

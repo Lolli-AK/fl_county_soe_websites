@@ -16,7 +16,7 @@ Design priorities (in order):
 Scope: **all 67 Florida counties** — the complete set.
 
 This is the Florida sibling of `tx-county-watch`. The snapshot pipeline
-(`snapshot.py`, `normalize.py`) is shared almost verbatim; discovery, verification
+(`snapshot.py` and the bulk of `normalize.py`) is shared almost verbatim; discovery, verification
 and the manifest are Florida-specific for the reason in the next section.
 
 ---
@@ -69,12 +69,12 @@ reason in `notes`.
 
 ## Coverage
 
-**67 counties · 335 manifest rows · 315 pages captured · 20 recorded gaps.**
+**67 counties · 335 manifest rows · 314 pages captured · 21 recorded gaps.**
 
 | page type | captured | why the rest are gaps |
 |---|---|---|
 | `homepage` | **67 / 67** | — every county has one |
-| `elections` | **65 / 67** | Baker and Lafayette publish election info on the SOE homepage itself, with no distinct landing page |
+| `elections` | **64 / 67** | Baker, Lafayette and Escambia publish election info on the SOE homepage itself, with no distinct landing page |
 | `polling` | **65 / 67** | folded into the elections page, or published only as a per-election PDF |
 | `early_voting` | **61 / 67** | a few counties publish early voting only inside a per-election page, or not as HTML |
 | `results` | **57 / 67** | smaller counties post returns as PDFs, or link the statewide portal (rejected — see below) |
@@ -83,22 +83,22 @@ Per-county completeness — the inverse of Texas's shape:
 
 | pages captured | counties |
 |---|---|
-| 5 / 5 | **51** |
-| 4 / 5 | 12 |
+| 5 / 5 | **50** |
+| 4 / 5 | 13 |
 | 3 / 5 | 4 |
 
-51 of 67 counties are complete because an SOE office exists only to run elections, so
+50 of 67 counties are complete because an SOE office exists only to run elections, so
 it publishes polling, early voting and results as standing pages. In Texas the
 equivalent number was 50 **of 254**, because there a rural county's elections content
 is a subsection of a general county website.
 
-The 20 gaps, by recorded reason:
+The 21 gaps, by recorded reason:
 
 | reason | rows |
 |---|---|
 | no distinct page found (folded into another page) | 8 |
 | no county-specific page found (best candidate was an unrelated third-party site) | 6 |
-| established by hand during the QA pass — nav, conventional paths and sitemap all checked | 5 |
+| established by hand during the QA pass — nav, conventional paths and sitemap all checked | 6 |
 | candidate is non-HTML (PDF-only) | 1 |
 
 **Every gap row carries its reason in `notes`** — a gap is recorded data, not a
@@ -596,7 +596,7 @@ range produces a clean file with a quietly wrong number).
 .venv/bin/python -m pytest tests/ -q
 ```
 
-**37 tests, no network required.** They assert the invariants everything else relies on:
+**39 tests, no network required.** They assert the invariants everything else relies on:
 
 - **67 unique counties**, with the batch labels partitioning them
 - every county has a seat, an office city, and a verified homepage; and `office_city`
@@ -622,7 +622,7 @@ range produces a clean file with a quietly wrong number).
 
 ## Running at 67-county scale
 
-A full run touches **315 targets**. Three things make that sustainable:
+A full run touches **314 targets**. Three things make that sustainable:
 
 **Bounded concurrency on the plain path only.** `--workers` (default 8) parallelizes
 plain HTTP fetches. Headless renders stay **serialized behind a lock**, deliberately:
