@@ -30,7 +30,7 @@ jobs:
       github.event.schedule == '0 8 * * *' ||
       (github.event.schedule == '0 */3 * * *' && vars.ELECTION_WINDOW == 'true')
     runs-on: ubuntu-latest
-    # 67 counties is 315 targets — roughly 40% of the Texas project's volume, so a
+    # 67 counties is 314 targets — roughly 40% of the Texas project's volume, so a
     # run lands well inside this cap. The cap exists to stop a hung fetch from
     # burning the 6-hour default (and, on a private repo, billable minutes).
     timeout-minutes: 90

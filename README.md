@@ -234,11 +234,11 @@ can't land mid-render.
 
 `page.txt` is `get_text()` with blank-line runs collapsed.
 
-#### Nine rules added for Florida
+#### Ten rules added for Florida
 
 Inheriting Texas's rules got most of the way, but a back-to-back full run still
-produced 18 differing artifacts across 7 counties, and a second pass surfaced one
-more. Every one was chased down; all nine were **markup churn, not content**
+produced 18 differing artifacts across 7 counties, and two further passes surfaced
+more. Every one was chased down; all ten were **markup churn, not content**
 (`page.txt` never differed in any pair), and each was fixed the same way Texas's were
 — by finding what regenerates per request and stripping it:
 
@@ -253,8 +253,9 @@ more. Every one was chased down; all nine were **markup churn, not content**
 | **Elementor responsive-visibility classes** — `elementor-hidden-tablet/mobile/desktop` present on one capture, absent on the next | Okeechobee | drop them; purely presentational, consistent with dropping `style` outright |
 | **Dublin Core date holding the page generation time** — `<meta name="DC.Date" content="2026-08-03T11:54:31-04:00">` | Volusia | treat as a volatile meta |
 | **An unrendered server-side template expression** — `aria-hidden="False.ToString().ToLowerInvariant()"`, a CivicPlus bug where the C# was never evaluated, and whose operand flips `True`/`False` between captures | Palm Beach | replace the whole value with a placeholder |
+| **Stackable (WordPress) block ids regenerated per request** — `class="stk-block stk-b2y6ajz" data-block-id="b2y6ajz"` becoming `stk-signnvf` | Orange | canonicalize, but only the base36 tokens: some Stackable ids are persisted with the saved post and are hex-looking (`b885ea1`), while the regenerated ones contain letters outside `a-f`, so requiring a non-hex letter separates them exactly |
 
-Three of these are worth noting as *generalizable* lessons rather than one-offs:
+Four of these are worth noting as *generalizable* lessons rather than one-offs:
 
 - **A volatile value can hide under a non-volatile attribute name.** Texas's rule
   "drop attributes whose *name* contains csrf/token/nonce" is sound but incomplete —
@@ -262,6 +263,9 @@ Three of these are worth noting as *generalizable* lessons rather than one-offs:
 - **Canonicalizing a random value is not always enough.** If the framework sometimes
   omits the attribute entirely, presence/absence still diffs. The fix is to remove
   the thing, not to stabilize it.
+- **Volatile and stable ids can share a prefix.** Stackable emits both, and telling
+  them apart needed a property of the token itself (base36 vs hex) rather than its
+  prefix. Canonicalizing all of them would have thrown away real signal.
 - **The same underlying cause surfaces in several disguises.** CivicPlus measures a
   widget's container at runtime, and that one measurement leaked three ways: into a
   `wide`/`narrow` class, into an `elementor-hidden-*` class, and into an `aria-hidden`
@@ -283,19 +287,20 @@ git diff --stat -- '*page.html' '*page.txt'   # <- expect empty
 
 ### Determinism at 67-county scale
 
-Measured, not assumed. Two consecutive full 8-worker runs over all **315 targets**
-(630 body artifacts):
+Measured, not assumed. Two consecutive full 8-worker runs over all **314 targets**
+(628 body artifacts):
 
 | run pair | body artifacts differing | what they were |
 |---|---|---|
-| Texas rules only | **18 / 630** (7 counties) | eight distinct classes of markup churn — see [the table above](#nine-rules-added-for-florida) |
-| after the first eight rules | **1 / 630** | Palm Beach's unrendered CivicPlus template expression (the ninth) |
-| after all nine rules | **0 / 630** | — |
+| Texas rules only | **18 / 630** (7 counties) | eight distinct classes of markup churn — see [the table above](#ten-rules-added-for-florida) |
+| after the first eight rules | **1 / 630** | Palm Beach's unrendered CivicPlus template expression |
+| after nine rules | **2 / 630** | Orange County's regenerated Stackable block ids |
+| after all ten rules | **0 / 628** | clean |
 
 `page.txt` never differed in either pair: all the churn was in markup, which is why
 `page.txt` is the recommended starting point for reading diffs.
 
-All 315 targets returned HTTP 200 with `error: null`, and only 1 of 315 needed a
+All 314 targets returned HTTP 200 with `error: null`, and only 1 of 314 needed a
 headless render — Florida SOE sites are markedly more static than Texas's metro
 county sites.
 
@@ -471,7 +476,7 @@ ignores unknown columns):
 
 A human-readable summary is written to `manifest/audit-report.md`.
 
-**Current audit state: 315 / 315 live, 0 broken, 312 `confident`, 3 `likely`, 0 flagged.**
+**Current audit state: 314 / 314 live, 0 broken, 311 `confident`, 3 `likely`, 0 flagged.**
 
 ### The human QA pass, and why the audit alone wasn't enough
 
@@ -481,7 +486,7 @@ question is necessary but **not sufficient**: it cannot tell whether a page is t
 *best standing page* of its type. A news bulletin about a polling-place change is
 genuinely about polling in that county, and audits `confident`.
 
-So the 28 rows that discovery had scored weakly were opened by hand. **29 corrections
+So the rows that discovery had scored weakly were opened by hand. **30 corrections
 were applied**, recorded in `scripts/_apply_qa_corrections.py` with a reason on every
 one. What that pass actually caught:
 
@@ -501,9 +506,9 @@ one. What that pass actually caught:
 - **A gap that wasn't one.** Miami-Dade's `early_voting` was empty because the page
   isn't linked from anything crawled; `…/voters/early-voting.page` exists and was
   added by targeted probe.
-- **Five genuine gaps** where the automated pick was wrong and no correct page exists
-  (Baker/`elections`, Lafayette/`elections`, Holmes/`early_voting`,
-  Wakulla/`early_voting`, Sumter/`results`). Each records how that was established —
+- **Six genuine gaps** where the automated pick was wrong and no correct page exists
+  (Baker/`elections`, Lafayette/`elections`, Escambia/`elections`,
+  Holmes/`early_voting`, Wakulla/`early_voting`, Sumter/`results`). Each records how that was established —
   nav checked, conventional paths 404, sitemap has no matching URL. **A documented
   absence is better than a plausible wrong URL**, which would otherwise enter the
   diff series looking like real data.
