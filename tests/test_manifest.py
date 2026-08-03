@@ -193,6 +193,37 @@ def test_urls_are_http(targets):
     assert not bad, f"malformed URLs: {bad[:10]}"
 
 
+def test_no_url_is_recorded_twice_for_one_county(targets):
+    """Two page types sharing a URL means one page is being double-counted.
+
+    The project's rule is that a page type with no distinct page of its own is a GAP
+    ("folded into ..."), not a duplicate row — otherwise coverage counts overstate
+    what a county publishes, and the same bytes get snapshotted under two paths.
+    Escambia hit this: its 'Elections' nav link points back at the homepage.
+    """
+    seen: dict[tuple[str, str], list[str]] = {}
+    for r in targets:
+        url = r["url"].strip().rstrip("/")
+        if url:
+            seen.setdefault((r["county"].strip(), url), []).append(
+                r["page_type"].strip())
+    dupes = [f"{c}: {sorted(pts)} -> {u}" for (c, u), pts in seen.items()
+             if len(pts) > 1]
+    assert not dupes, f"same URL recorded under multiple page types: {dupes}"
+
+
+def test_no_url_is_shared_between_counties(targets):
+    """One URL serving two counties is almost always a wrong pick or a statewide
+    portal that slipped past the rejection list."""
+    seen: dict[str, set[str]] = {}
+    for r in targets:
+        url = r["url"].strip().rstrip("/")
+        if url:
+            seen.setdefault(url, set()).add(r["county"].strip())
+    shared = [f"{sorted(cs)} -> {u}" for u, cs in seen.items() if len(cs) > 1]
+    assert not shared, f"URL shared across counties: {shared[:10]}"
+
+
 def test_no_statewide_portal_captured_as_a_county_page(targets):
     """A statewide portal is identical for all 67 counties, so capturing it would
     both add no per-county signal and misreport a county as having a page.

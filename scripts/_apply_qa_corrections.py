@@ -126,6 +126,10 @@ GAPS: dict[tuple[str, str], str] = {
         "GAP: no election-results page on the SOE site — only canvassing schedules; "
         "/202/Election-Results redirects off-site to a community development "
         "district, so it is not a valid target",
+    ("Escambia", "elections"):
+        "GAP: folded into SOE homepage — escambiavotes.gov's 'Elections' nav link "
+        "points back at the homepage, and /elections/ serves the results page; "
+        "capturing the homepage URL twice would double-count one page",
 }
 
 # Rows kept as-is, with the note clarified so a reviewer knows they were checked.

@@ -255,8 +255,21 @@ _RANDOM_NUM_SUFFIX_RE = re.compile(
 # A class that, after canonicalization, is nothing but a prefix plus a random
 # placeholder — e.g. "stk-container--RANDOM", "stk--RANDOM", "style-HEX". Matched
 # after _canon_ids has run, so the placeholders are already in place.
+# The prefix must allow hyphens: real cases are "stk-block-columns--RANDOM" and
+# "stk-container--RANDOM", not just single-word prefixes.
 _RANDOM_ONLY_CLASS_RE = re.compile(
-    r"^[A-Za-z][A-Za-z0-9_]*-{1,2}(RANDOM|HEX|GUID)$")
+    r"^[A-Za-z][A-Za-z0-9_-]*-{1,2}(RANDOM|HEX|GUID)$")
+
+# Stackable (WordPress) block ids. Orange County's pages carry
+# class="stk-block stk-b2y6ajz" data-block-id="b2y6ajz" — and some of these are
+# regenerated per request while others are persisted with the saved post. The two are
+# distinguishable: the stable ones are hex-looking ("b885ea1", "3e4da80"), the
+# volatile ones are base36 and contain letters outside a-f ("b2y6ajz", "signnvf",
+# "ykblxme"). Requiring a non-hex letter therefore canonicalizes exactly the volatile
+# ones and leaves the stable ids diffing normally.
+_STACKABLE_ID_RE = re.compile(r"\bstk-(?=[a-z0-9]*[g-z])[a-z0-9]{6,10}\b")
+# ...and the bare token as it appears in data-block-id / data-v attributes.
+_STACKABLE_TOKEN_RE = re.compile(r"^(?=[a-z0-9]*[g-z])[a-z0-9]{6,10}$")
 
 # An UNRENDERED server-side template expression that leaked into the markup. This is
 # a CivicPlus bug: Palm Beach's homepage emits
@@ -280,6 +293,7 @@ def _canon_ids(value: str) -> str:
     value = _THEME_BUILD_RE.sub(r"\1_BUILD", value)
     value = _PREFIXED_SHORTHEX_RE.sub(r"\1-HEX", value)
     value = _RANDOM_NUM_SUFFIX_RE.sub(r"\1-RANDOM", value)
+    value = _STACKABLE_ID_RE.sub("stk-RANDOM", value)
     value = _DATETIME_RE.sub("TIMESTAMP", value)
     return _US_DATETIME_RE.sub("TIMESTAMP", value)
 
@@ -473,6 +487,13 @@ def _strip_tree(soup: BeautifulSoup) -> None:
         for attr, val in list(tag.attrs.items()):
             if isinstance(val, str) and _UNRENDERED_EXPR_RE.match(val):
                 tag[attr] = "UNRENDERED_EXPR"
+
+        # Stackable's per-request block token, as a bare attribute value
+        # (data-block-id="b2y6ajz"). The class form is handled by _canon_ids.
+        if tag.has_attr("data-block-id"):
+            v = str(tag["data-block-id"])
+            if _STACKABLE_TOKEN_RE.match(v):
+                tag["data-block-id"] = "RANDOM"
 
         # WP Rocket lazy-loading rewrites <img src> to an inline SVG placeholder and
         # moves the real URL to data-lazy-src — but only when its cache has the
