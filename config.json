@@ -1,0 +1,21 @@
+{
+  "_comment": "Runtime knobs for fl-county-watch. Cadence is NOT read by the pipeline; the scheduler (GitHub Actions / cron) owns frequency. Flip election_window to true in the scheduler to raise cadence during the election window. `workers` applies to plain fetches only — headless renders are always serialized to protect determinism.",
+  "election_window": false,
+  "cadence": {
+    "baseline_cron": "0 8 * * *",
+    "election_window_cron": "0 */3 * * *",
+    "note": "baseline = daily 08:00 UTC; election window = every 3 hours. Adjust freely."
+  },
+  "fetch": {
+    "js_shell_min_chars": 500,
+    "plain_timeout_seconds": 30,
+    "headless_timeout_ms": 45000,
+    "plain_retries": 2,
+    "hydration_settle_ms": 2000,
+    "hydration_max_wait_ms": 6000,
+    "interstitial_max_wait_ms": 45000,
+    "workers": 8,
+    "request_delay_ms": 250,
+    "request_jitter_ms": 250
+  }
+}

@@ -1,0 +1,7 @@
+# http2 extra pulls in `h2`: several county sites 403 on HTTP/1.1 and 200 on h2
+httpx[http2]>=0.27
+beautifulsoup4>=4.12
+lxml>=5.0
+playwright>=1.44
+# brotli: required because we advertise `br` in Accept-Encoding
+brotli>=1.1

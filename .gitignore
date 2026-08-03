@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Run logs are local operational output, not diff artifacts.
+logs/
+
+# OS
+.DS_Store

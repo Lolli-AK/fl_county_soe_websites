@@ -1,0 +1,63 @@
+name: snapshot
+
+# Cadence is not hardcoded into the pipeline. Two schedules are defined here:
+#   - a DAILY baseline that always runs
+#   - an ELECTION-WINDOW cron (every 3h) that only does work when the repository
+#     variable ELECTION_WINDOW == 'true'  (Settings -> Secrets and variables ->
+#     Actions -> Variables). Flip that one variable to raise cadence for the
+#     window, flip it back afterwards. No code change required.
+# Adjust the cron strings to taste; keep the gating pattern.
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 8 * * *"      # daily baseline, 08:00 UTC
+    - cron: "0 */3 * * *"    # election-window cadence, every 3 hours (gated)
+
+concurrency:
+  group: snapshot
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    # Run for manual dispatch, the daily baseline, OR the frequent cron when the
+    # election window is enabled. The frequent cron is a no-op otherwise.
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      github.event.schedule == '0 8 * * *' ||
+      (github.event.schedule == '0 */3 * * *' && vars.ELECTION_WINDOW == 'true')
+    runs-on: ubuntu-latest
+    # 67 counties is 315 targets — roughly 40% of the Texas project's volume, so a
+    # run lands well inside this cap. The cap exists to stop a hung fetch from
+    # burning the 6-hour default (and, on a private repo, billable minutes).
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run snapshot (fetch -> normalize -> write -> commit)
+        run: |
+          git config user.name "fl-county-watch[bot]"
+          git config user.email "actions@github.com"
+          python scripts/snapshot.py
+
+      # If the run died part-way (flaky county, network blip), pick up where it
+      # left off rather than refetching everything.
+      - name: Resume once if the run failed
+        if: failure()
+        run: python scripts/snapshot.py --resume
+
+      - name: Push snapshot commit
+        run: git push
