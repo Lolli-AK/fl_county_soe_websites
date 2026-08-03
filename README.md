@@ -234,13 +234,13 @@ can't land mid-render.
 
 `page.txt` is `get_text()` with blank-line runs collapsed.
 
-#### Eight rules added for Florida
+#### Nine rules added for Florida
 
 Inheriting Texas's rules got most of the way, but a back-to-back full run still
-produced 18 differing artifacts across 7 counties. Every one was chased down; all
-eight were **markup churn, not content** (`page.txt` never differed), and each was
-fixed the same way Texas's were — by finding what regenerates per request and
-stripping it:
+produced 18 differing artifacts across 7 counties, and a second pass surfaced one
+more. Every one was chased down; all nine were **markup churn, not content**
+(`page.txt` never differed in any pair), and each was fixed the same way Texas's were
+— by finding what regenerates per request and stripping it:
 
 | what churned | where | fix |
 |---|---|---|
@@ -252,8 +252,9 @@ stripping it:
 | **Layout size class measured at runtime** — `class="row outer wide"` vs `"row outer"` | Lee | Texas already stripped CivicPlus `wide`/`narrow`, but only on elements whose class mentioned "widget"; broadened to layout containers |
 | **Elementor responsive-visibility classes** — `elementor-hidden-tablet/mobile/desktop` present on one capture, absent on the next | Okeechobee | drop them; purely presentational, consistent with dropping `style` outright |
 | **Dublin Core date holding the page generation time** — `<meta name="DC.Date" content="2026-08-03T11:54:31-04:00">` | Volusia | treat as a volatile meta |
+| **An unrendered server-side template expression** — `aria-hidden="False.ToString().ToLowerInvariant()"`, a CivicPlus bug where the C# was never evaluated, and whose operand flips `True`/`False` between captures | Palm Beach | replace the whole value with a placeholder |
 
-Two of these are worth noting as *generalizable* lessons rather than one-offs:
+Three of these are worth noting as *generalizable* lessons rather than one-offs:
 
 - **A volatile value can hide under a non-volatile attribute name.** Texas's rule
   "drop attributes whose *name* contains csrf/token/nonce" is sound but incomplete —
@@ -261,6 +262,12 @@ Two of these are worth noting as *generalizable* lessons rather than one-offs:
 - **Canonicalizing a random value is not always enough.** If the framework sometimes
   omits the attribute entirely, presence/absence still diffs. The fix is to remove
   the thing, not to stabilize it.
+- **The same underlying cause surfaces in several disguises.** CivicPlus measures a
+  widget's container at runtime, and that one measurement leaked three ways: into a
+  `wide`/`narrow` class, into an `elementor-hidden-*` class, and into an `aria-hidden`
+  attribute via a broken template. Fixing the *class* churn did not fix the
+  *attribute* churn, which is why each had to be found by running the test again
+  rather than reasoned about once.
 
 ### Determinism test (must pass)
 
@@ -281,8 +288,9 @@ Measured, not assumed. Two consecutive full 8-worker runs over all **315 targets
 
 | run pair | body artifacts differing | what they were |
 |---|---|---|
-| first attempt, Texas rules only | **18 / 630** (7 counties) | eight distinct classes of markup churn — see [the table above](#eight-rules-added-for-florida) |
-| after adding the eight rules | **PLACEHOLDER_FINAL** | — |
+| Texas rules only | **18 / 630** (7 counties) | eight distinct classes of markup churn — see [the table above](#nine-rules-added-for-florida) |
+| after the first eight rules | **1 / 630** | Palm Beach's unrendered CivicPlus template expression (the ninth) |
+| after all nine rules | **0 / 630** | — |
 
 `page.txt` never differed in either pair: all the churn was in markup, which is why
 `page.txt` is the recommended starting point for reading diffs.
