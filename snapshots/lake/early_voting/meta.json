@@ -1,0 +1,19 @@
+{
+  "county": "Lake",
+  "page_type": "early_voting",
+  "requested_url": "https://www.lakevotes.gov/200/Early-Voting-Locations-Status",
+  "final_url": "https://www.lakevotes.gov/200/Early-Voting-Locations-Status",
+  "redirect_chain": [
+    "https://www.lakevotes.gov/200/Early-Voting-Locations-Status"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "e129f5f918d2bbc08c1fd9ce6ad0c5959b4405bb2e9e77ba815f492dde247d38",
+  "text_sha256": "71cddde0379d1df4c2034cef080ff54a7b805065ff620e46d85df193e9d124e8",
+  "byte_size": 48479,
+  "title": "Early Voting Locations & Status | Lake County Elections, FL",
+  "error": null
+}

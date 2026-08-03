@@ -1,0 +1,19 @@
+{
+  "county": "Highlands",
+  "page_type": "results",
+  "requested_url": "https://www.votehighlands.gov/elections-results",
+  "final_url": "https://www.votehighlands.gov/elections-results",
+  "redirect_chain": [
+    "https://www.votehighlands.gov/elections-results"
+  ],
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "5388f9952f5d57e7155055378504cf4743a2c757325e084a9455116bbe56e308",
+  "text_sha256": "70af9004f1e311621160134f0b6589386cf29b4b18eb565653579f8dd9bc4757",
+  "byte_size": 138297,
+  "title": "Elections Results | Highlands County Supervisor of Elections | Sebring, FL",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Citrus",
+  "page_type": "polling",
+  "requested_url": "https://www.votecitrus.gov/229/Precinct-Locations",
+  "final_url": "https://www.votecitrus.gov/229/Precinct-Locations",
+  "redirect_chain": [
+    "https://www.votecitrus.gov/229/Precinct-Locations"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "6c00eed4ce01c14cfa3e2afbc717875e282cab406e8cc9b6ca11541abac3b9d0",
+  "text_sha256": "0a20e51659fa65c70afa71f15ee8e37b83e25718d7ab1e7dfba8890031c1238e",
+  "byte_size": 107891,
+  "title": "Precinct Locations | Citrus County Elections, FL",
+  "error": null
+}

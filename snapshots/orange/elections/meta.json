@@ -1,0 +1,19 @@
+{
+  "county": "Orange",
+  "page_type": "elections",
+  "requested_url": "https://voteorangefl.gov/upcoming-elections/",
+  "final_url": "https://voteorangefl.gov/upcoming-elections/",
+  "redirect_chain": [
+    "https://voteorangefl.gov/upcoming-elections/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "e8d5093e76f71d7c84aeb545c2eb9273e271d1f1a82f017cc4d4a2943beb79e3",
+  "text_sha256": "99562397af4e0b38298f92284ec46c020af4885e5056e13c666d3343d28a1dbc",
+  "byte_size": 81039,
+  "title": "Upcoming Elections in Orange County Florida | 2025-2026 Schedule",
+  "error": null
+}

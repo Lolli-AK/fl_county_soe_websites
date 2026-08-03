@@ -1,0 +1,19 @@
+{
+  "county": "Glades",
+  "page_type": "homepage",
+  "requested_url": "https://voteglades.gov/",
+  "final_url": "https://voteglades.gov/",
+  "redirect_chain": [
+    "https://voteglades.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "00e39bae90f7dd99e7060f53b7bbda261052ff7c33d4788cc641b1b7227e4334",
+  "text_sha256": "f6eac49afee4f6a2ed1c0bf8f4ed9a69f7fe27b5d5a0577aa22df8dd0242e111",
+  "byte_size": 125567,
+  "title": "Glades, FL – Glades County Elections Website",
+  "error": null
+}

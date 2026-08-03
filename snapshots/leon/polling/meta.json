@@ -1,0 +1,19 @@
+{
+  "county": "Leon",
+  "page_type": "polling",
+  "requested_url": "https://www.leonvotes.gov/Registration/Check-Your-Info",
+  "final_url": "https://www.leonvotes.gov/Registration/Check-Your-Info",
+  "redirect_chain": [
+    "https://www.leonvotes.gov/Registration/Check-Your-Info"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "521623ce603fce873968100ce8210be2943802aa40871c41741355fafedd0431",
+  "text_sha256": "8fc0ea53b616fd17414608070dba36b34eb6d265015534fc41495b0d9d8b5d49",
+  "byte_size": 114452,
+  "title": "Check Your Info",
+  "error": null
+}

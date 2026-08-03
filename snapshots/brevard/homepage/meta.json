@@ -1,0 +1,19 @@
+{
+  "county": "Brevard",
+  "page_type": "homepage",
+  "requested_url": "https://www.votebrevard.gov",
+  "final_url": "https://www.votebrevard.gov",
+  "redirect_chain": [
+    "https://www.votebrevard.gov"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "4b4aa05640f4685243ac774f07d2f098dd197986088714eaafca7207765d4bfc",
+  "text_sha256": "1cedccbb4123c28df84ed71446e50a066a7c02fbbd06ea2accc68729aae5cf1d",
+  "byte_size": 156160,
+  "title": "Brevard County Supervisor of Elections",
+  "error": null
+}

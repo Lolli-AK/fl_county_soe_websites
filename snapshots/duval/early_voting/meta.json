@@ -1,0 +1,19 @@
+{
+  "county": "Duval",
+  "page_type": "early_voting",
+  "requested_url": "https://www.duvalelections.gov/236/Early-Voting",
+  "final_url": "https://www.duvalelections.gov/236/Early-Voting",
+  "redirect_chain": [
+    "https://www.duvalelections.gov/236/Early-Voting"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "207b8e9c82bbff96c20afa391e544ad00e4b685a48c9c2527d3e86c77635ee79",
+  "text_sha256": "14171fc5b6ce8d5d15ab4c1004e4902916feb61e69553c9ba78fe6d0ec3a24c1",
+  "byte_size": 69836,
+  "title": "Early Voting | Duval County Elections, FL Official Website",
+  "error": null
+}

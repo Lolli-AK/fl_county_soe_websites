@@ -1,0 +1,19 @@
+{
+  "county": "Hillsborough",
+  "page_type": "polling",
+  "requested_url": "https://www.votehillsborough.gov/159/Voting-Precincts",
+  "final_url": "https://www.votehillsborough.gov/159/Voting-Precincts",
+  "redirect_chain": [
+    "https://www.votehillsborough.gov/159/Voting-Precincts"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "e33d8bdef6c977bdebba434648c056708f6339a2ca5510d5acf998d045c63d0e",
+  "text_sha256": "120d5d5b5f93dbfa45490d7913e4d500ef97d710d7e8c43a795cead3d541f079",
+  "byte_size": 50074,
+  "title": "Voting Precincts | Hillsborough County Elections, FL",
+  "error": null
+}

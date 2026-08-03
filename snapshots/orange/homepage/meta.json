@@ -1,0 +1,19 @@
+{
+  "county": "Orange",
+  "page_type": "homepage",
+  "requested_url": "https://voteorangefl.gov/",
+  "final_url": "https://voteorangefl.gov/",
+  "redirect_chain": [
+    "https://voteorangefl.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "78e93a637916951954fd323abdfab315b521b142fa3857cc196ead56c1fdde0e",
+  "text_sha256": "bbb22a3100ea6006283010ac8b1c99d538f508981eaf3e86fb42d73c3d29be4c",
+  "byte_size": 126565,
+  "title": "Orange County Supervisor of Elections | Karen Castor Dentel | Florida",
+  "error": null
+}

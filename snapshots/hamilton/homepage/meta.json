@@ -1,0 +1,19 @@
+{
+  "county": "Hamilton",
+  "page_type": "homepage",
+  "requested_url": "https://www.hamiltonvotesfl.gov",
+  "final_url": "https://www.hamiltonvotesfl.gov",
+  "redirect_chain": [
+    "https://www.hamiltonvotesfl.gov"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "5e07c18f7508e2590dbbd3a2be9eaa016c2562a852b8498ea9b061516c589a6c",
+  "text_sha256": "974c019c1eeb324725a0ca8ee3181d45d19b897289bd4a390901c1d54d8f2814",
+  "byte_size": 83460,
+  "title": "Hamilton County Supervisor of Elections | Laura Hutto",
+  "error": null
+}

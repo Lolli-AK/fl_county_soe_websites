@@ -1,0 +1,19 @@
+{
+  "county": "Glades",
+  "page_type": "polling",
+  "requested_url": "https://voteglades.gov/voting-info/precinct-finder/",
+  "final_url": "https://voteglades.gov/voting-info/precinct-finder/",
+  "redirect_chain": [
+    "https://voteglades.gov/voting-info/precinct-finder/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "53c758285278893681b56f8c9e8157e7d36ebb54f4e9c9610c62e97e5e931b8c",
+  "text_sha256": "333112216a002b302069f756ec9a11b212e413e90972a607f4a85d41f3816d9b",
+  "byte_size": 61183,
+  "title": "Precinct Finder – Glades, FL",
+  "error": null
+}

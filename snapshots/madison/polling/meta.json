@@ -1,0 +1,19 @@
+{
+  "county": "Madison",
+  "page_type": "polling",
+  "requested_url": "https://www.votemadison.com/where-to-vote-in-person/",
+  "final_url": "https://www.votemadison.com/where-to-vote-in-person/",
+  "redirect_chain": [
+    "https://www.votemadison.com/where-to-vote-in-person/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "57d8c33e0387d9353344d396bbaf7f7adb5628d2dd5a8b6932716003274405bf",
+  "text_sha256": "b92083ea1dd7111fc6c390e4b8e7e96220ed2a9062c8de61b88a8ac020b118e7",
+  "byte_size": 61924,
+  "title": "Voting Locations | Madison County Supervisor of Elections",
+  "error": null
+}

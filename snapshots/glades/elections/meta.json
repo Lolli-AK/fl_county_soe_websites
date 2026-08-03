@@ -1,0 +1,19 @@
+{
+  "county": "Glades",
+  "page_type": "elections",
+  "requested_url": "https://voteglades.gov/voting-info/election-dates/",
+  "final_url": "https://voteglades.gov/voting-info/election-dates/",
+  "redirect_chain": [
+    "https://voteglades.gov/voting-info/election-dates/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "2c312f0c55a051926e93c75ba68d97c7f9838a8a8fade99f0d9a23487cf5ba0b",
+  "text_sha256": "6ea9f4483530983524909fdd1dd7ff9c57f9d03ef78c8a45e355c0b1dd708102",
+  "byte_size": 64372,
+  "title": "Election Dates – Glades, FL",
+  "error": null
+}

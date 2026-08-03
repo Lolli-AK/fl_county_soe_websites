@@ -1,0 +1,19 @@
+{
+  "county": "Bradford",
+  "page_type": "homepage",
+  "requested_url": "https://www.votebradfordfl.gov",
+  "final_url": "https://www.votebradfordfl.gov",
+  "redirect_chain": [
+    "https://www.votebradfordfl.gov"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "d1eecef86a7389edeca9ab11eeb1ea070737f248dcfae9537b40d05b4b543ecf",
+  "text_sha256": "4589452c73c0260419d6a670c75e92b6c1f1ae07c76b56c9912c4d69526ef5b8",
+  "byte_size": 41051,
+  "title": "Bradford County - Supervisor of Elections",
+  "error": null
+}

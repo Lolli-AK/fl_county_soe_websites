@@ -1,0 +1,19 @@
+{
+  "county": "Okaloosa",
+  "page_type": "elections",
+  "requested_url": "https://www.voteokaloosa.gov/elections/",
+  "final_url": "https://www.voteokaloosa.gov/elections/",
+  "redirect_chain": [
+    "https://www.voteokaloosa.gov/elections/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "95c1d3e43af5cded89812519d66460797d64ad02ecd00639ab6ade0b5fc7c0a5",
+  "text_sha256": "2fe0de8d11d26b746e09ad8ca72be697a0cf723c525f83fd46e0daa548c4e34c",
+  "byte_size": 66350,
+  "title": "Elections | Okaloosa County Supervisor of Elections",
+  "error": null
+}

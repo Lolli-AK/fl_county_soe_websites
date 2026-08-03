@@ -1,0 +1,19 @@
+{
+  "county": "Monroe",
+  "page_type": "elections",
+  "requested_url": "https://www.votemonroeflkeys.gov/Elections/Upcoming-Elections",
+  "final_url": "https://www.votemonroeflkeys.gov/Elections/Upcoming-Elections",
+  "redirect_chain": [
+    "https://www.votemonroeflkeys.gov/Elections/Upcoming-Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "9cc39f65adb2342275cbc01f33f3995a77fa2d9e438068e6a28a794eef6104f1",
+  "text_sha256": "a8ba9edafec91889389b567dca3545f72acb271564e790da8922525dd291efaf",
+  "byte_size": 95116,
+  "title": "Monroe County FL Supervisor of Elections > Elections > Upcoming Elections",
+  "error": null
+}

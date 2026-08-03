@@ -1,0 +1,1468 @@
+<!DOCTYPE html>
+<html lang="en-US">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="/app.webmanifest" rel="manifest"/>
+  <title>
+   Supervisor of Elections | Taylor County, Florida
+  </title>
+  <meta content="max-image-preview:large" name="robots"/>
+  <link href="https://www.taylorelectionsfl.gov/wordpress/xmlrpc.php?rsd=" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="https://www.taylorelectionsfl.gov/" rel="shortlink"/>
+  <link href="https://www.taylorelectionsfl.gov/" rel="canonical"/>
+  <meta content="Taylor County FL Elections: Check status, register, update info, request ballots, find dates, and get help in English or Spanish." name="description"/>
+  <meta content="website" property="og:type"/>
+  <meta content="https://www.taylorelectionsfl.gov/" property="og:url"/>
+  <meta content="Supervisor of Elections | Taylor County, Florida" property="og:title"/>
+  <meta content="Taylor County FL Elections: Check status, register, update info, request ballots, find dates, and get help in English or Spanish." property="og:description"/>
+  <meta content="https://taylor-soe.s3.amazonaws.com/uploads/2025/04/25101844/Team-Photo-cropped.webp" property="og:image"/>
+  <meta content="1776" property="og:image:width"/>
+  <meta content="1155" property="og:image:height"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="Supervisor of Elections | Taylor County, Florida" name="twitter:title"/>
+  <meta content="Taylor County FL Elections: Check status, register, update info, request ballots, find dates, and get help in English or Spanish." name="twitter:description"/>
+  <meta content="https://taylor-soe.s3.amazonaws.com/uploads/2025/04/25101844/Team-Photo-cropped.webp" name="twitter:image"/>
+ </head>
+ <body class="home wp-singular page-template-default page page-id-6 wp-theme-kmatailwind">
+  <div id="app">
+   <div class="fixed inset-0 z-40 bg-gray-900/30 backdrop-blur-sm overflow-hidden" v-cloak="" v-if="isHovered">
+   </div>
+   <main aria-label="main section" class="w-full font-sans text-base antialiased overflow-hidden" role="main">
+    <a class="absolute -top-40 focus:top-2 left-2 h-auto w-auto px-4 py-2 bg-white border rounded text-gray-900 font-bold focus:border-4 z-[100]" href="#content">
+     Skip to content
+    </a>
+    <header class="transition-all duration-700 flex flex-col lg:flex-wrap w-full fixed z-50 bg-white shadow-lg border-b-[10px] border-accent">
+     <div class="relative z-20 w-full">
+      <div :class="{
+        'h-28 md:h-32 lg:h-32': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+        'h-16 md:h-28 lg:h-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+      }" class="transition-all flex flex-col" v-cloak="">
+       <div :class="{ '-mt-12 2xl:-mt-14': scrollPosition &gt; 0 || openMenu == 'mobileMenu' }" class="bg-primary-dark h-12 2xl:h-14 w-full flex justify-end relative z-20 transition-all">
+        <div class="w-full sm:max-w-[220px] h-full">
+         <div class="w-full h-full" id="google_translate_element">
+         </div>
+        </div>
+        <div class="hidden h-12 2xl:h-14 sm:flex bg-secondary-light">
+         <form action="/" class="flex h-12 overflow-visible w-full border-none bg-secondary-light" method="get" role="search">
+          <input aria-label="Enter words to search for" class="font-medium placeholder:font-sans placeholder:text-primary-dark/80 placeholder:italic text-sm border-none h-12 2xl:h-14 px-4 flex-grow bg-[#F3F3F3] focus:bg-white focus:text-gray-800 focus-within:outline-primary/50 focus-within:rounded-none 2xl:w-[240px]" id="searchfield" name="s" placeholder="Search this website" ref="searchfield" type="text" value=""/>
+          <button class="text-white bg-accent flex h-12 w-12 2xl:w-14 2xl:h-14 items-center justify-center" type="submit">
+           <span class="sr-only">
+            Search Website
+           </span>
+          </button>
+         </form>
+        </div>
+       </div>
+       <div class="flex md:order-1 gap-4">
+        <a :class="{
+          'h-16 md:h-32 md:-mt-12 lg:h-32 2xl:-mt-14': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+          'h-16 md:h-28 lg:h-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+        }" class="flex lg:bg-white lg:relative lg:z-20" href="/">
+         <img alt="photo of Dana Southerland, Supervisor of Elections" class="block h-full w-auto transition-all relative z-20" height="144px" src="/images/soe-headshot.webp" width="126px"/>
+         <div :class="{
+            'md:pt-12': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+            'md:pt-0 lg:py-2': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+          }" class="my-auto transition-all p-1 lg:pt-0 lg:pr-8">
+          <img :class="{
+                'xl:h-20 2xl:w-[465px]': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+                '': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+              }" alt="Taylor County Supervisor of Elections" class="block mr-auto xl:max-w-lg max-h-full xl:my-auto h-12 md:h-14 lg:h-16 w-auto ml-0" height="92px" src="/images/soe-logo.svg" width="491px"/>
+         </div>
+        </a>
+        <div class="flex xl:hidden my-auto sm:px-4 md:px-8 ml-auto">
+         <div @click="toggleMenu('mobileMenu')" class="flex gap-4 px-4 items-center leading-none text-lg justify-center cursor-pointer group h-16 sm:h-12 text-primary-dark bg-gray-100 dark:border-white font-condensed font-extrabold hover:bg-secondary-lighter transition-all duration-300" tabindex="0" v-cloak="">
+          <span class="hidden sm:flex pb-1">
+           MENU
+          </span>
+          <div v-if="openMenu != 'mobileMenu'">
+          </div>
+          <div v-if="openMenu == 'mobileMenu'">
+          </div>
+         </div>
+        </div>
+        <div class="hidden xl:flex justify-end grow">
+         <div @mouseenter="isHovered = true" @mouseleave="isHovered = false" class="hidden w-auto h-full xl:flex static transition-all duration-300 px-4 xl:px-8" v-cloak="">
+          <div class="group h-full">
+           <a class="nav-link" href="https://www.taylorelectionsfl.gov/" role="button" tabindex="0" target="">
+            <span>
+             Home
+            </span>
+           </a>
+          </div>
+          <div class="group h-full">
+           <a class="nav-link" role="button" tabindex="0">
+            <span>
+             Voters
+            </span>
+           </a>
+           <div class="mega-menu-container transition-all duration-300">
+            <div class="mega-menu-grid relative dark">
+             <div class="relative z-20 px-4 col-span-1 py-8">
+              <p class="mega-menu-title" tabindex="0">
+               Voters
+              </p>
+             </div>
+             <div class="relative z-20 col-span-3 p-8 bg-gray-950/30 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12">
+              <div class="relative">
+               <a class="group no-underline block" role="button" tabindex="0">
+                <span class="mega-menu-child-title">
+                 Ways to Vote
+                </span>
+               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/vote-on-election-day/" role="button" tabindex="0" target="">
+                 <span>
+                  Vote on Election Day
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/early-voting/" role="button" tabindex="0" target="">
+                 <span>
+                  Vote Early
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/vote-by-mail/" role="button" tabindex="0" target="">
+                 <span>
+                  Vote by Mail
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/mail-ballot-request-service/" role="button" tabindex="0" target="">
+                 <span>
+                  Request Mail Ballot
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://files.floridados.gov/media/700479/dsde-139-eng-07-2019.pdf" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Vote-by-Mail Cure Affidavit
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a class="mega-menu-child-link" href="https://files.floridados.gov/media/708151/ds-de-162-eng-statewide-vote-by-mail-delivery-affidavit-form-final-adopted-eng-202405-fillable-pm.pdf" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Form for Personal Delivery of Vote-by-Mail Ballot
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.fvap.gov/" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Military &amp; Overseas Voters Vote-by-Mail Request
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+               </div>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" role="button" tabindex="0">
+                <span class="mega-menu-child-title">
+                 Voting Tools &amp; Resources
+                </span>
+               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a class="mega-menu-child-link" href="https://registertovoteflorida.gov/home" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Register to Vote
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/check-voter-status/" role="button" tabindex="0" target="">
+                 <span>
+                  Check Voter Status
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/where-to-vote-in-person/" role="button" tabindex="0" target="">
+                 <span>
+                  Where to Vote in Person
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/update-my-info/" role="button" tabindex="0" target="">
+                 <span>
+                  Update My Info
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/signature-update/" role="button" tabindex="0" target="">
+                 <span>
+                  Signature Update
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/sample-ballot/" role="button" tabindex="0" target="">
+                 <span>
+                  Sample Ballot
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/track-my-ballot/" role="button" tabindex="0" target="">
+                 <span>
+                  Track My Ballot
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/note-to-college-students/" role="button" tabindex="0" target="">
+                 <span>
+                  Note to College Students
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/voter-rights-and-responsibilities/" role="button" tabindex="0" target="">
+                 <span>
+                  Voter Rights &amp; Responsibilities
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://dos.fl.gov/elections/for-voters/voter-registration/felon-voting-rights/" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Felon Voting Rights
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+               </div>
+              </div>
+             </div>
+             <div class="absolute z-0 inset-0 opacity-50 bg-bottom bg-no-repeat bg-blend-multiply">
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="group h-full">
+           <a class="nav-link" role="button" tabindex="0">
+            <span>
+             Elections
+            </span>
+           </a>
+           <div class="mega-menu-container transition-all duration-300">
+            <div class="mega-menu-grid relative dark">
+             <div class="relative z-20 px-4 col-span-1 py-8">
+              <p class="mega-menu-title" tabindex="0">
+               Elections
+              </p>
+             </div>
+             <div class="relative z-20 col-span-3 p-8 bg-gray-950/30 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12">
+              <div class="relative">
+               <a class="group no-underline block" role="button" tabindex="0">
+                <span class="mega-menu-child-title">
+                 Current &amp; Upcoming Elections
+                </span>
+               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/election-results/" role="button" tabindex="0" target="">
+                 <span>
+                  Election Results
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/events/" role="button" tabindex="0" target="">
+                 <span>
+                  Events &amp; Dates to Remember
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/scheduled-races-for-2026/" role="button" tabindex="0" target="">
+                 <span>
+                  Scheduled Races for 2026
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://dos.fl.gov/elections/for-voters/voter-registration/closed-primary-elections/" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Florida's Closed Primary Elections
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a class="mega-menu-child-link" href="https://dos.fl.gov/elections" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Florida Division of Elections
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/facts-about-florida-elections/" role="button" tabindex="0" target="">
+                 <span>
+                  Facts About Florida Elections
+                 </span>
+                </a>
+               </div>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" role="button" tabindex="0">
+                <span class="mega-menu-child-title">
+                 At The Polls
+                </span>
+               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/poll-worker-information/" role="button" tabindex="0" target="">
+                 <span>
+                  Poll Worker Information
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/poll-watchers/" role="button" tabindex="0" target="">
+                 <span>
+                  Poll Watchers
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/taylor-countys-voting-system/" role="button" tabindex="0" target="">
+                 <span>
+                  Taylor County’s Voting System
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/election-security/" role="button" tabindex="0" target="">
+                 <span>
+                  Election Security
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/initiative-petitions/" role="button" tabindex="0" target="">
+                 <span>
+                  Initiative Petitions
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/provisional-ballot-information/" role="button" tabindex="0" target="">
+                 <span>
+                  Provisional Ballot Information
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://files.floridados.gov/media/701639/dsde210.pdf" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Affidavit for Provisional Ballot Cure
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+               </div>
+              </div>
+             </div>
+             <div class="absolute z-0 inset-0 opacity-50 bg-bottom bg-no-repeat bg-blend-multiply">
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="group h-full">
+           <a class="nav-link" role="button" tabindex="0">
+            <span>
+             Candidates
+            </span>
+           </a>
+           <div class="mega-menu-container transition-all duration-300">
+            <div class="mega-menu-grid relative dark">
+             <div class="relative z-20 px-4 col-span-1 py-8">
+              <p class="mega-menu-title" tabindex="0">
+               Candidates
+              </p>
+             </div>
+             <div class="relative z-20 col-span-3 p-8 bg-gray-950/30 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12">
+              <div class="relative">
+               <a class="group no-underline block" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title">
+                 Candidate Information
+                </span>
+               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/how-to-become-a-candidate/" role="button" tabindex="0" target="">
+                 <span>
+                  How to Become a Candidate
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/how-to-run-for-office/" role="button" tabindex="0" target="">
+                 <span>
+                  How to Run for Office
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/2026-filed-candidates/" role="button" tabindex="0" target="">
+                 <span>
+                  2026 Filed Candidates
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://dos.fl.gov/elections/forms-publications/forms/" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Candidate Forms
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.voterfocus.com/candidatefiledistribution/CandFileAccess.php?CountyID=taylor" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Candidate File Access
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/taylor-countys-designated-qualifying-office/" role="button" tabindex="0" target="">
+                 <span>
+                  Taylor County’s Designated Qualifying Office
+                 </span>
+                </a>
+               </div>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title">
+                 Campaign Finance &amp; Reporting
+                </span>
+               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/ballot-material-inspection/" role="button" tabindex="0" target="">
+                 <span>
+                  Ballot Material Inspection
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.voterfocus.com/CampaignFinance/candidate_login.php?county=taylor" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Login to Finance Reporting
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=taylor" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Candidate Profiles &amp; Financial Reports
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/campaign-finance-deadlines/" role="button" tabindex="0" target="">
+                 <span>
+                  Calendar of Reporting Dates
+                 </span>
+                </a>
+               </div>
+              </div>
+             </div>
+             <div class="absolute z-0 inset-0 opacity-50 bg-bottom bg-no-repeat bg-blend-multiply">
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="group h-full">
+           <a class="nav-link" role="button" tabindex="0">
+            <span>
+             Resources
+            </span>
+           </a>
+           <div class="mega-menu-container transition-all duration-300">
+            <div class="mega-menu-grid relative dark">
+             <div class="relative z-20 px-4 col-span-1 py-8">
+              <p class="mega-menu-title" tabindex="0">
+               Resources
+              </p>
+             </div>
+             <div class="relative z-20 col-span-3 p-8 bg-gray-950/30 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12">
+              <div class="relative">
+               <a class="group no-underline block" role="button" tabindex="0">
+                <span class="mega-menu-child-title">
+                 Your Elected Officals
+                </span>
+               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/contact-your-federal-officials/" role="button" tabindex="0" target="">
+                 <span>
+                  Federal Officials
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/contact-your-state-officials/" role="button" tabindex="0" target="">
+                 <span>
+                  State Officials
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/contact-taylor-county-officials/" role="button" tabindex="0" target="">
+                 <span>
+                  Taylor County Officials
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/contact-taylor-county-commissioners/" role="button" tabindex="0" target="">
+                 <span>
+                  Taylor County Commissioners
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/contact-city-officials/" role="button" tabindex="0" target="">
+                 <span>
+                  City Officials
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/contact-taylor-county-school-officials/" role="button" tabindex="0" target="">
+                 <span>
+                  Taylor County School Officials
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/contact-the-third-judicial-circuit-of-florida/" role="button" tabindex="0" target="">
+                 <span>
+                  Third Judicial Circuit of Florida
+                 </span>
+                </a>
+               </div>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" role="button" tabindex="0">
+                <span class="mega-menu-child-title">
+                 Records
+                </span>
+               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/public-records-request/" role="button" tabindex="0" target="">
+                 <span>
+                  Public Records Request
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://files.floridados.gov/media/695951/address-confidentiality-exemption-form-07-2025.pdf" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Public Records Exemption Request
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a class="mega-menu-child-link" href="https://taylor-soe.s3.amazonaws.com/uploads/2026/03/09160031/Request-for-RANDOM-or-Removal-From-FVRS.pdf" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Request for Cancellation &amp; Removal from the Voter Registration System
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a class="mega-menu-child-link" href="https://qpublic.schneidercorp.com/Application.aspx?AppID=792&amp;LayerID=11749&amp;PageTypeID=1" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Precinct Boundary Map
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+               </div>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" role="button" tabindex="0">
+                <span class="mega-menu-child-title">
+                 General Info
+                </span>
+               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/third-party-registration-organization/" role="button" tabindex="0" target="">
+                 <span>
+                  Third Party Registration Organization
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/announcements/" role="button" tabindex="0" target="">
+                 <span>
+                  Notices &amp; Announcements
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/meet-your-supervisor/" role="button" tabindex="0" target="">
+                 <span>
+                  Meet Your Supervisor
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/duties-of-the-supervisor/" role="button" tabindex="0" target="">
+                 <span>
+                  Duties of the Supervisor
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/vote-in-honor-of-a-veteran/" role="button" tabindex="0" target="">
+                 <span>
+                  Vote in Honor of a Veteran Program
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.taylorelectionsfl.gov/text-notification-sign-up/" role="button" tabindex="0" target="">
+                 <span>
+                  Text Notification Sign Up
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://dos.fl.gov/elections/contacts/frequently-asked-questions/" role="button" tabindex="0" target="_blank">
+                 <span>
+                  FAQs
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+               </div>
+              </div>
+             </div>
+             <div class="absolute z-0 inset-0 opacity-50 bg-bottom bg-no-repeat bg-blend-multiply">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </header>
+    <div :class="{
+    '-translate-y-full lg:translate-y-0 lg:translate-x-full': openMenu != 'mobileMenu',
+    'translate-y-none lg:translate-x-none': openMenu == 'mobileMenu',
+  }" class="fixed xl:hidden w-full h-screen bg-cover bg-primary-dark/90 backdrop-blur-xl z-40 shadow-2xl items-center transition-all duration-500 lg:max-w-sm lg:border-l-2 mt-auto lg:right-0 border-primary top-0 dark" tabindex="0" v-cloak="">
+     <div class="h-full overflow-y-auto relative z-20">
+      <div class="pt-28 md:pt-40 px-6">
+       <form action="/" class="flex h-12 overflow-visible w-full border-none bg-secondary-light" method="get" role="search">
+        <input aria-label="Enter words to search for" class="font-medium placeholder:font-sans placeholder:text-primary-dark/80 placeholder:italic text-sm border-none h-12 2xl:h-14 px-4 flex-grow bg-[#F3F3F3] focus:bg-white focus:text-gray-800 focus-within:outline-primary/50 focus-within:rounded-none 2xl:w-[240px]" id="searchfield" name="s" placeholder="Search this website" ref="searchfield" type="text" value=""/>
+        <button class="text-white bg-accent flex h-12 w-12 2xl:w-14 2xl:h-14 items-center justify-center" type="submit">
+         <span class="sr-only">
+          Search Website
+         </span>
+        </button>
+       </form>
+      </div>
+      <nav class="pb-24 pt-8" v-if="openMenu == 'mobileMenu'">
+       <div class="w-full px-6">
+        <div class="flex items-center pt-3 pb-2 gap-8 border-b border-white/10 w-full">
+         <a class="mobile-nav-link dark" href="https://www.taylorelectionsfl.gov/" title="Home">
+          Home
+         </a>
+        </div>
+       </div>
+       <div class="w-full px-6">
+        <div class="flex items-center pt-3 pb-2 gap-8 border-b border-white/10 w-full">
+         <span @click="openSubMenu(1)" class="mobile-nav-item">
+          Voters
+         </span>
+         <span @click="openSubMenu(1)" class="grow flex">
+          <span :class="{
+                    'rotate-45': !subMenus.includes(1)
+                  }" class="transition w-8 h-8 flex justify-center items-center flex-none rounded-full border border-white/30 ml-auto">
+          </span>
+         </span>
+        </div>
+        <div class="flex flex-col pt-4 pb-6 px-3 transition" v-if="subMenus.includes(1)">
+         <a class="mobile-nav-child text-pretty" href="" title="Voters">
+          Ways to Vote
+         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/vote-on-election-day/">
+           Vote on Election Day
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/early-voting/">
+           Vote Early
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/vote-by-mail/">
+           Vote by Mail
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/mail-ballot-request-service/">
+           Request Mail Ballot
+          </a>
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://files.floridados.gov/media/700479/dsde-139-eng-07-2019.pdf" target="_blank">
+           Vote-by-Mail Cure Affidavit
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://files.floridados.gov/media/708151/ds-de-162-eng-statewide-vote-by-mail-delivery-affidavit-form-final-adopted-eng-202405-fillable-pm.pdf" target="_blank">
+           Form for Personal Delivery of Vote-by-Mail Ballot
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://www.fvap.gov/" target="_blank">
+           Military &amp; Overseas Voters Vote-by-Mail Request
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+         </div>
+         <a class="mobile-nav-child text-pretty" href="" title="Voters">
+          Voting Tools &amp; Resources
+         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://registertovoteflorida.gov/home" target="_blank">
+           Register to Vote
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/check-voter-status/">
+           Check Voter Status
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/where-to-vote-in-person/">
+           Where to Vote in Person
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/update-my-info/">
+           Update My Info
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/signature-update/">
+           Signature Update
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/sample-ballot/">
+           Sample Ballot
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/track-my-ballot/">
+           Track My Ballot
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/note-to-college-students/">
+           Note to College Students
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/voter-rights-and-responsibilities/">
+           Voter Rights &amp; Responsibilities
+          </a>
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://dos.fl.gov/elections/for-voters/voter-registration/felon-voting-rights/" target="_blank">
+           Felon Voting Rights
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="w-full px-6">
+        <div class="flex items-center pt-3 pb-2 gap-8 border-b border-white/10 w-full">
+         <span @click="openSubMenu(2)" class="mobile-nav-item">
+          Elections
+         </span>
+         <span @click="openSubMenu(2)" class="grow flex">
+          <span :class="{
+                    'rotate-45': !subMenus.includes(2)
+                  }" class="transition w-8 h-8 flex justify-center items-center flex-none rounded-full border border-white/30 ml-auto">
+          </span>
+         </span>
+        </div>
+        <div class="flex flex-col pt-4 pb-6 px-3 transition" v-if="subMenus.includes(2)">
+         <a class="mobile-nav-child text-pretty" href="" title="Elections">
+          Current &amp; Upcoming Elections
+         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/election-results/">
+           Election Results
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/events/">
+           Events &amp; Dates to Remember
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/scheduled-races-for-2026/">
+           Scheduled Races for 2026
+          </a>
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://dos.fl.gov/elections/for-voters/voter-registration/closed-primary-elections/" target="_blank">
+           Florida's Closed Primary Elections
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://dos.fl.gov/elections" target="_blank">
+           Florida Division of Elections
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/facts-about-florida-elections/">
+           Facts About Florida Elections
+          </a>
+         </div>
+         <a class="mobile-nav-child text-pretty" href="" title="Elections">
+          At The Polls
+         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/poll-worker-information/">
+           Poll Worker Information
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/poll-watchers/">
+           Poll Watchers
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/taylor-countys-voting-system/">
+           Taylor County’s Voting System
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/election-security/">
+           Election Security
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/initiative-petitions/">
+           Initiative Petitions
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/provisional-ballot-information/">
+           Provisional Ballot Information
+          </a>
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://files.floridados.gov/media/701639/dsde210.pdf" target="_blank">
+           Affidavit for Provisional Ballot Cure
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="w-full px-6">
+        <div class="flex items-center pt-3 pb-2 gap-8 border-b border-white/10 w-full">
+         <span @click="openSubMenu(3)" class="mobile-nav-item">
+          Candidates
+         </span>
+         <span @click="openSubMenu(3)" class="grow flex">
+          <span :class="{
+                    'rotate-45': !subMenus.includes(3)
+                  }" class="transition w-8 h-8 flex justify-center items-center flex-none rounded-full border border-white/30 ml-auto">
+          </span>
+         </span>
+        </div>
+        <div class="flex flex-col pt-4 pb-6 px-3 transition" v-if="subMenus.includes(3)">
+         <a class="mobile-nav-child text-pretty" href="#" title="Candidates">
+          Candidate Information
+         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/how-to-become-a-candidate/">
+           How to Become a Candidate
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/how-to-run-for-office/">
+           How to Run for Office
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/2026-filed-candidates/">
+           2026 Filed Candidates
+          </a>
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://dos.fl.gov/elections/forms-publications/forms/" target="_blank">
+           Candidate Forms
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://www.voterfocus.com/candidatefiledistribution/CandFileAccess.php?CountyID=taylor" target="_blank">
+           Candidate File Access
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/taylor-countys-designated-qualifying-office/">
+           Taylor County’s Designated Qualifying Office
+          </a>
+         </div>
+         <a class="mobile-nav-child text-pretty" href="#" title="Candidates">
+          Campaign Finance &amp; Reporting
+         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/ballot-material-inspection/">
+           Ballot Material Inspection
+          </a>
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://www.voterfocus.com/CampaignFinance/candidate_login.php?county=taylor" target="_blank">
+           Login to Finance Reporting
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=taylor" target="_blank">
+           Candidate Profiles &amp; Financial Reports
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/campaign-finance-deadlines/">
+           Calendar of Reporting Dates
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="w-full px-6">
+        <div class="flex items-center pt-3 pb-2 gap-8 border-b border-white/10 w-full">
+         <span @click="openSubMenu(4)" class="mobile-nav-item">
+          Resources
+         </span>
+         <span @click="openSubMenu(4)" class="grow flex">
+          <span :class="{
+                    'rotate-45': !subMenus.includes(4)
+                  }" class="transition w-8 h-8 flex justify-center items-center flex-none rounded-full border border-white/30 ml-auto">
+          </span>
+         </span>
+        </div>
+        <div class="flex flex-col pt-4 pb-6 px-3 transition" v-if="subMenus.includes(4)">
+         <a class="mobile-nav-child text-pretty" href="" title="Resources">
+          Your Elected Officals
+         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/contact-your-federal-officials/">
+           Federal Officials
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/contact-your-state-officials/">
+           State Officials
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/contact-taylor-county-officials/">
+           Taylor County Officials
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/contact-taylor-county-commissioners/">
+           Taylor County Commissioners
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/contact-city-officials/">
+           City Officials
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/contact-taylor-county-school-officials/">
+           Taylor County School Officials
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/contact-the-third-judicial-circuit-of-florida/">
+           Third Judicial Circuit of Florida
+          </a>
+         </div>
+         <a class="mobile-nav-child text-pretty" href="" title="Resources">
+          Records
+         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/public-records-request/">
+           Public Records Request
+          </a>
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://files.floridados.gov/media/695951/address-confidentiality-exemption-form-07-2025.pdf" target="_blank">
+           Public Records Exemption Request
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://taylor-soe.s3.amazonaws.com/uploads/2026/03/09160031/Request-for-RANDOM-or-Removal-From-FVRS.pdf" target="_blank">
+           Request for Cancellation &amp; Removal from the Voter Registration System
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://qpublic.schneidercorp.com/Application.aspx?AppID=792&amp;LayerID=11749&amp;PageTypeID=1" target="_blank">
+           Precinct Boundary Map
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+         </div>
+         <a class="mobile-nav-child text-pretty" href="" title="Resources">
+          General Info
+         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/third-party-registration-organization/">
+           Third Party Registration Organization
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/announcements/">
+           Notices &amp; Announcements
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/meet-your-supervisor/">
+           Meet Your Supervisor
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/duties-of-the-supervisor/">
+           Duties of the Supervisor
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/vote-in-honor-of-a-veteran/">
+           Vote in Honor of a Veteran Program
+          </a>
+          <a class="mobile-nav-grandchild text-pretty" href="https://www.taylorelectionsfl.gov/text-notification-sign-up/">
+           Text Notification Sign Up
+          </a>
+          <a class="mobile-nav-grandchild text-pretty gap-2" href="https://dos.fl.gov/elections/contacts/frequently-asked-questions/" target="_blank">
+           FAQs
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+         </div>
+        </div>
+       </div>
+      </nav>
+     </div>
+    </div>
+    <div :class="{
+    'top-44': scrollPosition &lt;= 0,
+    'top-28': scrollPosition &gt; 0
+  }" class="block sm:hidden w-full right-0 left-0 fixed z-50 backdrop-blur-lg h-auto bg-primary-dark mt-2" v-cloak="" v-if="openMenu == 'searchMenu'">
+     <div class="p-2">
+      <form action="/" class="flex h-12 overflow-visible w-full border-none bg-secondary-light" method="get" role="search">
+       <input aria-label="Enter words to search for" class="font-medium placeholder:font-sans placeholder:text-primary-dark/80 placeholder:italic text-sm border-none h-12 2xl:h-14 px-4 flex-grow bg-[#F3F3F3] focus:bg-white focus:text-gray-800 focus-within:outline-primary/50 focus-within:rounded-none 2xl:w-[240px]" id="searchfield" name="s" placeholder="Search this website" ref="searchfield" type="text" value=""/>
+       <button class="text-white bg-accent flex h-12 w-12 2xl:w-14 2xl:h-14 items-center justify-center" type="submit">
+        <span class="sr-only">
+         Search Website
+        </span>
+       </button>
+      </form>
+     </div>
+    </div>
+    <div aria-label="Page content" class="bg-white static" id="content" role="region">
+     <div aria-label="main section" class="bg-secondary-light" role="main">
+      <section class="w-full h-[52vh] lg:h-[87vh] relative z-10 transition-all duration-1000 grow bg-gray-100">
+       <div :class="{
+  'pt-28 sm:pt-28 md:pt-32 lg:pt-32': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+  'pt-28 sm:pt-20 md:pt-28 lg:pt-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+}" class="w-full relative z-20 border-b-4 border-white" v-cloak="">
+        <alerts>
+        </alerts>
+       </div>
+       <div class="absolute w-full h-[500px] md:h-[60vh] lg:h-screen top-0 z-0 transition-all duration-500">
+        <div alt="Seagulls flocking on the beach over the water." aria-label="Seagulls flocking on the beach over the water. – Decorative header image" class="w-full h-full lg:hidden bg-cover bg-center z-0 bg-gray-800" role="img">
+        </div>
+        <div alt="Seagulls flocking on the beach over the water. – Decorative header image" aria-label="Seagulls flocking on the beach over the water. – Decorative header image" class="w-full h-full hidden lg:block bg-cover bg-center z-0 bg-gray-900" role="img">
+        </div>
+        <slider :images='[{"ID":743,"id":743,"title":"slider-1-compressed","filename":"slider-1-compressed.webp","filesize":500954,"url":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145856\/slider-1-compressed.webp","link":"https:\/\/www.taylorelectionsfl.gov\/home\/slider-1-compressed\/","alt":"Seagulls flocking on the beach over the water.","author":"1","description":"","caption":"","name":"slider-1-compressed","status":"inherit","uploaded_to":6,"date":"2025-04-22 19:58:54","modified":"2026-02-17 22:53:07","menu_order":0,"mime_type":"image\/webp","type":"image","subtype":"webp","icon":"https:\/\/www.taylorelectionsfl.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":2400,"height":1600,"sizes":{"thumbnail":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145856\/slider-1-compressed-300x300.webp","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145856\/slider-1-compressed-600x400.webp","medium-width":600,"medium-height":400,"medium_large":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145856\/slider-1-compressed-768x512.webp","medium_large-width":768,"medium_large-height":512,"large":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145856\/slider-1-compressed-1200x800.webp","large-width":1200,"large-height":800,"1536x1536":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145856\/slider-1-compressed-1536x1024.webp","1536x1536-width":1536,"1536x1536-height":1024,"2048x2048":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145856\/slider-1-compressed-2048x1365.webp","2048x2048-width":2048,"2048x2048-height":1365}},{"ID":745,"id":745,"title":"slider-4-compressed","filename":"slider-4-compressed.webp","filesize":409642,"url":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145905\/slider-4-compressed.webp","link":"https:\/\/www.taylorelectionsfl.gov\/slider-4-compressed\/","alt":"A bucket of handheld American Flags.","author":"1","description":"","caption":"","name":"slider-4-compressed","status":"inherit","uploaded_to":0,"date":"2025-04-22 19:59:02","modified":"2026-02-17 22:52:12","menu_order":0,"mime_type":"image\/webp","type":"image","subtype":"webp","icon":"https:\/\/www.taylorelectionsfl.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":2400,"height":1800,"sizes":{"thumbnail":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145905\/slider-4-compressed-300x300.webp","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145905\/slider-4-compressed-600x450.webp","medium-width":600,"medium-height":450,"medium_large":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145905\/slider-4-compressed-768x576.webp","medium_large-width":768,"medium_large-height":576,"large":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145905\/slider-4-compressed-1200x900.webp","large-width":1200,"large-height":900,"1536x1536":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145905\/slider-4-compressed-1536x1152.webp","1536x1536-width":1536,"1536x1536-height":1152,"2048x2048":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145905\/slider-4-compressed-2048x1536.webp","2048x2048-width":2048,"2048x2048-height":1536}},{"ID":744,"id":744,"title":"slider-3-compressed","filename":"slider-3-compressed.webp","filesize":148486,"url":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145900\/slider-3-compressed.webp","link":"https:\/\/www.taylorelectionsfl.gov\/slider-3-compressed\/","alt":"Sunset over the water.","author":"1","description":"","caption":"","name":"slider-3-compressed","status":"inherit","uploaded_to":0,"date":"2025-04-22 19:58:58","modified":"2026-02-17 22:52:22","menu_order":0,"mime_type":"image\/webp","type":"image","subtype":"webp","icon":"https:\/\/www.taylorelectionsfl.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":2048,"height":1152,"sizes":{"thumbnail":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145900\/slider-3-compressed-300x300.webp","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145900\/slider-3-compressed-600x338.webp","medium-width":600,"medium-height":338,"medium_large":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145900\/slider-3-compressed-768x432.webp","medium_large-width":768,"medium_large-height":432,"large":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145900\/slider-3-compressed-1200x675.webp","large-width":1200,"large-height":675,"1536x1536":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145900\/slider-3-compressed-1536x864.webp","1536x1536-width":1536,"1536x1536-height":864,"2048x2048":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145900\/slider-3-compressed.webp","2048x2048-width":2048,"2048x2048-height":1152}}]' class="absolute top-0 w-full h-full lg:hidden z-10">
+        </slider>
+        <slider :images='[{"ID":743,"id":743,"title":"slider-1-compressed","filename":"slider-1-compressed.webp","filesize":500954,"url":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145856\/slider-1-compressed.webp","link":"https:\/\/www.taylorelectionsfl.gov\/home\/slider-1-compressed\/","alt":"Seagulls flocking on the beach over the water.","author":"1","description":"","caption":"","name":"slider-1-compressed","status":"inherit","uploaded_to":6,"date":"2025-04-22 19:58:54","modified":"2026-02-17 22:53:07","menu_order":0,"mime_type":"image\/webp","type":"image","subtype":"webp","icon":"https:\/\/www.taylorelectionsfl.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":2400,"height":1600,"sizes":{"thumbnail":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145856\/slider-1-compressed-300x300.webp","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145856\/slider-1-compressed-600x400.webp","medium-width":600,"medium-height":400,"medium_large":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145856\/slider-1-compressed-768x512.webp","medium_large-width":768,"medium_large-height":512,"large":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145856\/slider-1-compressed-1200x800.webp","large-width":1200,"large-height":800,"1536x1536":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145856\/slider-1-compressed-1536x1024.webp","1536x1536-width":1536,"1536x1536-height":1024,"2048x2048":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145856\/slider-1-compressed-2048x1365.webp","2048x2048-width":2048,"2048x2048-height":1365}},{"ID":745,"id":745,"title":"slider-4-compressed","filename":"slider-4-compressed.webp","filesize":409642,"url":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145905\/slider-4-compressed.webp","link":"https:\/\/www.taylorelectionsfl.gov\/slider-4-compressed\/","alt":"A bucket of handheld American Flags.","author":"1","description":"","caption":"","name":"slider-4-compressed","status":"inherit","uploaded_to":0,"date":"2025-04-22 19:59:02","modified":"2026-02-17 22:52:12","menu_order":0,"mime_type":"image\/webp","type":"image","subtype":"webp","icon":"https:\/\/www.taylorelectionsfl.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":2400,"height":1800,"sizes":{"thumbnail":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145905\/slider-4-compressed-300x300.webp","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145905\/slider-4-compressed-600x450.webp","medium-width":600,"medium-height":450,"medium_large":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145905\/slider-4-compressed-768x576.webp","medium_large-width":768,"medium_large-height":576,"large":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145905\/slider-4-compressed-1200x900.webp","large-width":1200,"large-height":900,"1536x1536":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145905\/slider-4-compressed-1536x1152.webp","1536x1536-width":1536,"1536x1536-height":1152,"2048x2048":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145905\/slider-4-compressed-2048x1536.webp","2048x2048-width":2048,"2048x2048-height":1536}},{"ID":744,"id":744,"title":"slider-3-compressed","filename":"slider-3-compressed.webp","filesize":148486,"url":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145900\/slider-3-compressed.webp","link":"https:\/\/www.taylorelectionsfl.gov\/slider-3-compressed\/","alt":"Sunset over the water.","author":"1","description":"","caption":"","name":"slider-3-compressed","status":"inherit","uploaded_to":0,"date":"2025-04-22 19:58:58","modified":"2026-02-17 22:52:22","menu_order":0,"mime_type":"image\/webp","type":"image","subtype":"webp","icon":"https:\/\/www.taylorelectionsfl.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":2048,"height":1152,"sizes":{"thumbnail":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145900\/slider-3-compressed-300x300.webp","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145900\/slider-3-compressed-600x338.webp","medium-width":600,"medium-height":338,"medium_large":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145900\/slider-3-compressed-768x432.webp","medium_large-width":768,"medium_large-height":432,"large":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145900\/slider-3-compressed-1200x675.webp","large-width":1200,"large-height":675,"1536x1536":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145900\/slider-3-compressed-1536x864.webp","1536x1536-width":1536,"1536x1536-height":864,"2048x2048":"https:\/\/taylor-soe.s3.amazonaws.com\/uploads\/2025\/04\/22145900\/slider-3-compressed.webp","2048x2048-width":2048,"2048x2048-height":1152}}]' class="absolute top-0 w-full h-full hidden lg:block z-10">
+        </slider>
+        <div class="absolute -bottom-px w-full aspect-[20/4] bg-gradient-to-t from-secondary-light via-transparent via-40% z-30 transition-all duration-500">
+        </div>
+       </div>
+      </section>
+      <div class="absolute z-0 w-full inset-0 opacity-10 mix-blend-multiply" v-lazy:background-image="'/images/burlap.webp'">
+      </div>
+      <div class="relative z-30 lg:-mt-56 mb-12 max-w-[1600px] mx-auto px-4">
+       <div class="relative z-30 border-primary-dark border-4 lg:border-[10px] p-2 sm:p-8 md:px-12 md:py-10 bg-secondary-light xl:mx-4">
+        <div class="grid md:grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:grid-cols-4">
+         <a class="feature-buttons-three bg-white/60" href="/check-voter-status/">
+          <div class="rounded-full flex items-center justify-center transition-all duration-300">
+           <img alt="" class="h-14 w-14 group-hover:scale-125 transition-all duration-300 flex-none" src="/icons/voter-status.svg"/>
+          </div>
+          <div class="pb-2 font-bold font-condensed text-primary-dark text-xl md:text-2xl group-hover:text-primary md:leading-[28px]">
+           Check Voter Status
+          </div>
+         </a>
+         <a class="feature-buttons-three bg-white/60" href="https://registertovoteflorida.gov/home" rel="noopener noreferrer" target="_blank">
+          <div class="rounded-full flex items-center justify-center transition-all duration-300">
+           <img alt="" class="h-14 w-14 group-hover:scale-125 transition-all duration-300 flex-none" src="/icons/register-to-vote.svg"/>
+          </div>
+          <div class="pb-2 font-bold font-condensed text-primary-dark text-xl md:text-2xl group-hover:text-primary md:leading-[28px]">
+           Register to Vote
+           <span class="sr-only">
+            (opens in a new tab)
+           </span>
+          </div>
+         </a>
+         <a class="feature-buttons-three bg-white/60" href="/update-my-info/">
+          <div class="rounded-full flex items-center justify-center transition-all duration-300">
+           <img alt="" class="h-14 w-14 group-hover:scale-125 transition-all duration-300 flex-none" src="/icons/edit-file.svg"/>
+          </div>
+          <div class="pb-2 font-bold font-condensed text-primary-dark text-xl md:text-2xl group-hover:text-primary md:leading-[28px]">
+           Update My Info
+          </div>
+         </a>
+         <a class="feature-buttons-three bg-white/60" href="/sample-ballot/">
+          <div class="rounded-full flex items-center justify-center transition-all duration-300">
+           <img alt="" class="h-14 w-14 group-hover:scale-125 transition-all duration-300 flex-none" src="/icons/checklist.svg"/>
+          </div>
+          <div class="pb-2 font-bold font-condensed text-primary-dark text-xl md:text-2xl group-hover:text-primary md:leading-[28px]">
+           Sample Ballot
+          </div>
+         </a>
+         <a class="feature-buttons-three bg-white/60" href="/mail-ballot-request-service/">
+          <div class="rounded-full flex items-center justify-center transition-all duration-300">
+           <img alt="" class="h-14 w-14 group-hover:scale-125 transition-all duration-300 flex-none" src="/icons/envelope-open.svg"/>
+          </div>
+          <div class="pb-2 font-bold font-condensed text-primary-dark text-xl md:text-2xl group-hover:text-primary md:leading-[28px]">
+           Request a Mail Ballot
+          </div>
+         </a>
+         <a class="feature-buttons-three bg-white/60" href="/track-my-ballot/">
+          <div class="rounded-full flex items-center justify-center transition-all duration-300">
+           <img alt="" class="h-14 w-14 group-hover:scale-125 transition-all duration-300 flex-none" src="/icons/clipboard-check.svg"/>
+          </div>
+          <div class="pb-2 font-bold font-condensed text-primary-dark text-xl md:text-2xl group-hover:text-primary md:leading-[28px]">
+           Track My Ballot
+          </div>
+         </a>
+         <a class="feature-buttons-three bg-white/60" href="/early-voting/">
+          <div class="rounded-full flex items-center justify-center transition-all duration-300">
+           <img alt="" class="h-14 w-14 group-hover:scale-125 transition-all duration-300 flex-none" src="/icons/ballot-box.svg"/>
+          </div>
+          <div class="pb-2 font-bold font-condensed text-primary-dark text-xl md:text-2xl group-hover:text-primary md:leading-[28px]">
+           Early Voting
+          </div>
+         </a>
+         <a class="feature-buttons-three bg-white/60" href="/where-to-vote-in-person/">
+          <div class="rounded-full flex items-center justify-center transition-all duration-300">
+           <img alt="" class="h-14 w-14 group-hover:scale-125 transition-all duration-300 flex-none" src="/icons/location-map.svg"/>
+          </div>
+          <div class="pb-2 font-bold font-condensed text-primary-dark text-xl md:text-2xl group-hover:text-primary md:leading-[28px]">
+           Voting Locations
+          </div>
+         </a>
+        </div>
+       </div>
+       <div class="py-6 md:pt-12 xl:pt-16 mx-auto w-[120%] max-w-full">
+        <div class="w-full flex gap-4 lg:gap-12 md:h-8 mb-8">
+         <span class="bg-left bg-no-repeat grow" v-lazy:background-image="'/images/staggered-stripes.svg'">
+         </span>
+         <h2 class="font-extrabold text-accent uppercase leading-tight md:text-2xl my-auto" tabindex="0">
+          Voter Totals as of: 07/31/2026
+         </h2>
+         <span class="bg-left bg-no-repeat rotate-180 grow bg-size-[100% auto]" v-lazy:background-image="'/images/staggered-stripes.svg'">
+         </span>
+        </div>
+        <div class="w-full grid grid-cols-2 md:grid-cols-4 gap-4 max-w-5xl mx-auto text-center px-4">
+         <div tabindex="0">
+          <h3 class="voter-label">
+           Democrats
+          </h3>
+          <div class="voter-total">
+           2,840
+          </div>
+         </div>
+         <div tabindex="0">
+          <h3 class="voter-label">
+           Republicans
+          </h3>
+          <div class="voter-total">
+           7,536
+          </div>
+         </div>
+         <div tabindex="0">
+          <h3 class="voter-label">
+           Other
+          </h3>
+          <div class="voter-total">
+           1,273
+          </div>
+         </div>
+         <div tabindex="0">
+          <h3 class="voter-label">
+           Total
+          </h3>
+          <div class="voter-total">
+           11,649
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <section class="w-full bg-primary-dark p-4 py-8 md:p-12 xl:px-16 xl:py-24 relative z-10 bg-cover" v-lazy:background-image="'/images/dots.svg'">
+       <h2 class="flex text-white font-black uppercase text-xl md:text-3xl justify-center items-center gap-4 lg:gap-12" tabindex="0">
+        <img alt="" class="hidden sm:block sm:w-auto" height="31.17" role="presentation" v-lazy="'/images/blue-stars.svg'" width="127.33"/>
+        Voter Turnout
+        <img alt="" class="hidden sm:block sm:w-auto" height="31.17" role="presentation" v-lazy="'/images/blue-stars.svg'" width="127.33"/>
+       </h2>
+       <div class="w-full max-w-7xl mx-auto text-center md:p-8 my-8 h-[600px] border-8 border-primary bg-white">
+       </div>
+      </section>
+      <section class="bg-secondary relative pb-6 bg-cover bg-blend-multiply" v-lazy:background-image="'/images/tan-dots.svg'">
+       <div class="relative z-10 mx-auto p-6 lg:py-12 max-w-screen-2xl">
+        <div class="w-full grid lg:grid-cols-2 gap-8 xl:gap-12 2xl:gap-20">
+         <div>
+          <div class="flex flex-col md:flex-row py-4 gap-4 justify-between">
+           <h2 class="text-accent font-black uppercase text-xl md:text-3xl text-center md:text-left" tabindex="0">
+            Upcoming Elections
+           </h2>
+           <img alt="" class="hidden sm:block sm:w-auto" height="31.17" role="presentation" v-lazy="'/images/red-stars.svg'" width="127.33"/>
+          </div>
+          <div class="p-4 md:p-8 bg-primary-dark mb-4 flex flex-col md:flex-row items-center relative gap-4" tabindex="0">
+           <div class="md:pr-4 grow text-center md:text-left" tabindex="0">
+            <p class="text-secondary-light font-bold">
+             Aug 18, 2026
+            </p>
+            <h3 class="text-white font-heading text-3xl md:text-4xl xl:text-5xl">
+             Primary Election
+            </h3>
+           </div>
+           <a class="btn-primary border-white bg-primary-dark hover:scale-105 hover:after:bg-white hover:bg-white hover:text-primary" href="https://www.taylorelectionsfl.gov/events/primary-election/" tabindex="0">
+            Election Info &amp; Dates
+           </a>
+           <div class="absolute inset-0 bg-right bg-no-repeat opacity-10" v-lazy:background-image="'/images/two-stars.svg'">
+           </div>
+          </div>
+          <div class="p-4 md:p-8 bg-primary-dark mb-4 flex flex-col md:flex-row items-center relative gap-4" tabindex="0">
+           <div class="md:pr-4 grow text-center md:text-left" tabindex="0">
+            <p class="text-secondary-light font-bold">
+             Nov 3, 2026
+            </p>
+            <h3 class="text-white font-heading text-3xl md:text-4xl xl:text-5xl">
+             General Election
+            </h3>
+           </div>
+           <a class="btn-primary border-white bg-primary-dark hover:scale-105 hover:after:bg-white hover:bg-white hover:text-primary" href="https://www.taylorelectionsfl.gov/events/general-election/" tabindex="0">
+            Election Info &amp; Dates
+           </a>
+           <div class="absolute inset-0 bg-right bg-no-repeat opacity-10" v-lazy:background-image="'/images/two-stars.svg'">
+           </div>
+          </div>
+          <div class="h-4">
+          </div>
+          <div class="border-8 border-primary-dark flex flex-col md:flex-row">
+           <div class="p-4 md:p-8 bg-white sm:w-1/2 text-center md:text-left">
+            <div class="prose md:prose-lg prose-h3:text-accent prose-h3:font-heading prose-h3:tracking-normal prose-h3:subpixel-antialiased prose-h3:text-3xl prose-h3:capitalize prose-h3:md:text-4xl prose-h3:lg:text-5xl prose-h3:text-balance prose-h3:font-normal prose-p:text-gray-800 prose-em:leading-tight" tabindex="0">
+             <h3>
+              Voter Assistance Hotline
+             </h3>
+             <p>
+              <strong>
+               Monday to Friday
+              </strong>
+              <br/>
+              <strong>
+               8:00 AM – 5:00 PM
+              </strong>
+             </p>
+             <p>
+              <em>
+               extended hours during elections
+              </em>
+             </p>
+            </div>
+           </div>
+           <div class="p-4 md:p-8 bg-secondary-light text-center sm:w-1/2 flex flex-col gap-4 justify-center items-center">
+            <div>
+             <p class="font-bold text-gray-950 mb-2" tabindex="0">
+              English &amp; Spanish
+             </p>
+             <a class="btn-secondary-outlined bg-white/80" href="tel:HEX" tabindex="0">
+              +1 (833) 652-0364
+             </a>
+            </div>
+            <div>
+             <p class="font-bold text-gray-950 mb-2" tabindex="0">
+              Toll Free
+             </p>
+             <a class="btn-secondary-outlined bg-white/80" href="tel:HEX" tabindex="0">
+              +1 (866) 308-6739
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div>
+          <div class="flex flex-col md:flex-row gap-4 justify-between py-4">
+           <h2 class="text-accent font-black uppercase text-xl md:text-3xl" tabindex="0">
+            Dates to Remember
+           </h2>
+           <img alt="" class="hidden sm:block" role="presentation" v-lazy="'/images/red-stars.svg'"/>
+          </div>
+          <div class="bg-white overflow-hidden pb-6">
+           <a class="flex flex-col hover:scale-105 relative transition-all duration-500 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.taylorelectionsfl.gov/events/early-voting-primary-election/" tabindex="0">
+            <p class="text-accent font-heading text-2xl md:text-4xl" role="heading">
+             Aug 8, 2026 8:00am
+            </p>
+            <h3 class="text-primary-dark font-bold leading-tight font-condensed text-xl lg:text-2xl mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all afterduration-500">
+             Early Voting: Primary Election
+            </h3>
+           </a>
+           <a class="flex flex-col hover:scale-105 relative transition-all duration-500 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.taylorelectionsfl.gov/events/mail-ballot-send-deadline-for-absentee-and-overseas-voters-general-election/" tabindex="0">
+            <p class="text-accent font-heading text-2xl md:text-4xl" role="heading">
+             Sep 19, 2026
+            </p>
+            <h3 class="text-primary-dark font-bold leading-tight font-condensed text-xl lg:text-2xl mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all afterduration-500">
+             Mail Ballot ‘Send’ Deadline (45-day deadline before election) for UOCAVA voters for the General Election
+            </h3>
+           </a>
+           <a class="flex flex-col hover:scale-105 relative transition-all duration-500 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.taylorelectionsfl.gov/events/mail-ballot-send-deadline-for-domestic-voters-general-election/" tabindex="0">
+            <p class="text-accent font-heading text-2xl md:text-4xl" role="heading">
+             Sep 24, 2026
+            </p>
+            <h3 class="text-primary-dark font-bold leading-tight font-condensed text-xl lg:text-2xl mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all afterduration-500">
+             Mail Ballot ‘Send’ Deadline (40-day deadline before election) for domestic voters for the General Election
+            </h3>
+           </a>
+           <a class="flex flex-col hover:scale-105 relative transition-all duration-500 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.taylorelectionsfl.gov/events/book-closing-general-election/" tabindex="0">
+            <p class="text-accent font-heading text-2xl md:text-4xl" role="heading">
+             Oct 5, 2026
+            </p>
+            <h3 class="text-primary-dark font-bold leading-tight font-condensed text-xl lg:text-2xl mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all afterduration-500">
+             Book Closing Date for the General Election
+            </h3>
+           </a>
+          </div>
+          <div class="w-full flex flex-wrap gap-2 md:gap-4 xl:gap-4 py-4 justify-start">
+           <a class="group relative z-10 flex items-center btn-accent-outlined" href="/events/" target="_self">
+            All Upcoming Dates
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+      <lazy-section class="relative flex-grow bg-accent-dark bg-cover bg-top" v-lazy:background-image="'/images/star-pattern.svg'">
+       <div class="absolute w-full left-0 top-0 h-60 z-0 bg-gradient-to-b from-accent-dark to-transparent">
+       </div>
+       <div class="relative z-30 w-full max-w-screen-xl mx-auto px-4 py-12">
+        <div class="flex flex-1 text-center items-center md:text-left justify-between gap-4 lg:mb-8 pb-4 lg:pb-0 w-full flex-wrap md:flex-nowrap">
+         <div class="w-full flex justify-between gap-8">
+          <h2 class="text-xl md:text-3xl font-black text-white uppercase" tabindex="0">
+           Election News
+          </h2>
+         </div>
+         <div class="hidden md:block flex-shrink-0 dark uppercase">
+          <div class="w-full flex flex-wrap gap-2 md:gap-4 xl:gap-4 py-4 justify-start">
+           <a class="group relative z-10 flex items-center link-icon dark:hover:text-secondary-light" href="/announcements/" target="_self">
+            View All News &amp; Announcements
+            <span class="rounded-full h-6 w-6 ring-[1.5px] ring-accent dark:ring-white flex items-center justify-center transition-all duration-500 mt-0.5 group-hover:translate-x-2">
+            </span>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="not-prose">
+         <a aria-label="Read full announcement, Active Petition Signature Verification Report" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.taylorelectionsfl.gov/announcements/active-petition-signature-verification-report/" role="link" tabindex="0">
+          <div class="relative z-10 xl:pr-12">
+           <span class="text-accent text-lg font-extrabold uppercase" tabindex="0">
+            July 31, 2026
+           </span>
+           <p class="text-primary-dark font-heading text-3xl md:text-4xl lg:text-5xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
+            Active Petition Signature Verification Report
+           </p>
+           <p class="font-semibold text-gray-800 text-pretty mt-2" tabindex="0">
+            Pursuant to FS 100.371 (11) (c), the Taylor County Supervisor of Elections provides this monthly…
+           </p>
+          </div>
+          <span class="flex-none whitespace-nowrap btn-simple border-accent bg-accent group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
+           Read Full Announcement
+          </span>
+          <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300 bg-cover" v-lazy:background-image="'/images/two-stars.svg'">
+          </div>
+         </a>
+         <a aria-label="Read full announcement, 2026 General Election Preparation Report per F.S. 100.032" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.taylorelectionsfl.gov/announcements/2026-general-election-preparation-report-per-f-s-100-032/" role="link" tabindex="0">
+          <div class="relative z-10 xl:pr-12">
+           <span class="text-accent text-lg font-extrabold uppercase" tabindex="0">
+            July 31, 2026
+           </span>
+           <p class="text-primary-dark font-heading text-3xl md:text-4xl lg:text-5xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
+            2026 General Election Preparation Report per F.S. 100.032
+           </p>
+           <p class="font-semibold text-gray-800 text-pretty mt-2" tabindex="0">
+            2026 General Election Preparation Report
+           </p>
+          </div>
+          <span class="flex-none whitespace-nowrap btn-simple border-accent bg-accent group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
+           Read Full Announcement
+          </span>
+          <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300 bg-cover" v-lazy:background-image="'/images/two-stars.svg'">
+          </div>
+         </a>
+         <a aria-label="Read full announcement, Voter's Guide to Judicial Retention Races" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.taylorelectionsfl.gov/announcements/voters-guide-to-judicial-retention-races/" role="link" tabindex="0">
+          <div class="relative z-10 xl:pr-12">
+           <span class="text-accent text-lg font-extrabold uppercase" tabindex="0">
+            July 22, 2026
+           </span>
+           <p class="text-primary-dark font-heading text-3xl md:text-4xl lg:text-5xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
+            Voter's Guide to Judicial Retention Races
+           </p>
+           <p class="font-semibold text-gray-800 text-pretty mt-2" tabindex="0">
+            With the 2026 general election rapidly approaching, The Florida Bar has updated its voter…
+           </p>
+          </div>
+          <span class="flex-none whitespace-nowrap btn-simple border-accent bg-accent group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
+           Read Full Announcement
+          </span>
+          <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300 bg-cover" v-lazy:background-image="'/images/two-stars.svg'">
+          </div>
+         </a>
+         <a aria-label="Read full announcement, Voter Eligibility Notice" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.taylorelectionsfl.gov/announcements/voter-eligibility-notice-2/" role="link" tabindex="0">
+          <div class="relative z-10 xl:pr-12">
+           <span class="text-accent text-lg font-extrabold uppercase" tabindex="0">
+            July 22, 2026
+           </span>
+           <p class="text-primary-dark font-heading text-3xl md:text-4xl lg:text-5xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
+            Voter Eligibility Notice
+           </p>
+           <p class="font-semibold text-gray-800 text-pretty mt-2" tabindex="0">
+            July 22, 2026 Legal Notice Pursuant to F.F.98.075, notice is hereby given to the following…
+           </p>
+          </div>
+          <span class="flex-none whitespace-nowrap btn-simple border-accent bg-accent group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
+           Read Full Announcement
+          </span>
+          <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300 bg-cover" v-lazy:background-image="'/images/two-stars.svg'">
+          </div>
+         </a>
+         <a aria-label="Read full announcement, Primary Election Deadline: Last day to request a Vote-by-Mail ballot" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.taylorelectionsfl.gov/announcements/primary-election-deadline-last-day-to-request-a-vote-by-mail-ballot/" role="link" tabindex="0">
+          <div class="relative z-10 xl:pr-12">
+           <span class="text-accent text-lg font-extrabold uppercase" tabindex="0">
+            July 21, 2026
+           </span>
+           <p class="text-primary-dark font-heading text-3xl md:text-4xl lg:text-5xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
+            Primary Election Deadline: Last day to request a Vote-by-Mail ballot
+           </p>
+           <p class="font-semibold text-gray-800 text-pretty mt-2" tabindex="0">
+            Primary Election Deadline: Last day to request a Vote-by-Mail ballot to be mailed is Thursday,…
+           </p>
+          </div>
+          <span class="flex-none whitespace-nowrap btn-simple border-accent bg-accent group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
+           Read Full Announcement
+          </span>
+          <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300 bg-cover" v-lazy:background-image="'/images/two-stars.svg'">
+          </div>
+         </a>
+        </div>
+        <div class="block md:hidden px-6 dark uppercase">
+         <div class="w-full flex flex-wrap gap-2 md:gap-4 xl:gap-4 py-4 justify-start">
+          <a class="group relative z-10 flex items-center link-icon dark:hover:text-secondary-light" href="/announcements/" target="_self">
+           View All News &amp; Announcements
+           <span class="rounded-full h-6 w-6 ring-[1.5px] ring-accent dark:ring-white flex items-center justify-center transition-all duration-500 mt-0.5 group-hover:translate-x-2">
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+      </lazy-section>
+      <lazy-section class="flex-grow bg-white">
+       <div class="w-full max-w-screen-xl mx-auto pb-12 p-4 md:py-8 md:py-12 lg:py-16 grid relative z-20 gap-8 lg:stack lg:grid-cols-2 items-center">
+        <div aria-label="Team photo of four women side by side smiling at the camera." class="relative z-10 aspect-landscape bg-center bg-cover h-full overflow-hidden border-[10px] border-white shadow-2xl w-full" role="img" tabindex="0" v-lazy:background-image="'https://taylor-soe.s3.amazonaws.com/uploads/2025/04/25101844/Team-Photo-cropped-1200x780.webp'">
+        </div>
+        <div class="relative z-20 flex flex-col justify-center px-4 xl:px-12 h-full lg:stack">
+         <span class="uppercase font-extrabold text-gray-800 text-base pb-2 tracking-wide" tabindex="0">
+          Taylor County, Florida
+         </span>
+         <h1 class="font-heading text-4xl md:text-5xl leading-tight mb-2 text-primary-dark" tabindex="0">
+          Supervisor of Elections
+         </h1>
+         <div class="prose md:prose-lg w-full text-pretty prose-p:max-w-none py-6" tabindex="0">
+          <p>
+           Dana Southerland is a lifelong resident of Taylor County and is married with three grown children. She was elected in August 2008 to serve as Supervisor of Elections for Taylor County and is currently serving her fifth term. Prior to being elected she worked in the elections office and the Clerk of Court. She has over thirty years of employment with Taylor County Government.
+          </p>
+         </div>
+         <div class="w-full flex flex-wrap gap-2 md:gap-4 xl:gap-4 py-4 justify-start">
+          <a class="group relative z-10 flex items-center btn-accent-outlined" href="/meet-your-supervisor/" target="_self">
+           Meet Your Supervisor
+          </a>
+         </div>
+        </div>
+        <div alt="" class="absolute bottom-0 left-0 w-full h-full z-0 mix-blend-screen bg-bottom" role="presentation" v-lazy:background-image="'/images/bg-dots.svg'">
+        </div>
+       </div>
+      </lazy-section>
+     </div>
+     <footer class="relative z-20 overflow-hidden bg-[#F2F0EB]">
+      <div class="w-full max-w-screen-2xl mx-auto py-8 xl:py-12 relative z-30">
+       <div class="grid lg:grid-cols-3 gap-4 p-8">
+        <div class="flex justify-center items-center lg:row-span-2 lg:py-4">
+         <img alt="Taylor County Supervisor of Elections Seal" class="block mx-auto md:w-60 xl:w-72 h-auto" height="180" src="/images/soe-seal.webp" tabindex="0" width="180"/>
+        </div>
+        <div class="flex justify-center items-center lg:justify-start py-2 xl:pt-4 2xl:pt-8">
+         <img alt="Dana southerland, Supervisor of Elections of Taylor County, FL" class="block md:w-80" src="/images/soe-logo.svg" tabindex="0"/>
+        </div>
+        <div aria-label="Follow Us" class="flex justify-center items-center lg:justify-end py-2 xl:pt-4 2xl:pt-8">
+         <div class="flex gap-3 justify-center xl:justify-end items-center px-4">
+          <a aria-label="follow us on facebook (link opens in a new tab)" href="https://www.facebook.com/profile.php" rel="noopener" target="_blank">
+          </a>
+         </div>
+        </div>
+        <div class="w-full grid sm:grid-cols-2 lg:grid-cols-3 md:gap-8 py-12 lg:py-8 border-t-2 border-accent md:mx-auto md:max-w-md lg:col-span-2 lg:max-w-none">
+         <div class="md:col-span-2 lg:col-span-1">
+          <div class="mb-2">
+           <p class="footer-headline" tabindex="0">
+            Email
+           </p>
+           <div class="flex items-center gap-2 not-prose">
+            <a class="footer-contact" href="/cdn-cgi/l/email-protection#REDACTED" rel="nofollow" tabindex="0">
+             <span class="__cf_email__">
+              [email protected]
+             </span>
+            </a>
+           </div>
+          </div>
+          <div class="mb-2">
+           <p class="footer-headline" tabindex="0">
+            Call
+           </p>
+           <div class="flex gap-2 items-center lg:justify-start not-prose">
+            <a class="footer-contact" href="tel:HEX" rel="nofollow" tabindex="0">
+             (850) 838-3515
+            </a>
+           </div>
+          </div>
+          <div class="mb-8">
+           <p class="footer-headline" tabindex="0">
+            Fax
+           </p>
+           <div class="flex gap-2 items-center lg:justify-start not-prose">
+            <span class="text-primary-dark font-bold block" tabindex="0">
+             (850) 838-3516
+            </span>
+           </div>
+          </div>
+         </div>
+         <div>
+          <div class="mb-2">
+           <p class="footer-headline" tabindex="0">
+            Office Address
+           </p>
+           <div class="flex gap-2 not-prose">
+            <a aria-label="Get directions to 433 U.S. 19 North
+Perry, Florida 32347" class="footer-contact leading-tight" href="https://www.google.com/maps/search/?api=1&amp;query=433+U.S.+19+North+%0D%0APerry%2C+Florida+32347" tabindex="0" target="_blank">
+             433 U.S. 19 North
+             <br/>
+             Perry, Florida 32347
+             <span class="sr-only">
+              (opens in a new tab)
+             </span>
+            </a>
+           </div>
+          </div>
+          <div class="mb-8">
+           <p class="footer-headline" tabindex="0">
+            Hours
+           </p>
+           <div class="flex gap-2 not-prose">
+            <span class="relative text-primary-dark font-bold leading-tight" tabindex="0">
+             Monday to Friday
+             <br/>
+             8:00 AM - 5:00 PM
+            </span>
+           </div>
+          </div>
+         </div>
+         <div>
+          <div>
+           <p class="footer-headline" tabindex="0">
+            Mailing Address
+           </p>
+           <div class="flex gap-2 lg:gap-3 not-prose py-1">
+            <span class="relative text-primary-dark font-bold leading-tight" tabindex="0">
+             P.O. Box 1060
+             <br/>
+             Perry, Florida 32348
+            </span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="w-full p-4 lg:px-8 bg-primary-dark dark relative z-30 border-t-2 border-white">
+       <div class="w-full flex flex-wrap items-center justify-center xl:justify-start gap-8 text-sm">
+        <p class="text-center dark:text-white" tabindex="0">
+         ©2026 Taylor County Supervisor of Elections.
+ All rights reserved.
+        </p>
+        <div class="w-full lg:w-auto flex flex-col sm:flex-row grow justify-center lg:justify-end gap-2">
+         <a class="w-full md:w-auto text-center inline-block content-link px-2 py-1 text-white hover:text-accent-light uppercase" href="/privacy-policy/">
+          Privacy Policy
+         </a>
+         <a class="w-full md:w-auto text-center inline-block content-link px-2 py-1 text-white hover:text-accent-light uppercase" href="/accessibility-policy/">
+          Accessibility Policy
+         </a>
+         <a class="w-full md:w-auto text-center inline-block content-link px-2 py-1 text-white hover:text-accent-light uppercase" href="/sitemap.xml">
+          Sitemap
+         </a>
+        </div>
+        <a aria-label="Kerigan Marketing Associates (opens in a new tab)" class="flex items-center gap-2 mt-4 md:m-0 antialiased font-semibold uppercase text-white" href="https://keriganmarketing.com" rel="noopener" target="_blank">
+         Site by KMA
+        </a>
+       </div>
+      </div>
+      <div class="absolute inset-0 z-10 bg-gradient-to-t from-[#F2F0EB] from-20% to-[transparent]">
+      </div>
+      <div class="absolute inset-0 z-0 bg-cover md:bg-center bg-no-repeat opacity-20" v-lazy:background-image="'/images/flag.webp'">
+      </div>
+     </footer>
+     <div class="static z-[999999]" id="popup-target" v-cloak="">
+     </div>
+    </div>
+   </main>
+  </div>
+ </body>
+</html>

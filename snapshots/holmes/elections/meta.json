@@ -1,0 +1,19 @@
+{
+  "county": "Holmes",
+  "page_type": "elections",
+  "requested_url": "https://holmeselectionsfl.gov/voter-information/",
+  "final_url": "https://holmeselectionsfl.gov/voter-information/",
+  "redirect_chain": [
+    "https://holmeselectionsfl.gov/voter-information/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "395a367c6d4de4f9fbca1923c0f02870a4888876e47b98094a29f979a59dd9e6",
+  "text_sha256": "331468f87cf912776413cd4d5743a5565d1cfa96fa296c51842a35f5e7652ff1",
+  "byte_size": 100023,
+  "title": "Voter Information – Holmes County Supervisor of Elections",
+  "error": null
+}

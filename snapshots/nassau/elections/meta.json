@@ -1,0 +1,19 @@
+{
+  "county": "Nassau",
+  "page_type": "elections",
+  "requested_url": "https://www.votenassaufl.gov/upcoming-elections",
+  "final_url": "https://www.votenassaufl.gov/upcoming-elections",
+  "redirect_chain": [
+    "https://www.votenassaufl.gov/upcoming-elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "99471e51a37f6151f608a7ddce1bf812c39f4946737ea7ed1e03d6609d2e82ab",
+  "text_sha256": "0c6bcdb0cbdd5afb708ef6c85545fbaffd32b197b6dd60c48a26594421d21a60",
+  "byte_size": 93308,
+  "title": "Upcoming Elections 2026 | Nassau County Supervisor of Elections",
+  "error": null
+}

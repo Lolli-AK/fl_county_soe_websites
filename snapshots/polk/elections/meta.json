@@ -1,0 +1,19 @@
+{
+  "county": "Polk",
+  "page_type": "elections",
+  "requested_url": "https://www.polkelections.gov/101/Election-Info",
+  "final_url": "https://www.polkelections.gov/101/Election-Info",
+  "redirect_chain": [
+    "https://www.polkelections.gov/101/Election-Info"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "00b666c07efd125bf78f6cfc79cda22ec46d3f36209be06cb1f4e8b2f3b195d0",
+  "text_sha256": "db7941c2b0722543d6bcaea9a2164a2aa537c82899aa7863c523fdefb347b9aa",
+  "byte_size": 45347,
+  "title": "Election Info | Polk County SOE, FL",
+  "error": null
+}

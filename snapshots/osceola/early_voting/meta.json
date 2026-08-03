@@ -1,0 +1,19 @@
+{
+  "county": "Osceola",
+  "page_type": "early_voting",
+  "requested_url": "https://www.voteosceola.gov/en-us/how-to-vote/vote-early/",
+  "final_url": "https://www.voteosceola.gov/en-us/how-to-vote/vote-early/",
+  "redirect_chain": [
+    "https://www.voteosceola.gov/en-us/how-to-vote/vote-early/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "2a1d69a821ce605188652945ead48dd5acf725fdf21b533bcfcb4b354a86399b",
+  "text_sha256": "57dd83f2bf53ed49afeab43206ef0f8fb484d2097d589520e287a02e6b77913c",
+  "byte_size": 55809,
+  "title": "Vote Early – Vote Osceola",
+  "error": null
+}

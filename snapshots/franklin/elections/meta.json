@@ -1,0 +1,19 @@
+{
+  "county": "Franklin",
+  "page_type": "elections",
+  "requested_url": "https://www.votefranklinfl.gov/election_information/index.php",
+  "final_url": "https://www.votefranklinfl.gov/election_information/index.php",
+  "redirect_chain": [
+    "https://www.votefranklinfl.gov/election_information/index.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "5183960be78fc6d291f64ebb9e3408927cbb58a2dec9a3c634a33c302518aeac",
+  "text_sha256": "2417a6c60a0303052290aea84673efc9126373e4fb2743b2ce8b9cd9956b6c83",
+  "byte_size": 37223,
+  "title": "Franklin County, FL SOE",
+  "error": null
+}

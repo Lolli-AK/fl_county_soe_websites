@@ -1,0 +1,19 @@
+{
+  "county": "Santa Rosa",
+  "page_type": "results",
+  "requested_url": "https://votesantarosa.gov/historical-information/historical-results/",
+  "final_url": "https://votesantarosa.gov/historical-information/historical-results/",
+  "redirect_chain": [
+    "https://votesantarosa.gov/historical-information/historical-results/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "ad509612455c2bd1c2056f959f13f596d70d1d5a09d3bf2b74923df173fbbe5d",
+  "text_sha256": "9815512a36ae3f968a0ba99423e2bc7ccfe4c17584c1707b07298d6449d2062e",
+  "byte_size": 77708,
+  "title": "Historical Results – Santa Rosa, FL",
+  "error": null
+}

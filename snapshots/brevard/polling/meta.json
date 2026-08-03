@@ -1,0 +1,19 @@
+{
+  "county": "Brevard",
+  "page_type": "polling",
+  "requested_url": "https://www.votebrevard.gov/News-and-Notices/Precinct-Polling-Place-Change-Notices",
+  "final_url": "https://www.votebrevard.gov/News-and-Notices/Precinct-Polling-Place-Change-Notices",
+  "redirect_chain": [
+    "https://www.votebrevard.gov/News-and-Notices/Precinct-Polling-Place-Change-Notices"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "657e9658046b011b6a616470d3f612c45a2a1e91d6b4996afb1f5c378057dcc5",
+  "text_sha256": "5b1cb3a9d842976d8b828fd6c268f9e18abda14ce18e75a73508c6799a0ec4e3",
+  "byte_size": 174755,
+  "title": "Brevard County Supervisor of Elections > News and Notices > Precinct & Polling Place Change Notices",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Holmes",
+  "page_type": "polling",
+  "requested_url": "https://holmeselectionsfl.gov/voter-information/where-to-vote/",
+  "final_url": "https://holmeselectionsfl.gov/voter-information/where-to-vote/",
+  "redirect_chain": [
+    "https://holmeselectionsfl.gov/voter-information/where-to-vote/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "9c81d2a08cd0299b4e9306b5fad866a183eaf0bc72afb47f538fb35ae42261ae",
+  "text_sha256": "1c57e5f45545e467ea560fd4400625380edeb8dde7d06cc3aab158b496fa0ef7",
+  "byte_size": 92307,
+  "title": "Where to Vote – Holmes County Supervisor of Elections",
+  "error": null
+}

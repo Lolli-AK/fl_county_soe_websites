@@ -1,0 +1,19 @@
+{
+  "county": "Clay",
+  "page_type": "polling",
+  "requested_url": "https://clayelections.gov/Election-Information/Precinct-Finder/",
+  "final_url": "https://clayelections.gov/Election-Information/Precinct-Finder/",
+  "redirect_chain": [
+    "https://clayelections.gov/Election-Information/Precinct-Finder/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "154ac0ffcd3d10b15cfe34e59ae006576ab8ecc3a84b999bf3feb4601ae96116",
+  "text_sha256": "7753095405fd5aed12b8201fd081b2c845deff57678a05e888ef69cfd9b5e6eb",
+  "byte_size": 92558,
+  "title": "Precinct Finder - Clay County Supervisor of Elections",
+  "error": null
+}

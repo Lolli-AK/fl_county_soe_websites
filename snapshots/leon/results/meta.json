@@ -1,0 +1,19 @@
+{
+  "county": "Leon",
+  "page_type": "results",
+  "requested_url": "https://www.leonvotes.gov/Records/Election-Results",
+  "final_url": "https://www.leonvotes.gov/Records/Election-Results",
+  "redirect_chain": [
+    "https://www.leonvotes.gov/Records/Election-Results"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "02c0e8ab40f8a9893c12808a169380ac79b20acdf98d9cf3014263fdd25d078c",
+  "text_sha256": "2cb2672f61b30d5a5ea4199b0d41b031629184aed21ff864125f8e49de4923c5",
+  "byte_size": 304519,
+  "title": "Election Results",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Dixie",
+  "page_type": "early_voting",
+  "requested_url": "https://dixievotes.gov/election-information/early-voting/",
+  "final_url": "https://dixievotes.gov/election-information/early-voting/",
+  "redirect_chain": [
+    "https://dixievotes.gov/election-information/early-voting/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "82ae658eec7f97a78659b61b44703dc138ad086a3a235326464762d663c7053c",
+  "text_sha256": "973264ddc4a796f88dafce9fa57c7f2a247fccc66490395fafca1972b6a08de6",
+  "byte_size": 117688,
+  "title": "Early Voting – Dixie County Supervisor of Elections",
+  "error": null
+}

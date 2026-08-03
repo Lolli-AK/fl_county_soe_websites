@@ -1,0 +1,19 @@
+{
+  "county": "Bay",
+  "page_type": "homepage",
+  "requested_url": "https://www.bayvotesfl.gov",
+  "final_url": "https://www.bayvotesfl.gov",
+  "redirect_chain": [
+    "https://www.bayvotesfl.gov"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "6e2b9f801c1090573387e6f980dc41d94c68415176ad6ab682aaa14a049a680e",
+  "text_sha256": "c45d0f81d39b5bb35d3c01ee72ffdb69de4259e677e87a8619f47e28f2eed867",
+  "byte_size": 93101,
+  "title": "Bay County Supervisor of Elections | Nina Ward",
+  "error": null
+}

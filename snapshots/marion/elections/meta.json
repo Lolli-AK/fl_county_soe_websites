@@ -1,0 +1,19 @@
+{
+  "county": "Marion",
+  "page_type": "elections",
+  "requested_url": "https://www.votemarion.gov/31/Elections",
+  "final_url": "https://www.votemarion.gov/31/Elections",
+  "redirect_chain": [
+    "https://www.votemarion.gov/31/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "a92f8bb2b00c7b4f91339d1cf893d5c7ac3e24af41d67ae9ea950f4eeb251f8d",
+  "text_sha256": "dce9905256d7957b4b30e1ab7af32dcbc970ca731d5f00b375caa55b8e298fa3",
+  "byte_size": 56371,
+  "title": "Elections | Marion County Elections, FL",
+  "error": null
+}

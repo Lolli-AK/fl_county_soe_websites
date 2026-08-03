@@ -1,0 +1,19 @@
+{
+  "county": "Hernando",
+  "page_type": "polling",
+  "requested_url": "https://www.hernandovotes.gov/1195/Precincts-Polling-Locations",
+  "final_url": "https://www.hernandovotes.gov/1195/Precincts-Polling-Locations",
+  "redirect_chain": [
+    "https://www.hernandovotes.gov/1195/Precincts-Polling-Locations"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "3e831b9c49ac7fe680ad13a778b83ef93c44ba271f1a650bd9ba203ff76bddf9",
+  "text_sha256": "b7c74f491d08b7a2714decd86d4a0f54ca6214432d234bd9c14d197911fc2054",
+  "byte_size": 56507,
+  "title": "Precincts & Polling Locations | Hernando County SOE, FL",
+  "error": null
+}

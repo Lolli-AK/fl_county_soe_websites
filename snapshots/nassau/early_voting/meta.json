@@ -1,0 +1,19 @@
+{
+  "county": "Nassau",
+  "page_type": "early_voting",
+  "requested_url": "https://www.votenassaufl.gov/early-voting",
+  "final_url": "https://www.votenassaufl.gov/early-voting",
+  "redirect_chain": [
+    "https://www.votenassaufl.gov/early-voting"
+  ],
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "5576ad28ef8780bd4cc4b7eb643d415da6ab8373acf116b30e602c0b9238a526",
+  "text_sha256": "85804ca2889ecc5d8c3033199b2a15af0b26b75442884e23a4133d5ce67f8b02",
+  "byte_size": 80892,
+  "title": "Early Voting Info | Nassau County Supervisor of Elections",
+  "error": null
+}

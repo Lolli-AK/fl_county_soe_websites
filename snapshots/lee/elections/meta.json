@@ -1,0 +1,19 @@
+{
+  "county": "Lee",
+  "page_type": "elections",
+  "requested_url": "https://www.lee.vote/172/Election-Information",
+  "final_url": "https://www.lee.vote/172/Election-Information",
+  "redirect_chain": [
+    "https://www.lee.vote/172/Election-Information"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "b96bc2fca57d62ed57f2c1c4601d22e106e2783adcdea0222a0172336110e1ad",
+  "text_sha256": "989170389294783875e8704a49e15e4f157d0c38cb1af5abba77a23176f62661",
+  "byte_size": 41550,
+  "title": "Election Information | Lee County Elections, FL",
+  "error": null
+}

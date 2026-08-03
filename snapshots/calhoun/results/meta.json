@@ -1,0 +1,19 @@
+{
+  "county": "Calhoun",
+  "page_type": "results",
+  "requested_url": "https://votecalhounfl.gov/election-information/election-results-archive/",
+  "final_url": "https://votecalhounfl.gov/election-information/election-results-archive/",
+  "redirect_chain": [
+    "https://votecalhounfl.gov/election-information/election-results-archive/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "109f7f8b50a4db321a7bdaf8f775850e57a7276683a7c67d2de7197ccf29565c",
+  "text_sha256": "6c14a7fc22d91594c7efcbad0c85d7a637dcc8c3991e87ecf33c7dcae3e48df4",
+  "byte_size": 174604,
+  "title": "Election Results Archive – Calhoun County – Supervisor of Elections",
+  "error": null
+}

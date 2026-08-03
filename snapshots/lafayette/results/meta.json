@@ -1,0 +1,19 @@
+{
+  "county": "Lafayette",
+  "page_type": "results",
+  "requested_url": "https://lafayettevotes.net/election-results/",
+  "final_url": "https://lafayettevotes.net/election-results/",
+  "redirect_chain": [
+    "https://lafayettevotes.net/election-results/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "bcffa4523bc30e1d4e0972d717809c7fab8c13974a126dc77e918192c7a36902",
+  "text_sha256": "8164db21d5af103e562fefacce608509267ba36bd906c516e431fa2091e864a0",
+  "byte_size": 98453,
+  "title": "Election Results – Lafayette County Supervisor of Elections",
+  "error": null
+}

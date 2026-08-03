@@ -1,0 +1,19 @@
+{
+  "county": "Gilchrist",
+  "page_type": "results",
+  "requested_url": "https://www.votegilchrist.com/election_information/election_results.php",
+  "final_url": "https://www.votegilchrist.com/election_information/election_results.php",
+  "redirect_chain": [
+    "https://www.votegilchrist.com/election_information/election_results.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "75269a79f977c6dec695b284e5f475716910bb81300363326ee2ca144cd62e06",
+  "text_sha256": "6b3fa598e0700d65061c49e7af2be3eb1f30639cfbd89db3e96f1cdfa7827be5",
+  "byte_size": 50923,
+  "title": "Gilchrist County Supervisor of Elections, FL",
+  "error": null
+}

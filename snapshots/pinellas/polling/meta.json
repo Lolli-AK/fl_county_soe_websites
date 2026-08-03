@@ -1,0 +1,19 @@
+{
+  "county": "Pinellas",
+  "page_type": "polling",
+  "requested_url": "https://www.votepinellas.gov/198/Find-Precinct-Polling-Place",
+  "final_url": "https://www.votepinellas.gov/198/Find-Precinct-Polling-Place",
+  "redirect_chain": [
+    "https://www.votepinellas.gov/198/Find-Precinct-Polling-Place"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "3fdccd515dcfd61edbd38104047d70dbbe92ba87ae58f9bd298905c654a7a1c0",
+  "text_sha256": "f245b788e5439dd7ba636223fa10c98f629ba1b827ecc5886e81caeba2b00538",
+  "byte_size": 45394,
+  "title": "Find Precinct & Polling Place | Pinellas County Election, FL",
+  "error": null
+}

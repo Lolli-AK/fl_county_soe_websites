@@ -1,0 +1,19 @@
+{
+  "county": "Dixie",
+  "page_type": "results",
+  "requested_url": "https://dixievotes.gov/records-data-and-maps/election-results-and-report/",
+  "final_url": "https://dixievotes.gov/records-data-and-maps/election-results-and-report/",
+  "redirect_chain": [
+    "https://dixievotes.gov/records-data-and-maps/election-results-and-report/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "66fd474297e074d3fa17b749512734f39b697ce7c52257dea3262aefb7955cdf",
+  "text_sha256": "c82ee771c71a7d60d82c4ffc14e565b96c9827df698380022909863ed18c2533",
+  "byte_size": 165888,
+  "title": "Election Results and Report – Dixie County Supervisor of Elections",
+  "error": null
+}

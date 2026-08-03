@@ -1,0 +1,19 @@
+{
+  "county": "Sarasota",
+  "page_type": "elections",
+  "requested_url": "https://www.sarasotavotes.gov/31/Elections",
+  "final_url": "https://www.sarasotavotes.gov/31/Elections",
+  "redirect_chain": [
+    "https://www.sarasotavotes.gov/31/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "8e8c77128843afea63989ca5d5c232012d81cb539d64ac25a0b79570891841b7",
+  "text_sha256": "bb460a38c6f954b797b29f7d370755351db16756f439947eb20ad01ba350a1f0",
+  "byte_size": 51312,
+  "title": "Elections | Sarasota County Supervisor of Elections, FL",
+  "error": null
+}

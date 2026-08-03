@@ -1,0 +1,19 @@
+{
+  "county": "Escambia",
+  "page_type": "polling",
+  "requested_url": "https://escambiavotes.gov/news/2026/07/21/polling-location-changes-for-2026-(revised)",
+  "final_url": "https://escambiavotes.gov/news/2026/07/21/polling-location-changes-for-2026-(revised)",
+  "redirect_chain": [
+    "https://escambiavotes.gov/news/2026/07/21/polling-location-changes-for-2026-(revised)"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "f0b42941345db96c44494b30111d9d753696b5208d93cd6d708bcaecd4c0c350",
+  "text_sha256": "37fb7706dd6af8f97ba4437f8561635b173923fafa840f7cedfa967761fe0e16",
+  "byte_size": 41712,
+  "title": "Polling Location Changes For 2026 (Revised)",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Citrus",
+  "page_type": "results",
+  "requested_url": "https://www.votecitrus.gov/193/Election-Results-1992-to-2026",
+  "final_url": "https://www.votecitrus.gov/193/Election-Results-1992-to-2026",
+  "redirect_chain": [
+    "https://www.votecitrus.gov/193/Election-Results-1992-to-2026"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "91b3758bcd4bca29ef03885fcab7c64409c291e6aa19e06791c963ca16fb80ac",
+  "text_sha256": "3ea2482df05bcc1963cfc16c467739ae6b998b0af8fabdc6f672b5f7661a40c1",
+  "byte_size": 194470,
+  "title": "Election Results 1992 to 2026 | Citrus County Elections, FL",
+  "error": null
+}

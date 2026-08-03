@@ -1,0 +1,19 @@
+{
+  "county": "Sumter",
+  "page_type": "elections",
+  "requested_url": "https://elections.sumtercountyfl.gov/163/Upcoming-Election-Information",
+  "final_url": "https://elections.sumtercountyfl.gov/163/Upcoming-Election-Information",
+  "redirect_chain": [
+    "https://elections.sumtercountyfl.gov/163/Upcoming-Election-Information"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "3223e9717a36926447027304d9317795aba915a0c063cf7ee06f8613c4ed96f9",
+  "text_sha256": "8a40fa0623ad8247da96cbee5447126d8d825cde8fce55e8abdba8bce7967c65",
+  "byte_size": 52553,
+  "title": "Upcoming Election Information | Sumter County Elections, FL",
+  "error": null
+}

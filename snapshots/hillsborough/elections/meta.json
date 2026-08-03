@@ -1,0 +1,19 @@
+{
+  "county": "Hillsborough",
+  "page_type": "elections",
+  "requested_url": "https://www.votehillsborough.gov/AlertCenter.aspx",
+  "final_url": "https://www.votehillsborough.gov/AlertCenter.aspx",
+  "redirect_chain": [
+    "https://www.votehillsborough.gov/AlertCenter.aspx"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "0b36026784c3abaa9462288b21bc33018091290502645c34bd849562f0579f2b",
+  "text_sha256": "2a154b655c1ae4ed0d4c60127da5dd3a0903fc083db74cbe6e768cb0984f21f2",
+  "byte_size": 42741,
+  "title": "Alert Center • Hillsborough County Elections, FL • CivicEnga",
+  "error": null
+}

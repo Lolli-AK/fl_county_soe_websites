@@ -1,0 +1,19 @@
+{
+  "county": "Volusia",
+  "page_type": "elections",
+  "requested_url": "https://www.volusiaelections.gov/elections/",
+  "final_url": "https://www.volusiaelections.gov/elections/",
+  "redirect_chain": [
+    "https://www.volusiaelections.gov/elections/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "a5f50026bb34d80fb510a044ff5b0d64240c464d160cba1a26d39ec9de78075c",
+  "text_sha256": "d4be27926fb13d31fbf6e74f3cf4c8d862f49b0b7feaeb1602a16401acc3e8fc",
+  "byte_size": 35751,
+  "title": "Elections | Volusia County Supervisor of Elections",
+  "error": null
+}

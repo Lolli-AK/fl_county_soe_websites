@@ -1,0 +1,19 @@
+{
+  "county": "Baker",
+  "page_type": "homepage",
+  "requested_url": "https://votebakerfl.gov",
+  "final_url": "https://votebakerfl.gov",
+  "redirect_chain": [
+    "https://votebakerfl.gov"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "3f9e48313f5b57bc804f8c60355200535c329e37930f29aa5d7ca6142814a33d",
+  "text_sha256": "0d587970631618efca82c0ed341ad479de952ed5b21c442d8240588731177b7f",
+  "byte_size": 22179,
+  "title": "Baker County Supervisor of Elections � Civic Template",
+  "error": null
+}

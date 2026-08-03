@@ -1,0 +1,19 @@
+{
+  "county": "Clay",
+  "page_type": "elections",
+  "requested_url": "https://clayelections.gov/event_type/elections/",
+  "final_url": "https://clayelections.gov/event_type/elections/",
+  "redirect_chain": [
+    "https://clayelections.gov/event_type/elections/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "9c28c3a75df0a4d8f8637d78715deab509f84b388e520e92e8916026f8081b58",
+  "text_sha256": "b1f5fdf941738cadd37e7a97e073427685d772f0d826db9a884a3e066a2d99cd",
+  "byte_size": 107896,
+  "title": "Elections Archives - Clay County Supervisor of Elections",
+  "error": null
+}

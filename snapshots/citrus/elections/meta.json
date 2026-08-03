@@ -1,0 +1,19 @@
+{
+  "county": "Citrus",
+  "page_type": "elections",
+  "requested_url": "https://www.votecitrus.gov/171/Election-Information",
+  "final_url": "https://www.votecitrus.gov/171/Election-Information",
+  "redirect_chain": [
+    "https://www.votecitrus.gov/171/Election-Information"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "685d0465faf0d5163088765c581b4c3b4da9f351148f4653154f3646746fffe8",
+  "text_sha256": "1c42db344dab892db3e8a9650b4359ba0d346e87ea07f7a394869de6861233b5",
+  "byte_size": 96339,
+  "title": "Election Information | Citrus County Elections, FL",
+  "error": null
+}

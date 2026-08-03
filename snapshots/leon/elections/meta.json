@@ -1,0 +1,19 @@
+{
+  "county": "Leon",
+  "page_type": "elections",
+  "requested_url": "https://www.leonvotes.gov/Voting/Dates-Deadlines",
+  "final_url": "https://www.leonvotes.gov/Voting/Dates-Deadlines",
+  "redirect_chain": [
+    "https://www.leonvotes.gov/Voting/Dates-Deadlines"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "065231e296c5583ac948991b4b1ea430827543e7fb7ed9f69b3e3bad15935fe8",
+  "text_sha256": "45011510f560dc6aaf66d9b41acb510ef507d7b18aa59f66485147e66427b902",
+  "byte_size": 126931,
+  "title": "Dates & Deadlines",
+  "error": null
+}

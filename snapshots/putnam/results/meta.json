@@ -1,0 +1,19 @@
+{
+  "county": "Putnam",
+  "page_type": "results",
+  "requested_url": "https://www.voteputnamflorida.gov/election_information/election_results.php",
+  "final_url": "https://www.voteputnamflorida.gov/election_information/election_results.php",
+  "redirect_chain": [
+    "https://www.voteputnamflorida.gov/election_information/election_results.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "e7d072a18938e7bba5a0e081ac2b9086befeb24a35a0bc57f90e092fff81e8e5",
+  "text_sha256": "52b8b3c99ee8f26c6df0c7b87ddb4fd8c8e0651d3fe0bcd7187e3002aad20029",
+  "byte_size": 185798,
+  "title": "Putnam County, Florida - Supervisor of Elections",
+  "error": null
+}

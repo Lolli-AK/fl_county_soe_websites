@@ -1,0 +1,19 @@
+{
+  "county": "Union",
+  "page_type": "early_voting",
+  "requested_url": "https://unionflvotes.com/voters/vote-early/",
+  "final_url": "https://unionflvotes.com/voters/vote-early/",
+  "redirect_chain": [
+    "https://unionflvotes.com/voters/vote-early/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "2c21df836826ad21c7310081d6561716e56b21934e90c5b0f6637e72557f39b9",
+  "text_sha256": "25360d288025888fdfad2dbe3d295f6bea6a333e869d1693271273be993b7c5e",
+  "byte_size": 72400,
+  "title": "Vote Early | Union County Supervisor of Elections",
+  "error": null
+}

@@ -1,0 +1,1088 @@
+<!DOCTYPE html>
+<html lang="en-US">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="/app.webmanifest" rel="manifest"/>
+  <title>
+   Vote Early
+  </title>
+  <meta content="max-image-preview:large" name="robots"/>
+  <link href="https://www.votemadison.com/wordpress/xmlrpc.php?rsd=" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="https://www.votemadison.com/?p=970" rel="shortlink"/>
+  <meta content="View the early voting locations in Madison County, Florida, and beat the long lines on Election Day by voting early in the upcoming election." name="description"/>
+  <meta content="article" property="og:type"/>
+  <meta content="https://www.votemadison.com/vote-early/" property="og:url"/>
+  <meta content="Vote Early" property="og:title"/>
+  <meta content="View the early voting locations in Madison County, Florida, and beat the long lines on Election Day by voting early in the upcoming election." property="og:description"/>
+  <meta content="2025-05-30T16:33:01" property="article:published_time"/>
+  <meta content="KMA" property="article:author"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="Vote Early" name="twitter:title"/>
+  <meta content="View the early voting locations in Madison County, Florida, and beat the long lines on Election Day by voting early in the upcoming election." name="twitter:description"/>
+ </head>
+ <body class="wp-singular page-template-default page page-id-970 wp-theme-kmatailwind">
+  <div id="app">
+   <div class="fixed inset-0 z-40 bg-gray-900/30 backdrop-blur-sm overflow-hidden" v-if="isHovered">
+   </div>
+   <main class="w-full font-sans text-base antialiased overflow-hidden relative" role="main">
+    <a class="absolute -top-40 focus:top-2 left-2 h-auto w-auto px-4 py-2 bg-white border rounded text-gray-900 font-bold focus:border-4 z-[100]" href="#content">
+     Skip to content
+    </a>
+    <header class="transition-all duration-700 flex flex-col lg:flex-wrap w-full fixed z-50 bg-white shadow-lg border-b-[10px] border-accent">
+     <div class="relative z-20 w-full">
+      <div :class="{
+        'h-28 md:h-32 lg:h-32': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+        'h-16 md:h-28 lg:h-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+      }" class="transition-all flex flex-col" v-cloak="">
+       <div :class="{ '-mt-12 2xl:-mt-14': scrollPosition &gt; 0 || openMenu == 'mobileMenu' }" class="bg-primary-rich h-12 2xl:h-14 w-full flex justify-end relative z-20 transition-all">
+        <div class="w-full sm:max-w-[220px] h-full">
+         <div class="w-full h-full" id="google_translate_element">
+         </div>
+        </div>
+        <div class="hidden h-12 2xl:h-14 sm:flex bg-secondary-light">
+         <form action="/" class="flex h-12 overflow-visible w-full border-none bg-secondary-light" method="get" role="search">
+          <input aria-label="Enter words to search for" class="font-medium placeholder:font-sans placeholder:text-primary-dark/80 placeholder:italic text-sm border-none h-12 2xl:h-14 px-4 flex-grow bg-[#F3F3F3] focus:bg-white focus:text-gray-800 focus-within:outline-primary/50 focus-within:rounded-none 2xl:w-[240px]" id="searchfield" name="s" placeholder="Search this website" ref="searchfield" type="text" value=""/>
+          <button class="text-white bg-accent flex h-12 w-12 2xl:w-14 2xl:h-14 items-center justify-center" type="submit">
+           <span class="sr-only">
+            Search Website
+           </span>
+          </button>
+         </form>
+        </div>
+       </div>
+       <div class="flex md:order-1 gap-4">
+        <a :class="{
+          'h-16 md:h-32 md:-mt-12 lg:h-32 2xl:-mt-14': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+          'h-16 md:h-28 lg:h-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+        }" class="flex lg:bg-white lg:relative lg:z-20" href="/">
+         <img alt="photo of Heath Driggers, Supervisor of Elections" class="block h-full w-auto transition-all relative z-20" height="64" src="/images/soe-headshot.webp" width="52"/>
+         <div :class="{
+            'md:pt-12': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+            'md:pt-0 lg:py-2': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+          }" class="my-auto transition-all p-1 lg:pt-0 lg:pr-8">
+          <img :class="{
+                'xl:h-20 2xl:w-[465px]': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+                '': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+              }" alt="Madison County Supervisor of Elections" class="block mr-auto xl:max-w-lg max-h-full xl:my-auto h-12 md:h-14 lg:h-16 w-auto ml-0" height="48" src="/images/soe-logo.svg" width="285.83"/>
+         </div>
+        </a>
+        <div class="flex xl:hidden my-auto sm:px-4 md:px-8 ml-auto">
+         <div @click="toggleMenu('mobileMenu')" class="flex gap-4 px-4 items-center leading-none text-lg justify-center cursor-pointer group h-16 sm:h-12 text-primary-dark bg-gray-100 dark:border-white font-condensed font-bold hover:bg-secondary-lighter transition-all duration-300" tabindex="0" v-cloak="">
+          <span class="hidden sm:flex pb-1">
+           MENU
+          </span>
+          <div v-if="openMenu != 'mobileMenu'">
+          </div>
+          <div v-if="openMenu == 'mobileMenu'">
+          </div>
+         </div>
+        </div>
+        <div class="hidden xl:flex justify-end grow">
+         <nav @mouseenter="isHovered = true" @mouseleave="isHovered = false" class="hidden w-auto h-full xl:flex static transition-all duration-300 px-4 xl:px-8" v-cloak="">
+          <div class="group h-full">
+           <a aria-label="navigation link" class="nav-link" role="button" tabindex="0">
+            <span>
+             Voters
+            </span>
+           </a>
+           <div class="mega-menu-container transition-all duration-300">
+            <div class="mega-menu-grid relative dark">
+             <div class="relative z-20 px-4 col-span-1 py-8">
+              <p class="mega-menu-title" tabindex="0">
+               Voters
+              </p>
+             </div>
+             <div class="relative z-20 col-span-3 p-8 bg-gray-950/30 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12">
+              <div class="relative">
+               <a class="group no-underline block" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title">
+                 Ways to Vote
+                </span>
+               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/vote-on-election-day/" role="button" tabindex="0" target="">
+                 <span>
+                  Vote on Election Day
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/vote-early/" role="button" tabindex="0" target="">
+                 <span>
+                  Vote Early
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/voters/vote-by-mail/" role="button" tabindex="0" target="">
+                 <span>
+                  Vote By Mail
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://madison-soe.s3.amazonaws.com/uploads/2025/06/03110923/dsde139.pdf" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Vote By Mail Ballot Cure Affidavit - DSD-139 (English)
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 text-white h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://madison-soe.s3.amazonaws.com/uploads/2025/06/03110923/dsde139.pdf" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Vote by Mail Ballot Cure Affidavit - DSDE-139 (Español)
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 text-white h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://files.floridados.gov/media/708151/ds-de-162-eng-statewide-vote-by-mail-delivery-affidavit-form-final-adopted-eng-202405-fillable-pm.pdf" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Affidavit To Pick-Up Vote By Mail Ballot For A Voter (Form DS-DE 162)
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 text-white h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.fvap.gov/" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Military / Overseas Voting
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 text-white h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+               </div>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title">
+                 Voters
+                </span>
+               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/check-voter-status/" role="button" tabindex="0" target="">
+                 <span>
+                  Check Voter Status
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://registertovoteflorida.gov/home" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Register to Vote
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 text-white h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/update-my-info/" role="button" tabindex="0" target="">
+                 <span>
+                  Update My Info
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/sample-ballots/" role="button" tabindex="0" target="">
+                 <span>
+                  Sample Ballots
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/track-my-ballot/" role="button" tabindex="0" target="">
+                 <span>
+                  Track My Ballot
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/where-to-vote-in-person/" role="button" tabindex="0" target="">
+                 <span>
+                  Where to Vote in Person
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/voters-rights-and-responsibilities/" role="button" tabindex="0" target="">
+                 <span>
+                  Voter’s Rights &amp; Responsibilities
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/voters/provisional-ballot-information/" role="button" tabindex="0" target="">
+                 <span>
+                  Provisional Ballot Information
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/voters/civil-rights-restoration/" role="button" tabindex="0" target="">
+                 <span>
+                  Civil Rights Restoration
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/vote-in-honor-of-a-vet/" role="button" tabindex="0" target="">
+                 <span>
+                  Vote in Honor of a Vet
+                 </span>
+                </a>
+               </div>
+              </div>
+             </div>
+             <div class="absolute z-0 inset-0 opacity-50 bg-cover bg-no-repeat bg-blend-multiply">
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="group h-full">
+           <a aria-label="navigation link" class="nav-link" role="button" tabindex="0">
+            <span>
+             Elections
+            </span>
+           </a>
+           <div class="mega-menu-container transition-all duration-300">
+            <div class="mega-menu-grid relative dark">
+             <div class="relative z-20 px-4 col-span-1 py-8">
+              <p class="mega-menu-title" tabindex="0">
+               Elections
+              </p>
+             </div>
+             <div class="relative z-20 col-span-3 p-8 bg-gray-950/30 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12">
+              <div class="relative">
+               <a class="group no-underline block" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title">
+                 Current &amp; Upcoming Elections
+                </span>
+               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/events/" role="button" tabindex="0" target="">
+                 <span>
+                  Events &amp; Dates to Remember
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/elections/election-results/" role="button" tabindex="0" target="">
+                 <span>
+                  Election Results
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://dos.fl.gov/elections/for-voters/election-dates/" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Upcoming Elections
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 text-white h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/2024-primary-election-preparation-report/" role="button" tabindex="0" target="">
+                 <span>
+                  2024 Primary Election Preparation Report
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/closed-primary-elections/" role="button" tabindex="0" target="">
+                 <span>
+                  Closed Primary Elections
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="http://www.flsenate.gov/Laws/Statutes/2011/Title9/#Title9" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Election Laws
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 text-white h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/about-municipal-elections/" role="button" tabindex="0" target="">
+                 <span>
+                  About Municipal Elections
+                 </span>
+                </a>
+               </div>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title">
+                 At the Polls
+                </span>
+               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/voting-system/" role="button" tabindex="0" target="">
+                 <span>
+                  Voting System
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/poll-watchers/" role="button" tabindex="0" target="">
+                 <span>
+                  Poll Watchers
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/poll-workers/" role="button" tabindex="0" target="">
+                 <span>
+                  Poll Workers
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/initiative-petitions/" role="button" tabindex="0" target="">
+                 <span>
+                  Initiative Petitions
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/adopt-a-precinct/" role="button" tabindex="0" target="">
+                 <span>
+                  Adopt a Precinct
+                 </span>
+                </a>
+               </div>
+              </div>
+             </div>
+             <div class="absolute z-0 inset-0 opacity-50 bg-cover bg-no-repeat bg-blend-multiply">
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="group h-full">
+           <a aria-label="navigation link" class="nav-link" role="button" tabindex="0">
+            <span>
+             Candidates
+            </span>
+           </a>
+           <div class="mega-menu-container transition-all duration-300">
+            <div class="mega-menu-grid relative dark">
+             <div class="relative z-20 px-4 col-span-1 py-8">
+              <p class="mega-menu-title" tabindex="0">
+               Candidates
+              </p>
+             </div>
+             <div class="relative z-20 col-span-3 p-8 bg-gray-950/30 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12">
+              <div class="relative">
+               <a class="group no-underline block" href="https://www.votemadison.com/candidates/how-to-become-a-candidate/" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title hover:underline">
+                 How to Become a Candidate
+                </span>
+               </a>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" href="https://www.votemadison.com/candidates/electronic-reporting-login/" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title hover:underline">
+                 Electronic Reporting Login
+                </span>
+               </a>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" href="https://www.votemadison.com/candidate-file-download/" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title hover:underline">
+                 Candidate File Download
+                </span>
+               </a>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" href="https://www.votemadison.com/search-financial-reports/" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title hover:underline">
+                 Search Financial Reports
+                </span>
+               </a>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" href="https://www.votemadison.com/list-of-candidates-and-committees/" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title hover:underline">
+                 List of Candidates &amp; Committees
+                </span>
+               </a>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" href="https://www.votemadison.com/qualifying-office-location/" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title hover:underline">
+                 Qualifying Office Location
+                </span>
+               </a>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" href="https://dos.fl.gov/elections/contacts/frequently-asked-questions/" role="button" tabindex="0" target="_blank">
+                <span class="mega-menu-child-title hover:underline">
+                 FAQ's Prospective Candidates
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" href="https://www.votemadison.com/ballot-material-inspection/" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title hover:underline">
+                 Ballot Material Inspection
+                </span>
+               </a>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" href="https://www.census.gov/quickfacts/fact/table/US/PST045216" role="button" tabindex="0" target="_blank">
+                <span class="mega-menu-child-title hover:underline">
+                 Census Quick Facts
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" href="https://qpublic.schneidercorp.com/Application.aspx?AppID=911&amp;LayerID=17548&amp;PageTypeID=1&amp;PageID=7845" role="button" tabindex="0" target="_blank">
+                <span class="mega-menu-child-title hover:underline">
+                 Precinct Boundary Map
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" href="https://madison-soe.s3.amazonaws.com/uploads/2025/06/03151344/mad20241125_DS-DE107.pdf" role="button" tabindex="0" target="_blank">
+                <span class="mega-menu-child-title hover:underline">
+                 Post Election Audit Reports
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" href="https://madison-soe.s3.amazonaws.com/uploads/2025/06/03150554/How_to_File_Financial_Reports_Online_v.2023.pdf" role="button" tabindex="0" target="_blank">
+                <span class="mega-menu-child-title hover:underline">
+                 How to File Financial Reports Online
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" href="https://www.votemadison.com/florida-commisson-of-ethics-information-and-forms/" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title hover:underline">
+                 Florida Commission of Ethics Information &amp; Forms
+                </span>
+               </a>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" href="https://dos.fl.gov/elections/forms-publications/publicationsreports/" role="button" tabindex="0" target="_blank">
+                <span class="mega-menu-child-title hover:underline">
+                 Candidate Handbooks &amp; Other Guides
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+              </div>
+             </div>
+             <div class="absolute z-0 inset-0 opacity-50 bg-cover bg-no-repeat bg-blend-multiply">
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="group h-full">
+           <a aria-label="navigation link" class="nav-link" role="button" tabindex="0">
+            <span>
+             Resources
+            </span>
+           </a>
+           <div class="mega-menu-container transition-all duration-300">
+            <div class="mega-menu-grid relative dark">
+             <div class="relative z-20 px-4 col-span-1 py-8">
+              <p class="mega-menu-title" tabindex="0">
+               Resources
+              </p>
+             </div>
+             <div class="relative z-20 col-span-3 p-8 bg-gray-950/30 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12">
+              <div class="relative">
+               <a class="group no-underline block" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title">
+                 General Information
+                </span>
+               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/announcements/" role="button" tabindex="0" target="">
+                 <span>
+                  News &amp; Announcements
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/meet-the-supervisor/" role="button" tabindex="0" target="">
+                 <span>
+                  Meet the Supervisor
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://dos.fl.gov/elections/for-voters/election-dates/" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Election Calendar
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 text-white h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/contact-us/" role="button" tabindex="0" target="">
+                 <span>
+                  Contact Us
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/tell-us-how-we-are-doing/" role="button" tabindex="0" target="">
+                 <span>
+                  Tell Us How We Are Doing
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/textmygov/" role="button" tabindex="0" target="">
+                 <span>
+                  TextMyGov
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://files.floridados.gov/media/695951/address-confidentiality-exemption-form-07-2025.pdf" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Public Records Exemption Request
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 text-white h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+               </div>
+              </div>
+              <div class="relative">
+               <a class="group no-underline block" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title">
+                 Your Elected Officials
+                </span>
+               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/federal-officials/" role="button" tabindex="0" target="">
+                 <span>
+                  Federal Officials
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.flhouse.gov/" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Federal &amp; State Representatives
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 text-white h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/state-officials/" role="button" tabindex="0" target="">
+                 <span>
+                  State Officials
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://madisoncountyfl.com/meet-your-commissioners/" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Madison County Commissioners
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 text-white h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/madison-county-school-officials/" role="button" tabindex="0" target="">
+                 <span>
+                  Madison County School Officials
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/madison-city-government/" role="button" tabindex="0" target="">
+                 <span>
+                  Madison City Government
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/lee-city-government/" role="button" tabindex="0" target="">
+                 <span>
+                  Lee City Government
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/greenville-city-government/" role="button" tabindex="0" target="">
+                 <span>
+                  Greenville City Government
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votemadison.com/third-circuit-prosecutor-defender/" role="button" tabindex="0" target="">
+                 <span>
+                  Third Circuit Prosecutor &amp; Defender
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://dos.fl.gov/" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Division of Elections
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 text-white h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+               </div>
+              </div>
+             </div>
+             <div class="absolute z-0 inset-0 opacity-50 bg-cover bg-no-repeat bg-blend-multiply">
+             </div>
+            </div>
+           </div>
+          </div>
+         </nav>
+        </div>
+       </div>
+      </div>
+     </div>
+    </header>
+    <div :class="{
+    '-translate-y-full lg:translate-y-0 lg:translate-x-full': openMenu != 'mobileMenu',
+    'translate-y-none lg:translate-x-none': openMenu == 'mobileMenu',
+  }" class="fixed xl:hidden w-full h-screen bg-cover bg-primary-dark/90 backdrop-blur-xl z-40 shadow-2xl items-center transition-all duration-500 lg:max-w-sm lg:border-l-2 mt-auto lg:right-0 border-primary top-0 dark" tabindex="0" v-cloak="">
+     <div class="h-full overflow-y-auto relative z-20">
+      <div class="pt-28 md:pt-40 px-6">
+       <form action="/" class="flex h-12 overflow-visible w-full border-none bg-secondary-light" method="get" role="search">
+        <input aria-label="Enter words to search for" class="font-medium placeholder:font-sans placeholder:text-primary-dark/80 placeholder:italic text-sm border-none h-12 2xl:h-14 px-4 flex-grow bg-[#F3F3F3] focus:bg-white focus:text-gray-800 focus-within:outline-primary/50 focus-within:rounded-none 2xl:w-[240px]" id="searchfield" name="s" placeholder="Search this website" ref="searchfield" type="text" value=""/>
+        <button class="text-white bg-accent flex h-12 w-12 2xl:w-14 2xl:h-14 items-center justify-center" type="submit">
+         <span class="sr-only">
+          Search Website
+         </span>
+        </button>
+       </form>
+      </div>
+      <nav class="pb-24 pt-8" v-if="openMenu == 'mobileMenu'">
+       <div class="w-full px-6">
+        <div class="flex items-center pt-3 pb-2 gap-8 border-b border-white/10 w-full">
+         <span @click="openSubMenu(0)" class="mobile-nav-item">
+          Voters
+         </span>
+         <span @click="openSubMenu(0)" class="grow flex">
+          <span :class="{
+                    'rotate-45': !subMenus.includes(0)
+                  }" class="transition w-8 h-8 flex justify-center items-center flex-none rounded-full border border-white/30 ml-auto">
+          </span>
+         </span>
+        </div>
+        <div class="flex flex-col pt-4 pb-6 pl-3 transition" v-if="subMenus.includes(0)">
+         <a class="mobile-nav-child" href="#" title="Voters">
+          Ways to Vote
+         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/vote-on-election-day/">
+           Vote on Election Day
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/vote-early/">
+           Vote Early
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/voters/vote-by-mail/">
+           Vote By Mail
+          </a>
+          <a class="mobile-nav-grandchild gap-2" href="https://madison-soe.s3.amazonaws.com/uploads/2025/06/03110923/dsde139.pdf" target="_blank">
+           Vote By Mail Ballot Cure Affidavit - DSD-139 (English)
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild gap-2" href="https://madison-soe.s3.amazonaws.com/uploads/2025/06/03110923/dsde139.pdf" target="_blank">
+           Vote by Mail Ballot Cure Affidavit - DSDE-139 (Español)
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild gap-2" href="https://files.floridados.gov/media/708151/ds-de-162-eng-statewide-vote-by-mail-delivery-affidavit-form-final-adopted-eng-202405-fillable-pm.pdf" target="_blank">
+           Affidavit To Pick-Up Vote By Mail Ballot For A Voter (Form DS-DE 162)
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild gap-2" href="https://www.fvap.gov/" target="_blank">
+           Military / Overseas Voting
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+         </div>
+         <a class="mobile-nav-child" href="#" title="Voters">
+          Voters
+         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/check-voter-status/">
+           Check Voter Status
+          </a>
+          <a class="mobile-nav-grandchild gap-2" href="https://registertovoteflorida.gov/home" target="_blank">
+           Register to Vote
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/update-my-info/">
+           Update My Info
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/sample-ballots/">
+           Sample Ballots
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/track-my-ballot/">
+           Track My Ballot
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/where-to-vote-in-person/">
+           Where to Vote in Person
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/voters-rights-and-responsibilities/">
+           Voter’s Rights &amp; Responsibilities
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/voters/provisional-ballot-information/">
+           Provisional Ballot Information
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/voters/civil-rights-restoration/">
+           Civil Rights Restoration
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/vote-in-honor-of-a-vet/">
+           Vote in Honor of a Vet
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="w-full px-6">
+        <div class="flex items-center pt-3 pb-2 gap-8 border-b border-white/10 w-full">
+         <span @click="openSubMenu(1)" class="mobile-nav-item">
+          Elections
+         </span>
+         <span @click="openSubMenu(1)" class="grow flex">
+          <span :class="{
+                    'rotate-45': !subMenus.includes(1)
+                  }" class="transition w-8 h-8 flex justify-center items-center flex-none rounded-full border border-white/30 ml-auto">
+          </span>
+         </span>
+        </div>
+        <div class="flex flex-col pt-4 pb-6 pl-3 transition" v-if="subMenus.includes(1)">
+         <a class="mobile-nav-child" href="#" title="Elections">
+          Current &amp; Upcoming Elections
+         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/events/">
+           Events &amp; Dates to Remember
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/elections/election-results/">
+           Election Results
+          </a>
+          <a class="mobile-nav-grandchild gap-2" href="https://dos.fl.gov/elections/for-voters/election-dates/" target="_blank">
+           Upcoming Elections
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/2024-primary-election-preparation-report/">
+           2024 Primary Election Preparation Report
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/closed-primary-elections/">
+           Closed Primary Elections
+          </a>
+          <a class="mobile-nav-grandchild gap-2" href="http://www.flsenate.gov/Laws/Statutes/2011/Title9/#Title9" target="_blank">
+           Election Laws
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/about-municipal-elections/">
+           About Municipal Elections
+          </a>
+         </div>
+         <a class="mobile-nav-child" href="#" title="Elections">
+          At the Polls
+         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/voting-system/">
+           Voting System
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/poll-watchers/">
+           Poll Watchers
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/poll-workers/">
+           Poll Workers
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/initiative-petitions/">
+           Initiative Petitions
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/adopt-a-precinct/">
+           Adopt a Precinct
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="w-full px-6">
+        <div class="flex items-center pt-3 pb-2 gap-8 border-b border-white/10 w-full">
+         <span @click="openSubMenu(2)" class="mobile-nav-item">
+          Candidates
+         </span>
+         <span @click="openSubMenu(2)" class="grow flex">
+          <span :class="{
+                    'rotate-45': !subMenus.includes(2)
+                  }" class="transition w-8 h-8 flex justify-center items-center flex-none rounded-full border border-white/30 ml-auto">
+          </span>
+         </span>
+        </div>
+        <div class="flex flex-col pt-4 pb-6 pl-3 transition" v-if="subMenus.includes(2)">
+         <a class="mobile-nav-child" href="https://www.votemadison.com/candidates/how-to-become-a-candidate/" title="Candidates">
+          How to Become a Candidate
+         </a>
+         <a class="mobile-nav-child" href="https://www.votemadison.com/candidates/electronic-reporting-login/" title="Candidates">
+          Electronic Reporting Login
+         </a>
+         <a class="mobile-nav-child" href="https://www.votemadison.com/candidate-file-download/" title="Candidates">
+          Candidate File Download
+         </a>
+         <a class="mobile-nav-child" href="https://www.votemadison.com/search-financial-reports/" title="Candidates">
+          Search Financial Reports
+         </a>
+         <a class="mobile-nav-child" href="https://www.votemadison.com/list-of-candidates-and-committees/" title="Candidates">
+          List of Candidates &amp; Committees
+         </a>
+         <a class="mobile-nav-child" href="https://www.votemadison.com/qualifying-office-location/" title="Candidates">
+          Qualifying Office Location
+         </a>
+         <a class="mobile-nav-child gap-2" href="https://dos.fl.gov/elections/contacts/frequently-asked-questions/" target="_blank" title="Candidates">
+          FAQ's Prospective Candidates
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-child" href="https://www.votemadison.com/ballot-material-inspection/" title="Candidates">
+          Ballot Material Inspection
+         </a>
+         <a class="mobile-nav-child gap-2" href="https://www.census.gov/quickfacts/fact/table/US/PST045216" target="_blank" title="Candidates">
+          Census Quick Facts
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-child gap-2" href="https://qpublic.schneidercorp.com/Application.aspx?AppID=911&amp;LayerID=17548&amp;PageTypeID=1&amp;PageID=7845" target="_blank" title="Candidates">
+          Precinct Boundary Map
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-child gap-2" href="https://madison-soe.s3.amazonaws.com/uploads/2025/06/03151344/mad20241125_DS-DE107.pdf" target="_blank" title="Candidates">
+          Post Election Audit Reports
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-child gap-2" href="https://madison-soe.s3.amazonaws.com/uploads/2025/06/03150554/How_to_File_Financial_Reports_Online_v.2023.pdf" target="_blank" title="Candidates">
+          How to File Financial Reports Online
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-child" href="https://www.votemadison.com/florida-commisson-of-ethics-information-and-forms/" title="Candidates">
+          Florida Commission of Ethics Information &amp; Forms
+         </a>
+         <a class="mobile-nav-child gap-2" href="https://dos.fl.gov/elections/forms-publications/publicationsreports/" target="_blank" title="Candidates">
+          Candidate Handbooks &amp; Other Guides
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+        </div>
+       </div>
+       <div class="w-full px-6">
+        <div class="flex items-center pt-3 pb-2 gap-8 border-b border-white/10 w-full">
+         <span @click="openSubMenu(3)" class="mobile-nav-item">
+          Resources
+         </span>
+         <span @click="openSubMenu(3)" class="grow flex">
+          <span :class="{
+                    'rotate-45': !subMenus.includes(3)
+                  }" class="transition w-8 h-8 flex justify-center items-center flex-none rounded-full border border-white/30 ml-auto">
+          </span>
+         </span>
+        </div>
+        <div class="flex flex-col pt-4 pb-6 pl-3 transition" v-if="subMenus.includes(3)">
+         <a class="mobile-nav-child" href="#" title="Resources">
+          General Information
+         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/announcements/">
+           News &amp; Announcements
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/meet-the-supervisor/">
+           Meet the Supervisor
+          </a>
+          <a class="mobile-nav-grandchild gap-2" href="https://dos.fl.gov/elections/for-voters/election-dates/" target="_blank">
+           Election Calendar
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/contact-us/">
+           Contact Us
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/tell-us-how-we-are-doing/">
+           Tell Us How We Are Doing
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/textmygov/">
+           TextMyGov
+          </a>
+          <a class="mobile-nav-grandchild gap-2" href="https://files.floridados.gov/media/695951/address-confidentiality-exemption-form-07-2025.pdf" target="_blank">
+           Public Records Exemption Request
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+         </div>
+         <a class="mobile-nav-child" href="#" title="Resources">
+          Your Elected Officials
+         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/federal-officials/">
+           Federal Officials
+          </a>
+          <a class="mobile-nav-grandchild gap-2" href="https://www.flhouse.gov/" target="_blank">
+           Federal &amp; State Representatives
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/state-officials/">
+           State Officials
+          </a>
+          <a class="mobile-nav-grandchild gap-2" href="https://madisoncountyfl.com/meet-your-commissioners/" target="_blank">
+           Madison County Commissioners
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/madison-county-school-officials/">
+           Madison County School Officials
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/madison-city-government/">
+           Madison City Government
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/lee-city-government/">
+           Lee City Government
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/greenville-city-government/">
+           Greenville City Government
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votemadison.com/third-circuit-prosecutor-defender/">
+           Third Circuit Prosecutor &amp; Defender
+          </a>
+          <a class="mobile-nav-grandchild gap-2" href="https://dos.fl.gov/" target="_blank">
+           Division of Elections
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+         </div>
+        </div>
+       </div>
+      </nav>
+     </div>
+    </div>
+    <div :class="{
+    'top-44': scrollPosition &lt;= 0,
+    'top-28': scrollPosition &gt; 0
+  }" class="block sm:hidden w-full right-0 left-0 fixed z-50 backdrop-blur-lg h-auto bg-primary-dark mt-2" v-cloak="" v-if="openMenu == 'searchMenu'">
+     <div class="p-2">
+      <form action="/" class="flex h-12 overflow-visible w-full border-none bg-secondary-light" method="get" role="search">
+       <input aria-label="Enter words to search for" class="font-medium placeholder:font-sans placeholder:text-primary-dark/80 placeholder:italic text-sm border-none h-12 2xl:h-14 px-4 flex-grow bg-[#F3F3F3] focus:bg-white focus:text-gray-800 focus-within:outline-primary/50 focus-within:rounded-none 2xl:w-[240px]" id="searchfield" name="s" placeholder="Search this website" ref="searchfield" type="text" value=""/>
+       <button class="text-white bg-accent flex h-12 w-12 2xl:w-14 2xl:h-14 items-center justify-center" type="submit">
+        <span class="sr-only">
+         Search Website
+        </span>
+       </button>
+      </form>
+     </div>
+    </div>
+    <div class="bg-white static" id="content" role="content">
+     <section class="w-full relative z-20 transition-all duration-1000 h-full bg-primary-dark lg:pb-0 grow dark top-0 bg-no-repeat bg-top">
+      <div class="contained hero-content z-10">
+       <div class="h-32 md:h-36">
+       </div>
+       <h1 class="text-2xl md:text-4xl xl:text-5xl font-bold font-heading dark:text-white text-pretty pt-10 lg:pb-4" tabindex="0">
+        Vote Early
+       </h1>
+      </div>
+      <div class="absolute inset-0 z-0 bg-gradient-to-l from-primary-rich from-20%">
+      </div>
+     </section>
+     <div class="page-wrapper">
+      <div class="contained mb-8 relative z-10">
+      </div>
+      <div class="w-full relative z-20 scroll-target">
+       <lazy-section>
+        <div class="px-4 sm:px-8">
+         <div class="">
+          <div class="w-full relative z-20 block-container max-w-5xl mx-auto md:px-12 pb-8">
+           <div class="w-full relative mt-4 mb-4 md:mb-8 lg:mb-12">
+            <div class="prose md:prose-lg dark:prose-invert text-pretty w-full max-w-none" tabindex="0">
+             <h2>
+              Identification Required to Vote Early
+             </h2>
+             <p>
+              Any voter in the county may choose to cast their ballot during the early voting period. Be sure to bring your
+              <a href="/vote-on-election-day/#identification" rel="noopener">
+               valid photo and signature identification
+              </a>
+              with you when you present yourself to vote. Any voter who does not provide the proper identification will be offered a
+              <a href="/provisional-ballot-information/" rel="">
+               Provisional Ballot
+              </a>
+              .
+             </p>
+            </div>
+            <div class="w-full flex flex-wrap gap-2 md:gap-4 xl:gap-4 py-4 justify-start">
+             <a aria-label="More Information About Early Voting opens in a new tab" class="group relative z-10 flex items-center btn-primary-icon gap-4 dark justify-between" href="https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/" target="_blank" title="More Information About Early Voting">
+              More Information About Early Voting
+              <span class="rounded-full h-4 w-4 flex items-center justify-center transition-all duration-500 mt-0.5 group-hover:translate-x-2">
+              </span>
+             </a>
+            </div>
+           </div>
+           <div class="w-full relative mt-4 mb-4 md:mb-8 lg:mb-12">
+            <div class="h-[3px] bg-gray-800/20 dark:bg-gray-100/20 grow my-8">
+            </div>
+           </div>
+           <div class="w-full relative p-4 md:p-8 border-b-8 border-primary shadow-xl my-4 md:my-8 bg-white dark:bg-gray-950/50 mt-4">
+           </div>
+          </div>
+         </div>
+        </div>
+       </lazy-section>
+      </div>
+      <div class="absolute z-0 w-full bottom-0 bg-gradient-to-t from-[#f1f1f1] h-1/4 lg:h-2/3">
+      </div>
+      <div class="absolute z-0 w-full bottom-0 bg-cover bg-top h-1/4 lg:h-1/3" v-lazy:background-image="'/images/interior-flag-bottom.svg'">
+      </div>
+     </div>
+    </div>
+    <footer class="relative z-20 overflow-hidden bg-white">
+     <div class="w-full max-w-screen-2xl mx-auto py-8 relative z-30">
+      <div class="grid lg:grid-cols-3 gap-4 p-8">
+       <div class="flex justify-center items-center lg:row-span-2 lg:py-4">
+        <img alt="Madison County Supervisor of Elections Seal" class="block mx-auto md:w-60 xl:w-72 h-auto" height="180" src="/images/soe-seal.webp" tabindex="0" width="180"/>
+       </div>
+       <div class="flex justify-center items-center lg:justify-start py-2 xl:pt-4 2xl:pt-8">
+        <img alt="Heath Driggers, Supervisor of Elections of Madison County, FL" class="block md:w-84" height="92px" src="/images/soe-logo.svg" tabindex="0" width="491px"/>
+       </div>
+       <div aria-label="Follow Us" class="flex justify-center items-center lg:justify-end py-2 xl:pt-4 2xl:pt-8">
+        <div class="flex gap-3 justify-center xl:justify-end items-center px-4">
+         <a aria-label="follow us on facebook (link opens in a new tab)" href="https://www.facebook.com/MadisonCountySOE" rel="noopener" target="_blank">
+         </a>
+        </div>
+       </div>
+       <div class="w-full grid sm:grid-cols-2 lg:grid-cols-3 md:gap-8 py-12 lg:py-8 border-t-2 border-accent md:mx-auto md:max-w-md lg:col-span-2 lg:max-w-none">
+        <div class="md:col-span-2 lg:col-span-1">
+         <div class="mb-2">
+          <p class="footer-headline" tabindex="0">
+           Email
+          </p>
+          <div class="flex items-center gap-2 not-prose">
+           <a class="footer-contact" href="/cdn-cgi/l/email-protection#REDACTED" rel="nofollow" tabindex="0">
+            <span class="__cf_email__">
+             [email protected]
+            </span>
+           </a>
+          </div>
+         </div>
+         <div class="mb-2">
+          <p class="footer-headline" tabindex="0">
+           Call
+          </p>
+          <div class="flex gap-2 items-center lg:justify-start not-prose">
+           <a class="footer-contact" href="tel:HEX" rel="nofollow" tabindex="0">
+            (850) 973-6507
+           </a>
+          </div>
+         </div>
+         <div class="mb-8">
+          <p class="footer-headline" tabindex="0">
+           Fax
+          </p>
+          <div class="flex gap-2 items-center lg:justify-start not-prose">
+           <span class="text-primary-dark font-bold block" tabindex="0">
+            (850) 973-3780
+           </span>
+          </div>
+         </div>
+        </div>
+        <div>
+         <div class="mb-2">
+          <p class="footer-headline" tabindex="0">
+           Office Address
+          </p>
+          <div class="flex gap-2 not-prose">
+           <a aria-label="Get directions to 239 SW Pinckney St,
+Madison, FL 32340" class="footer-contact leading-tight" href="https://www.google.com/maps/search/?api=1&amp;query=239+SW+Pinckney+St%2C+%0D%0AMadison%2C+FL+32340" tabindex="0" target="_blank" title="Get directions to 239 SW Pinckney St,
+Madison, FL 32340">
+            239 SW Pinckney St,
+            <br/>
+            Madison, FL 32340
+            <span class="sr-only">
+             (opens in a new tab)
+            </span>
+           </a>
+          </div>
+         </div>
+         <div class="mb-8">
+          <p class="footer-headline" tabindex="0">
+           Hours
+          </p>
+          <div class="flex gap-2 not-prose">
+           <span class="relative text-primary-dark font-bold leading-tight" tabindex="0">
+            Monday to Friday
+            <br/>
+            8:00 AM - 5:00 PM
+           </span>
+          </div>
+         </div>
+        </div>
+        <div>
+         <div>
+          <p class="footer-headline" tabindex="0">
+           Mailing Address
+          </p>
+          <div class="flex gap-2 lg:gap-3 not-prose py-1">
+           <span class="relative text-primary-dark font-bold leading-tight" tabindex="0">
+            239 SW Pinckney St,
+            <br/>
+            Madison, FL 32340
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="w-full p-4 lg:px-8 bg-primary-dark dark relative z-30 border-t-2 border-white">
+      <div class="w-full flex flex-wrap items-center justify-center xl:justify-start gap-8 text-sm">
+       <p class="text-center dark:text-white" tabindex="0">
+        ©2026 Madison County Supervisor of Elections.
+ All rights reserved.
+       </p>
+       <div class="w-full lg:w-auto flex flex-col sm:flex-row grow justify-center lg:justify-end gap-2">
+        <a class="w-full md:w-auto text-center font-bold inline-block content-link px-2 py-1 text-[#E8E6E0] hover:text-accent-light uppercase hover:underline" href="/privacy-policy/" role="link">
+         Privacy Policy
+        </a>
+        <a class="w-full md:w-auto text-center font-bold inline-block content-link px-2 py-1 text-[#E8E6E0] hover:text-accent-light uppercase hover:underline" href="/accessibility-policy/" role="link">
+         Accessibility Policy
+        </a>
+        <a class="w-full md:w-auto text-center font-bold inline-block content-link px-2 py-1 text-[#E8E6E0] hover:text-accent-light uppercase hover:underline" href="/sitemap.xml" role="link">
+         Sitemap
+        </a>
+       </div>
+       <a aria-label="Kerigan Marketing Associates 9opens in a new tab)" class="flex items-center gap-2 mt-4 md:m-0 antialiased font-semibold uppercase text-white" href="https://keriganmarketing.com" rel="noopener" role="presentation" target="_blank">
+        Site by KMA
+       </a>
+      </div>
+     </div>
+     <div class="absolute inset-0 z-10">
+     </div>
+     <div class="absolute inset-0 z-0 bg-no-repeat bg-top-left" v-lazy:background-image="'/images/footer-flag.svg'">
+     </div>
+    </footer>
+    <div class="static z-[999999]" id="popup-target" v-cloak="">
+    </div>
+   </main>
+  </div>
+  <div>
+   <a href="https://www.votemadison.com/HEX" rel="nofollow">
+    Secret Link
+   </a>
+  </div>
+ </body>
+</html>

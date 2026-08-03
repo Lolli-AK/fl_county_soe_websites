@@ -1,0 +1,19 @@
+{
+  "county": "Broward",
+  "page_type": "elections",
+  "requested_url": "https://browardvotes.gov/register-vote/when-register",
+  "final_url": "https://browardvotes.gov/register-vote/when-register",
+  "redirect_chain": [
+    "https://browardvotes.gov/register-vote/when-register"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "cf1cb3e97fe51b38bfff2583ee27bf8a7f52b19dcc00575efde675677ce2a2f0",
+  "text_sha256": "14c2a2b860c62a521567975ee7ba8c7fa600c637920526aa639c2664153d9e8a",
+  "byte_size": 55427,
+  "title": "Election Information | Broward County Supervisor of Elections",
+  "error": null
+}

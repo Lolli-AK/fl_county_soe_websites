@@ -1,0 +1,19 @@
+{
+  "county": "Osceola",
+  "page_type": "results",
+  "requested_url": "https://www.voteosceola.gov/en-us/election-results/2024-election-results/",
+  "final_url": "https://www.voteosceola.gov/en-us/election-results/2024-election-results/",
+  "redirect_chain": [
+    "https://www.voteosceola.gov/en-us/election-results/2024-election-results/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "f402a05f49c416eb0b5c19be1ec116a30853f436cf36cd73085d5ca6111e6e8f",
+  "text_sha256": "3ed95a3ab082110c4520a6dc90be5fb4bb9ce3fcafb06ddc133976f20daed753",
+  "byte_size": 50797,
+  "title": "2024 Election Results – Vote Osceola",
+  "error": null
+}

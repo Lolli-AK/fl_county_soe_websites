@@ -1,0 +1,19 @@
+{
+  "county": "St. Johns",
+  "page_type": "homepage",
+  "requested_url": "https://www.votesjc.gov",
+  "final_url": "https://www.votesjc.gov",
+  "redirect_chain": [
+    "https://www.votesjc.gov"
+  ],
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "8b3e9cab0e555073a125d4ccbb433557e74df5efaa7933fbffd1a5e7cb59524e",
+  "text_sha256": "4278fa6a46f6b33612371abfbbc4502f90b6e1380cd7e145020fd1e43afe914e",
+  "byte_size": 153350,
+  "title": "Elections Information | Vicky Oakes | St. Johns",
+  "error": null
+}

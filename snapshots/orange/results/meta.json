@@ -1,0 +1,19 @@
+{
+  "county": "Orange",
+  "page_type": "results",
+  "requested_url": "https://voteorangefl.gov/election-results/",
+  "final_url": "https://voteorangefl.gov/election-results/",
+  "redirect_chain": [
+    "https://voteorangefl.gov/election-results/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "28b636465bf8a13081300a6318c5141f09853426b4453f2f9172c14fc22dbd78",
+  "text_sha256": "0c822bd850525bf331627be812a75e7d8bb44cc8ae7c52ad19b2802b18cba100",
+  "byte_size": 86391,
+  "title": "Orange County Election Results",
+  "error": null
+}

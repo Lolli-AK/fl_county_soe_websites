@@ -1,0 +1,19 @@
+{
+  "county": "Lake",
+  "page_type": "polling",
+  "requested_url": "https://www.lakevotes.gov/164/Find-My-Precinct",
+  "final_url": "https://www.lakevotes.gov/164/Find-My-Precinct",
+  "redirect_chain": [
+    "https://www.lakevotes.gov/164/Find-My-Precinct"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "c0efe6f84b676d0f32f0b456639a8fd67bed5ccd47a33d0f355a902a4ba4f0ed",
+  "text_sha256": "963ad16b0f609e16f95c05064722c8e188181a9c03c65548cdbf33f4305032fd",
+  "byte_size": 50007,
+  "title": "Find My Precinct | Lake County Elections, FL",
+  "error": null
+}

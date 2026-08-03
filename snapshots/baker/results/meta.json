@@ -1,0 +1,19 @@
+{
+  "county": "Baker",
+  "page_type": "results",
+  "requested_url": "https://votebakerfl.gov/election-night-archive/",
+  "final_url": "https://votebakerfl.gov/election-night-archive/",
+  "redirect_chain": [
+    "https://votebakerfl.gov/election-night-archive/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "8160ff7bd49b9c9a1810254e4d032efa6c18389bbf97d2dd8ae2c865aa24a504",
+  "text_sha256": "2be1e2855c17d23c45ee304606af61c437f32fe7aad20df73d5a02030d4e5e2c",
+  "byte_size": 12795,
+  "title": "Baker County Supervisor of Elections",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Levy",
+  "page_type": "elections",
+  "requested_url": "https://www.votelevy.gov/events/mail-ballot-send-deadline-for-domestic-voters-general-election/",
+  "final_url": "https://www.votelevy.gov/events/mail-ballot-send-deadline-for-domestic-voters-general-election/",
+  "redirect_chain": [
+    "https://www.votelevy.gov/events/mail-ballot-send-deadline-for-domestic-voters-general-election/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "5afede4eb6ad02d1172bbd3ba48eb9f9e23e05331a180d7463f55ed9a41f63e2",
+  "text_sha256": "f751525561583cba5f6bcbdb997c8688923ac9c6aebc6ddf336c5f43cbde6b09",
+  "byte_size": 47810,
+  "title": "Mail Ballot ‘Send’ Deadline For Domestic Voters: General Election | Levy County Supervisor of Elections",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Marion",
+  "page_type": "polling",
+  "requested_url": "https://www.votemarion.gov/335/Find-My-Voting-Location",
+  "final_url": "https://www.votemarion.gov/335/Find-My-Voting-Location",
+  "redirect_chain": [
+    "https://www.votemarion.gov/335/Find-My-Voting-Location"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "affc05cc4ddb90c247222a3207ce0f86a15c6d5430f704857698f8c50f860d15",
+  "text_sha256": "1f17fd3489cfb485ae4c61d2711f19b1bd5a09608f1925029b7efbddc4eef062",
+  "byte_size": 49422,
+  "title": "Find My Voting Location | Marion County Elections, FL",
+  "error": null
+}

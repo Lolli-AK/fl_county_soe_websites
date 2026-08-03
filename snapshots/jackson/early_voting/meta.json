@@ -1,0 +1,19 @@
+{
+  "county": "Jackson",
+  "page_type": "early_voting",
+  "requested_url": "https://votejacksonfl.gov/early-voting/",
+  "final_url": "https://votejacksonfl.gov/early-voting/",
+  "redirect_chain": [
+    "https://votejacksonfl.gov/early-voting/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "086f2c958fd67aeaee56516277e22bbd6a798dda26ed3cd3874129713da2e144",
+  "text_sha256": "4104fe71542e8bcddbdc81846d4559af38c737853d2f484e247f4cf70f0d0438",
+  "byte_size": 69002,
+  "title": "Early Voting – Jackson County (FL) Supervisor of Elections",
+  "error": null
+}

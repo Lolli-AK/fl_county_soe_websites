@@ -1,0 +1,19 @@
+{
+  "county": "St. Johns",
+  "page_type": "elections",
+  "requested_url": "https://www.votesjc.gov/election-dates",
+  "final_url": "https://www.votesjc.gov/election-dates",
+  "redirect_chain": [
+    "https://www.votesjc.gov/election-dates"
+  ],
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "d40633b9fa10f7a4a15989fe93702ad4a2c27a47d09226ae051f0c67b1652060",
+  "text_sha256": "c2c2091482d497b690bcafea7d0d032e8fdf236644289f1c81bbbf5d82366491",
+  "byte_size": 150012,
+  "title": "Election Dates",
+  "error": null
+}

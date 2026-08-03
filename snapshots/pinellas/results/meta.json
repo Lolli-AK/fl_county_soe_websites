@@ -1,0 +1,19 @@
+{
+  "county": "Pinellas",
+  "page_type": "results",
+  "requested_url": "https://www.votepinellas.gov/161/Election-Results",
+  "final_url": "https://www.votepinellas.gov/161/Election-Results",
+  "redirect_chain": [
+    "https://www.votepinellas.gov/161/Election-Results"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "8a7fa66e4bfe89d76486c922e0c57e277592cfe3a8d873939a2e95fd0fb0a2a4",
+  "text_sha256": "76dddd1c77e3f58cb7ab1cf0104e2ca705d512864ac5f62fdacdbbfcd61e71dd",
+  "byte_size": 103917,
+  "title": "Election Results | Pinellas County Election, FL",
+  "error": null
+}

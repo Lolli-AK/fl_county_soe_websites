@@ -1,0 +1,19 @@
+{
+  "county": "Madison",
+  "page_type": "homepage",
+  "requested_url": "https://www.votemadison.com",
+  "final_url": "https://www.votemadison.com",
+  "redirect_chain": [
+    "https://www.votemadison.com"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "23984941b2506a0277b9909431d1f95cb500b759957178de3a5928d7875d15f7",
+  "text_sha256": "8cf3f56b120f5598f93de310fb38140a30748f4b5dbe87d0581b53d61fa2883d",
+  "byte_size": 93573,
+  "title": "Madison County Supervisor of Elections | Heath Driggers",
+  "error": null
+}

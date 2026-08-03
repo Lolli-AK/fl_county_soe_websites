@@ -1,0 +1,19 @@
+{
+  "county": "Baker",
+  "page_type": "polling",
+  "requested_url": "https://votebakerfl.gov/precinct-finder/",
+  "final_url": "https://votebakerfl.gov/precinct-finder/",
+  "redirect_chain": [
+    "https://votebakerfl.gov/precinct-finder/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "7bce3efc43d235da75986f5022aea6aafc835779e3dde525996f1b224b8b0bb7",
+  "text_sha256": "181f973b1da50928ee55eb2daeb1141476aae40421c489c3f6de8009f6f54847",
+  "byte_size": 12956,
+  "title": "Baker County Supervisor of Elections",
+  "error": null
+}

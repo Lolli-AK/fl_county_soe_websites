@@ -1,0 +1,19 @@
+{
+  "county": "Citrus",
+  "page_type": "early_voting",
+  "requested_url": "https://www.votecitrus.gov/238/2026-Early-Voting-Sites-Schedule",
+  "final_url": "https://www.votecitrus.gov/238/2026-Early-Voting-Sites-Schedule",
+  "redirect_chain": [
+    "https://www.votecitrus.gov/238/2026-Early-Voting-Sites-Schedule"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "e421e45444212bcab1c59bbf8b50f8fbebd7b2a1aed41c532575c69e620ab953",
+  "text_sha256": "ff0a81fc2e9047588e4c0eb82683df866c4b4f9d3568db5f5b15b70e7e55c8cf",
+  "byte_size": 103149,
+  "title": "2026 Early Voting Sites & Schedule | Citrus County Elections, FL",
+  "error": null
+}

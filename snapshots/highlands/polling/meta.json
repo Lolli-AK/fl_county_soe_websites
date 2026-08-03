@@ -1,0 +1,19 @@
+{
+  "county": "Highlands",
+  "page_type": "polling",
+  "requested_url": "https://www.votehighlands.gov/where-do-i-vote",
+  "final_url": "https://www.votehighlands.gov/where-do-i-vote",
+  "redirect_chain": [
+    "https://www.votehighlands.gov/where-do-i-vote"
+  ],
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "c6827ea246d9a3dee1e18153fb9968824be6349b2121d2de957bc871b5db2141",
+  "text_sha256": "15279ac1b027a89cf9cbeb1ac882369ed449caa676a5b2fd449283873f5adac6",
+  "byte_size": 121233,
+  "title": "Polling Place Info | Highlands County Supervisor of Elections | Sebring, FL",
+  "error": null
+}

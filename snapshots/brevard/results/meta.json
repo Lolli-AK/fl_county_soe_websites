@@ -1,0 +1,19 @@
+{
+  "county": "Brevard",
+  "page_type": "results",
+  "requested_url": "https://www.votebrevard.gov/Election-Information/Election-Results",
+  "final_url": "https://www.votebrevard.gov/Election-Information/Election-Results",
+  "redirect_chain": [
+    "https://www.votebrevard.gov/Election-Information/Election-Results"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "8b756caad664404b38e285dc85dd63a2d2fcc5d5f3a55cbadedb2714faea7028",
+  "text_sha256": "403cde8f52e1d0d5c6d6967b78b7b722fa3e0d7c94dad3474b8dcc6b818a27fd",
+  "byte_size": 157759,
+  "title": "Election Results",
+  "error": null
+}

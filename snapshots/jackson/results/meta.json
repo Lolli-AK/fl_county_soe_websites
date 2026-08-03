@@ -1,0 +1,19 @@
+{
+  "county": "Jackson",
+  "page_type": "results",
+  "requested_url": "https://votejacksonfl.gov/election-information/election-results/",
+  "final_url": "https://votejacksonfl.gov/election-information/election-results/",
+  "redirect_chain": [
+    "https://votejacksonfl.gov/election-information/election-results/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "e894bdf0be99ce3a5120ad8976caaef371fccebcc90ed493b79a0deafbe9a540",
+  "text_sha256": "c163659f4c785f2a20322eb3dfb3d8f15247a6f3ad108fffa691804dbd04f786",
+  "byte_size": 61318,
+  "title": "Election Results – Jackson County (FL) Supervisor of Elections",
+  "error": null
+}

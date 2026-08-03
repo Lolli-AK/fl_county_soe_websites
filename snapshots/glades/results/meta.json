@@ -1,0 +1,19 @@
+{
+  "county": "Glades",
+  "page_type": "results",
+  "requested_url": "https://voteglades.gov/voting-info/election-results/",
+  "final_url": "https://voteglades.gov/voting-info/election-results/",
+  "redirect_chain": [
+    "https://voteglades.gov/voting-info/election-results/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "1a5d8eb07491bfe353546e99814246822d026cb1e980fd7c7344a701f59c2ab0",
+  "text_sha256": "ab51049f9699fe89edb807f926b11e73eee0534d5bab1f7337bb7089806606a4",
+  "byte_size": 61151,
+  "title": "Election Result Archives – Glades, FL",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Charlotte",
+  "page_type": "elections",
+  "requested_url": "https://www.soecharlottecountyfl.gov/31/Election-Information",
+  "final_url": "https://www.soecharlottecountyfl.gov/31/Election-Information",
+  "redirect_chain": [
+    "https://www.soecharlottecountyfl.gov/31/Election-Information"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "6949f748661f94c8a58a9ae8cf546e0bb51d9d498ce9a5a6db0363c075da75f9",
+  "text_sha256": "91c0906cb8a81995c7abf513f40680247f6cfd46388866308f41ebc02e3ceefc",
+  "byte_size": 61726,
+  "title": "Election Information | Charlotte County Elections, FL",
+  "error": null
+}

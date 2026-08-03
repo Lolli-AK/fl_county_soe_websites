@@ -1,0 +1,19 @@
+{
+  "county": "DeSoto",
+  "page_type": "results",
+  "requested_url": "https://votedesotofl.gov/election-information/election-archives/",
+  "final_url": "https://votedesotofl.gov/election-information/election-archives/",
+  "redirect_chain": [
+    "https://votedesotofl.gov/election-information/election-archives/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "411f9545e57a16d0b3316298e2a1a1030c839b70b847a0e63e83ed4481dc0376",
+  "text_sha256": "cc916f9b28d47af664c5a1c0550dc43398babab68f7399ccbd103165c8a0a9c4",
+  "byte_size": 62651,
+  "title": "Past Election Results – DeSoto, FL",
+  "error": null
+}

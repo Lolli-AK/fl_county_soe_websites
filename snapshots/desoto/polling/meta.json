@@ -1,0 +1,19 @@
+{
+  "county": "DeSoto",
+  "page_type": "polling",
+  "requested_url": "https://votedesotofl.gov/voter-information/precinct-finder/",
+  "final_url": "https://votedesotofl.gov/voter-information/precinct-finder/",
+  "redirect_chain": [
+    "https://votedesotofl.gov/voter-information/precinct-finder/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "bc783f38a2927e2ca2f8801b8819036fbf31b19d67ce0af371aa9d841770372c",
+  "text_sha256": "ac850cb11ff3dfee130ae83d875778a87a798a017fb63bc671bd26de1f964c6e",
+  "byte_size": 65018,
+  "title": "Precinct Finder – DeSoto, FL",
+  "error": null
+}

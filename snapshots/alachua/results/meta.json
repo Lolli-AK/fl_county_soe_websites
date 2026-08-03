@@ -1,0 +1,19 @@
+{
+  "county": "Alachua",
+  "page_type": "results",
+  "requested_url": "https://www.votealachua.gov/263/Election-Results",
+  "final_url": "https://www.votealachua.gov/263/Election-Results",
+  "redirect_chain": [
+    "https://www.votealachua.gov/263/Election-Results"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "92f6e1bf04430d5d1eee8a8db4f66366207f87e5c4c5596109291af5ed572b1a",
+  "text_sha256": "721cac2a8a0042021ec652f9175b794f082b9e4821bdf3515ebbb5a954f1c9f2",
+  "byte_size": 202880,
+  "title": "Election Results | Alachua County Elections, FL",
+  "error": null
+}

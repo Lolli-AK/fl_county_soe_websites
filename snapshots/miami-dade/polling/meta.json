@@ -1,0 +1,19 @@
+{
+  "county": "Miami-Dade",
+  "page_type": "polling",
+  "requested_url": "https://www.votemiamidade.gov/elections/data/current-precincts-districts-municipalities.page",
+  "final_url": "https://www.votemiamidade.gov/elections/data/current-precincts-districts-municipalities.page",
+  "redirect_chain": [
+    "https://www.votemiamidade.gov/elections/data/current-precincts-districts-municipalities.page"
+  ],
+  "http_status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "6e8082a17109943567ac70d3c23fe7e19d683eb252bc032ab07f43c11ff7fd4b",
+  "text_sha256": "61036b1c785fe6d1fa490cca030faa5b29130af2f016f64b501f5b2b8cbd180c",
+  "byte_size": 47860,
+  "title": "Current Precincts, Districts and Municipalities",
+  "error": null
+}

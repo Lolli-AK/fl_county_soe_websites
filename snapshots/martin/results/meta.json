@@ -1,0 +1,19 @@
+{
+  "county": "Martin",
+  "page_type": "results",
+  "requested_url": "https://results.enr.clarityelections.com/FL/Martin/",
+  "final_url": "https://results.enr.clarityelections.com/FL/Martin/",
+  "redirect_chain": [
+    "https://results.enr.clarityelections.com/FL/Martin/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
+  "external": true,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "a127564f7fe9af15cae4867b1b32e24bdb40f1fe15a6a022e88518589ad95722",
+  "text_sha256": "3ddb26ad7fb6e7186d57cf6bb85ca5b0fbfb3e10d6cf1607a982489189edd64f",
+  "byte_size": 18080,
+  "title": "List Elections",
+  "error": null
+}

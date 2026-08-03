@@ -1,0 +1,19 @@
+{
+  "county": "Hardee",
+  "page_type": "homepage",
+  "requested_url": "https://hardeeflvotes.gov",
+  "final_url": "https://hardeeflvotes.gov",
+  "redirect_chain": [
+    "https://hardeeflvotes.gov"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "3df8df5e5b5d3c452c4d5970a58bcbc9a47849510326850386fb3239a132c574",
+  "text_sha256": "c4fe3870ddafd37de000ec07a08c51232101f816f4e5ed69ac4bec4b7fd1b6bd",
+  "byte_size": 109267,
+  "title": "Hardee, FL Elections Website – Hardee, FL Elections Website",
+  "error": null
+}

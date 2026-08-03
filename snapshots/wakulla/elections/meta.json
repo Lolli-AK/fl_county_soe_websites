@@ -1,0 +1,19 @@
+{
+  "county": "Wakulla",
+  "page_type": "elections",
+  "requested_url": "https://wakullavotes.gov/current-upcoming-elections/",
+  "final_url": "https://wakullavotes.gov/current-upcoming-elections/",
+  "redirect_chain": [
+    "https://wakullavotes.gov/current-upcoming-elections/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "713ffc1624cd3aa48ec647a6727b3961b4d0a598ef651f0369d8c3f77cced6dd",
+  "text_sha256": "81e9e546e79204e1859a477877633a990383ac89e3290ff590080c62a2a9ddfd",
+  "byte_size": 72999,
+  "title": "Current/Upcoming Elections – Wakulla County Supervisor of Elections",
+  "error": null
+}

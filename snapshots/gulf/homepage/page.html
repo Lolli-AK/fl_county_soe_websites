@@ -1,0 +1,1367 @@
+<!DOCTYPE html>
+<html lang="en-US">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="/app.webmanifest" rel="manifest"/>
+  <title>
+   Gulf County Supervisor of Elections | Rhonda Pierce
+  </title>
+  <meta content="max-image-preview:large" name="robots"/>
+  <link href="https://votegulf.gov/wordpress/xmlrpc.php?rsd=" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="https://votegulf.gov/" rel="shortlink"/>
+  <link href="https://votegulf.gov/" rel="canonical"/>
+  <meta content="Gulf County FL elections, voter registration, sample ballots, polling locations, and election updates from the Supervisor of Elections." name="description"/>
+  <meta content="website" property="og:type"/>
+  <meta content="https://votegulf.gov/" property="og:url"/>
+  <meta content="Gulf County Supervisor of Elections | Rhonda Pierce" property="og:title"/>
+  <meta content="Gulf County FL elections, voter registration, sample ballots, polling locations, and election updates from the Supervisor of Elections." property="og:description"/>
+  <meta content="https://votegulf.gov/uploads/2026/07/lighthouse.webp" property="og:image"/>
+  <meta content="2400" property="og:image:width"/>
+  <meta content="1350" property="og:image:height"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="Gulf County Supervisor of Elections | Rhonda Pierce" name="twitter:title"/>
+  <meta content="Gulf County FL elections, voter registration, sample ballots, polling locations, and election updates from the Supervisor of Elections." name="twitter:description"/>
+  <meta content="https://votegulf.gov/uploads/2026/07/lighthouse.webp" name="twitter:image"/>
+ </head>
+ <body class="home wp-singular page-template-default page page-id-6 wp-theme-kmatailwind">
+  <div id="app">
+   <a class="absolute -top-40 focus:top-2 left-2 h-auto w-auto px-4 py-2 bg-white border rounded text-gray-900 font-bold focus:border-4 z-[100]" href="#content">
+    Skip to content
+   </a>
+   <div class="static z-[999999]" id="popup-target" v-cloak="">
+   </div>
+   <header :class="{
+  'top-0': scrollPosition &gt; 0
+}" class="transition-all duration-700 flex flex-col lg:flex-wrap w-full fixed z-50 bg-white shadow-lg shadow-gray-100/10" v-cloak="">
+    <div class="relative z-20 w-full shadow">
+     <div :class="{
+        'h-28 md:h-34 lg:h-36': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+        'h-16 md:h-20': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+      }" class="transition-all flex flex-col">
+      <div :class="{ '-mt-12 2xl:-mt-16': scrollPosition &gt; 0 || openMenu == 'mobileMenu' }" class="bg-primary-dark h-12 md:h-16 px-2 w-full flex justify-end relative z-20 transition-all dark">
+       <div class="hidden xl:flex">
+        <div class="flex flex-wrap gap-3 justify-center items-center px-4" data-lazy="">
+         <a aria-label="follow us on facebook (link opens in a new tab)" href="https://www.facebook.com/profile.php/" rel="noopener" target="_blank">
+         </a>
+        </div>
+       </div>
+       <a class="text-white font-bold md:text-xl my-auto px-4 2xl:mr-2 hidden xl:block" href="tel:HEX" rel="nofollow" tabindex="0">
+        (850) 229-6117
+       </a>
+       <div class="w-full sm:max-w-[220px] my-auto px-2 2xl:px-4 xl:border-l-2 border-white">
+        <div class="w-full h-full" id="google_translate_element">
+        </div>
+       </div>
+       <div class="hidden h-10 sm:flex rounded-lg overflow-hidden my-auto">
+        <form action="/" class="flex h-10 overflow-hidden w-full border-none bg-white" method="get" role="search">
+         <input aria-label="Enter words to search for" class="font-medium placeholder:font-sans placeholder:text-primary-dark/80 placeholder:italic text-sm border-none h-10 px-4 flex-grow bg-white focus:bg-white focus:text-gray-800 focus-within:outline-primary/50 focus-within:rounded-none 2xl:w-[240px]" id="searchfield" name="s" placeholder="Search this website" ref="searchfield" type="text" value=""/>
+         <button class="text-accent-dark bg-white flex h-10 w-10 items-center justify-center" type="submit">
+          <span class="sr-only">
+           Search Website
+          </span>
+         </button>
+        </form>
+       </div>
+      </div>
+      <div class="bg-white xl:bg-primary-light/90 flex md:order-1 gap-4">
+       <a :class="{
+          'h-16 md:h-34 lg:h-36 md:-mt-12 2xl:-mt-16': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+          'h-16 md:h-20': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+        }" class="flex bg-white lg:relative lg:z-20 pr-4 xl:pr-0" href="/">
+        <img alt="Photo of Rhonda H. Pierce, Supervisor of Elections" class="block h-full w-auto transition-all relative z-20 pr-2" height="147px" src="/images/soe-headshot.png" width="131px"/>
+        <div :class="{
+            'md:pt-12': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+            'md:pt-0 lg:py-2': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+          }" class="my-auto transition-all lg:pt-0 lg:pr-8">
+         <img :class="{
+                'xl:h-[5.6rem]': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+                'lg:pt-2': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+              }" alt="Gulf County Supervisor of Elections" class="block mr-auto xl:max-w-lg max-h-full xl:my-auto h-12 md:h-14 lg:h-16 w-auto ml-0 xl:ml-5" height="90px" src="/images/soe-logo.svg" width="338px"/>
+        </div>
+       </a>
+       <div class="flex xl:hidden my-auto sm:px-4 md:px-8 ml-auto">
+        <div @click="toggleMenu('mobileMenu')" class="flex gap-4 px-4 items-center leading-none text-lg justify-center cursor-pointer group h-16 sm:h-12 text-primary-dark bg-primary-light dark:border-white font-extrabold lg:hover:bg-primary transition-all duration-300" tabindex="0" v-cloak="">
+         <span class="hidden sm:flex lg:group-hover:text-white font-heading">
+          MENU
+         </span>
+         <div v-if="openMenu != 'mobileMenu'">
+         </div>
+         <div v-if="openMenu == 'mobileMenu'">
+         </div>
+        </div>
+       </div>
+       <div class="hidden xl:flex justify-end grow">
+        <nav @mouseenter="isHovered = true" @mouseleave="isHovered = false" aria-label="Primary navigation" class="hidden w-auto h-full xl:flex static transition-all duration-300 px-4 xl:px-8" v-cloak="">
+         <div class="group h-full">
+          <a class="nav-link group" href="/" role="button" tabindex="0" target="">
+           <span>
+            Home
+           </span>
+          </a>
+         </div>
+         <div class="group h-full">
+          <a class="nav-link group" role="button" tabindex="0">
+           <span>
+            Voters
+           </span>
+          </a>
+          <div class="mega-menu-container transition-all duration-300">
+           <div class="mega-menu-grid relative">
+            <div class="relative z-20 px-4 col-span-1 py-8">
+             <p class="mega-menu-title">
+              Voters
+             </p>
+            </div>
+            <div class="relative z-20 col-span-3 px-8 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12 border-l-4 border-secondary-light">
+             <div class="relative">
+              <p class="mega-menu-child-title">
+               Ways to Vote
+              </p>
+              <div class="w-full top-0 flex-col my-3">
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/voters/vote-on-election-day/" role="button" tabindex="0" target="">
+                <span>
+                 Vote on Election Day
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/voters/early-voting/" role="button" tabindex="0" target="">
+                <span>
+                 Vote Early
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/voters/vote-by-mail/" role="button" tabindex="0" target="">
+                <span>
+                 Vote by Mail
+                </span>
+               </a>
+              </div>
+             </div>
+             <div class="relative">
+              <p class="mega-menu-child-title">
+               Tools &amp; Resources
+              </p>
+              <div class="w-full top-0 flex-col my-3">
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/voters/check-voter-status/" role="button" tabindex="0" target="">
+                <span>
+                 Check Voter Status
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://registertovoteflorida.gov/home" role="button" tabindex="0" target="_blank">
+                <span>
+                 Update My Info
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.ballottrax.net/voter/" role="button" tabindex="0" target="_blank">
+                <span>
+                 Track My Ballot
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://registertovoteflorida.gov/home" role="button" tabindex="0" target="_blank">
+                <span>
+                 Voter Registration
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/notices/voter-eligibility/" role="button" tabindex="0" target="">
+                <span>
+                 Voter Eligibility
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/voters/voter-rights-responsibilities/" role="button" tabindex="0" target="">
+                <span>
+                 Voter Rights &amp; Responsibilities
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/voters/provisional-ballot-information/" role="button" tabindex="0" target="">
+                <span>
+                 Provisional Ballot Information
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/voters/where-to-vote/" role="button" tabindex="0" target="">
+                <span>
+                 Where to Vote
+                </span>
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="group h-full">
+          <a class="nav-link group" role="button" tabindex="0">
+           <span>
+            Elections
+           </span>
+          </a>
+          <div class="mega-menu-container transition-all duration-300">
+           <div class="mega-menu-grid relative">
+            <div class="relative z-20 px-4 col-span-1 py-8">
+             <p class="mega-menu-title">
+              Elections
+             </p>
+            </div>
+            <div class="relative z-20 col-span-3 px-8 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12 border-l-4 border-secondary-light">
+             <div class="relative">
+              <p class="mega-menu-child-title">
+               Upcoming Elections
+              </p>
+              <div class="w-full top-0 flex-col my-3">
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/elections/election-results/" role="button" tabindex="0" target="">
+                <span>
+                 Election Results
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/elections/election-dates/" role="button" tabindex="0" target="">
+                <span>
+                 Events &amp; Dates to Remember
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/notices/" role="button" tabindex="0" target="">
+                <span>
+                 News &amp; Notices
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/elections/initiative-petitions/" role="button" tabindex="0" target="">
+                <span>
+                 Initiative Petitions
+                </span>
+               </a>
+              </div>
+             </div>
+             <div class="relative">
+              <p class="mega-menu-child-title">
+               At the Polls
+              </p>
+              <div class="w-full top-0 flex-col my-3">
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/elections/sample-ballot/" role="button" tabindex="0" target="">
+                <span>
+                 Sample Ballot
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/elections/poll-workers/" role="button" tabindex="0" target="">
+                <span>
+                 Poll Workers
+                </span>
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="group h-full">
+          <a class="nav-link group" role="button" tabindex="0">
+           <span>
+            Candidates
+           </span>
+          </a>
+          <div class="mega-menu-container transition-all duration-300">
+           <div class="mega-menu-grid relative">
+            <div class="relative z-20 px-4 col-span-1 py-8">
+             <p class="mega-menu-title">
+              Candidates
+             </p>
+            </div>
+            <div class="relative z-20 col-span-3 px-8 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12 border-l-4 border-secondary-light">
+             <div class="relative">
+              <a class="group no-underline block" href="https://votegulf.gov/candidates/how-to-become-a-candidate/">
+               <span class="mega-menu-child-title hover:underline">
+                Candidate Information
+               </span>
+              </a>
+              <div class="w-full top-0 flex-col my-3">
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/candidates/how-to-become-a-candidate/" role="button" tabindex="0" target="">
+                <span>
+                 How to Become a Candidate
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://dos.fl.gov/elections/forms-publications/forms/county-candidate-forms/" role="button" tabindex="0" target="_blank">
+                <span>
+                 Candidate Forms
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://files.floridados.gov/media/707530/current-version-2024-candidate-petition-handbook-revised-table-of-contents-pdf.pdf" role="button" tabindex="0" target="_blank">
+                <span>
+                 Candidate Petition Handbook
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://files.floridados.gov/media/709540/election-code-2025-combined-final-20250908.pdf" role="button" tabindex="0" target="_blank">
+                <span>
+                 Florida Election Code
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://ethics.state.fl.us/" role="button" tabindex="0" target="_blank">
+                <span>
+                 Florida Commission on Ethics
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://dos.elections.myflorida.com/candidates/CanList.asp" role="button" tabindex="0" target="_blank">
+                <span>
+                 Federal &amp; State Candidates
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/candidates/local-candidates/" role="button" tabindex="0" target="">
+                <span>
+                 Local Candidates
+                </span>
+               </a>
+              </div>
+             </div>
+             <div class="relative">
+              <p class="mega-menu-child-title">
+               Finance &amp; Reporting
+              </p>
+              <div class="w-full top-0 flex-col my-3">
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/candidates/calendar-of-reporting-dates/" role="button" tabindex="0" target="">
+                <span>
+                 Calendar of Reporting Dates
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/candidates/candidate-reports-profiles/" role="button" tabindex="0" target="">
+                <span>
+                 Candidate Reports &amp; Profiles
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://www.voterfocus.com/CampaignFinance/candidate_login.php?county=gulf" role="button" tabindex="0" target="_blank">
+                <span>
+                 Financial Reporting Login
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/candidates/campaign-finance-search/" role="button" tabindex="0" target="">
+                <span>
+                 Campaign Finance Search
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://files.floridados.gov/media/708891/candidate-and-campaign-treasurer-handbook-2024.pdf" role="button" tabindex="0" target="_blank">
+                <span>
+                 Candidate &amp; Campaign Treasurer Handbook
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/candidates/candidate-file-access/" role="button" tabindex="0" target="">
+                <span>
+                 Candidate File Access
+                </span>
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="group h-full">
+          <a class="nav-link group" role="button" tabindex="0">
+           <span>
+            Resources
+           </span>
+          </a>
+          <div class="mega-menu-container transition-all duration-300">
+           <div class="mega-menu-grid relative">
+            <div class="relative z-20 px-4 col-span-1 py-8">
+             <p class="mega-menu-title">
+              Resources
+             </p>
+            </div>
+            <div class="relative z-20 col-span-3 px-8 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12 border-l-4 border-secondary-light">
+             <div class="relative">
+              <p class="mega-menu-child-title">
+               Elections Office
+              </p>
+              <div class="w-full top-0 flex-col my-3">
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/resources/meet-the-staff/" role="button" tabindex="0" target="">
+                <span>
+                 Meet the Staff
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://dos.fl.gov/elections/" role="button" tabindex="0" target="_blank">
+                <span>
+                 Division of Elections
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://maps2.roktech.net/GulfGoMaps4/?mapName=GIS" role="button" tabindex="0" target="_blank">
+                <span>
+                 Interactive District Map
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+              </div>
+             </div>
+             <div class="relative">
+              <p class="mega-menu-child-title">
+               Elected Officials
+              </p>
+              <div class="w-full top-0 flex-col my-3">
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/resources/federal-officials/" role="button" tabindex="0" target="">
+                <span>
+                 Federal
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/resources/state-officials/" role="button" tabindex="0" target="">
+                <span>
+                 State
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/resources/county-officials/" role="button" tabindex="0" target="">
+                <span>
+                 County
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/resources/school-officials/" role="button" tabindex="0" target="">
+                <span>
+                 School
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://votegulf.gov/resources/municipal-officials/" role="button" tabindex="0" target="">
+                <span>
+                 Municipal
+                </span>
+               </a>
+               <a class="inline-block w-full text-left py-2 pl-4 font-medium text-xl text-primary-dark! hover:text-accent! leading-tight underline underline-offset-4 transition-all duration-500 gap-2 items-center hover:scale-105 decoration-white/20 hover:decoration-secondary-light" href="https://jud14.flcourts.org/judges" role="button" tabindex="0" target="_blank">
+                <span>
+                 14th Judicial Circuit
+                </span>
+                <img alt="" class="inline-block ml-1 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="group h-full">
+          <a class="nav-link group" href="https://votegulf.gov/contact/" role="button" tabindex="0" target="">
+           <span>
+            Contact Us
+           </span>
+          </a>
+         </div>
+        </nav>
+       </div>
+      </div>
+     </div>
+    </div>
+   </header>
+   <div :class="{
+    '-translate-y-full lg:translate-y-0 lg:translate-x-full': openMenu != 'mobileMenu',
+    'translate-y-none lg:translate-x-none': openMenu == 'mobileMenu',
+  }" class="fixed xl:hidden w-full h-screen bg-cover backdrop-blur-xl z-40 items-center transition-all duration-500 lg:max-w-sm px-4 py-20 lg:p-0 mt-auto lg:right-0 border-primary top-0 dark" tabindex="0" v-cloak="">
+    <div class="h-full overflow-y-auto relative z-20 rounded-2xl lg:rounded-0 bg-white shadow-xl" v-if="openMenu == 'mobileMenu'">
+     <div class="p-8 lg:pt-28 bg-primary-dark">
+      <div class="rounded-lg overflow-hidden">
+       <form action="/" class="flex h-10 overflow-hidden w-full border-none bg-white" method="get" role="search">
+        <input aria-label="Enter words to search for" class="font-medium placeholder:font-sans placeholder:text-primary-dark/80 placeholder:italic text-sm border-none h-10 px-4 flex-grow bg-white focus:bg-white focus:text-gray-800 focus-within:outline-primary/50 focus-within:rounded-none 2xl:w-[240px]" id="searchfield" name="s" placeholder="Search this website" ref="searchfield" type="text" value=""/>
+        <button class="text-accent-dark bg-white flex h-10 w-10 items-center justify-center" type="submit">
+         <span class="sr-only">
+          Search Website
+         </span>
+        </button>
+       </form>
+      </div>
+     </div>
+     <nav class="pb-24 pt-8">
+      <div class="w-full px-8">
+       <div class="flex items-center pt-3 pb-2 gap-8 border-b border-white/10 w-full">
+        <a class="mobile-nav-link" href="/" title="Home">
+         Home
+        </a>
+       </div>
+      </div>
+      <div class="w-full px-8">
+       <div class="flex items-center pt-3 pb-2 gap-8 border-b border-white/10 w-full">
+        <span @click="openSubMenu(1)" class="mobile-nav-item">
+         Voters
+        </span>
+        <span @click="openSubMenu(1)" class="grow flex">
+         <span :class="{
+                    'rotate-45': !subMenus.includes(1)
+                  }" class="transition w-8 h-8 flex justify-center items-center flex-none rounded-full border border-accent/30 ml-auto">
+         </span>
+        </span>
+       </div>
+       <div class="mobile-subpanel" v-if="subMenus.includes(1)">
+        <a class="mobile-nav-child" href="#" title="Voters">
+         Ways to Vote
+        </a>
+        <div class="mobile-child-subpanel">
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/voters/vote-on-election-day/">
+          Vote on Election Day
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/voters/early-voting/">
+          Vote Early
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/voters/vote-by-mail/">
+          Vote by Mail
+         </a>
+        </div>
+        <a class="mobile-nav-child" href="#" title="Voters">
+         Tools &amp; Resources
+        </a>
+        <div class="mobile-child-subpanel">
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/voters/check-voter-status/">
+          Check Voter Status
+         </a>
+         <a class="mobile-nav-grandchild gap-2" href="https://registertovoteflorida.gov/home" target="_blank">
+          Update My Info
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-grandchild gap-2" href="https://votegulf.ballottrax.net/voter/" target="_blank">
+          Track My Ballot
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-grandchild gap-2" href="https://registertovoteflorida.gov/home" target="_blank">
+          Voter Registration
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/notices/voter-eligibility/">
+          Voter Eligibility
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/voters/voter-rights-responsibilities/">
+          Voter Rights &amp; Responsibilities
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/voters/provisional-ballot-information/">
+          Provisional Ballot Information
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/voters/where-to-vote/">
+          Where to Vote
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="w-full px-8">
+       <div class="flex items-center pt-3 pb-2 gap-8 border-b border-white/10 w-full">
+        <span @click="openSubMenu(2)" class="mobile-nav-item">
+         Elections
+        </span>
+        <span @click="openSubMenu(2)" class="grow flex">
+         <span :class="{
+                    'rotate-45': !subMenus.includes(2)
+                  }" class="transition w-8 h-8 flex justify-center items-center flex-none rounded-full border border-accent/30 ml-auto">
+         </span>
+        </span>
+       </div>
+       <div class="mobile-subpanel" v-if="subMenus.includes(2)">
+        <a class="mobile-nav-child" href="#" title="Elections">
+         Upcoming Elections
+        </a>
+        <div class="mobile-child-subpanel">
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/elections/election-results/">
+          Election Results
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/elections/election-dates/">
+          Events &amp; Dates to Remember
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/notices/">
+          News &amp; Notices
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/elections/initiative-petitions/">
+          Initiative Petitions
+         </a>
+        </div>
+        <a class="mobile-nav-child" href="#" title="Elections">
+         At the Polls
+        </a>
+        <div class="mobile-child-subpanel">
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/elections/sample-ballot/">
+          Sample Ballot
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/elections/poll-workers/">
+          Poll Workers
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="w-full px-8">
+       <div class="flex items-center pt-3 pb-2 gap-8 border-b border-white/10 w-full">
+        <span @click="openSubMenu(3)" class="mobile-nav-item">
+         Candidates
+        </span>
+        <span @click="openSubMenu(3)" class="grow flex">
+         <span :class="{
+                    'rotate-45': !subMenus.includes(3)
+                  }" class="transition w-8 h-8 flex justify-center items-center flex-none rounded-full border border-accent/30 ml-auto">
+         </span>
+        </span>
+       </div>
+       <div class="mobile-subpanel" v-if="subMenus.includes(3)">
+        <a class="mobile-nav-child" href="https://votegulf.gov/candidates/how-to-become-a-candidate/" title="Candidates">
+         Candidate Information
+        </a>
+        <div class="mobile-child-subpanel">
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/candidates/how-to-become-a-candidate/">
+          How to Become a Candidate
+         </a>
+         <a class="mobile-nav-grandchild gap-2" href="https://dos.fl.gov/elections/forms-publications/forms/county-candidate-forms/" target="_blank">
+          Candidate Forms
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-grandchild gap-2" href="https://files.floridados.gov/media/707530/current-version-2024-candidate-petition-handbook-revised-table-of-contents-pdf.pdf" target="_blank">
+          Candidate Petition Handbook
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-grandchild gap-2" href="https://files.floridados.gov/media/709540/election-code-2025-combined-final-20250908.pdf" target="_blank">
+          Florida Election Code
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-grandchild gap-2" href="https://ethics.state.fl.us/" target="_blank">
+          Florida Commission on Ethics
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-grandchild gap-2" href="https://dos.elections.myflorida.com/candidates/CanList.asp" target="_blank">
+          Federal &amp; State Candidates
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/candidates/local-candidates/">
+          Local Candidates
+         </a>
+        </div>
+        <a class="mobile-nav-child" href="#" title="Candidates">
+         Finance &amp; Reporting
+        </a>
+        <div class="mobile-child-subpanel">
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/candidates/calendar-of-reporting-dates/">
+          Calendar of Reporting Dates
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/candidates/candidate-reports-profiles/">
+          Candidate Reports &amp; Profiles
+         </a>
+         <a class="mobile-nav-grandchild gap-2" href="https://www.voterfocus.com/CampaignFinance/candidate_login.php?county=gulf" target="_blank">
+          Financial Reporting Login
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/candidates/campaign-finance-search/">
+          Campaign Finance Search
+         </a>
+         <a class="mobile-nav-grandchild gap-2" href="https://files.floridados.gov/media/708891/candidate-and-campaign-treasurer-handbook-2024.pdf" target="_blank">
+          Candidate &amp; Campaign Treasurer Handbook
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/candidates/candidate-file-access/">
+          Candidate File Access
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="w-full px-8">
+       <div class="flex items-center pt-3 pb-2 gap-8 border-b border-white/10 w-full">
+        <span @click="openSubMenu(4)" class="mobile-nav-item">
+         Resources
+        </span>
+        <span @click="openSubMenu(4)" class="grow flex">
+         <span :class="{
+                    'rotate-45': !subMenus.includes(4)
+                  }" class="transition w-8 h-8 flex justify-center items-center flex-none rounded-full border border-accent/30 ml-auto">
+         </span>
+        </span>
+       </div>
+       <div class="mobile-subpanel" v-if="subMenus.includes(4)">
+        <a class="mobile-nav-child" href="#" title="Resources">
+         Elections Office
+        </a>
+        <div class="mobile-child-subpanel">
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/resources/meet-the-staff/">
+          Meet the Staff
+         </a>
+         <a class="mobile-nav-grandchild gap-2" href="https://dos.fl.gov/elections/" target="_blank">
+          Division of Elections
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+         <a class="mobile-nav-grandchild gap-2" href="https://maps2.roktech.net/GulfGoMaps4/?mapName=GIS" target="_blank">
+          Interactive District Map
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+        </div>
+        <a class="mobile-nav-child" href="#" title="Resources">
+         Elected Officials
+        </a>
+        <div class="mobile-child-subpanel">
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/resources/federal-officials/">
+          Federal
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/resources/state-officials/">
+          State
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/resources/county-officials/">
+          County
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/resources/school-officials/">
+          School
+         </a>
+         <a class="mobile-nav-grandchild" href="https://votegulf.gov/resources/municipal-officials/">
+          Municipal
+         </a>
+         <a class="mobile-nav-grandchild gap-2" href="https://jud14.flcourts.org/judges" target="_blank">
+          14th Judicial Circuit
+          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="w-full px-8">
+       <div class="flex items-center pt-3 pb-2 gap-8 border-b border-white/10 w-full">
+        <a class="mobile-nav-link" href="https://votegulf.gov/contact/" title="Contact Us">
+         Contact Us
+        </a>
+       </div>
+      </div>
+     </nav>
+    </div>
+   </div>
+   <div :class="{
+    'top-44': scrollPosition &lt;= 0,
+    'top-28': scrollPosition &gt; 0
+  }" class="block sm:hidden w-full right-0 left-0 fixed z-50 backdrop-blur-lg h-auto bg-primary-dark mt-2" v-cloak="" v-if="openMenu == 'searchMenu'">
+    <div class="p-2">
+     <form action="/" class="flex h-10 overflow-hidden w-full border-none bg-white" method="get" role="search">
+      <input aria-label="Enter words to search for" class="font-medium placeholder:font-sans placeholder:text-primary-dark/80 placeholder:italic text-sm border-none h-10 px-4 flex-grow bg-white focus:bg-white focus:text-gray-800 focus-within:outline-primary/50 focus-within:rounded-none 2xl:w-[240px]" id="searchfield" name="s" placeholder="Search this website" ref="searchfield" type="text" value=""/>
+      <button class="text-accent-dark bg-white flex h-10 w-10 items-center justify-center" type="submit">
+       <span class="sr-only">
+        Search Website
+       </span>
+      </button>
+     </form>
+    </div>
+   </div>
+   <main class="bg-secondary lg:bg-secondary-light static pt-28 md:pt-32" id="content">
+    <section class="w-full h-[56vh] sm:h-[47vh] lg:h-screen relative z-10 transition-all duration-1000 grow bg-gray-300">
+     <alerts v-cloak="">
+     </alerts>
+     <div class="absolute w-full h-full top-0 z-0 transition-all duration-500">
+      <div aria-hidden="true" class="w-full h-full lg:hidden bg-cover bg-center z-0">
+      </div>
+      <div aria-hidden="true" class="w-full h-full hidden lg:block bg-cover bg-center z-0">
+      </div>
+      <slider :images='[{"ID":899,"id":899,"title":"","filename":"st-joe-bay.webp","filesize":499486,"url":"https:\/\/votegulf.gov\/uploads\/2026\/07\/st-joe-bay.webp","link":"https:\/\/votegulf.gov\/home\/st-joe-bay\/","alt":"St Joe Bay Sunset","author":"1","description":"","caption":"1st Place Stephen","name":"st-joe-bay","status":"inherit","uploaded_to":6,"date":"2026-07-02 15:48:36","modified":"2026-07-21 15:38:39","menu_order":0,"mime_type":"image\/webp","type":"image","subtype":"webp","icon":"https:\/\/votegulf.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":2048,"height":1365,"sizes":{"thumbnail":"https:\/\/votegulf.gov\/uploads\/2026\/07\/st-joe-bay-300x300.webp","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/votegulf.gov\/uploads\/2026\/07\/st-joe-bay-600x400.webp","medium-width":600,"medium-height":400,"medium_large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/st-joe-bay-768x512.webp","medium_large-width":768,"medium_large-height":512,"large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/st-joe-bay-1200x800.webp","large-width":1200,"large-height":800,"1536x1536":"https:\/\/votegulf.gov\/uploads\/2026\/07\/st-joe-bay-1536x1024.webp","1536x1536-width":1536,"1536x1536-height":1024,"2048x2048":"https:\/\/votegulf.gov\/uploads\/2026\/07\/st-joe-bay.webp","2048x2048-width":2048,"2048x2048-height":1365}},{"ID":898,"id":898,"title":"lighthouse","filename":"lighthouse.webp","filesize":631006,"url":"https:\/\/votegulf.gov\/uploads\/2026\/07\/lighthouse.webp","link":"https:\/\/votegulf.gov\/lighthouse\/","alt":"Port St. Joe Lighthouse","author":"1","description":"","caption":"","name":"lighthouse","status":"inherit","uploaded_to":0,"date":"2026-07-02 15:48:35","modified":"2026-07-16 15:52:00","menu_order":0,"mime_type":"image\/webp","type":"image","subtype":"webp","icon":"https:\/\/votegulf.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":2400,"height":1350,"sizes":{"thumbnail":"https:\/\/votegulf.gov\/uploads\/2026\/07\/lighthouse-300x300.webp","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/votegulf.gov\/uploads\/2026\/07\/lighthouse-600x338.webp","medium-width":600,"medium-height":338,"medium_large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/lighthouse-768x432.webp","medium_large-width":768,"medium_large-height":432,"large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/lighthouse-1200x675.webp","large-width":1200,"large-height":675,"1536x1536":"https:\/\/votegulf.gov\/uploads\/2026\/07\/lighthouse-1536x864.webp","1536x1536-width":1536,"1536x1536-height":864,"2048x2048":"https:\/\/votegulf.gov\/uploads\/2026\/07\/lighthouse-2048x1152.webp","2048x2048-width":2048,"2048x2048-height":1152}},{"ID":897,"id":897,"title":"heros-walk","filename":"heros-walk.webp","filesize":946278,"url":"https:\/\/votegulf.gov\/uploads\/2026\/07\/heros-walk.webp","link":"https:\/\/votegulf.gov\/heros-walk\/","alt":"Heroes Walk","author":"1","description":"","caption":"","name":"heros-walk","status":"inherit","uploaded_to":0,"date":"2026-07-02 15:48:33","modified":"2026-07-16 15:52:06","menu_order":0,"mime_type":"image\/webp","type":"image","subtype":"webp","icon":"https:\/\/votegulf.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":2400,"height":1470,"sizes":{"thumbnail":"https:\/\/votegulf.gov\/uploads\/2026\/07\/heros-walk-300x300.webp","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/votegulf.gov\/uploads\/2026\/07\/heros-walk-600x368.webp","medium-width":600,"medium-height":368,"medium_large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/heros-walk-768x470.webp","medium_large-width":768,"medium_large-height":470,"large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/heros-walk-1200x735.webp","large-width":1200,"large-height":735,"1536x1536":"https:\/\/votegulf.gov\/uploads\/2026\/07\/heros-walk-1536x941.webp","1536x1536-width":1536,"1536x1536-height":941,"2048x2048":"https:\/\/votegulf.gov\/uploads\/2026\/07\/heros-walk-2048x1254.webp","2048x2048-width":2048,"2048x2048-height":1254}},{"ID":901,"id":901,"title":"dead-lakes","filename":"dead-lakes-1.webp","filesize":959862,"url":"https:\/\/votegulf.gov\/uploads\/2026\/07\/dead-lakes-1.webp","link":"https:\/\/votegulf.gov\/home\/dead-lakes-2\/","alt":"Dead Lakes","author":"1","description":"","caption":"","name":"dead-lakes-2","status":"inherit","uploaded_to":6,"date":"2026-07-02 15:51:22","modified":"2026-07-16 15:51:44","menu_order":0,"mime_type":"image\/webp","type":"image","subtype":"webp","icon":"https:\/\/votegulf.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":2400,"height":1601,"sizes":{"thumbnail":"https:\/\/votegulf.gov\/uploads\/2026\/07\/dead-lakes-1-300x300.webp","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/votegulf.gov\/uploads\/2026\/07\/dead-lakes-1-600x400.webp","medium-width":600,"medium-height":400,"medium_large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/dead-lakes-1-768x512.webp","medium_large-width":768,"medium_large-height":512,"large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/dead-lakes-1-1200x801.webp","large-width":1200,"large-height":801,"1536x1536":"https:\/\/votegulf.gov\/uploads\/2026\/07\/dead-lakes-1-1536x1025.webp","1536x1536-width":1536,"1536x1536-height":1025,"2048x2048":"https:\/\/votegulf.gov\/uploads\/2026\/07\/dead-lakes-1-2048x1366.webp","2048x2048-width":2048,"2048x2048-height":1366}},{"ID":2392,"id":2392,"title":"Tupelo","filename":"Tupelo.png","filesize":996554,"url":"https:\/\/votegulf.gov\/uploads\/2026\/07\/Tupelo.png","link":"https:\/\/votegulf.gov\/?attachment_id=2392","alt":"Tupelo Honey Festival Banner","author":"2","description":"","caption":"","name":"tupelo","status":"inherit","uploaded_to":2403,"date":"2026-07-16 13:45:23","modified":"2026-07-16 17:43:58","menu_order":0,"mime_type":"image\/png","type":"image","subtype":"png","icon":"https:\/\/votegulf.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":731,"height":812,"sizes":{"thumbnail":"https:\/\/votegulf.gov\/uploads\/2026\/07\/Tupelo-300x300.png","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/votegulf.gov\/uploads\/2026\/07\/Tupelo-540x600.png","medium-width":540,"medium-height":600,"medium_large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/Tupelo.png","medium_large-width":731,"medium_large-height":812,"large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/Tupelo.png","large-width":731,"large-height":812,"1536x1536":"https:\/\/votegulf.gov\/uploads\/2026\/07\/Tupelo.png","1536x1536-width":731,"1536x1536-height":812,"2048x2048":"https:\/\/votegulf.gov\/uploads\/2026\/07\/Tupelo.png","2048x2048-width":731,"2048x2048-height":812}}]' class="absolute top-0 w-full h-full lg:hidden z-10">
+      </slider>
+      <slider :images='[{"ID":899,"id":899,"title":"","filename":"st-joe-bay.webp","filesize":499486,"url":"https:\/\/votegulf.gov\/uploads\/2026\/07\/st-joe-bay.webp","link":"https:\/\/votegulf.gov\/home\/st-joe-bay\/","alt":"St Joe Bay Sunset","author":"1","description":"","caption":"1st Place Stephen","name":"st-joe-bay","status":"inherit","uploaded_to":6,"date":"2026-07-02 15:48:36","modified":"2026-07-21 15:38:39","menu_order":0,"mime_type":"image\/webp","type":"image","subtype":"webp","icon":"https:\/\/votegulf.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":2048,"height":1365,"sizes":{"thumbnail":"https:\/\/votegulf.gov\/uploads\/2026\/07\/st-joe-bay-300x300.webp","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/votegulf.gov\/uploads\/2026\/07\/st-joe-bay-600x400.webp","medium-width":600,"medium-height":400,"medium_large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/st-joe-bay-768x512.webp","medium_large-width":768,"medium_large-height":512,"large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/st-joe-bay-1200x800.webp","large-width":1200,"large-height":800,"1536x1536":"https:\/\/votegulf.gov\/uploads\/2026\/07\/st-joe-bay-1536x1024.webp","1536x1536-width":1536,"1536x1536-height":1024,"2048x2048":"https:\/\/votegulf.gov\/uploads\/2026\/07\/st-joe-bay.webp","2048x2048-width":2048,"2048x2048-height":1365}},{"ID":898,"id":898,"title":"lighthouse","filename":"lighthouse.webp","filesize":631006,"url":"https:\/\/votegulf.gov\/uploads\/2026\/07\/lighthouse.webp","link":"https:\/\/votegulf.gov\/lighthouse\/","alt":"Port St. Joe Lighthouse","author":"1","description":"","caption":"","name":"lighthouse","status":"inherit","uploaded_to":0,"date":"2026-07-02 15:48:35","modified":"2026-07-16 15:52:00","menu_order":0,"mime_type":"image\/webp","type":"image","subtype":"webp","icon":"https:\/\/votegulf.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":2400,"height":1350,"sizes":{"thumbnail":"https:\/\/votegulf.gov\/uploads\/2026\/07\/lighthouse-300x300.webp","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/votegulf.gov\/uploads\/2026\/07\/lighthouse-600x338.webp","medium-width":600,"medium-height":338,"medium_large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/lighthouse-768x432.webp","medium_large-width":768,"medium_large-height":432,"large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/lighthouse-1200x675.webp","large-width":1200,"large-height":675,"1536x1536":"https:\/\/votegulf.gov\/uploads\/2026\/07\/lighthouse-1536x864.webp","1536x1536-width":1536,"1536x1536-height":864,"2048x2048":"https:\/\/votegulf.gov\/uploads\/2026\/07\/lighthouse-2048x1152.webp","2048x2048-width":2048,"2048x2048-height":1152}},{"ID":897,"id":897,"title":"heros-walk","filename":"heros-walk.webp","filesize":946278,"url":"https:\/\/votegulf.gov\/uploads\/2026\/07\/heros-walk.webp","link":"https:\/\/votegulf.gov\/heros-walk\/","alt":"Heroes Walk","author":"1","description":"","caption":"","name":"heros-walk","status":"inherit","uploaded_to":0,"date":"2026-07-02 15:48:33","modified":"2026-07-16 15:52:06","menu_order":0,"mime_type":"image\/webp","type":"image","subtype":"webp","icon":"https:\/\/votegulf.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":2400,"height":1470,"sizes":{"thumbnail":"https:\/\/votegulf.gov\/uploads\/2026\/07\/heros-walk-300x300.webp","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/votegulf.gov\/uploads\/2026\/07\/heros-walk-600x368.webp","medium-width":600,"medium-height":368,"medium_large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/heros-walk-768x470.webp","medium_large-width":768,"medium_large-height":470,"large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/heros-walk-1200x735.webp","large-width":1200,"large-height":735,"1536x1536":"https:\/\/votegulf.gov\/uploads\/2026\/07\/heros-walk-1536x941.webp","1536x1536-width":1536,"1536x1536-height":941,"2048x2048":"https:\/\/votegulf.gov\/uploads\/2026\/07\/heros-walk-2048x1254.webp","2048x2048-width":2048,"2048x2048-height":1254}},{"ID":901,"id":901,"title":"dead-lakes","filename":"dead-lakes-1.webp","filesize":959862,"url":"https:\/\/votegulf.gov\/uploads\/2026\/07\/dead-lakes-1.webp","link":"https:\/\/votegulf.gov\/home\/dead-lakes-2\/","alt":"Dead Lakes","author":"1","description":"","caption":"","name":"dead-lakes-2","status":"inherit","uploaded_to":6,"date":"2026-07-02 15:51:22","modified":"2026-07-16 15:51:44","menu_order":0,"mime_type":"image\/webp","type":"image","subtype":"webp","icon":"https:\/\/votegulf.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":2400,"height":1601,"sizes":{"thumbnail":"https:\/\/votegulf.gov\/uploads\/2026\/07\/dead-lakes-1-300x300.webp","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/votegulf.gov\/uploads\/2026\/07\/dead-lakes-1-600x400.webp","medium-width":600,"medium-height":400,"medium_large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/dead-lakes-1-768x512.webp","medium_large-width":768,"medium_large-height":512,"large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/dead-lakes-1-1200x801.webp","large-width":1200,"large-height":801,"1536x1536":"https:\/\/votegulf.gov\/uploads\/2026\/07\/dead-lakes-1-1536x1025.webp","1536x1536-width":1536,"1536x1536-height":1025,"2048x2048":"https:\/\/votegulf.gov\/uploads\/2026\/07\/dead-lakes-1-2048x1366.webp","2048x2048-width":2048,"2048x2048-height":1366}},{"ID":2392,"id":2392,"title":"Tupelo","filename":"Tupelo.png","filesize":996554,"url":"https:\/\/votegulf.gov\/uploads\/2026\/07\/Tupelo.png","link":"https:\/\/votegulf.gov\/?attachment_id=2392","alt":"Tupelo Honey Festival Banner","author":"2","description":"","caption":"","name":"tupelo","status":"inherit","uploaded_to":2403,"date":"2026-07-16 13:45:23","modified":"2026-07-16 17:43:58","menu_order":0,"mime_type":"image\/png","type":"image","subtype":"png","icon":"https:\/\/votegulf.gov\/wordpress\/wp-includes\/images\/media\/default.png","width":731,"height":812,"sizes":{"thumbnail":"https:\/\/votegulf.gov\/uploads\/2026\/07\/Tupelo-300x300.png","thumbnail-width":300,"thumbnail-height":300,"medium":"https:\/\/votegulf.gov\/uploads\/2026\/07\/Tupelo-540x600.png","medium-width":540,"medium-height":600,"medium_large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/Tupelo.png","medium_large-width":731,"medium_large-height":812,"large":"https:\/\/votegulf.gov\/uploads\/2026\/07\/Tupelo.png","large-width":731,"large-height":812,"1536x1536":"https:\/\/votegulf.gov\/uploads\/2026\/07\/Tupelo.png","1536x1536-width":731,"1536x1536-height":812,"2048x2048":"https:\/\/votegulf.gov\/uploads\/2026\/07\/Tupelo.png","2048x2048-width":731,"2048x2048-height":812}}]' class="absolute top-0 w-full h-full hidden lg:block z-10">
+      </slider>
+      <div class="absolute -bottom-px w-full h-32 sm:h-72 bg-gradient-to-t from-secondary via-secondary lg:from-[#F5F5F5] lg:via-[#F5F5F5]/50 to-transparent z-10 transition-all duration-500">
+      </div>
+     </div>
+    </section>
+    <div class="relative z-30 lg:mt-[-60vh] pb-12 px-4" v-cloak="">
+     <div class="lg:h-52 mt-[-20vh] sm:mt-[-16vh]">
+     </div>
+     <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 w-full relative z-40 py-8 max-w-[1500px] mx-auto">
+      <a class="feature-button group shadow-balanced" href="/voters/check-voter-status/">
+       <div aria-hidden="true" class="feature-icon-container">
+        <img alt="" class="feature-icon" src="/icons/voter-status.svg"/>
+       </div>
+       <div class="z-20">
+        <div class="feature-button-title">
+         Check Voter Status
+        </div>
+       </div>
+      </a>
+      <a class="feature-button group shadow-balanced" href="https://registertovoteflorida.gov/home" rel="noopener noreferrer" target="_blank">
+       <div aria-hidden="true" class="feature-icon-container">
+        <img alt="" class="feature-icon" src="/icons/register-to-vote.svg"/>
+       </div>
+       <div class="z-20">
+        <div class="feature-button-title">
+         Register to Vote
+        </div>
+        <span class="sr-only">
+         (opens in a new tab)
+        </span>
+       </div>
+      </a>
+      <a class="feature-button group shadow-balanced" href="https://registertovoteflorida.gov/home" rel="noopener noreferrer" target="_blank">
+       <div aria-hidden="true" class="feature-icon-container">
+        <img alt="" class="feature-icon" src="/icons/edit-file.svg"/>
+       </div>
+       <div class="z-20">
+        <div class="feature-button-title">
+         Update My Info
+        </div>
+        <span class="sr-only">
+         (opens in a new tab)
+        </span>
+       </div>
+      </a>
+      <a class="feature-button group shadow-balanced" href="/elections/sample-ballot/">
+       <div aria-hidden="true" class="feature-icon-container">
+        <img alt="" class="feature-icon" src="/icons/checklist.svg"/>
+       </div>
+       <div class="z-20">
+        <div class="feature-button-title">
+         Sample Ballot
+        </div>
+       </div>
+      </a>
+      <a class="feature-button group shadow-balanced" href="/voters/vote-by-mail/#mail-ballot-request-service">
+       <div aria-hidden="true" class="feature-icon-container">
+        <img alt="" class="feature-icon" src="/icons/envelope-open.svg"/>
+       </div>
+       <div class="z-20">
+        <div class="feature-button-title">
+         Request a Mail Ballot
+        </div>
+       </div>
+      </a>
+      <a class="feature-button group shadow-balanced" href="https://votegulf.ballottrax.net/voter/" rel="noopener noreferrer" target="_blank">
+       <div aria-hidden="true" class="feature-icon-container">
+        <img alt="" class="feature-icon" src="/icons/clipboard-check.svg"/>
+       </div>
+       <div class="z-20">
+        <div class="feature-button-title">
+         Track My Ballot
+        </div>
+        <span class="sr-only">
+         (opens in a new tab)
+        </span>
+       </div>
+      </a>
+      <a class="feature-button group shadow-balanced" href="/voters/early-voting/">
+       <div aria-hidden="true" class="feature-icon-container">
+        <img alt="" class="feature-icon" src="/icons/ballot-box.svg"/>
+       </div>
+       <div class="z-20">
+        <div class="feature-button-title">
+         Early Voting
+        </div>
+       </div>
+      </a>
+      <a class="feature-button group shadow-balanced" href="/voters/where-to-vote/">
+       <div aria-hidden="true" class="feature-icon-container">
+        <img alt="" class="feature-icon" src="/icons/location-map.svg"/>
+       </div>
+       <div class="z-20">
+        <div class="feature-button-title">
+         Voting Locations
+        </div>
+       </div>
+      </a>
+     </section>
+     <section class="relative z-10 py-6 md:pt-12 -mx-4 bg-linear-to-t from-transparent via-white to-transparent">
+      <div class="w-full flex gap-4 lg:gap-12 h-[4.5rem] mb-12">
+       <span class="bg-right bg-no-repeat grow bg-size-[auto_100%]" v-lazy:background-image="'/images/stars-stripes.svg'">
+       </span>
+       <div class="my-auto text-center">
+        <h2 class="font-bold font-heading text-primary-dark uppercase leading-tight text-2xl md:text-3xl lg:text-4xl" tabindex="0">
+         Active Registered Voters
+        </h2>
+        <span class="font-sans font-bold text-lg md:text-xl lg:text-2xl text-primary-dark" tabindex="0">
+         (08/02/2026)
+        </span>
+       </div>
+       <span class="bg-right bg-no-repeat scale-x-[-1] grow bg-size-[auto_100%]" v-lazy:background-image="'/images/stars-stripes.svg'">
+       </span>
+      </div>
+      <div class="w-full flex flex-wrap justify-center gap-4 text-center px-4">
+       <div class="w-full md:w-[300px]" tabindex="0">
+        <h3 class="voter-label">
+         Democrats
+        </h3>
+        <div class="voter-total">
+         2,246
+        </div>
+       </div>
+       <div class="w-full md:w-[300px]" tabindex="0">
+        <h3 class="voter-label">
+         Republicans
+        </h3>
+        <div class="voter-total">
+         7,144
+        </div>
+       </div>
+       <div class="w-full md:w-[300px]" tabindex="0">
+        <h3 class="voter-label">
+         No Party Affiliation
+        </h3>
+        <div class="voter-total">
+         1,281
+        </div>
+       </div>
+       <div class="w-full md:w-[300px]" tabindex="0">
+        <h3 class="voter-label">
+         Other
+        </h3>
+        <div class="voter-total">
+         383
+        </div>
+       </div>
+       <div class="w-full md:w-[300px]" tabindex="0">
+        <h3 class="voter-label">
+         Total
+        </h3>
+        <div class="voter-total">
+         11,054
+        </div>
+       </div>
+      </div>
+     </section>
+     <div class="absolute z-0 inset-0 h-full bg-linear-to-t from-[#F5F5F5]">
+     </div>
+    </div>
+    <div class="relative bg-linear-to-b from-[#F5F5F5] to-white px-4">
+     <section class="relative z-30 w-full mx-auto max-w-screen-xl pb-8" data-lazy="">
+      <div class="flex flex-1 text-center items-center md:text-left justify-between gap-4 w-full flex-wrap md:flex-nowrap mb-2 lg:mb-4">
+       <div class="flex flex-col md:flex-row gap-8">
+        <p class="front-h2" role="heading" tabindex="0">
+         Upcoming Elections
+        </p>
+       </div>
+       <div class="hidden md:block flex-shrink-0 uppercase">
+        <div class="w-full flex flex-wrap gap-2 md:gap-4 xl:gap-4 py-4 justify-start">
+         <a class="group relative z-10 flex items-center link-icon dark:hover:text-secondary-light" href="/elections/election-dates/#elections" target="_self">
+          All Upcoming Elections
+          <span class="rounded-full h-6 w-6 ring-2 ring-accent dark:ring-white flex items-center justify-center transition-all duration-500 mt-0.5 group-hover:translate-x-2">
+          </span>
+         </a>
+        </div>
+       </div>
+      </div>
+      <ul class="">
+       <li class="mb-4 lg:mb-8 last:mb-0">
+        <a class="group p-4 md:p-8 md:pr-0 bg-secondary flex flex-col md:flex-row items-center relative gap-2 md:gap-4 justify-start hover:scale-95 transition-all duration-300 rounded-xl xl:rounded-3xl" href="https://votegulf.gov/event/primary-election/">
+         <div class="px-4 lg:px-8 grow mb-2 md:mb-0 text-center md:text-left">
+          <p class="text-primary font-heading uppercase text-2xl md:text-4xl font-bold" role="heading">
+           Primary Election
+          </p>
+          <p class="text-accent-dark font-bold text-lg md:text-xl mb-0 pb-0 pt-2">
+           August 18, 2026
+          </p>
+         </div>
+         <span class="btn-accent bg-accent-dark! group-hover:bg-accent-light! border-none group-hover:after:bg-white group-hover:bg-white group-hover:text-primary md:rounded-r-none md:rounded-r-none! md:rounded-l-full transition-all duration-500 mx-auto md:mr-0">
+          Election
+ Info &amp; Dates
+         </span>
+        </a>
+       </li>
+       <li class="mb-4 lg:mb-8 last:mb-0">
+        <a class="group p-4 md:p-8 md:pr-0 bg-secondary flex flex-col md:flex-row items-center relative gap-2 md:gap-4 justify-start hover:scale-95 transition-all duration-300 rounded-xl xl:rounded-3xl" href="https://votegulf.gov/event/general-election/">
+         <div class="px-4 lg:px-8 grow mb-2 md:mb-0 text-center md:text-left">
+          <p class="text-primary font-heading uppercase text-2xl md:text-4xl font-bold" role="heading">
+           General Election
+          </p>
+          <p class="text-accent-dark font-bold text-lg md:text-xl mb-0 pb-0 pt-2">
+           November 3, 2026
+          </p>
+         </div>
+         <span class="btn-accent bg-accent-dark! group-hover:bg-accent-light! border-none group-hover:after:bg-white group-hover:bg-white group-hover:text-primary md:rounded-r-none md:rounded-r-none! md:rounded-l-full transition-all duration-500 mx-auto md:mr-0">
+          Election
+ Info &amp; Dates
+         </span>
+        </a>
+       </li>
+      </ul>
+      <div class="block md:hidden mt-2 px-4 md:px-8">
+       <div class="w-full flex flex-wrap gap-2 md:gap-4 xl:gap-4 py-4 justify-start">
+        <a class="group relative z-10 flex items-center link-icon dark:hover:text-secondary-light" href="/elections/election-dates/#elections" target="_self">
+         All Upcoming Elections
+         <span class="rounded-full h-6 w-6 ring-2 ring-accent dark:ring-white flex items-center justify-center transition-all duration-500 mt-0.5 group-hover:translate-x-2">
+         </span>
+        </a>
+       </div>
+      </div>
+     </section>
+     <section class="w-full relative z-10 pb-8" data-lazy="">
+      <div class="w-full mx-auto max-w-screen-xl relative z-10 pt-8 pb-2 lg:py-12">
+       <div class="flex flex-1 text-center items-center md:text-left justify-between gap-4 w-full flex-wrap md:flex-nowrap mb-2 lg:mb-4">
+        <div class="flex flex-col md:flex-row gap-8">
+         <p class="front-h2" role="heading" tabindex="0">
+          Dates to Remember
+         </p>
+        </div>
+        <div class="hidden md:block flex-shrink-0 uppercase">
+         <div class="w-full flex flex-wrap gap-2 md:gap-4 xl:gap-4 py-4 justify-start">
+          <a class="group relative z-10 flex items-center link-icon dark:hover:text-secondary-light" href="/elections/election-dates/#all-dates" target="_self">
+           All Upcoming Dates
+           <span class="rounded-full h-6 w-6 ring-2 ring-accent dark:ring-white flex items-center justify-center transition-all duration-500 mt-0.5 group-hover:translate-x-2">
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="w-full max-w-7xl mx-auto px-6 md:px-10 xl:py-12 xl:px-20 my-2 lg:mb-8 bg-white rounded-xl lg:rounded-3xl overflow-hidden relative z-10 drop-shadow-[0_3px_15px_rgba(180,190,214,0.50)]">
+        <a class="flex flex-col relative transition-all duration-300 my-1 group pt-4 after:block after:mt-6 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0 last:after:bg-transparent" href="https://votegulf.gov/event/early-voting-primary-election/">
+         <p class="text-accent font-bold font-heading text-lg md:text-3xl mb-0 pb-0 normal-case flex gap-2 items-center" role="heading">
+          <span class="w-6 h-6 mr-2">
+           <img class="size-full" role="presentation" v-lazy:src="'/images/blue-star.svg'"/>
+          </span>
+          August 8, 2026
+         </p>
+         <p class="font-medium subpixel-antialiased text-primary-dark leading-tight lg:text-lg lg:pr-12 text-pretty mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all after:duration-500">
+          Early Voting - Primary Election
+         </p>
+        </a>
+        <a class="flex flex-col relative transition-all duration-300 my-1 group pt-4 after:block after:mt-6 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0 last:after:bg-transparent" href="https://votegulf.gov/event/mail-ballot-deadline-uocava-voters-general-election/">
+         <p class="text-accent font-bold font-heading text-lg md:text-3xl mb-0 pb-0 normal-case flex gap-2 items-center" role="heading">
+          <span class="w-6 h-6 mr-2">
+           <img class="size-full" role="presentation" v-lazy:src="'/images/blue-star.svg'"/>
+          </span>
+          September 19, 2026
+         </p>
+         <p class="font-medium subpixel-antialiased text-primary-dark leading-tight lg:text-lg lg:pr-12 text-pretty mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all after:duration-500">
+          Mail Ballot Deadline (UOCAVA Voters) – General Election
+         </p>
+        </a>
+        <a class="flex flex-col relative transition-all duration-300 my-1 group pt-4 after:block after:mt-6 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0 last:after:bg-transparent" href="https://votegulf.gov/event/mail-ballot-deadline-domestic-voters-general-election/">
+         <p class="text-accent font-bold font-heading text-lg md:text-3xl mb-0 pb-0 normal-case flex gap-2 items-center" role="heading">
+          <span class="w-6 h-6 mr-2">
+           <img class="size-full" role="presentation" v-lazy:src="'/images/blue-star.svg'"/>
+          </span>
+          September 24, 2026
+         </p>
+         <p class="font-medium subpixel-antialiased text-primary-dark leading-tight lg:text-lg lg:pr-12 text-pretty mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all after:duration-500">
+          Mail Ballot Deadline (Domestic Voters) – General Election
+         </p>
+        </a>
+        <a class="flex flex-col relative transition-all duration-300 my-1 group pt-4 after:block after:mt-6 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0 last:after:bg-transparent" href="https://votegulf.gov/event/book-closing-general-election/">
+         <p class="text-accent font-bold font-heading text-lg md:text-3xl mb-0 pb-0 normal-case flex gap-2 items-center" role="heading">
+          <span class="w-6 h-6 mr-2">
+           <img class="size-full" role="presentation" v-lazy:src="'/images/blue-star.svg'"/>
+          </span>
+          October 5, 2026
+         </p>
+         <p class="font-medium subpixel-antialiased text-primary-dark leading-tight lg:text-lg lg:pr-12 text-pretty mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all after:duration-500">
+          Book Closing - General Election
+         </p>
+        </a>
+        <a class="flex flex-col relative transition-all duration-300 my-1 group pt-4 after:block after:mt-6 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0 last:after:bg-transparent" href="https://votegulf.gov/event/early-voting-general-election/">
+         <p class="text-accent font-bold font-heading text-lg md:text-3xl mb-0 pb-0 normal-case flex gap-2 items-center" role="heading">
+          <span class="w-6 h-6 mr-2">
+           <img class="size-full" role="presentation" v-lazy:src="'/images/blue-star.svg'"/>
+          </span>
+          October 24, 2026
+         </p>
+         <p class="font-medium subpixel-antialiased text-primary-dark leading-tight lg:text-lg lg:pr-12 text-pretty mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all after:duration-500">
+          Early Voting - General Election
+         </p>
+        </a>
+       </div>
+       <div class="block md:hidden px-4 md:px-8">
+        <div class="w-full flex flex-wrap gap-2 md:gap-4 xl:gap-4 py-4 justify-start">
+         <a class="group relative z-10 flex items-center link-icon dark:hover:text-secondary-light" href="/elections/election-dates/#all-dates" target="_self">
+          All Upcoming Dates
+          <span class="rounded-full h-6 w-6 ring-2 ring-accent dark:ring-white flex items-center justify-center transition-all duration-500 mt-0.5 group-hover:translate-x-2">
+          </span>
+         </a>
+        </div>
+       </div>
+      </div>
+     </section>
+     <div class="absolute z-[1] inset-0 h-full bg-linear-to-b from-secondary-light via-transparent">
+     </div>
+     <div class="absolute z-0 inset-0 h-full bg-size-[100%_auto] bg-repeat-y" v-lazy:background-image="'/images/star-texture-secondary.svg'">
+     </div>
+    </div>
+    <section class="relative z-30 flex-grow bg-secondary-light bg-cover bg-center w-full" data-lazy="">
+     <div>
+      <div class="w-full max-w-screen-xl mx-auto px-4 md:px-8 pt-12 pb-1 z-30 relative">
+       <p class="front-h2 justify-center text-center lg:mb-4" role="heading" tabindex="0">
+        Stay Up to Date
+       </p>
+       <div class="grid my-8 bg-white shadow-balanced rounded-3xl overflow-hidden xl:grid-cols-2 items-center">
+        <div class="p-4 sm:p-8 lg:py-6 lg:pl-10 lg:pr-12 xl:pb-10 flex flex-col">
+         <div class="flex items-center">
+          <div class="flex-none w-20 lg:w-24 aspect-square rounded-full flex items-center justify-center">
+           <img alt="Gulf County Supervisor of Elections" class="size-full" role="presentation" v-lazy="'/images/soe-seal.webp'"/>
+          </div>
+          <div class="ml-4" tabindex="0">
+           <p class="text-primary-dark font-heading uppercase text-lg pb-1 lg:text-2xl leading-none font-bold text-balance" role="heading">
+            Gulf County Supervisor of Elections
+           </p>
+           <p class="font-bold text-primary uppercase tracking-wide text-sm">
+            posted 3 weeks ago
+           </p>
+          </div>
+         </div>
+         <div class="relative grow overflow-hidden w-full">
+          <div class="w-full py-6 prose lg:prose-lg dark:prose-invert max-w-none text-pretty prose-a:break-words prose-p:font-medium prose-p:text-primary-dark" tabindex="0">
+           <p>
+            Vote by mail ballots are going out today! If you are not sure if your vote by mail request is current, please give us a call (850)229-6117!
+           </p>
+          </div>
+         </div>
+         <div>
+          <a class="group relative z-10 flex items-center link-icon dark:hover:text-secondary-light" href="https://www.facebook.com/HEX/posts/HEX" rel="noopener" target="_blank" title="View post on Facebook">
+           View Facebook Post
+           <span class="sr-only">
+            (opens in a new tab)
+           </span>
+           <span class="rounded-full h-6 w-6 ring-2 ring-accent dark:ring-white flex items-center justify-center transition-all duration-500 mt-0.5 group-hover:translate-x-2">
+           </span>
+          </a>
+         </div>
+        </div>
+        <div>
+         <div class="relative">
+          <a aria-label="View link on Facebook (opens in a new tab)" class="block" href="https://www.facebook.com/photo.php" rel="noopener noreferrer" target="_blank">
+           <img alt="View Bay County Supervisor of Elections Facebook post" class="max-w-full" height="720" v-lazy="'https://scontent.xx.fbcdn.net/v/t39.30808-6/743940441_122178436136854185_310302355379207365_n.jpg?stp=dst-jpg_s720x720_tt6&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=833d8c&amp;_nc_ohc=WPIUGadb12sQ7kNvwHPBq51&amp;_nc_oc=AdrpM-KUfxtRLUmKODFolnjKJg_G7ipJRQhxyXpRlk26GOMGUdZFTKsgNo3H04o4xns&amp;_nc_zt=23&amp;_nc_ht=scontent.xx&amp;edm=AKIiGfEEAAAA&amp;_nc_gid=dTyLJOuV9gP-MjGFcg1Q_A&amp;_nc_tpa=Q5bMBQHJmepSCu8bH03HpDub_mZV-cr7bq0J1lFab_M5nRkbF8-BWIRB2WepMTUtrtTgWXFGkeHg9mpV&amp;oh=00_AQHFA__at-Tt0FfakPe1VXVnmXotGrB90MYy-m0JEgJ1ng&amp;oe=6A769739'" width="720"/>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </section>
+    <section class="relative bg-primary-light px-4" data-lazy="">
+     <div class="relative z-30 w-full max-w-screen-xl mx-auto py-8 lg:pt-16 xl:pt-20">
+      <div class="flex flex-1 text-center items-center md:text-left justify-between gap-4 w-full flex-wrap md:flex-nowrap">
+       <div class="">
+        <p class="front-h2" role="heading" tabindex="0">
+         Public Notices
+        </p>
+       </div>
+       <div class="hidden md:block flex-shrink-0 uppercase lg:w-auto">
+        <div class="w-full flex flex-wrap gap-2 md:gap-4 xl:gap-4 py-4 justify-start">
+         <a class="group relative z-10 flex items-center link-icon dark:hover:text-secondary-light" href="/notices/" target="_self">
+          All Public Notices
+          <span class="rounded-full h-6 w-6 ring-2 ring-accent dark:ring-white flex items-center justify-center transition-all duration-500 mt-0.5 group-hover:translate-x-2">
+          </span>
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="not-prose">
+       <a class="group p-4 md:p-8 md:pr-0 bg-white flex flex-col md:flex-row items-center relative gap-2 md:gap-4 justify-start hover:scale-95 transition-all duration-300 rounded-xl xl:rounded-3xl mb-4 lg:mb-8 shadow-balanced" href="https://votegulf.gov/notice/canvassing-board-timeline/">
+        <div class="px-4 lg:pr-8 lg:pl-4 grow mb-2 md:mb-0 text-center md:text-left">
+         <h3 class="text-primary-dark font-heading uppercase text-xl md:text-3xl font-bold">
+          Canvassing Board Timeline
+         </h3>
+         <span class="inline-flex items-center mr-2 mt-2">
+          <img alt="" aria-hidden="true" class="w-6 h-6" v-lazy:src="'/images/blue-star.svg'"/>
+          <span class="text-accent-dark font-bold text-lg md:text-xl mb-0 pb-0 ml-2">
+           August 1, 2026
+          </span>
+         </span>
+        </div>
+        <span class="btn-accent bg-accent-dark! group-hover:bg-accent-light! border-none group-hover:after:bg-white group-hover:bg-white group-hover:text-primary md:rounded-r-none! md:rounded-l-full transition-all duration-500 mx-auto md:mr-0">
+         Read Full Notice
+        </span>
+       </a>
+       <a class="group p-4 md:p-8 md:pr-0 bg-white flex flex-col md:flex-row items-center relative gap-2 md:gap-4 justify-start hover:scale-95 transition-all duration-300 rounded-xl xl:rounded-3xl mb-4 lg:mb-8 shadow-balanced" href="https://votegulf.gov/notice/1st-annual-sticker-contest/">
+        <div class="px-4 lg:pr-8 lg:pl-4 grow mb-2 md:mb-0 text-center md:text-left">
+         <h3 class="text-primary-dark font-heading uppercase text-xl md:text-3xl font-bold">
+          1st Annual Sticker Contest
+         </h3>
+         <span class="inline-flex items-center mr-2 mt-2">
+          <img alt="" aria-hidden="true" class="w-6 h-6" v-lazy:src="'/images/blue-star.svg'"/>
+          <span class="text-accent-dark font-bold text-lg md:text-xl mb-0 pb-0 ml-2">
+           July 7, 2026
+          </span>
+         </span>
+        </div>
+        <span class="btn-accent bg-accent-dark! group-hover:bg-accent-light! border-none group-hover:after:bg-white group-hover:bg-white group-hover:text-primary md:rounded-r-none! md:rounded-l-full transition-all duration-500 mx-auto md:mr-0">
+         Read Full Notice
+        </span>
+       </a>
+       <a class="group p-4 md:p-8 md:pr-0 bg-white flex flex-col md:flex-row items-center relative gap-2 md:gap-4 justify-start hover:scale-95 transition-all duration-300 rounded-xl xl:rounded-3xl mb-4 lg:mb-8 shadow-balanced" href="https://votegulf.gov/notice/voter-eligibility-notice/">
+        <div class="px-4 lg:pr-8 lg:pl-4 grow mb-2 md:mb-0 text-center md:text-left">
+         <h3 class="text-primary-dark font-heading uppercase text-xl md:text-3xl font-bold">
+          Voter Eligibility Notice
+         </h3>
+         <span class="inline-flex items-center mr-2 mt-2">
+          <img alt="" aria-hidden="true" class="w-6 h-6" v-lazy:src="'/images/blue-star.svg'"/>
+          <span class="text-accent-dark font-bold text-lg md:text-xl mb-0 pb-0 ml-2">
+           May 5, 2026
+          </span>
+         </span>
+        </div>
+        <span class="btn-accent bg-accent-dark! group-hover:bg-accent-light! border-none group-hover:after:bg-white group-hover:bg-white group-hover:text-primary md:rounded-r-none! md:rounded-l-full transition-all duration-500 mx-auto md:mr-0">
+         Read Full Notice
+        </span>
+       </a>
+       <a class="group p-4 md:p-8 md:pr-0 bg-white flex flex-col md:flex-row items-center relative gap-2 md:gap-4 justify-start hover:scale-95 transition-all duration-300 rounded-xl xl:rounded-3xl mb-4 lg:mb-8 shadow-balanced" href="https://votegulf.gov/notice/all-mail-ballot-requests-expired/">
+        <div class="px-4 lg:pr-8 lg:pl-4 grow mb-2 md:mb-0 text-center md:text-left">
+         <h3 class="text-primary-dark font-heading uppercase text-xl md:text-3xl font-bold">
+          All Mail Ballot Requests Expired
+         </h3>
+         <span class="inline-flex items-center mr-2 mt-2">
+          <img alt="" aria-hidden="true" class="w-6 h-6" v-lazy:src="'/images/blue-star.svg'"/>
+          <span class="text-accent-dark font-bold text-lg md:text-xl mb-0 pb-0 ml-2">
+           December 31, 2024
+          </span>
+         </span>
+        </div>
+        <span class="btn-accent bg-accent-dark! group-hover:bg-accent-light! border-none group-hover:after:bg-white group-hover:bg-white group-hover:text-primary md:rounded-r-none! md:rounded-l-full transition-all duration-500 mx-auto md:mr-0">
+         Read Full Notice
+        </span>
+       </a>
+      </div>
+      <div class="block md:hidden px-4 md:px-8">
+       <div class="w-full flex flex-wrap gap-2 md:gap-4 xl:gap-4 py-4 justify-start">
+        <a class="group relative z-10 flex items-center link-icon dark:hover:text-secondary-light" href="/notices/" target="_self">
+         All Public Notices
+         <span class="rounded-full h-6 w-6 ring-2 ring-accent dark:ring-white flex items-center justify-center transition-all duration-500 mt-0.5 group-hover:translate-x-2">
+         </span>
+        </a>
+       </div>
+      </div>
+      <div class="flex justify-center mt-8 lg:mt-12">
+       <a class="btn-primary-outlined" href="/notices/voter-eligibility/">
+        Voter Ineligibility Notices
+       </a>
+      </div>
+     </div>
+    </section>
+    <section class="flex-grow bg-linear-to-b from-primary-light to-white md:py-8 xl:py-16 px-4" data-lazy="">
+     <div class="relative z-30 w-full max-w-screen-xl mx-auto py-8 lg:py-12 flex flex-col gap-8 xl:gap-16 lg:flex-row items-center">
+      <div class="relative w-full lg:w-1/2">
+       <div alt="Gulf SOE Team" class="relative z-10 aspect-[7/5] w-full h-full bg-center bg-cover size-full overflow-hidden rounded-2xl lg:rounded-3xl mb-4 lg:order-1" role="img" tabindex="0" v-lazy:background-image="'https://gulfsoe.s3.amazonaws.com/uploads/2026/07/16101122/Team-Photo.jpeg'">
+       </div>
+      </div>
+      <div class="relative z-20 flex flex-col justify-center px-4 xl:px-12 w-auto lg:max-w-xl lg:order-2">
+       <h1 class="font-heading text-4xl md:text-7xl leading-none dark:text-secondary-light mt-0 text-primary-dark uppercase font-bold z-0 text-balance" tabindex="0">
+        <span class="font-sans uppercase font-extrabold text-accent text-xl tracking-wide block">
+         Gulf County, Florida
+        </span>
+        Supervisor of Elections
+       </h1>
+       <div class="prose md:prose-lg lg:prose-xl w-full text-pretty prose-p:text-pretty max-w-none pt-4" tabindex="0">
+        <p>
+         Behind every election are the professionals who make it happen. Denise Tharpe, Asst. SOE, and Tammy Linton, Deputy Clerk, are here to assist voters, maintain records, educate voters, and uphold the integrity of our elections.
+        </p>
+        <p>
+         Let’s not forget our Election Workers! We are so grateful for the many dedicated election workers who work tirelessly and give of their time to also help make voting a pleasurable experience. Without them, it would be impossible!
+        </p>
+       </div>
+       <div class="justify-start w-full flex flex-wrap gap-2 md:gap-4 xl:gap-4 py-4 justify-start">
+        <a class="group relative z-10 flex items-center link-icon dark:hover:text-secondary-light" href="/resources/meet-the-staff/" target="_self">
+         Meet the Staff
+         <span class="rounded-full h-6 w-6 ring-2 ring-accent dark:ring-white flex items-center justify-center transition-all duration-500 mt-0.5 group-hover:translate-x-2">
+         </span>
+        </a>
+       </div>
+      </div>
+     </div>
+    </section>
+   </main>
+   <footer class="relative z-20 bg-primary-light" data-lazy="">
+    <div class="w-full max-w-screen-2xl mx-auto py-8 relative z-20">
+     <div class="grid lg:grid-cols-4 gap-8 xl:gap-16 p-8">
+      <div class="flex flex-col justify-center items-center">
+       <img alt="Gulf County Supervisor of Elections Seal" class="block mb-4" height="202" src="/images/soe-seal.webp" tabindex="0" width="203"/>
+       <img alt="Rhonda H. Pierce, Supervisor of Elections of Gulf County, FL" class="block mb-8" src="/images/soe-logo.svg" tabindex="0"/>
+       <div class="flex flex-wrap gap-3 justify-center items-center px-4" data-lazy="">
+        <a aria-label="follow us on facebook (link opens in a new tab)" href="https://www.facebook.com/profile.php/" rel="noopener" target="_blank">
+        </a>
+       </div>
+      </div>
+      <div class="lg:col-span-3 xl:pl-16 flex">
+       <div class="grid lg:grid-cols-3 gap-4 lg:gap-8 my-auto w-full">
+        <div>
+         <p class="footer-headline" tabindex="0">
+          Email
+         </p>
+         <div class="flex items-center gap-2 not-prose">
+          <a class="footer-contact-link" href="/cdn-cgi/l/email-protection#REDACTED" rel="nofollow" tabindex="0">
+           <span class="__cf_email__">
+            [email protected]
+           </span>
+          </a>
+         </div>
+        </div>
+        <div>
+         <p class="footer-headline" tabindex="0">
+          Call
+         </p>
+         <div class="flex gap-2 items-center lg:justify-start not-prose">
+          <a class="footer-contact-link" href="tel:HEX" rel="nofollow" tabindex="0">
+           (850) 229-6117
+          </a>
+         </div>
+        </div>
+        <div>
+         <p class="footer-headline" tabindex="0">
+          Fax
+         </p>
+         <div class="flex gap-2 items-center lg:justify-start not-prose">
+          <span class="footer-contact" tabindex="0">
+           (850) 229-8975
+          </span>
+         </div>
+        </div>
+        <div class="lg:col-span-3">
+         <p class="flex flex-wrap rounded-2xl border-accent border-4 bg-white gap-2 justify-between md:max-w-2xl py-2 px-4 xl:px-6 font-semibold items-center my-4" tabindex="0">
+          <span class="flex gap-3 items-center font-heading text-primary-dark text-lg md:text-[1.4rem] uppercase">
+           <img alt="" class="h-[1.1em]" role="presentation" v-lazy="'/images/phone-volume.svg'"/>
+           Spanish Support Hotline:
+          </span>
+          <a class="font-sans md:text-lg lg:text-xl text-primary font-bold underline py-1 px-2 hover:decoration-accent" href="tel:+HEX" rel="nofollow">
+           Call +1 (866) 308-6739
+          </a>
+         </p>
+        </div>
+        <div>
+         <p class="footer-headline" tabindex="0">
+          Location
+         </p>
+         <div class="flex gap-2 not-prose">
+          <a aria-label="Get directions to 401 Long Avenue
+Port St Joe, FL 32456 (opens in a new tab)" class="footer-contact-link" href="https://www.google.com/maps/search/?api=1&amp;query=401+Long+Avenue%0D%0APort+St+Joe%2C+FL+32456" tabindex="0" target="_blank" title="Get directions">
+           401 Long Avenue
+           <br/>
+           Port St Joe, FL 32456
+           <span class="sr-only">
+            (opens in a new tab)
+           </span>
+          </a>
+         </div>
+        </div>
+        <div>
+         <p class="footer-headline" tabindex="0">
+          Hours
+         </p>
+         <div class="flex gap-2 not-prose">
+          <span class="footer-contact" tabindex="0">
+           Monday to Friday
+           <br/>
+           8:00 AM – 4:00 PM (ET)
+           <br/>
+           7:00 AM – 3:00 PM (CT)
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="w-full p-4 lg:px-8 xl:px-20 bg-primary-dark dark relative z-20 border-t-2 border-white">
+     <div class="w-full flex flex-wrap items-center justify-center xl:justify-start gap-8 xl:text-lg opacity-90">
+      <p class="text-center dark:text-white" tabindex="0">
+       ©2026 Gulf County Supervisor of Elections.
+ All rights reserved.
+      </p>
+      <div class="w-full lg:w-auto flex flex-col sm:flex-row grow justify-center lg:justify-end gap-2 lg:pr-8">
+       <a class="w-full md:w-auto text-center inline-block decoration-white/50 underline underline-offset-2 px-2 py-1 text-white/90 hover:decoration-accent" href="/privacy-policy/">
+        Privacy Policy
+       </a>
+       <a class="w-full md:w-auto text-center inline-block decoration-white/50 underline underline-offset-2 px-2 py-1 text-white/90 hover:decoration-accent" href="/accessibility-policy/">
+        Accessibility Policy
+       </a>
+       <a class="w-full md:w-auto text-center inline-block decoration-white/50 underline underline-offset-2 px-2 py-1 text-white/90 hover:decoration-accent" href="/sitemap.xml">
+        Sitemap
+       </a>
+      </div>
+      <a class="flex items-center gap-2 mt-4 md:m-0 antialiased font-semibold uppercase text-white" href="https://keriganmarketing.com" rel="noopener" target="_blank">
+       Site by KMA
+      </a>
+     </div>
+    </div>
+    <div class="absolute opacity-12 z-0 inset-0 bg-cover" v-lazy:background-image="'/images/footer-flag.svg'">
+    </div>
+    <div class="absolute z-10 inset-0 bg-linear-to-t from-white via-transparent">
+    </div>
+   </footer>
+   <div class="fixed inset-0 z-40 bg-gray-900/30 backdrop-blur-sm overflow-hidden" v-if="isHovered">
+   </div>
+  </div>
+  <div>
+   <a href="https://votegulf.gov/HEX" rel="nofollow">
+    Secret Link
+   </a>
+  </div>
+ </body>
+</html>

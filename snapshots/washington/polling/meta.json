@@ -1,0 +1,19 @@
+{
+  "county": "Washington",
+  "page_type": "polling",
+  "requested_url": "https://wcsoe.gov/polling-sites/",
+  "final_url": "https://wcsoe.gov/polling-sites/",
+  "redirect_chain": [
+    "https://wcsoe.gov/polling-sites/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "22bdda8caf52ab56dc5749f66ee756f82d73156a4e4b079a17cebc082ebe1daa",
+  "text_sha256": "f6db5fdaddd67a2b7356173b1ea4e33ac095eb8f7fed843067a77d0987e2b156",
+  "byte_size": 86633,
+  "title": "Precinct Numbers and Polling Locations – Washington County (FL) Supervisor of Elections",
+  "error": null
+}

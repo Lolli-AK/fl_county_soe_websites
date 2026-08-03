@@ -1,0 +1,19 @@
+{
+  "county": "Okaloosa",
+  "page_type": "results",
+  "requested_url": "https://www.voteokaloosa.gov/elections/election-results/",
+  "final_url": "https://www.voteokaloosa.gov/elections/election-results/",
+  "redirect_chain": [
+    "https://www.voteokaloosa.gov/elections/election-results/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "25b50cdcc5e4d2c69dc7f799b42c3a17c60ebcc3385de5283bdbf35a45bbff9b",
+  "text_sha256": "c7a1c0d966e102b9fcbec86be2e90d3e2d5d371636f32cf74f153a6f50fb99b6",
+  "byte_size": 67229,
+  "title": "Election Results | Okaloosa County Supervisor of Elections",
+  "error": null
+}

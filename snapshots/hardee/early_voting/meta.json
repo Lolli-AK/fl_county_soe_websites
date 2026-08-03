@@ -1,0 +1,19 @@
+{
+  "county": "Hardee",
+  "page_type": "early_voting",
+  "requested_url": "https://hardeeflvotes.gov/2026-primary-election/",
+  "final_url": "https://hardeeflvotes.gov/2026-primary-election/",
+  "redirect_chain": [
+    "https://hardeeflvotes.gov/2026-primary-election/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "dd0f3a32747648f1868335b43311eeec960e7f0b2d6b249139058f6d08a28d08",
+  "text_sha256": "dbedaa7350e12d3616a337be9ad47cb5e9d628bf78fbfdb2607b5d3726b853ce",
+  "byte_size": 60095,
+  "title": "2026 Primary Election – Hardee, FL Elections Website",
+  "error": null
+}

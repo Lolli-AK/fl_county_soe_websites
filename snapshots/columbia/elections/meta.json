@@ -1,0 +1,19 @@
+{
+  "county": "Columbia",
+  "page_type": "elections",
+  "requested_url": "https://www.votecolumbiafl.gov/election_information/upcoming_elections.php",
+  "final_url": "https://www.votecolumbiafl.gov/election_information/upcoming_elections.php",
+  "redirect_chain": [
+    "https://www.votecolumbiafl.gov/election_information/upcoming_elections.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "15e8f11b54407898a2b58f3dcfe5ae822fdac286dd5e5e2c2ab44e3723c1d6f5",
+  "text_sha256": "a43e0246d61f53eec375c4f0c4a9af442fcbe579d54f9b4aea1c3b87fe2b1563",
+  "byte_size": 32514,
+  "title": "Columbia County Supervisor of Elections, FL",
+  "error": null
+}

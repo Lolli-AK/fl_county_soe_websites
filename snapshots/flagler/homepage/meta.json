@@ -1,0 +1,19 @@
+{
+  "county": "Flagler",
+  "page_type": "homepage",
+  "requested_url": "https://www.flaglerelections.gov/Home",
+  "final_url": "https://www.flaglerelections.gov/Home",
+  "redirect_chain": [
+    "https://www.flaglerelections.gov/Home"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "ebfe6ea823fc7bc1126584c28557717c6c720b804ac3abe7dadaab4389efda83",
+  "text_sha256": "5e17736e163335eb5af5bd278e0beca1f4181590b2913d3e7d34ccb62f2210f2",
+  "byte_size": 67439,
+  "title": "Home | Flagler County Elections Office",
+  "error": null
+}

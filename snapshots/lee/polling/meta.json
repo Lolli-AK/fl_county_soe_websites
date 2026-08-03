@@ -1,0 +1,19 @@
+{
+  "county": "Lee",
+  "page_type": "polling",
+  "requested_url": "https://www.lee.vote/245/Precincts-and-Polling-Places",
+  "final_url": "https://www.lee.vote/245/Precincts-and-Polling-Places",
+  "redirect_chain": [
+    "https://www.lee.vote/245/Precincts-and-Polling-Places"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "e498de2077741f012e17c05ba5f4da2e324493130988d046d7a31bf5c0b03b51",
+  "text_sha256": "d5587475e1fb5cbd385e891246a8f5e68102fd77c5b067f4e63e550b0c2dff5e",
+  "byte_size": 98261,
+  "title": "Precincts and Polling Places | Lee County Elections, FL",
+  "error": null
+}

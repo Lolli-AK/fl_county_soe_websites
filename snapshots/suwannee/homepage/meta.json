@@ -1,0 +1,19 @@
+{
+  "county": "Suwannee",
+  "page_type": "homepage",
+  "requested_url": "https://www.suwanneevotes.com",
+  "final_url": "https://www.suwanneevotes.com",
+  "redirect_chain": [
+    "https://www.suwanneevotes.com"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "8dc34d5a2f9eeef52926939f9b931ae918f864831f908a19c6841c4436c8fda9",
+  "text_sha256": "4925f0718e48300097c1c125be105579dac14b85fe7ca900149ef5998b528f22",
+  "byte_size": 64823,
+  "title": "Suwannee County Supervisor of Elections | Jennifer Kinsey",
+  "error": null
+}

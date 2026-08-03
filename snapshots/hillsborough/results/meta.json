@@ -1,0 +1,19 @@
+{
+  "county": "Hillsborough",
+  "page_type": "results",
+  "requested_url": "https://www.votehillsborough.gov/183/Election-Results",
+  "final_url": "https://www.votehillsborough.gov/183/Election-Results",
+  "redirect_chain": [
+    "https://www.votehillsborough.gov/183/Election-Results"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "e9b5d79bdc8afb9fd15b3e4fcb01ebf963f6985169afa0d4b9a1aa3f0e9629ae",
+  "text_sha256": "4ff91b5fdbc74734fa94160ed8bda1246ba966dfa54a174da031e9f7bc3acb92",
+  "byte_size": 95000,
+  "title": "Election Results | Hillsborough County Elections, FL",
+  "error": null
+}

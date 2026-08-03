@@ -1,0 +1,19 @@
+{
+  "county": "Okeechobee",
+  "page_type": "polling",
+  "requested_url": "https://voteokeechobee.gov/election-information/sample-ballot/",
+  "final_url": "https://voteokeechobee.gov/election-information/sample-ballot/",
+  "redirect_chain": [
+    "https://voteokeechobee.gov/election-information/sample-ballot/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "2af5f926412b2773753daa2f7177927d3c758c30e50fc035060d6632c40f59ab",
+  "text_sha256": "7428c2607d2bc2f8e1822e79c530b61f09a2a44442734e9a498bfca92179318a",
+  "byte_size": 75968,
+  "title": "Sample Ballots – Okeechobee County, FL",
+  "error": null
+}

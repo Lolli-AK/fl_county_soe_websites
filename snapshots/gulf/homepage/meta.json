@@ -1,0 +1,19 @@
+{
+  "county": "Gulf",
+  "page_type": "homepage",
+  "requested_url": "https://votegulf.gov/",
+  "final_url": "https://votegulf.gov/",
+  "redirect_chain": [
+    "https://votegulf.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "4bc89d26897c0fc4fd195be7c926d98a8775d109f822f778deb7648353347985",
+  "text_sha256": "318464650a26096f818fdcad57293c9c0b8a3a867a49683e2b14422e956ab672",
+  "byte_size": 96159,
+  "title": "Gulf County Supervisor of Elections | Rhonda Pierce",
+  "error": null
+}

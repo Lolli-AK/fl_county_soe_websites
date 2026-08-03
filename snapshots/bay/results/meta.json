@@ -1,0 +1,19 @@
+{
+  "county": "Bay",
+  "page_type": "results",
+  "requested_url": "https://www.bayvotesfl.gov/elections/election-results/",
+  "final_url": "https://www.bayvotesfl.gov/elections/election-results/",
+  "redirect_chain": [
+    "https://www.bayvotesfl.gov/elections/election-results/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "28a502da6eb6b2aa9e469209f977b014019a0858df8ecefb3c30928e5029fe64",
+  "text_sha256": "4455496aff70bfb28171c774090159114fcee8ee409cb4654526d3a8cf1f0c95",
+  "byte_size": 52128,
+  "title": "Election Results | Bay County Supervisor of Elections",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Palm Beach",
+  "page_type": "early_voting",
+  "requested_url": "https://www.votepalmbeach.gov/167/Early-Voting",
+  "final_url": "https://www.votepalmbeach.gov/167/Early-Voting",
+  "redirect_chain": [
+    "https://www.votepalmbeach.gov/167/Early-Voting"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "0c140afdb2b1b2a481002be5132fbd28cf60404228f04ca377d43127122f7297",
+  "text_sha256": "94d3459105f5cb7337d02f95d336009a34217b2cec06474249e6367aae9195c2",
+  "byte_size": 52111,
+  "title": "Early Voting | Palm Beach County Elections, FL",
+  "error": null
+}

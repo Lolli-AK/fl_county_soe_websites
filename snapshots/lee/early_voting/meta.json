@@ -1,0 +1,19 @@
+{
+  "county": "Lee",
+  "page_type": "early_voting",
+  "requested_url": "https://www.lee.vote/229/Early-Voting-Dates-and-Locations",
+  "final_url": "https://www.lee.vote/229/Early-Voting-Dates-and-Locations",
+  "redirect_chain": [
+    "https://www.lee.vote/229/Early-Voting-Dates-and-Locations"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "b2eedcbc30255ae145ef0897747535063dd5114deb53119cc5e91e7bf310dc6c",
+  "text_sha256": "9b79ba3799c1f2f96d2eae312f4d69f1848fd48875b00de9983515001b1614b6",
+  "byte_size": 54547,
+  "title": "Early Voting Dates and Locations | Lee County Elections, FL",
+  "error": null
+}

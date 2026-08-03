@@ -1,0 +1,19 @@
+{
+  "county": "Calhoun",
+  "page_type": "elections",
+  "requested_url": "https://votecalhounfl.gov/election-information/election-dates/",
+  "final_url": "https://votecalhounfl.gov/election-information/election-dates/",
+  "redirect_chain": [
+    "https://votecalhounfl.gov/election-information/election-dates/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "49dd64b209fc01f142a922b756cfb0e45deb54aacf4b9d253d64f736408e171e",
+  "text_sha256": "52961bb9dc092bf29147dcea7df6c3c64bfa992bc13682c3fb149616abef5843",
+  "byte_size": 174959,
+  "title": "Election Dates – Calhoun County – Supervisor of Elections",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Union",
+  "page_type": "elections",
+  "requested_url": "https://unionflvotes.com/elections/upcoming-elections/",
+  "final_url": "https://unionflvotes.com/elections/upcoming-elections/",
+  "redirect_chain": [
+    "https://unionflvotes.com/elections/upcoming-elections/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "2f4c2edc3f24f51faa5d67edb9b8aa7c6f3cc054197d030deb837f40c0209df8",
+  "text_sha256": "3ae5f85b8add7813ac6d28932123eb770d039e2bb37ad62317835b6cb522f07d",
+  "byte_size": 72013,
+  "title": "Upcoming Elections | Union County Supervisor of Elections",
+  "error": null
+}

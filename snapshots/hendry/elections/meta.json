@@ -1,0 +1,19 @@
+{
+  "county": "Hendry",
+  "page_type": "elections",
+  "requested_url": "https://www.hendryelections.gov/voter/index.php",
+  "final_url": "https://www.hendryelections.gov/voter/index.php",
+  "redirect_chain": [
+    "https://www.hendryelections.gov/voter/index.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "6aaa75fa0663a0d72bea8ca918924bda9f8372e42db35ee231011faddb22ba3c",
+  "text_sha256": "41da4bf09825046bb5ea9bbc3fa00afad26fb04fa2a399f700ec46faeabf50c4",
+  "byte_size": 38477,
+  "title": "Hendry County Supervisor of Elections, FL",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Madison",
+  "page_type": "early_voting",
+  "requested_url": "https://www.votemadison.com/vote-early/",
+  "final_url": "https://www.votemadison.com/vote-early/",
+  "redirect_chain": [
+    "https://www.votemadison.com/vote-early/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "b91e34d88667b71d9b5aa7cebea652e21415e043b6232e4edb9a6faf99181f89",
+  "text_sha256": "e52b709eda6e7c3375b2d69ce9b3b79c4a15467a7b98aae69507a12c9a266cb0",
+  "byte_size": 61189,
+  "title": "Vote Early",
+  "error": null
+}

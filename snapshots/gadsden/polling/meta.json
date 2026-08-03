@@ -1,0 +1,19 @@
+{
+  "county": "Gadsden",
+  "page_type": "polling",
+  "requested_url": "https://votegadsdenfl.gov/election-info/precinct-information/precinct-lookup/",
+  "final_url": "https://votegadsdenfl.gov/election-info/precinct-information/precinct-lookup/",
+  "redirect_chain": [
+    "https://votegadsdenfl.gov/election-info/precinct-information/precinct-lookup/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "932943f5dd220ff7e8e266a7f6aed0db618b06083f6d1129c5c0678cf4df6de9",
+  "text_sha256": "c797c9697b4b53289729a2f2152b8c89d9da027a5fa545346fc8e5242725a5ae",
+  "byte_size": 59951,
+  "title": "Precinct Lookup – Gadsden County Supervisor of Elections",
+  "error": null
+}

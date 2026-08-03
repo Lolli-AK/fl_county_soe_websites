@@ -1,0 +1,19 @@
+{
+  "county": "Highlands",
+  "page_type": "early_voting",
+  "requested_url": "https://www.votehighlands.gov/early-voting",
+  "final_url": "https://www.votehighlands.gov/early-voting",
+  "redirect_chain": [
+    "https://www.votehighlands.gov/early-voting"
+  ],
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "cda60941925bc3e4912514e4b72788eb6cd6edbde6a17c9f6fe2fd84aff140d5",
+  "text_sha256": "cbdb26c4dde66951a6dbc9ff4bc3cc159d989a2a2a3d4c85df0f4af46f6e62c6",
+  "byte_size": 121754,
+  "title": "Early Voting Information | Highlands County Supervisor of Elections | Sebring, FL",
+  "error": null
+}

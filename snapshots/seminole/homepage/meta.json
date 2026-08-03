@@ -1,0 +1,19 @@
+{
+  "county": "Seminole",
+  "page_type": "homepage",
+  "requested_url": "https://voteseminole.gov/",
+  "final_url": "https://voteseminole.gov/",
+  "redirect_chain": [
+    "https://voteseminole.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "5053d6af81953db11b23e7d99582df435335558b734f46a7e391f4dd478bf1f4",
+  "text_sha256": "12816a2a141d2c478ab9377f9101548106286f9d953b9b5689a3ecf7b88d3605",
+  "byte_size": 95975,
+  "title": "voteseminole.gov",
+  "error": null
+}

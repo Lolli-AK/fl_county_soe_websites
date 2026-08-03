@@ -1,0 +1,19 @@
+{
+  "county": "Santa Rosa",
+  "page_type": "elections",
+  "requested_url": "https://votesantarosa.gov/election-information/",
+  "final_url": "https://votesantarosa.gov/election-information/",
+  "redirect_chain": [
+    "https://votesantarosa.gov/election-information/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "c3946cea4bc2ef1054261af0f832649100b7303c3092b6de58cfd507cd0124e2",
+  "text_sha256": "530988d5b88150ae1ca9ac875022feaad4a3b204771a45348438276e52cdb08a",
+  "byte_size": 76826,
+  "title": "Election Information – Santa Rosa, FL",
+  "error": null
+}

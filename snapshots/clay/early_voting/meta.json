@@ -1,0 +1,19 @@
+{
+  "county": "Clay",
+  "page_type": "early_voting",
+  "requested_url": "https://clayelections.gov/election-information/early-voting-sites/",
+  "final_url": "https://clayelections.gov/election-information/early-voting-sites/",
+  "redirect_chain": [
+    "https://clayelections.gov/election-information/early-voting-sites/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "ee4bcabd11ac8033d0d2a360da8be22c100a0341b5e6614fa337df587cbd452d",
+  "text_sha256": "0957f32c02a621799bdadb5def8b6fbb420b9f21231d0f70435b8af146476895",
+  "byte_size": 91601,
+  "title": "Early Voting Sites - Clay County Supervisor of Elections",
+  "error": null
+}

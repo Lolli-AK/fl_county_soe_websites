@@ -1,0 +1,19 @@
+{
+  "county": "Miami-Dade",
+  "page_type": "results",
+  "requested_url": "https://www.votemiamidade.gov/elections/data/results-archive.page",
+  "final_url": "https://www.votemiamidade.gov/elections/data/results-archive.page",
+  "redirect_chain": [
+    "https://www.votemiamidade.gov/elections/data/results-archive.page"
+  ],
+  "http_status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "08bce9f7088d20fb2fca39a75eff90eab106c3dd167a23d15fc303157f94adbb",
+  "text_sha256": "30864e77a5485a91089b732eb1869de1a067e68d61eca002047e43f4d910aac5",
+  "byte_size": 359375,
+  "title": "Past Election Results",
+  "error": null
+}

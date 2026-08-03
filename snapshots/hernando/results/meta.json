@@ -1,0 +1,19 @@
+{
+  "county": "Hernando",
+  "page_type": "results",
+  "requested_url": "https://www.hernandovotes.gov/1197/Past-Election-Results",
+  "final_url": "https://www.hernandovotes.gov/1197/Past-Election-Results",
+  "redirect_chain": [
+    "https://www.hernandovotes.gov/1197/Past-Election-Results"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "661baffb271962fa53d841b834b5ea563a3eb7d2164e96e7b00cd335006ef5d4",
+  "text_sha256": "edccc34b6d09701da23aac0e7b8c296efbd9f45e860a4992f1b2cf64492ee05c",
+  "byte_size": 63191,
+  "title": "Past Election Results | Hernando County SOE, FL",
+  "error": null
+}

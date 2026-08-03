@@ -1,0 +1,19 @@
+{
+  "county": "Suwannee",
+  "page_type": "elections",
+  "requested_url": "https://www.suwanneevotes.com/events/mail-ballot-send-deadline-for-domestic-voters-general-election/",
+  "final_url": "https://www.suwanneevotes.com/events/mail-ballot-send-deadline-for-domestic-voters-general-election/",
+  "redirect_chain": [
+    "https://www.suwanneevotes.com/events/mail-ballot-send-deadline-for-domestic-voters-general-election/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "16cb02dddfa5b85d7e6c021f700a77c08e87e1d441940463102bb32d59709438",
+  "text_sha256": "71206ff9c60e152e646354bf04881b62e783a8c93fec762b9ed62f6e64a117e1",
+  "byte_size": 42446,
+  "title": "Mail Ballot ‘Send’ Deadline For Domestic Voters: General Election | Suwannee County Supervisor of Elections, Jennifer Kinsey",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Manatee",
+  "page_type": "homepage",
+  "requested_url": "https://www.votemanatee.gov",
+  "final_url": "https://www.votemanatee.gov",
+  "redirect_chain": [
+    "https://www.votemanatee.gov"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "fb971cfcc6eac313c4aca06f399d6ab75d259714ccbdb866e3b67be8400dc364",
+  "text_sha256": "f12b87da2f61d2fd3f79b1ac6e9b4ebac0cf01656e92d91722f4a91456babd74",
+  "byte_size": 153795,
+  "title": "Home - Vote Manatee",
+  "error": null
+}

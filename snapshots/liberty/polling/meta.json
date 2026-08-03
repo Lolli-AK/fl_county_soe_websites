@@ -1,0 +1,19 @@
+{
+  "county": "Liberty",
+  "page_type": "polling",
+  "requested_url": "https://libertycountyflsoe.gov/voter-information/polling-places/",
+  "final_url": "https://libertycountyflsoe.gov/voter-information/polling-places/",
+  "redirect_chain": [
+    "https://libertycountyflsoe.gov/voter-information/polling-places/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "a3980fe95ab8b12bd55f066a7e8d397cff71b7d1f5cc40d3608fc3cac90ea961",
+  "text_sha256": "209ed173d8386b2b11b0eeffac7059a4fce0e6b8c9f0d579d4e050af905ea861",
+  "byte_size": 57210,
+  "title": "Polling Places – Liberty County (FL) Supervisor of Elections",
+  "error": null
+}

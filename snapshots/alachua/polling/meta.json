@@ -1,0 +1,19 @@
+{
+  "county": "Alachua",
+  "page_type": "polling",
+  "requested_url": "https://www.votealachua.gov/207/Precinct-Voting",
+  "final_url": "https://www.votealachua.gov/207/Precinct-Voting",
+  "redirect_chain": [
+    "https://www.votealachua.gov/207/Precinct-Voting"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "f89da5e217ef4226164a34ae74cab77de66158de808064a8d313a88e26efa1c5",
+  "text_sha256": "5c8235a2f0b4ed6cf10043827a86bc9d0ce3ef08dff91ffd156886856536335f",
+  "byte_size": 42782,
+  "title": "Precinct Voting | Alachua County Elections, FL",
+  "error": null
+}

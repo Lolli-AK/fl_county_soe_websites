@@ -1,0 +1,19 @@
+{
+  "county": "Bay",
+  "page_type": "elections",
+  "requested_url": "https://www.bayvotesfl.gov/elections/upcoming-elections/",
+  "final_url": "https://www.bayvotesfl.gov/elections/upcoming-elections/",
+  "redirect_chain": [
+    "https://www.bayvotesfl.gov/elections/upcoming-elections/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "884829f22f3ee4b66bf33d4b3004a071954043e002649e94aac20321a65e4d57",
+  "text_sha256": "78d7854ece3f1e1b76c27799eeeca5ea90e970e7f54dd2aa1e9a8f419275e69c",
+  "byte_size": 53752,
+  "title": "Upcoming Elections | Bay County Supervisor of Elections",
+  "error": null
+}

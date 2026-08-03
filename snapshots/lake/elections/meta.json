@@ -1,0 +1,19 @@
+{
+  "county": "Lake",
+  "page_type": "elections",
+  "requested_url": "https://www.lakevotes.gov/101/Election-Information",
+  "final_url": "https://www.lakevotes.gov/101/Election-Information",
+  "redirect_chain": [
+    "https://www.lakevotes.gov/101/Election-Information"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "22f11ff42995ee496054fae41bc21d899d2588d6dcaa3267817dad955f614364",
+  "text_sha256": "2543e732bca4a811ce50654aaa7c795297077ec47449af09a4a0c3a821304cd4",
+  "byte_size": 48992,
+  "title": "Election Information | Lake County Elections, FL",
+  "error": null
+}

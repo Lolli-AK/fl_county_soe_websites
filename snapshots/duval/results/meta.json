@@ -1,0 +1,19 @@
+{
+  "county": "Duval",
+  "page_type": "results",
+  "requested_url": "https://www.duvalelections.gov/262/Data-Maps-Past-Election-Results",
+  "final_url": "https://www.duvalelections.gov/262/Data-Maps-Past-Election-Results",
+  "redirect_chain": [
+    "https://www.duvalelections.gov/262/Data-Maps-Past-Election-Results"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "78fd16d2e316598301e2090273ccaf929652db7a5830b40615209be9440c23dd",
+  "text_sha256": "c528801c89b34afb82337d6fae50a35707081ad8503831f2de9a1d0b274bec2a",
+  "byte_size": 46473,
+  "title": "Data/ Maps/ Past Election Results | Duval County Elections, FL Official Website",
+  "error": null
+}

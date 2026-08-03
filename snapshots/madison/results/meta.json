@@ -1,0 +1,19 @@
+{
+  "county": "Madison",
+  "page_type": "results",
+  "requested_url": "https://www.votemadison.com/elections/election-results/",
+  "final_url": "https://www.votemadison.com/elections/election-results/",
+  "redirect_chain": [
+    "https://www.votemadison.com/elections/election-results/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "fc2adbd9deee7ab3594752be22de33da9e4935fbed83640df28419d4c2c79071",
+  "text_sha256": "7de84fc1ef3ed735e73e6aff6f249f57220e32b3a582f60d59587c1ebc56d976",
+  "byte_size": 59387,
+  "title": "Election Results | Madison County Supervisor of Elections",
+  "error": null
+}

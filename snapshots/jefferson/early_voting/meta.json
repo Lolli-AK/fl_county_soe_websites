@@ -1,0 +1,19 @@
+{
+  "county": "Jefferson",
+  "page_type": "early_voting",
+  "requested_url": "https://jeffersonvotesfl.gov/vote-early/",
+  "final_url": "https://jeffersonvotesfl.gov/vote-early/",
+  "redirect_chain": [
+    "https://jeffersonvotesfl.gov/vote-early/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "69bb0739a5929a2c2bb98120d05463ac006bc6db96f4597e9205b27275905ac9",
+  "text_sha256": "b34eb2f179d011144d1c9136f6d080224c8719d3e5882a774364b495857cf0bc",
+  "byte_size": 46766,
+  "title": "Early Voting | Jefferson County Supervisor of Elections",
+  "error": null
+}

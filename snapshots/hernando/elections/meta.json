@@ -1,0 +1,19 @@
+{
+  "county": "Hernando",
+  "page_type": "elections",
+  "requested_url": "https://www.hernandovotes.gov/27/Election-Information",
+  "final_url": "https://www.hernandovotes.gov/27/Election-Information",
+  "redirect_chain": [
+    "https://www.hernandovotes.gov/27/Election-Information"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "0e026c228279d163c206c569d5c162bab96916fd499eb59bcecd7e16801c2c22",
+  "text_sha256": "03c01a86013dbf0fe96d6ecef9c7a793b5d34efa7c05edc8d78d32a8efdfcd4a",
+  "byte_size": 50065,
+  "title": "Election Information | Hernando County SOE, FL",
+  "error": null
+}

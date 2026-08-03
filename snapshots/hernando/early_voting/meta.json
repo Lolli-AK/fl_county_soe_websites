@@ -1,0 +1,19 @@
+{
+  "county": "Hernando",
+  "page_type": "early_voting",
+  "requested_url": "https://www.hernandovotes.gov/1200/Early-Voting-Locations",
+  "final_url": "https://www.hernandovotes.gov/1200/Early-Voting-Locations",
+  "redirect_chain": [
+    "https://www.hernandovotes.gov/1200/Early-Voting-Locations"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "368035bf0e31c56786562b064e1ac0ccad7b408bcec91164d186dcdfdbdcf36d",
+  "text_sha256": "317b9740d0c9e61a88dddb51841017113e8b8a18445db9b52ad77bf9b9d74b76",
+  "byte_size": 44297,
+  "title": "Early Voting Locations | Hernando County SOE, FL",
+  "error": null
+}

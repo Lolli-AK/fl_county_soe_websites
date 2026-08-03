@@ -1,0 +1,19 @@
+{
+  "county": "St. Lucie",
+  "page_type": "results",
+  "requested_url": "https://www.stlucievotes.gov/enr.php",
+  "final_url": "https://www.stlucievotes.gov/enr.php",
+  "redirect_chain": [
+    "https://www.stlucievotes.gov/enr.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "c86f2ab1d0f21304b85a51fbc6a48a6cf3e580b1c539050808df98347550929d",
+  "text_sha256": "1b3b59db7b4d143445262a4b863dd7a71d0f79b844c2b48aab665868903551ab",
+  "byte_size": 55183,
+  "title": "St. Lucie Supervisor of Elections, FL",
+  "error": null
+}

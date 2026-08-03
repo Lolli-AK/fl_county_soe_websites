@@ -1,0 +1,19 @@
+{
+  "county": "Okaloosa",
+  "page_type": "polling",
+  "requested_url": "https://www.voteokaloosa.gov/announcements/notice-of-polling-place-change/",
+  "final_url": "https://www.voteokaloosa.gov/announcements/notice-of-polling-place-change/",
+  "redirect_chain": [
+    "https://www.voteokaloosa.gov/announcements/notice-of-polling-place-change/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-08-03T16:52:14Z",
+  "html_sha256": "2c402bd4d4662f0ec0f731232804cefecbab2ac5b26a70cafe3bb52f814669f2",
+  "text_sha256": "60bcfbdb71158534bee9bcba8f4d8ba1e49b322d29e7c1a2be942096b9a2d94e",
+  "byte_size": 64836,
+  "title": "Notice of Polling Place Change | Okaloosa County Supervisor of Elections",
+  "error": null
+}
