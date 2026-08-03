@@ -92,6 +92,18 @@ it publishes polling, early voting and results as standing pages. In Texas the
 equivalent number was 50 **of 254**, because there a rural county's elections content
 is a subsection of a general county website.
 
+The 20 gaps, by recorded reason:
+
+| reason | rows |
+|---|---|
+| no distinct page found (folded into another page) | 8 |
+| no county-specific page found (best candidate was an unrelated third-party site) | 6 |
+| established by hand during the QA pass — nav, conventional paths and sitemap all checked | 5 |
+| candidate is non-HTML (PDF-only) | 1 |
+
+**Every gap row carries its reason in `notes`** — a gap is recorded data, not a
+failure, and a test enforces that no gap row is silent.
+
 ## What it stores (per captured page)
 
 Three text artifacts per page, under `snapshots/<county>/<page_type>/`:

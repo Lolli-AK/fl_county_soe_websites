@@ -258,6 +258,16 @@ _RANDOM_NUM_SUFFIX_RE = re.compile(
 _RANDOM_ONLY_CLASS_RE = re.compile(
     r"^[A-Za-z][A-Za-z0-9_]*-{1,2}(RANDOM|HEX|GUID)$")
 
+# An UNRENDERED server-side template expression that leaked into the markup. This is
+# a CivicPlus bug: Palm Beach's homepage emits
+#   <ol aria-hidden="False.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow">
+# i.e. the C# was never evaluated, so the literal expression is in the attribute. Its
+# operand still flips True/False between captures, because it is driven by the same
+# runtime container measurement behind the `wide`/`narrow` class churn — so the value
+# is both meaningless and volatile. Replace the whole value rather than the operand:
+# the leading token varies too ("aria-hidden.ToString()…" on one capture).
+_UNRENDERED_EXPR_RE = re.compile(r"^[^\"']*\.ToString\(\)[.A-Za-z()]*$")
+
 
 def _canon_ids(value: str) -> str:
     """Replace regenerated-per-render opaque ids/timestamps with placeholders."""
@@ -458,6 +468,11 @@ def _strip_tree(soup: BeautifulSoup) -> None:
         for attr in _DROP_ATTRS_EXACT:
             if tag.has_attr(attr):
                 del tag[attr]
+
+        # Unrendered server-side template expressions (see _UNRENDERED_EXPR_RE).
+        for attr, val in list(tag.attrs.items()):
+            if isinstance(val, str) and _UNRENDERED_EXPR_RE.match(val):
+                tag[attr] = "UNRENDERED_EXPR"
 
         # WP Rocket lazy-loading rewrites <img src> to an inline SVG placeholder and
         # moves the real URL to data-lazy-src — but only when its cache has the
