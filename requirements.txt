@@ -5,3 +5,8 @@ lxml>=5.0
 playwright>=1.44
 # brotli: required because we advertise `br` in Accept-Encoding
 brotli>=1.1
+# openpyxl: scripts/export_xlsx.py generates the review workbook from targets.csv
+openpyxl>=3.1
+# pytest is only needed to run tests/, not to snapshot:
+#   .venv/bin/pip install pytest
+

@@ -144,16 +144,33 @@ def main() -> None:
         sys.exit("duplicate county name in the seed table")
 
     if args.check:
+        import re
         with OUT.open(newline="", encoding="utf-8") as fh:
             on_disk = list(csv.DictReader(fh))
-        # Only the identity + provenance columns are generated here; `homepage` may
-        # have been corrected by hand after an audit, so it is reported, not enforced.
-        drift = [(d["county"], d["homepage"], e["homepage"])
-                 for d, e in zip(on_disk, rows())
-                 if d["homepage"] != e["homepage"]]
-        for county, disk, seed in drift:
-            print(f"homepage differs (hand-corrected?): {county}: {disk} != {seed}")
-        print(f"{len(on_disk)} rows on disk, {len(drift)} homepage differences")
+
+        def regdom(u: str) -> str:
+            host = re.sub(r"^https?://", "", u).split("/")[0].lower()
+            return host[4:] if host.startswith("www.") else host
+
+        # `homepage` on disk is the *verified live* URL, so it legitimately differs
+        # from the state directory's string. Two kinds of difference, and only one
+        # is interesting: a changed registered domain means the directory was stale
+        # (those counties are batch 2), whereas a www/trailing-slash/redirect-path
+        # difference is just what the server actually served.
+        moved, cosmetic = [], 0
+        for d, e in zip(on_disk, rows()):
+            if d["homepage"] == e["homepage"]:
+                continue
+            if regdom(d["homepage"]) != regdom(e["homepage"]):
+                moved.append((d["county"], e["homepage"], d["homepage"], d["batch"]))
+            else:
+                cosmetic += 1
+        for county, seed_url, live, batch in moved:
+            flag = "" if batch == "2" else "  <-- expected batch 2!"
+            print(f"DOMAIN CHANGED  {county:<12} {seed_url}  ->  {live}{flag}")
+        print(f"\n{len(on_disk)} rows on disk · {len(moved)} changed domain "
+              f"(state directory stale) · {cosmetic} cosmetic (www / slash / "
+              f"redirect path)")
         return
 
     OUT.parent.mkdir(exist_ok=True)

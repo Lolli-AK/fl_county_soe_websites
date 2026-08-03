@@ -48,7 +48,12 @@ _VOLATILE_ATTR_SUBSTRINGS = ("csrf", "token", "nonce", "session", "viewstate")
 # <meta http-equiv="X-Wix-Published-Version" content="6061"> and bumps it on every
 # publish, so two captures minutes apart can disagree.
 _VOLATILE_META_SUBSTRINGS = ("published-version", "build-version", "buildid",
-                             "build-id", "revision", "x-wix-")
+                             "build-id", "revision", "x-wix-",
+                             # Dublin Core date emitted as the page GENERATION time,
+                             # not a content date: Volusia's homepage carries
+                             # <meta name="DC.Date" content="2026-08-03T11:54:31-04:00">
+                             # which changes on every request.
+                             "dc.date", "dcterms.modified", "generation-time")
 
 # Markers that a "plain" fetch only got a JS shell and should be escalated.
 _JS_SHELL_MARKERS = (
@@ -146,7 +151,13 @@ _ID_ATTRS = ("id", "class", "for", "aria-controls", "aria-labelledby",
 _DROP_ATTRS_EXACT = ("data-drupal-selector", "data-style-uid",
                      # Laravel Livewire mints a fresh component id and embeds a
                      # full state snapshot on every render (Gregg County).
-                     "wire:id", "wire:snapshot", "wire:effects", "wire:initial-data")
+                     "wire:id", "wire:snapshot", "wire:effects", "wire:initial-data",
+                     # WP Rocket stamps which optimizations its cache applied, and
+                     # the list ends in wpr_mobile or wpr_desktop depending on which
+                     # cache variant answered. Clay County's homepage alternates
+                     # between the two, which also flips <img> lazy-loading on and
+                     # off (handled separately by restoring data-lazy-src).
+                     "data-wpr-features")
 
 # Cache-busting / per-session query parameters on asset and form URLs. WordPress
 # stamps stylesheets with ?ver=<unix time>; SharePoint's Office viewer packs a
@@ -167,6 +178,18 @@ _US_DATETIME_RE = re.compile(
 # CivicPlus widgets pick a size class by measuring their container at runtime, so
 # the same widget renders `wide` on one capture and `narrow` on the next.
 _WIDGET_SIZE_CLASSES = {"wide", "narrow"}
+# ...and the same measurement is applied to plain LAYOUT containers, not just
+# elements whose class mentions "widget": Lee County renders
+# class="row outer wide" / "row nest first last wide" on one capture and drops
+# `wide` on the next. So the size-class strip is keyed off these layout classes too.
+_LAYOUT_CLASSES = {"row", "outer", "nest", "col", "column", "container",
+                   "grid", "cell"}
+
+# Elementor responsive-visibility classes. These say "hide at this breakpoint", are
+# purely presentational, and flap between captures — Okeechobee's homepage rendered
+# `elementor-hidden-tablet elementor-hidden-mobile elementor-hidden-desktop` on one
+# request and none of them on the next. Consistent with dropping `style` outright.
+_RESPONSIVE_HIDDEN_PREFIXES = ("elementor-hidden-", "e-hidden-")
 
 # Play/pause state that a slideshow toggles on its OWN container (not on
 # <html>/<body>), so it must be stripped element-wide: Orange County's EventON
@@ -206,8 +229,36 @@ _JS_STATE_CLASSES = {
 }
 
 
+# --- Florida additions ----------------------------------------------------- #
+# Anti-forgery token nested INSIDE a JSON attribute value. The attribute-name rules
+# above cannot see it: DotNetNuke's 2sxc module renders
+#   data-edit-context='{"jsApi":{…,"rvtHeader":"RequestVerificationToken",
+#                       "rvt":"y7X-…87N7Hg2",…}}'
+# so the volatile part is a JSON *value* under an innocuous attribute name. Fresh on
+# every request, and it appears on every content block, so a single homepage produced
+# dozens of diff lines (Brevard and Leon, 5 pages each).
+_JSON_TOKEN_RE = re.compile(
+    r'("(?:rvt|__RequestVerificationToken|antiForgeryToken|csrfToken|'
+    r'requestVerificationToken|nonce|sessionId)"\s*:\s*")[^"]*(")')
+
+# Random NUMERIC suffix on a dynamic-widget id. The hex/base62 rules above all
+# require a letter, so a purely decimal token slips through: Orange County's results
+# page renders id="ocsoe-cpt-ajax-268481", regenerated per request. Scoped to ids
+# whose prefix names a dynamic widget, so genuine decimal ids (WordPress
+# post-123456, DocumentCenter/View/1783) keep diffing normally.
+_RANDOM_NUM_SUFFIX_RE = re.compile(
+    r"\b([a-z][a-z0-9-]*(?:ajax|wrapper|instance|uid|rnd|rand))-\d{4,}\b", re.I)
+
+# A class that, after canonicalization, is nothing but a prefix plus a random
+# placeholder — e.g. "stk-container--RANDOM", "stk--RANDOM", "style-HEX". Matched
+# after _canon_ids has run, so the placeholders are already in place.
+_RANDOM_ONLY_CLASS_RE = re.compile(
+    r"^[A-Za-z][A-Za-z0-9_]*-{1,2}(RANDOM|HEX|GUID)$")
+
+
 def _canon_ids(value: str) -> str:
     """Replace regenerated-per-render opaque ids/timestamps with placeholders."""
+    value = _JSON_TOKEN_RE.sub(r"\1TOKEN\2", value)
     value = _GUID_RE.sub("GUID", value)
     value = _LONGHEX_RE.sub("HEX", value)
     value = _DASHDASH_TOKEN_RE.sub("--RANDOM", value)
@@ -215,6 +266,7 @@ def _canon_ids(value: str) -> str:
     value = _MIXEDCASE_SUFFIX_RE.sub("-RANDOM", value)
     value = _THEME_BUILD_RE.sub(r"\1_BUILD", value)
     value = _PREFIXED_SHORTHEX_RE.sub(r"\1-HEX", value)
+    value = _RANDOM_NUM_SUFFIX_RE.sub(r"\1-RANDOM", value)
     value = _DATETIME_RE.sub("TIMESTAMP", value)
     return _US_DATETIME_RE.sub("TIMESTAMP", value)
 
@@ -404,10 +456,29 @@ def _strip_tree(soup: BeautifulSoup) -> None:
             if tag.has_attr(attr):
                 del tag[attr]
 
-        # CivicPlus widget size classes are measured at runtime and flap.
+        # WP Rocket lazy-loading rewrites <img src> to an inline SVG placeholder and
+        # moves the real URL to data-lazy-src — but only when its cache has the
+        # optimized variant, so the same page serves both forms (Clay's homepage).
+        # Restore the real URL so the two forms normalize to one artifact.
+        for real, placeholder in (("data-lazy-src", "src"),
+                                  ("data-lazy-srcset", "srcset")):
+            if tag.has_attr(real):
+                tag[placeholder] = tag[real]
+                del tag[real]
+
+        # CivicPlus widget size classes are measured at runtime and flap. Applies to
+        # elements naming a widget OR a layout container (see _LAYOUT_CLASSES).
         classes = tag.get("class")
-        if classes and any("widget" in c.lower() for c in classes):
+        if classes and any("widget" in c.lower() or c.lower() in _LAYOUT_CLASSES
+                           for c in classes):
             kept = [c for c in classes if c.lower() not in _WIDGET_SIZE_CLASSES]
+            if kept != classes:
+                tag["class"] = kept
+        # Elementor responsive-visibility classes, on any element.
+        classes = tag.get("class")
+        if classes:
+            kept = [c for c in classes
+                    if not c.lower().startswith(_RESPONSIVE_HIDDEN_PREFIXES)]
             if kept != classes:
                 tag["class"] = kept
         # Slideshow playback state, on any element.
@@ -425,7 +496,18 @@ def _strip_tree(soup: BeautifulSoup) -> None:
                 continue
             val = tag[attr]
             if isinstance(val, list):  # e.g. class="a b c"
-                tag[attr] = [_canon_ids(v) for v in val]
+                canon = [_canon_ids(v) for v in val]
+                if attr == "class":
+                    # A class whose only distinguishing part was a per-render random
+                    # token carries no information once canonicalized — and worse, it
+                    # is often emitted inconsistently. Orange County's Stackable
+                    # blocks render `stk-block-columns--<hash>` and
+                    # `stk-container--<hash>` on one capture and omit them entirely on
+                    # the next, so canonicalizing the value is not enough; the
+                    # presence/absence still diffs. Dropping them removes the class of
+                    # churn rather than one instance of it.
+                    canon = [c for c in canon if not _RANDOM_ONLY_CLASS_RE.match(c)]
+                tag[attr] = canon
                 continue
             # Order matters: strip volatile query params FIRST, while their values
             # are still recognizable. Canonicalizing first would turn an epoch
