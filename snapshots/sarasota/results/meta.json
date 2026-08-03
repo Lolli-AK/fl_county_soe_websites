@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T16:52:14Z",
-  "html_sha256": "46ccf4be964f118206fb520d740f4f75d780c1b470e448e575c93d76ee71e9ca",
-  "text_sha256": "3083a59b0168feec86ea922b0ed39ba2efe93f57484b334c03bdbcca1feb25f5",
-  "byte_size": 44052,
+  "fetched_at": "2026-08-03T17:46:06Z",
+  "html_sha256": "0eb3a8825dd25da13523da83a92d09e00033b3808f89b79b915318a5c381df1c",
+  "text_sha256": "4054235c51ac465a6e5da0f53904245e108165432f5f40252e8b7182134a39dc",
+  "byte_size": 43505,
   "title": "Election Results | Sarasota County Supervisor of Elections, FL",
   "error": null
 }

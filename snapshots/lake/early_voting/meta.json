@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T16:52:14Z",
-  "html_sha256": "e129f5f918d2bbc08c1fd9ce6ad0c5959b4405bb2e9e77ba815f492dde247d38",
+  "fetched_at": "2026-08-03T17:46:06Z",
+  "html_sha256": "32a622c46eacdb45ce6fb7cf4d1a38b54eb0ceaeeef27f17159764b00e4635a4",
   "text_sha256": "71cddde0379d1df4c2034cef080ff54a7b805065ff620e46d85df193e9d124e8",
-  "byte_size": 48479,
+  "byte_size": 48321,
   "title": "Early Voting Locations & Status | Lake County Elections, FL",
   "error": null
 }

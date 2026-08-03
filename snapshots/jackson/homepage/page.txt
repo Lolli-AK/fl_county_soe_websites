@@ -127,13 +127,6 @@ contact us
 for any help with accessibility.
 Calendar
 Aug
-3
-10:00 am
--
-12:00 pm
-2026
-Logic and Accuracy Testing- Primary Election
-Aug
 4
 8:00 am
 -
@@ -155,6 +148,10 @@ Aug
 15
 All day, 2026
 Early Voting Ends for Primary Election
+Aug
+18
+All day, 2026
+Primary Election Day
 View Calendar
 View full calendar
 2026 Primary Election Voter Turnout

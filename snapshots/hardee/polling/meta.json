@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T16:52:14Z",
-  "html_sha256": "7344cd03de530f0a9e35f98c602b514d36f2a37abdd8a31d6646a98695d8f984",
+  "fetched_at": "2026-08-03T17:46:06Z",
+  "html_sha256": "b4cefcca00d38c1d30fab4ef780c9a57a9b800e53bc1cb5a0714d16cdd9aba3f",
   "text_sha256": "c6949d886d3aaabb796c6523767edc03150e346a68c21a9c9450ed0bb4b8e1a6",
-  "byte_size": 63247,
+  "byte_size": 62693,
   "title": "Find My Precinct – Hardee, FL Elections Website",
   "error": null
 }

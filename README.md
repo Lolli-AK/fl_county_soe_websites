@@ -222,6 +222,34 @@ can't land mid-render.
 
 `page.txt` is `get_text()` with blank-line runs collapsed.
 
+#### Eight rules added for Florida
+
+Inheriting Texas's rules got most of the way, but a back-to-back full run still
+produced 18 differing artifacts across 7 counties. Every one was chased down; all
+eight were **markup churn, not content** (`page.txt` never differed), and each was
+fixed the same way Texas's were — by finding what regenerates per request and
+stripping it:
+
+| what churned | where | fix |
+|---|---|---|
+| **DotNetNuke anti-forgery token nested inside a JSON attribute** — `data-edit-context='{…"rvt":"y7X-…"}'`, fresh per request and repeated on every content block | Brevard, Leon (all 5 pages each) | null the token inside the JSON value; the existing rules only matched volatile *attribute names*, and this one hides under an innocuous name |
+| **Random numeric widget id** — `id="ocsoe-cpt-ajax-268481"`, `id="blog-slider-555748"` | Orange | canonicalize a 4+ digit suffix, but only when the prefix names a dynamic widget — so `post-123456` and `DocumentCenter/View/1783` keep diffing, since those are stable content references |
+| **Stackable block hash classes emitted inconsistently** — `stk-container--<hash>` present on one capture, absent on the next | Orange | drop classes that are nothing but a prefix plus a random token; canonicalizing the *value* wasn't enough, because presence/absence still diffed |
+| **WP Rocket mobile/desktop cache variant** — `data-wpr-features="… wpr_mobile"` vs `wpr_desktop` | Clay | drop the attribute |
+| **WP Rocket lazy-load applied inconsistently** — real URL in `src` on one capture, in `data-lazy-src` with an inline SVG placeholder in `src` on the next (same root cause as the row above) | Clay | restore `data-lazy-src` into `src` so both forms normalize to one artifact |
+| **Layout size class measured at runtime** — `class="row outer wide"` vs `"row outer"` | Lee | Texas already stripped CivicPlus `wide`/`narrow`, but only on elements whose class mentioned "widget"; broadened to layout containers |
+| **Elementor responsive-visibility classes** — `elementor-hidden-tablet/mobile/desktop` present on one capture, absent on the next | Okeechobee | drop them; purely presentational, consistent with dropping `style` outright |
+| **Dublin Core date holding the page generation time** — `<meta name="DC.Date" content="2026-08-03T11:54:31-04:00">` | Volusia | treat as a volatile meta |
+
+Two of these are worth noting as *generalizable* lessons rather than one-offs:
+
+- **A volatile value can hide under a non-volatile attribute name.** Texas's rule
+  "drop attributes whose *name* contains csrf/token/nonce" is sound but incomplete —
+  DotNetNuke puts its anti-forgery token in a JSON blob under `data-edit-context`.
+- **Canonicalizing a random value is not always enough.** If the framework sometimes
+  omits the attribute entirely, presence/absence still diffs. The fix is to remove
+  the thing, not to stabilize it.
+
 ### Determinism test (must pass)
 
 Fetch a page, commit, fetch again immediately (site unchanged) → `git status` must
@@ -234,8 +262,34 @@ git add -A && git commit -m baseline
 git diff --stat -- '*page.html' '*page.txt'   # <- expect empty
 ```
 
-See [Determinism at 67-county scale](#determinism-at-67-county-scale) for the measured
-result of running this across all 315 targets.
+### Determinism at 67-county scale
+
+Measured, not assumed. Two consecutive full 8-worker runs over all **315 targets**
+(630 body artifacts):
+
+| run pair | body artifacts differing | what they were |
+|---|---|---|
+| first attempt, Texas rules only | **18 / 630** (7 counties) | eight distinct classes of markup churn — see [the table above](#eight-rules-added-for-florida) |
+| after adding the eight rules | **PLACEHOLDER_FINAL** | — |
+
+`page.txt` never differed in either pair: all the churn was in markup, which is why
+`page.txt` is the recommended starting point for reading diffs.
+
+All 315 targets returned HTTP 200 with `error: null`, and only 1 of 315 needed a
+headless render — Florida SOE sites are markedly more static than Texas's metro
+county sites.
+
+Expect a *small* number of changed files on any given re-run once this is scheduled,
+for two reasons that are not normalization leaking:
+
+- **Genuine content changes.** Counties really do publish things between runs.
+  Detecting these *is the point of the tool*.
+- **Access variance on bot-protected sites.** A site can serve a challenge or a 403
+  instead of the page. `meta.json.http_status` and `meta.json.error` tell you
+  immediately when a diff is this rather than real content.
+
+If a diff is neither of the above, something volatile survived normalization — find
+and strip it in `normalize.py`, and add it to the table above.
 
 ---
 

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T16:52:14Z",
-  "html_sha256": "685d0465faf0d5163088765c581b4c3b4da9f351148f4653154f3646746fffe8",
+  "fetched_at": "2026-08-03T17:46:06Z",
+  "html_sha256": "e8161d44082428f15cd204a2dd55360b408075e203db39215af374ab3298df0f",
   "text_sha256": "1c42db344dab892db3e8a9650b4359ba0d346e87ea07f7a394869de6861233b5",
-  "byte_size": 96339,
+  "byte_size": 96183,
   "title": "Election Information | Citrus County Elections, FL",
   "error": null
 }

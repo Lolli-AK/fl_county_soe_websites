@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T16:52:14Z",
-  "html_sha256": "95f3d1563b1555a1b84a621b12c4f7d2235ffcc7653124f74a617b978c02ab75",
+  "fetched_at": "2026-08-03T17:46:06Z",
+  "html_sha256": "9583f1e54335c51af3e9243658c2a50a15d412f1e09ab1f5c73ecf3fac4a556c",
   "text_sha256": "2006cb44987d6339b7cb63d05f7f1be72b62d99d345cdaaf3424402c329d8a2d",
-  "byte_size": 60276,
+  "byte_size": 60113,
   "title": "Find My Precinct | Collier County Elections, FL",
   "error": null
 }

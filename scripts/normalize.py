@@ -243,11 +243,14 @@ _JSON_TOKEN_RE = re.compile(
 
 # Random NUMERIC suffix on a dynamic-widget id. The hex/base62 rules above all
 # require a letter, so a purely decimal token slips through: Orange County's results
-# page renders id="ocsoe-cpt-ajax-268481", regenerated per request. Scoped to ids
-# whose prefix names a dynamic widget, so genuine decimal ids (WordPress
-# post-123456, DocumentCenter/View/1783) keep diffing normally.
+# page renders id="ocsoe-cpt-ajax-268481" and its homepage id="blog-slider-555748",
+# both regenerated per request. Scoped to ids whose prefix names a dynamic widget, so
+# genuine decimal ids (WordPress post-123456, DocumentCenter/View/1783) keep diffing
+# normally — those are stable content references, and losing them would cost real
+# signal.
 _RANDOM_NUM_SUFFIX_RE = re.compile(
-    r"\b([a-z][a-z0-9-]*(?:ajax|wrapper|instance|uid|rnd|rand))-\d{4,}\b", re.I)
+    r"\b([a-z][a-z0-9-]*(?:ajax|wrapper|instance|uid|rnd|rand|slider|carousel"
+    r"|slideshow|gallery|modal|accordion|tabs?|popup|lightbox))-\d{4,}\b", re.I)
 
 # A class that, after canonicalization, is nothing but a prefix plus a random
 # placeholder — e.g. "stk-container--RANDOM", "stk--RANDOM", "style-HEX". Matched
