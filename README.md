@@ -273,7 +273,7 @@ Four of these are worth noting as *generalizable* lessons rather than one-offs:
   *attribute* churn, which is why each had to be found by running the test again
   rather than reasoned about once.
 
-### Determinism test (must pass)
+### Determinism test conducted 
 
 Fetch a page, commit, fetch again immediately (site unchanged) → `git status` must
 show **no change** to `page.html` / `page.txt`. Only `meta.json` (timestamp) changes.
