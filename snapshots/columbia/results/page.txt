@@ -106,6 +106,7 @@ Elected Officials
 Pollworker
 Upcoming Elections
 Public Notice
+Canvassing/Schedules
 Candidates
 Meet Your Candidates
 Become a Candidate
@@ -128,6 +129,7 @@ Elected Officials
 Pollworker
 Upcoming Elections
 Public Notice
+Canvassing/Schedules
 Election Results
 Home
 Election Information

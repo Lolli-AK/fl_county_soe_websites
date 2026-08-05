@@ -43,7 +43,6 @@ Rights & Responsibilities
 Voter Lookup (State)
 Maps
 Interactive Map
-Voting Precinct Lookup Map
 Precincts
 2023 Commission Districts
 2023 School Board Districts
@@ -186,23 +185,23 @@ Contact & Feedback
 Contact Us
 Active Voters
 as of
+7/20/26
 Democrats
-Republicans:
+13,432
+Republicans
+34,593
 Others
+14,210
 Total
+62,235
 ★
 Mark Your Calendar
 ★
 Upcoming Dates & Deadlines
 Below you'll find the most important dates and deadlines for the Highlands County Supervisor of Elections.
-July
-30
-election Information
-Details:
-L&A for the Primary Election at 10:00 a.m.
 Aug
 6
-election information
+election Information
 Details:
 Early Voting for the Primary Election Begins.
 Aug
@@ -215,6 +214,11 @@ Aug
 election information
 Details:
 Early Voting for the Primary Election Ends.
+Aug
+18
+election information
+Details:
+Primary Election Day.
 Petition Status Report
 Florida citizens have the right to propose amendments to the Florida Constitution through an initiative petition process. Highlands County Supervisor of Elections verifies thousands of initiative petitions each year signed by voters in Highlands County. Sponsors of these initiatives must secure the required number of valid signatures in order for their initiative to be placed on a General Election ballot.
 Pursuant to Florida Statute 100.371(11)(b), Highlands County's actual cost of signature verification of an initiative petition is $4.78 as of March 1, 2026.

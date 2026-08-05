@@ -26,6 +26,7 @@ Early Voting
 Precinct Finder
 Election Information
 Election Dates
+Election Report
 Past Election Results
 Florida Political Parties
 Initiative Petitions
@@ -55,6 +56,7 @@ Early Voting
 Precinct Finder
 Election Information
 Election Dates
+Election Report
 Past Election Results
 Florida Political Parties
 Initiative Petitions
@@ -91,6 +93,7 @@ Early Voting
 Precinct Finder
 Election Information
 Election Dates
+Election Report
 Past Election Results
 Florida Political Parties
 Initiative Petitions

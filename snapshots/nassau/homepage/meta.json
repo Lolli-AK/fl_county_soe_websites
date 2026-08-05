@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T18:20:17Z",
-  "html_sha256": "2831bcdb3e1c5aa4ea2270fee895e99a09ad9a7763752a8dec44e8acbb20a12c",
+  "fetched_at": "2026-08-05T10:24:17Z",
+  "html_sha256": "8270bd73d3f96cd1162df5ebe57290ca314fe11d9c22d7a8726da9a0955daa86",
   "text_sha256": "106ce53696a9b8d3aff04551dd35bcf3251bbeede86ce3ac500fbafef3cbb404",
-  "byte_size": 153302,
+  "byte_size": 153225,
   "title": "Vote in Nassau County - Supervisor of Elections",
   "error": null
 }

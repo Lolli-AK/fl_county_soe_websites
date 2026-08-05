@@ -1,7 +1,259 @@
 Home
+Press Option+1 for screen-reader mode, Option+0 to cancel
 Skip Navigation
 Official government website
 Search
+Select Language
+Abkhaz
+Acehnese
+Acholi
+Afar
+Afrikaans
+Albanian
+Alur
+Amharic
+Arabic
+Armenian
+Assamese
+Avar
+Awadhi
+Aymara
+Azerbaijani
+Balinese
+Baluchi
+Bambara
+Baoulé
+Bashkir
+Basque
+Batak Karo
+Batak Simalungun
+Batak Toba
+Belarusian
+Bemba
+Bengali
+Betawi
+Bhojpuri
+Bikol
+Bosnian
+Breton
+Bulgarian
+Buryat
+Cantonese
+Catalan
+Cebuano
+Chamorro
+Chechen
+Chichewa
+Chinese (Simplified)
+Chinese (Traditional)
+Chuukese
+Chuvash
+Corsican
+Crimean Tatar (Cyrillic)
+Crimean Tatar (Latin)
+Croatian
+Czech
+Danish
+Dari
+Dhivehi
+Dinka
+Dogri
+Dombe
+Dutch
+Dyula
+Dzongkha
+Esperanto
+Estonian
+Ewe
+Faroese
+Fijian
+Filipino
+Finnish
+Fon
+French
+French (Canada)
+Frisian
+Friulian
+Fulani
+Ga
+Galician
+Georgian
+German
+Greek
+Guarani
+Gujarati
+Haitian Creole
+Hakha Chin
+Hausa
+Hawaiian
+Hebrew
+Hiligaynon
+Hindi
+Hmong
+Hungarian
+Hunsrik
+Iban
+Icelandic
+Igbo
+Ilocano
+Indonesian
+Inuktut (Latin)
+Inuktut (Syllabics)
+Irish
+Italian
+Jamaican Patois
+Japanese
+Javanese
+Jingpo
+Kalaallisut
+Kannada
+Kanuri
+Kapampangan
+Kazakh
+Khasi
+Khmer
+Kiga
+Kikongo
+Kinyarwanda
+Kituba
+Kokborok
+Komi
+Konkani
+Korean
+Krio
+Kurdish (Kurmanji)
+Kurdish (Sorani)
+Kyrgyz
+Lao
+Latgalian
+Latin
+Latvian
+Ligurian
+Limburgish
+Lingala
+Lithuanian
+Lombard
+Luganda
+Luo
+Luxembourgish
+Macedonian
+Madurese
+Maithili
+Makassar
+Malagasy
+Malay
+Malay (Jawi)
+Malayalam
+Maltese
+Mam
+Manx
+Maori
+Marathi
+Marshallese
+Marwadi
+Mauritian Creole
+Meadow Mari
+Meiteilon (Manipuri)
+Minang
+Mizo
+Mongolian
+Myanmar (Burmese)
+Nahuatl (Eastern Huasteca)
+Ndau
+Ndebele (South)
+Nepalbhasa (Newari)
+Nepali
+NKo
+Norwegian
+Nuer
+Occitan
+Odia (Oriya)
+Oromo
+Ossetian
+Pangasinan
+Papiamento
+Pashto
+Persian
+Polish
+Portuguese (Brazil)
+Portuguese (Portugal)
+Punjabi (Gurmukhi)
+Punjabi (Shahmukhi)
+Quechua
+Qʼeqchiʼ
+Romani
+Romanian
+Rundi
+Russian
+Sami (North)
+Samoan
+Sango
+Sanskrit
+Santali (Latin)
+Santali (Ol Chiki)
+Scots Gaelic
+Sepedi
+Serbian
+Sesotho
+Seychellois Creole
+Shan
+Shona
+Sicilian
+Silesian
+Sindhi
+Sinhala
+Slovak
+Slovenian
+Somali
+Spanish
+Sundanese
+Susu
+Swahili
+Swati
+Swedish
+Tahitian
+Tajik
+Tamazight
+Tamazight (Tifinagh)
+Tamil
+Tatar
+Telugu
+Tetum
+Thai
+Tibetan
+Tigrinya
+Tiv
+Tok Pisin
+Tongan
+Tshiluba
+Tsonga
+Tswana
+Tulu
+Tumbuka
+Turkish
+Turkmen
+Tuvan
+Twi
+Udmurt
+Ukrainian
+Urdu
+Uyghur
+Uzbek
+Venda
+Venetian
+Vietnamese
+Waray
+Welsh
+Wolof
+Xhosa
+Yakut
+Yiddish
+Yoruba
+Yucatec Maya
+Zapotec
+Zulu
+Powered by
+Translate
 Monroe County
 FL
 Supervisor of Elections
@@ -85,14 +337,14 @@ Supervisor of Elections
 Monroe County
 Active Registered Voters
 Democratic
-14,709
+14,716
 Republican
-25,085
+25,099
 Others
-14,794
+14,803
 Total
-54,588
-Last updated 2026-08-03
+54,618
+Last updated 2026-08-05
 Election Night Results
 August 18, 2026 - Primary Election
 View Unofficial Results
@@ -134,7 +386,14 @@ You can also get more information about voting in Florida from the
 Florida Department of State - Division of Elections Website
 .
 Monroe County Supervisor of Elections
-Actualización importante/Important Update
+Actualizaciónes importantes/Important Updates
+*Early Voters voting at Big Pine Key Community Center*
+The elevator at the Big Pine Community Center Early Voting site is inoperable today (Monday 8/3/2026).
+We have been told that the work will be done tomorrow (Tuesday, August 4, 2026) and that they expect to have it up and running during the day tomorrow. However, we do not know for certain of this timing.
+We have four other early voting sites that voters can go to instead:
+Click here for Early Voting Locations
+Closest to Big Pine is the Key West Supervisor of Elections Office, but you can use any of the Early Voting Sites.
+We apologize for this inconvenience and can only hope the urgency that we have impressed upon the service contrator will be honored.
 IMPORTANTE/IMPORTANT!!
 Actualización importante: muestra de boleta/Important update: sample ballot
 Hours
@@ -236,3 +495,6 @@ Forms
 Search
 Search
 Search
+Original text
+Rate this translation
+Your feedback will be used to help improve Google Translate

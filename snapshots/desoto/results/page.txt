@@ -26,6 +26,7 @@ Early Voting
 Precinct Finder
 Election Information
 Election Dates
+Election Report
 Past Election Results
 Florida Political Parties
 Initiative Petitions
@@ -55,6 +56,7 @@ Early Voting
 Precinct Finder
 Election Information
 Election Dates
+Election Report
 Past Election Results
 Florida Political Parties
 Initiative Petitions
@@ -89,6 +91,7 @@ Early Voting
 Precinct Finder
 Election Information
 Election Dates
+Election Report
 Past Election Results
 Florida Political Parties
 Initiative Petitions
@@ -106,6 +109,7 @@ Past Election Results
 If you are interested in an election that is not available in the menu below, feel free to call our office to request the data. (863) 993-4871
 Election Information
 Election Dates
+Election Report
 Past Election Results
 Florida Political Parties
 Initiative Petitions

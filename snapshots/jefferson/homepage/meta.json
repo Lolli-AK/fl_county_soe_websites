@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T18:20:17Z",
-  "html_sha256": "ac24378c7b065f034c83332c6f8eb2519cd258fd4aa8ff2b383611275296b507",
-  "text_sha256": "c3849e8f65998ed457c8137116983f4357e39aeb8adfde36172dcacc7a09ea3c",
-  "byte_size": 76510,
+  "fetched_at": "2026-08-05T10:24:17Z",
+  "html_sha256": "9de5cbc3c5ef67c9ec6804bf321a3bc64f994485df0e878e3e8f37781abc58a3",
+  "text_sha256": "0d79b1278cbc620fee664a9af7b8357202a457789a0a151c320188ba0f116808",
+  "byte_size": 76093,
   "title": "Jefferson County Supervisor of Elections | Voter Information & Election Resources",
   "error": null
 }

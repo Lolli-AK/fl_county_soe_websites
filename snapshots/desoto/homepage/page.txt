@@ -26,6 +26,7 @@ Early Voting
 Precinct Finder
 Election Information
 Election Dates
+Election Report
 Past Election Results
 Florida Political Parties
 Initiative Petitions
@@ -55,6 +56,7 @@ Early Voting
 Precinct Finder
 Election Information
 Election Dates
+Election Report
 Past Election Results
 Florida Political Parties
 Initiative Petitions
@@ -84,6 +86,7 @@ Early Voting
 Precinct Finder
 Election Information
 Election Dates
+Election Report
 Past Election Results
 Florida Political Parties
 Initiative Petitions
@@ -98,11 +101,11 @@ Campaign Finance Login
 Contact Us
 Helpful Links
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 08/03/2026:
-Dem: 4,071
+Active Registered Voters as of 08/05/2026:
+Dem: 4,070
 Rep: 8,230
-Oth: 3,580
-Total: 15,881
+Oth: 3,582
+Total: 15,882
 Register to Vote
 Check My Status
 Vote by Mail

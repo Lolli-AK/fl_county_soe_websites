@@ -1,8 +1,28 @@
 Orange County Supervisor of Elections | Karen Castor Dentel | Florida
 Skip to content
-Early Voting is open August 3 – August 16 from 9:00 AM – 7:00 PM.
-Click here to view estimated wait times
-at every Early Voting location before you head out to vote.
+SAMPLE BALLOTS:
+View sample ballots
+English
+|
+Spanish
+|
+Filipino
+|
+Hindi
+|
+Portuguese
+|
+Vietnamese
+|
+Simplified Chinese
+. To request a sample ballot in the mail, email us at
+sampleballot@voteorangefl.gov
+or call us at
+407-836-2070
+.
+EN
+|
+ES
 Register to Vote
 Search
 Search
@@ -119,6 +139,7 @@ Maps
 Sample Ballots
 Election Mail
 Submit A Public Records Request
+‹
 2026 Primary election center
 Orange County’s Election Center has everything you need for the
 2026 Primary Election
@@ -157,64 +178,64 @@ August 5 @ 12:00 pm
 Signature Observation (Primary Election)
 Read More
 Aug
-3
-2:00 pm
+7
+8:00 am
 –
-7:00 pm
-Canvassing of Vote-by-Mail Ballots (Primary Election)
+9:00 am
+Public Viewing (Primary Election)
 Read More
 View Calendar
 VOTER STATISTICS
 Registered Active Voters
-as of 08/02/2026
+as of 08/04/2026
 Switch to details
 Switch to summary
 Party
 Count
 Percentage
 Dem.
-312,246
+312,430
 38.76%
 Rep.
-225,341
+225,435
 27.97%
 Other
-31,375
-3.89%
+31,411
+3.90%
 NPA
-236,614
+236,772
 29.37%
 Total
-805,576
+806,048
 100%
 Party Name
 Count
 Florida Democratic Party
-312,246
+312,430
 NO PARTY AFFILIATION
-236,614
+236,772
 Republican Party Of Florida
-225,341
+225,435
 Independent Party of Florida
-17,911
+17,924
 Boricua Party
-2,794
+2,797
 Conservative Party of Florida
-2,450
+2,451
 Libertarian Party of Florida
-2,089
+2,093
 America First Party of Florida
-2,000
+2,010
 Constitution Party of Florida
 1,097
 Coalition With A Purpose Party
 828
 American Solidarity Party of Florida
-720
+723
 Green Party of Florida
-714
+715
 Ecology Party of Florida
-320
+321
 Party for Socialism and Liberation – Florida
 221
 Florida Forward Party
@@ -226,17 +247,17 @@ Jeffersonian Party of Florida
 MGTOW Party
 6
 Total
-805,576
+806,048
 Vote By Mail Standing Request Totals
-as of 08/02/2026
+as of 08/04/2026
 Election Name
 Count
 2026 General Election
-92,064
+95,548
 2026 Primary Election
-92,470
+96,165
 Permanent VBM requests 2025-2026
-90,335
+93,674
 BY THE NUMBERS
 Get a quick snapshot of elections in Orange County. We highlight key statistics that capture the scale, accuracy, and impact of our election operations.
 8
@@ -248,6 +269,12 @@ Voting precincts ready to serve voters across Orange County.
 50,020
 Voters tracking their Vote-by-Mail ballot using BallotTrax.
 Latest News
+2026 Primary Election Informational Sample Ballot Mailer
+Voters prepare for elections in different ways. For some, a Sample Ballot is a planning…
+READ MORE
+Notice to the Voter – County Commission District 7
+Notice to the Voter A candidate in the race for the office of County Commissioner…
+READ MORE
 Notice to Primary Election Democratic Voters Only – Clerk of Courts
 Notice to Primary Election Democratic Voters Only A candidate in the race for the office…
 READ MORE
@@ -259,12 +286,6 @@ NOTICE OF PUBLIC TEST OF VOTE TABULATING EQUIPMENT Pursuant to F.S. §101.5612(2
 READ MORE
 Orange County Supervisor of Elections Announces Supervised Voting Schedule for August 18 Primary
 ORANGE COUNTY, Fla. ­­­— Orange County Supervisor of Elections Karen Castor Dentel today announced the…
-READ MORE
-2026 Primary Election Sample Ballots Now Available Online
-Your 2026 Primary Election Sample Ballot Is Ready! Getting ready to vote just got a…
-READ MORE
-2026 Primary Election Preparation Report
-Pursant to F. S. 100.032: Each supervisor of elections must post a report on his…
 READ MORE
 VIEW MORE NEWS
 SUBMIT A PUBLIC RECORDS REQUEST

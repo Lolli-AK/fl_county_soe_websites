@@ -43,7 +43,6 @@ Rights & Responsibilities
 Voter Lookup (State)
 Maps
 Interactive Map
-Voting Precinct Lookup Map
 Precincts
 2023 Commission Districts
 2023 School Board Districts

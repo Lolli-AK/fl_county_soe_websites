@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-03T18:20:17Z",
-  "html_sha256": "e8576b8a0b3aba5c935add70eec2447e2bc4d614ea35df812bcbe7bee5fc2800",
-  "text_sha256": "b200d0f810c39d2bba4620525105db66bf01b6536bc888be36a16b4d33b69a65",
-  "byte_size": 28042,
+  "fetched_at": "2026-08-05T10:24:17Z",
+  "html_sha256": "87d706d6825e57a0032465010428ab51caf9dc814bcc1114e0d58df5af7be42e",
+  "text_sha256": "f464172b7389ff57c7dcda0df7c97d2f44aee27160793e78a592f7824413a47f",
+  "byte_size": 55064,
   "title": "August Election Early Voting Site/Dropbox Locator | Broward County Supervisor of Elections",
   "error": null
 }
