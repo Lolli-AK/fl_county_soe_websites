@@ -849,7 +849,7 @@ Track My Mail Ballot
 Division of Elections
 Where Do I Vote?
 Active Registered Voters
-As of 07/22/2026
+As of 08/05/2026
 Democrats
 0
 Republicans
@@ -895,10 +895,8 @@ Notice of General Election
 View the Official Notice of offices up for this November.
 View 2026 Notice of General Election
 2026
-Primary Election
-Notice of Logic & Accuracy Testing
-View the 2026 Primary Election Notice of L&A Testing
-View 2026 Notice of L&A Testing
+Canvassing Board Timeline - Primary Election
+View 2026 Canvassing Board Timeline - Primary Election
 We acknowledge some content on this page may not be fully accessible. Please
 contact us
 for any help with accessibility.

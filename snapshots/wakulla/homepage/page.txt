@@ -32,7 +32,6 @@ Current/Upcoming Elections
 Find my Precinct
 ID Requirements
 Civil Rights
-Ballot Inspection
 Past Election Results
 Citizen Initiative Petitions
 Political Parties
@@ -80,7 +79,6 @@ Current/Upcoming Elections
 Find my Precinct
 ID Requirements
 Civil Rights
-Ballot Inspection
 Past Election Results
 Citizen Initiative Petitions
 Political Parties
@@ -124,7 +122,7 @@ Others
 0
 Total
 0
-As of 08/04/2026
+As of 08/05/2026
 Days until the August 18, 2026, Primary Election
 Did you know that voting is already underway?  Check out the turnout quick view below to see how many ballots have been cast in the election so far.
 Vote By Mail Ballot Quick Information
@@ -136,12 +134,12 @@ You can pick up a ballot for an immediate family member (i.e., spouse, parent, c
 The voter needs to have a Vote by Mail ballot request already on file.  If they don’t, they can submit the request form as part of the pickup.  So both the request form and the form designating a person to pick up their ballot must be submitted.
 For more information and a link to the forms noted above, click the Vote by Mail icon above or contact us!
 Calendar of Events
-Poll Watcher for Election Day Deadline at noon
-August 4, 2026
 Last Day to Request a Mail Ballot
 August 6, 2026
 Primary Election Early Voting Begins
 August 8, 2026
+Primary Election Day
+August 18, 2026
 View All Events
 News & Announcements
 PRIMARY ELECTION SAMPLE BALLOT

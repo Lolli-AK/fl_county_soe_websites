@@ -350,7 +350,7 @@ View Unofficial Turnout Statistics
 Unofficial voter turnout statistics for the August 18, 2026 Election
 View Stats
 Announcements
-August 18, 2026 Election
+August 18, 2026 Election - Important Information
 For Voter Information Lookup -
 Click Here
 For Personalized Sample Ballot -
@@ -404,16 +404,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-8/5/26
-1,359,446
+8/6/26
+1,359,488
 Eligible Voters
-589,571
+589,562
 Democrat
-314,694
+314,730
 Republican
-419,084
+419,083
 NPA
-36,097
+36,113
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.

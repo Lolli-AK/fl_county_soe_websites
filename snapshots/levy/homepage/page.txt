@@ -126,15 +126,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 08/04/2026
+Voter Totals as of: 08/05/2026
 Democrats
-6,093
+6,096
 Republicans
-18,696
+18,702
 Other
 5,269
 Total
-30,058
+30,067
 Voter Turnout
 Upcoming Elections
 Aug 18, 2026
@@ -161,14 +161,14 @@ Book Closing: General Election
 All Upcoming Dates
 Announcements
 View all News & Announcements
+August 5, 2026
+Voter Ineligibility Notice
+Read Full Announcement
 July 27, 2026
 Voter Ineligibility Notice
 Read Full Announcement
 July 15, 2026
 Voter Eligibility Notice
-Read Full Announcement
-July 9, 2026
-2026 Primary Election Ballots Mailed to Levy County Voters
 Read Full Announcement
 View all News & Announcements
 Levy County, Florida

@@ -64,10 +64,10 @@ Monthly reports on voter count totals.
 News & Office
 News
 Updates, announcements, and public notices.
-School Programs
-Civic education initiatives for students.
-Event Calendar & Community Engagement
-Events & Outreach programs that inform and engage voters.
+Community Engagement & School Programs
+Civic education initiatives for voters & students.
+Event Calendar
+Upcoming events & election dates.
 Contact Us
 Reach out to the Seminole County Supervisor of Elections team.
 About The Elections Office
@@ -142,10 +142,10 @@ Monthly reports on voter count totals.
 News & Office
 News
 Updates, announcements, and public notices.
-School Programs
-Civic education initiatives for students.
-Event Calendar & Community Engagement
-Events & Outreach programs that inform and engage voters.
+Community Engagement & School Programs
+Civic education initiatives for voters & students.
+Event Calendar
+Upcoming events & election dates.
 Contact Us
 Reach out to the Seminole County Supervisor of Elections team.
 About The Elections Office
@@ -155,33 +155,36 @@ Answers to common voting and election questions.
 Our office will be closed on Monday, May 25, 2026, in observance of Memorial Day.
 We will resume normal business hours on Tuesday, May 26, 2026.
 Upcoming Dates
-Vote-by-Mail Deadline:
-Aug. 6
-Primary Election:
-Aug. 18
-General Election:
-Nov. 3
+Vote-by-Mail Deadline
+Aug. 6 • By 5 PM
+Primary Early Voting
+August 8–August 15 • 10 AM–6 PM
+Primary Election Day
+Aug. 18 • 7 AM–7 PM
 Upcoming Elections
 •
 Next: Aug. 6
-Vote-by-Mail Request Deadline
+Vote-by-Mail Deadline
 Aug. 6
-Primary Election
+By 5 PM
+Primary Early Voting
+Aug. 8–15
+10 AM–6 PM
+Primary Election Day
 Aug. 18
-General Election
-Nov. 3
+7 AM–7 PM
 Active Registered Voters
-Updated: 07/01
+Updated: 08/05
 Democrat:
-106,130
+106,855
 Republican:
-120,480
+121,099
 NPA:
-98,589
+98,477
 Other:
-13,326
+13,443
 Total:
-338,525
+339,8874
 Be Election Ready
 Everything you need to vote with confidence, all in one place.
 Register to Vote

@@ -1,11 +1,11 @@
 Okeechobee County, FL
 Skip to content
-Active Registered Voters as of 08/05/2026:
+Active Registered Voters as of 08/06/2026:
 Dem: 4,276
-Rep: 12,373
-Oth: 861
-NPA: 3,112
-Total: 20,622
+Rep: 12,376
+Oth: 863
+NPA: 3,116
+Total: 20,631
 Home
 Voter Information
 Update Your Voter Registration Information
@@ -190,7 +190,7 @@ Early Vote
 Early voting will be held at our new location from 8:30am to 6:00pm on August 8th, 2026. It will carry through the week until August 15, 2026.
 Election Day
 On August 18, 2026, all polling locations will be open. Our Election Workers will be available to assist you at your assigned precinct from 7am-7pm.
-Canvassing Board Logic and Accuracy Notice
+Canvassing Board Meeting
 Canvassing Board Schedule of Events
 English – 2026 Notice of General Election
 Spanish – 2026 Notice of General Election
@@ -232,11 +232,11 @@ elections@voteokeechobee.gov
 Contact Us Form
 Site powered by
 SOE Software
-Active Registered Voters as of 08/05/2026:
+Active Registered Voters as of 08/06/2026:
 Dem: 4,276
-Rep: 12,373
-Oth: 861
-NPA: 3,112
-Total: 20,622
+Rep: 12,376
+Oth: 863
+NPA: 3,116
+Total: 20,631
 ×
 Search
