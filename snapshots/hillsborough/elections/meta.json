@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "3064eef9b8f2f922c983917ba495b058bb50854473ad57b5f266f6c91f97e51f",
-  "text_sha256": "2a154b655c1ae4ed0d4c60127da5dd3a0903fc083db74cbe6e768cb0984f21f2",
-  "byte_size": 42617,
+  "fetched_at": "2026-08-07T08:45:41Z",
+  "html_sha256": "9a6de87c0228efbdd51c0856f537b1e23bd57e8296e91b2ea7c2fe08099379b7",
+  "text_sha256": "d4b255ff9284f1d08aaa926d02cc6bc0341ef51c86cd8dce9bfdcf64fc7a9378",
+  "byte_size": 40381,
   "title": "Alert Center • Hillsborough County Elections, FL • CivicEnga",
   "error": null
 }

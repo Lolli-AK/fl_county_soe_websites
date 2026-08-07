@@ -101,11 +101,11 @@ Campaign Finance Login
 Contact Us
 Helpful Links
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 08/06/2026:
+Active Registered Voters as of 08/07/2026:
 Dem: 4,070
-Rep: 8,228
-Oth: 3,588
-Total: 15,886
+Rep: 8,230
+Oth: 3,589
+Total: 15,889
 Register to Vote
 Check My Status
 Vote by Mail
@@ -114,11 +114,12 @@ Become a Poll Worker
 Public Notices
 Important Election Dates
 2026 Primary Turnout Quickview
-2026 Primary Election Canvassing Board Schedule
+2026 Primary Election Night Results
 Mission Statement
 Our office is dedicated to running secure and transparent elections, building trust in the process, and encouraging every eligible citizen in our community to make their voice heard.
 WHAT's NEW
 Did you update your Vote By Mail request for 2026?
+2026 Primary Election Canvassing Board Schedule
 Are you ready to vote?
 Notice of General Election
 EVENTS

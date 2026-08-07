@@ -337,17 +337,17 @@ What is an Election Worker?
 Become an Election Worker
 Election Worker Portal
 Broward County
-Request Your Vote-By-Mail Ballot
-It’s not too late! Request your ballot and vote from home.
-Request Ballot
-Find an Early Voting Location
-Vote at a location convenient to your home or job - multiple sites available.
-Find Location
+Vote Early Starting Soon!
+Vote at any early voting site starting Saturday, August 8th - no need to go to your assigned precinct.
+Find Early Voting
 Find Your Election Day Polling Place
-Locate your assigned neighborhood polling place for Election Day.
+Prefer to vote on Election Day? Find your assigned polling location.
 Find my Precinct
+Track Your Vote-By-Mail Ballot
+Already requested a mail ballot? Track its status online.
+Check Status
 View Unofficial Turnout Statistics
-Unofficial voter turnout statistics for the August 18, 2026 Election
+Unofficial Turnout Statistics for the August 18, 2026 Election.
 View Stats
 Announcements
 August 18, 2026 Election - Important Information
@@ -404,16 +404,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-8/6/26
-1,359,488
+8/7/26
+1,359,600
 Eligible Voters
-589,562
+589,619
 Democrat
-314,730
+314,732
 Republican
-419,083
+419,126
 NPA
-36,113
+36,123
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.

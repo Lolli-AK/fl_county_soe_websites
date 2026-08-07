@@ -811,6 +811,13 @@
     <div class="bg-white static" id="content" role="main">
      <div class="bg-[#F5F5F5]">
       <section class="w-full h-[47vh] lg:h-[87vh] relative z-10 transition-all duration-1000 grow bg-[#F5F5F5]">
+       <div :class="{
+  'pt-28 sm:pt-28 md:pt-32 lg:pt-32': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+  'pt-28 sm:pt-20 md:pt-28 lg:pt-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+}" class="w-full relative z-20 border-b-4 border-white" v-cloak="">
+        <alerts>
+        </alerts>
+       </div>
        <div class="absolute w-full h-[500px] md:h-[60vh] lg:h-screen top-0 z-0 transition-all duration-500">
         <div aria-label="us flag on the beach" class="w-full h-full lg:hidden bg-cover bg-right z-0 bg-gray-800" role="img">
         </div>
@@ -1163,17 +1170,6 @@
         </div>
        </div>
        <div class="bg-secondary-light py-2 h-full">
-        <a class="flex flex-col hover:scale-95 relative transition-all duration-300 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.bayvotesfl.gov/events/mail-ballot-request-deadline/">
-         <p class="text-accent font-bold text-xl mb-0 pb-0 normal-case flex gap-2 items-center" role="heading">
-          <span class="relative z-0 inset-0 w-5 h-5 bg-center -mt-1.5">
-           <img class="size-full" role="presentation" v-lazy:src="'/images/star-headline.svg'"/>
-          </span>
-          Aug 6, 2026 5:00pm
-         </p>
-         <p class="font-medium subpixel-antialiased text-primary-dark leading-tight lg:text-lg lg:pr-12 text-pretty mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all after:duration-500">
-          The deadline to request a vote-by-mail ballot for the Primary Election.
-         </p>
-        </a>
         <a class="flex flex-col hover:scale-95 relative transition-all duration-300 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.bayvotesfl.gov/events/early-voting-primary-election/">
          <p class="text-accent font-bold text-xl mb-0 pb-0 normal-case flex gap-2 items-center" role="heading">
           <span class="relative z-0 inset-0 w-5 h-5 bg-center -mt-1.5">
@@ -1182,7 +1178,7 @@
           Aug 8, 2026
          </p>
          <p class="font-medium subpixel-antialiased text-primary-dark leading-tight lg:text-lg lg:pr-12 text-pretty mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all after:duration-500">
-          Early Voting Hours: 10AM-6PM
+          Early Voting: Open Saturday August 8th- Saturday August 15th (Including Sunday) Early Voting Hours: 10AM-6PM Daily 8 Convenient Early Voting…
          </p>
         </a>
         <a class="flex flex-col hover:scale-95 relative transition-all duration-300 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.bayvotesfl.gov/events/mail-ballot-send-deadline-for-absentee-and-overseas-voters-general-election/">
@@ -1205,6 +1201,17 @@
          </p>
          <p class="font-medium subpixel-antialiased text-primary-dark leading-tight lg:text-lg lg:pr-12 text-pretty mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all after:duration-500">
           Mail Ballot ‘Send’ Deadline (40-day deadline before election) for domestic voters for the General Election.
+         </p>
+        </a>
+        <a class="flex flex-col hover:scale-95 relative transition-all duration-300 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.bayvotesfl.gov/events/book-closing-general-election/">
+         <p class="text-accent font-bold text-xl mb-0 pb-0 normal-case flex gap-2 items-center" role="heading">
+          <span class="relative z-0 inset-0 w-5 h-5 bg-center -mt-1.5">
+           <img class="size-full" role="presentation" v-lazy:src="'/images/star-headline.svg'"/>
+          </span>
+          Oct 5, 2026
+         </p>
+         <p class="font-medium subpixel-antialiased text-primary-dark leading-tight lg:text-lg lg:pr-12 text-pretty mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all after:duration-500">
+          Deadline to register to vote in the General Election.
          </p>
         </a>
        </div>
@@ -1245,7 +1252,7 @@
                Supervisor of Elections
               </p>
               <p class="font-bold text-primary-light uppercase tracking-wide text-sm">
-               posted 20 hours ago
+               posted 1 day ago
               </p>
              </div>
             </div>
@@ -1285,7 +1292,7 @@
          <div aria-hidden="true" class="w-full lg:w-1/2">
           <div class="h-full flex flex-wrap">
            <a aria-label="View link on Facebook (opens in a new tab)" class="block min-w-full max-w-3xl" href="https://www.facebook.com/photo.php" rel="noopener noreferrer" target="_blank">
-            <img alt="View Bay County Supervisor of Elections Facebook post" class="w-full" height="720" v-lazy="'https://scontent.xx.fbcdn.net/v/t39.30808-6/765051159_122224967498511924_4102204692885576893_n.jpg?stp=dst-jpg_p720x720_tt6&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=DIj_6sZ-G28Q7kNvwEzGNc5&amp;_nc_oc=Ado7bg3RyzZEvXoZJB8qcbuPndrwv346satlkHkwqz2uQYHjCUMhoKPS4tNZ6DUAJyM&amp;_nc_zt=23&amp;_nc_ht=scontent.xx&amp;edm=AKIiGfEEAAAA&amp;_nc_gid=O9pPy-tmQCkZ_xjUMfaO9g&amp;_nc_tpa=Q5bMBQHkmAPAs5pVoK8lZ1We9jACp3y6z2gfmzWd2R7-f1RyED3zrgdTW87HZRRUGqnKvEHmna9-olq_&amp;oh=00_AQG3feb-YbFPyiGD65n-sGUfyTAOE6PMTMEj9FuWG2JQLw&amp;oe=6A7A2B54'" width="859"/>
+            <img alt="View Bay County Supervisor of Elections Facebook post" class="w-full" height="720" v-lazy="'https://scontent.xx.fbcdn.net/v/t39.30808-6/765051159_122224967498511924_4102204692885576893_n.jpg?stp=dst-jpg_p720x720_tt6&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=DIj_6sZ-G28Q7kNvwEzGNc5&amp;_nc_oc=Ado7bg3RyzZEvXoZJB8qcbuPndrwv346satlkHkwqz2uQYHjCUMhoKPS4tNZ6DUAJyM&amp;_nc_zt=23&amp;_nc_ht=scontent.xx&amp;edm=AKIiGfEEAAAA&amp;_nc_gid=5_9bw2beYxswkz2O9JFETA&amp;_nc_tpa=Q5bMBQHI4b8tDI4Ak61iMiCzMDDiftZqXrdlFo0sj15e80CzF80ZJk_9O5SJOJ-Kj-hrHAR8h4APRt0C&amp;oh=00_AQF37huIPQTKzpJqBpmZEljVhGuNRmsmnP45arywoP2XBg&amp;oe=6A7B7CD4'" width="859"/>
            </a>
           </div>
          </div>

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "d43c4ecf130d39bbd798be6c6e64825687f60231504c7f91969b042d84b64620",
-  "text_sha256": "e9137bc077b5e4f179fcd7974b32c23272fc092d6543687f3eeff31f39601f11",
-  "byte_size": 20817,
-  "title": "MyEscambia Home",
+  "fetched_at": "2026-08-07T08:45:41Z",
+  "html_sha256": "416236764a83acb2dbef1a47d977de30cfbc8f4d07378ec2d0841e9b5bcf82f2",
+  "text_sha256": "56cb7cdb2f2484f8e1f2ae212ceda893c40377e301aa027dff14d2435edd043a",
+  "byte_size": 44725,
+  "title": "EscambiaVotes.gov",
   "error": null
 }

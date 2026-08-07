@@ -1,7 +1,5 @@
 Brevard County Supervisor of Elections
 Skip Navigation
-The last day to request a mail ballot to be sent for the 2026 Primary Election is Thursday, August 6 by 5:00 p.m.
-Request a mail ballot online using the Mail Ballot Request Service here.
 321-290-VOTE (8683)
 1-833-803-0613 (Spanish - Toll Free)
 Official government website
@@ -119,17 +117,17 @@ Welcome to the Brevard County
 Supervisor of Elections
 Tim Bobanic
 Active Registered Voters as of:
-08/06/2026
+08/07/2026
 Republican
-205,255
+205,298
 Democratic
-110,594
+110,625
 Non-Partisan
-106,261
+106,297
 Others
-18,537
+18,541
 Total
-440,647
+440,761
 2026 Primary Election Unofficial Turnout
 View Unofficial Turnout
 2026 Primary Election Frequently Asked Questions

@@ -80,13 +80,6 @@ All Event Type
 Holiday
 Office Closed
 Elections
-06
-August
-Thursday
-Elections
-Deadline to request a Vote by Mail ballot
-August 6, 2026
-More Details
 08
 August
 Saturday
@@ -167,6 +160,15 @@ Opening of Mail Ballots (Run 2)
 August 14, 2026 @
 11:00 AM -
 2:30 PM
+More Details
+15
+August
+Saturday
+Elections
+Process & Duplicate: Mail Ballots
+August 15, 2026 @
+8:30 AM -
+1:30 PM
 More Details
 1
 2
