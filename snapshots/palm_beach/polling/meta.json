@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-07T08:45:41Z",
-  "html_sha256": "55fc8d03df98c368eaf1d4e867fb3bda3412b9aab9e2bfc0598ba669ba06727e",
-  "text_sha256": "aa7c025b45a1a812f8eeeee339a9f7aa1e19baaac6b31aecad76790cbd60a665",
-  "byte_size": 53071,
+  "fetched_at": "2026-08-08T08:27:18Z",
+  "html_sha256": "82fd783b6c2b85f7ec5ac3b7423a7dae16800d3f550d52b9cec138606ba083cd",
+  "text_sha256": "6428a4cf170cdbde0111f100b16603560e2aafd21a76d498f81f3f25a7070352",
+  "byte_size": 53066,
   "title": "Election Day Voting | Palm Beach County Elections, FL",
   "error": null
 }

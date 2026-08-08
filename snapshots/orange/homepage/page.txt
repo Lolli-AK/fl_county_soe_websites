@@ -1,10 +1,12 @@
 Orange County Supervisor of Elections | Karen Castor Dentel | Florida
 Skip to content
-SAMPLE BALLOTS:
-View sample ballots
+COMPOSITE SAMPLE BALLOTS:
+View composite sample ballots in
 English
 |
 Spanish
+|
+Haitian Creole
 |
 Filipino
 |
@@ -171,18 +173,18 @@ August 17 @ 6:00 pm
 Vote-by-Mail Opening & Processing (Primary Election)
 Read More
 Aug
-7
-8:00 am
-–
-9:00 am
-Public Viewing (Primary Election)
-Read More
-Aug
 10
 August 10 @ 10:00 am
 –
 August 12 @ 12:00 pm
 Signature Observation (Primary Election)
+Read More
+Aug
+10
+2:00 pm
+–
+7:00 pm
+Canvassing of Vote-by-Mail Ballots (Primary Election)
 Read More
 View Calendar
 VOTER STATISTICS
@@ -269,6 +271,9 @@ Voting precincts ready to serve voters across Orange County.
 50,020
 Voters tracking their Vote-by-Mail ballot using BallotTrax.
 Latest News
+Supervisor of Elections Takes Steps to Ensure Accurate Ballot Tabulation
+A Limited Number of Ballots Identified for Additional Review All Affected Ballots Have Been Accounted…
+READ MORE
 2026 Primary Election Informational Sample Ballot Mailer
 Voters prepare for elections in different ways. For some, a Sample Ballot is a planning…
 READ MORE
@@ -283,9 +288,6 @@ Notice to the Voter A candidate in the race for the office of County Judge…
 READ MORE
 Notice of Public Test of Tabulation Equipment – 2026 Primary Election
 NOTICE OF PUBLIC TEST OF VOTE TABULATING EQUIPMENT Pursuant to F.S. §101.5612(2), the Supervisor of…
-READ MORE
-Orange County Supervisor of Elections Announces Supervised Voting Schedule for August 18 Primary
-ORANGE COUNTY, Fla. ­­­— Orange County Supervisor of Elections Karen Castor Dentel today announced the…
 READ MORE
 VIEW MORE NEWS
 SUBMIT A PUBLIC RECORDS REQUEST

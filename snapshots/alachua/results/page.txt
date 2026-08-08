@@ -19,6 +19,7 @@ Maps
 Redistricting
 Sample Ballots
 Alachua County Precinct Finder
+Turnout Tracker
 Upcoming Elections
 Municipal Elections
 Voting Equipment

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-07T08:45:41Z",
-  "html_sha256": "cd40fca0ebae17041018301bd86f475c1fb331d81f4fff7c0d3dc030956a25ee",
-  "text_sha256": "58f73caa67ca8361ce52e395efef194769a1bce0884a7745c8bcd45c58de1c24",
-  "byte_size": 203890,
+  "fetched_at": "2026-08-08T08:27:18Z",
+  "html_sha256": "0132b6de6b2ca23c1f681dca987721d26cb83051a871973679f0ac3e9b63d47d",
+  "text_sha256": "e7901bbcbffe9bbe8f4e6c7895842017191d6e6d127bda8634d919382787a881",
+  "byte_size": 203843,
   "title": "Walton County Supervisor of Election",
   "error": null
 }

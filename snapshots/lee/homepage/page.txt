@@ -122,11 +122,10 @@ Voting System Security
 Network Cyber Security
 Voting System
 Important Information
-Vote-by-Mail Request Renewal Required
-The deadline to request a Vote-by-Mail ballot for the August 18, 2026, Primary Election is 5:00 pm, August 6.
-Under Florida law, all previous Vote-by-Mail requests have expired. You must
-submit a new request
-to vote by mail in the 2026 election cycle.
+County Canvassing Board Meeting Canceled
+The County Canvassing Board meeting scheduled for Monday, August 10, 2026, has been canceled. The Canvassing Board will continue to convene as programmed per the Canvassing Board Meetings and Logic and Accuracy Testing Schedule.
+Canvassing Board Meetings and Logic and Accuracy Test Schedule (English PDF)
+Canvassing Board Meetings and Logic and Accuracy Test Schedule (Spanish PDF)
 Returning a Vote-by-Mail Ballot
 We no longer recommend returning your Vote-by-Mail ballot in the mail.
 During Early Voting, Vote-by-Mail ballots can be
@@ -152,6 +151,11 @@ Countdown to the Primary Video Series
 Congressional Redistricting
 In 2026, the Florida Legislature passed House Bill 1D, which establishes new or revised congressional districts in several counties across the state. While Lee County’s voters remain in either Congressional District 17 or 19, your congressional district may have changed from 17 to 19 or vice versa under the new legislative map. Some voters will not experience a change in their congressional district.
 View your personalized voting information, including your Congressional District, here.
+Vote-by-Mail Request Renewal Required
+The deadline to request a Vote-by-Mail ballot for the August 18, 2026, Primary Election was 5:00 pm, August 6.
+Under Florida law, all previous Vote-by-Mail requests have expired. You must
+submit a new request
+to vote by mail in the 2026 election cycle.
 Florida is a Closed Primary State
 The deadline to register to vote or change your party affiliation for the August 18, 2026,
 Primary Election was Monday, July 20.
