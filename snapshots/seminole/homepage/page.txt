@@ -207,6 +207,10 @@ Upcoming Elections
 View the latest election dates, deadlines, and key details so you never miss your opportunity to vote.
 Are You Election Ready
 Everything you need to vote in Seminole County, from registration requirements to what ID to bring.
+Primary Election
+Live Early Voting Wait Times
+LIVE WAIT TIMES
+2026 PRIMARY ELECTION
 Primary Election Day Starts
 00
 Days
@@ -220,15 +224,15 @@ Polls are open from 7AM-7PM.
 Active Registered Voters
 Updated: 08/05
 Democrat:
-106,855
+106,745
 Republican:
-121,099
+121,002
 NPA:
-98,477
+98,386
 Other:
-13,443
+13,411
 Total:
-339,8874
+339,544
 Your Vote.
 Your Voice.
 Your County.

@@ -337,14 +337,14 @@ Supervisor of Elections
 Monroe County
 Active Registered Voters
 Democratic
-14,724
+14,726
 Republican
-25,110
+25,111
 Others
-14,820
+14,830
 Total
-54,654
-Last updated 2026-08-08
+54,667
+Last updated 2026-08-09
 Election Night Results
 August 18, 2026 - Primary Election
 View Unofficial Results
@@ -401,12 +401,8 @@ during those Early Voting hours
 Upcoming Elections
 View Upcoming Elections
 Dates to Remember
-Logic & Accuracy (L&A) Testing
-7/28/2026 10:00 AM - 2:00 PM
 Early Voting for Primary Election
 8/3/2026 - 8/15/2026
-Last Day to Request a Vote-by-Mail Ballot to be mailed
-8/6/2026
 Canvassing of the Vote-by-Mail Ballots
 8/10/2026 - 8/13/2026
 Canvassing of the Vote-by-Mail Ballot Bad Signatures
@@ -425,6 +421,10 @@ Columbus Day - All Offices Closed
 10/12/2026
 Logic & Accuracy (L&A) Testing
 10/13/2026 10:00 AM - 2:00 PM
+Early Voting for General Election
+10/19/2026 - 10/31/2026
+Last Day to Request a Vote-by-Mail Ballot to be mailed
+10/22/2026
 View All
 The Honorable Sherri Hodies
 Supervisor of Elections,

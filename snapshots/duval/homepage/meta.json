@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-08T08:27:18Z",
-  "html_sha256": "76e5b70905192114bcda5495303044ed8347f71c66a15d627e7c44e7517cffbd",
-  "text_sha256": "fdf7ecb25fbffc8989be55584e14025bccb58ee4c34379c1a83cfdc7fc6e779c",
-  "byte_size": 77162,
+  "fetched_at": "2026-08-09T08:29:50Z",
+  "html_sha256": "3013b9e5840b569e31f1e5c095b62ac92deaa6a535bb5107ad0cb9dab1bcac94",
+  "text_sha256": "5ba832b12179f59aa939f862aba25f1d6d4e1be20beb7ebd37b548fa38b7e727",
+  "byte_size": 77059,
   "title": "Duval County Elections, FL Official Website | Official Website",
   "error": null
 }

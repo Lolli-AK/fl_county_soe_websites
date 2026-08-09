@@ -146,6 +146,9 @@ City of Lake Butler
 City of Worthington Springs
 Contact Us
 Search Website
+Election Results
+Primary Election
+View Results
 Check Voter Status
 (opens in a new tab)
 Register to Vote
@@ -162,15 +165,15 @@ Early Voting
 (opens in a new tab)
 Voting Locations
 (opens in a new tab)
-Active Registered Voters (08/07/2026)
+Active Registered Voters (08/08/2026)
 Democrats
 1,496
 Republicans
-4,965
+4,963
 Other
 827
 Total
-7,288
+7,286
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections

@@ -144,15 +144,15 @@ Early Voting
 Sample Ballot
 Candidate Financial Reporting Login
 2026 Filed Candidates
-Voter Totals as of: 08/07/2026
+Voter Totals as of: 08/08/2026
 Democrats
-2,296
+2,295
 Republicans
-3,736
+3,735
 Other
 1,035
 Total
-7,067
+7,065
 Voter Turnout
 Upcoming Elections
 Aug 18, 2026 7:00am

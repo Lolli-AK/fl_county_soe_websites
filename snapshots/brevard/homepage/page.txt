@@ -35,6 +35,8 @@ Early Voting
 Election Day Tips
 Election Integrity
 Provisional Ballots
+Check My Provisional Ballot Status
+Provisional Ballot Signature Cure Affidavit Instructions and Form
 Voter Initiative Petition Process
 Canvassing Board
 Polling Place and Early Voting Site Regulations
@@ -119,17 +121,17 @@ Welcome to the Brevard County
 Supervisor of Elections
 Tim Bobanic
 Active Registered Voters as of:
-08/08/2026
+08/09/2026
 Republican
-205,335
+205,372
 Democratic
-110,646
+110,667
 Non-Partisan
-106,336
+106,368
 Others
-18,550
+18,556
 Total
-440,867
+440,963
 2026 Primary Election Unofficial Turnout
 View Unofficial Turnout
 2026 Primary Election Frequently Asked Questions

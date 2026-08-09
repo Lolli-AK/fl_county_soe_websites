@@ -276,6 +276,8 @@ General Information
 Results & Information
 Election Information
 Election Results Information
+August Election Unofficial Voter Turnout
+August Election Unofficial Vote-by-Mail Data
 Voter Registration Statistics Summary
 Voter Statistics
 Municipal Election
@@ -337,8 +339,8 @@ What is an Election Worker?
 Become an Election Worker
 Election Worker Portal
 Broward County
-Vote Early Starting Soon!
-Vote at any early voting site starting Saturday, August 8th - no need to go to your assigned precinct.
+Vote Early Now!
+Early voting is open! Vote at any early voting site - no need to go to your assigned precinct.
 Find Early Voting
 Find Your Election Day Polling Place
 Prefer to vote on Election Day? Find your assigned polling location.
@@ -348,9 +350,11 @@ Already requested a mail ballot? Track its status online.
 Check Status
 View Unofficial Turnout Statistics
 Unofficial Turnout Statistics for the August 18, 2026 Election.
-View Stats
+All Stats
+VBM Stats
 Announcements
 August 18, 2026 Election - Important Information
+Early Voting Totals by Date and Location
 For Voter Information Lookup -
 Click Here
 For Personalized Sample Ballot -
@@ -404,16 +408,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-8/8/26
-1,359,766
+8/9/26
+1,359,698
 Eligible Voters
-589,666
+589,636
 Democrat
-314,776
+314,764
 Republican
-419,184
+419,163
 NPA
-36,140
+36,135
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.
