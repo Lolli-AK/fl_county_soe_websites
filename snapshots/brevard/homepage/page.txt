@@ -121,17 +121,17 @@ Welcome to the Brevard County
 Supervisor of Elections
 Tim Bobanic
 Active Registered Voters as of:
-08/09/2026
+08/10/2026
 Republican
-205,372
+205,428
 Democratic
-110,667
+110,705
 Non-Partisan
-106,368
+106,401
 Others
-18,556
+18,571
 Total
-440,963
+441,105
 2026 Primary Election Unofficial Turnout
 View Unofficial Turnout
 2026 Primary Election Frequently Asked Questions
@@ -170,16 +170,6 @@ Facebook
 X
 Brevard County Supervisor of Elections
 Upcoming Events
-August 8, 2026
-8:00 AM -
-4:00 PM
-Early Voting - 2026 Primary Election
-Read More
-August 9, 2026
-8:00 AM -
-4:00 PM
-Early Voting - 2026 Primary Election
-Read More
 August 10, 2026
 8:00 AM -
 6:00 PM
@@ -191,6 +181,16 @@ August 11, 2026
 Early Voting - 2026 Primary Election
 Read More
 August 12, 2026
+8:00 AM -
+6:00 PM
+Early Voting - 2026 Primary Election
+Read More
+August 13, 2026
+8:00 AM -
+6:00 PM
+Early Voting - 2026 Primary Election
+Read More
+August 14, 2026
 8:00 AM -
 6:00 PM
 Early Voting - 2026 Primary Election
