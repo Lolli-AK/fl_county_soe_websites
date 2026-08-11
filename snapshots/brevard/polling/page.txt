@@ -128,9 +128,9 @@ Find Your Precinct
 to locate your polling location, or refer to your Voter Information Card.
 07-20-2026 Legal Ad
 Pursuant to Florida Statute 101.71(2), the following Precinct Number and Polling Place changes have been made effective immediately.
-PRECINCT
-FROM
-TO
+Precinct
+From
+To
 132
 Rockledge City Hall
 1600 Huntington Ln
