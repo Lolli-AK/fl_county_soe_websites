@@ -118,16 +118,6 @@ Track
 My Ballot
 Calendar
 All Events
-Mon,
-Aug
-10,
-2026
-Process & Duplicate: Mail Ballots
-Mon,
-Aug
-10,
-2026
-Early Voting for the Primary Election
 Tue,
 Aug
 11,
@@ -138,17 +128,27 @@ Aug
 12,
 2026
 Early Voting for the Primary Election
+Thu,
+Aug
+13,
+2026
+Early Voting for the Primary Election
+Fri,
+Aug
+14,
+2026
+Early Voting for the Primary Election
 View All Events
 Clay County Voter Totals
-August 10, 2026
+August 11, 2026
 Republicans:
-87915
+87917
 Democrats:
-30828
+30829
 NPA:
-29137
+29138
 Others:
-6188
+6189
 Total:
 Loading...
 Subscribe to Alerts

@@ -252,7 +252,7 @@ Yucatec Maya
 Zapotec
 Zulu
 Active Registered Voters
-As of 08/08/2026
+As of 08/10/2026
 Democrats
 0
 Republicans
@@ -533,8 +533,6 @@ See sample ballots for the
 2026 August Primary Election
 Sample Ballots
 Dates to Remember
-Primary Election Early Voting
-08/08/2026
 Primary Election
 08/18/2026
 Closed for Labor Day

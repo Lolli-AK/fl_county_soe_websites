@@ -359,7 +359,6 @@ For Voter Information Lookup -
 Click Here
 For Personalized Sample Ballot -
 Click Here
-Unofficial Vote-by-Mail Data for the 2026 August Election
 Early Voting Flyer (Locations, Dates, and Hours)
 Secure Ballot Intake Stations (Drop Box) for the August 18, 2026 Election
 Important Forms for Elections | Broward County Supervisor of Elections
@@ -382,7 +381,6 @@ Spanish
 August Election Canvassing Board Meetings
 Legally Required Notices
 Potential Ineligibility Notices - Public Notice- 08/04/2026
-Potential Ineligibility Notices - Public Notice- 07/09/2026
 Notice of Special Election in Plantation Acres Improvement District Special Election in
 English
 /
@@ -408,16 +406,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-8/10/26
-1,359,688
+8/11/26
+1,359,922
 Eligible Voters
-589,627
+589,711
 Democrat
-314,774
+314,844
 Republican
-419,153
+419,218
 NPA
-36,134
+36,149
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.

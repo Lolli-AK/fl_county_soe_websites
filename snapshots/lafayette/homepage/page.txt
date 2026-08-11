@@ -236,7 +236,7 @@ Where Do I Vote?
 My Sample Ballot
 Lafayette County
 Supervisor of Elections
-Active Registered Voter: 08/06/2026
+Active Registered Voter: 08/10/2026
 Democrats:
 0
 Republicans:
@@ -295,6 +295,9 @@ A fee of $3.92 is charged for each petition signature verification
 Signature Verification Report
 News & Announcements
 2026 Primary Election Sample Ballots
+Republican
+Non Partisan
+Democrat
 Read More...
 Accessibility Statement
 We are committed to keeping our site accessible to everyone.

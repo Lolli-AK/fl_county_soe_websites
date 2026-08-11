@@ -122,10 +122,9 @@ Voting System Security
 Network Cyber Security
 Voting System
 Important Information
-County Canvassing Board Meeting Canceled
-The County Canvassing Board meeting scheduled for Monday, August 10, 2026, has been canceled. The Canvassing Board will continue to convene as programmed per the Canvassing Board Meetings and Logic and Accuracy Testing Schedule.
-Canvassing Board Meetings and Logic and Accuracy Test Schedule (English PDF)
-Canvassing Board Meetings and Logic and Accuracy Test Schedule (Spanish PDF)
+Current Election Statistics
+View a breakdown of ballots cast for an upcoming election.
+On election night, Tuesday, August 18, we will release and post preliminary, unofficial local election results shortly after 7:00 p.m. The 1st unofficial results, 2nd unofficial results (only for recounts), and official results will be compiled on the dates designated by the Canvassing Board Meetings and Logic and Accuracy Testing Schedule.
 Returning a Vote-by-Mail Ballot
 We no longer recommend returning your Vote-by-Mail ballot in the mail.
 During Early Voting, Vote-by-Mail ballots can be
@@ -143,9 +142,9 @@ Office Locations
 You may NOT return your Vote-by-Mail ballot to your polling place on Election Day. However, you MAY surrender your ballot and vote in person.
 Find out more information on returning your Vote-by-Mail ballot.
 Countdown to the Primary
-The first election of the season is the August 18 primary election. In our new video series, "Countdown to the Primary,"
+The first election of the season is the August 18 Primary Election. In our new video series, "Countdown to the Primary,"
 Supervisor Persons-Mulicka shares important information
-designed to get you election-ready.
+to get you election-ready.
 As a nod to Election Day, new videos within the series will be posted on Tuesdays!
 Countdown to the Primary Video Series
 Congressional Redistricting
