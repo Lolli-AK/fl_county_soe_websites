@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://libertycountyflsoe.gov/voter-information/election-dates/"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-12T02:02:17Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
-  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)"
+  "fetched_at": "2026-08-12T04:47:45Z",
+  "html_sha256": "59316be61470e23b53b34cc33188d0757d05b86a9d6c8c9b95e3d68fe40c8e54",
+  "text_sha256": "4a23b25e185b3b7b0157737a29240d069bb5882c909abdd9baa663d97643ebed",
+  "byte_size": 57315,
+  "title": "Election Dates – Liberty County (FL) Supervisor of Elections",
+  "error": null
 }
