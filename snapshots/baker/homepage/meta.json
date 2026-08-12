@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-12T07:26:47Z",
-  "html_sha256": "31cb674922feed5e020552f297cb416b8d048a29d3272f07ee315d14fb8c5990",
-  "text_sha256": "0a226c8fac64471a5d86ffbca143b4edb70dd76705196c23e704523332499047",
-  "byte_size": 6646,
+  "fetched_at": "2026-08-12T09:01:07Z",
+  "html_sha256": "93cff074c8cc0d4a2498caff0003de888bdc452ba2c9aa18ddbcb4e84f3b6faa",
+  "text_sha256": "79ed03bc777f213148c4b68a8feea7819fcc7fd3b2701b933a5eef8883d93a98",
+  "byte_size": 6642,
   "title": "votebakerfl.gov | 521: Web server is down",
   "error": null
 }

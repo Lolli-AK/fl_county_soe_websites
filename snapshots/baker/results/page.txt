@@ -4,11 +4,11 @@ Error code 521
 Visit
 cloudflare.com
 for more information.
-2026-08-12 07:26:51 UTC
+2026-08-12 09:01:10 UTC
 You
 Browser
 Working
-Los Angeles
+San Jose
 Cloudflare
 Working
 votebakerfl.gov
@@ -24,11 +24,11 @@ Contact your hosting provider letting them know your web server is not respondin
 Additional troubleshooting information
 .
 Cloudflare Ray ID:
-a29dc1138965af4b
+a29e4b3d1c1291f0
 •
 Your IP:
 Click to reveal
-172.182.195.88
+68.220.59.247
 •
 Performance & security by
 Cloudflare
