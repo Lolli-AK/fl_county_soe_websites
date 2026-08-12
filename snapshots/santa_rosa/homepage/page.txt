@@ -156,10 +156,10 @@ FL Commission on Ethics
 Santa Rosa County
 [rotating image slideshow removed for determinism]
 Active Registered Voters as of 08/12/2026:
-Dem: 20,574
-Rep: 90,946
-Oth: 30,778
-Total: 142,298
+Dem: 20,586
+Rep: 90,980
+Oth: 30,792
+Total: 142,358
 Register to Vote/Update Voter Information
 My Status/Sample Ballots
 Vote By Mail
@@ -177,6 +177,11 @@ Book Closing Announcement
 Voter Status Checklist
 Canvassing Board Calendar
 CANCELLED- Thursday, August 13, 2026,10 a.m. Scanning of ballots into audit/tabulation system
+Early Voting Site at County Auditorium May Have Delayed Opening
+The early voting site at the Santa Rosa County Auditorium, 4530 Spikes Way in Milton, may have a delayed opening due to a power outage caused by a damaged power pole.
+For other early voting locations, visit
+https://votesantarosa.gov/voter-information/how-to-vote/early-voting/
+.
 County Judge Seat 3
 On April 16, 2026, Judge Matt Gordon submitted his resignation letter from the First Judicial Circuit, County Judge Seat 3 effective April 17, 2026. Governor DeSantis accepted his resignation, and pursuant to Article V, Section 11(b) of the Florida Constitution, the Governor will now fill by appointment the vacancy created by this resignation, and the position is no longer up for election during the 2026 election cycle. The pre-filed candidates listed on the Candidate page will now file Termination Reports. As a result, that contest will not appear on the ballot in 2026.
 EVENTS
