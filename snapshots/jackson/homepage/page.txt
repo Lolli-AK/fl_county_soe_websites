@@ -105,7 +105,7 @@ Carol A. Dunaway
 SUPERVISOR OF ELECTIONS
 JACKSON COUNTY
 Active Registered Voters
-as of 08/06/2026
+as of 08/08/2026
 Republicans
 0
 Democrats
@@ -127,17 +127,6 @@ contact us
 for any help with accessibility.
 Calendar
 Aug
-6
-All day, 2026
-Early Voting Begins for Primary Election
-Aug
-6
-8:00 am
--
-5:00 pm
-2026
-Last Day to Request Vote-By-Mail (Primary)
-Aug
 15
 All day, 2026
 Early Voting Ends for Primary Election
@@ -149,6 +138,20 @@ Sep
 19
 All day, 2026
 Vote-By-Mail Sent to UOCAVA voters (General)
+Sep
+24
+September 24 @ 8:00 am
+-
+October 1 @ 5:00 pm
+2026
+Vote-By-Mail Sent to Domestic Voters (General)
+Oct
+5
+8:00 am
+-
+5:00 pm
+2026
+Voter Registration Deadline – General Election
 View Calendar
 View full calendar
 2026 Primary Election Voter Turnout
