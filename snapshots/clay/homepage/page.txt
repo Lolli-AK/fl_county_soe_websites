@@ -118,11 +118,6 @@ Track
 My Ballot
 Calendar
 All Events
-Wed,
-Aug
-12,
-2026
-Early Voting for the Primary Election
 Thu,
 Aug
 13,
@@ -138,6 +133,11 @@ Aug
 14,
 2026
 Opening of Mail Ballots (Run 2)
+Sat,
+Aug
+15,
+2026
+Process & Duplicate: Mail Ballots
 View All Events
 Clay County Voter Totals
 August 12, 2026
