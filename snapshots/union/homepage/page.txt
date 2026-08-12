@@ -165,11 +165,11 @@ Early Voting
 (opens in a new tab)
 Voting Locations
 (opens in a new tab)
-Active Registered Voters (08/11/2026)
+Active Registered Voters (08/12/2026)
 Democrats
-1,496
+1,497
 Republicans
-4,962
+4,961
 Other
 828
 Total

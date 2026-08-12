@@ -27,6 +27,7 @@ Early Voting
 Precinct Information
 Precinct Lookup
 List of Precincts
+Citizens’ Initiative Petitions
 Election Results
 Notices & Policies
 Notice of Potential Ineligible Voters
@@ -44,7 +45,6 @@ Candidate Reports
 Candidate File Distribution
 Poll Watcher Information
 Request for Vote By Mail Voters Information
-Initiative Petitions
 Maps & Statistics
 Demographics
 Maps
@@ -76,6 +76,7 @@ Early Voting
 Precinct Information
 Precinct Lookup
 List of Precincts
+Citizens’ Initiative Petitions
 Election Results
 Notices & Policies
 Notice of Potential Ineligible Voters
@@ -93,7 +94,6 @@ Candidate Reports
 Candidate File Distribution
 Poll Watcher Information
 Request for Vote By Mail Voters Information
-Initiative Petitions
 Maps & Statistics
 Demographics
 Maps
@@ -134,4 +134,3 @@ Website Policies
 Accessibility
 The Gadsden County Supervisor of Elections cannot be held responsible for the content, accuracy or availability of any external sites linked from within these pages. In addition, Florida has a very broad public records law. If you do not want your email address released in response to a public-records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing.
 We are committed to keeping our site accessible to everyone and welcome feedback on ways to improve the site’s accessibility
-Early voting for the 2026 Primary Election is Saturday, August 8th through Sunday, August 16th, from 9:00am to 6:00pm. All Gadsden County voters may vote early at any of the early voting locations.  Please note, Chattahoochee’s Library is under construction; however, voters are able to vote there during the renovation.
