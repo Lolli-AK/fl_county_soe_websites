@@ -27,7 +27,7 @@ Early Voting
 Precinct Information
 Precinct Lookup
 List of Precincts
-Citizens’ Initiative Petitions
+Initiative Petitions
 Election Results
 Notices & Policies
 Notice of Potential Ineligible Voters
@@ -76,7 +76,7 @@ Early Voting
 Precinct Information
 Precinct Lookup
 List of Precincts
-Citizens’ Initiative Petitions
+Initiative Petitions
 Election Results
 Notices & Policies
 Notice of Potential Ineligible Voters
