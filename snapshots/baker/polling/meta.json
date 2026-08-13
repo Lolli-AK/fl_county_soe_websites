@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://votebakerfl.gov/precinct-finder/"
   ],
-  "http_status": 521,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-13T10:08:04Z",
-  "html_sha256": "f8ee51c446f8f523444dcb7e82b1e5215d037c7d6fd54bcee4701e2a9178212c",
-  "text_sha256": "4a9d5f3f00f72f567b0b135ada965c1251aabcc9c818128e087a8927a5cfb0e1",
-  "byte_size": 6641,
-  "title": "votebakerfl.gov | 521: Web server is down",
+  "fetched_at": "2026-08-13T13:13:47Z",
+  "html_sha256": "2b526761bd348de361c853f0a4dc803d72bd2cad2bc5435c39acf3c13ae2a10a",
+  "text_sha256": "e9748aa7d87265b56d9eee6e0ff0c8ca91b8c0ca9c60546d46dd46f8253410cc",
+  "byte_size": 13206,
+  "title": "Baker County Supervisor of Elections",
   "error": null
 }

@@ -236,7 +236,7 @@ Where Do I Vote?
 My Sample Ballot
 Lafayette County
 Supervisor of Elections
-Active Registered Voter: 08/10/2026
+Active Registered Voter: 08/13/2026
 Democrats:
 0
 Republicans:
@@ -288,11 +288,23 @@ pRIMARY ELECTION
 Election Dates & Info
 GENERAL ELECTION
 Election Dates & Info
-Active Petition Signature Verification Report
-Pursuant to FS 100.371 (11) (c), the Lafayette County Supervisor of Elections provides this monthly report related to the number of petitions received by our office.
-Please note:
-A fee of $3.92 is charged for each petition signature verification
-Signature Verification Report
+Polling Precinct Locations
+1st District
+Day Community Center
+4673 NW CR 53
+Mayo, FL 32066
+2nd & 5th District
+Mayo Community Center
+150 NW Community Circle
+Mayo, FL 32066
+3rd District
+Airline Community Center
+3373 US 27
+Mayo, Fl 32066
+4th District
+4th District Community Center
+14204 US 27
+Branford, Fl 32008
 News & Announcements
 2026 Primary Election Sample Ballots
 Republican
