@@ -293,6 +293,7 @@ Full Name
 (Required)
 Email
 (Required)
+Get Updates
 Receive Voter Text Notifications!
 Text “VOTESEMINOLE” to 91896
 Home
