@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.votesjc.gov/election-results"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-13T19:04:16Z",
-  "html_sha256": "a146b463cf8376e58aeeb84e6ab324b9f2c9430a293c3249b398acd5a3b665c8",
-  "text_sha256": "1656b0fce17419931655f7414e8699064f7059675935986c0cf6b6613f9ebf70",
-  "byte_size": 188,
-  "title": "403 Forbidden",
+  "fetched_at": "2026-08-13T21:47:10Z",
+  "html_sha256": "dd56b9b0f1f27d78ca26f282d10bf62455f70dbd17bdd1233a2f769b50881c58",
+  "text_sha256": "70e59165d4ce7cb33ee1017290d2cfd8bc671aade2ab485cd4c8d3857fd599a5",
+  "byte_size": 179130,
+  "title": "Election Results",
   "error": null
 }

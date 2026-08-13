@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.votenassaufl.gov/upcoming-elections"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-13T19:04:16Z",
-  "html_sha256": "a146b463cf8376e58aeeb84e6ab324b9f2c9430a293c3249b398acd5a3b665c8",
-  "text_sha256": "1656b0fce17419931655f7414e8699064f7059675935986c0cf6b6613f9ebf70",
-  "byte_size": 188,
-  "title": "403 Forbidden",
+  "fetched_at": "2026-08-13T21:47:10Z",
+  "html_sha256": "45690582422f976b55a2901aed4bc587bf936d2214321e1dbaf1164cb944e6a4",
+  "text_sha256": "0c6bcdb0cbdd5afb708ef6c85545fbaffd32b197b6dd60c48a26594421d21a60",
+  "byte_size": 93221,
+  "title": "Upcoming Elections 2026 | Nassau County Supervisor of Elections",
   "error": null
 }

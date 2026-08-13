@@ -698,9 +698,7 @@ Dates to Remember
 Early Voting for Primary Election
 8/3/2026 - 8/15/2026
 Canvassing of the Vote-by-Mail Ballots
-8/10/2026 - 8/13/2026
-Canvassing of the Vote-by-Mail Ballot Bad Signatures
-8/14/2026 9:00 AM - 5:00 PM
+8/10/2026 - 8/14/2026
 Primary Election
 8/18/2026 7:00 AM - 7:00 PM
 Reconciliation & Canvass Provisionals & Cures
@@ -719,6 +717,8 @@ Early Voting for General Election
 10/19/2026 - 10/31/2026
 Last Day to Request a Vote-by-Mail Ballot to be mailed
 10/22/2026
+Canvassing the Vote-by-Mail Ballots
+10/26/2026 - 10/30/2026
 View All
 The Honorable Sherri Hodies
 Supervisor of Elections,

@@ -33,7 +33,7 @@ Fail-safe voting option
 Provisional Ballot Status
 Vote-by-Mail
 How to request and vote by mail
-Drop Boxes
+Secure Ballot Intake Stations
 Military and Overseas Voting
 Online Vote-by-Mail Request
 Voter ID
@@ -177,7 +177,7 @@ Election Day
 Provisional Ballots
 Provisional Ballot Status
 Vote-by-Mail
-Drop Boxes
+Secure Ballot Intake Stations
 Military and Overseas Voting
 Online Vote-by-Mail Request
 Voter ID
