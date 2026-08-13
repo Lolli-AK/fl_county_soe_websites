@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.votenassaufl.gov/election-night-results"
   ],
-  "http_status": 200,
-  "content_type": "text/html;charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-13T16:00:13Z",
-  "html_sha256": "58d31fab3b33736c31149fab9653d52c5ef70065e683979cd477adcf92ee73ea",
-  "text_sha256": "5207e0a4a155659ecf9a2539b5773c142b9a813bb18891dc740941973962b70b",
-  "byte_size": 78306,
-  "title": "Election Night Results | Nassau County Supervisor",
+  "fetched_at": "2026-08-13T19:04:16Z",
+  "html_sha256": "a146b463cf8376e58aeeb84e6ab324b9f2c9430a293c3249b398acd5a3b665c8",
+  "text_sha256": "1656b0fce17419931655f7414e8699064f7059675935986c0cf6b6613f9ebf70",
+  "byte_size": 188,
+  "title": "403 Forbidden",
   "error": null
 }

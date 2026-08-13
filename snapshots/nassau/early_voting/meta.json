@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.votenassaufl.gov/early-voting"
   ],
-  "http_status": 200,
-  "content_type": "text/html;charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-13T16:00:13Z",
-  "html_sha256": "cde098814485e6921a4cd9342d0bb0d268c9700dd1e789c3a711271f9f863a17",
-  "text_sha256": "85804ca2889ecc5d8c3033199b2a15af0b26b75442884e23a4133d5ce67f8b02",
-  "byte_size": 80771,
-  "title": "Early Voting Info | Nassau County Supervisor of Elections",
+  "fetched_at": "2026-08-13T19:04:16Z",
+  "html_sha256": "a146b463cf8376e58aeeb84e6ab324b9f2c9430a293c3249b398acd5a3b665c8",
+  "text_sha256": "1656b0fce17419931655f7414e8699064f7059675935986c0cf6b6613f9ebf70",
+  "byte_size": 188,
+  "title": "403 Forbidden",
   "error": null
 }
