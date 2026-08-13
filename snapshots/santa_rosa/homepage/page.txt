@@ -180,7 +180,7 @@ CANCELLED- Thursday, August 13, 2026,10 a.m. Scanning of ballots into audit/tabu
 Early Voting Site at County Auditorium Reopened
 The early voting site at the Santa Rosa County Auditorium, 4530 Spikes Way in Milton, has
 reopened
-. Note that the water is currently shut off at this location while a line is repaired, so restrooms will temporarily be unavailable at the auditorium.
+.
 For other early voting locations, visit
 https://votesantarosa.gov/voter-information/how-to-vote/early-voting/
 .
@@ -321,17 +321,17 @@ Canvassing of Vote-By-Mail Ballots/Duplication of Ballots (as needed)/Scanning o
 2:00pm
 Santa Rosa County Supervisor of Elections Office
 2 2026 English_Primary Legal CB Dates and Times FV
+Scanning of Ballots into audit/tabulation system
+8/12/2026 - 8/12/2026
+10:00am
+Santa Rosa County Supervisor of Elections Office
+2 2026 English_Primary Legal CB Dates and Times FV
 Primary Election Early Voting
 8/3/2026 - 8/15/2026
 8:30am - 4:30pm
 Primary Election Early Voting
 08/03/2026 - 08/15/2026
 8:30am - 4:30pm
-Scanning of Ballots into audit/tabulation system
-8/12/2026 - 8/12/2026
-10:00am
-Santa Rosa County Supervisor of Elections Office
-2 2026 English_Primary Legal CB Dates and Times FV
 Primary Election Early Voting
 8/3/2026 - 8/15/2026
 8:30am - 4:30pm
@@ -499,13 +499,13 @@ Canvassing of Vote-By-Mail Ballots/Duplication of Ballots (as needed)/Scanning o
 2:00pm
 Santa Rosa County Supervisor of Elections Office
 August 12, 2026
-Primary Election Early Voting
-8:30am - 4:30pm
-Primary Election Early Voting
-8:30am - 4:30pm
 Scanning of Ballots into audit/tabulation system
 10:00am
 Santa Rosa County Supervisor of Elections Office
+Primary Election Early Voting
+8:30am - 4:30pm
+Primary Election Early Voting
+8:30am - 4:30pm
 August 13, 2026
 Primary Election Early Voting
 8:30am - 4:30pm
