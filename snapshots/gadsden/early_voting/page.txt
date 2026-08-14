@@ -27,7 +27,6 @@ Early Voting
 Precinct Information
 Precinct Lookup
 List of Precincts
-Initiative Petitions
 Election Results
 Notices & Policies
 Notice of Potential Ineligible Voters
@@ -45,6 +44,7 @@ Candidate Reports
 Candidate File Distribution
 Poll Watcher Information
 Request for Vote By Mail Voters Information
+Initiative Petitions
 Maps & Statistics
 Demographics
 Maps
@@ -76,7 +76,6 @@ Early Voting
 Precinct Information
 Precinct Lookup
 List of Precincts
-Initiative Petitions
 Election Results
 Notices & Policies
 Notice of Potential Ineligible Voters
@@ -94,13 +93,12 @@ Candidate Reports
 Candidate File Distribution
 Poll Watcher Information
 Request for Vote By Mail Voters Information
+Initiative Petitions
 Maps & Statistics
 Demographics
 Maps
 Elections Team
-Early voting for the 2026 Primary Election is Saturday, August 8th through Sunday, August 16th, from 9:00am to 6:00pm. All Gadsden County voters may vote early at any one of the listed early voting locations: Supervisor of Elections Office, Midway Fire Dept., Havana and Chattahoochee Public Library; Please note, Chattahoochee’s library is under construction; however, voters will still be able to vote there during the renovation.
-BRING YOUR KIDS TO VOTE
-on Saturday, August 15th at the Supervisor of Elections Office
+Early voting for the 2026 Primary Election will start Saturday, August 8th through Sunday, August 16th, from 9:00am to 6:00pm. All Gadsden County voters may vote early at any one of the listed early voting locations: Supervisor of Elections Office, Midway Fire Dept., Havana and Chattahoochee Public Library; Please note, Chattahoochee’s library is under construction; however, voters will still be able to vote there during the renovation.
 Search
 Search
 Languages
@@ -123,7 +121,7 @@ What is Early Voting?
 Early Voting is defined as “casting a ballot in person prior to Election Day at a location designated by the Supervisor of Elections and depositing the voted ballot in the tabulation system.” The voter uses the same type of voting equipment that is used at the polls on Election Day. In all elections when there is a state or federal office race, early voting is required. Early voting may be offered in county, municipal and other local elections.
 When is Early Voting Available?
 Early voting, at a minimum, must begin on the 10th day before an election that contains state or federal races and end on the 3rd day before the election, and shall be provided for no less than eight hours and no more than 12 hours per day at each site during the applicable period.
-In addition, early voting may be offered at the discretion of the supervisor of elections on the 15th, 14th, 13th, 12th, 11th, or 2nd day before an election that contains state or federal races for at least eight hours per day, but not more than 12 hours per day. Supervisors of Elections designate early voting sites 30 days prior to an election.  For the 2026 Primary Election, early voting will start August 8th through August 16th.
+In addition, early voting may be offered at the discretion of the supervisor of elections on the 15th, 14th, 13th, 12th, 11th, or 2nd day before an election that contains state or federal races for at least eight hours per day, but not more than 12 hours per day. Supervisors of Elections designate early voting sites 30 days prior to an election.
 The Supervisor of Elections may provide early voting for elections that are not held in conjunction with a state or federal election. However, the supervisor has the discretion to determine the hours of operation of early voting sites in those elections.
 How to Early Vote
 Voters who want to vote early should present the following at the early voting site:

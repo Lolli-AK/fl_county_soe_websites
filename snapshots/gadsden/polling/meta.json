@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-14T02:02:15Z",
-  "html_sha256": "20c0104bacf57a9bd59f6bd19f3cdf4c65d45e598083f107e6c44871c0213ee3",
-  "text_sha256": "6f6cfe27f61e54d5f09ff0a4d09a2ec4d548405804223377e9489212c009ff6d",
-  "byte_size": 59972,
+  "fetched_at": "2026-08-14T04:48:49Z",
+  "html_sha256": "577a308cb49f4f607fe82b8eb1b9cb569149bcedd27f53b1568ad860dd6d188e",
+  "text_sha256": "c153c57cbd2ddd7837063dfb244b23f3d809de8f27c9c2290e5d4e82dbab25cd",
+  "byte_size": 60961,
   "title": "Precinct Lookup – Gadsden County Supervisor of Elections",
   "error": null
 }

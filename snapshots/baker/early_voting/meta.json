@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://votebakerfl.gov/early-voting/"
   ],
-  "http_status": 200,
+  "http_status": 521,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-14T02:02:15Z",
-  "html_sha256": "55f14ba70c2b6016d03c707bae458894c13e01b3a26310e73faaa13e5e1ad1db",
-  "text_sha256": "22d53740c2ff997722b644269e4d4ebdc76cfa0ad9c727181a7e855c33c1ee5e",
-  "byte_size": 13950,
-  "title": "Baker County Supervisor of Elections",
+  "fetched_at": "2026-08-14T04:48:49Z",
+  "html_sha256": "91e8ab1407c9fa2e5908b7d8d1e19684d5fb5e99488dd6b8b11f1d467e1cb096",
+  "text_sha256": "b88b81a746defb94cca915ab46b787a1ea9a0899351d8e6fb6641fc444102801",
+  "byte_size": 6642,
+  "title": "votebakerfl.gov | 521: Web server is down",
   "error": null
 }
