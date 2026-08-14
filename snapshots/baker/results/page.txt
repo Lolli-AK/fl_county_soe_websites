@@ -4,11 +4,11 @@ Error code 521
 Visit
 cloudflare.com
 for more information.
-2026-08-14 04:48:52 UTC
+2026-08-14 07:26:27 UTC
 You
 Browser
 Working
-Ashburn
+Minneapolis
 Cloudflare
 Working
 votebakerfl.gov
@@ -24,11 +24,11 @@ Contact your hosting provider letting them know your web server is not respondin
 Additional troubleshooting information
 .
 Cloudflare Ray ID:
-a2ad546a491b8298
+a2ae3b3db974a21b
 •
 Your IP:
 Click to reveal
-20.102.103.194
+135.119.38.212
 •
 Performance & security by
 Cloudflare
