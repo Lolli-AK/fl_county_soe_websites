@@ -156,10 +156,10 @@ FL Commission on Ethics
 Santa Rosa County
 [rotating image slideshow removed for determinism]
 Active Registered Voters as of 08/14/2026:
-Dem: 20,589
-Rep: 90,995
-Oth: 30,799
-Total: 142,383
+Dem: 20,601
+Rep: 91,012
+Oth: 30,815
+Total: 142,428
 Register to Vote/Update Voter Information
 My Status/Sample Ballots
 Vote By Mail
@@ -310,17 +310,17 @@ Scanning of Ballots into audit/tabulation system
 10:00am
 Santa Rosa County Supervisor of Elections Office
 2 2026 English_Primary Legal CB Dates and Times FV
+Canvassing of Vote-By-Mail Ballots/Duplication of Ballots (as needed)/Scanning of Ballots in audit/tabulation system
+8/11/2026 - 8/11/2026
+2:00pm
+Santa Rosa County Supervisor of Elections Office
+2 2026 English_Primary Legal CB Dates and Times FV
 Primary Election Early Voting
 8/3/2026 - 8/15/2026
 8:30am - 4:30pm
 Primary Election Early Voting
 08/03/2026 - 08/15/2026
 8:30am - 4:30pm
-Canvassing of Vote-By-Mail Ballots/Duplication of Ballots (as needed)/Scanning of Ballots in audit/tabulation system
-8/11/2026 - 8/11/2026
-2:00pm
-Santa Rosa County Supervisor of Elections Office
-2 2026 English_Primary Legal CB Dates and Times FV
 Scanning of Ballots into audit/tabulation system
 8/12/2026 - 8/12/2026
 10:00am
@@ -332,17 +332,17 @@ Primary Election Early Voting
 Primary Election Early Voting
 08/03/2026 - 08/15/2026
 8:30am - 4:30pm
+CANCELLED-Scanning of Ballots into audit/tabulation system
+8/13/2026 - 8/13/2026
+10:00am
+Santa Rosa County Supervisor of Elections Office
+2 2026 English_Primary Legal CB Dates and Times FV
 Primary Election Early Voting
 8/3/2026 - 8/15/2026
 8:30am - 4:30pm
 Primary Election Early Voting
 08/03/2026 - 08/15/2026
 8:30am - 4:30pm
-CANCELLED-Scanning of Ballots into audit/tabulation system
-8/13/2026 - 8/13/2026
-10:00am
-Santa Rosa County Supervisor of Elections Office
-2 2026 English_Primary Legal CB Dates and Times FV
 Primary Election Early Voting
 8/3/2026 - 8/15/2026
 8:30am - 4:30pm
@@ -491,13 +491,13 @@ Scanning of Ballots into audit/tabulation system
 10:00am
 Santa Rosa County Supervisor of Elections Office
 August 11, 2026
-Primary Election Early Voting
-8:30am - 4:30pm
-Primary Election Early Voting
-8:30am - 4:30pm
 Canvassing of Vote-By-Mail Ballots/Duplication of Ballots (as needed)/Scanning of Ballots in audit/tabulation system
 2:00pm
 Santa Rosa County Supervisor of Elections Office
+Primary Election Early Voting
+8:30am - 4:30pm
+Primary Election Early Voting
+8:30am - 4:30pm
 August 12, 2026
 Scanning of Ballots into audit/tabulation system
 10:00am
@@ -507,13 +507,13 @@ Primary Election Early Voting
 Primary Election Early Voting
 8:30am - 4:30pm
 August 13, 2026
-Primary Election Early Voting
-8:30am - 4:30pm
-Primary Election Early Voting
-8:30am - 4:30pm
 CANCELLED-Scanning of Ballots into audit/tabulation system
 10:00am
 Santa Rosa County Supervisor of Elections Office
+Primary Election Early Voting
+8:30am - 4:30pm
+Primary Election Early Voting
+8:30am - 4:30pm
 August 14, 2026
 Primary Election Early Voting
 8:30am - 4:30pm
