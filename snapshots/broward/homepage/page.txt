@@ -256,7 +256,7 @@ Voters
 Register or Update
 Voter Info
 Vote By Mail Information
-Early Voting & Drop Boxes
+Early Voting & Ballot Return
 Election Day Precinct
 Sample Ballot and Status Notifications
 Voter Resources
@@ -325,7 +325,7 @@ Poll Worker
 Register or Update
 Voter Info
 Vote by Mail
-Early Voting & Drop Boxes
+Early Voting & Ballot Return
 Election Day Precinct
 Sample Ballot and Status Notifications
 Announced Candidates
@@ -360,7 +360,7 @@ Click Here
 For Personalized Sample Ballot -
 Click Here
 Early Voting Flyer (Locations, Dates, and Hours)
-Secure Ballot Intake Stations (Drop Box) for the August 18, 2026 Election
+Secure Ballot Intake Stations for the August 18, 2026 Election
 Important Forms for Elections | Broward County Supervisor of Elections
 List of Polling Places for the August 18, 2026 Election
 List of Candidates for August Election

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-14T18:55:34Z",
-  "html_sha256": "7d44a2f3571b59ff0ea6614da953abc93cf1be0733b9b248c96599ab615443c5",
-  "text_sha256": "c0728dfa3dd820c98a1e50cd275e7980b945c9400687e721c0ed01653abb1ca1",
-  "byte_size": 72914,
+  "fetched_at": "2026-08-14T21:26:19Z",
+  "html_sha256": "8b9a1da7e69c27b8d049b315489dd63c224dc5e67f5f1d0d8a52da8956815f04",
+  "text_sha256": "1507859cf34823ea627d1f7ad490aae72b1fb3b1fd6746345d375fd4b1441653",
+  "byte_size": 73770,
   "title": "Polling Location Finder | Duval County Elections, FL Official Website",
   "error": null
 }

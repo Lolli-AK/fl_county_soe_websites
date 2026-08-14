@@ -256,7 +256,7 @@ Voters
 Register or Update
 Voter Info
 Vote By Mail Information
-Early Voting & Drop Boxes
+Early Voting & Ballot Return
 Election Day Precinct
 Sample Ballot and Status Notifications
 Voter Resources
@@ -342,7 +342,7 @@ Voters
 Register or Update
 Voter Info
 Vote By Mail Information
-Early Voting & Drop Boxes
+Early Voting & Ballot Return
 Election Day Precinct
 Sample Ballot and Status Notifications
 Voter Resources
