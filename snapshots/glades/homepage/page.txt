@@ -98,8 +98,8 @@ Public Notices
 [rotating image slideshow removed for determinism]
 Active Registered Voters as of 08/15/2026:
 Dem: 1,413
-Rep: 4,056
-Oth: 1,313
+Rep: 4,057
+Oth: 1,312
 Total: 6,782
 Register to Vote
 Election Dates
