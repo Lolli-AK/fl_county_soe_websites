@@ -225,6 +225,11 @@ Primary Election Early Voting
 Primary Election Early Voting
 08/03/2026 - 08/15/2026
 8:30am - 4:30pm
+Public View of Ballots
+8/5/2026 - 8/5/2026
+12:30pm - 1:00pm
+Santa Rosa County Supervisor of Elections Office
+2 2026 English_Primary Legal CB Dates and Times FV
 Canvassing of Vote-By-Mail Ballots/Scanning of Ballots into audit/tabulation system
 8/5/2026 - 8/5/2026
 1:00pm
@@ -236,11 +241,6 @@ Primary Election Early Voting
 Primary Election Early Voting
 08/03/2026 - 08/15/2026
 8:30am - 4:30pm
-Public View of Ballots
-8/5/2026 - 8/5/2026
-12:30pm - 1:00pm
-Santa Rosa County Supervisor of Elections Office
-2 2026 English_Primary Legal CB Dates and Times FV
 Scanning of Ballots into audit/tabulation system
 8/6/2026 - 8/6/2026
 10:00am
@@ -343,17 +343,17 @@ Primary Election Early Voting
 Primary Election Early Voting
 08/03/2026 - 08/15/2026
 8:30am - 4:30pm
+Canvassing of Vote-By-Mail Ballots/Duplication of Ballots (as needed)/Scanning of Ballots in audit/tabulation system
+8/14/2026 - 8/14/2026
+2:00pm
+Santa Rosa County Supervisor of Elections Office
+2 2026 English_Primary Legal CB Dates and Times FV
 Primary Election Early Voting
 8/3/2026 - 8/15/2026
 8:30am - 4:30pm
 Primary Election Early Voting
 08/03/2026 - 08/15/2026
 8:30am - 4:30pm
-Canvassing of Vote-By-Mail Ballots/Duplication of Ballots (as needed)/Scanning of Ballots in audit/tabulation system
-8/14/2026 - 8/14/2026
-2:00pm
-Santa Rosa County Supervisor of Elections Office
-2 2026 English_Primary Legal CB Dates and Times FV
 Primary Election Early Voting
 8/3/2026 - 8/15/2026
 8:30am - 4:30pm
@@ -440,6 +440,9 @@ Primary Election Early Voting
 Primary Election Early Voting
 8:30am - 4:30pm
 August 5, 2026
+Public View of Ballots
+12:30pm - 1:00pm
+Santa Rosa County Supervisor of Elections Office
 Canvassing of Vote-By-Mail Ballots/Scanning of Ballots into audit/tabulation system
 1:00pm
 Santa Rosa County Supervisor of Elections Office
@@ -447,9 +450,6 @@ Primary Election Early Voting
 8:30am - 4:30pm
 Primary Election Early Voting
 8:30am - 4:30pm
-Public View of Ballots
-12:30pm - 1:00pm
-Santa Rosa County Supervisor of Elections Office
 August 6, 2026
 Scanning of Ballots into audit/tabulation system
 10:00am
@@ -515,13 +515,13 @@ Primary Election Early Voting
 Primary Election Early Voting
 8:30am - 4:30pm
 August 14, 2026
-Primary Election Early Voting
-8:30am - 4:30pm
-Primary Election Early Voting
-8:30am - 4:30pm
 Canvassing of Vote-By-Mail Ballots/Duplication of Ballots (as needed)/Scanning of Ballots in audit/tabulation system
 2:00pm
 Santa Rosa County Supervisor of Elections Office
+Primary Election Early Voting
+8:30am - 4:30pm
+Primary Election Early Voting
+8:30am - 4:30pm
 August 15, 2026
 Primary Election Early Voting
 8:30am - 4:30pm
