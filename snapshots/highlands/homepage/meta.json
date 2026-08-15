@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.votehighlands.gov"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-15T15:21:52Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
-  "error": "plain_fetch_error: ConnectError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)"
+  "fetched_at": "2026-08-15T18:31:13Z",
+  "html_sha256": "5cc1221c10e91a938ec4ad4cc369891ef4e47af733eac52b482c2bfe47c12df1",
+  "text_sha256": "db82dd057e3e5b27a5ee0ba5db8356840c3f2ee6b8935c60eedde1dea78af8a0",
+  "byte_size": 216578,
+  "title": "Election Info | Highlands County Supervisor of Elections | Sebring, FL",
+  "error": null
 }

@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.votesjc.gov/election-dates"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-15T15:21:52Z",
-  "html_sha256": "a146b463cf8376e58aeeb84e6ab324b9f2c9430a293c3249b398acd5a3b665c8",
-  "text_sha256": "1656b0fce17419931655f7414e8699064f7059675935986c0cf6b6613f9ebf70",
-  "byte_size": 188,
-  "title": "403 Forbidden",
+  "fetched_at": "2026-08-15T18:31:13Z",
+  "html_sha256": "696761da9f3adb82b6b91f5f3e214065d0ced0e3c457908c4eb1360d23738c41",
+  "text_sha256": "24667fd19a00a4097c316c6580c06c34c30fdb339af85705eba4e93af53b824a",
+  "byte_size": 150083,
+  "title": "Election Dates",
   "error": null
 }

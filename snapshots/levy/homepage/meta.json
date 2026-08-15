@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-15T15:21:52Z",
-  "html_sha256": "e98afe13b6c0f28a2b0c42f2627f87a9a19e7e01ee64ce496832a751ebdafcdd",
-  "text_sha256": "c9e4db5cdfda8e06f43cd728a42ff3214a1b2e77a0c57f43d2e90c9c3f24a91a",
-  "byte_size": 69554,
+  "fetched_at": "2026-08-15T18:31:13Z",
+  "html_sha256": "60e19d4dfd0f46329548ce3a3b46794e3645d529628c3b928360aa850cbd3793",
+  "text_sha256": "4ab9951f4203e7af25b8cd3ce636b4ec70a1b6b1e479950b164655db4f1fdac3",
+  "byte_size": 69628,
   "title": "Levy County Supervisor of Elections",
   "error": null
 }

@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.votesjc.gov/ways-to-vote"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-15T15:21:52Z",
-  "html_sha256": "a146b463cf8376e58aeeb84e6ab324b9f2c9430a293c3249b398acd5a3b665c8",
-  "text_sha256": "1656b0fce17419931655f7414e8699064f7059675935986c0cf6b6613f9ebf70",
-  "byte_size": 188,
-  "title": "403 Forbidden",
+  "fetched_at": "2026-08-15T18:31:13Z",
+  "html_sha256": "22ad922e6e88bc15032b8cbaf03a87e2230b4996dd5180982330a19a91687810",
+  "text_sha256": "42c8e96083e0d50926679dcca43fc2d5cd2b2047d972671ed2459ecb1e844345",
+  "byte_size": 132440,
+  "title": "Ways to Vote",
   "error": null
 }
