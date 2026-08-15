@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.votesjc.gov/find-my-polling-place"
   ],
-  "http_status": 200,
-  "content_type": "text/html;charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-15T12:38:56Z",
-  "html_sha256": "faf844ac4cdeeea4b25a145488fb1c640de5388762651542c7106ef5093faa39",
-  "text_sha256": "c52c226272927535b21ee721eb136e72202a59d86a2e1d37a1dee2c0837ea77a",
-  "byte_size": 128142,
-  "title": "Find Polling Place",
+  "fetched_at": "2026-08-15T15:21:52Z",
+  "html_sha256": "a146b463cf8376e58aeeb84e6ab324b9f2c9430a293c3249b398acd5a3b665c8",
+  "text_sha256": "1656b0fce17419931655f7414e8699064f7059675935986c0cf6b6613f9ebf70",
+  "byte_size": 188,
+  "title": "403 Forbidden",
   "error": null
 }
