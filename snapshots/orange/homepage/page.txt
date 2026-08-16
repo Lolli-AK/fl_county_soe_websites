@@ -1,6 +1,7 @@
 Orange County Supervisor of Elections | Karen Castor Dentel | Florida
 Skip to content
-Election Center:
+Election Center
+|
 Voter Turnout
 |
 Early Voting Wait Times
@@ -165,7 +166,7 @@ August 17 @ 6:00 pm
 Vote-by-Mail Opening & Processing (Primary Election)
 Read More
 Aug
-16
+17
 8:00 am
 –
 9:00 am
@@ -173,10 +174,10 @@ Public Viewing (Primary Election)
 Read More
 Aug
 17
-8:00 am
+10:00 am
 –
-9:00 am
-Public Viewing (Primary Election)
+12:00 pm
+Signature Observation (Primary Election)
 Read More
 View Calendar
 VOTER STATISTICS
