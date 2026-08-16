@@ -407,15 +407,15 @@ About Early Voting
 Vote by Mail Information
 As of
 8/16/26
-1,360,434
+1,360,329
 Eligible Voters
-589,878
+589,841
 Democrat
-315,011
+314,986
 Republican
-419,371
+419,331
 NPA
-36,174
+36,171
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.
