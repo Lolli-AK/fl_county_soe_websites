@@ -419,9 +419,9 @@ Use the
 Voter Information Search Tool
 to check your information & status.
 Calendar
-Early Voting
-2026-08-08
-Early voting will be in our office from August 8th-August 15th. We will be open from 8:00am-4:00pm.
+VBM Ballots
+2026-08-06
+Thursday, August 6th is the last day to request a Vote-By-Mail ballot to be mailed for the August 18th, 2026 Primary Election.
 View All Upcoming Events
 News & Announcements
 Poll Worker Recruitment
@@ -435,7 +435,7 @@ Where can I get a sample ballot?
 Sample ballots are published in the local newspaper before each election. We post sample ballots on our Web site, too, and copies will be available in our office.
 View All FAQs
 Active Registered Voters
-As of 08/07/2026
+As of 08/06/2026
 Democrats
 0
 Republicans
