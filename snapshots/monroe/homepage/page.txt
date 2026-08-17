@@ -339,11 +339,11 @@ Active Registered Voters
 Democratic
 14,738
 Republican
-25,143
+25,141
 Others
-14,857
+14,856
 Total
-54,738
+54,735
 Last updated 2026-08-17
 Election Night Results
 August 18, 2026 - Primary Election

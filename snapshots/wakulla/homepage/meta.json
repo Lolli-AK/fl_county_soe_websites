@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-17T09:42:55Z",
-  "html_sha256": "c1775492ccfc750da624da6dc4df417f94eec7228da4edaa799cd016ee4d3bf9",
-  "text_sha256": "7216a869d885c13ccfbbb39439e52cbd61b4823f116d4799e7c86157e11d8451",
-  "byte_size": 96235,
+  "fetched_at": "2026-08-17T12:45:35Z",
+  "html_sha256": "0ce749fb6fe09286edc978724fae9b20967dccdc165abb1ec7f32324cbd6ec59",
+  "text_sha256": "c87a12200d45cc7f2620b24d87d21f38479374128f9cbf424e32eb8c8c172daa",
+  "byte_size": 96571,
   "title": "Wakulla County Supervisor of Elections",
   "error": null
 }
