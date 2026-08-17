@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-17T03:51:17Z",
-  "html_sha256": "696761da9f3adb82b6b91f5f3e214065d0ced0e3c457908c4eb1360d23738c41",
+  "fetched_at": "2026-08-17T06:57:29Z",
+  "html_sha256": "8b78081aba350500ac02d20f2b62168ff5883f4ca0ce2e80b9ec222375c48ca7",
   "text_sha256": "24667fd19a00a4097c316c6580c06c34c30fdb339af85705eba4e93af53b824a",
-  "byte_size": 150083,
+  "byte_size": 150087,
   "title": "Election Dates",
   "error": null
 }
