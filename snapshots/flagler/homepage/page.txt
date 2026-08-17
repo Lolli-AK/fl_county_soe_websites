@@ -121,6 +121,12 @@ the early voting site may not be your assigned precinct.
 Florida law states you must vote in the precinct where you live. Any voter who refuses to go to their assigned precinct on Election Day will be issued a provisional ballot.
 Do you know where to vote? Use our Precinct Finder and know before you go!
 Find My Precinct
+Do you still have your mail ballot?
+It's too late to mail your ballot! Mail ballots
+cannot
+be returned to polling places on Election Day. Bring your voted mail ballot directly to the Elections Office on Election Day before 7:00 PM.
+Return your voted mail ballot directly to the Elections Office no later than 7:00 PM on August 18, 2026.
+Mail Ballot Return
 View turnout details by party and vote type here:
 View Live Election Turnout
 Why Should I Vote in the Primary?

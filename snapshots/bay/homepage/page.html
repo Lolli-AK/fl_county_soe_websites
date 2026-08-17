@@ -819,6 +819,13 @@
     <div class="bg-white static" id="content" role="main">
      <div class="bg-[#F5F5F5]">
       <section class="w-full h-[47vh] lg:h-[87vh] relative z-10 transition-all duration-1000 grow bg-[#F5F5F5]">
+       <div :class="{
+  'pt-28 sm:pt-28 md:pt-32 lg:pt-32': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+  'pt-28 sm:pt-20 md:pt-28 lg:pt-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+}" class="w-full relative z-20 border-b-4 border-white" v-cloak="">
+        <alerts>
+        </alerts>
+       </div>
        <div class="absolute w-full h-[500px] md:h-[60vh] lg:h-screen top-0 z-0 transition-all duration-500">
         <div aria-label="us flag on the beach" class="w-full h-full lg:hidden bg-cover bg-right z-0 bg-gray-800" role="img">
         </div>
@@ -1253,7 +1260,7 @@
                Supervisor of Elections
               </p>
               <p class="font-bold text-primary-light uppercase tracking-wide text-sm">
-               posted 1 hour ago
+               posted 4 hours ago
               </p>
              </div>
             </div>
@@ -1290,7 +1297,7 @@
          <div aria-hidden="true" class="w-full lg:w-1/2">
           <div class="h-full flex flex-wrap">
            <a aria-label="View link on Facebook (opens in a new tab)" class="block min-w-full max-w-3xl" href="https://www.facebook.com/photo.php" rel="noopener noreferrer" target="_blank">
-            <img alt="View Bay County Supervisor of Elections Facebook post" class="w-full" height="720" v-lazy="'https://scontent.xx.fbcdn.net/v/t39.30808-6/775572331_122226358868511924_482365334285117874_n.jpg?stp=dst-jpg_p720x720_tt6&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=CDih-3pLrHwQ7kNvwHAYI82&amp;_nc_oc=AdqXDASvXNfFPQN94jfVOZt3505kyJfKPsotY12fW6Ajwp6bQfc087GjaLqU-XIJ19Q&amp;_nc_zt=23&amp;_nc_ht=scontent.xx&amp;edm=AKIiGfEEAAAA&amp;_nc_gid=UN6lLxIt0ctj5lhRBbd_KQ&amp;_nc_tpa=Q5bMBQIekFtC74RJbcTXcwX5K2IFK_pEfb4uyd61DWZoQ9waJ8UoVuxSMHbxOxj9nwkVJAqFIugom7IB&amp;oh=00_AQGCtlICd6bvvc4qUQIjvZw9efPM3UU5kx4tcSMp6ySqrA&amp;oe=6A88FCC5'" width="859"/>
+            <img alt="View Bay County Supervisor of Elections Facebook post" class="w-full" height="720" v-lazy="'https://scontent.xx.fbcdn.net/v/t39.30808-6/775572331_122226358868511924_482365334285117874_n.jpg?stp=dst-jpg_p720x720_tt6&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=CDih-3pLrHwQ7kNvwHAYI82&amp;_nc_oc=AdqXDASvXNfFPQN94jfVOZt3505kyJfKPsotY12fW6Ajwp6bQfc087GjaLqU-XIJ19Q&amp;_nc_zt=23&amp;_nc_ht=scontent.xx&amp;edm=AKIiGfEEAAAA&amp;_nc_gid=CE_X23IYHqB5e-SJQqjazw&amp;_nc_tpa=Q5bMBQL4FIpKYiYVoyUI3Gi1vbQKM7YI3EUYQTWKim3hFe3Swlvdh2k-8sg7ma1_ojzpP1dlFQTsXvc9&amp;oh=00_AQE2DQrcYgglXE_y00ojRdIyXfudg7iUACRtR6yw_ukV8Q&amp;oe=6A893505'" width="859"/>
            </a>
           </div>
          </div>
