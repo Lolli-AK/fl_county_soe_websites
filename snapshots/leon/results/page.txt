@@ -150,7 +150,9 @@ PDF
 Excel
 Miscellaneous
 Early Voting Snapshot
-Available 08/08/2026
+Date Ascending
+|
+Date Descending
 Election Guide
 PDF
 Sample Ballot Repository

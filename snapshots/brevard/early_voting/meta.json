@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-17T12:45:35Z",
-  "html_sha256": "3291070d1040c16cac88d9dacaec632e43b0aec2f375622fa1834f0fbd4fe731",
-  "text_sha256": "93b2283df87046be99fd3c06b5373e424367b51abcb17ff07cd97d079e3e11c4",
-  "byte_size": 123502,
+  "fetched_at": "2026-08-17T15:26:19Z",
+  "html_sha256": "8ba7aaa73fa9dc79abcc13c9d0b7557f0f07e68ea93af7cceaef835a22d9cbb3",
+  "text_sha256": "877be867304ad6156a6e96b37f1a634d9a03440d1af717fdad3faa5343b45dc3",
+  "byte_size": 123464,
   "title": "Brevard County Supervisor of Elections > Election Information > Early Voting",
   "error": null
 }
