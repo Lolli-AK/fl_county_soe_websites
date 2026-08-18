@@ -7,13 +7,13 @@
     "https://votegadsdenfl.gov/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T01:17:08Z",
-  "html_sha256": "f1232c0e60f490ae3b12f36d35e1ba2a9227828347db2153dfba966757a3cda9",
-  "text_sha256": "2cfdcf3d3a775079b11dbd4961ac60c5d4e90b105bbf29aa05a9ecee6dc7b3a4",
-  "byte_size": 89329,
-  "title": "Gadsden County Supervisor of Elections – County government Office in Quincy, Florida",
+  "fetched_at": "2026-08-18T03:46:05Z",
+  "html_sha256": "1da2f6c2384fe567314bcd340a0091461dd9b68146ab24fb84bbcec41820d9ac",
+  "text_sha256": "94e35a08579c93e60586f1b9942c23969956910233dba781ce9ca5b17a80df0d",
+  "byte_size": 2395,
+  "title": "Gadsden County - Supervisor of Elections",
   "error": null
 }

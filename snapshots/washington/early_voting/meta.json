@@ -2,18 +2,19 @@
   "county": "Washington",
   "page_type": "early_voting",
   "requested_url": "https://wcsoe.gov/early-voting/",
-  "final_url": "https://wcsoe.gov/early-voting/",
+  "final_url": "https://static.wcsoe.gov/early-voting/",
   "redirect_chain": [
-    "https://wcsoe.gov/early-voting/"
+    "https://wcsoe.gov/early-voting/",
+    "https://static.wcsoe.gov/early-voting/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T01:17:08Z",
-  "html_sha256": "a24796de81456bfdcdbb92dcfa768bbb6f4db7e6907d799268088be90e4a560b",
-  "text_sha256": "208b74e000627bd292a5949c671a0dd8eefed0ef17a2c96787b50b7e14452394",
-  "byte_size": 59504,
-  "title": "Early Voting – Washington County (FL) Supervisor of Elections",
+  "fetched_at": "2026-08-18T03:46:05Z",
+  "html_sha256": "0eaa130d2c44104da20f93931c10226d82de1276899fc881bffc26ff2ed387c0",
+  "text_sha256": "c67245312d22f7b6a1284befc9e492aa8a3b96b7dfa809c34dd3f8bf25b50015",
+  "byte_size": 2313,
+  "title": "Washington County - Supervisor of Elections",
   "error": null
 }

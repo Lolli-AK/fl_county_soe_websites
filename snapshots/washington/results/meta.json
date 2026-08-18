@@ -2,18 +2,19 @@
   "county": "Washington",
   "page_type": "results",
   "requested_url": "https://wcsoe.gov/past-election-results/",
-  "final_url": "https://wcsoe.gov/past-election-results/",
+  "final_url": "https://static.wcsoe.gov/past-election-results/",
   "redirect_chain": [
-    "https://wcsoe.gov/past-election-results/"
+    "https://wcsoe.gov/past-election-results/",
+    "https://static.wcsoe.gov/past-election-results/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T01:17:08Z",
-  "html_sha256": "3d84beaef506fe0f1cb3fa01f91c226e1860436db0a3e464f04102dd10dad520",
-  "text_sha256": "b87f77775372c47a083c6e974815d67c0d1e46afe3ed4a6ea2e8cb7e64da4004",
-  "byte_size": 55593,
-  "title": "Past Election Results – Washington County (FL) Supervisor of Elections",
+  "fetched_at": "2026-08-18T03:46:05Z",
+  "html_sha256": "0eaa130d2c44104da20f93931c10226d82de1276899fc881bffc26ff2ed387c0",
+  "text_sha256": "c67245312d22f7b6a1284befc9e492aa8a3b96b7dfa809c34dd3f8bf25b50015",
+  "byte_size": 2313,
+  "title": "Washington County - Supervisor of Elections",
   "error": null
 }

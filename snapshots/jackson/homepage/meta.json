@@ -2,18 +2,19 @@
   "county": "Jackson",
   "page_type": "homepage",
   "requested_url": "https://votejacksonfl.gov/",
-  "final_url": "https://votejacksonfl.gov/",
+  "final_url": "https://static.votejacksonfl.gov/",
   "redirect_chain": [
-    "https://votejacksonfl.gov/"
+    "https://votejacksonfl.gov/",
+    "https://static.votejacksonfl.gov/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T01:17:08Z",
-  "html_sha256": "f4107b3b17214ec78a2f0a10357ffe421111a083700a2dc25af605d2582c2bfc",
-  "text_sha256": "62d78173585710a2573eae36cf591899b013f6061da94124f40acc362ef2341d",
-  "byte_size": 117887,
-  "title": "Jackson County (FL) Supervisor of Elections",
+  "fetched_at": "2026-08-18T03:46:05Z",
+  "html_sha256": "2f67b3b893a6f25e0a6e53a9a0ffd90bdaaf721ebbaa7809d40edf9d336569fd",
+  "text_sha256": "61b23efa9cfb7ff2452d9eeb5f16f63f2c7061a9cf1d9dcf93327368def62ac4",
+  "byte_size": 2664,
+  "title": "Jackson County - Supervisor of Elections",
   "error": null
 }

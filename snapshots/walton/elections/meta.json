@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://votewalton.gov/current-elections/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 404,
+  "content_type": null,
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-18T01:17:08Z",
-  "html_sha256": "617f266fce9361116fafa7b6d6aa2a4b649432b11de35f5d75e4af99bd2d53d6",
-  "text_sha256": "40f583179f921d1758995e6330e3ef8e2b460b38387c34e7edc03e131417d7b3",
-  "byte_size": 181814,
-  "title": "Elections – Walton County Supervisor of Election",
+  "fetched_at": "2026-08-18T03:46:05Z",
+  "html_sha256": "8e1544a0cf6af6de1f83336f3382198914d875075a95b99022e31967f40b331a",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 49,
+  "title": null,
   "error": null
 }
