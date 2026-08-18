@@ -1,28 +1,19 @@
 Orange County Supervisor of Elections | Karen Castor Dentel | Florida
 Skip to content
-SAMPLE BALLOTS:
-View sample ballots
-English
+Today is Primary Election Day:
+Election Center
 |
-Spanish
+Voter Turnout
 |
-Filipino
+Secure Ballot Intake Stations
 |
-Hindi
+Sample Ballots
 |
-Portuguese
+Track Your Mail Ballot
 |
-Vietnamese
+Check Your Voter Information
 |
-Simplified Chinese
-. To request a sample ballot in the mail, email us at
-sampleballot@voteorangefl.gov
-or call us at
-407-836-2070
-.
-EN
-|
-ES
+Livestream Schedule
 Register to Vote
 Search
 Search
@@ -139,11 +130,10 @@ Maps
 Sample Ballots
 Election Mail
 Submit A Public Records Request
-‹
-2026 Primary election center
+it’s primary election day!
 Orange County’s Election Center has everything you need for the
 2026 Primary Election
-, all in one place! Access your voter information, explore turnout updates, check Early Voting wait times, follow results on Election Night, and find important election resources to help you stay informed.
+, all in one place! Access your voter information, explore turnout updates, follow results on Election Night, and find important election resources to help you stay informed.
 Visit our election center
 HOW CAN WE HELP YOU?
 WHAT’S ON MY BALLOT?
@@ -157,107 +147,107 @@ Stay in the know.
 Here you’ll find all of the important dates for upcoming elections in Orange County, including registration deadlines, early voting windows, public meeting schedules, and more.
 Upcoming Events
 Aug
-3
-August 3 @ 9:00 am
+18
+7:00 am
 –
-August 16 @ 7:00 pm
-Early Voting (Primary Election)
+7:00 pm
+Election Day (Primary Election)
 Read More
 Aug
-3
-August 3 @ 9:00 am
+18
+9:00 am
 –
-August 17 @ 6:00 pm
+7:00 pm
 Vote-by-Mail Opening & Processing (Primary Election)
 Read More
 Aug
-7
-8:00 am
+18
+4:00 pm
 –
-9:00 am
-Public Viewing (Primary Election)
+7:00 pm
+Canvassing of Vote-by-Mail Ballots (Primary Election)
 Read More
 Aug
-10
-August 10 @ 10:00 am
+19
+August 19 @ 9:00 am
 –
-August 12 @ 12:00 pm
-Signature Observation (Primary Election)
+August 20 @ 6:00 pm
+Automated Audit Processing Continues (Primary Election)
 Read More
 View Calendar
 VOTER STATISTICS
 Registered Active Voters
-as of 08/05/2026
+as of 08/17/2026
 Switch to details
 Switch to summary
 Party
 Count
 Percentage
 Dem.
-312,514
-38.76%
+313,687
+38.79%
 Rep.
-225,490
-27.97%
+225,921
+27.93%
 Other
-31,421
+31,565
 3.90%
 NPA
-236,840
-29.37%
+237,568
+29.38%
 Total
-806,265
+808,741
 100%
 Party Name
 Count
 Florida Democratic Party
-312,514
+313,687
 NO PARTY AFFILIATION
-236,840
+237,568
 Republican Party Of Florida
-225,490
+225,921
 Independent Party of Florida
-17,925
+17,992
 Boricua Party
-2,798
+2,821
 Conservative Party of Florida
-2,451
+2,455
 Libertarian Party of Florida
-2,093
+2,096
 America First Party of Florida
-2,015
+2,041
 Constitution Party of Florida
-1,097
+1,100
 Coalition With A Purpose Party
-829
+833
 American Solidarity Party of Florida
-724
+728
 Green Party of Florida
-716
+717
 Ecology Party of Florida
-321
+325
 Party for Socialism and Liberation – Florida
-221
+223
 Florida Forward Party
-204
+206
 We the People Florida
-15
+16
 Jeffersonian Party of Florida
 6
 MGTOW Party
 6
 Total
-806,265
+808,741
 Vote By Mail Standing Request Totals
-as of 08/05/2026
+as of 08/17/2026
 Election Name
 Count
 2026 General Election
-96,595
+97,387
 2026 Primary Election
-97,271
+98,153
 Permanent VBM requests 2025-2026
-94,684
+95,424
 BY THE NUMBERS
 Get a quick snapshot of elections in Orange County. We highlight key statistics that capture the scale, accuracy, and impact of our election operations.
 8
@@ -269,6 +259,12 @@ Voting precincts ready to serve voters across Orange County.
 50,020
 Voters tracking their Vote-by-Mail ballot using BallotTrax.
 Latest News
+2026 Primary Election Polling Place Changes
+2026 Precinct NumberNew Polling PlacePrevious Polling PlaceType of Change115St Lukes United Methodist Church4851 S Apopka…
+READ MORE
+Supervisor of Elections Takes Steps to Ensure Accurate Ballot Tabulation
+A Limited Number of Ballots Identified for Additional Review All Affected Ballots Have Been Accounted…
+READ MORE
 2026 Primary Election Informational Sample Ballot Mailer
 Voters prepare for elections in different ways. For some, a Sample Ballot is a planning…
 READ MORE
@@ -280,12 +276,6 @@ Notice to Primary Election Democratic Voters Only A candidate in the race for th
 READ MORE
 Notice to the Voter – County Judge Group 21
 Notice to the Voter A candidate in the race for the office of County Judge…
-READ MORE
-Notice of Public Test of Tabulation Equipment – 2026 Primary Election
-NOTICE OF PUBLIC TEST OF VOTE TABULATING EQUIPMENT Pursuant to F.S. §101.5612(2), the Supervisor of…
-READ MORE
-Orange County Supervisor of Elections Announces Supervised Voting Schedule for August 18 Primary
-ORANGE COUNTY, Fla. ­­­— Orange County Supervisor of Elections Karen Castor Dentel today announced the…
 READ MORE
 VIEW MORE NEWS
 SUBMIT A PUBLIC RECORDS REQUEST

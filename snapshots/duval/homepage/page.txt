@@ -13,32 +13,20 @@ Where Do I Vote
 Vote-by-Mail
 My Voter Status
 Early Voting
-Countdown to Primary Election
-August 18, 2026
-Polls open at 7 a.m.
-75
-Days
-19
-Hours
-10
-Minutes
-As of:
-Democrats:
-Republicans:
-No Party Affiliation:
-Other:
-Total:
+Turnout Quick View
 News & Notices
-Press Releases
-Duval County Supervisor of Elections Featured in Audio Message to Voters
-August 5, 2026
-Last day to request a vote-by-mail ballot to be mailed is August 6
-August 3, 2026
-Early voting for the 2026 Primary Election begins August 7 and ends August 16
-July 27, 2026
+Press Release
+Primary Election and Special First Unitary Election is Today, Aug. 18
+August 18, 2026
+Primary Election and Special First Unitary Election Set for Tuesday, Aug. 18
+August 16, 2026
+Today Is the Final Day of Early Voting in Duval County
+August 16, 2026
+Duval County Early Voting Nightly Update for August 16, 2026
+August 16, 2026
 View All News
 /CivicAlerts.aspx
-Public Notices
+Public Notice
 2026 General Election Preparation Report
 2026 Primary Canvassing Board Notice
 2026 Primary Super Sampler
@@ -48,74 +36,6 @@ Polling Place Changes
 Temporary Polling Place Changes
 View All News
 /CivicAlerts.aspx
-Calendar
-August 2026
-Sun
-Mon
-Tue
-Wed
-Thu
-Fri
-Sat
-26
-27
-28
-29
-30
-31
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-1
-2
-3
-4
-5
-Thu, Aug. 6
-Election Center Tour for Grassroots Engagement
-Election Center Tour for Grassroots Engagement
-Read on...
-Thu, Aug. 6
-Deadline to request that a Vote-by-Mail Ballot be Mailed
-Deadline to request that a Vote-by-Mail Ballot be Mailed
-Read on...
-Fri, Aug. 7
-2026 Candidates and Political Committees - P6 Report Due
-2026 Candidates and Political Committees - P6 Report Due
-Read on...
-Thu, Aug. 13
-2026- Candidate and Political Committee Primary Contribution Deadline
-2026- Candidate and Political Committee Primary Contribution Deadline
-Read on...
-/Calendar.aspx
 Contact Us
 This form has been modified since it was saved. Please review all fields before submitting.
 * indicates a required field
@@ -148,7 +68,7 @@ Google reCAPTCHA Privacy Policy
 Google Terms of Service
 .
 OK
-Office Information
+Contact Us
 Main Office:
 105 E. Monroe Street, Jacksonville, FL 32202
 Elections Center:
@@ -161,11 +81,18 @@ Fax:
 904-255-3434
 Email Duval County Elections
 Submit an Election Public Records Request
+Your Elections Office
+Current Elections
+Maps
+Election Workers
+Candidate Services
+/QuickLinks.aspx
 Home
 Contact Us
 Accessibility
 Site Map
 Copyright Notices
+/QuickLinks.aspx
 Loading
 Loading
 Do Not Show Again

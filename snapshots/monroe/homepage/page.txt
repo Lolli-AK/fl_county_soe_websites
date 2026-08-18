@@ -1,259 +1,7 @@
 Home
-Press Option+1 for screen-reader mode, Option+0 to cancel
 Skip Navigation
 Official government website
 Search
-Select Language
-Abkhaz
-Acehnese
-Acholi
-Afar
-Afrikaans
-Albanian
-Alur
-Amharic
-Arabic
-Armenian
-Assamese
-Avar
-Awadhi
-Aymara
-Azerbaijani
-Balinese
-Baluchi
-Bambara
-Baoulé
-Bashkir
-Basque
-Batak Karo
-Batak Simalungun
-Batak Toba
-Belarusian
-Bemba
-Bengali
-Betawi
-Bhojpuri
-Bikol
-Bosnian
-Breton
-Bulgarian
-Buryat
-Cantonese
-Catalan
-Cebuano
-Chamorro
-Chechen
-Chichewa
-Chinese (Simplified)
-Chinese (Traditional)
-Chuukese
-Chuvash
-Corsican
-Crimean Tatar (Cyrillic)
-Crimean Tatar (Latin)
-Croatian
-Czech
-Danish
-Dari
-Dhivehi
-Dinka
-Dogri
-Dombe
-Dutch
-Dyula
-Dzongkha
-Esperanto
-Estonian
-Ewe
-Faroese
-Fijian
-Filipino
-Finnish
-Fon
-French
-French (Canada)
-Frisian
-Friulian
-Fulani
-Ga
-Galician
-Georgian
-German
-Greek
-Guarani
-Gujarati
-Haitian Creole
-Hakha Chin
-Hausa
-Hawaiian
-Hebrew
-Hiligaynon
-Hindi
-Hmong
-Hungarian
-Hunsrik
-Iban
-Icelandic
-Igbo
-Ilocano
-Indonesian
-Inuktut (Latin)
-Inuktut (Syllabics)
-Irish
-Italian
-Jamaican Patois
-Japanese
-Javanese
-Jingpo
-Kalaallisut
-Kannada
-Kanuri
-Kapampangan
-Kazakh
-Khasi
-Khmer
-Kiga
-Kikongo
-Kinyarwanda
-Kituba
-Kokborok
-Komi
-Konkani
-Korean
-Krio
-Kurdish (Kurmanji)
-Kurdish (Sorani)
-Kyrgyz
-Lao
-Latgalian
-Latin
-Latvian
-Ligurian
-Limburgish
-Lingala
-Lithuanian
-Lombard
-Luganda
-Luo
-Luxembourgish
-Macedonian
-Madurese
-Maithili
-Makassar
-Malagasy
-Malay
-Malay (Jawi)
-Malayalam
-Maltese
-Mam
-Manx
-Maori
-Marathi
-Marshallese
-Marwadi
-Mauritian Creole
-Meadow Mari
-Meiteilon (Manipuri)
-Minang
-Mizo
-Mongolian
-Myanmar (Burmese)
-Nahuatl (Eastern Huasteca)
-Ndau
-Ndebele (South)
-Nepalbhasa (Newari)
-Nepali
-NKo
-Norwegian
-Nuer
-Occitan
-Odia (Oriya)
-Oromo
-Ossetian
-Pangasinan
-Papiamento
-Pashto
-Persian
-Polish
-Portuguese (Brazil)
-Portuguese (Portugal)
-Punjabi (Gurmukhi)
-Punjabi (Shahmukhi)
-Quechua
-Qʼeqchiʼ
-Romani
-Romanian
-Rundi
-Russian
-Sami (North)
-Samoan
-Sango
-Sanskrit
-Santali (Latin)
-Santali (Ol Chiki)
-Scots Gaelic
-Sepedi
-Serbian
-Sesotho
-Seychellois Creole
-Shan
-Shona
-Sicilian
-Silesian
-Sindhi
-Sinhala
-Slovak
-Slovenian
-Somali
-Spanish
-Sundanese
-Susu
-Swahili
-Swati
-Swedish
-Tahitian
-Tajik
-Tamazight
-Tamazight (Tifinagh)
-Tamil
-Tatar
-Telugu
-Tetum
-Thai
-Tibetan
-Tigrinya
-Tiv
-Tok Pisin
-Tongan
-Tshiluba
-Tsonga
-Tswana
-Tulu
-Tumbuka
-Turkish
-Turkmen
-Tuvan
-Twi
-Udmurt
-Ukrainian
-Urdu
-Uyghur
-Uzbek
-Venda
-Venetian
-Vietnamese
-Waray
-Welsh
-Wolof
-Xhosa
-Yakut
-Yiddish
-Yoruba
-Yucatec Maya
-Zapotec
-Zulu
-Powered by
-Translate
 Monroe County
 FL
 Supervisor of Elections
@@ -337,19 +85,22 @@ Supervisor of Elections
 Monroe County
 Active Registered Voters
 Democratic
-14,716
+14,739
 Republican
-25,099
+25,141
 Others
-14,803
+14,856
 Total
-54,618
-Last updated 2026-08-06
+54,736
+Last updated 2026-08-18
 Election Night Results
 August 18, 2026 - Primary Election
 View Unofficial Results
 Monroe County Supervisor of Elections
 The Offical Website of Monroe Co FL Supervisor of Elections
+2026 Primary Election Day Precinct Results Will Be Reported Later Than Usual
+Monroe County voters should expect Election Day precinct results to be released later than in recent elections, Supervisor of Elections Sherri Hodies announced Friday. The delay applies only to ballots cast at precincts on Election Day. Early Voting and Vote-by-Mail results will be available by 7:30 p.m. on election night. For information, click below:
+Election Day Precinct Results Will Be Reported Later Than Usual
 Voter Registration
 If you would like to register to vote in Monroe County, or change or update your current registration, you can do that online here:
 or by downloading, completing and returning this registration form
@@ -387,13 +138,6 @@ Florida Department of State - Division of Elections Website
 .
 Monroe County Supervisor of Elections
 Actualizaciónes importantes/Important Updates
-*Early Voters voting at Big Pine Key Community Center*
-The elevator at the Big Pine Community Center Early Voting site is inoperable today (Monday 8/3/2026).
-We have been told that the work will be done tomorrow (Tuesday, August 4, 2026) and that they expect to have it up and running during the day tomorrow. However, we do not know for certain of this timing.
-We have four other early voting sites that voters can go to instead:
-Click here for Early Voting Locations
-Closest to Big Pine is the Key West Supervisor of Elections Office, but you can use any of the Early Voting Sites.
-We apologize for this inconvenience and can only hope the urgency that we have impressed upon the service contrator will be honored.
 IMPORTANTE/IMPORTANT!!
 Actualización importante: muestra de boleta/Important update: sample ballot
 Hours
@@ -408,16 +152,10 @@ during those Early Voting hours
 Upcoming Elections
 View Upcoming Elections
 Dates to Remember
-Logic & Accuracy (L&A) Testing
-7/28/2026 10:00 AM - 2:00 PM
 Early Voting for Primary Election
 8/3/2026 - 8/15/2026
-Last Day to Request a Vote-by-Mail Ballot to be mailed
-8/6/2026
 Canvassing of the Vote-by-Mail Ballots
-8/10/2026 - 8/13/2026
-Canvassing of the Vote-by-Mail Ballot Bad Signatures
-8/14/2026 9:00 AM - 5:00 PM
+8/10/2026 - 8/14/2026
 Primary Election
 8/18/2026 7:00 AM - 7:00 PM
 Reconciliation & Canvass Provisionals & Cures
@@ -432,6 +170,12 @@ Columbus Day - All Offices Closed
 10/12/2026
 Logic & Accuracy (L&A) Testing
 10/13/2026 10:00 AM - 2:00 PM
+Early Voting for General Election
+10/19/2026 - 10/31/2026
+Last Day to Request a Vote-by-Mail Ballot to be mailed
+10/22/2026
+Canvassing the Vote-by-Mail Ballots
+10/26/2026 - 10/30/2026
 View All
 The Honorable Sherri Hodies
 Supervisor of Elections,
@@ -495,6 +239,3 @@ Forms
 Search
 Search
 Search
-Original text
-Rate this translation
-Your feedback will be used to help improve Google Translate

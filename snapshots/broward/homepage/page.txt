@@ -1,262 +1,11 @@
 Home | Broward County Supervisor of Elections
 Skip to main content
-Select Language
-Abkhaz
-Acehnese
-Acholi
-Afar
-Afrikaans
-Albanian
-Alur
-Amharic
-Arabic
-Armenian
-Assamese
-Avar
-Awadhi
-Aymara
-Azerbaijani
-Balinese
-Baluchi
-Bambara
-Baoulé
-Bashkir
-Basque
-Batak Karo
-Batak Simalungun
-Batak Toba
-Belarusian
-Bemba
-Bengali
-Betawi
-Bhojpuri
-Bikol
-Bosnian
-Breton
-Bulgarian
-Buryat
-Cantonese
-Catalan
-Cebuano
-Chamorro
-Chechen
-Chichewa
-Chinese (Simplified)
-Chinese (Traditional)
-Chuukese
-Chuvash
-Corsican
-Crimean Tatar (Cyrillic)
-Crimean Tatar (Latin)
-Croatian
-Czech
-Danish
-Dari
-Dhivehi
-Dinka
-Dogri
-Dombe
-Dutch
-Dyula
-Dzongkha
-Esperanto
-Estonian
-Ewe
-Faroese
-Fijian
-Filipino
-Finnish
-Fon
-French
-French (Canada)
-Frisian
-Friulian
-Fulani
-Ga
-Galician
-Georgian
-German
-Greek
-Guarani
-Gujarati
-Haitian Creole
-Hakha Chin
-Hausa
-Hawaiian
-Hebrew
-Hiligaynon
-Hindi
-Hmong
-Hungarian
-Hunsrik
-Iban
-Icelandic
-Igbo
-Ilocano
-Indonesian
-Inuktut (Latin)
-Inuktut (Syllabics)
-Irish
-Italian
-Jamaican Patois
-Japanese
-Javanese
-Jingpo
-Kalaallisut
-Kannada
-Kanuri
-Kapampangan
-Kazakh
-Khasi
-Khmer
-Kiga
-Kikongo
-Kinyarwanda
-Kituba
-Kokborok
-Komi
-Konkani
-Korean
-Krio
-Kurdish (Kurmanji)
-Kurdish (Sorani)
-Kyrgyz
-Lao
-Latgalian
-Latin
-Latvian
-Ligurian
-Limburgish
-Lingala
-Lithuanian
-Lombard
-Luganda
-Luo
-Luxembourgish
-Macedonian
-Madurese
-Maithili
-Makassar
-Malagasy
-Malay
-Malay (Jawi)
-Malayalam
-Maltese
-Mam
-Manx
-Maori
-Marathi
-Marshallese
-Marwadi
-Mauritian Creole
-Meadow Mari
-Meiteilon (Manipuri)
-Minang
-Mizo
-Mongolian
-Myanmar (Burmese)
-Nahuatl (Eastern Huasteca)
-Ndau
-Ndebele (South)
-Nepalbhasa (Newari)
-Nepali
-NKo
-Norwegian
-Nuer
-Occitan
-Odia (Oriya)
-Oromo
-Ossetian
-Pangasinan
-Papiamento
-Pashto
-Persian
-Polish
-Portuguese (Brazil)
-Portuguese (Portugal)
-Punjabi (Gurmukhi)
-Punjabi (Shahmukhi)
-Quechua
-Qʼeqchiʼ
-Romani
-Romanian
-Rundi
-Russian
-Sami (North)
-Samoan
-Sango
-Sanskrit
-Santali (Latin)
-Santali (Ol Chiki)
-Scots Gaelic
-Sepedi
-Serbian
-Sesotho
-Seychellois Creole
-Shan
-Shona
-Sicilian
-Silesian
-Sindhi
-Sinhala
-Slovak
-Slovenian
-Somali
-Spanish
-Sundanese
-Susu
-Swahili
-Swati
-Swedish
-Tahitian
-Tajik
-Tamazight
-Tamazight (Tifinagh)
-Tamil
-Tatar
-Telugu
-Tetum
-Thai
-Tibetan
-Tigrinya
-Tiv
-Tok Pisin
-Tongan
-Tshiluba
-Tsonga
-Tswana
-Tulu
-Tumbuka
-Turkish
-Turkmen
-Tuvan
-Twi
-Udmurt
-Ukrainian
-Urdu
-Uyghur
-Uzbek
-Venda
-Venetian
-Vietnamese
-Waray
-Welsh
-Wolof
-Xhosa
-Yakut
-Yiddish
-Yoruba
-Yucatec Maya
-Zapotec
-Zulu
-Powered by
-Translate
 Main navigation
 Voters
 Register or Update
 Voter Info
 Vote By Mail Information
-Early Voting & Drop Boxes
+Early Voting & Ballot Return
 Election Day Precinct
 Sample Ballot and Status Notifications
 Voter Resources
@@ -276,6 +25,8 @@ General Information
 Results & Information
 Election Information
 Election Results Information
+August Election Unofficial Voter Turnout
+August Election Unofficial Vote-by-Mail Data
 Voter Registration Statistics Summary
 Voter Statistics
 Municipal Election
@@ -323,7 +74,7 @@ Poll Worker
 Register or Update
 Voter Info
 Vote by Mail
-Early Voting & Drop Boxes
+Early Voting & Ballot Return
 Election Day Precinct
 Sample Ballot and Status Notifications
 Announced Candidates
@@ -337,30 +88,33 @@ What is an Election Worker?
 Become an Election Worker
 Election Worker Portal
 Broward County
-Request Your Vote-By-Mail Ballot
-It’s not too late! Request your ballot and vote from home.
-Request Ballot
-Find an Early Voting Location
-Vote at a location convenient to your home or job - multiple sites available.
-Find Location
-Find Your Election Day Polling Place
-Locate your assigned neighborhood polling place for Election Day.
+Today is Election Day!
+Early Voting has ended.
+Vote at your assigned precinct today. You must be in line by 7:00 p.m. to vote.
 Find my Precinct
+Check Your Ballot Status
+Ensure your vote-by-mail ballot was received and counted.
+Check Status
+Election Results Coming Soon
+Results will be available after polls close at 7:00 PM on Election Day.
+View Results
 View Unofficial Turnout Statistics
-Unofficial voter turnout statistics for the August 18, 2026 Election
-View Stats
+Unofficial Turnout Statistics for the August 18, 2026 Election.
+All Stats
+VBM Stats
 Announcements
 August 18, 2026 Election - Important Information
+Early Voting Totals by Date and Location
 For Voter Information Lookup -
 Click Here
 For Personalized Sample Ballot -
 Click Here
-Unofficial Vote-by-Mail Data for the 2026 August Election
 Early Voting Flyer (Locations, Dates, and Hours)
-Secure Ballot Intake Stations (Drop Box) for the August 18, 2026 Election
+Secure Ballot Intake Stations for the August 18, 2026 Election
 Important Forms for Elections | Broward County Supervisor of Elections
 List of Polling Places for the August 18, 2026 Election
 List of Candidates for August Election
+Media Guide
 August 18, 2026 Election - Canvassing Board
 Canvassing Board Meeting Notice/Agenda in
 English
@@ -378,7 +132,6 @@ Spanish
 August Election Canvassing Board Meetings
 Legally Required Notices
 Potential Ineligibility Notices - Public Notice- 08/04/2026
-Potential Ineligibility Notices - Public Notice- 07/09/2026
 Notice of Special Election in Plantation Acres Improvement District Special Election in
 English
 /
@@ -396,6 +149,16 @@ View the 2026 Congressional Redistricting Interactive Map
 Election Preparation Report for the 2026 General Election
 Election Information
 Important Information about the 2026 elections, including registration deadlines and other important dates.
+November 3, 2026 Election – Canvassing Board
+Canvassing Board Schedule in
+English
+/
+Spanish
+View this profile on Instagram
+Broward County SOE
+(@
+browardvotes
+) • Instagram photos and videos
 Three Ways to Vote
 There are three safe and convenient ways to vote in Broward County
 this election. If you are a resident of Broward County, a U.S. Citizen
@@ -404,16 +167,10 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-8/6/26
-1,359,488
 Eligible Voters
-589,562
 Democrat
-314,730
 Republican
-419,083
 NPA
-36,113
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.
@@ -453,6 +210,3 @@ Accessibility
 Social Media Policy
 Privacy Policy
 Disclaimer
-Original text
-Rate this translation
-Your feedback will be used to help improve Google Translate

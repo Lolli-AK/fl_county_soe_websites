@@ -30,7 +30,7 @@ Fail-safe voting option
 Provisional Ballot Status
 Vote-by-Mail
 How to request and vote by mail
-Drop Boxes
+Secure Ballot Intake Stations
 Military and Overseas Voting
 Online Vote-by-Mail Request
 Voter ID
@@ -150,7 +150,9 @@ PDF
 Excel
 Miscellaneous
 Early Voting Snapshot
-Available 08/08/2026
+Date Ascending
+|
+Date Descending
 Election Guide
 PDF
 Sample Ballot Repository

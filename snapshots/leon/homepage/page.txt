@@ -30,7 +30,7 @@ Fail-safe voting option
 Provisional Ballot Status
 Vote-by-Mail
 How to request and vote by mail
-Drop Boxes
+Secure Ballot Intake Stations
 Military and Overseas Voting
 Online Vote-by-Mail Request
 Voter ID
@@ -156,8 +156,9 @@ View our
 Canvassing Calendar
 for information about Canvassing Board meeting and other activity.
 Did you know that voting is already underway? Visit our
-Turnout Quickview
-to check on how many ballots have been cast in the election so far.
+Turnout
+page to check on how many ballots have been cast in the election so far.
+Turnout QuickView
 Leon County Supervisor of Elections
 Mark S. Earley
 Leon County Supervisor of Elections

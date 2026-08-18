@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "26a07c25d5398501ed7fd4dafd2de47b1c094236c979c5ab718dbccf0bf15767",
-  "text_sha256": "35597911d964c5a006363d2b86e3d9916cfe1ab51329e8763378e4bfb537b520",
-  "byte_size": 118470,
+  "fetched_at": "2026-08-18T15:50:13Z",
+  "html_sha256": "84a50a836086b5f9cfb87bec458d7581351765a8aef6b53a25dd580066e1ec59",
+  "text_sha256": "93f44c0a7049c30f31da35c7844231d7eca4bef31ec680ad2c12492f95f3ef19",
+  "byte_size": 95063,
   "title": "Monroe County FL Supervisor of Elections > Elections > Upcoming Elections",
   "error": null
 }

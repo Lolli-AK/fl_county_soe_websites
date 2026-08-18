@@ -7,13 +7,13 @@
     "https://libertycountyflsoe.gov"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "c0ada612807c4aabd644f019b715bcb850d4731d98bc374ad97e74ddb506c6ab",
-  "text_sha256": "695ced9c63e38ffeda3a3426d3584239f801d09084567391322684fe6256b1a3",
-  "byte_size": 58788,
-  "title": "Liberty County (FL) Supervisor of Elections",
+  "fetched_at": "2026-08-18T15:50:13Z",
+  "html_sha256": "2f6b34715b5497f30a2f030d2ff9b22fe3afc875fa3cfa159ae8363eec8fc0e7",
+  "text_sha256": "4debe9696185bb0649370a1347711f7dcc948faed432d7e4840e794870e9fd7c",
+  "byte_size": 2408,
+  "title": "Liberty County - Supervisor of Elections",
   "error": null
 }

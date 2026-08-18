@@ -109,7 +109,10 @@ Elections
 Election Results
 Election Results
 Please choose from the list below. Results are listed from most current - 1996.
-82 Result(s) Found
+83 Result(s) Found
+2026 Primary Election Results
+Election Day: August 18, 2026
+Interactive Results for the 2026 Primary Election
 2026 City of Flagler Beach Election Results
 Election Day: March 3, 2026
 2026 City of Flagler Beach Election Summary Results
@@ -171,13 +174,6 @@ Election Day: November 8, 2022
 2022 General Election Official Precinct-Level Results Report
 (PDF, 263KB)
 2022 General Election Interactive Results
-2022 Primary Election Results
-Election Day: August 23, 2022
-2022 Primary Election Official Election Summary Results Report
-(PDF, 110KB)
-2022 Primary Election Official Precinct Level Results Report
-(PDF, 161KB)
-2022 Primary Election Interactive Results
 Page
 1
 2

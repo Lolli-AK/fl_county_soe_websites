@@ -155,11 +155,11 @@ FL Association of SOE
 FL Commission on Ethics
 Santa Rosa County
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 08/06/2026:
-Dem: 20,568
-Rep: 90,880
-Oth: 30,742
-Total: 142,190
+Active Registered Voters as of 08/18/2026:
+Dem: 20,615
+Rep: 91,076
+Oth: 30,823
+Total: 142,514
 Register to Vote/Update Voter Information
 My Status/Sample Ballots
 Vote By Mail
@@ -171,11 +171,13 @@ It is our goal to provide you with statistics, links to related election sites, 
 Thank you for taking the time to visit the website. It is a pleasure to provide you with the information you need to be an active participant in the elections process.
 The right to vote is one of the most fundamental liberties we enjoy as Americans and it is also one of our greatest civic responsibilities. Make freedom count. Register and vote.
 Tappie A. Villane, Supervisor of Elections Santa Rosa County
+2026 Primary Election Results
 Notice of General Election
 2026 Primary Sample Ballot
 Book Closing Announcement
-Canvassing Board Calendar
 Voter Status Checklist
+Canvassing Board Calendar
+CANCELLED- Thursday, August 13, 2026,10 a.m. Scanning of ballots into audit/tabulation system
 County Judge Seat 3
 On April 16, 2026, Judge Matt Gordon submitted his resignation letter from the First Judicial Circuit, County Judge Seat 3 effective April 17, 2026. Governor DeSantis accepted his resignation, and pursuant to Article V, Section 11(b) of the Florida Constitution, the Governor will now fill by appointment the vacancy created by this resignation, and the position is no longer up for election during the 2026 election cycle. The pre-filed candidates listed on the Candidate page will now file Termination Reports. As a result, that contest will not appear on the ballot in 2026.
 EVENTS
@@ -330,7 +332,7 @@ Primary Election Early Voting
 Primary Election Early Voting
 08/03/2026 - 08/15/2026
 8:30am - 4:30pm
-Scanning of Ballots into audit/tabulation system
+CANCELLED-Scanning of Ballots into audit/tabulation system
 8/13/2026 - 8/13/2026
 10:00am
 Santa Rosa County Supervisor of Elections Office
@@ -503,7 +505,7 @@ Primary Election Early Voting
 8:30am - 4:30pm
 Primary Election Early Voting
 8:30am - 4:30pm
-Scanning of Ballots into audit/tabulation system
+CANCELLED-Scanning of Ballots into audit/tabulation system
 10:00am
 Santa Rosa County Supervisor of Elections Office
 August 14, 2026

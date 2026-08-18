@@ -1,0 +1,51 @@
+county,pages_changed,pages_captured,lines_changed,lines_added,lines_removed,page_types_changed,Results posted,Precincts reporting,Translate widget (presentation),Turnout / ballots cast,Voter registration numbers,Party / registration breakdown,Election day / polling place,Early voting,Vote-by-mail / drop box,Sample ballot / candidates,Next-election pivot,Date / countdown change,Alert / notice banner,Provisional / cure,Canvassing board,Poll worker / staffing,Wait times / lines,Navigation / menu labels
+Alachua,2,5,5,3,2,homepage|results,0,0,0,1,0,0,0,1,0,0,2,2,0,0,0,0,0,0
+Baker,4,4,552,416,136,early_voting|homepage|polling|results,9,0,0,8,1,2,17,18,14,26,2,5,4,9,1,0,0,50
+Bay,5,5,56,39,17,early_voting|elections|homepage|polling|results,5,0,0,0,0,0,5,7,4,0,2,5,1,0,0,0,0,0
+Brevard,5,5,352,67,285,early_voting|elections|homepage|polling|results,1,0,0,0,0,0,26,4,12,0,0,25,0,12,1,0,0,0
+Charlotte,1,3,4,0,4,homepage,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0
+Citrus,1,5,3,3,0,homepage,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Collier,2,4,38,20,18,early_voting|homepage,0,0,0,0,1,0,4,3,2,0,0,12,1,0,4,0,0,0
+Columbia,1,5,12,12,0,results,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+DeSoto,2,5,26,16,10,early_voting|homepage,0,0,0,0,2,2,0,5,0,0,1,4,0,0,2,0,0,0
+Duval,5,5,284,59,225,early_voting|elections|homepage|polling|results,0,0,0,1,0,0,1,3,6,5,0,14,3,0,0,0,0,16
+Escambia,4,4,1089,921,168,early_voting|homepage|polling|results,24,16,0,28,0,0,26,25,25,62,43,70,11,1,0,8,0,69
+Flagler,3,5,68,42,26,early_voting|homepage|results,5,0,0,3,0,0,10,20,22,1,0,7,1,1,0,0,0,0
+Gilchrist,1,5,4,4,0,homepage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Glades,1,5,34,19,15,homepage,0,0,0,1,2,2,0,6,1,0,0,8,0,0,0,0,0,0
+Gulf,1,5,21,9,12,homepage,0,0,0,3,0,0,1,2,2,0,0,4,0,0,0,0,0,0
+Hamilton,1,5,22,13,9,homepage,2,0,0,0,0,0,0,2,0,2,0,7,0,0,0,0,0,0
+Hardee,1,4,10,5,5,homepage,0,0,0,0,2,2,0,0,0,0,0,2,0,0,0,0,0,0
+Hernando,1,5,20,10,10,homepage,1,0,0,0,0,0,4,1,2,0,0,8,1,0,2,0,0,0
+Highlands,5,5,45,31,14,early_voting|elections|homepage|polling|results,2,0,0,0,1,0,2,2,2,0,1,0,0,0,1,0,0,0
+Hillsborough,5,5,44,25,19,early_voting|elections|homepage|polling|results,0,0,0,2,0,0,8,5,6,0,0,12,2,0,2,0,0,0
+Indian River,1,5,13,12,1,homepage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jefferson,1,4,40,23,17,homepage,0,0,0,0,1,0,3,5,2,0,3,10,2,0,0,0,0,0
+Lake,4,4,24,7,17,early_voting|elections|homepage|polling,0,0,0,4,0,0,2,0,8,0,0,6,0,0,2,0,0,0
+Lee,1,5,45,21,24,homepage,2,0,0,1,0,0,7,5,19,0,1,3,0,0,1,0,0,0
+Leon,5,5,23,13,10,early_voting|elections|homepage|polling|results,0,0,0,3,0,0,0,0,7,0,0,1,0,0,0,0,0,0
+Levy,1,5,27,15,12,homepage,2,0,0,0,0,0,1,2,0,0,1,11,2,0,0,0,0,0
+Madison,1,5,10,3,7,homepage,0,0,0,0,0,0,0,2,0,2,1,5,0,0,0,0,0,0
+Manatee,1,5,53,45,8,homepage,3,0,0,3,0,0,3,0,1,0,0,2,1,0,0,0,0,0
+Marion,1,5,20,11,9,homepage,0,0,0,0,0,0,0,1,4,0,0,8,1,0,5,0,0,0
+Martin,2,5,73,33,40,elections|homepage,0,0,0,0,0,0,4,16,2,0,0,0,7,0,2,0,0,0
+Miami-Dade,5,5,37,32,5,early_voting|elections|homepage|polling|results,15,0,0,5,0,0,5,2,0,6,0,11,0,0,0,0,0,0
+Nassau,1,5,26,13,13,homepage,0,0,0,0,0,0,2,0,6,2,0,0,0,0,0,2,0,0
+Okaloosa,1,5,18,8,10,homepage,0,0,0,0,0,0,3,3,0,1,0,7,4,0,1,0,0,0
+Okeechobee,5,5,149,68,81,early_voting|elections|homepage|polling|results,2,0,0,2,21,40,4,5,3,0,0,27,0,0,0,0,0,0
+Osceola,5,5,43,28,15,early_voting|elections|homepage|polling|results,30,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,0
+Palm Beach,5,5,60,30,30,early_voting|elections|homepage|polling|results,0,0,0,2,0,0,8,6,8,0,2,14,1,0,4,1,0,0
+Pasco,5,5,41,26,15,early_voting|elections|homepage|polling|results,0,0,0,0,0,0,4,0,12,0,0,2,0,0,0,0,0,0
+Pinellas,1,5,12,6,6,homepage,0,0,0,0,0,0,0,1,1,0,0,8,0,0,3,0,0,0
+Polk,2,3,18,7,11,homepage|polling,2,0,0,0,0,0,3,2,2,0,0,3,0,0,0,0,0,0
+Putnam,5,5,26,26,0,early_voting|elections|homepage|polling|results,0,0,0,0,0,0,3,0,2,0,0,1,1,0,9,0,0,0
+Santa Rosa,1,5,18,10,8,homepage,1,0,0,0,2,2,0,0,0,0,0,3,0,0,7,0,0,0
+Sarasota,2,5,39,13,26,early_voting|homepage,0,0,0,3,0,0,0,4,4,0,1,3,0,0,0,0,1,0
+Seminole,5,5,119,71,48,early_voting|elections|homepage|polling|results,0,0,0,3,2,0,18,2,8,2,0,3,8,0,1,0,0,0
+St. Johns,2,5,6,4,2,elections|homepage,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+St. Lucie,5,5,30,14,16,early_voting|elections|homepage|polling|results,6,0,0,0,0,0,0,1,1,0,1,4,0,0,0,0,0,3
+Sumter,1,4,10,4,6,homepage,1,0,0,1,0,0,0,1,0,0,0,3,0,0,0,0,0,0
+Suwannee,1,5,17,10,7,homepage,3,0,0,0,0,0,0,2,0,0,1,5,0,0,0,0,0,0
+Taylor,1,5,23,10,13,homepage,0,0,0,0,0,0,0,4,2,0,1,9,4,0,0,0,0,0
+Union,1,5,15,8,7,homepage,2,0,0,0,2,0,0,1,0,0,0,3,0,0,0,0,0,0
+Volusia,2,4,67,40,27,early_voting|homepage,1,0,0,1,2,0,11,4,2,0,0,8,0,0,0,0,0,0

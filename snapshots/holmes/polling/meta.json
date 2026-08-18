@@ -2,18 +2,19 @@
   "county": "Holmes",
   "page_type": "polling",
   "requested_url": "https://holmeselectionsfl.gov/voter-information/where-to-vote/",
-  "final_url": "https://holmeselectionsfl.gov/voter-information/where-to-vote/",
+  "final_url": "https://static.holmeselectionsfl.gov/voter-information/where-to-vote/",
   "redirect_chain": [
-    "https://holmeselectionsfl.gov/voter-information/where-to-vote/"
+    "https://holmeselectionsfl.gov/voter-information/where-to-vote/",
+    "https://static.holmeselectionsfl.gov/voter-information/where-to-vote/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "8a6513303a513f5691ae6400670fab420051f9c506a679b19e50ea42707c1239",
-  "text_sha256": "cb3110aa913bed06f3b2c82fe6d29d55576dc377fe0be7b037fd399dc0f7850c",
-  "byte_size": 91507,
-  "title": "Where to Vote – Holmes County Supervisor of Elections",
+  "fetched_at": "2026-08-18T15:50:13Z",
+  "html_sha256": "c834a49be877ac3a601912b0bc53c0797c066e94543ed4cb81af101ea5de26a4",
+  "text_sha256": "0b5225ae05312fa33d623b06334c0214b17d93eaac090442a906c2d251193158",
+  "byte_size": 2585,
+  "title": "Holmes County - Supervisor of Elections",
   "error": null
 }

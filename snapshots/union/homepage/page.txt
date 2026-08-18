@@ -146,6 +146,9 @@ City of Lake Butler
 City of Worthington Springs
 Contact Us
 Search Website
+Election Results
+Primary Election
+View Results
 Check Voter Status
 (opens in a new tab)
 Register to Vote
@@ -162,15 +165,15 @@ Early Voting
 (opens in a new tab)
 Voting Locations
 (opens in a new tab)
-Active Registered Voters (08/05/2026)
+Active Registered Voters (08/17/2026)
 Democrats
-1,496
+1,498
 Republicans
-4,966
+4,960
 Other
-827
+829
 Total
-7,289
+7,287
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -191,8 +194,6 @@ Toll Free
 +1 (866) 308-6739
 Dates to Remember
 All Upcoming Dates
-August 8, 2026
-Early Voting for the Primary Election.
 September 19, 2026
 Mail Ballot ‘Send’ Deadline (45-day deadline before election) for UOCAVA voters for the General Election.
 September 24, 2026

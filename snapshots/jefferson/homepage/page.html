@@ -716,13 +716,6 @@
      </div>
     </div>
     <main class="bg-white static" id="content">
-     <div :class="{
-  'pt-28 sm:pt-28 md:pt-32 lg:pt-32': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
-  'pt-28 sm:pt-20 md:pt-28 lg:pt-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
-}" class="w-full relative lg:absolute z-20 border-b-4 border-white" v-cloak="">
-      <alerts>
-      </alerts>
-     </div>
      <section class="w-full h-[47vh] lg:h-[87vh] relative z-10 transition-all duration-1000 grow bg-gray-100">
       <div class="absolute w-full h-[500px] md:h-[60vh] lg:h-screen top-0 z-0 transition-all duration-500">
        <div alt="building" aria-label="building" class="w-full h-full lg:hidden bg-cover bg-center z-0 bg-gray-800" role="img">
@@ -856,7 +849,7 @@
       <h2 class="flex text-white font-bold uppercase text-2xl md:text-4xl justify-center items-center gap-4 lg:gap-12" tabindex="0">
        Voter Turnout
       </h2>
-      <div class="w-full max-w-7xl mx-auto text-center md:p-8 my-8 h-[600px] border-8 border-gray-300 bg-white">
+      <div class="w-full max-w-7xl mx-auto text-center md:p-8 my-8 h-[650px] lg:h-[670px] border-8 border-gray-300 bg-white">
       </div>
      </section>
      <section class="relative pb-6 bg-cover bg-blend-multiply" v-lazy:background-image="'/images/tan-dots.svg'">
@@ -941,14 +934,6 @@
           </h2>
          </div>
          <div class="bg-secondary-light overflow-hidden pb-6 border border-secondary-dark">
-          <a class="flex flex-col hover:scale-105 relative transition-all duration-500 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://jeffersonvotesfl.gov/events/early-voting-primary-election/" tabindex="0">
-           <p class="text-primary-dark font-heading text-2xl md:text-3xl">
-            Aug 3, 2026 8:00am
-           </p>
-           <h3 class="md:text-lg lg:text-[22px] text-[#464646] mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all afterduration-500">
-            Early Voting: Primary Election
-           </h3>
-          </a>
           <a class="flex flex-col hover:scale-105 relative transition-all duration-500 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://jeffersonvotesfl.gov/events/mail-ballot-send-deadline-for-absentee-and-overseas-voters-general-election/" tabindex="0">
            <p class="text-primary-dark font-heading text-2xl md:text-3xl">
             Sep 19, 2026
@@ -963,6 +948,14 @@
            </p>
            <h3 class="md:text-lg lg:text-[22px] text-[#464646] mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all afterduration-500">
             Mail Ballot ‘Send’ Deadline (40-day deadline before election) for domestic voters for the General Election.
+           </h3>
+          </a>
+          <a class="flex flex-col hover:scale-105 relative transition-all duration-500 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://jeffersonvotesfl.gov/events/book-closing-general-election/" tabindex="0">
+           <p class="text-primary-dark font-heading text-2xl md:text-3xl">
+            Oct 5, 2026
+           </p>
+           <h3 class="md:text-lg lg:text-[22px] text-[#464646] mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all afterduration-500">
+            Book Closing Date for the General Election.
            </h3>
           </a>
          </div>
@@ -996,16 +989,16 @@
         </div>
        </div>
        <div class="not-prose">
-        <a aria-label="Read full announcement, Early Voting Continues Through August 15!" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://jeffersonvotesfl.gov/announcements/early-voting-continues-through-august-15/" role="link" tabindex="0">
+        <a aria-label="Read full announcement, Early Voting Continues Daily - 8am to 5pm - through August 15th" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://jeffersonvotesfl.gov/announcements/early-voting-continues-daily-8am-to-5pm-through-august-15th/" role="link" tabindex="0">
          <div class="relative z-10 xl:pr-12">
           <span class="text-accent text-lg font-extrabold uppercase">
-           August 4, 2026
+           August 9, 2026
           </span>
           <p class="text-primary-dark font-heading text-3xl md:text-4xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
-           Early Voting Continues Through August 15!
+           Early Voting Continues Daily - 8am to 5pm - through August 15th
           </p>
           <p class="font-semibold text-gray-800 text-pretty mt-2">
-           Early Voting for the August 18, 2026, Primary Election is now taking place at the…
+           Early Voting continues at the Supervisor of Elections Office, 8am-5pm daily through August 15th. 1175…
           </p>
          </div>
          <span class="flex-none whitespace-nowrap btn-simple border-primary-dark bg-primary-dark group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
@@ -1014,16 +1007,16 @@
          <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300">
          </div>
         </a>
-        <a aria-label="Read full announcement, Last day to request a Vote-by-Mail ballot for Primary - Aug. 6" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://jeffersonvotesfl.gov/announcements/last-day-to-request-a-vote-by-mail-ballot-for-primary-aug-6/" role="link" tabindex="0">
+        <a aria-label="Read full announcement, 2026 General Election Preparation Report per F.S. 100.032" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://jeffersonvotesfl.gov/announcements/2026-general-election-preparation-report-per-f-s-100-032/" role="link" tabindex="0">
          <div class="relative z-10 xl:pr-12">
           <span class="text-accent text-lg font-extrabold uppercase">
-           July 28, 2026
+           August 9, 2026
           </span>
           <p class="text-primary-dark font-heading text-3xl md:text-4xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
-           Last day to request a Vote-by-Mail ballot for Primary - Aug. 6
+           2026 General Election Preparation Report per F.S. 100.032
           </p>
           <p class="font-semibold text-gray-800 text-pretty mt-2">
-           The last day to request a Vote-by-Mail Ballot to be mailed for the August 18,…
+           Florida Statute 100.032 requires every county supervisor of elections to post an election preparation report…
           </p>
          </div>
          <span class="flex-none whitespace-nowrap btn-simple border-primary-dark bg-primary-dark group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
@@ -1032,16 +1025,16 @@
          <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300">
          </div>
         </a>
-        <a aria-label="Read full announcement, VOTER ELIGIBILITY NOTICE" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://jeffersonvotesfl.gov/announcements/voter-eligibility-notice-5/" role="link" tabindex="0">
+        <a aria-label="Read full announcement, Voter’s Guide to Judicial Retention Races" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://jeffersonvotesfl.gov/announcements/voters-guide-to-judicial-retention-races/" role="link" tabindex="0">
          <div class="relative z-10 xl:pr-12">
           <span class="text-accent text-lg font-extrabold uppercase">
-           July 13, 2026
+           August 9, 2026
           </span>
           <p class="text-primary-dark font-heading text-3xl md:text-4xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
-           VOTER ELIGIBILITY NOTICE
+           Voter’s Guide to Judicial Retention Races
           </p>
           <p class="font-semibold text-gray-800 text-pretty mt-2">
-           Notice hereby given: Terence Wilson 7583 W Lake Rd Monticello, FL 32344   You are…
+           With the 2026 general election rapidly approaching, The Florida Bar has updated its voter education…
           </p>
          </div>
          <span class="flex-none whitespace-nowrap btn-simple border-primary-dark bg-primary-dark group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
@@ -1080,26 +1073,42 @@
               Jefferson County Supervisor of Elections - Michelle Milligan
              </p>
              <p class="font-semibold text-primary-dark/50">
-              posted 15 hours ago
+              posted 1 hour ago
              </p>
             </div>
            </div>
            <div class="relative grow overflow-hidden w-full">
             <div class="w-full py-6 prose md:prose-lg dark:prose-invert max-w-none text-pretty prose-a:break-words" tabindex="0">
              <p>
-              🎉 **Congratulations to a First-Time Voter!** 🎉
+              🗳️🇺🇸 **IT’S ELECTION DAY, JEFFERSON COUNTY!**
               <br/>
               <br/>
-              One of the most rewarding parts of every election is welcoming first-time voters to the polls!
+              The polls are officially OPEN for the **August 18, 2026 Primary Election!**
               <br/>
               <br/>
-              Congratulations to this first-time voter on casting her very first ballot. Thank you for participating in the election process and making your voice heard.
+              ⏰ **Polls are open from 7:00 a.m. until 7:00 p.m.**
               <br/>
               <br/>
-              Whether it's your first election or you've been voting for years, we look forward to serving every voter who walks through our doors.
+              Remember, on Election Day you must vote at your **assigned polling place**.
               <br/>
               <br/>
-              Thank you for allowing us to share this special milestone, and congratulations again!
+              Not sure where you vote? Visit **
+              <a href="http://JeffersonVotesFL.gov**" target="_blank" title="JeffersonVotesFL.gov**">
+               JeffersonVotesFL.gov**
+              </a>
+              or call our office at **850-997-3348** and we’ll be happy to help.
+              <br/>
+              <br/>
+              Our poll workers are trained, our polling places are ready, and our team is here to assist you throughout the day.
+              <br/>
+              <br/>
+              If you haven’t cast your ballot yet, make your plan and head to the polls!
+              <br/>
+              <br/>
+              To all of our poll workers who were up before the sun this morning and will be serving voters throughout Jefferson County today—**THANK YOU!**
+              <br/>
+              <br/>
+              It’s Election Day…let’s get to work! 🇺🇸
              </p>
             </div>
            </div>
@@ -1118,7 +1127,7 @@
          <div class="w-full lg:w-1/2">
           <div class="h-full flex flex-wrap">
            <a aria-label="View link on Facebook" class="block min-w-full max-w-3xl" href="https://www.facebook.com/photo.php" rel="noopener noreferrer" target="_blank">
-            <img alt="Photos shared on Facebook" class="w-full" height="900" v-lazy="'https://scontent.xx.fbcdn.net/v/t39.30808-6/766072067_1025722213789962_8971166907948693904_n.jpg?stp=dst-jpg_p720x720_tt6&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=90-WgIuUo70Q7kNvwFlYIfW&amp;_nc_oc=Ado64aGnsur4Fv_8jtePQTNdk5-03Lzmro5ebgVy16i2wutd3EjCvvs13LTP9-nnsus&amp;_nc_zt=23&amp;_nc_ht=scontent.xx&amp;edm=AKIiGfEEAAAA&amp;_nc_gid=viyN3a5ljzZdoddHdASwRQ&amp;_nc_tpa=Q5bMBQFFoDSwQwRTwmgt_tUJCatRHKIbC7yFJ1pt2WuzyZmWqV28kMw65x6j__musa53q36TgQmWaIMx&amp;oh=00_AQH0bsYnn51Ql_Oqdb0YQS0lZV4fyq3EIDY20yUNvUIcTw&amp;oe=6A7A339A'" width="720"/>
+            <img alt="Photos shared on Facebook" class="w-full" height="900" v-lazy="'https://scontent.xx.fbcdn.net/v/t39.30808-6/777447995_1036885119340338_76185750952992001_n.jpg?stp=dst-jpg_p720x720_tt6&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=WI0da3FYXH4Q7kNvwFguzYC&amp;_nc_oc=AdpHbHtdJfk3pZg5ZJcUqM_krNkOVOPDDyMDa3pSiBqVdGrB3fiNSr7YLdu_Tl5h54s&amp;_nc_zt=23&amp;_nc_ht=scontent.xx&amp;edm=AKIiGfEEAAAA&amp;_nc_gid=jqTSwvy_-4IncxeSzeGfIA&amp;_nc_tpa=Q5bMBQJ4wW3xd9fjgj-_k1705_2yyyL0U1zuZU1CRRgxQ2M4ObOU_k1wa0NIhzDJKfxB6xlKCO2TF62h&amp;oh=00_AQGedTuWCalj8uM0QBGo4qiP2V2uiWoaICRbRQ84V9X7zA&amp;oe=6A8A44F7'" width="720"/>
            </a>
           </div>
          </div>

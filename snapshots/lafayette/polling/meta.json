@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://lafayettevotes.net/where-do-i-vote/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 404,
+  "content_type": null,
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "bab2cf04f5b5820416ff64675512eb909d07d866e15ad7d37d8f614fdf362cbc",
-  "text_sha256": "5b5cc09098f2f8a2d1944a81a3e1118b0e25e34df23c8f08c657f044c66153d5",
-  "byte_size": 99099,
-  "title": "Where Do I Vote? – Lafayette County Supervisor of Elections",
+  "fetched_at": "2026-08-18T15:50:13Z",
+  "html_sha256": "8e1544a0cf6af6de1f83336f3382198914d875075a95b99022e31967f40b331a",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 49,
+  "title": null,
   "error": null
 }

@@ -2,18 +2,19 @@
   "county": "Dixie",
   "page_type": "homepage",
   "requested_url": "https://dixievotes.gov/",
-  "final_url": "https://dixievotes.gov/",
+  "final_url": "https://static.dixievotes.gov/",
   "redirect_chain": [
-    "https://dixievotes.gov/"
+    "https://dixievotes.gov/",
+    "https://static.dixievotes.gov/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "a28bd72a4ce6398031d58cd78c1d2b04cfc650d55f880b3f54de07e204bc64ee",
-  "text_sha256": "b01e171cc64d66c695cb77a4e080da9c2e3e4c693dfcb4edb720a3a2574e9d71",
-  "byte_size": 154503,
-  "title": "Dixie County Supervisor of Elections – Darbi Chaires",
+  "fetched_at": "2026-08-18T15:50:13Z",
+  "html_sha256": "7490cf29fb0a61cb21c484e4c6c1bfc8c318d0f73889c4ddfd77d7514c50e2e9",
+  "text_sha256": "24b01526b9ebb91ba525270ac66d2474d83e0204055ce2dfaa335519b597a262",
+  "byte_size": 2484,
+  "title": "Dixie County - Supervisor of Elections",
   "error": null
 }

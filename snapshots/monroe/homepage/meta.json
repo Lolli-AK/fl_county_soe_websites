@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "0ab0a221b6b949f727378caf38d2eafdc2ae22ddba9312badd0d2deef69b2aa6",
-  "text_sha256": "4cd13bca11f4b6770ea069485eb141fb0b516b5dc1ee69eb04cdd685b4226888",
-  "byte_size": 134265,
+  "fetched_at": "2026-08-18T15:50:13Z",
+  "html_sha256": "722b1f8f9d27e752f4d6c7935a4d0f37b083b0439a96b29d9d2908fb83705457",
+  "text_sha256": "de03964eae263d476272d149f8c2fafb6aa659728c78e489d3a03657d584e9ab",
+  "byte_size": 110454,
   "title": "Home",
   "error": null
 }

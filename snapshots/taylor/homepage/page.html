@@ -902,13 +902,6 @@
     <div aria-label="Page content" class="bg-white static" id="content" role="region">
      <div aria-label="main section" class="bg-secondary-light" role="main">
       <section class="w-full h-[52vh] lg:h-[87vh] relative z-10 transition-all duration-1000 grow bg-gray-100">
-       <div :class="{
-  'pt-28 sm:pt-28 md:pt-32 lg:pt-32': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
-  'pt-28 sm:pt-20 md:pt-28 lg:pt-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
-}" class="w-full relative z-20 border-b-4 border-white" v-cloak="">
-        <alerts>
-        </alerts>
-       </div>
        <div class="absolute w-full h-[500px] md:h-[60vh] lg:h-screen top-0 z-0 transition-all duration-500">
         <div alt="Seagulls flocking on the beach over the water." aria-label="Seagulls flocking on the beach over the water. – Decorative header image" class="w-full h-full lg:hidden bg-cover bg-center z-0 bg-gray-800" role="img">
         </div>
@@ -1048,7 +1041,7 @@
         Voter Turnout
         <img alt="" class="hidden sm:block sm:w-auto" height="31.17" role="presentation" v-lazy="'/images/blue-stars.svg'" width="127.33"/>
        </h2>
-       <div class="w-full max-w-7xl mx-auto text-center md:p-8 my-8 h-[600px] border-8 border-primary bg-white">
+       <div class="w-full max-w-7xl mx-auto text-center md:p-8 my-8 h-[650px] lg:h-[670px] border-8 border-primary bg-white">
        </div>
       </section>
       <section class="bg-secondary relative pb-6 bg-cover bg-blend-multiply" v-lazy:background-image="'/images/tan-dots.svg'">
@@ -1060,21 +1053,6 @@
             Upcoming Elections
            </h2>
            <img alt="" class="hidden sm:block sm:w-auto" height="31.17" role="presentation" v-lazy="'/images/red-stars.svg'" width="127.33"/>
-          </div>
-          <div class="p-4 md:p-8 bg-primary-dark mb-4 flex flex-col md:flex-row items-center relative gap-4" tabindex="0">
-           <div class="md:pr-4 grow text-center md:text-left" tabindex="0">
-            <p class="text-secondary-light font-bold">
-             Aug 18, 2026
-            </p>
-            <h3 class="text-white font-heading text-3xl md:text-4xl xl:text-5xl">
-             Primary Election
-            </h3>
-           </div>
-           <a class="btn-primary border-white bg-primary-dark hover:scale-105 hover:after:bg-white hover:bg-white hover:text-primary" href="https://www.taylorelectionsfl.gov/events/primary-election/" tabindex="0">
-            Election Info &amp; Dates
-           </a>
-           <div class="absolute inset-0 bg-right bg-no-repeat opacity-10" v-lazy:background-image="'/images/two-stars.svg'">
-           </div>
           </div>
           <div class="p-4 md:p-8 bg-primary-dark mb-4 flex flex-col md:flex-row items-center relative gap-4" tabindex="0">
            <div class="md:pr-4 grow text-center md:text-left" tabindex="0">
@@ -1143,14 +1121,6 @@
            <img alt="" class="hidden sm:block" role="presentation" v-lazy="'/images/red-stars.svg'"/>
           </div>
           <div class="bg-white overflow-hidden pb-6">
-           <a class="flex flex-col hover:scale-105 relative transition-all duration-500 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.taylorelectionsfl.gov/events/early-voting-primary-election/" tabindex="0">
-            <p class="text-accent font-heading text-2xl md:text-4xl" role="heading">
-             Aug 8, 2026 8:00am
-            </p>
-            <h3 class="text-primary-dark font-bold leading-tight font-condensed text-xl lg:text-2xl mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all afterduration-500">
-             Early Voting: Primary Election
-            </h3>
-           </a>
            <a class="flex flex-col hover:scale-105 relative transition-all duration-500 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.taylorelectionsfl.gov/events/mail-ballot-send-deadline-for-absentee-and-overseas-voters-general-election/" tabindex="0">
             <p class="text-accent font-heading text-2xl md:text-4xl" role="heading">
              Sep 19, 2026
@@ -1173,6 +1143,14 @@
             </p>
             <h3 class="text-primary-dark font-bold leading-tight font-condensed text-xl lg:text-2xl mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all afterduration-500">
              Book Closing Date for the General Election
+            </h3>
+           </a>
+           <a class="flex flex-col hover:scale-105 relative transition-all duration-500 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.taylorelectionsfl.gov/events/early-voting-general-election/" tabindex="0">
+            <p class="text-accent font-heading text-2xl md:text-4xl" role="heading">
+             Oct 24, 2026 8:00am
+            </p>
+            <h3 class="text-primary-dark font-bold leading-tight font-condensed text-xl lg:text-2xl mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all afterduration-500">
+             Early Voting: General Election
             </h3>
            </a>
           </div>
@@ -1206,6 +1184,42 @@
          </div>
         </div>
         <div class="not-prose">
+         <a aria-label="Read full announcement, Voter Eligibility Notice" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.taylorelectionsfl.gov/announcements/voter-eligibility-notice-4/" role="link" tabindex="0">
+          <div class="relative z-10 xl:pr-12">
+           <span class="text-accent text-lg font-extrabold uppercase" tabindex="0">
+            August 14, 2026
+           </span>
+           <p class="text-primary-dark font-heading text-3xl md:text-4xl lg:text-5xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
+            Voter Eligibility Notice
+           </p>
+           <p class="font-semibold text-gray-800 text-pretty mt-2" tabindex="0">
+            August 14, 2026 Legal Notice Pursuant to F.F.98.075, notice is hereby given to the following…
+           </p>
+          </div>
+          <span class="flex-none whitespace-nowrap btn-simple border-accent bg-accent group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
+           Read Full Announcement
+          </span>
+          <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300 bg-cover" v-lazy:background-image="'/images/two-stars.svg'">
+          </div>
+         </a>
+         <a aria-label="Read full announcement, 2026 Primary Election Early Voting Dates and Hours" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.taylorelectionsfl.gov/announcements/early-voting-august-8-august-15-800-am-500-pm/" role="link" tabindex="0">
+          <div class="relative z-10 xl:pr-12">
+           <span class="text-accent text-lg font-extrabold uppercase" tabindex="0">
+            August 7, 2026
+           </span>
+           <p class="text-primary-dark font-heading text-3xl md:text-4xl lg:text-5xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
+            2026 Primary Election Early Voting Dates and Hours
+           </p>
+           <p class="font-semibold text-gray-800 text-pretty mt-2" tabindex="0">
+            Early Voting starts August 8th and go all the way through August 15th, from 8:00…
+           </p>
+          </div>
+          <span class="flex-none whitespace-nowrap btn-simple border-accent bg-accent group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
+           Read Full Announcement
+          </span>
+          <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300 bg-cover" v-lazy:background-image="'/images/two-stars.svg'">
+          </div>
+         </a>
          <a aria-label="Read full announcement, Active Petition Signature Verification Report" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.taylorelectionsfl.gov/announcements/active-petition-signature-verification-report/" role="link" tabindex="0">
           <div class="relative z-10 xl:pr-12">
            <span class="text-accent text-lg font-extrabold uppercase" tabindex="0">
@@ -1252,42 +1266,6 @@
            </p>
            <p class="font-semibold text-gray-800 text-pretty mt-2" tabindex="0">
             With the 2026 general election rapidly approaching, The Florida Bar has updated its voter…
-           </p>
-          </div>
-          <span class="flex-none whitespace-nowrap btn-simple border-accent bg-accent group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
-           Read Full Announcement
-          </span>
-          <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300 bg-cover" v-lazy:background-image="'/images/two-stars.svg'">
-          </div>
-         </a>
-         <a aria-label="Read full announcement, Voter Eligibility Notice" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.taylorelectionsfl.gov/announcements/voter-eligibility-notice-2/" role="link" tabindex="0">
-          <div class="relative z-10 xl:pr-12">
-           <span class="text-accent text-lg font-extrabold uppercase" tabindex="0">
-            July 22, 2026
-           </span>
-           <p class="text-primary-dark font-heading text-3xl md:text-4xl lg:text-5xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
-            Voter Eligibility Notice
-           </p>
-           <p class="font-semibold text-gray-800 text-pretty mt-2" tabindex="0">
-            July 22, 2026 Legal Notice Pursuant to F.F.98.075, notice is hereby given to the following…
-           </p>
-          </div>
-          <span class="flex-none whitespace-nowrap btn-simple border-accent bg-accent group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
-           Read Full Announcement
-          </span>
-          <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300 bg-cover" v-lazy:background-image="'/images/two-stars.svg'">
-          </div>
-         </a>
-         <a aria-label="Read full announcement, Primary Election Deadline: Last day to request a Vote-by-Mail ballot" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.taylorelectionsfl.gov/announcements/primary-election-deadline-last-day-to-request-a-vote-by-mail-ballot/" role="link" tabindex="0">
-          <div class="relative z-10 xl:pr-12">
-           <span class="text-accent text-lg font-extrabold uppercase" tabindex="0">
-            July 21, 2026
-           </span>
-           <p class="text-primary-dark font-heading text-3xl md:text-4xl lg:text-5xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
-            Primary Election Deadline: Last day to request a Vote-by-Mail ballot
-           </p>
-           <p class="font-semibold text-gray-800 text-pretty mt-2" tabindex="0">
-            Primary Election Deadline: Last day to request a Vote-by-Mail ballot to be mailed is Thursday,…
            </p>
           </div>
           <span class="flex-none whitespace-nowrap btn-simple border-accent bg-accent group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">

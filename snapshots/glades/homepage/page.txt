@@ -96,11 +96,11 @@ Precinct Shape Files
 Precinct District Assignments
 Public Notices
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 08/06/2026:
-Dem: 1,414
-Rep: 4,056
-Oth: 1,308
-Total: 6,778
+Active Registered Voters as of 08/18/2026:
+Dem: 1,411
+Rep: 4,059
+Oth: 1,313
+Total: 6,783
 Register to Vote
 Election Dates
 Polling Location
@@ -115,6 +115,10 @@ ELECTION RESULTS
 PUBLIC NOTICE:
 Aletris Farnam is the custodian of Public Records. Email:
 [email protected]
+VBM Ballots Received
+484
+Uncounted
+0
 2026 Primary Election
 Turnout Quick View
 Election Night Results
@@ -189,6 +193,11 @@ Early Voting 8:30 AM - 4:30 PM
 8:30 AM - 4:30 PM
 998 S HWY 27, Moore Haven, FL 33471
 Early Voting will take place at the Rear Entrance of the Elections Office.
+Early Voting 8:30 AM - 4:30 PM
+08/08/2026 - 08/15/2026
+8:30 AM - 4:30 PM
+998 S HWY 27, Moore Haven, FL 33471
+Early Voting will take place at the Rear Entrance of the Elections Office.
 Lakeport Community Assoc. Mtg. & Potluck
 08/11/2026 - 08/11/2026
 6:00 PM
@@ -207,11 +216,6 @@ Muse Community Association Mtg. **Canceled for Summer**
 08/13/2026 - 08/13/2026
 6:00 PM
 3897 LOBLOLLY BAY RD, LABELLE, FL 33935
-Early Voting 8:30 AM - 4:30 PM
-08/08/2026 - 08/15/2026
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-Early Voting will take place at the Rear Entrance of the Elections Office.
 P7 Candidate Report Due
 8/14/2026 - 8/14/2026
 P7 Political Committee Report Due
@@ -284,23 +288,23 @@ Early Voting 8:30 AM - 4:30 PM
 8:30 AM - 4:30 PM
 998 S HWY 27, Moore Haven, FL 33471
 August 11, 2026
-Lakeport Community Assoc. Mtg. & Potluck
-6:00 PM
-1239 Red Barn Rd. Moore Haven, FL 33471
 Early Voting 8:30 AM - 4:30 PM
 8:30 AM - 4:30 PM
 998 S HWY 27, Moore Haven, FL 33471
+Lakeport Community Assoc. Mtg. & Potluck
+6:00 PM
+1239 Red Barn Rd. Moore Haven, FL 33471
 August 12, 2026
 Early Voting 8:30 AM - 4:30 PM
 8:30 AM - 4:30 PM
 998 S HWY 27, Moore Haven, FL 33471
 August 13, 2026
-Muse Community Association Mtg. **Canceled for Summer**
-6:00 PM
-3897 LOBLOLLY BAY RD, LABELLE, FL 33935
 Early Voting 8:30 AM - 4:30 PM
 8:30 AM - 4:30 PM
 998 S HWY 27, Moore Haven, FL 33471
+Muse Community Association Mtg. **Canceled for Summer**
+6:00 PM
+3897 LOBLOLLY BAY RD, LABELLE, FL 33935
 August 14, 2026
 P7 Candidate Report Due
 P7 Political Committee Report Due

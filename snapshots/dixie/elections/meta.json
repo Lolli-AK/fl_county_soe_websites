@@ -2,18 +2,19 @@
   "county": "Dixie",
   "page_type": "elections",
   "requested_url": "https://dixievotes.gov/election-information/",
-  "final_url": "https://dixievotes.gov/election-information/",
+  "final_url": "https://static.dixievotes.gov/election-information/",
   "redirect_chain": [
-    "https://dixievotes.gov/election-information/"
+    "https://dixievotes.gov/election-information/",
+    "https://static.dixievotes.gov/election-information/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "e13e6d5d04b2445505b9c9c8beae8ea79169b38934b1a1b40e988be48c969a23",
-  "text_sha256": "9e768bc9d67959570fbb442d4a5b143a05e9de23ac59b2feda9ff7018462cfee",
-  "byte_size": 116066,
-  "title": "Election Information – Dixie County Supervisor of Elections",
+  "fetched_at": "2026-08-18T15:50:13Z",
+  "html_sha256": "7490cf29fb0a61cb21c484e4c6c1bfc8c318d0f73889c4ddfd77d7514c50e2e9",
+  "text_sha256": "24b01526b9ebb91ba525270ac66d2474d83e0204055ce2dfaa335519b597a262",
+  "byte_size": 2484,
+  "title": "Dixie County - Supervisor of Elections",
   "error": null
 }

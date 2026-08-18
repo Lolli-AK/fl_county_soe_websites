@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "e7379607ff99af034aa99ae013a5c9bafa9d04f02bf2da73578db29d6f86e650",
-  "text_sha256": "6d0065900e1e6d26fb372e2c96be83a0aec3e16f59e94f2995062f6da7b15da3",
-  "byte_size": 40603,
+  "fetched_at": "2026-08-18T15:50:13Z",
+  "html_sha256": "31f7989289486a50c70603cea85d5a1d527b20522a34750bd9c91f25891871d5",
+  "text_sha256": "d1779826929f3f06838c434629dfdc7a7c151b716a3bbbaebafed4b3ea669660",
+  "byte_size": 41030,
   "title": "Gilchrist County Supervisor of Elections, FL",
   "error": null
 }

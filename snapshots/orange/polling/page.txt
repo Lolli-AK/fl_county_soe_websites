@@ -1,8 +1,5 @@
 Find Your Polling Place | Orange County Florida Voter Lookup
 Skip to content
-EN
-|
-ES
 Register to Vote
 Search
 Search
@@ -119,21 +116,42 @@ Maps
 Sample Ballots
 Election Mail
 Submit A Public Records Request
-‹
 Home
 /
 Find Your Polling Place
 Find Your Election Day Polling Place
+2026 Primary Election Temporary Polling Places Changes
+The following Election Day polling locations have temporarily changed for the Primary Election:
+Precinct
+2026 Primary Location
+Normal Location
+726
+Church in the Son
+4484 N John Young Pkwy
+Orlando, FL 32804
+Heart of Florida United Way
+1940 Cannery Way
+Orlando, FL 32804
+729
+Church on the Drive
+1914 Edgewater Drive
+Orlando, FL 32804
+Central Christian Church
+205 SW Ivanhoe Blvd
+Orlando, FL 32804
+Click here
+for a list of all 2026 polling place changes.
 Use the lookup tool below to find your assigned polling place for Election Day.
 Your polling place may have changed, and in many municipal or smaller elections, your assigned Election Day location can be different from the one you use during major countywide or statewide elections.
-To check your voter status, visit the
-Check Your Voter Info
-page. If you need help or can’t find your location, call us at
-407-836-2070
-.
 Having Trouble Viewing?
 Click here
 to open the Find Your Polling Place tool in a new window.
+Using This Tool
+Enter your house number in the
+House Number
+field. Then, begin typing your street name in the
+Street Name
+field. Your street name will automatically appear as you type. Select the correct street from the drop-down menu, and your information will appear. There is no enter button.
 This secure Find Your Polling Place tool is provided in partnership with our official elections software vendor, VR Systems, and is an authorized service of the Orange County Supervisor of Elections.
 Home
 About

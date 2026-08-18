@@ -2,18 +2,19 @@
   "county": "Dixie",
   "page_type": "polling",
   "requested_url": "https://dixievotes.gov/voter-resources/polling-places/",
-  "final_url": "https://dixievotes.gov/voter-resources/polling-places/",
+  "final_url": "https://static.dixievotes.gov/voter-resources/polling-places/",
   "redirect_chain": [
-    "https://dixievotes.gov/voter-resources/polling-places/"
+    "https://dixievotes.gov/voter-resources/polling-places/",
+    "https://static.dixievotes.gov/voter-resources/polling-places/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "15fd5d5874a33ccc6ad17a5fc3d9d918ef3ab65f57dae22c95f3c83663dd2b34",
-  "text_sha256": "7d5277bc9254a8fa1cd6cefaa60160f2633049c361ea749c5fd751302ed0c1ce",
-  "byte_size": 128067,
-  "title": "Polling Places – Dixie County Supervisor of Elections",
+  "fetched_at": "2026-08-18T15:50:13Z",
+  "html_sha256": "7490cf29fb0a61cb21c484e4c6c1bfc8c318d0f73889c4ddfd77d7514c50e2e9",
+  "text_sha256": "24b01526b9ebb91ba525270ac66d2474d83e0204055ce2dfaa335519b597a262",
+  "byte_size": 2484,
+  "title": "Dixie County - Supervisor of Elections",
   "error": null
 }

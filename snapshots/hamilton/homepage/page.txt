@@ -134,6 +134,9 @@ State
 County
 City
 Search Website
+Election Results
+Primary Election (8/18/2026)
+View Unofficial Results
 Check Voter Status
 Register to Vote
 Update My Info
@@ -144,15 +147,15 @@ Early Voting
 Sample Ballot
 Candidate Financial Reporting Login
 2026 Filed Candidates
-Voter Totals as of: 08/05/2026
+Voter Totals as of: 08/18/2026
 Democrats
-2,297
+2,296
 Republicans
-3,732
+3,746
 Other
-1,034
+1,040
 Total
-7,063
+7,082
 Voter Turnout
 Upcoming Elections
 Aug 18, 2026 7:00am
@@ -181,12 +184,12 @@ Office Closed in Observance of the New Year
 All Upcoming Dates
 Announcements & Notices
 View all News & Announcements
+August 9, 2026
+EARLY VOTING HAS STARTED
+2026 Primary Election  Early Voting Date: Aug 8, 2026 – Aug 15, 2026 Time:9:00 am…
+Read Full Announcement
 July 23, 2026
 2026 Primary Election Key Dates and Information
-Read Full Announcement
-July 22, 2026
-Official Sample Ballot
-Click here for Hamilton County's OFFICIAL SAMPLE Ballot Primary Election August 18, 2026
 Read Full Announcement
 View all News & Announcements
 Hamilton County, Florida
@@ -215,3 +218,4 @@ Accessibility Policy
 |
 Sitemap
 Site by KMA
+Secret Link

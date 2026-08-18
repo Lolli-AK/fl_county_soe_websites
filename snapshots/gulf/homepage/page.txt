@@ -127,23 +127,20 @@ Track My Ballot
 Early Voting
 Voting Locations
 Active Registered Voters
-(08/05/2026)
+(08/17/2026)
 Democrats
-2,250
+2,252
 Republicans
-7,150
+7,172
 No Party Affiliation
 1,282
 Other
-383
+381
 Total
-11,065
+11,087
+Voter Turnout
 Upcoming Elections
 All Upcoming Elections
-Primary Election
-August 18, 2026
-Election
-Info & Dates
 General Election
 November 3, 2026
 Election
@@ -151,8 +148,6 @@ Info & Dates
 All Upcoming Elections
 Dates to Remember
 All Upcoming Dates
-August 8, 2026
-Early Voting - Primary Election
 September 19, 2026
 Mail Ballot Deadline (UOCAVA Voters) – General Election
 September 24, 2026
@@ -165,7 +160,9 @@ All Upcoming Dates
 Stay Up to Date
 Gulf County Supervisor of Elections
 posted 2 days ago
-Remember... Your Vote by Mail ballot has to be received in our office by 7pm est on Election Day !
+EARLY VOTING has ended with 1,615 votes cast and 530 Vote By Mail ballots received. Visit
+votegulf.gov
+to see breakdown of ballots cast.
 View Facebook Post
 (opens in a new tab)
 Public Notices

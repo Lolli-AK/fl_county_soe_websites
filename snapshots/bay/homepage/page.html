@@ -5,12 +5,20 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
   <link href="/app.webmanifest" rel="manifest"/>
   <title>
-   Bay County Supervisor of Elections – Nina Ward
+   Bay County Supervisor of Elections | Nina Ward
   </title>
   <meta content="max-image-preview:large" name="robots"/>
   <link href="https://www.bayvotesfl.gov/wordpress/xmlrpc.php?rsd=" rel="EditURI" title="RSD" type="application/rsd+xml"/>
-  <link href="https://www.bayvotesfl.gov/" rel="canonical"/>
   <link href="https://www.bayvotesfl.gov/" rel="shortlink"/>
+  <link href="https://www.bayvotesfl.gov/" rel="canonical"/>
+  <meta content="Bay County FL elections, voter registration, sample ballots, polling locations, and election updates from the Supervisor of Elections." name="description"/>
+  <meta content="website" property="og:type"/>
+  <meta content="https://www.bayvotesfl.gov/" property="og:url"/>
+  <meta content="Bay County Supervisor of Elections | Nina Ward" property="og:title"/>
+  <meta content="Bay County FL elections, voter registration, sample ballots, polling locations, and election updates from the Supervisor of Elections." property="og:description"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="Bay County Supervisor of Elections | Nina Ward" name="twitter:title"/>
+  <meta content="Bay County FL elections, voter registration, sample ballots, polling locations, and election updates from the Supervisor of Elections." name="twitter:description"/>
  </head>
  <body class="home wp-singular page-template-default page page-id-6 wp-theme-kmatailwind">
   <div id="app">
@@ -811,6 +819,13 @@
     <div class="bg-white static" id="content" role="main">
      <div class="bg-[#F5F5F5]">
       <section class="w-full h-[47vh] lg:h-[87vh] relative z-10 transition-all duration-1000 grow bg-[#F5F5F5]">
+       <div :class="{
+  'pt-28 sm:pt-28 md:pt-32 lg:pt-32': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+  'pt-28 sm:pt-20 md:pt-28 lg:pt-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+}" class="w-full relative z-20 border-b-4 border-white" v-cloak="">
+        <alerts>
+        </alerts>
+       </div>
        <div class="absolute w-full h-[500px] md:h-[60vh] lg:h-screen top-0 z-0 transition-all duration-500">
         <div aria-label="us flag on the beach" class="w-full h-full lg:hidden bg-cover bg-right z-0 bg-gray-800" role="img">
         </div>
@@ -823,7 +838,24 @@
        </div>
       </section>
       <div class="relative z-30 mt-4 lg:-mt-[350px] xl:-mt-[450px] max-w-[1600px] mx-auto px-2 lg:px-12 mb-8">
-       <div class="h-2 md:h-28 xl:h-32">
+       <div class="mb-2 md:mb-6 relative z-10 max-w-screen-2xl mx-auto">
+        <div class="p-2 bg-white/30 backdrop-blur z-0 rounded-2xl">
+         <div class="flex flex-col md:flex-row justify-between items-center gap-4 relative z-10 p-8 md:px-12 rounded-xl bg-secondary">
+          <div class="text-center md:text-left pt-1" tabindex="0">
+           <h2 class="text-3xl lg:text-4xl uppercase font-bold text-primary subpixel-antialiased">
+            Election Results
+           </h2>
+           <span class="font-semibold text-lg md:text-2xl text-accent-light">
+            2026 Primary Election
+           </span>
+          </div>
+          <div class="flex items-center gap-4">
+           <a aria-label="View Election Results opens in a new tab" class="btn btn-primary" href="https://enr.electionsfl.org/BAY/4001/Summary/Scrolling/Banner/" target="_blank">
+            View Election Results
+           </a>
+          </div>
+         </div>
+        </div>
        </div>
        <div class="relative z-10 w-full">
         <div class="w-full max-w-screen-2xl mx-auto grid md:grid-cols-2 lg:grid-cols-3 gap-2 lg:gap-6">
@@ -1054,7 +1086,7 @@
        <div class="relative">
         <div alt="" class="red-ribbon-hp" role="presentation">
         </div>
-        <div class="w-full max-w-7xl mx-auto p-2 md:p-8 mt-2 mb-8 h-[600px] bg-white rounded-2xl lg:rounded-3xl overflow-hidden relative z-10">
+        <div class="w-full max-w-7xl mx-auto p-2 md:p-8 mt-2 mb-8 h-[650px] lg:h-[670px] bg-white rounded-2xl lg:rounded-3xl overflow-hidden relative z-10">
         </div>
        </div>
       </div>
@@ -1162,29 +1194,7 @@
          </div>
         </div>
        </div>
-       <div class="bg-secondary-light py-2 h-full">
-        <a class="flex flex-col hover:scale-95 relative transition-all duration-300 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.bayvotesfl.gov/events/mail-ballot-request-deadline/">
-         <p class="text-accent font-bold text-xl mb-0 pb-0 normal-case flex gap-2 items-center" role="heading">
-          <span class="relative z-0 inset-0 w-5 h-5 bg-center -mt-1.5">
-           <img class="size-full" role="presentation" v-lazy:src="'/images/star-headline.svg'"/>
-          </span>
-          Aug 6, 2026 5:00pm
-         </p>
-         <p class="font-medium subpixel-antialiased text-primary-dark leading-tight lg:text-lg lg:pr-12 text-pretty mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all after:duration-500">
-          The deadline to request a vote-by-mail ballot for the Primary Election.
-         </p>
-        </a>
-        <a class="flex flex-col hover:scale-95 relative transition-all duration-300 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.bayvotesfl.gov/events/early-voting-primary-election/">
-         <p class="text-accent font-bold text-xl mb-0 pb-0 normal-case flex gap-2 items-center" role="heading">
-          <span class="relative z-0 inset-0 w-5 h-5 bg-center -mt-1.5">
-           <img class="size-full" role="presentation" v-lazy:src="'/images/star-headline.svg'"/>
-          </span>
-          Aug 8, 2026
-         </p>
-         <p class="font-medium subpixel-antialiased text-primary-dark leading-tight lg:text-lg lg:pr-12 text-pretty mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all after:duration-500">
-          Early Voting Hours: 10AM-6PM
-         </p>
-        </a>
+       <div class="bg-secondary-light py-2 lg:pb-8">
         <a class="flex flex-col hover:scale-95 relative transition-all duration-300 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.bayvotesfl.gov/events/mail-ballot-send-deadline-for-absentee-and-overseas-voters-general-election/">
          <p class="text-accent font-bold text-xl mb-0 pb-0 normal-case flex gap-2 items-center" role="heading">
           <span class="relative z-0 inset-0 w-5 h-5 bg-center -mt-1.5">
@@ -1205,6 +1215,28 @@
          </p>
          <p class="font-medium subpixel-antialiased text-primary-dark leading-tight lg:text-lg lg:pr-12 text-pretty mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all after:duration-500">
           Mail Ballot ‘Send’ Deadline (40-day deadline before election) for domestic voters for the General Election.
+         </p>
+        </a>
+        <a class="flex flex-col hover:scale-95 relative transition-all duration-300 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.bayvotesfl.gov/events/book-closing-general-election/">
+         <p class="text-accent font-bold text-xl mb-0 pb-0 normal-case flex gap-2 items-center" role="heading">
+          <span class="relative z-0 inset-0 w-5 h-5 bg-center -mt-1.5">
+           <img class="size-full" role="presentation" v-lazy:src="'/images/star-headline.svg'"/>
+          </span>
+          Oct 5, 2026
+         </p>
+         <p class="font-medium subpixel-antialiased text-primary-dark leading-tight lg:text-lg lg:pr-12 text-pretty mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all after:duration-500">
+          Deadline to register to vote in the General Election.
+         </p>
+        </a>
+        <a class="flex flex-col hover:scale-95 relative transition-all duration-300 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-200 after:last:h-0" href="https://www.bayvotesfl.gov/events/mail-ballot-request-deadline-2/">
+         <p class="text-accent font-bold text-xl mb-0 pb-0 normal-case flex gap-2 items-center" role="heading">
+          <span class="relative z-0 inset-0 w-5 h-5 bg-center -mt-1.5">
+           <img class="size-full" role="presentation" v-lazy:src="'/images/star-headline.svg'"/>
+          </span>
+          Oct 22, 2026 5:00pm
+         </p>
+         <p class="font-medium subpixel-antialiased text-primary-dark leading-tight lg:text-lg lg:pr-12 text-pretty mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all after:duration-500">
+          The deadline to request a vote-by-mail ballot for the General Election
          </p>
         </a>
        </div>
@@ -1245,25 +1277,35 @@
                Supervisor of Elections
               </p>
               <p class="font-bold text-primary-light uppercase tracking-wide text-sm">
-               posted 20 hours ago
+               posted 3 hours ago
               </p>
              </div>
             </div>
             <div class="relative grow overflow-hidden w-full">
              <div class="w-full py-6 prose lg:prose-lg dark:prose-invert max-w-none text-pretty prose-a:break-words prose-p:font-medium prose-p:text-primary-dark" tabindex="0">
               <p>
-               Want to vote by mail? 📬📬📬 Make your request today!! The Vote-by-Mail request deadline is tomorrow, August 6th at 5:00pm for the 2026 Primary Election. Don't wait until the last minute to submit your request!!
+               🗳️🗳️Election Day is here!! This is your last chance to vote in the 2026 Primary Election!
                <br/>
                <br/>
-               ⭐️Request Online at:
+               📣You must go to your assigned polling place to vote.
                <br/>
-               <a href="https://www.bayvotesfl.gov/voters/vote-by-mail/" target="_blank" title="https://www.bayvotesfl.gov/voters/vote-by-mail/">
-                https://www.bayvotesfl.gov/voters/vote-by-mail/
+               Some precincts and polling places have changed. Visit:
+               <a href="https://www.bayvotesfl.gov/voters/where-to-vote-in-person/" target="_blank" title="https://www.bayvotesfl.gov/voters/where-to-vote-in-person/">
+                https://www.bayvotesfl.gov/voters/where-to-vote-in-person/
                </a>
+               to find your polling location.
                <br/>
-               ⭐️Call 850-784-6100 or
                <br/>
-               ⭐️Stop by the Supervisor of Elections Office
+               📣Polls are open 7:00am-7:00pm
+               <br/>
+               <br/>
+               📣Remember, bring acceptable photo and signature ID.
+               <br/>
+               <br/>
+               📣Note: The Bay County Supervisor of Elections office is not an Election Day polling location. No voting will take place at this location.
+               <br/>
+               <br/>
+               🗳️Your vote matters. Get out and vote.
               </p>
              </div>
             </div>
@@ -1285,7 +1327,7 @@
          <div aria-hidden="true" class="w-full lg:w-1/2">
           <div class="h-full flex flex-wrap">
            <a aria-label="View link on Facebook (opens in a new tab)" class="block min-w-full max-w-3xl" href="https://www.facebook.com/photo.php" rel="noopener noreferrer" target="_blank">
-            <img alt="View Bay County Supervisor of Elections Facebook post" class="w-full" height="720" v-lazy="'https://scontent.xx.fbcdn.net/v/t39.30808-6/765051159_122224967498511924_4102204692885576893_n.jpg?stp=dst-jpg_p720x720_tt6&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=DIj_6sZ-G28Q7kNvwEzGNc5&amp;_nc_oc=Ado7bg3RyzZEvXoZJB8qcbuPndrwv346satlkHkwqz2uQYHjCUMhoKPS4tNZ6DUAJyM&amp;_nc_zt=23&amp;_nc_ht=scontent.xx&amp;edm=AKIiGfEEAAAA&amp;_nc_gid=O9pPy-tmQCkZ_xjUMfaO9g&amp;_nc_tpa=Q5bMBQHkmAPAs5pVoK8lZ1We9jACp3y6z2gfmzWd2R7-f1RyED3zrgdTW87HZRRUGqnKvEHmna9-olq_&amp;oh=00_AQG3feb-YbFPyiGD65n-sGUfyTAOE6PMTMEj9FuWG2JQLw&amp;oe=6A7A2B54'" width="859"/>
+            <img alt="View Bay County Supervisor of Elections Facebook post" class="w-full" height="720" v-lazy="'https://scontent.xx.fbcdn.net/v/t39.30808-6/774026054_122226459830511924_3629740008543468773_n.jpg?stp=dst-jpg_p720x720_tt6&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=7vqq2ijew2QQ7kNvwGBo33x&amp;_nc_oc=Adrz5_Fu6p393zoOnoT-0BjvGCTOwXqDdsjNvJgEr14yDFTKSKEBTYQT7BTlNKVyb7M&amp;_nc_zt=23&amp;_nc_ht=scontent.xx&amp;edm=AKIiGfEEAAAA&amp;_nc_gid=KTWbUYpBQ-xiqus-pQQMJg&amp;_nc_tpa=Q5bMBQIz-unGSvZnBYVoUpjh9oY1kuykaJNjIDaGRs9gflbFGYwa0fupYMCBvkpxkvSO3MPw_9YBJIVC&amp;oh=00_AQFhzqoRYg-5TJCijXyH9edvR7rxdTm8RDGud2ghEqkgtg&amp;oe=6A8A440B'" width="858"/>
            </a>
           </div>
          </div>
@@ -1293,7 +1335,7 @@
        </div>
       </div>
      </lazy-section>
-     <lazy-section class="relative flex-grow bg-gradient-to-b from-white to-secondary w-full h-full my-4">
+     <lazy-section class="relative flex-grow bg-gradient-to-b from-white to-secondary w-full my-4 lg:py-8">
       <div class="relative z-30 w-full max-w-screen-xl mx-auto px-6 py-8 lg:py-12">
        <div class="flex flex-1 text-center items-center md:text-left justify-between gap-4 w-full flex-wrap md:flex-nowrap mb-2 lg:mb-4">
         <div class="">
@@ -1327,6 +1369,25 @@
              <img alt="blue star decoration" aria-hidden="true" class="size-full" v-lazy:src="'/images/blue-star.svg'"/>
             </span>
             August 18, 2026
+           </p>
+          </div>
+          <span class="relative z-10 inline-flex items-center gap-4 transition-all duration-300 px-6 py-2 md:pt-3 md:pb-2 min-h-12 border-4 overflow-hidden font-sans antialiased leading-none font-bold rounded-full uppercase tracking-wide text-sm md:text-base bg-primary-dark text-white border-none md:rounded-r-none rounded-r-none md:rounded-l-full ml-auto group-hover:bg-accent">
+           Read
+ Full Notice
+          </span>
+         </a>
+        </li>
+        <li class="mb-8">
+         <a aria-label="Read full announcement, Statewide Election Results" class="group pl-4 pt-8 md:p-8 md:pr-0 bg-gradient-to-r from-white to-secondary-light flex flex-col md:flex-row items-start md:items-center relative justify-start hover:scale-95 transition-all duration-500 hover:shadow-2xl ring-8 ring-accent" href="https://www.bayvotesfl.gov/announcements/statewide-election-results/" role="link">
+          <div class="max-w-3xl">
+           <p class="text-primary-dark text-2xl lg:text-3xl font-bold pb-2 max-w-2xl" role="heading" tabindex="0">
+            Statewide Election Results
+           </p>
+           <p class="text-primary-light font-bold text-lg lg:text-xl mb-0 pb-0 normal-case flex gap-2 items-center" tabindex="0">
+            <span class="relative z-0 inset-0 w-5 h-4 bg-center -mt-1.5">
+             <img alt="blue star decoration" aria-hidden="true" class="size-full" v-lazy:src="'/images/blue-star.svg'"/>
+            </span>
+            August 21, 2026
            </p>
           </div>
           <span class="relative z-10 inline-flex items-center gap-4 transition-all duration-300 px-6 py-2 md:pt-3 md:pb-2 min-h-12 border-4 overflow-hidden font-sans antialiased leading-none font-bold rounded-full uppercase tracking-wide text-sm md:text-base bg-primary-dark text-white border-none md:rounded-r-none rounded-r-none md:rounded-l-full ml-auto group-hover:bg-accent">
@@ -1479,7 +1540,7 @@
             <h3 class="footer-headline">
              Location
             </h3>
-            <a class="footer-link" href="https://www.google.com/maps/place/Bay+County+Supervisor+of+Elections/@30.1701255,-85.6723138,17z/data=!4m6!3m5!1s0x889381452ca02189:0xf347775941be8996!8m2!3d30.1701255!4d-85.6723138!16s%2Fg%2F1tflbfgt?entry=tts&amp;g_ep=EgoyMDI1MDYxMS4wIPu8ASoASAFQAw%3D%3D" tabindex="0" target="_blank">
+            <a class="footer-link" href="https://www.google.com/maps/place/Bay+County+Supervisor+of+Elections/@z0.1701255,-85.6723138,17z/data=!4m6!3m5!1s0x889381452ca02189:0xf347775941be8996!8m2!3d30.1701255!4d-85.6723138!16s%2Fg%2F1tflbfgt?entry=tts&amp;g_ep=EgoyMDI1MDYxMS4wIPu8ASoASAFQAw%3D%3D" tabindex="0" target="_blank">
              830 W. 11th St.
              <br/>
              Panama City, FL 32401

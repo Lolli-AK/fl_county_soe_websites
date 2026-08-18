@@ -759,6 +759,27 @@
      <div class="absolute z-0 w-full inset-0 opacity-10 mix-blend-multiply">
      </div>
      <div class="relative z-30 lg:-mt-56 mb-12 max-w-[1600px] mx-auto px-4">
+      <div class="mb-2 md:mb-6 lg:mb-12 p-8 md:px-16 xl:px-20 bg-primary relative z-10 xl:mx-10 border-[10px] border-white overflow-hidden">
+       <div class="absolute inset-0 z-0 bg-cover bg-center">
+       </div>
+       <div class="absolute inset-0 z-10 bg-primary/80">
+       </div>
+       <div class="relative z-20 flex flex-col md:flex-row justify-between items-center gap-4 text-white">
+        <div>
+         <h2 class="text-2xl md:text-6xl font-heading pb-2 subpixel-antialiased italic" tabindex="0">
+          Election Results
+         </h2>
+         <span class="text-white font-semibold text-lg md:text-2xl uppercase" role="heading">
+          2026 Primary Election (08/18/2026)
+         </span>
+        </div>
+        <div class="flex items-center gap-4">
+         <a aria-label="View Unofficial Results opens in a new tab" class="btn btn-accent-outlined bg-white" href="https://enr.electionsfl.org/LEV/3992/Summary/" target="_blank">
+          View Unofficial Results
+         </a>
+        </div>
+       </div>
+      </div>
       <div class="relative z-30 border-primary-dark border-[10px] p-2 sm:p-8 bg-[#FAF7F2] xl:mx-10">
        <div class="grid md:grid-cols-2 gap-2 md:gap-4 xl:grid-cols-4">
         <a class="feature-buttons-three" href="/voters/check-voter-status/" title="Check Voter Status">
@@ -831,7 +852,7 @@
        <span class="flex mx-auto items-center justify-center w-80 h-8 bg-no-repeat bg-center bg-contain" v-lazy:background-image="'/images/line-star-line.svg'">
        </span>
        <h2 class="flex leading-tight md:text-3xl my-auto mx-auto items-center justify-center font-heading pb-6 md:pb-12 text-gray-700/95" tabindex="0">
-        Voter Totals as of: 08/05/2026
+        Voter Totals as of: 08/17/2026
        </h2>
        <div class="w-full grid grid-cols-2 md:grid-cols-4 gap-4 max-w-7xl mx-auto text-center px-4">
         <div tabindex="0">
@@ -839,7 +860,7 @@
           Democrats
          </h3>
          <div class="voter-total">
-          6,096
+          6,104
          </div>
         </div>
         <div tabindex="0">
@@ -847,7 +868,7 @@
           Republicans
          </h3>
          <div class="voter-total">
-          18,702
+          18,727
          </div>
         </div>
         <div tabindex="0">
@@ -855,7 +876,7 @@
           Other
          </h3>
          <div class="voter-total">
-          5,269
+          5,300
          </div>
         </div>
         <div tabindex="0">
@@ -863,7 +884,7 @@
           Total
          </h3>
          <div class="voter-total">
-          30,067
+          30,131
          </div>
         </div>
        </div>
@@ -875,7 +896,7 @@
       <h2 class="flex text-white uppercase text-2xl md:text-[40px] justify-center items-center gap-4 lg:gap-12 font-heading pt-1 pb-4 tracking-wider" tabindex="0">
        Voter Turnout
       </h2>
-      <div class="w-full max-w-7xl mx-auto text-center md:p-8 my-8 h-[650px] bg-white shadow-2xl">
+      <div class="w-full max-w-7xl mx-auto text-center md:p-8 my-8 h-[650px] lg:h-[670px] bg-white shadow-2xl">
       </div>
      </section>
      <section class="relative pb-6 bg-cover">
@@ -968,14 +989,6 @@
           </h2>
          </div>
          <div class="bg-white overflow-hidden pb-6 shadow-[0_0_10px_rgba(0.2,0.2,0.2,0.2)]">
-          <a class="flex flex-col hover:scale-105 relative transition-all duration-500 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-400 after:last:h-0" href="https://www.votelevy.gov/events/early-voting-primary-election/" tabindex="0">
-           <p class="text-accent-dark italic font-heading text-2xl md:text-4xl" role="heading">
-            Aug 6, 2026
-           </p>
-           <h3 class="text-primary-dark font-semibold text-lg lg:text-xl mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all afterduration-500">
-            Early Voting: Primary Election
-           </h3>
-          </a>
           <a class="flex flex-col hover:scale-105 relative transition-all duration-500 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-400 after:last:h-0" href="https://www.votelevy.gov/events/mail-ballot-send-deadline-for-absentee-and-overseas-voters-general-election/" tabindex="0">
            <p class="text-accent-dark italic font-heading text-2xl md:text-4xl" role="heading">
             Sep 19, 2026
@@ -998,6 +1011,14 @@
            </p>
            <h3 class="text-primary-dark font-semibold text-lg lg:text-xl mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all afterduration-500">
             Book Closing: General Election
+           </h3>
+          </a>
+          <a class="flex flex-col hover:scale-105 relative transition-all duration-500 my-1 group pt-4 px-4 md:px-12 md:pt-8 after:block after:mt-4 after:w-full after:px-8 after:lg:px-12 after:h-0.5 after:bg-gray-400 after:last:h-0" href="https://www.votelevy.gov/events/early-voting-general-election/" tabindex="0">
+           <p class="text-accent-dark italic font-heading text-2xl md:text-4xl" role="heading">
+            Oct 22, 2026
+           </p>
+           <h3 class="text-primary-dark font-semibold text-lg lg:text-xl mt-2 w-full after:w-0 after:content-[''] after:absolute after:h-0.5 after:left-0 after:bottom-0 after:bg-accent/70 group-hover:after:w-full group-hover:cursor-pointer after:transition-all afterduration-500">
+            Early Voting: General Election
            </h3>
           </a>
          </div>
@@ -1031,10 +1052,27 @@
         </div>
        </div>
        <div class="not-prose">
-        <a aria-label="Read full announcement, Voter Ineligibility Notice" class="max-w-screen-xl w-full mx-auto p-4 lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group bg-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.votelevy.gov/announcements/voter-ineligibility-notice-3/" tabindex="0">
+        <a aria-label="Read full announcement, Election Day Tips for Primary Election on August 18" class="max-w-screen-xl w-full mx-auto p-4 lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group bg-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.votelevy.gov/announcements/election-day-tips-for-primary-election-on-august-18/" tabindex="0">
          <div class="relative z-10 xl:pr-12">
           <span class="text-primary-light text-lg font-bold uppercase">
-           August 5, 2026
+           August 15, 2026
+          </span>
+          <p class="text-[#464646] font-heading italic text-3xl md:text-4xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative text-balance" role="heading" tabindex="0">
+           Election Day Tips for Primary Election on August 18
+          </p>
+          <p class="font-medium text-gray-700 text-[18px] mt-2" tabindex="0">
+          </p>
+         </div>
+         <span class="flex-none whitespace-nowrap btn-simple border-accent-dark group-hover:bg-white bg-gray-100 text-primary-dark group-hover:text-primary-dark my-auto relative z-10">
+          Read Full Announcement
+         </span>
+         <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300" v-lazy:background-image="'/images/two-stars.svg'">
+         </div>
+        </a>
+        <a aria-label="Read full announcement, Voter Ineligibility Notice" class="max-w-screen-xl w-full mx-auto p-4 lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group bg-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.votelevy.gov/announcements/voter-ineligibility-notice-4/" tabindex="0">
+         <div class="relative z-10 xl:pr-12">
+          <span class="text-primary-light text-lg font-bold uppercase">
+           August 12, 2026
           </span>
           <p class="text-[#464646] font-heading italic text-3xl md:text-4xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative text-balance" role="heading" tabindex="0">
            Voter Ineligibility Notice
@@ -1048,30 +1086,13 @@
          <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300" v-lazy:background-image="'/images/two-stars.svg'">
          </div>
         </a>
-        <a aria-label="Read full announcement, Voter Ineligibility Notice" class="max-w-screen-xl w-full mx-auto p-4 lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group bg-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.votelevy.gov/announcements/voter-ineligibility-notice-2/" tabindex="0">
+        <a aria-label="Read full announcement, Election Night Results Information for 2026 Primary Election" class="max-w-screen-xl w-full mx-auto p-4 lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group bg-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.votelevy.gov/announcements/election-night-results-information-for-2026-primary-election/" tabindex="0">
          <div class="relative z-10 xl:pr-12">
           <span class="text-primary-light text-lg font-bold uppercase">
-           July 27, 2026
+           August 10, 2026
           </span>
           <p class="text-[#464646] font-heading italic text-3xl md:text-4xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative text-balance" role="heading" tabindex="0">
-           Voter Ineligibility Notice
-          </p>
-          <p class="font-medium text-gray-700 text-[18px] mt-2" tabindex="0">
-          </p>
-         </div>
-         <span class="flex-none whitespace-nowrap btn-simple border-accent-dark group-hover:bg-white bg-gray-100 text-primary-dark group-hover:text-primary-dark my-auto relative z-10">
-          Read Full Announcement
-         </span>
-         <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300" v-lazy:background-image="'/images/two-stars.svg'">
-         </div>
-        </a>
-        <a aria-label="Read full announcement, Voter Eligibility Notice" class="max-w-screen-xl w-full mx-auto p-4 lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group bg-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.votelevy.gov/announcements/voter-eligibility-notice-56/" tabindex="0">
-         <div class="relative z-10 xl:pr-12">
-          <span class="text-primary-light text-lg font-bold uppercase">
-           July 15, 2026
-          </span>
-          <p class="text-[#464646] font-heading italic text-3xl md:text-4xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative text-balance" role="heading" tabindex="0">
-           Voter Eligibility Notice
+           Election Night Results Information for 2026 Primary Election
           </p>
           <p class="font-medium text-gray-700 text-[18px] mt-2" tabindex="0">
           </p>

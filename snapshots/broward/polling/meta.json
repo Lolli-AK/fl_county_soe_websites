@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "4654c6fdeecdc82262c58240359d2a25e19fa599675078f39b765bc34c762a26",
-  "text_sha256": "c9b352b331def589180968c80454035f66139f61b7591ae0168801ff52766433",
-  "byte_size": 75838,
+  "fetched_at": "2026-08-18T15:50:13Z",
+  "html_sha256": "7b838f516c6f823754eaf05e3eaa59102f06b0ab776c80684259bbe0c16f4cd4",
+  "text_sha256": "b5965302d7fa004aa7e354b72e853239d9293646f679b49ce501b5eb249c7632",
+  "byte_size": 50107,
   "title": "Precinct Finder",
   "error": null
 }

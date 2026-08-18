@@ -2,18 +2,19 @@
   "county": "Wakulla",
   "page_type": "homepage",
   "requested_url": "https://wakullavotes.gov/",
-  "final_url": "https://wakullavotes.gov/",
+  "final_url": "https://static.wakullavotes.gov/",
   "redirect_chain": [
-    "https://wakullavotes.gov/"
+    "https://wakullavotes.gov/",
+    "https://static.wakullavotes.gov/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "b3f4a8d08bfc0c7fc97d5908faa4cee83a4788cf81e2e1dc383cad675dcf8564",
-  "text_sha256": "a339c903b7d31249a0cb1d5d866b3c3edb1447d79366b14de81e54d5109fd88a",
-  "byte_size": 98091,
-  "title": "Wakulla County Supervisor of Elections",
+  "fetched_at": "2026-08-18T15:50:13Z",
+  "html_sha256": "25c3fece057f7cd2a581cb5eaaade8d68857eacead13f8270787584e75773da5",
+  "text_sha256": "27601b7d79e52bd78d15ed6525763561e968e97507a4684fde3910ff8b16bf5f",
+  "byte_size": 2412,
+  "title": "Wakulla County - Supervisor of Elections",
   "error": null
 }

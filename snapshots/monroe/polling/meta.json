@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "09a6d9ea7048c4e5f2bebc8cd5cf776d160a807a553736a153f4ac174ba4a0e0",
-  "text_sha256": "0c3de6953155b9f73f0b78752301c26dac517c46904ca45e894d5ae0fe7bbb90",
-  "byte_size": 206805,
+  "fetched_at": "2026-08-18T15:50:13Z",
+  "html_sha256": "a971c80f43997ab6db8321eb0ac7f1a2aacc0a060ef1b536a534fad634806002",
+  "text_sha256": "ee124668f28364476688bc29702d6a2e174710630f8bffb7cfe32af967d794f4",
+  "byte_size": 183398,
   "title": "Monroe County FL Supervisor of Elections > Where to Vote > Precinct Details & Demographics",
   "error": null
 }

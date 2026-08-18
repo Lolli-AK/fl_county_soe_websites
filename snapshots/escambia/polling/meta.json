@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "23a2e226c41f2e8f669ea31edb4b656ed95a2484a2b185b766a54ba7ca08a97b",
-  "text_sha256": "56b167f53efed65b9c0acc123b0b2f3f06e3faea99fad8d226f24ee1df467603",
-  "byte_size": 11449,
-  "title": "Error Page",
+  "fetched_at": "2026-08-18T15:50:13Z",
+  "html_sha256": "f0b42941345db96c44494b30111d9d753696b5208d93cd6d708bcaecd4c0c350",
+  "text_sha256": "37fb7706dd6af8f97ba4437f8561635b173923fafa840f7cedfa967761fe0e16",
+  "byte_size": 41712,
+  "title": "Polling Location Changes For 2026 (Revised)",
   "error": null
 }

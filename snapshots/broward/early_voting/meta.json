@@ -2,18 +2,19 @@
   "county": "Broward",
   "page_type": "early_voting",
   "requested_url": "https://browardvotes.gov/august-election-early-voting-sitedropbox-locator",
-  "final_url": "https://browardvotes.gov/august-election-early-voting-sitedropbox-locator",
+  "final_url": "https://browardvotes.gov/august-election-early-voting-sitesecure-ballot-intake-station-locator",
   "redirect_chain": [
-    "https://browardvotes.gov/august-election-early-voting-sitedropbox-locator"
+    "https://browardvotes.gov/august-election-early-voting-sitedropbox-locator",
+    "https://browardvotes.gov/august-election-early-voting-sitesecure-ballot-intake-station-locator"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "87d706d6825e57a0032465010428ab51caf9dc814bcc1114e0d58df5af7be42e",
-  "text_sha256": "f464172b7389ff57c7dcda0df7c97d2f44aee27160793e78a592f7824413a47f",
-  "byte_size": 55064,
-  "title": "August Election Early Voting Site/Dropbox Locator | Broward County Supervisor of Elections",
+  "fetched_at": "2026-08-18T15:50:13Z",
+  "html_sha256": "44f5c9aa0bdf6f22f6b1f24ce2966d4740de4d801c43d9ec708f9a749c0024d7",
+  "text_sha256": "8a4c04a5bd08a45fe02dea0942bef0fcbf477615908fe34b1d8b74f04559e939",
+  "byte_size": 28818,
+  "title": "August Election Early Voting Site/Secure Ballot Intake Station Locator | Broward County Supervisor of Elections",
   "error": null
 }

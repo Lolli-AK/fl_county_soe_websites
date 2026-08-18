@@ -1,11 +1,11 @@
 Okeechobee County, FL
 Skip to content
-Active Registered Voters as of 08/06/2026:
-Dem: 4,276
-Rep: 12,376
-Oth: 863
-NPA: 3,116
-Total: 20,631
+Active Registered Voters as of 08/18/2026:
+Dem: 4,287
+Rep: 12,398
+Oth: 866
+NPA: 3,118
+Total: 20,669
 Home
 Voter Information
 Update Your Voter Registration Information
@@ -160,6 +160,10 @@ Where To
 Vote
 Elected
 Officials
+Election Night Results
+2026 Primary Election
+OFFICIAL RESULTS
+Early Voting Turnout
 IMPORTANT NEWS
 Vote-By-Mail
 A vote-by-mail ballot may be requested for a speci...
@@ -170,26 +174,13 @@ Petition Title
 Ineligibility Notices
 Potentially Ineligible VotersNOTICE OF REMOVAL OF ...
 See All
+Election Day
+August 18, 2026   7:00am – 7:00pm
+You must vote at your assigned precinct.
+Call the office at 863-763-4014 to locate your precinct.
 SAMPLE BALLOTS NOW AVAILABLE
 REPUBLICAN
 DEMOCRATIC
-PRIMARY ELECTION SCHEDULE
-New Registrations/Party Change Deadline:
-July 20, 2026   4:30pm
-Vote by Mail Request Deadline:
-August 6, 2026   5:00pm
-Early Vote Dates:
-August 8-15, 2026   8:30am – 6:00pm
-Election Day:
-August 18, 2026   7:00am – 7:00pm
-Book Closing
-According to Florida State Statute, all party changes and new registrations for the 2026 Primary Election must be completed by July 20, 2026.
-Vote By Mail
-According to Florida State Statute, all Vote by Mail requests regarding the 2026 Primary Election must be made no later than 5pm on August 6th, 2026.
-Early Vote
-Early voting will be held at our new location from 8:30am to 6:00pm on August 8th, 2026. It will carry through the week until August 15, 2026.
-Election Day
-On August 18, 2026, all polling locations will be open. Our Election Workers will be available to assist you at your assigned precinct from 7am-7pm.
 Canvassing Board Meeting
 Canvassing Board Schedule of Events
 English – 2026 Notice of General Election
@@ -208,10 +199,6 @@ NOV
 11
 Veterans Day – Office Closed
 View Full Calendar
-Election Night Results
-2026 Primary Election
-OFFICIAL RESULTS
-Early Voting Turnout
 Vote In Honor of a Veteran!
 [rotating image slideshow removed for determinism]
 We are located at
@@ -232,11 +219,11 @@ elections@voteokeechobee.gov
 Contact Us Form
 Site powered by
 SOE Software
-Active Registered Voters as of 08/06/2026:
-Dem: 4,276
-Rep: 12,376
-Oth: 863
-NPA: 3,116
-Total: 20,631
+Active Registered Voters as of 08/18/2026:
+Dem: 4,287
+Rep: 12,398
+Oth: 866
+NPA: 3,118
+Total: 20,669
 ×
 Search

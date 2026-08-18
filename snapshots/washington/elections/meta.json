@@ -2,18 +2,19 @@
   "county": "Washington",
   "page_type": "elections",
   "requested_url": "https://wcsoe.gov/election-information/dates-and-deadline/",
-  "final_url": "https://wcsoe.gov/election-information/dates-and-deadline/",
+  "final_url": "https://static.wcsoe.gov/election-information/dates-and-deadline/",
   "redirect_chain": [
-    "https://wcsoe.gov/election-information/dates-and-deadline/"
+    "https://wcsoe.gov/election-information/dates-and-deadline/",
+    "https://static.wcsoe.gov/election-information/dates-and-deadline/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:26:53Z",
-  "html_sha256": "88e0eaea2c90d1e4d7e6b3e94f0696fae4bdc743cc1200ac7f363c6b6f8ddf1d",
-  "text_sha256": "ef67ad66dae77890e57d3f74cd0b740a0a0de4457e1b6e3d7282d373da7fbfea",
-  "byte_size": 66705,
-  "title": "Dates and Deadline – Washington County (FL) Supervisor of Elections",
+  "fetched_at": "2026-08-18T15:50:13Z",
+  "html_sha256": "6c79970445e4b3fc586abb0e1e3aa0b83b01f9c2dc6204ec4b63843cc7628ac8",
+  "text_sha256": "8ddb9eb30d22a3af752260c5fc1a7bdcbcc5a4b8db7ab8e2073329b3597d5dd1",
+  "byte_size": 2411,
+  "title": "Washington County - Supervisor of Elections",
   "error": null
 }

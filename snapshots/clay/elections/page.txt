@@ -80,93 +80,95 @@ All Event Type
 Holiday
 Office Closed
 Elections
-06
+20
 August
 Thursday
 Elections
-Deadline to request a Vote by Mail ballot
-August 6, 2026
+Canvassing Board Meeting
+August 20, 2026 @
+3:30 PM -
+5:00 PM
 More Details
-08
-August
+23
+October
+Friday
+Elections
+Early Voting for the General Election
+October 23, 2026 @
+9:00 AM -
+6:00 PM
+More Details
+24
+October
 Saturday
 Elections
-Early Voting for the Primary Election
-August 8, 2026 @
-10:00 AM -
+Early Voting for the General Election
+October 24, 2026 @
+9:00 AM -
 6:00 PM
 More Details
-09
-August
+25
+October
 Sunday
 Elections
-Early Voting for the Primary Election
-August 9, 2026 @
-10:00 AM -
-6:00 PM
-More Details
-10
-August
-Monday
-Elections
-Process & Duplicate: Mail Ballots
-August 10, 2026 @
+Early Voting for the General Election
+October 25, 2026 @
 9:00 AM -
-1:30 PM
-More Details
-10
-August
-Monday
-Elections
-Early Voting for the Primary Election
-August 10, 2026 @
-10:00 AM -
 6:00 PM
 More Details
-11
-August
+26
+October
+Monday
+Elections
+Early Voting for the General Election
+October 26, 2026 @
+9:00 AM -
+6:00 PM
+More Details
+27
+October
 Tuesday
 Elections
-Early Voting for the Primary Election
-August 11, 2026 @
-10:00 AM -
+Early Voting for the General Election
+October 27, 2026 @
+9:00 AM -
 6:00 PM
 More Details
-12
-August
+28
+October
 Wednesday
 Elections
-Early Voting for the Primary Election
-August 12, 2026 @
-10:00 AM -
+Early Voting for the General Election
+October 28, 2026 @
+9:00 AM -
 6:00 PM
 More Details
-13
-August
+29
+October
 Thursday
 Elections
-Early Voting for the Primary Election
-August 13, 2026 @
-10:00 AM -
+Early Voting for the General Election
+October 29, 2026 @
+9:00 AM -
 6:00 PM
 More Details
-14
-August
+30
+October
 Friday
 Elections
-Early Voting for the Primary Election
-August 14, 2026 @
-10:00 AM -
+Early Voting for the General Election
+October 30, 2026 @
+9:00 AM -
 6:00 PM
 More Details
-14
-August
-Friday
+31
+October
+Saturday
 Elections
-Opening of Mail Ballots (Run 2)
-August 14, 2026 @
-11:00 AM -
-2:30 PM
+Early Voting for the General Election
+October 31, 2026 @
+9:00 AM -
+6:00 PM
 More Details
 1
 2

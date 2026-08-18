@@ -119,12 +119,13 @@ Toggle Election Results submenu
 Election Results
 Toggle submenu
 New Column
+2026 Election Results
 2024 Election Results
 2023 Election Results
 2022 Election Results
 2021 Election Results
-2020 Election Results
 New Column
+2020 Election Results
 2019 Election Results
 2018 Election Results
 2016 Election Results
@@ -132,12 +133,13 @@ Get in touch
 Contact Us
 Follow us
 New Column
+2026 Election Results
 2024 Election Results
 2023 Election Results
 2022 Election Results
 2021 Election Results
-2020 Election Results
 New Column
+2020 Election Results
 2019 Election Results
 2018 Election Results
 2016 Election Results
@@ -153,21 +155,24 @@ Empowering Voters.
 Strengthening Democracy.
 Supervisor of Elections Mary Jane Arrington
 Register to Vote
-Request a Mail Ballot
+Election Night Results
 Search Our Website
+Cure Affidavit
+Request a Mail Ballot
+Find Your Polling Location
 Register to Vote Online
 Get Started
 Request a Mail Ballot
 Get Started
 Mary Jane Arrington
 Learn More
-82,025
+82,262
 Democrats
-70,094
+70,282
 Republicans
-80,327
+80,565
 Other Parties
-232,446
+233,109
 Total Registered
 Active Registered Voters
 Active Registered Voters as of 10/5/25
