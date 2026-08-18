@@ -640,7 +640,16 @@ def write_xlsx(a: dict, out: Path, rev_from: str, rev_to: str | None) -> None:
     wm.column_dimensions["B"].width = 108
     wm["A1"] = "How to read this workbook"
     wm["A1"].font = Font(name=FONT, bold=True, size=12)
-    span = f"{rev_from} → {rev_to or 'working tree (fresh capture)'}"
+    def _describe(rev: str | None) -> str:
+        if rev is None:
+            return "working tree (fresh capture)"
+        try:
+            return _sh(["git", "log", "-1", "--format=%h  %ad  %s",
+                        "--date=short", rev]).strip()
+        except Exception:  # noqa: BLE001
+            return rev
+
+    span = f"{_describe(rev_from)}\n    →  {_describe(rev_to)}"
     notes = [
         ("Comparison", span),
         ("Unit of measure", "One line of page.txt. A file that changed in three "
