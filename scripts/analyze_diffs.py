@@ -18,9 +18,12 @@ Three deliberate choices:
   * `page.txt` only, not `page.html`. The text artifact is what carries meaning; the
     HTML carries the same change plus markup noise, so counting both would
     double-count and let a template tweak masquerade as content.
-  * A line may land in MULTIPLE categories, so category counts intentionally sum to
-    more than the line total. The per-county "lines changed" column is the
-    unduplicated figure; use that for totals, and the category columns for shape.
+  * The category columns do NOT reconcile to "lines changed", and are not meant to.
+    Two effects pull in opposite directions: a line matching two categories is
+    counted twice, and a line matching none is not counted at all. In practice the
+    second dominates — Escambia changed 1,089 lines, of which 480 matched no
+    category, so its category columns total 408. Read "lines changed" for magnitude
+    and the category columns for shape; never treat the categories as a partition.
   * **Capture class is decided before any line is counted.** On election day some
     counties replace their whole site with a minimal "election night results" page,
     which deletes hundreds of lines that were never edited — they were simply not
@@ -669,11 +672,16 @@ def write_xlsx(a: dict, out: Path, rev_from: str, rev_to: str | None) -> None:
         ("By county", "Page types changed", "Which of homepage / elections / polling "
                                             "/ early_voting / results moved."),
         ("By county", "<category columns>", "Lines in this county matching that "
-                                            "category. A line can match several "
-                                            "categories, so these sum to MORE than "
-                                            "'Lines changed'. Shaded darker green "
-                                            "the higher the count, to read across "
-                                            "counties at a glance."),
+                                            "category. These do NOT sum to 'Lines "
+                                            "changed' and are not a partition of it: "
+                                            "a line matching two categories is "
+                                            "counted twice, and a line matching none "
+                                            "is not counted at all. The second "
+                                            "dominates — Escambia changed 1,089 "
+                                            "lines, 480 matched nothing, so its "
+                                            "categories total 408. Shaded darker "
+                                            "green the higher the count, to compare "
+                                            "across counties at a glance."),
         ("By category", "Line hits", "Total matching lines across every county."),
         ("By category", "Counties affected", "How many distinct counties had at "
                                              "least one line in this category — the "
@@ -762,10 +770,13 @@ def write_xlsx(a: dict, out: Path, rev_from: str, rev_to: str | None) -> None:
         ("Artifact used", "page.txt only — the visible-text artifact. page.html "
                           "carries the same change plus markup, so counting both "
                           "would double-count."),
-        ("Categories overlap", "A line can match several categories, so category "
-                               "columns sum to MORE than 'Lines changed'. Use "
-                               "'Lines changed' for totals and the category "
-                               "columns for shape."),
+        ("Categories do not sum", "The category columns are not a partition of "
+                                  "'Lines changed'. A line matching two categories "
+                                  "is counted twice; a line matching none is not "
+                                  "counted at all. Across this run: 3,791 lines "
+                                  "changed, 1,661 category hits, 1,368 lines "
+                                  "matched nothing. Use 'Lines changed' for "
+                                  "magnitude, categories for shape."),
         ("Noise floor", "Two back-to-back captures of these same 314 targets "
                         "produced a 0-line diff, so every line counted here is a "
                         "real content change, not capture jitter."),
