@@ -138,6 +138,8 @@ Total
 441,794
 2026 Primary Election Unofficial Turnout
 View Unofficial Turnout
+2026 Primary Election Results
+View Election Results
 2026 Primary Election Frequently Asked Questions
 View Frequently Asked Questions
 Track Your Mail Ballot
