@@ -8,3 +8,6 @@ logs/
 
 # OS
 .DS_Store
+
+# Excel lock/temp files
+~$*

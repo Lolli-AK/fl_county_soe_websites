@@ -634,6 +634,111 @@ def write_xlsx(a: dict, out: Path, rev_from: str, rev_to: str | None) -> None:
         wu.cell(row=r, column=3).alignment = Alignment(wrap_text=True,
                                                        vertical="top")
 
+    # --- 6b. Column dictionary ----------------------------------------------- #
+    wd = wb.create_sheet("Columns")
+    wd.column_dimensions["A"].width = 20
+    wd.column_dimensions["B"].width = 30
+    wd.column_dimensions["C"].width = 96
+    wd["A1"] = "What every column means"
+    wd["A1"].font = Font(name=FONT, bold=True, size=12)
+    wd.append([])
+    for h, i in (("Sheet", 1), ("Column", 2), ("Meaning", 3)):
+        c = wd.cell(row=2, column=i, value=h)
+        c.fill, c.font = head_fill, head_font
+    docs = [
+        ("By county", "County", "Florida county. Only counties with at least one "
+                                "genuinely edited page appear; those whose site was "
+                                "replaced or emptied are on 'Site replaced or empty'."),
+        ("By county", "Pages changed", "How many of this county's captured pages "
+                                       "changed at all."),
+        ("By county", "Pages captured", "How many of the 5 page types this county "
+                                        "publishes (from the manifest). 4/5 means "
+                                        "one type is a recorded gap, not a failure."),
+        ("By county", "% of pages changed", "Pages changed ÷ pages captured. Lets a "
+                                            "small county that changed everything "
+                                            "rank against a big one that changed one "
+                                            "page."),
+        ("By county", "Lines changed", "Added + removed lines of page.txt. THE "
+                                       "unduplicated total — use this, not the sum "
+                                       "of the category columns."),
+        ("By county", "Lines added / removed", "Direction of the change. Heavy "
+                                               "removal with light addition usually "
+                                               "means content was retired (early "
+                                               "voting ending); the reverse means "
+                                               "new material was published."),
+        ("By county", "Page types changed", "Which of homepage / elections / polling "
+                                            "/ early_voting / results moved."),
+        ("By county", "<category columns>", "Lines in this county matching that "
+                                            "category. A line can match several "
+                                            "categories, so these sum to MORE than "
+                                            "'Lines changed'. Shaded darker green "
+                                            "the higher the count, to read across "
+                                            "counties at a glance."),
+        ("By category", "Line hits", "Total matching lines across every county."),
+        ("By category", "Counties affected", "How many distinct counties had at "
+                                             "least one line in this category — the "
+                                             "better measure of how WIDESPREAD a "
+                                             "behaviour is, where 'Line hits' "
+                                             "measures VOLUME and can be driven by "
+                                             "one verbose county."),
+        ("By category", "% of 67 counties", "Counties affected ÷ 67."),
+        ("By category", "Share of all categorized hits",
+         "This category's line hits ÷ all category hits. Shows the shape of "
+         "election-day activity."),
+        ("By category", "Example", "One real changed line, so the category is not "
+                                   "taken on trust."),
+        ("By page type", "Files changed", "Pages of this type that changed, across "
+                                          "all counties."),
+        ("By page type", "Top categories", "The four categories with most lines for "
+                                           "this page type — what this kind of page "
+                                           "is FOR on election day."),
+        ("Site replaced or empty", "What happened",
+         "'replaced by election-night page' = the county swapped its whole site for "
+         "a minimal static page. 'served empty HTML' = the URL returned no content. "
+         "'capture path changed' = the plain/headless fetch path differed between "
+         "runs, so the two sides are NOT comparable."),
+        ("Site replaced or empty", "Bytes before / after",
+         "Response size either side. This is what identifies a replacement: Calhoun's "
+         "polling page went 202,198 → 49 bytes."),
+        ("Site replaced or empty", "% of bytes retained",
+         "After ÷ before. Under 25% means replaced, not edited."),
+        ("Site replaced or empty", "HTTP status",
+         "Status before → after. 200 → 404 is the tell that the old URL no longer "
+         "exists."),
+        ("Site replaced or empty", "Render mode",
+         "plain → headless (or the reverse). A flip changes how much of the page is "
+         "captured, which is why those rows are excluded from the content counts."),
+        ("Numbers", "Kind", "'changed' = the same sentence appears on both sides "
+                            "with only its digits different, so before/after are "
+                            "directly comparable. 'new' = a figure that appears only "
+                            "in the added text and has no prior value."),
+        ("Numbers", "Measure (digits masked)",
+         "The sentence with its numbers replaced by N — this is the key the "
+         "before/after pairing is done on."),
+        ("Numbers", "Before / After", "The actual lines."),
+        ("Numbers", "Change", "After − before, filled only where each side carried "
+                              "exactly one comparable number."),
+        ("Notable and rare", "Counties with it",
+         "How many counties showed this category at all. Rows are limited to "
+         "categories confined to 5 or fewer counties — the unusual behaviour, as "
+         "opposed to what everyone did."),
+        ("Uncategorized sample", "Changed line",
+         "A changed line that matched no category. Shown so the keyword lists can be "
+         "improved; a large count here means the categories are incomplete, NOT that "
+         "nothing happened."),
+    ]
+    for s, col, mean in docs:
+        wd.append([s, col, mean])
+        r = wd.max_row
+        wd.cell(row=r, column=1).font = base
+        wd.cell(row=r, column=2).font = bold
+        wd.cell(row=r, column=3).font = base
+        wd.cell(row=r, column=3).alignment = Alignment(wrap_text=True,
+                                                       vertical="top")
+        for i in range(1, 4):
+            wd.cell(row=r, column=i).border = border
+    wd.freeze_panes = "A3"
+
     # --- 7. Method ----------------------------------------------------------- #
     wm = wb.create_sheet("Method")
     wm.column_dimensions["A"].width = 26
