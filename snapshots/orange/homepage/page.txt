@@ -4,8 +4,6 @@ Election Center
 |
 Voter Turnout
 |
-Early Voting Wait Times
-|
 Secure Ballot Intake Stations
 |
 Sample Ballots
@@ -138,7 +136,7 @@ Submit A Public Records Request
 2026 Primary election center
 Orange County’s Election Center has everything you need for the
 2026 Primary Election
-, all in one place! Access your voter information, explore turnout updates, check Early Voting wait times, follow results on Election Night, and find important election resources to help you stay informed.
+, all in one place! Access your voter information, explore turnout updates, follow results on Election Night, and find important election resources to help you stay informed.
 Visit our election center
 HOW CAN WE HELP YOU?
 WHAT’S ON MY BALLOT?
@@ -152,20 +150,6 @@ Stay in the know.
 Here you’ll find all of the important dates for upcoming elections in Orange County, including registration deadlines, early voting windows, public meeting schedules, and more.
 Upcoming Events
 Aug
-3
-August 3 @ 9:00 am
-–
-August 17 @ 6:00 pm
-Vote-by-Mail Opening & Processing (Primary Election)
-Read More
-Aug
-17
-2:00 pm
-–
-7:00 pm
-Canvassing of Vote-by-Mail Ballots (Primary Election)
-Read More
-Aug
 18
 7:00 am
 –
@@ -178,6 +162,20 @@ Aug
 –
 7:00 pm
 Vote-by-Mail Opening & Processing (Primary Election)
+Read More
+Aug
+18
+4:00 pm
+–
+7:00 pm
+Canvassing of Vote-by-Mail Ballots (Primary Election)
+Read More
+Aug
+19
+August 19 @ 9:00 am
+–
+August 20 @ 6:00 pm
+Automated Audit Processing Continues (Primary Election)
 Read More
 View Calendar
 VOTER STATISTICS
