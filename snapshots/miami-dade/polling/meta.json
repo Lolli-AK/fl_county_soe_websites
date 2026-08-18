@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T12:48:32Z",
-  "html_sha256": "f08e1f3b859f464490c6186711779c58b0a96c85fbcc3d826bfd0627049f50d3",
-  "text_sha256": "a2203e0f445e404e62c29ec88b14b4f744f3d0713b0701af582cfbe87d0d59fd",
-  "byte_size": 48495,
+  "fetched_at": "2026-08-18T15:41:43Z",
+  "html_sha256": "d5ce1b2884a889e698d2212c474b3ac3e103ec2f879e9aa23d482807fa50029a",
+  "text_sha256": "90d3b0594d2c6d453f45361466cd13633211ff39ff9eea7e466503d1ccb7b9f6",
+  "byte_size": 49967,
   "title": "Current Precincts, Districts and Municipalities",
   "error": null
 }

@@ -137,7 +137,7 @@ Election Worker Login
 Search Website
 Election Results
 2026 Primary Election
-View Official Results
+View Election Results
 Current Elections
 My Sample Ballot
 Important Dates
@@ -197,7 +197,7 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 37 minutes ago
+posted 3 hours ago
 🗳️🗳️Election Day is here!! This is your last chance to vote in the 2026 Primary Election!
 📣You must go to your assigned polling place to vote.
 Some precincts and polling places have changed. Visit:
@@ -213,6 +213,10 @@ Public Notices
 All Public Notices
 2026 Primary Election Canvassing Board Schedule
 August 18, 2026
+Read
+Full Notice
+Statewide Election Results
+August 21, 2026
 Read
 Full Notice
 Notice of Election - General
