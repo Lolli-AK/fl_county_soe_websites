@@ -2,10 +2,10 @@ Okeechobee County, FL
 Skip to content
 Active Registered Voters as of 08/18/2026:
 Dem: 4,287
-Rep: 12,394
+Rep: 12,398
 Oth: 866
 NPA: 3,118
-Total: 20,665
+Total: 20,669
 Home
 Voter Information
 Update Your Voter Registration Information
@@ -174,13 +174,10 @@ Petition Title
 Ineligibility Notices
 Potentially Ineligible VotersNOTICE OF REMOVAL OF ...
 See All
-Early Vote
-August 8-15, 2026   8:30am – 6:00pm
-Located at Elections Office – 307 NW 5th Avenue, Okeechobee FL 34972
 Election Day
 August 18, 2026   7:00am – 7:00pm
-Located at your assigned precinct.
-Click on the Find My Info button to locate your precinct.
+You must vote at your assigned precinct.
+Call the office at 863-763-4014 to locate your precinct.
 SAMPLE BALLOTS NOW AVAILABLE
 REPUBLICAN
 DEMOCRATIC
@@ -224,9 +221,9 @@ Site powered by
 SOE Software
 Active Registered Voters as of 08/18/2026:
 Dem: 4,287
-Rep: 12,394
+Rep: 12,398
 Oth: 866
 NPA: 3,118
-Total: 20,665
+Total: 20,669
 ×
 Search

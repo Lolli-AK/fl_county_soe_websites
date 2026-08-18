@@ -134,6 +134,9 @@ State
 County
 City
 Search Website
+Election Results
+Primary Election (8/18/2026)
+View Unofficial Results
 Check Voter Status
 Register to Vote
 Update My Info

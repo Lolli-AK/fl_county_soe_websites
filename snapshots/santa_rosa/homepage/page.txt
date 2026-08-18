@@ -157,9 +157,9 @@ Santa Rosa County
 [rotating image slideshow removed for determinism]
 Active Registered Voters as of 08/18/2026:
 Dem: 20,615
-Rep: 91,066
-Oth: 30,819
-Total: 142,500
+Rep: 91,076
+Oth: 30,823
+Total: 142,514
 Register to Vote/Update Voter Information
 My Status/Sample Ballots
 Vote By Mail

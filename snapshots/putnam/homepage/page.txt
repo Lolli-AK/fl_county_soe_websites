@@ -228,9 +228,11 @@ revize.,
 government website experts
 Login
 ©Putnam County, FL, Supervisor of Elections,  All Rights Reserved.
-Tomorrow is Election Day!
-Polls will be open 7AM-7PM
-You MUST vote at your assigned precinct.
+It's Election Day!
+Polls are open from 7AM-7PM
+You MUST vote at your
+assigned precinct
+.
 Acceptable Forms of ID
 Am I registered?
 Where do I vote?

@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://votebakerfl.gov/election-night-archive/"
   ],
-  "http_status": 521,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T09:35:04Z",
-  "html_sha256": "f0954bf779e62170c37efb86db41b1af926bbfc3292153d0c5940a1383c120c9",
-  "text_sha256": "3fb47551d9e0a963a68c5e7386b1c7243f8acba8fd18605d8944dc6f8f4f8a5e",
-  "byte_size": 6641,
-  "title": "votebakerfl.gov | 521: Web server is down",
+  "fetched_at": "2026-08-18T12:48:32Z",
+  "html_sha256": "c5a73fa01885cfd834b1bd4b592bced555b743b4e94632ee14651af1406488ae",
+  "text_sha256": "e60d5aa0b01bf3fdce2548fec6286d391c1d2c054541518312323bf8abc915a8",
+  "byte_size": 13045,
+  "title": "Baker County Supervisor of Elections",
   "error": null
 }
