@@ -80,13 +80,6 @@ All Event Type
 Holiday
 Office Closed
 Elections
-18
-August
-Tuesday
-Elections
-Primary Election Day
-August 18, 2026
-More Details
 20
 August
 Thursday
@@ -165,6 +158,15 @@ Friday
 Elections
 Early Voting for the General Election
 October 30, 2026 @
+9:00 AM -
+6:00 PM
+More Details
+31
+October
+Saturday
+Elections
+Early Voting for the General Election
+October 31, 2026 @
 9:00 AM -
 6:00 PM
 More Details
