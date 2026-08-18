@@ -28,8 +28,10 @@
   <link href="/files/ocfavicon/Elections/site.webmanifest" rel="manifest"/>
  </head>
  <body class="body layout-modern site-search-always-visble content-type-oc-general content-template-oc-2-column-without-image group-template-oc-2-column-with-default-header page-name-early-voting page-sequence-1 page-depth-3 page-section-4 website-type-primary device-desktop" id="body-top">
-  <form action="/Elections/How-to-Vote/Early-Voting?fbclid=IwcGRvZgRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR46eAT0pYd2WG5AB-mhgefCtlSvamsazIl9DUHMuCPiCVWoEz6y2iLtxBGbDw_aem_Hd-RANDOM" id="mainForm" method="post" name="mainForm">
-   <input id="ctl04_seamless_script_manager_TSM" name="ctl04_seamless_script_manager_TSM" type="hidden"/>
+  <form action="/Elections/How-to-Vote/Early-Voting" id="mainForm" method="post" name="mainForm">
+   <div>
+    <input id="ctl04_seamless_script_manager_TSM" name="ctl04_seamless_script_manager_TSM" type="hidden"/>
+   </div>
    <div class="unsupported-browser-warning js-element">
    </div>
    <div hidden="">
@@ -101,8 +103,16 @@
          <div class="no-js-element">
           <ul>
            <li aria-selected="true" id="toolbar-language-option-en-us" role="option">
-            <a class="lang-item lang-en-us" data-translate-to="en-us" href="https://www.flaglerelections.gov/Elections/How-to-Vote/Early-Voting?fbclid=IwcGRvZgRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR46eAT0pYd2WG5AB-mhgefCtlSvamsazIl9DUHMuCPiCVWoEz6y2iLtxBGbDw_aem_Hd-RANDOM&amp;oc_lang=en-US" lang="en-US">
+            <a class="lang-item lang-en-us" data-translate-to="en-us" href="https://www.flaglerelections.gov/Elections/How-to-Vote/Early-Voting?oc_lang=en-US" lang="en-US">
              English
+             <span class="visuallyhidden">
+              Select this as your preferred language
+             </span>
+            </a>
+           </li>
+           <li aria-selected="false" id="toolbar-language-option-es" role="option">
+            <a class="lang-item lang-es" data-translate-to="es" href="https://www.flaglerelections.gov/Elections/How-to-Vote/Early-Voting?oc_lang=es" lang="en">
+             Spanish
              <span class="visuallyhidden">
               Select this as your preferred language
              </span>
@@ -122,8 +132,16 @@
          <div aria-label="Available languages" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix" id="toolbar-language-drop-down" role="listbox">
           <ul>
            <li aria-selected="true" id="toolbar-language-option-en-us" role="option">
-            <a class="lang-item lang-en-us" data-translate-to="en-us" href="https://www.flaglerelections.gov/Elections/How-to-Vote/Early-Voting?fbclid=IwcGRvZgRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR46eAT0pYd2WG5AB-mhgefCtlSvamsazIl9DUHMuCPiCVWoEz6y2iLtxBGbDw_aem_Hd-RANDOM&amp;oc_lang=en-US" lang="en-US">
+            <a class="lang-item lang-en-us" data-translate-to="en-us" href="https://www.flaglerelections.gov/Elections/How-to-Vote/Early-Voting?oc_lang=en-US" lang="en-US">
              English
+             <span class="visuallyhidden">
+              Select this as your preferred language
+             </span>
+            </a>
+           </li>
+           <li aria-selected="false" id="toolbar-language-option-es" role="option">
+            <a class="lang-item lang-es" data-translate-to="es" href="https://www.flaglerelections.gov/Elections/How-to-Vote/Early-Voting?oc_lang=es" lang="en">
+             Spanish
              <span class="visuallyhidden">
               Select this as your preferred language
              </span>
@@ -671,7 +689,7 @@
         </div>
         <div class="header-search-control-container" id="header-search">
          <div class="search-inner-container">
-          <div class="sc-search-panel">
+          <div class="sc-search-panel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl08_btnSearch')">
            <label class="sc-search-label" for="ctl08_txtSearch" id="ctl08_lblSearch">
             Search
            </label>
