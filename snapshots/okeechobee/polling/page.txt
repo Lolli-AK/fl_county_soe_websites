@@ -1,11 +1,11 @@
 Sample Ballots – Okeechobee County, FL
 Skip to content
 Active Registered Voters as of 08/19/2026:
-Dem: 4,287
-Rep: 12,398
+Dem: 4,291
+Rep: 12,397
 Oth: 866
 NPA: 3,118
-Total: 20,669
+Total: 20,672
 Home
 Voter Information
 Update Your Voter Registration Information
@@ -176,10 +176,10 @@ Contact Us Form
 Site powered by
 SOE Software
 Active Registered Voters as of 08/19/2026:
-Dem: 4,287
-Rep: 12,398
+Dem: 4,291
+Rep: 12,397
 Oth: 866
 NPA: 3,118
-Total: 20,669
+Total: 20,672
 ×
 Search

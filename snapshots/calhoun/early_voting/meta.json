@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://votecalhounfl.gov/ways-to-vote/early-voting/"
   ],
-  "http_status": 404,
-  "content_type": null,
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-19T09:37:22Z",
-  "html_sha256": "8e1544a0cf6af6de1f83336f3382198914d875075a95b99022e31967f40b331a",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 49,
-  "title": null,
+  "fetched_at": "2026-08-19T12:49:11Z",
+  "html_sha256": "16703fc0c8e2f15020813094933270cc2c0ad1ec226f65cf76105b302c4a7639",
+  "text_sha256": "eadccfc6c737aae9585d8aa8b1705901398e7c4d7a9334bde0eff102c27cbac8",
+  "byte_size": 183522,
+  "title": "Early Voting – Calhoun County – Supervisor of Elections",
   "error": null
 }

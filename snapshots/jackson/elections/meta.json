@@ -2,19 +2,18 @@
   "county": "Jackson",
   "page_type": "elections",
   "requested_url": "https://votejacksonfl.gov/election-information/upcoming-elections/",
-  "final_url": "https://static.votejacksonfl.gov/election-information/upcoming-elections/",
+  "final_url": "https://votejacksonfl.gov/election-information/upcoming-elections/",
   "redirect_chain": [
-    "https://votejacksonfl.gov/election-information/upcoming-elections/",
-    "https://static.votejacksonfl.gov/election-information/upcoming-elections/"
+    "https://votejacksonfl.gov/election-information/upcoming-elections/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-19T09:37:22Z",
-  "html_sha256": "1106bf36454e9e7faeac5b1513f760a767c861098fa8152625efe4937472c3d1",
-  "text_sha256": "b6021f39e127cf5617d70939e715aa0a781dd61dab351c090ffb95346214fc54",
-  "byte_size": 2664,
-  "title": "Jackson County - Supervisor of Elections",
+  "fetched_at": "2026-08-19T12:49:11Z",
+  "html_sha256": "6bf513183fbc293b7ca9c706de7ab6d63f44cf3fb222d6c387a04bd8b251cabc",
+  "text_sha256": "abd184f6beb1f12212d7afbc61af37296f8c0a962a4f81c339dad4162defe290",
+  "byte_size": 62376,
+  "title": "Upcoming Elections – Jackson County (FL) Supervisor of Elections",
   "error": null
 }

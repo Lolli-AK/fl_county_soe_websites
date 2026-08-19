@@ -2,19 +2,18 @@
   "county": "Washington",
   "page_type": "homepage",
   "requested_url": "https://wcsoe.gov/",
-  "final_url": "https://static.wcsoe.gov/",
+  "final_url": "https://wcsoe.gov/",
   "redirect_chain": [
-    "https://wcsoe.gov/",
-    "https://static.wcsoe.gov/"
+    "https://wcsoe.gov/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-19T09:37:22Z",
-  "html_sha256": "6c79970445e4b3fc586abb0e1e3aa0b83b01f9c2dc6204ec4b63843cc7628ac8",
-  "text_sha256": "8ddb9eb30d22a3af752260c5fc1a7bdcbcc5a4b8db7ab8e2073329b3597d5dd1",
-  "byte_size": 2411,
-  "title": "Washington County - Supervisor of Elections",
+  "fetched_at": "2026-08-19T12:49:11Z",
+  "html_sha256": "3cbc9d0f500561c7915d60c524d54eba32759f70473e4e263c1e109a3b8d4e98",
+  "text_sha256": "c3958ba0078e479f201af1ee3a18d4238efc0e94001476f7c160418e0f3c6c31",
+  "byte_size": 87405,
+  "title": "Washington County (FL) Supervisor of Elections",
   "error": null
 }

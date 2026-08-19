@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://libertycountyflsoe.gov/results-statistics/election-results/"
   ],
-  "http_status": 404,
-  "content_type": null,
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-19T09:37:22Z",
-  "html_sha256": "8e1544a0cf6af6de1f83336f3382198914d875075a95b99022e31967f40b331a",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 49,
-  "title": null,
+  "fetched_at": "2026-08-19T12:49:11Z",
+  "html_sha256": "c3dd0dce02feec549f8117761253afaf8116e2d832974193eefed2406dea7176",
+  "text_sha256": "2722dc3fdcf1930e3114bba2665999dbb9cf5a4cd8a1f6763466efcffa09467c",
+  "byte_size": 47933,
+  "title": "Election Results – Liberty County (FL) Supervisor of Elections",
   "error": null
 }
