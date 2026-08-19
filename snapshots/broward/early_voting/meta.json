@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-19T18:36:48Z",
-  "html_sha256": "9e39f1a8391a81fe7b388b48d9de02da0f88b0ca84bf9ccc10362ce432865155",
+  "fetched_at": "2026-08-19T21:27:48Z",
+  "html_sha256": "c479ceca8c4f90d3cab789cebe01c5cddf203460ed9b3005435419f177b73738",
   "text_sha256": "7117a6f844fc695bc8e1b5137175ce0cbb0d53a39ec2a82e700aa6ab15a6984e",
-  "byte_size": 55902,
+  "byte_size": 55825,
   "title": "August Election Early Voting Site/Secure Ballot Intake Station Locator | Broward County Supervisor of Elections",
   "error": null
 }
