@@ -149,8 +149,9 @@ def build(rev_from: str, rev_to: str | None, out: Path) -> None:
 
     status_fill = {
         "Edited": PatternFill("solid", fgColor="DDEBF7"),
-        "Switched to election-night page": PatternFill("solid", fgColor="FFEB9C"),
-        "Pages went 404": PatternFill("solid", fgColor="FFC7CE"),
+        "Election-night page (old links 404)": PatternFill("solid", fgColor="FFC7CE"),
+        "Election-night page (old links serve it)":
+            PatternFill("solid", fgColor="FFEB9C"),
         "Not comparable": PatternFill("solid", fgColor="EDEDED"),
         "No change": PatternFill("solid", fgColor="FFFFFF"),
     }
@@ -171,8 +172,8 @@ def build(rev_from: str, rev_to: str | None, out: Path) -> None:
     ws = wb.active
     ws.title = "County digest"
     heads = ["County", "What happened", "Pages changed", "In plain English",
-             "Categories that fired (with line counts)"]
-    sheet(ws, heads, [15, 30, 12, 86, 60])
+             "Categories that fired (with line counts)", "SOE site"]
+    sheet(ws, heads, [15, 32, 12, 86, 58, 40])
 
     # Index the anomalies by county so every county gets exactly one row.
     lite = {}
@@ -181,6 +182,14 @@ def build(rev_from: str, rev_to: str | None, out: Path) -> None:
     for o in a["outages"]:
         {"lite": lite, "empty": empt, "render_flip": flip}[o["class"]].setdefault(
             o["county"], []).append(o["page_type"])
+
+    # County SOE homepage, for the clickable link column.
+    home_url: dict[str, str] = {}
+    with (ROOT / "manifest" / "targets.csv").open(newline="",
+                                                  encoding="utf-8") as fh:
+        for r in csv.DictReader(fh):
+            if r["page_type"].strip() == "homepage":
+                home_url[r["county"].strip()] = r["url"].strip()
 
     figures_by_county: dict[str, list[dict]] = {}
     for n in a["numbers"]:
@@ -193,25 +202,37 @@ def build(rev_from: str, rev_to: str | None, out: Path) -> None:
         cats = a["per_county_cat"].get(county, Counter())
         figs = figures_by_county.get(county, [])
 
+        # All ten of these counties did the SAME thing — swapped their site for a
+        # static election-night page. They differ only in how the server treats the
+        # old deep URLs, which is a side effect, not a second behaviour. Labelling
+        # that difference as if it were two behaviours (an earlier version of this
+        # script did) makes Calhoun and Dixie look unrelated when they are not.
         if county in empt:
             pages = ", ".join(pt.replace("_", " ") for pt in sorted(empt[county]))
-            status = "Pages went 404"
-            desc = (f"Replaced its site with a static election-night page. "
-                    f"Its {pages} {'page' if len(empt[county]) == 1 else 'pages'} "
-                    f"now return 404 — the information moved to the state and "
-                    f"vendor systems linked from the new page, but the old "
-                    f"addresses stopped working.")
-            changed = f"{len(empt[county])} went 404"
+            status = "Election-night page (old links 404)"
+            desc = (f"Swapped its site for a minimal static election-night page "
+                    f"linking straight to results, turnout and precinct lookup. "
+                    f"Its {pages} {'URL' if len(empt[county]) == 1 else 'URLs'} "
+                    f"now return 404, so a saved link breaks outright — which at "
+                    f"least fails loudly.")
+            changed = f"{len(empt[county])} now 404"
         elif county in lite:
-            status = "Switched to election-night page"
-            desc = ("Replaced its normal site with a minimal static election-night "
-                    "page linking straight to results, turnout and precinct lookup.")
+            status = "Election-night page (old links serve it)"
+            desc = ("Swapped its site for a minimal static election-night page "
+                    "linking straight to results, turnout and precinct lookup. "
+                    "Every old URL still returns HTTP 200 — but serves that same "
+                    "election-night page instead of the page requested, so a saved "
+                    "link silently gives you the wrong content.")
             changed = f"{len(lite[county])} replaced"
         elif county in flip:
             status = "Not comparable"
-            desc = ("Captured a different way than last time (browser vs plain "
-                    "fetch), so the before/after cannot be compared. Not a change "
-                    "on the county's side.")
+            desc = ("Nothing changed on the county's side. The two captures used "
+                    "different fetch paths: the previous run was on GitHub Actions "
+                    "(a datacenter IP), where a plain request to this site is "
+                    "challenged and the pipeline escalates to a headless browser; "
+                    "this run was local, where a plain request succeeds. A browser "
+                    "render includes JS-built content a plain fetch never sees, so "
+                    "the two are not comparable.")
             changed = f"{len(flip[county])} affected"
         elif st:
             status = "Edited"
@@ -224,15 +245,21 @@ def build(rev_from: str, rev_to: str | None, out: Path) -> None:
 
         catlist = " · ".join(f"{c} ({n})" for c, n in
                              sorted(cats.items(), key=lambda x: -x[1])) or "—"
-        rows.append((county, status, changed, desc, catlist))
+        rows.append((county, status, changed, desc, catlist,
+                     home_url.get(county, "")))
 
-    order = ["Pages went 404", "Switched to election-night page", "Edited",
+    order = ["Election-night page (old links 404)",
+             "Election-night page (old links serve it)", "Edited",
              "Not comparable", "No change"]
     rows.sort(key=lambda r: (order.index(r[1]), r[0]))
 
     for r in rows:
         ws.append(list(r))
         i = ws.max_row
+        if str(r[5]).startswith("http"):
+            c = ws.cell(row=i, column=6)
+            c.hyperlink = r[5]
+            c.font = Font(name=FONT, size=10, color="0563C1", underline="single")
         for col in range(1, 6):
             c = ws.cell(row=i, column=col)
             c.font = base
@@ -241,7 +268,7 @@ def build(rev_from: str, rev_to: str | None, out: Path) -> None:
         ws.cell(row=i, column=1).font = bold
         ws.cell(row=i, column=2).fill = status_fill.get(r[1], PatternFill())
         ws.row_dimensions[i].height = None
-    ws.auto_filter.ref = f"A1:E{ws.max_row}"
+    ws.auto_filter.ref = f"A1:F{ws.max_row}"
 
     # ------------------------------------------------------- category detail --
     wc = wb.create_sheet("Category detail")
@@ -301,21 +328,59 @@ def build(rev_from: str, rev_to: str | None, out: Path) -> None:
             wm.cell(row=i, column=col).border = border
 
     # ------------------------------------------------------- site replaced ----
-    wo = wb.create_sheet("Site replaced")
-    sheet(wo, ["County", "Page type", "What happened", "Bytes before",
-               "Bytes after", "HTTP status"], [15, 15, 34, 13, 12, 15])
-    explain = {"lite": "replaced by election-night page",
-               "empty": "old URL now returns 404",
-               "render_flip": "captured differently (not comparable)"}
+    # Needs the manifest URL and the URL actually served, which live in the
+    # manifest and in each capture's meta.json rather than in the diff.
+    import json as _json
+    manifest_url = {}
+    with (ROOT / "manifest" / "targets.csv").open(newline="",
+                                                  encoding="utf-8") as fh:
+        for r in csv.DictReader(fh):
+            manifest_url[(r["county"].strip(), r["page_type"].strip())] = \
+                r["url"].strip()
+
+    def _final_url(county: str, ptype: str) -> str:
+        slug = county.lower().replace(" ", "_")
+        p = ROOT / "snapshots" / slug / ptype / "meta.json"
+        if not p.exists():
+            return ""
+        try:
+            return _json.loads(p.read_text(encoding="utf-8")).get("final_url", "")
+        except Exception:  # noqa: BLE001
+            return ""
+
+    wo = wb.create_sheet("Election-night switches")
+    sheet(wo, ["County", "Page type", "What a saved link does now",
+               "URL we asked for (old)", "URL actually served (new)",
+               "HTTP", "Bytes before → after"],
+          [14, 14, 40, 54, 54, 12, 18])
+    explain = {
+        "empty": "BREAKS — returns 404",
+        "lite": "WRONG PAGE — 200, but serves the election-night page",
+        "render_flip": "unchanged (captured differently, not comparable)",
+    }
     for o in sorted(a["outages"], key=lambda x: (x["class"] != "empty",
                                                  x["county"], x["page_type"])):
+        old_u = manifest_url.get((o["county"], o["page_type"]), "")
+        new_u = _final_url(o["county"], o["page_type"])
         wo.append([o["county"], o["page_type"].replace("_", " "),
-                   explain.get(o["class"], o["class"]),
-                   o["bytes_before"], o["bytes_after"], o["status"]])
+                   explain.get(o["class"], o["class"]), old_u, new_u,
+                   o["status"], f'{o["bytes_before"]:,} → {o["bytes_after"]:,}'])
         i = wo.max_row
-        for col in range(1, 7):
-            wo.cell(row=i, column=col).font = base
-            wo.cell(row=i, column=col).border = border
+        for col in range(1, 8):
+            c = wo.cell(row=i, column=col)
+            c.font = base
+            c.border = border
+            c.alignment = wrap
+        for col, url in ((4, old_u), (5, new_u)):
+            if url.startswith("http"):
+                cell = wo.cell(row=i, column=col)
+                cell.hyperlink = url
+                cell.font = Font(name=FONT, size=10, color="0563C1",
+                                 underline="single")
+        wo.cell(row=i, column=3).fill = (
+            PatternFill("solid", fgColor="FFC7CE") if o["class"] == "empty"
+            else PatternFill("solid", fgColor="FFEB9C") if o["class"] == "lite"
+            else PatternFill("solid", fgColor="EDEDED"))
 
     # ------------------------------------------------------------- numbers ----
     wn = wb.create_sheet("Numbers")
@@ -385,7 +450,7 @@ def build(rev_from: str, rev_to: str | None, out: Path) -> None:
     with out.with_suffix(".csv").open("w", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)
         w.writerow(["county", "what_happened", "pages_changed", "plain_english",
-                    "categories"])
+                    "categories", "soe_site"])
         w.writerows(rows)
 
     tally = Counter(r[1] for r in rows)
