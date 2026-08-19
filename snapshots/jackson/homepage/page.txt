@@ -105,7 +105,7 @@ Carol A. Dunaway
 SUPERVISOR OF ELECTIONS
 JACKSON COUNTY
 Active Registered Voters
-as of 08/17/2026
+as of 08/19/2026
 Republicans
 0
 Democrats
@@ -126,10 +126,6 @@ We acknowledge some content on this page may not be fully accessible. Please
 contact us
 for any help with accessibility.
 Calendar
-Aug
-18
-All day, 2026
-Primary Election Day
 Sep
 19
 All day, 2026
@@ -155,6 +151,13 @@ Oct
 5:00 pm
 2026
 Last Day to Request Vote-By-Mail (General)
+Oct
+22
+October 22 @ 8:00 am
+-
+October 31 @ 5:30 pm
+2026
+Early Voting for General Election
 View Calendar
 View full calendar
 2026 Primary Election Voter Turnout

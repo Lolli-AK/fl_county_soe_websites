@@ -849,7 +849,7 @@ Track My Mail Ballot
 Division of Elections
 Where Do I Vote?
 Active Registered Voters
-As of 08/13/2026
+As of 08/19/2026
 Democrats
 0
 Republicans
@@ -858,6 +858,8 @@ Others
 0
 Total
 0
+Unofficial Election Night Results
+Click here
 COUNTDOWN
 Days Until Next Election
 The Election is Now!

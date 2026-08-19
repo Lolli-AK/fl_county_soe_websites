@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-19T15:33:41Z",
-  "html_sha256": "dd7245c1acdccc7909156411bafae5232bf9c61c12b29b61b3c6d37f5bccbd37",
-  "text_sha256": "7dd211c2744a5804c98a2dbe7ca5dcb31b45651401e01ea08e1b2e2e4142ba9e",
-  "byte_size": 55327,
+  "fetched_at": "2026-08-19T18:36:48Z",
+  "html_sha256": "195a9c04fc0f04052b98a4c01cf7c1c25ac0c7f4fe8359302761cd7ce6c78266",
+  "text_sha256": "8daf986a8eea6ce6a288ef42f2e527f3ac8ec5d6ceeb51053caa261ab954db62",
+  "byte_size": 55050,
   "title": "Early Voting & Election Dates",
   "error": null
 }

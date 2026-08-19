@@ -111,7 +111,6 @@ Poll Worker
 Precinct List and Locations
 SLC Schools and Elections Service
 Third Party Voter Registration Organizations
-Quick View Turnout
 Candidates & Committees
 Campaign Finance Reports
 Candidate Files
