@@ -50,7 +50,6 @@ How to Return Your Voted Mail Ballot
 Mail Ballots for Military and Overseas Voters
 Federal Voting Assistance Program
 Notice of Access to Mail Ballot Material
-Mail Ballot Count Reporting
 Candidate Information
 2026 Candidates
 Running for Office
@@ -122,6 +121,7 @@ Current Elections
 Brevard County Supervisor of Elections
 Current Elections
 2026 Primary Election - August 18, 2026
+View Election Results
 Who May Vote:
 Brevard County voters who are registered with a political party are eligible to vote in that party's Primary Election races.
 Mass mail of Military/Overseas (UOCAVA) Mail Ballots:

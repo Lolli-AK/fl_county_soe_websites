@@ -14,6 +14,7 @@ Meet Your Supervisor
 Public Notice
 Potential Ineligibility Notice
 Election Notices
+Canvassing Schedule
 Voter Information
 Voter Lookup and Sample Ballots
 Provisional Ballot
@@ -44,6 +45,7 @@ Meet Your Supervisor
 Public Notice
 Potential Ineligibility Notice
 Election Notices
+Canvassing Schedule
 Voter Information
 Voter Lookup and Sample Ballots
 Provisional Ballot
@@ -81,6 +83,7 @@ Meet Your Supervisor
 Public Notice
 Potential Ineligibility Notice
 Election Notices
+Canvassing Schedule
 Voter Information
 Voter Lookup and Sample Ballots
 Provisional Ballot
