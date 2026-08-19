@@ -148,6 +148,9 @@ Greenville City Government
 Third Circuit Prosecutor & Defender
 Division of Elections
 Search Website
+Election Results
+2026 Madison Primary Election
+View Unofficial Results
 Check My Status
 Register to Vote
 Update My Info
@@ -165,11 +168,7 @@ Other
 1,341
 Total
 10,420
-Voter Turnout
 Upcoming Elections
-Aug 18, 2026 7:00am
-Primary Election
-Election Info & Dates
 Nov 3, 2026 7:00am
 General Election
 Election Info & Dates
@@ -191,6 +190,10 @@ Early Voting: General Election
 All Upcoming Dates
 Election News
 View all News & Announcements
+July 6, 2026
+Vote By Mail Count Reporting
+Pursuant to 102.072, this office has received 524 vote by mail ballots. 0 remain uncounted.
+Read Full Announcement
 May 27, 2026
 Book Closing Deadline for the Primary Election (July 20, 2026)
 The last day to register to vote or to make a party change to an…

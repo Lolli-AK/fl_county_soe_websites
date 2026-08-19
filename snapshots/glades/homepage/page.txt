@@ -96,7 +96,7 @@ Precinct Shape Files
 Precinct District Assignments
 Public Notices
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 08/18/2026:
+Active Registered Voters as of 08/19/2026:
 Dem: 1,411
 Rep: 4,059
 Oth: 1,313
@@ -116,7 +116,7 @@ PUBLIC NOTICE:
 Aletris Farnam is the custodian of Public Records. Email:
 [email protected]
 VBM Ballots Received
-484
+526
 Uncounted
 0
 2026 Primary Election

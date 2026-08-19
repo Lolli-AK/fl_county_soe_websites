@@ -339,16 +339,15 @@ What is an Election Worker?
 Become an Election Worker
 Election Worker Portal
 Broward County
-Today is Election Day!
-Early Voting has ended.
-Vote at your assigned precinct today. You must be in line by 7:00 p.m. to vote.
-Find my Precinct
-Check Your Ballot Status
-Ensure your vote-by-mail ballot was received and counted.
-Check Status
-Election Results Coming Soon
-Results will be available after polls close at 7:00 PM on Election Day.
-View Results
+View Unofficial Election Results
+Unofficial election results are available after 7:00 p.m. See how your community voted.
+See Unofficial Results
+Vote By Mail Next Time
+Make voting even easier next time - sign up for vote-by-mail.
+Sign Up Now
+Become a Poll Worker
+Help strengthen democracy by serving as a poll worker in future elections.
+Join Us
 View Unofficial Turnout Statistics
 Unofficial Turnout Statistics for the August 18, 2026 Election.
 All Stats
@@ -413,7 +412,7 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-8/18/26
+8/19/26
 1,360,464
 Eligible Voters
 589,891

@@ -29,6 +29,8 @@ Know what to expect before you arrive to vote.
 Military / Overseas Voters
 How to receive your Ballot.
 Elections
+Live Results
+Live Results for Primary Election
 Upcoming Elections
 Key dates, deadlines, voter turnout, and candidates for the upcoming elections
 Current Candidates
@@ -107,6 +109,8 @@ Know what to expect before you arrive to vote.
 Military / Overseas Voters
 How to receive your Ballot.
 Elections
+Live Results
+Live Results for Primary Election
 Upcoming Elections
 Key dates, deadlines, voter turnout, and candidates for the upcoming elections
 Current Candidates
@@ -231,8 +235,3 @@ News
 Get Involved
 Copyright © Seminole County Supervisor of Elections 2025. All Rights Reserved.
 Close
-×
-Find Your Polling Location
-Use our new Interactive Precinct Map.
-Find My Polling Location
-Reminder: Bring a valid photo ID.

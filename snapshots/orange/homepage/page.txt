@@ -1,19 +1,16 @@
 Orange County Supervisor of Elections | Karen Castor Dentel | Florida
 Skip to content
-Today is Primary Election Day:
-Election Center
-|
-Voter Turnout
-|
-Secure Ballot Intake Stations
-|
-Sample Ballots
-|
-Track Your Mail Ballot
-|
-Check Your Voter Information
-|
-Livestream Schedule
+Election Night Results
+List View
+–
+View results using our
+standard election results system
+.
+Map View (Beta)
+–
+View results using our
+new interactive map
+. This new feature is being tested and refined.
 EN
 |
 ES
@@ -151,32 +148,30 @@ Stay in the know.
 Here you’ll find all of the important dates for upcoming elections in Orange County, including registration deadlines, early voting windows, public meeting schedules, and more.
 Upcoming Events
 Aug
-18
-7:00 am
-–
-7:00 pm
-Election Day (Primary Election)
-Read More
-Aug
-18
-9:00 am
-–
-7:00 pm
-Vote-by-Mail Opening & Processing (Primary Election)
-Read More
-Aug
-18
-4:00 pm
-–
-7:00 pm
-Canvassing of Vote-by-Mail Ballots (Primary Election)
-Read More
-Aug
 19
 August 19 @ 9:00 am
 –
 August 20 @ 6:00 pm
 Automated Audit Processing Continues (Primary Election)
+Read More
+Aug
+20
+10:00 am
+–
+12:00 pm
+Certification of Unofficial Results (Primary Election)
+Read More
+Aug
+25
+9:00 am
+–
+12:00 pm
+Certification of Official Results (Primary Election)
+Read More
+Sep
+17
+All day
+Overseas (UOCAVA) Ballots Are Mailed (General Election)
 Read More
 View Calendar
 VOTER STATISTICS

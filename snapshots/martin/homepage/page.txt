@@ -83,8 +83,10 @@ Vote by Mail
 Elected Officials
 Register to Vote or Update my Record
 Sample Ballots
-Martin county 2026 State Primary Election – RESULTS WILL BE UPLOADED ELECTION NIGHT
+Martin county 2026 State Primary Election – RESULTS
 SCROLLING RESULTS
+Vote by Mail Ballots Received: 10,459
+Vote by Mail Ballots Remaining to be Counted: 0
 What’s New
 Notice of Election
 Primary Election 2026
@@ -110,11 +112,6 @@ F.S. 100.371(14)(f)
 Notice of Potential Ineligibility
 Public Records Policy
 Upcoming Events
-Election Day – 2026 Primary Election
-18
-August
-2026
-Find your Precinct
 Office Closed – Labor Day
 07
 September
@@ -154,6 +151,10 @@ Office Closed – Christmas Day
 25
 December
 2026
+Office Closed – New Years Day
+01
+January
+2027
 See Calendar
 The Martin County Supervisor of Elections is committed to ensuring accessibility of its website to individuals with disabilities. To report an ADA accessibility issue, request accessibility assistance regarding our website content, or to request a specific electronic format, please contact 772-288-5637, TTY 772-692-7320 or email
 [email protected]

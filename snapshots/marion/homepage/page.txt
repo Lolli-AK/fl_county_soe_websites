@@ -12,10 +12,9 @@ Update My Info
 Where Do I Vote?
 Early Voting
 Am I Registered?
+Share
 Election Night Results
 See the Results
-Voter Turnout
-View the Numbers
 Voter Quick Links
 Check My Registration Status
 Update My Voter Information
@@ -99,13 +98,13 @@ S
 4
 5
 Tue, Aug. 18
-2026 Primary Election
-Tue, Aug. 18
 Canvass Vote by Mail Ballots, Duplication
 Tue, Aug. 18
 Canvass Vote by Mail Ballots, Duplication
 Thu, Aug. 20
 Canvass Vote by Mail Ballots, Duplication, First Unofficial
+Mon, Aug. 24
+Post-Election Audit
 View All Events
 /Calendar.aspx
 Marion County Election Center

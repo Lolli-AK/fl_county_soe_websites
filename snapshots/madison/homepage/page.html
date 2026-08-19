@@ -910,7 +910,24 @@
      <div class="absolute z-0 w-full inset-0 opacity-10 mix-blend-multiply" v-lazy:background-image="'/images/burlap.webp'">
      </div>
      <div class="relative z-30 md:-mt-20 lg:-mt-56 mb-12 max-w-[1600px] mx-auto px-4">
-      <div class="h-1">
+      <div class="relative z-10 mb-2 md:mb-6 p-4 sm:p-8 md:px-16 lg:py-12 xl:mx-8 2xl:mx-12 gradient-election-results">
+       <div class="flex flex-col md:flex-row justify-between items-center gap-4 text-white relative z-10">
+        <div tabindex="0">
+         <h2 class="text-2xl md:text-5xl font-extrabold pb-2 subpixel-antialiased">
+          Election Results
+         </h2>
+         <span class="text-white text-lg md:text-2xl italic" role="heading">
+          2026 Madison Primary Election
+         </span>
+        </div>
+        <div class="flex items-center gap-4">
+         <a aria-label="View Unofficial Results opens in a new tab" class="btn btn-accent-outlined bg-white md:text-xl" href="https://enr.electionsfl.org/MAD/4008/Summary/" target="_blank">
+          View Unofficial Results
+         </a>
+        </div>
+       </div>
+       <div class="absolute top-0 w-2/3 h-full bg-center md:right-40 bg-no-repeat z-0 mix-blend-pass-through mask-fade-right">
+       </div>
       </div>
       <div class="relative z-30 border-primary-dark border-4 lg:border-[10px] p-2 sm:p-8 md:py-10 bg-secondary-light xl:mx-8 2xl:mx-12">
        <div class="grid md:grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:grid-cols-4">
@@ -1026,15 +1043,8 @@
        </div>
       </div>
      </div>
-     <section class="w-full bg-primary-dark p-8 xl:px-16 xl:py-24 relative z-10 bg-cover" v-lazy:background-image="'/images/Voter-turnout copy.webp'">
-      <h2 class="flex text-white font-black uppercase text-xl md:text-3xl justify-center items-center gap-4 lg:gap-12" tabindex="0">
-       <img alt="" class="hidden sm:block sm:w-auto" height="31.17" role="presentation" v-lazy="'/images/blue-stars.svg'" width="127.33"/>
-       Voter Turnout
-       <img alt="" class="hidden sm:block sm:w-auto" height="31.17" role="presentation" v-lazy="'/images/blue-stars.svg'" width="127.33"/>
-      </h2>
-      <div class="w-full max-w-7xl mx-auto text-center md:p-8 my-8 h-[650px] lg:h-[670px] border-8 border-primary bg-white">
-      </div>
-     </section>
+     <div class="h-4 bg-primary-dark">
+     </div>
      <section class="bg-secondary-light relative pb-6 bg-no-repeat bg-blend-multiply bg-cover bg-center" v-lazy:background-image="'/images/events-1.webp'">
       <div class="relative z-10 mx-auto p-6 lg:py-12 max-w-screen-2xl">
        <div class="w-full grid lg:grid-cols-2 gap-8 xl:gap-12 2xl:gap-20">
@@ -1044,21 +1054,6 @@
            Upcoming Elections
           </h2>
           <img alt="" class="hidden sm:block sm:w-auto" height="31.17" role="presentation" v-lazy="'/images/dark-blue-stars.svg'" width="127.33"/>
-         </div>
-         <div class="p-6 md:p-8 bg-gradient-to-r from-primary-dark via-primary-dark to-primary-light mb-4 flex flex-col md:flex-row items-center relative overflow-hidden" tabindex="0">
-          <div class="md:pr-4 grow z-10 relative pb-4 md:pb-0" tabindex="0">
-           <p class="text-secondary-light md:text-lg font-bold">
-            Aug 18, 2026 7:00am
-           </p>
-           <h3 class="text-white text-2xl md:text-3xl md:pt-2 font-extrabold leading-tight">
-            Primary Election
-           </h3>
-          </div>
-          <a class="btn-primary flex-none border-primary bg-primary hover:scale-105 hover:after:bg-white hover:bg-white hover:text-primary z-10 relative" href="https://www.votemadison.com/events/primary-election/">
-           Election Info &amp; Dates
-          </a>
-          <div class="absolute top-0 right-0 w-1/2 h-full bg-right bg-no-repeat opacity-20 z-0" v-lazy:background-image="'/images/stars.svg'">
-          </div>
          </div>
          <div class="p-6 md:p-8 bg-gradient-to-r from-primary-dark via-primary-dark to-primary-light mb-4 flex flex-col md:flex-row items-center relative overflow-hidden" tabindex="0">
           <div class="md:pr-4 grow z-10 relative pb-4 md:pb-0" tabindex="0">
@@ -1181,6 +1176,24 @@
         </div>
        </div>
        <div class="not-prose">
+        <a aria-label="Read full announcement, Vote By Mail Count Reporting" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.votemadison.com/announcements/2026-primary-election-early-voting-dates-and-hours/" tabindex="0">
+         <div class="relative z-10 xl:pr-12">
+          <span class="text-accent text-lg font-bold uppercase" tabindex="0">
+           July 6, 2026
+          </span>
+          <p class="text-primary-dark font-bold text-2xl md:text-3xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased" role="heading" tabindex="0">
+           Vote By Mail Count Reporting
+          </p>
+          <p class="font-semibold text-gray-800 text-pretty mt-2 pb-2 md:pb-0" tabindex="0">
+           Pursuant to 102.072, this office has received 524 vote by mail ballots. 0 remain uncounted.
+          </p>
+         </div>
+         <span class="flex-none whitespace-nowrap btn-simple border-primary-dark font-heading bg-primary-dark group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
+          Read Full Announcement
+         </span>
+         <div class="bg-cover absolute z-0 inset-0 bg-right">
+         </div>
+        </a>
         <a aria-label="Read full announcement, Book Closing Deadline for the Primary Election (July 20, 2026)" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://www.votemadison.com/announcements/book-closing-deadline-for-the-primary-election-july-20-2026/" tabindex="0">
          <div class="relative z-10 xl:pr-12">
           <span class="text-accent text-lg font-bold uppercase" tabindex="0">

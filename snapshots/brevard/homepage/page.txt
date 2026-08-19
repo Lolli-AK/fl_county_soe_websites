@@ -1,11 +1,5 @@
 Brevard County Supervisor of Elections
 Skip Navigation
-Election Day is Tuesday, August 18.
-Polls are open between 7 AM and 7 PM.
-You must vote at your precinct specific polling location on Election Day.
-Visit
-Find Your Precinct
-to locate your polling location, or refer to your Voter Information Card.
 321-290-VOTE (8683)
 1-833-803-0613 (Spanish - Toll Free)
 Official government website
@@ -56,6 +50,7 @@ How to Return Your Voted Mail Ballot
 Mail Ballots for Military and Overseas Voters
 Federal Voting Assistance Program
 Notice of Access to Mail Ballot Material
+Mail Ballot Count Reporting
 Candidate Information
 2026 Candidates
 Running for Office
@@ -125,7 +120,7 @@ Welcome to the Brevard County
 Supervisor of Elections
 Tim Bobanic
 Active Registered Voters as of:
-08/18/2026
+08/19/2026
 Republican
 205,697
 Democratic
@@ -136,16 +131,14 @@ Others
 18,615
 Total
 441,794
-2026 Primary Election Unofficial Turnout
-View Unofficial Turnout
 2026 Primary Election Results
 View Election Results
+2026 Primary Election Unofficial Turnout
+View Unofficial Turnout
 2026 Primary Election Frequently Asked Questions
 View Frequently Asked Questions
 Track Your Mail Ballot
 Check Your Mail Ballot Status
-Secure Ballot Intake Station Locations & Hours
-View Locations and Hours
 2026 Primary Election Sample Ballots
 View Your 2026 Primary Sample Ballot
 View Announced and Qualified Candidates for the 2026 Election Cycle
@@ -177,11 +170,6 @@ X
 Brevard County Supervisor of Elections
 Upcoming Events
 August 18, 2026
-7:00 AM -
-7:00 PM
-2026 Primary Election Day
-Read More
-August 18, 2026
 7:45 PM -
 Canvass Election Day returns (Unofficial Results) & Review of Mail Ballots - 2026 Primary Election
 Read More
@@ -197,6 +185,11 @@ August 28, 2026
 2:00 PM -
 4:00 PM
 Voter Registration Drive - Life Care Center of Melbourne
+Read More
+September 2, 2026
+10:30 AM -
+12:30 PM
+Voter Registration Drive - Harborview Health Center
 Read More
 Brevard County Supervisor of Elections
 Election Public Notices

@@ -1,11 +1,5 @@
 Brevard County Supervisor of Elections > Election Information > Current Elections
 Skip Navigation
-Election Day is Tuesday, August 18.
-Polls are open between 7 AM and 7 PM.
-You must vote at your precinct specific polling location on Election Day.
-Visit
-Find Your Precinct
-to locate your polling location, or refer to your Voter Information Card.
 321-290-VOTE (8683)
 1-833-803-0613 (Spanish - Toll Free)
 Official government website
@@ -56,6 +50,7 @@ How to Return Your Voted Mail Ballot
 Mail Ballots for Military and Overseas Voters
 Federal Voting Assistance Program
 Notice of Access to Mail Ballot Material
+Mail Ballot Count Reporting
 Candidate Information
 2026 Candidates
 Running for Office
