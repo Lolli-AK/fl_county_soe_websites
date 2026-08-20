@@ -93,10 +93,22 @@ map2_df <- cty %>%
                                   levels = c("VR Systems", "CivicPlus",
                                              "WordPress", "other")))
 
+# Both maps are categorical, so both would otherwise draw the first hues of the
+# categorical palette — and side by side that makes green mean "Edited" on the left
+# and "WordPress" on the right, which misreads at a glance. Give vendor its own
+# hand-built scale from medsl_colors (the pattern standard_bar.R uses) picking
+# brand colors the behaviour scale does not touch.
+vendor_colors <- c(
+  "VR Systems" = unname(medsl_colors[["steel"]]),
+  "CivicPlus"  = unname(medsl_colors[["olive"]]),
+  "WordPress"  = unname(medsl_colors[["crimson"]]),
+  "other"      = unname(medsl_colors[["navy"]])
+)
+
 p2 <- ggplot(left_join(fl, map2_df, by = "fips")) +
   geom_sf(aes(fill = vendor), color = "white", linewidth = 0.15) +
-  scale_fill_medsl_categorical(name = "Website vendor",
-                               na.value = "#C4C4C4") +
+  scale_fill_manual(name = "Website vendor", values = vendor_colors,
+                    na.value = "#C4C4C4", drop = FALSE) +
   labs(
     title    = "Supervisor of Elections Website Vendor by County",
     subtitle = "67 Florida counties, identified from captured page markup",
@@ -111,17 +123,36 @@ ggsave_medsl(file.path(out_dir, "fig2-vendor-map.png"), p2,
 
 # --- 2b. The two maps side by side -----------------------------------------
 # Read together they carry the actual point, so ship the pair as one figure too.
-pair <- (p1 + labs(title = NULL, subtitle = NULL, caption = NULL) |
-         p2 + labs(title = NULL, subtitle = NULL, caption = NULL)) +
+# Each panel keeps its own legend (the two fills are different scales, so
+# patchwork cannot merge them). Side by side each legend gets half the width, and
+# a legend whose title sits to its LEFT with long labels on two rows overruns that
+# — which is what clipped the bottom-left block. Moving each title above its keys
+# and adding a row reclaims the width.
+legend_fix <- function(p, rows) {
+  p +
+    guides(fill = guide_legend(title.position = "top", nrow = rows,
+                               byrow = TRUE)) +
+    theme(legend.position   = "bottom",
+          legend.title      = element_text(size = 9),
+          legend.text       = element_text(size = 8),
+          legend.key.size   = unit(0.9, "lines"),
+          legend.box.margin = margin(t = 4))
+}
+
+pair <- (legend_fix(p1 + labs(title = NULL, subtitle = NULL, caption = NULL), 3) |
+         legend_fix(p2 + labs(title = NULL, subtitle = NULL, caption = NULL), 2)) +
   plot_annotation(
     title    = "Election-Day Website Behavior and Vendor by County",
     subtitle = "67 Florida counties, 2026 primary election",
     caption  = medsl_caption(source = src),
+    # No note here: plot_annotation() has no tag slot (its `tag_levels` labels
+    # panels, not the figure), and the panels now use disjoint palettes anyway, so
+    # there is nothing left to caveat.
     theme    = theme_medsl_map()
   )
 
 ggsave_medsl(file.path(out_dir, "fig2b-behavior-and-vendor.png"), pair,
-             width = 13, height = 6.5, dpi = 300)
+             width = 13, height = 7.6, dpi = 300)
 
 # --- 3. Population within VR Systems counties ------------------------------
 # The comparison group that matters. Across all 67 counties, vendor confounds size:
@@ -168,6 +199,69 @@ p3 <- ggplot(vr, aes(x = population_2020, y = switched, color = switched)) +
 ggsave_medsl(file.path(out_dir, "fig3-vr-population.png"), p3,
              width = 9, height = 4.2, dpi = 300)
 
+# --- 4. Vendor by rurality -------------------------------------------------
+# Florida uses only RUCC 1,2,3,4,6,8,9 — codes 5 and 7 have no counties — and
+# several of those hold a single county. Collapsing to five ordered bands keeps
+# every group large enough to read while preserving the urban-to-rural order.
+rucc_band <- function(x) {
+  dplyr::case_when(
+    x == 1 ~ "Large metro (1M+)",
+    x == 2 ~ "Medium metro (250k-1M)",
+    x == 3 ~ "Small metro (<250k)",
+    x %in% c(4, 5, 6, 7) ~ "Nonmetro, has an urban core",
+    x %in% c(8, 9) ~ "Nonmetro, rural",
+    TRUE ~ NA_character_
+  )
+}
+band_levels <- c("Large metro (1M+)", "Medium metro (250k-1M)",
+                 "Small metro (<250k)", "Nonmetro, has an urban core",
+                 "Nonmetro, rural")
+
+vend_levels <- c("VR Systems", "CivicPlus", "WordPress", "other")
+band_df <- cty %>%
+  mutate(band = factor(rucc_band(rucc), levels = band_levels),
+         vendor = factor(vendor, levels = vend_levels)) %>%
+  count(band, vendor, .drop = FALSE) %>%
+  group_by(band) %>%
+  mutate(band_n = sum(n)) %>%
+  ungroup() %>%
+  mutate(band_label = sprintf("%s  (n = %d)", band, band_n))
+
+label_levels <- band_df %>%
+  distinct(band, band_label) %>%
+  arrange(band) %>%
+  pull(band_label)
+band_df$band_label <- factor(band_df$band_label, levels = rev(label_levels))
+
+# Counts, not shares: one band holds a single county, and a 100% stacked bar would
+# render that as a full-width block indistinguishable from a unanimous group of 22.
+p4 <- ggplot(band_df, aes(x = n, y = band_label, fill = vendor)) +
+  # reverse = TRUE so segments stack in legend order, putting the dominant vendor
+  # against the axis: VR Systems' count is then directly comparable across bands
+  # instead of starting at a different offset in every bar.
+  geom_col(width = 0.68, position = position_stack(reverse = TRUE)) +
+  # Same vendor -> color mapping as the map, so a vendor keeps its color across
+  # every figure here.
+  scale_fill_manual(name = "Website vendor", values = vendor_colors,
+                    drop = FALSE) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.04))) +
+  labs(
+    title    = "Website Vendor by County Rurality",
+    subtitle = "67 Florida counties, grouped by USDA rural-urban continuum code",
+    x        = "Counties",
+    y        = NULL,
+    caption  = medsl_caption(source = src),
+    tag      = paste("Continuum codes 5 and 7 have no Florida counties;",
+                     "codes 4-7 and 8-9 are collapsed to keep group sizes readable.")
+  ) +
+  theme_medsl() +
+  theme(plot.tag.position = c(0.99, 0.02),
+        plot.tag = element_text(size = 7, colour = "#666666",
+                                hjust = 1, vjust = 0))
+
+ggsave_medsl(file.path(out_dir, "fig4-vendor-by-rurality.png"), p4,
+             width = 9.5, height = 4.6, dpi = 300)
+
 # --- console summary -------------------------------------------------------
 cat("\nwithin VR Systems counties:\n")
 vr %>%
@@ -177,6 +271,13 @@ vr %>%
             median_pop = median(population_2020),
             max_pop = max(population_2020),
             .groups = "drop") %>%
+  as.data.frame() %>%
+  print(row.names = FALSE)
+
+cat("\nvendor by rurality band:\n")
+band_df %>%
+  filter(n > 0) %>%
+  select(band, vendor, n) %>%
   as.data.frame() %>%
   print(row.names = FALSE)
 
