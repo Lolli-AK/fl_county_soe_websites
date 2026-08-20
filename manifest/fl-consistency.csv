@@ -1,0 +1,269 @@
+county,fact,verdict,internally_inconsistent,expected,authority,stated_values,pages_stating,detail
+Alachua,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Alachua,election_date,next election not named,,"November 3, 2026",2026 general election date,2026-08-07 | 2026-08-15 | 2024-11-15 | 2022-11-08 | 2022-08-23 | 2021-11-16,2,"names 2026-08-07, 2026-08-15, 2024-11-15, 2022-11-08 but not the Nov 3 general"
+Alachua,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Alachua,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Baker,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Baker,election_date,matches,,"November 3, 2026",2026 general election date,2026-07-20 | 2026-08-18 | 2026-10-05 | 2026-11-03,1,2026-11-03
+Baker,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Baker,early_voting,conflicts,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,2026-07-29 | 2026-08-18,1,"only past-election dates: 2026-07-29, 2026-08-18"
+Bay,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Bay,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-08 | 2026-08-15 | 2026-11-03 | 2026-09-19 | 2026-09-24 | 2026-10-05,3,2026-11-03
+Bay,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Bay,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Bradford,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Bradford,election_date,next election not named,,"November 3, 2026",2026 general election date,2026-03-23 | 2026-04-20 | 2026-04-24 | 2026-05-11 | 2026-06-08 | 2026-06-12,1,"names 2026-03-23, 2026-04-20, 2026-04-24, 2026-05-11 but not the Nov 3 general"
+Bradford,registration_deadline,conflicts,,"October 5, 2026","book closing, 29 days before Nov 3",2025-07-21 | 2025-11-03,1,"states 2025-07-21, 2025-11-03"
+Bradford,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Brevard,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Brevard,election_date,matches,,"November 3, 2026",2026 general election date,2026-10-19 | 2026-10-31 | 2026-08-18 | 2026-07-02 | 2026-07-16 | 2026-07-20,4,2026-11-03
+Brevard,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Brevard,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Broward,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Broward,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-07-04 | 2026-08-06 | 2026-11-03 | 2026-09-19 | 2026-09-24,3,2026-11-03
+Broward,registration_deadline,matches,yes,"October 5, 2026","book closing, 29 days before Nov 3",2026-07-20 | 2026-10-05 | 2026-08-18,2,2026-10-05
+Broward,early_voting,matches,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,2026-11-01,1,2026-11-01
+Calhoun,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Calhoun,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-11-03,1,2026-11-03
+Calhoun,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Calhoun,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Charlotte,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Charlotte,election_date,not stated,,"November 3, 2026",2026 general election date,,0,
+Charlotte,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Charlotte,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Citrus,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Citrus,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-07 | 2026-08-15 | 2026-10-22 | 2026-10-31 | 2025-03-13 | 2026-08-18,3,2026-11-03
+Citrus,registration_deadline,matches,,"October 5, 2026","book closing, 29 days before Nov 3",2026-07-20 | 2026-10-05,1,2026-10-05
+Citrus,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Clay,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Clay,election_date,next election not named,,"November 3, 2026",2026 general election date,2026-08-20 | 2026-10-23 | 2026-10-24 | 2026-10-25 | 2026-10-26 | 2026-10-27,2,"names 2026-08-20, 2026-10-23, 2026-10-24, 2026-10-25 but not the Nov 3 general"
+Clay,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Clay,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Collier,poll_hours,matches,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,7 a.m. - 7 p.m.,1,7 a.m. - 7 p.m.
+Collier,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-11-03 | 2026-08-21,2,2026-11-03
+Collier,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Collier,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Columbia,poll_hours,matches,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,7 a.m. - 7 p.m.,1,7 a.m. - 7 p.m.
+Columbia,election_date,matches,,"November 3, 2026",2026 general election date,2026-07-20 | 2026-08-18 | 2026-10-05 | 2026-11-03 | 2026-08-21,2,2026-11-03
+Columbia,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Columbia,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+DeSoto,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+DeSoto,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-08-08 | 2026-08-15 | 2026-11-03 | 2026-10-22 | 2026-10-31,2,2026-11-03
+DeSoto,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+DeSoto,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Dixie,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Dixie,election_date,next election not named,,"November 3, 2026",2026 general election date,2026-08-08 | 2026-08-15 | 2026-10-22 | 2026-10-31 | 2026-04-23,2,"names 2026-08-08, 2026-08-15, 2026-10-22, 2026-10-31 but not the Nov 3 general"
+Dixie,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Dixie,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Duval,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Duval,election_date,next election not named,,"November 3, 2026",2026 general election date,2018-11-06 | 2026-08-19 | 2026-08-18 | 2026-08-16 | 2026-07-01,2,"names 2018-11-06, 2026-08-19, 2026-08-18, 2026-08-16 but not the Nov 3 general"
+Duval,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Duval,early_voting,conflicts,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,2026-08-07 | 2026-08-16,1,"only past-election dates: 2026-08-07, 2026-08-16"
+Escambia,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Escambia,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-11-03 | 2026-07-21 | 2026-06-12 | 2026-06-11 | 2026-06-10,4,2026-11-03
+Escambia,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Escambia,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Flagler,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Flagler,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-15 | 2026-10-31 | 2026-08-18 | 2026-11-03 | 2026-08-27 | 2026-09-17,4,2026-11-03
+Flagler,registration_deadline,conflicts,,"October 5, 2026","book closing, 29 days before Nov 3",2026-07-20,1,states 2026-07-20
+Flagler,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Franklin,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Franklin,election_date,not stated,,"November 3, 2026",2026 general election date,,0,
+Franklin,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Franklin,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Gadsden,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Gadsden,election_date,matches,,"November 3, 2026",2026 general election date,2026-10-05 | 2026-11-03,2,2026-11-03
+Gadsden,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Gadsden,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Gilchrist,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Gilchrist,election_date,next election not named,,"November 3, 2026",2026 general election date,2025-12-02,1,names 2025-12-02 but not the Nov 3 general
+Gilchrist,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Gilchrist,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Glades,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Glades,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-11-03 | 2026-10-24 | 2026-10-31 | 2026-08-04 | 2026-08-06,2,2026-11-03
+Glades,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Glades,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Gulf,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Gulf,election_date,matches,,"November 3, 2026",2026 general election date,2026-11-03 | 2026-09-19 | 2026-09-24 | 2026-10-05 | 2026-10-24 | 2026-08-01,1,2026-11-03
+Gulf,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Gulf,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Hamilton,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Hamilton,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-08 | 2026-08-15 | 2026-10-24 | 2026-10-31 | 2026-11-03 | 2026-09-07,2,2026-11-03
+Hamilton,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Hamilton,early_voting,conflicts,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,2026-08-08 | 2026-08-15,1,"only past-election dates: 2026-08-08, 2026-08-15"
+Hardee,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Hardee,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-07-20 | 2026-08-06 | 2026-08-15 | 2026-11-03 | 2026-10-05,2,2026-11-03
+Hardee,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Hardee,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Hendry,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Hendry,election_date,not stated,,"November 3, 2026",2026 general election date,,0,
+Hendry,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Hendry,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Hernando,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Hernando,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-08 | 2026-08-15 | 2026-10-22 | 2026-10-31 | 2026-11-03 | 2026-08-18,3,2026-11-03
+Hernando,registration_deadline,matches,,"October 5, 2026","book closing, 29 days before Nov 3",2026-07-20 | 2026-10-05,1,2026-10-05
+Hernando,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Highlands,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Highlands,election_date,matches,,"November 3, 2026",2026 general election date,2026-02-09 | 2026-03-10 | 2026-03-09 | 2026-04-07 | 2026-07-20 | 2026-08-18,2,2026-11-03
+Highlands,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Highlands,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Hillsborough,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Hillsborough,election_date,next election not named,,"November 3, 2026",2026 general election date,2026-11-01,1,names 2026-11-01 but not the Nov 3 general
+Hillsborough,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Hillsborough,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Holmes,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Holmes,election_date,next election not named,,"November 3, 2026",2026 general election date,2024-07-31 | 2026-08-06 | 2026-08-18,1,"names 2024-07-31, 2026-08-06, 2026-08-18 but not the Nov 3 general"
+Holmes,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Holmes,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Indian River,poll_hours,matches,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,7 a.m. - 7 p.m.,1,7 a.m. - 7 p.m.
+Indian River,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-11-03,1,2026-11-03
+Indian River,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Indian River,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Jackson,poll_hours,matches,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,7 a.m. - 7 p.m.,1,7 a.m. - 7 p.m.
+Jackson,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-11-03,1,2026-11-03
+Jackson,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Jackson,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Jefferson,poll_hours,matches,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,7 a.m. - 7 p.m.,1,7 a.m. - 7 p.m.
+Jefferson,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-03 | 2026-08-15 | 2026-10-19 | 2026-10-31 | 2026-09-24 | 2026-10-01,3,2026-11-03
+Jefferson,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Jefferson,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Lafayette,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Lafayette,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-08 | 2026-08-15 | 2026-08-18 | 2026-10-24 | 2026-10-31 | 2026-11-03,1,2026-11-03
+Lafayette,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Lafayette,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Lake,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Lake,election_date,next election not named,,"November 3, 2026",2026 general election date,2026-08-18,1,names 2026-08-18 but not the Nov 3 general
+Lake,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Lake,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Lee,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Lee,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-11-03 | 2026-08-08 | 2026-08-15 | 2026-10-19 | 2026-10-31,5,2026-11-03
+Lee,registration_deadline,conflicts,,"October 5, 2026","book closing, 29 days before Nov 3",2026-08-18,1,states 2026-08-18
+Lee,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Leon,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Leon,election_date,not stated,,"November 3, 2026",2026 general election date,,0,
+Leon,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Leon,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Levy,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Levy,election_date,matches,,"November 3, 2026",2026 general election date,2026-09-24 | 2026-10-01 | 2026-11-03 | 2026-09-19 | 2026-10-05 | 2026-10-22,2,2026-11-03
+Levy,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Levy,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Liberty,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Liberty,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-07-31 | 2026-11-03 | 2026-10-16,2,2026-11-03
+Liberty,registration_deadline,matches,,"October 5, 2026","book closing, 29 days before Nov 3",2026-07-20 | 2026-10-05,1,2026-10-05
+Liberty,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Madison,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Madison,election_date,matches,,"November 3, 2026",2026 general election date,2026-09-24 | 2026-10-01 | 2026-11-03 | 2026-09-19 | 2026-10-05 | 2026-10-24,2,2026-11-03
+Madison,registration_deadline,conflicts,,"October 5, 2026","book closing, 29 days before Nov 3",2026-07-20,1,states 2026-07-20
+Madison,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Manatee,poll_hours,matches,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,7 a.m. - 7 p.m.,2,7 a.m. - 7 p.m.
+Manatee,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-08 | 2026-08-16 | 2026-03-10 | 2026-02-26 | 2026-03-09 | 2026-02-09,3,2026-11-03
+Manatee,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Manatee,early_voting,matches,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,2026-08-08 | 2026-08-16 | 2026-10-19 | 2026-11-01,1,2026-10-19; 2026-11-01
+Marion,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Marion,election_date,next election not named,,"November 3, 2026",2026 general election date,2026-08-08 | 2026-08-15 | 2026-10-22 | 2026-10-31,1,"names 2026-08-08, 2026-08-15, 2026-10-22, 2026-10-31 but not the Nov 3 general"
+Marion,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Marion,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Martin,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Martin,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-20 | 2026-08-21 | 2026-08-22 | 2026-08-24 | 2026-09-19 | 2026-09-24,1,2026-11-03
+Martin,registration_deadline,matches,,"October 5, 2026","book closing, 29 days before Nov 3",2026-10-05,1,2026-10-05
+Martin,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Miami-Dade,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Miami-Dade,election_date,next election not named,,"November 3, 2026",2026 general election date,2026-05-01 | 2017-12-05 | 2017-11-21 | 2017-11-07 | 2017-10-03 | 2017-09-26,2,"names 2026-05-01, 2017-12-05, 2017-11-21, 2017-11-07 but not the Nov 3 general"
+Miami-Dade,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Miami-Dade,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Monroe,poll_hours,matches,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,7 a.m. - 7 p.m.,2,7 a.m. - 7 p.m.
+Monroe,election_date,next election not named,,"November 3, 2026",2026 general election date,2026-08-18,1,names 2026-08-18 but not the Nov 3 general
+Monroe,registration_deadline,matches,,"October 5, 2026","book closing, 29 days before Nov 3",2026-07-20 | 2026-10-05,1,2026-10-05
+Monroe,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Nassau,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Nassau,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-05-08 | 2026-06-30 | 2026-07-06 | 2026-07-09 | 2026-07-20,1,2026-11-03
+Nassau,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Nassau,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Okaloosa,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Okaloosa,election_date,matches,,"November 3, 2026",2026 general election date,2026-11-03 | 2026-10-05 | 2026-08-17 | 2026-08-14 | 2026-07-27 | 2014-08-26,3,2026-11-03
+Okaloosa,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Okaloosa,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Okeechobee,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Okeechobee,election_date,next election not named,,"November 3, 2026",2026 general election date,2026-08-18 | 2024-11-05 | 2024-08-20 | 2024-03-19 | 2022-11-08 | 2022-08-23,2,"names 2026-08-18, 2024-11-05, 2024-08-20, 2024-03-19 but not the Nov 3 general"
+Okeechobee,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Okeechobee,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Orange,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Orange,election_date,next election not named,,"November 3, 2026",2026 general election date,2027-01-01 | 2026-08-18 | 2026-07-30 | 2026-04-14 | 2026-03-10 | 2026-03-07,3,"names 2027-01-01, 2026-08-18, 2026-07-30, 2026-04-14 but not the Nov 3 general"
+Orange,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Orange,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Osceola,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Osceola,election_date,not stated,,"November 3, 2026",2026 general election date,,0,
+Osceola,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Osceola,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Palm Beach,poll_hours,matches,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,7 a.m. - 7 p.m.,1,7 a.m. - 7 p.m.
+Palm Beach,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-07-20 | 2026-08-06 | 2026-11-03 | 2026-10-05 | 2026-10-22,1,2026-11-03
+Palm Beach,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Palm Beach,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Pasco,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Pasco,election_date,matches,,"November 3, 2026",2026 general election date,2026-07-20 | 2026-08-18 | 2026-10-05 | 2026-11-03,1,2026-11-03
+Pasco,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Pasco,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Pinellas,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Pinellas,election_date,matches,,"November 3, 2026",2026 general election date,2026-11-01 | 2026-08-18 | 2026-11-03 | 2027-03-09 | 2027-11-02 | 2028-03-21,3,2026-11-03
+Pinellas,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Pinellas,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Polk,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Polk,election_date,not stated,,"November 3, 2026",2026 general election date,,0,
+Polk,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Polk,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Putnam,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Putnam,election_date,matches,,"November 3, 2026",2026 general election date,2026-11-03 | 2026-10-05 | 2026-10-19 | 2026-10-31 | 2000-09-05 | 2000-10-03,2,2026-11-03
+Putnam,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Putnam,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Santa Rosa,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Santa Rosa,election_date,next election not named,,"November 3, 2026",2026 general election date,2026-08-13 | 2026-04-16 | 2026-04-17 | 2026-08-03 | 2026-08-04 | 2026-08-05,1,"names 2026-08-13, 2026-04-16, 2026-04-17, 2026-08-03 but not the Nov 3 general"
+Santa Rosa,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Santa Rosa,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Sarasota,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Sarasota,election_date,matches,,"November 3, 2026",2026 general election date,2026-11-03 | 2024-07-31,2,2026-11-03
+Sarasota,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Sarasota,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Seminole,poll_hours,matches,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,7 a.m. - 7 p.m.,1,7 a.m. - 7 p.m.
+Seminole,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-07-20 | 2026-08-06 | 2026-11-03 | 2026-10-22 | 2026-05-25,3,2026-11-03
+Seminole,registration_deadline,matches,,"October 5, 2026","book closing, 29 days before Nov 3",2026-07-20 | 2026-10-05,1,2026-10-05
+Seminole,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+St. Johns,poll_hours,matches,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,7 a.m. - 7 p.m.,1,7 a.m. - 7 p.m.
+St. Johns,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-08-15 | 2026-07-20 | 2026-08-06 | 2026-11-03 | 2026-10-31,2,2026-11-03
+St. Johns,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+St. Johns,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+St. Lucie,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+St. Lucie,election_date,matches,,"November 3, 2026",2026 general election date,2026-10-05 | 2026-10-22 | 2026-10-19 | 2026-10-31 | 2026-10-25 | 2026-11-03,1,2026-11-03
+St. Lucie,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+St. Lucie,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Sumter,poll_hours,matches,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,7 a.m. - 7 p.m.,1,7 a.m. - 7 p.m.
+Sumter,election_date,matches,,"November 3, 2026",2026 general election date,2026-07-20 | 2026-08-18 | 2026-10-05 | 2026-11-03,1,2026-11-03
+Sumter,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Sumter,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Suwannee,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Suwannee,election_date,matches,,"November 3, 2026",2026 general election date,2026-09-24 | 2026-11-03 | 2026-09-19 | 2026-10-05 | 2026-10-24 | 2026-08-03,2,2026-11-03
+Suwannee,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Suwannee,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Taylor,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Taylor,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-08 | 2026-08-15 | 2026-10-24 | 2026-10-31 | 2026-09-24 | 2026-10-01,3,2026-11-03
+Taylor,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Taylor,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Union,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Union,election_date,matches,,"November 3, 2026",2026 general election date,2026-06-23 | 2026-11-03 | 2026-09-19 | 2026-09-24 | 2026-10-05 | 2026-10-24,2,2026-11-03
+Union,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Union,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Volusia,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Volusia,election_date,next election not named,,"November 3, 2026",2026 general election date,2026-08-08 | 2026-08-18,1,"names 2026-08-08, 2026-08-18 but not the Nov 3 general"
+Volusia,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Volusia,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Wakulla,poll_hours,matches,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,7 a.m. - 7 p.m.,1,7 a.m. - 7 p.m.
+Wakulla,election_date,matches,,"November 3, 2026",2026 general election date,2026-11-03 | 2026-10-05 | 2026-08-18 | 2026-07-20 | 2026-09-07 | 2024-07-01,3,2026-11-03
+Wakulla,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Wakulla,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Walton,poll_hours,matches,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,7 a.m. - 7 p.m.,1,7 a.m. - 7 p.m.
+Walton,election_date,matches,,"November 3, 2026",2026 general election date,2026-08-18 | 2026-11-03 | 2025-12-02,2,2026-11-03
+Walton,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Walton,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
+Washington,poll_hours,not stated,,7 a.m. - 7 p.m.,Fla. Stat. 100.011,,0,
+Washington,election_date,next election not named,,"November 3, 2026",2026 general election date,2026-08-15 | 2026-10-31 | 2026-07-20 | 2026-10-05 | 2026-08-06 | 2026-10-22,3,"names 2026-08-15, 2026-10-31, 2026-07-20, 2026-10-05 but not the Nov 3 general"
+Washington,registration_deadline,not stated,,"October 5, 2026","book closing, 29 days before Nov 3",,0,
+Washington,early_voting,not stated,,"between Oct 19 and Nov 1, 2026",statutory early-voting range,,0,
