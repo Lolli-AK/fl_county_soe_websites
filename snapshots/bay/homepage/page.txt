@@ -162,15 +162,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(Book Closing on 07/20/2026)
+(08/20/2026)
 Democrats
-23,405
+23,627
 Republicans
-74,053
+74,682
 Other
-28,828
+28,819
 Total
-126,286
+127,128
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
