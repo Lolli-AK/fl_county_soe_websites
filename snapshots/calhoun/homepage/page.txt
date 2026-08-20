@@ -602,6 +602,7 @@ Election Integrity Info
 Provisional Ballot Information
 Provisional Ballot Status
 2026 Election Dates & Candidate Deadlines
+2026 General Election Preparation Report
 2026 Offices Up for Election
 Election Dates
 Election Results Archived 1988-2008
@@ -627,6 +628,7 @@ Election Integrity Info
 Provisional Ballot Information
 Provisional Ballot Status
 2026 Election Dates & Candidate Deadlines
+2026 General Election Preparation Report
 2026 Offices Up for Election
 Election Dates
 Election Results Archived 1988-2008
@@ -858,7 +860,7 @@ Others
 0
 Total
 0
-Unofficial Election Night Results
+Official Election Results
 Click here
 COUNTDOWN
 Days Until Next Election

@@ -118,11 +118,6 @@ Track
 My Ballot
 Calendar
 All Events
-Thu,
-Aug
-20,
-2026
-Canvassing Board Meeting
 Mon,
 Sep
 07,
@@ -136,6 +131,11 @@ Early Voting for the General Election
 Sat,
 Oct
 24,
+2026
+Early Voting for the General Election
+Sun,
+Oct
+25,
 2026
 Early Voting for the General Election
 View All Events
