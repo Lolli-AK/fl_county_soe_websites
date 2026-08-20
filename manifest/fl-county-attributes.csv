@@ -1,0 +1,68 @@
+county,fips,status,went_election_night,vendor,rucc,rucc_label,metro,population_2020,pages_captured,pages_changed,lines_added,lines_removed,lines_changed,Results posted,Precincts reporting,Translate widget (presentation),Turnout / ballots cast,Voter registration numbers,Party / registration breakdown,Election day / polling place,Early voting,Vote-by-mail / drop box,Sample ballot / candidates,Next-election pivot,Date / countdown change,Alert / notice banner,Provisional / cure,Canvassing board,Poll worker / staffing,Wait times / lines,Navigation / menu labels
+Alachua,12001,Edited,false,CivicPlus,2,"Metro, 250k-1M",metro,278468,5,2,3,2,5,0,0,0,1,0,0,0,1,0,0,2,2,0,0,0,0,0,0
+Baker,12003,Edited,false,VR Systems,1,"Metro, 1M+",metro,28259,4,4,416,136,552,9,0,0,8,1,2,17,18,14,26,2,5,4,9,1,0,0,50
+Bay,12005,Edited,false,VR Systems,3,"Metro, <250k",metro,175216,5,5,39,17,56,5,0,0,0,0,0,5,7,4,0,2,5,1,0,0,0,0,0
+Bradford,12007,No change,false,VR Systems,6,"Nonmetro, urban 5-20k, adjacent",nonmetro,28303,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brevard,12009,Edited,false,VR Systems,2,"Metro, 250k-1M",metro,606612,5,5,67,285,352,1,0,0,0,0,0,26,4,12,0,0,25,0,12,1,0,0,0
+Broward,12011,Not comparable,false,VR Systems,1,"Metro, 1M+",metro,1944375,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun,12013,"Election-night page, old links 404",true,VR Systems,8,"Nonmetro, rural, adjacent",nonmetro,13648,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Charlotte,12015,Edited,false,CivicPlus,3,"Metro, <250k",metro,186847,3,1,0,4,4,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0
+Citrus,12017,Edited,false,VR Systems,3,"Metro, <250k",metro,153843,5,1,3,0,3,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Clay,12019,Not comparable,false,VR Systems,1,"Metro, 1M+",metro,218245,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Collier,12021,Edited,false,CivicPlus,2,"Metro, 250k-1M",metro,375752,4,2,20,18,38,0,0,0,0,1,0,4,3,2,0,0,12,1,0,4,0,0,0
+Columbia,12023,Edited,false,VR Systems,4,"Nonmetro, urban 20k+, adjacent",nonmetro,69698,5,1,12,0,12,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+DeSoto,12027,Edited,false,VR Systems,6,"Nonmetro, urban 5-20k, adjacent",nonmetro,33976,5,2,16,10,26,0,0,0,0,2,2,0,5,0,0,1,4,0,0,2,0,0,0
+Dixie,12029,"Election-night page, old links serve it",true,VR Systems,8,"Nonmetro, rural, adjacent",nonmetro,16759,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Duval,12031,Edited,false,CivicPlus,1,"Metro, 1M+",metro,995567,5,5,59,225,284,0,0,0,1,0,0,1,3,6,5,0,14,3,0,0,0,0,16
+Escambia,12033,Edited,false,WordPress,2,"Metro, 250k-1M",metro,321905,4,4,921,168,1089,24,16,0,28,0,0,26,25,25,62,43,70,11,1,0,8,0,69
+Flagler,12035,Edited,false,VR Systems,2,"Metro, 250k-1M",metro,115378,5,3,42,26,68,5,0,0,3,0,0,10,20,22,1,0,7,1,1,0,0,0,0
+Franklin,12037,No change,false,VR Systems,8,"Nonmetro, rural, adjacent",nonmetro,12451,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gadsden,12039,"Election-night page, old links 404",true,VR Systems,2,"Metro, 250k-1M",metro,43826,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gilchrist,12041,Edited,false,VR Systems,2,"Metro, 250k-1M",metro,17864,5,1,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Glades,12043,Edited,false,VR Systems,8,"Nonmetro, rural, adjacent",nonmetro,12126,5,1,19,15,34,0,0,0,1,2,2,0,6,1,0,0,8,0,0,0,0,0,0
+Gulf,12045,Edited,false,VR Systems,8,"Nonmetro, rural, adjacent",nonmetro,14192,5,1,9,12,21,0,0,0,3,0,0,1,2,2,0,0,4,0,0,0,0,0,0
+Hamilton,12047,Edited,false,VR Systems,8,"Nonmetro, rural, adjacent",nonmetro,14004,5,1,13,9,22,2,0,0,0,0,0,0,2,0,2,0,7,0,0,0,0,0,0
+Hardee,12049,Edited,false,VR Systems,6,"Nonmetro, urban 5-20k, adjacent",nonmetro,25327,4,1,5,5,10,0,0,0,0,2,2,0,0,0,0,0,2,0,0,0,0,0,0
+Hendry,12051,No change,false,VR Systems,4,"Nonmetro, urban 20k+, adjacent",nonmetro,39619,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hernando,12053,Edited,false,CivicPlus,1,"Metro, 1M+",metro,194515,5,1,10,10,20,1,0,0,0,0,0,4,1,2,0,0,8,1,0,2,0,0,0
+Highlands,12055,Edited,false,VR Systems,3,"Metro, <250k",metro,101235,5,5,31,14,45,2,0,0,0,1,0,2,2,2,0,1,0,0,0,1,0,0,0
+Hillsborough,12057,Edited,false,CivicPlus,1,"Metro, 1M+",metro,1459762,5,5,25,19,44,0,0,0,2,0,0,8,5,6,0,0,12,2,0,2,0,0,0
+Holmes,12059,"Election-night page, old links serve it",true,VR Systems,8,"Nonmetro, rural, adjacent",nonmetro,19653,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indian River,12061,Edited,false,other,3,"Metro, <250k",metro,159788,5,1,12,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jackson,12063,"Election-night page, old links serve it",true,VR Systems,6,"Nonmetro, urban 5-20k, adjacent",nonmetro,47319,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jefferson,12065,Edited,false,VR Systems,2,"Metro, 250k-1M",metro,14510,4,1,23,17,40,0,0,0,0,1,0,3,5,2,0,3,10,2,0,0,0,0,0
+Lafayette,12067,"Election-night page, old links 404",true,VR Systems,9,"Nonmetro, rural, nonadjacent",nonmetro,8226,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lake,12069,Edited,false,VR Systems,1,"Metro, 1M+",metro,383956,4,4,7,17,24,0,0,0,4,0,0,2,0,8,0,0,6,0,0,2,0,0,0
+Lee,12071,Edited,false,CivicPlus,2,"Metro, 250k-1M",metro,760822,5,1,21,24,45,2,0,0,1,0,0,7,5,19,0,1,3,0,0,1,0,0,0
+Leon,12073,Edited,false,other,2,"Metro, 250k-1M",metro,292198,5,5,13,10,23,0,0,0,3,0,0,0,0,7,0,0,1,0,0,0,0,0,0
+Levy,12075,Edited,false,VR Systems,2,"Metro, 250k-1M",metro,42915,5,1,15,12,27,2,0,0,0,0,0,1,2,0,0,1,11,2,0,0,0,0,0
+Liberty,12077,"Election-night page, old links 404",true,VR Systems,8,"Nonmetro, rural, adjacent",nonmetro,7974,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madison,12079,Edited,false,other,8,"Nonmetro, rural, adjacent",nonmetro,17968,5,1,3,7,10,0,0,0,0,0,0,0,2,0,2,1,5,0,0,0,0,0,0
+Manatee,12081,Edited,false,VR Systems,2,"Metro, 250k-1M",metro,399710,5,1,45,8,53,3,0,0,3,0,0,3,0,1,0,0,2,1,0,0,0,0,0
+Marion,12083,Edited,false,VR Systems,2,"Metro, 250k-1M",metro,375908,5,1,11,9,20,0,0,0,0,0,0,0,1,4,0,0,8,1,0,5,0,0,0
+Martin,12085,Edited,false,VR Systems,2,"Metro, 250k-1M",metro,158431,5,2,33,40,73,0,0,0,0,0,0,4,16,2,0,0,0,7,0,2,0,0,0
+Miami-Dade,12086,Edited,false,VR Systems,1,"Metro, 1M+",metro,2701767,5,5,32,5,37,15,0,0,5,0,0,5,2,0,6,0,11,0,0,0,0,0,0
+Monroe,12087,Not comparable,false,VR Systems,4,"Nonmetro, urban 20k+, adjacent",nonmetro,82874,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nassau,12089,Edited,false,VR Systems,1,"Metro, 1M+",metro,90352,5,1,13,13,26,0,0,0,0,0,0,2,0,6,2,0,0,0,0,0,2,0,0
+Okaloosa,12091,Edited,false,other,2,"Metro, 250k-1M",metro,211668,5,1,8,10,18,0,0,0,0,0,0,3,3,0,1,0,7,4,0,1,0,0,0
+Okeechobee,12093,Edited,false,VR Systems,4,"Nonmetro, urban 20k+, adjacent",nonmetro,39644,5,5,68,81,149,2,0,0,2,21,40,4,5,3,0,0,27,0,0,0,0,0,0
+Orange,12095,Not comparable,false,WordPress,1,"Metro, 1M+",metro,1429908,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Osceola,12097,Edited,false,WordPress,1,"Metro, 1M+",metro,388656,5,5,28,15,43,30,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,0
+Palm Beach,12099,Edited,false,CivicPlus,1,"Metro, 1M+",metro,1492191,5,5,30,30,60,0,0,0,2,0,0,8,6,8,0,2,14,1,0,4,1,0,0
+Pasco,12101,Edited,false,VR Systems,1,"Metro, 1M+",metro,561891,5,5,26,15,41,0,0,0,0,0,0,4,0,12,0,0,2,0,0,0,0,0,0
+Pinellas,12103,Edited,false,CivicPlus,1,"Metro, 1M+",metro,959107,5,1,6,6,12,0,0,0,0,0,0,0,1,1,0,0,8,0,0,3,0,0,0
+Polk,12105,Edited,false,VR Systems,2,"Metro, 250k-1M",metro,725046,3,2,7,11,18,2,0,0,0,0,0,3,2,2,0,0,3,0,0,0,0,0,0
+Putnam,12107,Edited,false,VR Systems,4,"Nonmetro, urban 20k+, adjacent",nonmetro,73321,5,5,26,0,26,0,0,0,0,0,0,3,0,2,0,0,1,1,0,9,0,0,0
+Santa Rosa,12113,Edited,false,VR Systems,2,"Metro, 250k-1M",metro,188000,5,1,10,8,18,1,0,0,0,2,2,0,0,0,0,0,3,0,0,7,0,0,0
+Sarasota,12115,Edited,false,CivicPlus,2,"Metro, 250k-1M",metro,434006,5,2,13,26,39,0,0,0,3,0,0,0,4,4,0,1,3,0,0,0,0,1,0
+Seminole,12117,Edited,false,WordPress,1,"Metro, 1M+",metro,470856,5,5,71,48,119,0,0,0,3,2,0,18,2,8,2,0,3,8,0,1,0,0,0
+St. Johns,12109,Edited,false,other,1,"Metro, 1M+",metro,273425,5,2,4,2,6,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+St. Lucie,12111,Edited,false,VR Systems,2,"Metro, 250k-1M",metro,329226,5,5,14,16,30,6,0,0,0,0,0,0,1,1,0,1,4,0,0,0,0,0,3
+Sumter,12119,Edited,false,VR Systems,3,"Metro, <250k",metro,129752,4,1,4,6,10,1,0,0,1,0,0,0,1,0,0,0,3,0,0,0,0,0,0
+Suwannee,12121,Edited,false,VR Systems,6,"Nonmetro, urban 5-20k, adjacent",nonmetro,43474,5,1,10,7,17,3,0,0,0,0,0,0,2,0,0,1,5,0,0,0,0,0,0
+Taylor,12123,Edited,false,VR Systems,6,"Nonmetro, urban 5-20k, adjacent",nonmetro,21796,5,1,10,13,23,0,0,0,0,0,0,0,4,2,0,1,9,4,0,0,0,0,0
+Union,12125,Edited,false,VR Systems,8,"Nonmetro, rural, adjacent",nonmetro,16147,5,1,8,7,15,2,0,0,0,2,0,0,1,0,0,0,3,0,0,0,0,0,0
+Volusia,12127,Edited,false,VR Systems,2,"Metro, 250k-1M",metro,553543,4,2,40,27,67,1,0,0,1,2,0,11,4,2,0,0,8,0,0,0,0,0,0
+Wakulla,12129,"Election-night page, old links serve it",true,VR Systems,2,"Metro, 250k-1M",metro,33764,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walton,12131,"Election-night page, old links 404",true,VR Systems,2,"Metro, 250k-1M",metro,75305,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,12133,"Election-night page, old links serve it",true,VR Systems,3,"Metro, <250k",metro,25318,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
