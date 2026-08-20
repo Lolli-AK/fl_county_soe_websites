@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T15:50:13Z",
-  "html_sha256": "b08667c67fa69625501cb6a96a4a067c203189d5007319ae9807248f8a13b506",
-  "text_sha256": "6e8995386aef697e6ab226dc1c4cb1cd7c1d2a5d81d97805af9926db86cb2035",
-  "byte_size": 79156,
+  "fetched_at": "2026-08-20T15:35:14Z",
+  "html_sha256": "cc439dafdaefab32abb29716fd0ee452588564b39e274eacc7cd95127350bbfa",
+  "text_sha256": "7d8def62b60c14708160f788b3f6c75be67c9d97de1294fb0309919f30365351",
+  "byte_size": 78233,
   "title": "Early Voting – Santa Rosa, FL",
   "error": null
 }

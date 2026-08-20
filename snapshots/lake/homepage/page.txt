@@ -12,7 +12,6 @@ Search
 [rotating image slideshow removed for determinism]
 2026 Primary Election
 August 18, 2026
-HOURLY TURNOUT
 UNOFFICIAL RESULTS
 My Voter Information & Sample Ballot
 Register to Vote
@@ -101,10 +100,6 @@ Sat
 3
 4
 5
-Tue, Aug. 18
-Election Day--2026 Primary Election
-Election Day--2026 Primary Election
-Read on...
 Tue, Aug. 25
 Post-Election Voting Systems Audit
 Post-Election Voting Systems Audit
@@ -219,14 +214,6 @@ Sat
 3
 4
 5
-Tue, Aug. 18
-2026 Primary Election Canvassing Board Meeting
-2026 Primary Election Canvassing Board Meeting
-Read on...
-Wed, Aug. 19
-2026 Primary Election Canvassing Board Meeting
-2026 Primary Election Canvassing Board Meeting
-Read on...
 Fri, Aug. 21
 2026 Primary Election Canvassing Board Meeting
 2026 Primary Election Canvassing Board Meeting

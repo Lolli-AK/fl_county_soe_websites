@@ -849,13 +849,6 @@
     </div>
     <div class="bg-white static" id="content" role="main">
      <section aria-label="Hero Section" class="w-full h-[47vh] lg:h-[87vh] relative z-10 transition-all duration-1000 grow bg-gray-100">
-      <div :class="{
-  'pt-28 sm:pt-28 md:pt-32 lg:pt-32': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
-  'pt-28 sm:pt-20 md:pt-28 lg:pt-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
-}" class="w-full relative z-20 border-b-4 border-white" v-cloak="">
-       <alerts>
-       </alerts>
-      </div>
       <div class="absolute w-full h-[500px] md:h-[60vh] lg:h-screen top-0 z-0 transition-all duration-500">
        <div class="w-full h-full lg:hidden bg-cover bg-center z-0 bg-gray-800">
        </div>
@@ -871,8 +864,29 @@
      </section>
      <div class="absolute z-0 w-full inset-0 mix-blend-multiply bg-gradient-to-b from-[#e2e2e2] from-20% to-transparent">
      </div>
-     <div class="relative z-30 lg:-mt-56 mx-auto">
+     <div class="relative z-30 lg:-mt-96 mx-auto">
       <div class="max-w-[1600px] mx-auto px-4">
+       <div class="mb-2 md:mb-8 lg:mb-12 p-8 md:px-16 xl:px-20 lg:py-8 bg-primary-dark relative z-10 border-[10px] border-white">
+        <div class="flex flex-col md:flex-row justify-between items-center gap-4 text-white relative z-10">
+         <div class="text-center md:text-left" tabindex="0">
+          <h2 class="text-3xl md:text-6xl font-black pb-2 uppercase">
+           Election Results
+          </h2>
+          <span class="text-secondary-light font-bold text-lg md:text-[24px] uppercase tracking-wider" role="heading">
+           2026 Primary Election
+          </span>
+         </div>
+         <div class="flex items-center gap-4">
+          <a aria-label="Unofficial Results opens in a new tab" class="btn btn-accent-outlined bg-white" href="https://enr.electionsfl.org/OKA/4026/Summary/" target="_blank">
+           Unofficial Results
+          </a>
+         </div>
+        </div>
+        <div class="bg-cover absolute z-0 inset-0">
+        </div>
+        <div class="bg-cover absolute bg-primary-dark/90 z-0 inset-0">
+        </div>
+       </div>
        <div aria-label="Feature Buttons" class="relative z-30 border-primary-dark border-4 lg:border-[10px] p-2 sm:p-8 md:px-8 md:py-10 bg-white" role="navigation">
         <div class="grid md:grid-cols-2 gap-2 md:gap-4 lg:gap-6 xl:grid-cols-4">
          <a class="feature-buttons-three" href="/voters/check-voter-status/" title="Check Voter Status">
@@ -991,13 +1005,8 @@
        </div>
       </div>
      </div>
-     <section class="w-full p-4 py-8 md:p-12 xl:px-16 xl:py-24 relative z-10 bg-cover" v-lazy:background-image="'/images/stars-bg.webp'">
-      <h2 class="flex max-w-7xl mx-auto text-primary-light font-bold uppercase text-2xl md:text-[46px] lg:gap-12 md:pb-4" tabindex="0">
-       Voter Turnout
-      </h2>
-      <div class="w-full max-w-7xl mx-auto text-center py-4 md:py-8 md:px-8 my-8 h-[650px] lg:h-[670px] rounded-xl md:rounded-3xl bg-white">
-      </div>
-     </section>
+     <div class="h-4 bg-primary-dark">
+     </div>
      <section class="bg-gradient-to-t from-primary-light to-transparent relative pb-6 bg-cover px-4 md:px-8">
       <div class="relative z-10 mx-auto lg:py-12 max-w-[1700px]">
        <div class="w-full grid lg:grid-cols-2 gap-8 xl:gap-12 2xl:gap-20">
@@ -1006,21 +1015,6 @@
           <h2 class="front-h2" tabindex="0">
            Upcoming Elections
           </h2>
-         </div>
-         <div class="p-4 md:p-8 bg-primary-dark mb-4 flex flex-col md:flex-row items-center relative gap-4" tabindex="0">
-          <div class="md:pr-4 grow text-center md:text-left" tabindex="0">
-           <p class="text-white font-bold text-[20px] pb-2">
-            August 18, 2026
-           </p>
-           <h3 class="text-white font-bold text-3xl md:text-4xl lg:text-[2.5rem]">
-            Primary Election
-           </h3>
-          </div>
-          <a class="btn-primary flex-none border-white bg-[#192752] hover:scale-105 hover:after:bg-white hover:bg-white hover:text-primary" href="https://www.voteokaloosa.gov/events/primary-election/" tabindex="0">
-           Election Info &amp; Dates
-          </a>
-          <div class="absolute inset-0 bg-right bg-no-repeat" v-lazy:background-image="'/images/two-stars.svg'">
-          </div>
          </div>
          <div class="p-4 md:p-8 bg-primary-dark mb-4 flex flex-col md:flex-row items-center relative gap-4" tabindex="0">
           <div class="md:pr-4 grow text-center md:text-left" tabindex="0">

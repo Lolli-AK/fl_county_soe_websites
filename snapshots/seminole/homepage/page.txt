@@ -29,6 +29,8 @@ Know what to expect before you arrive to vote.
 Military / Overseas Voters
 How to receive your Ballot.
 Elections
+Live Results
+Live Results for Primary Election
 Upcoming Elections
 Key dates, deadlines, voter turnout, and candidates for the upcoming elections
 Current Candidates
@@ -107,6 +109,8 @@ Know what to expect before you arrive to vote.
 Military / Overseas Voters
 How to receive your Ballot.
 Elections
+Live Results
+Live Results for Primary Election
 Upcoming Elections
 Key dates, deadlines, voter turnout, and candidates for the upcoming elections
 Current Candidates
@@ -167,6 +171,18 @@ Aug. 18
 7 AM–7 PM
 Primary Voter Turnout
 Click here
+Election Info
+Primary Election Day
+Polls Are Closed
+Live Results
+Click here
+Election Info
+•
+Polls Closed
+Primary Election Day
+Polls Are Closed
+Live Results
+Click here
 ☆
 PRIMARY ELECTION
 TUESDAY,
@@ -187,18 +203,36 @@ POLLS ARE OPEN
 ELECTION DAY
 AUG 18
 7 AM – 7 PM
+☆
+PRIMARY ELECTION
+LIVE RESULTS
+Everything you need to vote in one place.
+Live Results
+›
+Voter Turnout
+›
+PRIMARY ELECTION
+POLLS ARE CLOSED
+LIVE RESULTS
 Be Election Ready
 Everything you need to vote with confidence, all in one place.
 Register to Vote
-Sign up, update your information, or request a voter card using Florida’s online registration system.
+Sign up, update your information, or request a voter card using Florida's online registration system.
 3 Ways to Vote
 Explore your voting options in Seminole County — Election Day, early voting, or vote-by-mail.
 Upcoming Elections
 View the latest election dates, deadlines, and key details so you never miss your opportunity to vote.
 Are You Election Ready
 Everything you need to vote in Seminole County, from registration requirements to what ID to bring.
+Primary Election
+Live Voter Turnout
 LIVE VOTER TURNOUT
 SEMINOLE COUNTY
+Primary Election
+Live Election Results
+LIVE RESULTS
+2026 PRIMARY ELECTION
+Open Full Results Page
 Primary Election Day Starts
 00
 Days
@@ -326,11 +360,6 @@ News
 Get Involved
 Copyright © Seminole County Supervisor of Elections 2025. All Rights Reserved.
 Close
-×
-Find Your Polling Location
-Use our new Interactive Precinct Map.
-Find My Polling Location
-Reminder: Bring a valid photo ID.
 ×
 Welcome to Our New Website!
 We've launched a brand new website for Seminole County Elections. Explore everything we have to offer.

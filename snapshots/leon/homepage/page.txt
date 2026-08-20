@@ -1,18 +1,13 @@
 Homepage of LeonVotes.gov - the website for the Leon County Supervisor of Elections Office
+English
+Español
+English
 Skip to content
 Leon County
 Supervisor
 of Elections
 Menu
 Official government website
-An Official Government Website
-Official Websites Use .gov
-A .gov website belongs to an official government organization in the United States.
-Secure .gov websites use https
-A lock or https:// means you've safely connected to the .gov website. Only share sensitive information on official, secure websites.
-Official Mail
-Official Election Mail will always contain this symbol.
-Okay!
 How do I?
 Home
 Voting
@@ -135,31 +130,15 @@ Total
 182,806
 Leon County Supervisor of Elections
 Election Resources for the August 18 Primary Election
-The deadline to register to vote or change your party for the Primary Election is July 20. Learn more about how you can
-register to vote
-or
-update your registration
+To view our Canvassing Calendar, click
+here
 .
-Already registered? Use the
-Check Your Voter Info tool
-to see your sample ballot for the Primary Election as well as check on your voter registration record.
-You can view all the sample ballots for the 2026 Primary on our
-Sample Ballots page
-.
-If you want a mail ballot,
-request your Vote-by-Mail ballot
-today
-Visit our
-Election Ready resources
-page for all the information and resources you need to be prepared to vote in the Primary Election.
-View our
-Canvassing Calendar
-for information about Canvassing Board meeting and other activity.
-Did you know that voting is already underway? Visit our
-Turnout
-page to check on how many ballots have been cast in the election so far.
+For statewide election results, please visit the
+results reporting website for the Florida Division of Elections.
+For our 2026 Primary Election resources, pease click one of the buttons below:
+Unofficial Election Night Results
 Turnout QuickView
-Leon County Supervisor of Elections
+Vote-by-Mail Accounting
 Mark S. Earley
 Leon County Supervisor of Elections
 Office Address:
@@ -204,3 +183,11 @@ Vote@leonvotes.gov
 2990-1 Apalachee Parkway,
 Tallahassee FL 32301
 View on map
+An Official Government Website
+Official Websites Use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use https
+A lock or https:// means you've safely connected to the .gov website. Only share sensitive information on official, secure websites.
+Official Mail
+Official Election Mail will always contain this symbol.
+Okay!

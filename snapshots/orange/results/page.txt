@@ -121,6 +121,12 @@ Home
 Election Results
 Election Results
 Stay up to date with the latest election outcomes. Our Election Results page provides easy-to-read results for current and past elections, so you can quickly find vote totals, turnout numbers, and precinct-level details.
+2026 Primary Election | Election Night Results
+List View – View results using our standard election results system
+.
+Map View (Beta) – View results using our new interactive map
+.
+This new feature is being tested and refined.
 Orange County and Municipal Results
 July 30, 2026
 2026 Primary Election

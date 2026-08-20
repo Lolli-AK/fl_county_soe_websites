@@ -96,11 +96,11 @@ Precinct Shape Files
 Precinct District Assignments
 Public Notices
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 08/18/2026:
-Dem: 1,411
-Rep: 4,059
-Oth: 1,313
-Total: 6,783
+Active Registered Voters as of 08/20/2026:
+Dem: 1,409
+Rep: 4,077
+Oth: 1,310
+Total: 6,796
 Register to Vote
 Election Dates
 Polling Location
@@ -116,7 +116,7 @@ PUBLIC NOTICE:
 Aletris Farnam is the custodian of Public Records. Email:
 [email protected]
 VBM Ballots Received
-484
+526
 Uncounted
 0
 2026 Primary Election
@@ -237,11 +237,16 @@ Early Voting will take place at the Rear Entrance of the Elections Office.
 19
 20
 21
+1
 22
 PRIMARY ELECTION DAY
 08/18/2026 - 08/18/2026
 7:00 AM - 7:00 PM
 Voting at YOUR precinct 7:00 AM - 7:00 PM
+Public Recount of the Moore Haven City Council Race
+08/21/2026 - 08/21/2026
+10:00 AM
+998 S US Hwy 27 Moore Haven, FL 33471
 23
 24
 25
@@ -318,6 +323,10 @@ Early Voting 8:30 AM - 4:30 PM
 August 18, 2026
 PRIMARY ELECTION DAY
 7:00 AM - 7:00 PM
+August 21, 2026
+Public Recount of the Moore Haven City Council Race
+10:00 AM
+998 S US Hwy 27 Moore Haven, FL 33471
 August 25, 2026
 BHR Community Meeting & Potluck
 6:00 PM

@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-18T15:50:13Z",
-  "html_sha256": "be6abb12ee4a1cb67e5d11deb40a7eb52c6034f4ce8349e4923bc9c4356820b1",
-  "text_sha256": "7beb006e0f753cdb0e5296cbd8d1ab6889376354751e5fa9dec731779e317fa8",
-  "byte_size": 126739,
+  "fetched_at": "2026-08-20T15:35:14Z",
+  "html_sha256": "22bb8beaef7d2c56114592432ec6d1ba3719eb2bbbe2b9dfc8c40abfa21cfa2b",
+  "text_sha256": "95e3a7cda655fee0a9b4594e35ab935040611d3b2acd6f701ece13faa322b4a9",
+  "byte_size": 128293,
   "title": "Dates & Deadlines",
   "error": null
 }

@@ -272,22 +272,40 @@ _LITE_MARKER = re.compile(
     r"(faster access to .{0,40}election night|streamlined election day page)", re.I)
 
 
+def _read_at(rev: str | None, path: str) -> str:
+    """File contents at a revision, or from the working tree when rev is None."""
+    if rev is None:
+        f = ROOT / path
+        return f.read_text(encoding="utf-8") if f.exists() else ""
+    try:
+        return _sh(["git", "show", f"{rev}:{path}"])
+    except Exception:  # noqa: BLE001
+        return ""
+
+
 def classify_capture(rev_from: str, rev_to: str | None, path: str) -> dict:
     """Decide whether a target was edited, replaced, or served empty.
 
     Uses meta.json byte_size on both sides rather than the text diff, because the
     question "was this page replaced?" is about the response, not its wording.
+
+    Both sides are read AT THEIR REVISION. An earlier version always read the
+    "after" side from the working tree, which silently ignored `rev_to` — so asking
+    for a historical window returned the classification for "then vs now" instead,
+    and any window not ending at the working tree came back empty.
     """
     meta = path.rsplit("/", 1)[0] + "/meta.json"
     import json
     try:
-        new = json.loads((ROOT / meta).read_text(encoding="utf-8"))
+        new = json.loads(_read_at(rev_to, meta) or "{}")
     except Exception:  # noqa: BLE001
-        return {"klass": "normal", "before": 0, "after": 0}
+        new = {}
     try:
-        old = json.loads(_sh(["git", "show", f"{rev_from}:{meta}"]))
+        old = json.loads(_read_at(rev_from, meta) or "{}")
     except Exception:  # noqa: BLE001
         old = {}
+    if not new:
+        return {"klass": "normal", "before": 0, "after": 0}
     before, after = old.get("byte_size", 0), new.get("byte_size", 0)
 
     klass = "normal"
@@ -306,10 +324,7 @@ def classify_capture(rev_from: str, rev_to: str | None, path: str) -> dict:
           and old["render_mode"] != new["render_mode"]):
         klass = "render_flip"
     else:
-        try:
-            text = (ROOT / path).read_text(encoding="utf-8")
-        except Exception:  # noqa: BLE001
-            text = ""
+        text = _read_at(rev_to, path)
         if _LITE_MARKER.search(text):
             klass = "lite"
         elif before and after / before < _LITE_BYTE_RATIO:

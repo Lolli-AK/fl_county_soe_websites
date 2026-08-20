@@ -7,13 +7,13 @@
     "https://lafayettevotes.net/"
   ],
   "http_status": 200,
-  "content_type": "text/html",
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T15:50:13Z",
-  "html_sha256": "f9042b74067ea01b1d9ac3078a39677ece004dd12c05ade89836b7b76d743d8f",
-  "text_sha256": "d9bc8f752b3854f9212a1ff4d16d32badb62178caa3a5481636da816a5dc0533",
-  "byte_size": 2413,
-  "title": "Lafayette County - Supervisor of Elections",
+  "fetched_at": "2026-08-20T15:35:14Z",
+  "html_sha256": "3cf7af9e7518ba1acc5c2a01ec4ce296fdf1a276ad41432fff6faed5bb3d5ad6",
+  "text_sha256": "4d440bc457bd710a5e47c9dece7215cdd3044bc7d9bb528d8d65bc5b2e29cc98",
+  "byte_size": 122281,
+  "title": "Lafayette County Supervisor of Elections",
   "error": null
 }

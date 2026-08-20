@@ -1,19 +1,16 @@
 Orange County Supervisor of Elections | Karen Castor Dentel | Florida
 Skip to content
-Today is Primary Election Day:
-Election Center
-|
-Voter Turnout
-|
-Secure Ballot Intake Stations
-|
-Sample Ballots
-|
-Track Your Mail Ballot
-|
-Check Your Voter Information
-|
-Livestream Schedule
+Election Night Results
+List View
+–
+View results using our
+standard election results system
+.
+Map View (Beta)
+–
+View results using our
+new interactive map
+. This new feature is being tested and refined.
 Register to Vote
 Search
 Search
@@ -130,10 +127,10 @@ Maps
 Sample Ballots
 Election Mail
 Submit A Public Records Request
-it’s primary election day!
+2026 primary election center
 Orange County’s Election Center has everything you need for the
 2026 Primary Election
-, all in one place! Access your voter information, explore turnout updates, follow results on Election Night, and find important election resources to help you stay informed.
+, all in one place! Access your voter information, explore turnout updates, follow results on election night, and find important election resources to help you stay informed.
 Visit our election center
 HOW CAN WE HELP YOU?
 WHAT’S ON MY BALLOT?
@@ -147,107 +144,103 @@ Stay in the know.
 Here you’ll find all of the important dates for upcoming elections in Orange County, including registration deadlines, early voting windows, public meeting schedules, and more.
 Upcoming Events
 Aug
-18
-7:00 am
-–
-7:00 pm
-Election Day (Primary Election)
-Read More
-Aug
-18
-9:00 am
-–
-7:00 pm
-Vote-by-Mail Opening & Processing (Primary Election)
-Read More
-Aug
-18
-4:00 pm
-–
-7:00 pm
-Canvassing of Vote-by-Mail Ballots (Primary Election)
-Read More
-Aug
 19
 August 19 @ 9:00 am
 –
 August 20 @ 6:00 pm
 Automated Audit Processing Continues (Primary Election)
 Read More
+Aug
+20
+10:00 am
+–
+12:00 pm
+Certification of Unofficial Results (Primary Election)
+Read More
+Aug
+25
+9:00 am
+–
+12:00 pm
+Certification of Official Results (Primary Election)
+Read More
+Sep
+17
+All day
+Overseas (UOCAVA) Ballots Are Mailed (General Election)
+Read More
 View Calendar
 VOTER STATISTICS
 Registered Active Voters
-as of 08/17/2026
+as of 08/19/2026
 Switch to details
 Switch to summary
 Party
 Count
 Percentage
 Dem.
-313,687
-38.79%
+314,809
+38.88%
 Rep.
-225,921
-27.93%
+226,307
+27.95%
 Other
-31,565
-3.90%
+31,845
+3.93%
 NPA
-237,568
-29.38%
+236,753
+29.24%
 Total
-808,741
+809,714
 100%
 Party Name
 Count
 Florida Democratic Party
-313,687
+314,809
 NO PARTY AFFILIATION
-237,568
+236,753
 Republican Party Of Florida
-225,921
+226,307
 Independent Party of Florida
-17,992
+18,082
 Boricua Party
-2,821
+2,879
 Conservative Party of Florida
-2,455
-Libertarian Party of Florida
-2,096
+2,451
 America First Party of Florida
-2,041
+2,154
+Libertarian Party of Florida
+2,087
 Constitution Party of Florida
-1,100
+1,087
 Coalition With A Purpose Party
-833
+853
 American Solidarity Party of Florida
-728
+736
 Green Party of Florida
-717
+710
 Ecology Party of Florida
-325
+332
 Party for Socialism and Liberation – Florida
-223
+228
 Florida Forward Party
-206
+214
 We the People Florida
-16
+20
 Jeffersonian Party of Florida
 6
 MGTOW Party
 6
 Total
-808,741
+809,714
 Vote By Mail Standing Request Totals
-as of 08/17/2026
+as of 08/19/2026
 Election Name
 Count
 2026 General Election
-97,387
-2026 Primary Election
-98,153
+99,737
 Permanent VBM requests 2025-2026
-95,424
+97,387
 BY THE NUMBERS
 Get a quick snapshot of elections in Orange County. We highlight key statistics that capture the scale, accuracy, and impact of our election operations.
 8
@@ -259,6 +252,9 @@ Voting precincts ready to serve voters across Orange County.
 50,020
 Voters tracking their Vote-by-Mail ballot using BallotTrax.
 Latest News
+Public Notice: Canvassing Board Recess – August 18, 2026
+The Canvassing Board Recessed at 4:47 PM. The Board will resume at 6:45 PM for…
+READ MORE
 2026 Primary Election Polling Place Changes
 2026 Precinct NumberNew Polling PlacePrevious Polling PlaceType of Change115St Lukes United Methodist Church4851 S Apopka…
 READ MORE
@@ -273,9 +269,6 @@ Notice to the Voter A candidate in the race for the office of County Commissione
 READ MORE
 Notice to Primary Election Democratic Voters Only – Clerk of Courts
 Notice to Primary Election Democratic Voters Only A candidate in the race for the office…
-READ MORE
-Notice to the Voter – County Judge Group 21
-Notice to the Voter A candidate in the race for the office of County Judge…
 READ MORE
 VIEW MORE NEWS
 SUBMIT A PUBLIC RECORDS REQUEST

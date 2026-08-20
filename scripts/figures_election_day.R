@@ -33,7 +33,7 @@ attr_path <- file.path(root, "manifest", "fl-county-attributes.csv")
 out_dir   <- file.path(root, "manifest", "figures")
 dir.create(out_dir, showWarnings = FALSE, recursive = TRUE)
 
-src <- paste("MEDSL fl-county-watch snapshots (2026-08-06 to 2026-08-18);",
+src <- paste("MEDSL fl-county-watch snapshots (2026-08-06 to 2026-08-20);",
              "USDA ERS rural-urban continuum codes")
 
 cty <- read_csv(attr_path, show_col_types = FALSE) %>%
@@ -74,8 +74,8 @@ p1 <- ggplot(left_join(fl, map1_df, by = "fips")) +
                                na.value = "#C4C4C4") +
   labs(
     # Descriptive, not a conclusion. Title Case, "by" stays lowercase.
-    title    = "Election-Day Website Behavior by County",
-    subtitle = "67 Florida counties, 2026 primary election",
+    title    = "Website Behavior in the Two Days After the Election",
+    subtitle = "67 Florida counties, 2026-08-18 to 2026-08-20",
     caption  = medsl_caption(source = src)
   ) +
   theme_medsl_map() +
@@ -88,37 +88,44 @@ ggsave_medsl(file.path(out_dir, "fig1-behavior-map.png"), p1,
              width = 7.5, height = 7, dpi = 300)
 
 # --- 2. Vendor --------------------------------------------------------------
+plat_levels <- c("WordPress", "CivicPlus", "DotNetNuke", "Drupal",
+                 "other/unknown")
 map2_df <- cty %>%
-  transmute(fips, vendor = factor(vendor,
-                                  levels = c("VR Systems", "CivicPlus",
-                                             "WordPress", "other")))
+  transmute(fips, platform = factor(platform, levels = plat_levels))
 
 # Both maps are categorical, so both would otherwise draw the first hues of the
 # categorical palette — and side by side that makes green mean "Edited" on the left
 # and "WordPress" on the right, which misreads at a glance. Give vendor its own
 # hand-built scale from medsl_colors (the pattern standard_bar.R uses) picking
 # brand colors the behaviour scale does not touch.
-vendor_colors <- c(
-  "VR Systems" = unname(medsl_colors[["steel"]]),
-  "CivicPlus"  = unname(medsl_colors[["olive"]]),
-  "WordPress"  = unname(medsl_colors[["crimson"]]),
-  "other"      = unname(medsl_colors[["navy"]])
+platform_colors <- c(
+  "WordPress"     = unname(medsl_colors[["steel"]]),
+  "CivicPlus"     = unname(medsl_colors[["olive"]]),
+  "DotNetNuke"    = unname(medsl_colors[["crimson"]]),
+  "Drupal"        = unname(medsl_colors[["lime"]]),
+  "other/unknown" = unname(medsl_colors[["navy"]])
 )
 
 p2 <- ggplot(left_join(fl, map2_df, by = "fips")) +
-  geom_sf(aes(fill = vendor), color = "white", linewidth = 0.15) +
-  scale_fill_manual(name = "Website vendor", values = vendor_colors,
+  geom_sf(aes(fill = platform), color = "white", linewidth = 0.15) +
+  scale_fill_manual(name = "Website platform", values = platform_colors,
                     na.value = "#C4C4C4", drop = FALSE) +
   labs(
-    title    = "Supervisor of Elections Website Vendor by County",
-    subtitle = "67 Florida counties, identified from captured page markup",
+    title    = "Supervisor of Elections Website Platform by County",
+    subtitle = "67 Florida counties, identified from same-host page markup",
+    tag      = paste("Platform is the CMS that builds the site. It is deliberately",
+                     "separate from the election-services vendor a county links out",
+                     "to \u2014 60 of 67 link VR Systems regardless of platform."),
     caption  = medsl_caption(source = src)
   ) +
   theme_medsl_map() +
   guides(fill = guide_legend(nrow = 1)) +
-  theme(legend.position = "bottom", legend.text = element_text(size = 8))
+  theme(legend.position = "bottom", legend.text = element_text(size = 8),
+        plot.tag.position = c(0.99, 0.015),
+        plot.tag = element_text(size = 7, colour = "#666666",
+                                hjust = 1, vjust = 0))
 
-ggsave_medsl(file.path(out_dir, "fig2-vendor-map.png"), p2,
+ggsave_medsl(file.path(out_dir, "fig2-platform-map.png"), p2,
              width = 7.5, height = 7, dpi = 300)
 
 # --- 2b. The two maps side by side -----------------------------------------
@@ -142,8 +149,8 @@ legend_fix <- function(p, rows) {
 pair <- (legend_fix(p1 + labs(title = NULL, subtitle = NULL, caption = NULL), 3) |
          legend_fix(p2 + labs(title = NULL, subtitle = NULL, caption = NULL), 2)) +
   plot_annotation(
-    title    = "Election-Day Website Behavior and Vendor by County",
-    subtitle = "67 Florida counties, 2026 primary election",
+    title    = "Post-Election Website Behavior and Platform by County",
+    subtitle = "67 Florida counties, 2026-08-18 to 2026-08-20",
     caption  = medsl_caption(source = src),
     # No note here: plot_annotation() has no tag slot (its `tag_levels` labels
     # panels, not the figure), and the panels now use disjoint palettes anyway, so
@@ -151,7 +158,7 @@ pair <- (legend_fix(p1 + labs(title = NULL, subtitle = NULL, caption = NULL), 3)
     theme    = theme_medsl_map()
   )
 
-ggsave_medsl(file.path(out_dir, "fig2b-behavior-and-vendor.png"), pair,
+ggsave_medsl(file.path(out_dir, "fig2b-behavior-and-platform.png"), pair,
              width = 13, height = 7.6, dpi = 300)
 
 # --- 3. Population within VR Systems counties ------------------------------
@@ -159,7 +166,7 @@ ggsave_medsl(file.path(out_dir, "fig2b-behavior-and-vendor.png"), pair,
 # small counties buy the shared platform. Holding vendor fixed isolates the size
 # question — and 10 of these 48 switched.
 vr <- cty %>%
-  filter(vendor == "VR Systems", !is.na(population_2020)) %>%
+  filter(platform == "WordPress", !is.na(population_2020)) %>%
   mutate(
     switched = factor(
       ifelse(went_election_night,
@@ -183,20 +190,21 @@ p3 <- ggplot(vr, aes(x = population_2020, y = switched, color = switched)) +
                 expand = expansion(mult = c(0.04, 0.09))) +
   scale_color_manual(values = switch_colors) +
   labs(
-    title    = "Population of VR Systems Counties by Election-Day Behavior",
-    subtitle = "48 Florida counties running the same website vendor",
+    title    = "Population of WordPress Counties by Election-Day Behavior",
+    subtitle = "21 Florida counties on the same website platform",
     x        = "Population, 2020 census (log scale)",   # digit token is case-exempt
     y        = NULL,
     caption  = medsl_caption(source = src),
-    tag      = paste("Vendor held fixed because it confounds size:",
-                     "smaller counties disproportionately run the shared platform.")
+    tag      = paste("Platform held fixed: all 10 counties that switched run",
+                     "WordPress, so comparing them to the other 11 WordPress",
+                     "counties isolates size from platform.")
   ) +
   theme_medsl() +
   theme(plot.tag.position = c(0.99, 0.02),
         plot.tag = element_text(size = 7, colour = "#666666",
                                 hjust = 1, vjust = 0))
 
-ggsave_medsl(file.path(out_dir, "fig3-vr-population.png"), p3,
+ggsave_medsl(file.path(out_dir, "fig3-wordpress-population.png"), p3,
              width = 9, height = 4.2, dpi = 300)
 
 # --- 4. Vendor by rurality -------------------------------------------------
@@ -217,11 +225,10 @@ band_levels <- c("Large metro (1M+)", "Medium metro (250k-1M)",
                  "Small metro (<250k)", "Nonmetro, has an urban core",
                  "Nonmetro, rural")
 
-vend_levels <- c("VR Systems", "CivicPlus", "WordPress", "other")
 band_df <- cty %>%
   mutate(band = factor(rucc_band(rucc), levels = band_levels),
-         vendor = factor(vendor, levels = vend_levels)) %>%
-  count(band, vendor, .drop = FALSE) %>%
+         platform = factor(platform, levels = plat_levels)) %>%
+  count(band, platform, .drop = FALSE) %>%
   group_by(band) %>%
   mutate(band_n = sum(n)) %>%
   ungroup() %>%
@@ -235,18 +242,18 @@ band_df$band_label <- factor(band_df$band_label, levels = rev(label_levels))
 
 # Counts, not shares: one band holds a single county, and a 100% stacked bar would
 # render that as a full-width block indistinguishable from a unanimous group of 22.
-p4 <- ggplot(band_df, aes(x = n, y = band_label, fill = vendor)) +
+p4 <- ggplot(band_df, aes(x = n, y = band_label, fill = platform)) +
   # reverse = TRUE so segments stack in legend order, putting the dominant vendor
   # against the axis: VR Systems' count is then directly comparable across bands
   # instead of starting at a different offset in every bar.
   geom_col(width = 0.68, position = position_stack(reverse = TRUE)) +
   # Same vendor -> color mapping as the map, so a vendor keeps its color across
   # every figure here.
-  scale_fill_manual(name = "Website vendor", values = vendor_colors,
+  scale_fill_manual(name = "Website platform", values = platform_colors,
                     drop = FALSE) +
   scale_x_continuous(expand = expansion(mult = c(0, 0.04))) +
   labs(
-    title    = "Website Vendor by County Rurality",
+    title    = "Website Platform by County Rurality",
     subtitle = "67 Florida counties, grouped by USDA rural-urban continuum code",
     x        = "Counties",
     y        = NULL,
@@ -259,7 +266,7 @@ p4 <- ggplot(band_df, aes(x = n, y = band_label, fill = vendor)) +
         plot.tag = element_text(size = 7, colour = "#666666",
                                 hjust = 1, vjust = 0))
 
-ggsave_medsl(file.path(out_dir, "fig4-vendor-by-rurality.png"), p4,
+ggsave_medsl(file.path(out_dir, "fig4-platform-by-rurality.png"), p4,
              width = 9.5, height = 4.6, dpi = 300)
 
 # --- console summary -------------------------------------------------------
@@ -274,10 +281,10 @@ vr %>%
   as.data.frame() %>%
   print(row.names = FALSE)
 
-cat("\nvendor by rurality band:\n")
+cat("\nplatform by rurality band:\n")
 band_df %>%
   filter(n > 0) %>%
-  select(band, vendor, n) %>%
+  select(band, platform, n) %>%
   as.data.frame() %>%
   print(row.names = FALSE)
 

@@ -2,18 +2,19 @@
   "county": "Leon",
   "page_type": "homepage",
   "requested_url": "https://www.leonvotes.gov",
-  "final_url": "https://www.leonvotes.gov",
+  "final_url": "https://www.leonvotes.gov/",
   "redirect_chain": [
-    "https://www.leonvotes.gov"
+    "https://www.leonvotes.gov",
+    "https://www.leonvotes.gov/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-18T15:50:13Z",
-  "html_sha256": "bfda043e24e98508550a030ba8ebd5afa4024b535d8bfce282ef143a3a6e7117",
-  "text_sha256": "99cbe631f811c9ef2eaaa178391ff9cfc75a8587216a6b708ccddf7864055ba2",
-  "byte_size": 116566,
+  "fetched_at": "2026-08-20T15:35:14Z",
+  "html_sha256": "00646cd104945c72c158bd78ef69fe3139c7015edfb7ff7aeb938504b3296176",
+  "text_sha256": "e6e3c417dfc9135a1ec9a00b55ff195adeab5095161b7189c1b85914808ed23a",
+  "byte_size": 116897,
   "title": "Homepage of LeonVotes.gov - the website for the Leon County Supervisor of Elections Office",
   "error": null
 }

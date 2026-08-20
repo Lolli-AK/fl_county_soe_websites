@@ -85,14 +85,14 @@ Supervisor of Elections
 Monroe County
 Active Registered Voters
 Democratic
-14,739
+14,750
 Republican
-25,141
+25,218
 Others
-14,856
+14,840
 Total
-54,736
-Last updated 2026-08-18
+54,808
+Last updated 2026-08-20
 Election Night Results
 August 18, 2026 - Primary Election
 View Unofficial Results
@@ -137,18 +137,12 @@ You can also get more information about voting in Florida from the
 Florida Department of State - Division of Elections Website
 .
 Monroe County Supervisor of Elections
-Actualizaciónes importantes/Important Updates
-IMPORTANTE/IMPORTANT!!
-Actualización importante: muestra de boleta/Important update: sample ballot
+Important Information
 Hours
 The Elections Office is open Monday – Friday:
 8:30am – 5:00pm
-Vote-by-Mail Ballots can be hand-delivered inside during those hours
-Early Voting will be here,
-Monday 8/3 – Saturday 8/15
-8:30am – 5:00pm
-You can also drop your ballot in the Secure Ballot Intake Station (ballot box)
-during those Early Voting hours
+Election Day: 7:00am - 7:00pm
+Vote-by-Mail Ballots can be hand-delivered inside the office or to the Secure Ballot Intake Station (drop box) at all three Monroe County Elections Offices until, but not later than, 7:00pm on Election Day.
 Upcoming Elections
 View Upcoming Elections
 Dates to Remember

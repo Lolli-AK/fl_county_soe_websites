@@ -1,11 +1,11 @@
 Okeechobee County, FL
 Skip to content
-Active Registered Voters as of 08/18/2026:
-Dem: 4,287
-Rep: 12,398
-Oth: 866
-NPA: 3,118
-Total: 20,669
+Active Registered Voters as of 08/20/2026:
+Dem: 4,288
+Rep: 12,429
+Oth: 871
+NPA: 3,088
+Total: 20,676
 Home
 Voter Information
 Update Your Voter Registration Information
@@ -186,9 +186,6 @@ Canvassing Board Schedule of Events
 English – 2026 Notice of General Election
 Spanish – 2026 Notice of General Election
 CALENDAR
-AUG
-18
-Primary Election
 SEP
 7
 Labor Day – Office Closed
@@ -198,6 +195,9 @@ General Election
 NOV
 11
 Veterans Day – Office Closed
+NOV
+26
+Thanksgiving – Office Closed
 View Full Calendar
 Vote In Honor of a Veteran!
 [rotating image slideshow removed for determinism]
@@ -219,11 +219,11 @@ elections@voteokeechobee.gov
 Contact Us Form
 Site powered by
 SOE Software
-Active Registered Voters as of 08/18/2026:
-Dem: 4,287
-Rep: 12,398
-Oth: 866
-NPA: 3,118
-Total: 20,669
+Active Registered Voters as of 08/20/2026:
+Dem: 4,288
+Rep: 12,429
+Oth: 871
+NPA: 3,088
+Total: 20,676
 ×
 Search

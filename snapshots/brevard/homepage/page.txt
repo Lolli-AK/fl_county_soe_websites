@@ -1,11 +1,5 @@
 Brevard County Supervisor of Elections
 Skip Navigation
-Election Day is Tuesday, August 18.
-Polls are open between 7 AM and 7 PM.
-You must vote at your precinct specific polling location on Election Day.
-Visit
-Find Your Precinct
-to locate your polling location, or refer to your Voter Information Card.
 321-290-VOTE (8683)
 1-833-803-0613 (Spanish - Toll Free)
 Official government website
@@ -48,7 +42,6 @@ Resource Allocation Report
 Ballots by Mail
 Request a Mail Ballot
 Mail Ballot Signature Cure Affidavit Instructions and Form
-Secure Ballot Intake Stations
 Mail Ballot Information
 Check My Mail Ballot Status
 Cancel My Mail Ballot Request
@@ -125,27 +118,23 @@ Welcome to the Brevard County
 Supervisor of Elections
 Tim Bobanic
 Active Registered Voters as of:
-08/18/2026
+08/20/2026
 Republican
-205,697
+206,191
 Democratic
-110,865
+111,093
 Non-Partisan
-106,617
+106,151
 Others
-18,615
+18,694
 Total
-441,794
+442,129
+2026 Primary Election Results
+View Election Results
 2026 Primary Election Unofficial Turnout
 View Unofficial Turnout
-2026 Primary Election Frequently Asked Questions
-View Frequently Asked Questions
 Track Your Mail Ballot
 Check Your Mail Ballot Status
-Secure Ballot Intake Station Locations & Hours
-View Locations and Hours
-2026 Primary Election Sample Ballots
-View Your 2026 Primary Sample Ballot
 View Announced and Qualified Candidates for the 2026 Election Cycle
 View More Information
 Request a Mail Ballot Online
@@ -174,15 +163,6 @@ Facebook
 X
 Brevard County Supervisor of Elections
 Upcoming Events
-August 18, 2026
-7:00 AM -
-7:00 PM
-2026 Primary Election Day
-Read More
-August 18, 2026
-7:45 PM -
-Canvass Election Day returns (Unofficial Results) & Review of Mail Ballots - 2026 Primary Election
-Read More
 August 20, 2026
 5:00 PM -
 Mail Ballot Signature Cure Deadline for the 2026 Primary Election
@@ -191,6 +171,14 @@ August 20, 2026
 5:00 PM -
 Provisional Ballot Signature Cure Deadline for the 2026 Primary Election
 Read More
+August 20, 2026
+5:00 PM -
+Review of Mail and Provisional Ballots, Certify Official Results
+Read More
+August 25, 2026
+9:00 AM -
+Conduct the Post-Election Audit
+Read More
 August 28, 2026
 2:00 PM -
 4:00 PM
@@ -198,20 +186,17 @@ Voter Registration Drive - Life Care Center of Melbourne
 Read More
 Brevard County Supervisor of Elections
 Election Public Notices
+Tuesday, May 19, 2026
+Notice of 2026 General Election Canvassing Board Schedule
+Read More
 Friday, March 13, 2026
 Notice of 2026 Primary Election Canvassing Board Schedule
 Read More
 Monday, July 20, 2026
 Precinct and Polling Place Change Notice
 Read More
-Tuesday, May 19, 2026
-Notice of 2026 General Election Canvassing Board Schedule
-Read More
 Brevard County Supervisor of Elections
 Latest Press Releases
-Monday, July 20, 2026
-Supervisor of Elections Tim Bobanic Donates School Supplies to Benefit Brevard County Students
-Read More
 View all Press Releases
 Titusville
 400 South Street

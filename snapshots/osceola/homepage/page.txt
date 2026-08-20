@@ -158,7 +158,7 @@ Register to Vote
 Election Night Results
 Search Our Website
 Cure Affidavit
-Request a Mail Ballot
+2026 Primary Election
 Find Your Polling Location
 Register to Vote Online
 Get Started
@@ -166,13 +166,13 @@ Request a Mail Ballot
 Get Started
 Mary Jane Arrington
 Learn More
-82,262
+82,380
 Democrats
-70,282
+70,472
 Republicans
-80,565
+80,418
 Other Parties
-233,109
+233,270
 Total Registered
 Active Registered Voters
 Active Registered Voters as of 10/5/25
@@ -202,3 +202,6 @@ TDD: 1-800-955-8771
 E: soe@voteosceola.gov
 Copyright Ⓒ Osceola County Supervisor of Elections. All Rights reserved.
 Website by Vast
+Election Night Results!
+Click below to access Election Night Results as soon as they become available.
+View Results Now

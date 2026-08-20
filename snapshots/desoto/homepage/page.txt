@@ -14,6 +14,7 @@ Meet Your Supervisor
 Public Notice
 Potential Ineligibility Notice
 Election Notices
+Canvassing Schedule
 Voter Information
 Voter Lookup and Sample Ballots
 Provisional Ballot
@@ -44,6 +45,7 @@ Meet Your Supervisor
 Public Notice
 Potential Ineligibility Notice
 Election Notices
+Canvassing Schedule
 Voter Information
 Voter Lookup and Sample Ballots
 Provisional Ballot
@@ -74,6 +76,7 @@ Meet Your Supervisor
 Public Notice
 Potential Ineligibility Notice
 Election Notices
+Canvassing Schedule
 Voter Information
 Voter Lookup and Sample Ballots
 Provisional Ballot
@@ -101,11 +104,11 @@ Campaign Finance Login
 Contact Us
 Helpful Links
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 08/18/2026:
-Dem: 4,072
-Rep: 8,242
-Oth: 3,592
-Total: 15,906
+Active Registered Voters as of 08/20/2026:
+Dem: 4,064
+Rep: 8,290
+Oth: 3,572
+Total: 15,926
 Register to Vote
 Check My Status
 Vote by Mail
@@ -119,7 +122,6 @@ Mission Statement
 Our office is dedicated to running secure and transparent elections, building trust in the process, and encouraging every eligible citizen in our community to make their voice heard.
 WHAT's NEW
 Did you update your Vote By Mail request for 2026?
-2026 Primary Election Canvassing Board Schedule
 Are you ready to vote?
 Notice of General Election
 EVENTS
@@ -170,12 +172,12 @@ Early Voting (Primary Election)
 08/08/2026 - 08/15/2026
 Early Voting (Primary Election)
 08/08/2026 - 08/15/2026
+Early Voting (Primary Election)
+08/08/2026 - 08/15/2026
 Canvassing Vote-By-Mail
 08/14/2026 - 08/14/2026
 4:00 P.M.
 DeSoto BOCC, 201 E Oak St. Arcadia FL 34266
-Early Voting (Primary Election)
-08/08/2026 - 08/15/2026
 Early Voting (Primary Election)
 08/08/2026 - 08/15/2026
 16
@@ -237,10 +239,10 @@ Early Voting (Primary Election)
 August 13, 2026
 Early Voting (Primary Election)
 August 14, 2026
+Early Voting (Primary Election)
 Canvassing Vote-By-Mail
 4:00 P.M.
 DeSoto BOCC, 201 E Oak St. Arcadia FL 34266
-Early Voting (Primary Election)
 August 15, 2026
 Early Voting (Primary Election)
 August 17, 2026

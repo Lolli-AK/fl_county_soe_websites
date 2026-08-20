@@ -48,26 +48,75 @@ RUCC_LABEL = {
 }
 
 
-def detect_vendor(county: str) -> str:
-    """Identify the SOE site's platform from the captured homepage HTML.
+def _own_host(meta: dict) -> str:
+    from urllib.parse import urlparse
+    h = urlparse(meta.get("final_url", "")).netloc.lower()
+    for pre in ("www.", "static."):
+        h = h.removeprefix(pre)
+    return h
 
-    Order matters: a VR Systems county can also run WordPress for its CMS, and the
-    VR tell is the more meaningful one here because VR is what supplies the
-    election-night failover page.
+
+def detect_platform(county: str) -> str:
+    """Which CMS BUILDS the site — same-host evidence only.
+
+    This replaces an earlier detector that checked for voterfocus.com /
+    vrswebapps.com first and labelled any match "VR Systems". That was wrong in a
+    way worth recording: those are VR Systems *voter-lookup services* that counties
+    link OUT to, so the check was really measuring "does this page link a VR
+    service" — true of 60 of 67 Florida counties regardless of who built the site.
+    It produced a spurious "48 of 67 run one website vendor" result, and the
+    classification churned whenever a county's outbound links changed.
+
+    Platform and service dependence are two different variables, so they are
+    detected separately now. Note `other/unknown` is large (~28): normalize.py
+    strips stylesheet links, which removes the wp-content/themes path that would
+    otherwise name the builder. Identifying it would need a fetch-time capture,
+    not a post-hoc read of the normalized artifact.
     """
     slug = county.lower().replace(" ", "_")
-    p = ROOT / "snapshots" / slug / "homepage" / "page.html"
-    if not p.exists():
+    d = ROOT / "snapshots" / slug / "homepage"
+    if not (d / "page.html").exists():
         return "unknown"
-    html = p.read_text(encoding="utf-8", errors="ignore")
+    html = (d / "page.html").read_text(encoding="utf-8", errors="ignore")
+    meta = json.loads((d / "meta.json").read_text(encoding="utf-8"))
+    host = _own_host(meta)
     low = html.lower()
-    if any(t in low for t in ("voterfocus", "vrswebapps", "enr.electionsfl.org")):
-        return "VR Systems"
-    if "civicplus" in low or re.search(r'href="/\d{3}/[A-Z]', html):
-        return "CivicPlus"
-    if "wp-content" in low or "wp-json" in low:
+    m = re.search(r'<meta[^>]+name="generator"[^>]+content="([^"]{0,60})', html, re.I)
+    gen = (m.group(1).lower() if m else "")
+
+    if "wordpress" in gen or re.search(
+            r"https?://(?:www\.|static\.)?" + re.escape(host) + r"/wp-(?:content|includes)",
+            low):
         return "WordPress"
-    return "other"
+    if "civicplus" in low or "civicengage" in low or re.search(r'href="/\d{3}/[A-Za-z]', html):
+        return "CivicPlus"
+    if "/desktopmodules/" in low or "dnn" in gen:
+        return "DotNetNuke"
+    if "drupal" in gen or "drupal" in low:
+        return "Drupal"
+    if "joomla" in gen:
+        return "Joomla"
+    return "other/unknown"
+
+
+def detect_services(county: str) -> str:
+    """Which election-services provider the county depends on (outbound links).
+
+    Distinct from the platform: this is the vendor supplying voter lookup, ballot
+    tracking and election-night reporting. It is the dependency that matters for
+    resilience, and it is near-universal in Florida.
+    """
+    slug = county.lower().replace(" ", "_")
+    f = ROOT / "snapshots" / slug / "homepage" / "page.html"
+    if not f.exists():
+        return "unknown"
+    low = f.read_text(encoding="utf-8", errors="ignore").lower()
+    found = []
+    if any(x in low for x in ("voterfocus", "vrswebapps", "enr.electionsfl.org")):
+        found.append("VR Systems")
+    if "clarityelections" in low:
+        found.append("Clarity")
+    return " + ".join(found) if found else "none detected"
 
 
 def load_rucc(path: Path) -> dict[str, dict]:
@@ -94,9 +143,23 @@ def main() -> None:
     ap.add_argument("--rucc", required=True, help="USDA ERS RUCC 2023 CSV")
     ap.add_argument("--from", dest="rev_from", default="HEAD")
     ap.add_argument("--to", dest="rev_to", default=None)
+    # The election-night flag has to come from the ELECTION-DAY window, not from
+    # whatever window is being analysed now. Recomputing it from a later diff would
+    # find zero switchers — the counties reverted — and silently empty the variable.
+    ap.add_argument("--election-from", default=None,
+                    help="rev before election day (for the went_election_night flag)")
+    ap.add_argument("--election-to", default=None,
+                    help="rev on election day; omit for working tree")
     args = ap.parse_args()
 
     a = A.analyze(args.rev_from, args.rev_to)
+
+    if args.election_from:
+        e = A.analyze(args.election_from, args.election_to)
+        election_night = {o["county"] for o in e["outages"]
+                          if o["class"] in ("lite", "empty")}
+    else:
+        election_night = None   # fall back to the current window
     captured, counties = A.load_manifest()
     rucc = load_rucc(Path(args.rucc))
 
@@ -133,9 +196,12 @@ def main() -> None:
             "status": status,
             # A single boolean is what the size question is actually about, and it
             # collapses the two URL-handling variants that are the same behaviour.
-            "went_election_night": str(county in by_class["empty"]
-                                       or county in by_class["lite"]).lower(),
-            "vendor": detect_vendor(county),
+            "went_election_night": str(
+                (county in election_night) if election_night is not None
+                else (county in by_class["empty"] or county in by_class["lite"])
+            ).lower(),
+            "platform": detect_platform(county),
+            "services_vendor": detect_services(county),
             "rucc": geo.get("rucc", ""),
             "rucc_label": RUCC_LABEL.get(geo.get("rucc", 0), ""),
             "metro": ("metro" if (geo.get("rucc") or 9) <= 3 else "nonmetro"),
@@ -159,8 +225,8 @@ def main() -> None:
         w.writerows(rows)
 
     print(f"wrote {OUT} ({len(rows)} counties)")
-    print("\nstatus x vendor:")
-    cross: Counter = Counter((r["status"], r["vendor"]) for r in rows)
+    print("\nstatus x platform:")
+    cross: Counter = Counter((r["status"], r["platform"]) for r in rows)
     for (s, v), n in sorted(cross.items()):
         print(f"  {s:<40}{v:<14}{n}")
     print("\nwent election-night, by metro status:")
@@ -168,9 +234,16 @@ def main() -> None:
         tot = [r for r in rows if r["metro"] == m]
         yes = [r for r in tot if r["went_election_night"] == "true"]
         print(f"  {m:<10}{len(yes)} of {len(tot)}")
-    vr = [r for r in rows if r["vendor"] == "VR Systems"]
+    print("\nservices-vendor dependence:")
+    for k, n in Counter(r["services_vendor"] for r in rows).most_common():
+        print(f"  {k:<20}{n}")
+    print("\nplatform of the election-night counties:")
+    for k, n in Counter(r["platform"] for r in rows
+                        if r["went_election_night"] == "true").most_common():
+        print(f"  {k:<20}{n}")
+    vr = [r for r in rows if r["platform"] == "WordPress"]
     vy = [r for r in vr if r["went_election_night"] == "true"]
-    print(f"\nwithin VR Systems counties: {len(vy)} of {len(vr)} went election-night")
+    print(f"\nwithin WordPress counties: {len(vy)} of {len(vr)} went election-night")
     pops = sorted(int(r["population_2020"]) for r in vr if r["population_2020"])
     yp = sorted(int(r["population_2020"]) for r in vy if r["population_2020"])
     if yp:

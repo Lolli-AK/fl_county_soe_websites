@@ -162,22 +162,18 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(Book Closing on 07/20/2026)
+(08/20/2026)
 Democrats
-23,405
+23,627
 Republicans
-74,053
+74,682
 Other
-28,828
+28,819
 Total
-126,286
+127,128
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
-Primary Election
-Aug 18, 2026
-Election
-Info & Dates
 General Election
 Nov 3, 2026
 Election
@@ -197,16 +193,10 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 3 hours ago
-🗳️🗳️Election Day is here!! This is your last chance to vote in the 2026 Primary Election!
-📣You must go to your assigned polling place to vote.
-Some precincts and polling places have changed. Visit:
-https://www.bayvotesfl.gov/voters/where-to-vote-in-person/
-to find your polling location.
-📣Polls are open 7:00am-7:00pm
-📣Remember, bring acceptable photo and signature ID.
-📣Note: The Bay County Supervisor of Elections office is not an Election Day polling location. No voting will take place at this location.
-🗳️Your vote matters. Get out and vote.
+posted 1 day ago
+🗳️🗳️Election Night unofficial results will be available at:
+https://www.bayvotesfl.gov/
+after 7:00pm when polls close.
 View Facebook Post
 (opens in a new tab)
 Public Notices

@@ -19,7 +19,6 @@ Maps
 Redistricting
 Sample Ballots
 Alachua County Precinct Finder
-Turnout Tracker
 Upcoming Elections
 Municipal Elections
 Voting Equipment
@@ -27,6 +26,7 @@ Home
 Elections
 Election Results
 Election Results
+ELECTION NIGHT RESULTS
 Here are the records of election results from 1996 to 2024 which have been certified by the canvassing board, and whose records are in the possession of the Supervisor of Elections. For election results dated prior to 1996, please contact our office to make a public records request. Presidential Elections are in
 bold
 .

@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://votewalton.gov/results-and-turnout/"
   ],
-  "http_status": 404,
-  "content_type": null,
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T15:50:13Z",
-  "html_sha256": "8e1544a0cf6af6de1f83336f3382198914d875075a95b99022e31967f40b331a",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 49,
-  "title": null,
+  "fetched_at": "2026-08-20T15:35:14Z",
+  "html_sha256": "16bbf71e79b5da6cf81951ce64bd9f91453978362e42350dd43392cb19e80a3b",
+  "text_sha256": "8cec66dca9ba1d72216f706ebb0171dab1f1bc3d82d9fd6a7a7ff0b806fd05d8",
+  "byte_size": 181664,
+  "title": "Results & Turnout – Walton County Supervisor of Election",
   "error": null
 }
