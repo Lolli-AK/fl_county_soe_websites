@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-21T18:38:03Z",
-  "html_sha256": "2ab7e41110bacb90d55da3734add3630877656a8614481f046d6aaf6aeb109b8",
-  "text_sha256": "15d11055da91bdc33bb1392210edae17a2f1c4bed8d50a8b99464af030738328",
-  "byte_size": 118311,
+  "fetched_at": "2026-08-21T21:25:46Z",
+  "html_sha256": "2a35f9248b56487dd0a9aea2def6384eef0837a522752d15464cf3eac1cec2a7",
+  "text_sha256": "8e2c24c3c743477c2492df2896d82b69f976073fe9237234a95e24c57bd747c7",
+  "byte_size": 118301,
   "title": "Jackson County (FL) Supervisor of Elections",
   "error": null
 }

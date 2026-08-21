@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-21T18:38:03Z",
-  "html_sha256": "79ddf4e10c537d25e533369c9554ee29533c9ff92cd7c2bb83a59ae5578c4842",
+  "fetched_at": "2026-08-21T21:25:46Z",
+  "html_sha256": "4391182ed12c3e6e9619d72e58bc73366ded247e8b4dfbc14c9de1721e4f0746",
   "text_sha256": "f41443b015686775654e319ce82ef1fe42b4eea0810bf8ba0721efe69a2edc38",
-  "byte_size": 110024,
+  "byte_size": 110023,
   "title": "Early Voting in Orange County Florida | Locations & Hours | OCSOE",
   "error": null
 }
