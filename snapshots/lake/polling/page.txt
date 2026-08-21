@@ -25,6 +25,8 @@ Provisional Ballot Status
 Election Archive Library
 Election Results Archive
 Post-Election Voting System Audits
+2026 Primary Unofficial Results Certificates of County Canvassing Board
+2026 Primary Official Results Certificates of County Canvassing Board
 Book Closing Statistics
 Home
 Election Information

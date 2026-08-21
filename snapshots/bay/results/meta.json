@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-21T15:34:43Z",
-  "html_sha256": "11b02cac10f6e57acf30f01298b2cfeb02f82a9df1b36bb28dc0d2818f7571bc",
-  "text_sha256": "4455496aff70bfb28171c774090159114fcee8ee409cb4654526d3a8cf1f0c95",
-  "byte_size": 52128,
+  "fetched_at": "2026-08-21T18:38:03Z",
+  "html_sha256": "42bb64486d357bb9f7c025d3c476e7a36059f8ea0a8bc4d9b01de55136e7a502",
+  "text_sha256": "48a9d2a502557a29f0b68a050d27e2f275f1c4ab5aacb028e0dacfb1ee012208",
+  "byte_size": 52638,
   "title": "Election Results | Bay County Supervisor of Elections",
   "error": null
 }

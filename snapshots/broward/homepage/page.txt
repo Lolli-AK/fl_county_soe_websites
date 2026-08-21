@@ -258,7 +258,7 @@ Voter Info
 Vote By Mail Information
 Early Voting & Ballot Return
 Election Day Precinct
-Sample Ballot and Status Notifications
+Ballot Status Notifications
 Voter Resources
 How to Register
 Voter Guide, Rights and Responsibilities
@@ -327,7 +327,7 @@ Voter Info
 Vote by Mail
 Early Voting & Ballot Return
 Election Day Precinct
-Sample Ballot and Status Notifications
+Ballot Status Notifications
 Announced Candidates
 Become a Candidate
 Calendar of Reporting Dates
