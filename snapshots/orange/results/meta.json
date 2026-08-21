@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-21T09:38:03Z",
-  "html_sha256": "40691658aa1670e4348a28b94fddd5a2c11bba8e4e35feaa2b8466d8a2d1e53b",
+  "fetched_at": "2026-08-21T12:50:08Z",
+  "html_sha256": "f5f89280f78adb711ec196b136c6416d58b205f6bd7baf5b1ab757a36645178a",
   "text_sha256": "8d669ef7737680707bf35414d1b72aee21e9ecea06815989965b39adb5cb5a7e",
-  "byte_size": 86329,
+  "byte_size": 86328,
   "title": "Orange County Election Results",
   "error": null
 }

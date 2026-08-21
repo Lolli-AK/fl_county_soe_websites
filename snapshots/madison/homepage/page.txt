@@ -150,7 +150,7 @@ Division of Elections
 Search Website
 Election Results
 2026 Madison Primary Election
-View Unofficial Results
+View Official Results
 Check My Status
 Register to Vote
 Update My Info
@@ -159,15 +159,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 07/20/2026
+Voter Totals as of: 08/21/2026
 Democrats
 3,839
 Republicans
-5,240
+5,279
 Other
-1,341
+1,342
 Total
-10,420
+10,460
 Upcoming Elections
 Nov 3, 2026 7:00am
 General Election
