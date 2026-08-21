@@ -1,14 +1,15 @@
 # Election-day website behaviour across Florida counties.
 #
 # Three figures from manifest/fl-county-attributes.csv:
-#   1. fig1-behavior-map.png   county choropleth, what each county did
-#   2. fig2-vendor-map.png     same map, filled by website vendor
-#   3. fig3-vr-population.png  population of VR Systems counties, split by whether
+#   1. fig1-behavior-map.png       county choropleth, what each county did
+#   2. fig2-platform-map.png       same map, filled by website PLATFORM (the CMS)
+#   3. fig3-wordpress-population   population of WordPress counties, split by whether
 #                              they switched to an election-night page
 #
 # Figures 1 and 2 are meant to be read together: the behaviour clusters in north
 # Florida, and the vendor map shows why that is only part of the story — 48 counties
-# run the same vendor and only 10 switched.
+# run WordPress and only 10 switched. Platform is NOT the same thing as the
+# election-services vendor a county links out to; see detect_platform().
 #
 # Run:  Rscript scripts/figures_election_day.R
 
@@ -88,8 +89,11 @@ ggsave_medsl(file.path(out_dir, "fig1-behavior-map.png"), p1,
              width = 7.5, height = 7, dpi = 300)
 
 # --- 2. Vendor --------------------------------------------------------------
-plat_levels <- c("WordPress", "CivicPlus", "DotNetNuke", "Drupal",
-                 "other/unknown")
+# Every platform the detector can emit must be a level here, or those counties
+# render as NA bars. Revize and Granicus were added to the detector after this
+# list was first written, which is exactly how that happened.
+plat_levels <- c("WordPress", "CivicPlus", "Revize", "DotNetNuke", "Drupal",
+                 "Granicus", "other/unknown")
 map2_df <- cty %>%
   transmute(fips, platform = factor(platform, levels = plat_levels))
 
@@ -101,9 +105,13 @@ map2_df <- cty %>%
 platform_colors <- c(
   "WordPress"     = unname(medsl_colors[["steel"]]),
   "CivicPlus"     = unname(medsl_colors[["olive"]]),
-  "DotNetNuke"    = unname(medsl_colors[["crimson"]]),
+  "Revize"        = unname(medsl_colors[["crimson"]]),
+  "DotNetNuke"    = unname(medsl_colors[["navy"]]),
   "Drupal"        = unname(medsl_colors[["lime"]]),
-  "other/unknown" = unname(medsl_colors[["navy"]])
+  "Granicus"      = unname(medsl_colors[["dark_red"]]),
+  # Grey rather than a hue: this bucket is partly genuine missing data, and the
+  # brand's missing-data colour says so honestly instead of implying a 7th vendor.
+  "other/unknown" = "#C4C4C4"
 )
 
 p2 <- ggplot(left_join(fl, map2_df, by = "fips")) +
@@ -119,7 +127,7 @@ p2 <- ggplot(left_join(fl, map2_df, by = "fips")) +
     caption  = medsl_caption(source = src)
   ) +
   theme_medsl_map() +
-  guides(fill = guide_legend(nrow = 1)) +
+  guides(fill = guide_legend(nrow = 2)) +
   theme(legend.position = "bottom", legend.text = element_text(size = 8),
         plot.tag.position = c(0.99, 0.015),
         plot.tag = element_text(size = 7, colour = "#666666",

@@ -68,10 +68,16 @@ def detect_platform(county: str) -> str:
     classification churned whenever a county's outbound links changed.
 
     Platform and service dependence are two different variables, so they are
-    detected separately now. Note `other/unknown` is large (~28): normalize.py
-    strips stylesheet links, which removes the wp-content/themes path that would
-    otherwise name the builder. Identifying it would need a fetch-time capture,
-    not a post-hoc read of the normalized artifact.
+    detected separately now.
+
+    A second correction: an earlier version of this comment blamed a large
+    `other/unknown` bucket on normalize.py stripping stylesheet links. That was
+    wrong — comparing the normalized artifact against a raw fetch showed the tells
+    survive normalization intact. The bucket was the detector's own fault, twice
+    over: Revize and Granicus (both common county-government CMS vendors) were
+    missing from the list entirely, and the WordPress test required an ABSOLUTE
+    asset URL on the county's own host, so sites referencing /wp-includes/ by
+    relative path or from a CDN were missed.
     """
     slug = county.lower().replace(" ", "_")
     d = ROOT / "snapshots" / slug / "homepage"
@@ -84,18 +90,28 @@ def detect_platform(county: str) -> str:
     m = re.search(r'<meta[^>]+name="generator"[^>]+content="([^"]{0,60})', html, re.I)
     gen = (m.group(1).lower() if m else "")
 
-    if "wordpress" in gen or re.search(
-            r"https?://(?:www\.|static\.)?" + re.escape(host) + r"/wp-(?:content|includes)",
-            low):
+    # Vendor-named tells first: these are unambiguous and name the builder outright.
+    for needle, name in (("revize", "Revize"), ("granicus", "Granicus"),
+                         ("civicplus", "CivicPlus"), ("civicengage", "CivicPlus"),
+                         ("govoffice", "GovOffice"), ("streamline", "Streamline"),
+                         ("squarespace", "Squarespace"), ("wixstatic", "Wix"),
+                         ("/desktopmodules/", "DotNetNuke")):
+        if needle in low:
+            return name
+    if "wordpress" in gen:
         return "WordPress"
-    if "civicplus" in low or "civicengage" in low or re.search(r'href="/\d{3}/[A-Za-z]', html):
-        return "CivicPlus"
-    if "/desktopmodules/" in low or "dnn" in gen:
-        return "DotNetNuke"
-    if "drupal" in gen or "drupal" in low:
+    # WordPress asset paths, matched relative OR host-absolute. Anchoring to the
+    # county's own host (the earlier behaviour) missed every site that references
+    # /wp-includes/ by relative path or serves assets from a CDN.
+    if re.search(r'["\'(]\s*(?:https?://[^"\')]{0,80})?/?wp-(?:content|includes|json)/',
+                 low):
+        return "WordPress"
+    if "drupal" in gen or "/sites/default/files" in low or "drupal" in low:
         return "Drupal"
-    if "joomla" in gen:
+    if "joomla" in gen or "/media/jui/" in low:
         return "Joomla"
+    if re.search(r'href="/\d{3}/[A-Za-z]', html):
+        return "CivicPlus"
     return "other/unknown"
 
 
