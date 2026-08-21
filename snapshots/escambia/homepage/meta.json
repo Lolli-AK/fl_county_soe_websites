@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T21:29:28Z",
-  "html_sha256": "8ad617d7aa8cb6ed469e685a12aa1dc09427c39534066805a075d9473573efa2",
+  "fetched_at": "2026-08-21T01:20:52Z",
+  "html_sha256": "efaaca2e6387224df68344b6c08894097e364a44db7d0ac6f76620d3a805951d",
   "text_sha256": "b20455b1146e11a85040194e6c48bc82481c8f894d1d321ea0015c8d67f1a2ed",
-  "byte_size": 46746,
+  "byte_size": 46827,
   "title": "EscambiaVotes.gov",
   "error": null
 }
