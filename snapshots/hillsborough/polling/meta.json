@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.votehillsborough.gov/159/Voting-Precincts"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T08:17:47Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
-  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
+  "fetched_at": "2026-08-23T09:28:23Z",
+  "html_sha256": "06e8496f999ef85422d5451aafa78a623dbf71f7167c68309f3d36abe63b44c2",
+  "text_sha256": "120d5d5b5f93dbfa45490d7913e4d500ef97d710d7e8c43a795cead3d541f079",
+  "byte_size": 49920,
+  "title": "Voting Precincts | Hillsborough County Elections, FL",
+  "error": null
 }

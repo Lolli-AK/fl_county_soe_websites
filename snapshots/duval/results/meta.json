@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.duvalelections.gov/262/Data-Maps-Past-Election-Results"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T08:17:47Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
-  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
+  "fetched_at": "2026-08-23T09:28:23Z",
+  "html_sha256": "ed1170f622462c5c7177cb207000a6ffd2f2847c1502bb0951beca2db203c254",
+  "text_sha256": "825b1c349c4d650889a3a2562721544aaee4ba9f8882cd14e439fe1610f34090",
+  "byte_size": 51012,
+  "title": "Data/ Maps/ Past Election Results | Duval County Elections, FL Official Website",
+  "error": null
 }

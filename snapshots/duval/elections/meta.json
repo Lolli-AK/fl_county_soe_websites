@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.duvalelections.gov/27/Voter-Information"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T08:17:47Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
-  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
+  "fetched_at": "2026-08-23T09:28:23Z",
+  "html_sha256": "c50117fbbf42d9860bf140a9a24c5494b8c60e2b19b0381b28784b5d56fbbdac",
+  "text_sha256": "668f024cde4567f82a559944f307df4d8d16c582d5fa25c5a9e6762e138ada7e",
+  "byte_size": 76369,
+  "title": "Voter Information | Duval County Elections, FL Official Website",
+  "error": null
 }
