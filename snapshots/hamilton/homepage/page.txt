@@ -147,7 +147,7 @@ Early Voting
 Sample Ballot
 Candidate Financial Reporting Login
 2026 Filed Candidates
-Voter Totals as of: 08/22/2026
+Voter Totals as of: 08/23/2026
 Democrats
 2,290
 Republicans
@@ -216,3 +216,4 @@ Accessibility Policy
 |
 Sitemap
 Site by KMA
+Secret Link
