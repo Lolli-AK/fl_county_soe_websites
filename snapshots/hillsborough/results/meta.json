@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.votehillsborough.gov/183/Election-Results"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T06:42:40Z",
-  "html_sha256": "64342be5deacc0e65b9fba75f4a001d755fbb7cc6b1c82d038fb60d1086c9cab",
-  "text_sha256": "baf314cb4fa709a4b198991e6e78697a345e3f6be09dbd9a44a05a653317cecd",
-  "byte_size": 95891,
-  "title": "Election Results | Hillsborough County Elections, FL",
-  "error": null
+  "fetched_at": "2026-08-23T08:17:47Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

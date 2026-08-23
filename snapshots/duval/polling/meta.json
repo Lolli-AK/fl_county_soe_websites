@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.duvalelections.gov/204/Polling-Location-Finder"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T06:42:40Z",
-  "html_sha256": "aede1b162717942a50672724361f34effe390d7ee77620c95bd1a727d41412e7",
-  "text_sha256": "da4e4b66fc036815357ecb8aaea70594aa47f7a2a841032201a2307963bb05ee",
-  "byte_size": 67727,
-  "title": "Polling Location Finder | Duval County Elections, FL Official Website",
-  "error": null
+  "fetched_at": "2026-08-23T08:17:47Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

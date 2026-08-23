@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.lakevotes.gov/164/Find-My-Precinct"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T06:42:40Z",
-  "html_sha256": "ba1d952f689d1609e4b74c7f90d3fe7510254a7ce5e8ea47ee3b5941be899f4b",
-  "text_sha256": "690f077f2c20c4683b72e2f3ff71edebde6e45935f8b3706bb4b5299777df818",
-  "byte_size": 50486,
-  "title": "Find My Precinct | Lake County Elections, FL",
-  "error": null
+  "fetched_at": "2026-08-23T08:17:47Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

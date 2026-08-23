@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.duvalelections.gov"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T06:42:40Z",
-  "html_sha256": "bb20cb5a92928781fd585c5d234f20f69cc6ac07055ace483555b71f87c64986",
-  "text_sha256": "156b62abc90bdacdd8348e42604be33b3659e7b5c59b8f50cf5feda9227433a4",
-  "byte_size": 57863,
-  "title": "Duval County Elections, FL Official Website | Official Website",
-  "error": null
+  "fetched_at": "2026-08-23T08:17:47Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.votehillsborough.gov/171/Early-Voting"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T06:42:40Z",
-  "html_sha256": "14e152603ad931fd1269b6fa6d8ae6924f7a4265c31c234992a503ce2314bd55",
-  "text_sha256": "6cea11b78929fa067814e4b52554b91d3981796dac0b22d737ed7dad2bbeae7b",
-  "byte_size": 48810,
-  "title": "Early Voting | Hillsborough County Elections, FL",
-  "error": null
+  "fetched_at": "2026-08-23T08:17:47Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.lakevotes.gov/200/Early-Voting-Locations-Status"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T06:42:40Z",
-  "html_sha256": "db6ffc0880f234d6fdab84b8cbc41fd159704175fcb8887d6adf90bedaf4ce2a",
-  "text_sha256": "1a90c29cd6370382820a706147bbb883160de4d236a4bd27c816bce9ee747553",
-  "byte_size": 48968,
-  "title": "Early Voting Locations & Status | Lake County Elections, FL",
-  "error": null
+  "fetched_at": "2026-08-23T08:17:47Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

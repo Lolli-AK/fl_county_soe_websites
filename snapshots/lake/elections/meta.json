@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.lakevotes.gov/101/Election-Information"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T06:42:40Z",
-  "html_sha256": "39afa15f5132b5b1839dc9044470ddad1fa58762cf6f38ebe7f32788cde48136",
-  "text_sha256": "f75525e9835b7ce05cd3552c90ac27c71717d3a4988e11ce0b6bcbcdb9c047ac",
-  "byte_size": 49481,
-  "title": "Election Information | Lake County Elections, FL",
-  "error": null
+  "fetched_at": "2026-08-23T08:17:47Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.votehillsborough.gov"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T06:42:40Z",
-  "html_sha256": "ecb73d5e0e75261f0559c30266169badf6485af08968a6e8bc2884c0c2522c4b",
-  "text_sha256": "06103828534f2a6107c7744e7be3c9fedf8bf5e710f5049d2f689ec43a71b5ef",
-  "byte_size": 53851,
-  "title": "Hillsborough County Elections, FL | Official Website",
-  "error": null
+  "fetched_at": "2026-08-23T08:17:47Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }
