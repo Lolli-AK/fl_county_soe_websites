@@ -1,34 +1,95 @@
-votebakerfl.gov | 521: Web server is down
-Web server is down
-Error code 521
-Visit
-cloudflare.com
-for more information.
-2026-08-24 09:49:44 UTC
-You
-Browser
-Working
-Chicago
-Cloudflare
-Working
-votebakerfl.gov
-Host
-Error
-What happened?
-The web server is not returning a connection. As a result, the web page is not displaying.
-What can I do?
-If you are a visitor of this website:
-Please try again in a few minutes.
-If you are the owner of this website:
-Contact your hosting provider letting them know your web server is not responding.
-Additional troubleshooting information
-.
-Cloudflare Ray ID:
-a30172e3bb4e119b
-•
-Your IP:
-Click to reveal
-172.183.183.209
-•
-Performance & security by
-Cloudflare
+Baker County Supervisor of Elections
+Notice:
+Published Ineligible Voters Listing
+Baker County, Florida
+Supervisor of Elections
+Meet the Supervisor
+Voter Information
+Register to Vote
+Change My Address
+Voters’ Rights & Responsibilities
+Statistic Reports
+Initiative Petitions
+Vote-By-Mail
+Precinct Locations
+Early Voting
+Provisional Ballot Status
+Election Information
+Sample Ballots
+Voter Turnout
+Election Prep Reports
+Election Results Archive
+Precinct Finder
+Manual Audits
+Candidate Information
+Candidates & Profiles
+Financial Reports
+Becoming A Candidate
+Candidate Services
+Candidate Login
+Candidate Administration
+Committees
+Notices
+Languages
+Español
+Kreyòl Ayisyen
+Menu
+Meet the Supervisor
+Voter Information
+Register to Vote
+Change My Address
+Voters’ Rights & Responsibilities
+Statistic Reports
+Initiative Petitions
+Vote-By-Mail
+Precinct Locations
+Early Voting
+Provisional Ballot Status
+Election Information
+Sample Ballots
+Voter Turnout
+Election Prep Reports
+Election Results Archive
+Precinct Finder
+Manual Audits
+Candidate Information
+Candidates & Profiles
+Financial Reports
+Becoming A Candidate
+Candidate Services
+Candidate Login
+Candidate Administration
+Committees
+Notices
+Languages
+Español
+Kreyòl Ayis
+Early Voting
+Early voting is conducted in the Supervisor of Elections Office. Our office is located at 32 N 5th Steet, Suite A, Macclenny FL 32063. Voting procedures are the same as on Election Day. Please remember to bring a valid photo and signature ID when coming in to early vote.
+Example of valid photo and signature ID include:
+- Florida Driver's License
+- Florida ID Card issued by the DHSMV
+- United States Passport
+- Debit or Credit Card
+- Military ID
+- Student ID
+- Public Assistance ID
+- Retirement Center ID
+Supervisor of Elections
+32 N 5th St, Suite A
+P.O. Box 505
+Macclenny, FL 32063
+Monday-Friday: 8:30am - 5:00pm
+P: 904.259.6339
+F: 904.259.2799
+[email protected]
+©
+County of Baker, Florida. All rights reserved.
+Voters
+Register to Vote
+Vote-By-Mail
+Early Voting
+Where Do I Vote?
+About
+Notices
+Disclaimer
