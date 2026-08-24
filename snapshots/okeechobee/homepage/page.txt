@@ -182,9 +182,8 @@ Early Vote
 Date: October 24th – 31st
 Time: 8:30am – 6:00pm
 Location: 307 NW 5th Avenue
-SAMPLE BALLOTS NOW AVAILABLE
-REPUBLICAN
-DEMOCRATIC
+Election REsults
+voter turnout
 Canvassing Board Meeting
 Canvassing Board Schedule of Events
 English – 2026 Notice of General Election
@@ -229,5 +228,6 @@ Rep: 12,464
 Oth: 872
 NPA: 3,075
 Total: 20,698
+Voter Turnout
 ×
 Search
