@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://voteseminole.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=iso-8859-1",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-24T03:55:45Z",
-  "html_sha256": "a9b7eca8e0891b1ab93887a1b32db4d87969e8f76429da0894dc1d16b26a5b5f",
-  "text_sha256": "66d7af857490e7b5448350c90753f54af6887cc56ebb71e661ba8df82d9a60dc",
-  "byte_size": 111939,
-  "title": "voteseminole.gov",
+  "fetched_at": "2026-08-24T07:00:27Z",
+  "html_sha256": "cef331c75912d907395aa6a752c77d0e4e9f0ee73781b72a9000764bc4cf355d",
+  "text_sha256": "b6e3be032e3a4ee93016f0071d70b0f2567a481f51328b684f79ab091fdd21b2",
+  "byte_size": 273,
+  "title": "403 Forbidden",
   "error": null
 }

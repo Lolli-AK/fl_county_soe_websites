@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://voteseminole.gov/maps-data-and-records/election-results-archive-by-year/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 404,
+  "content_type": "text/html; charset=iso-8859-1",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-24T03:55:45Z",
-  "html_sha256": "19ce28c3a3d3433586a8b69fa86555aaa8545b3da03fa39ac8d036dbc8209409",
-  "text_sha256": "fc5168a1a431f0ecf61da800018bae66ecd51801792b5688ff7354b5c0370d1b",
-  "byte_size": 79003,
-  "title": "Election Results Archive by Year – voteseminole.gov",
+  "fetched_at": "2026-08-24T07:00:27Z",
+  "html_sha256": "c440f7a2316b2777c1059868d83dbcd80652531306d588353fe46b85891b1c4e",
+  "text_sha256": "6407f61acf5eb7d97c59eb505a2ab35607d87ada7cdca0632c5e42d6583c3298",
+  "byte_size": 270,
+  "title": "404 Not Found",
   "error": null
 }
