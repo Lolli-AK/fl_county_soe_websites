@@ -94,32 +94,32 @@ Learn More
 Election Results
 August 18, 2026 Official Results
 Learn More
-Registered Voters as of August 8, 2026
+Registered Voters as of August 24, 2026
 (Includes Active and Inactive Voters)
 Political Affiliation
 Active
 Inactive
 Total
 Democrats
-105,622
-19,956
-125,578
+106,016
+19,839
+125,855
 Republicans
-172,246
-17,902
-190,148
+173,187
+17,776
+190,963
 No Party Affiliation
-101,892
-24,575
-126,467
+101,469
+24,447
+125,916
 Other
-17,219
-1,731
-18,950
+17,332
+1,719
+19,051
 Totals
-396,979
-64,164
-461,143
+398,004
+63,781
+461,785
 Ready. Set. VOTE
 Vote-by-Mail
 Precinct Locator
@@ -131,7 +131,6 @@ Days Until Next Election
 August 18, 2026 Election Information Page
 August 18, 2026 Election Official Results
 Notice of General Election
-Next Canvassing Board Meeting
 Important Links
 This program provides members of our community with the opportunity to recognize and honor veterans who have a connection to Volusia County.
 Vote in Honor

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-24T18:41:28Z",
-  "html_sha256": "dcb5e6a7015afc6521fa87cf63d02f99f54025f23c3b7be9e7e89eca7c1db1de",
+  "fetched_at": "2026-08-24T21:30:44Z",
+  "html_sha256": "e5a8a67b965e6ae6a655fb897e3cf14f6d63b0c509dfab7c2d417c5441b20385",
   "text_sha256": "4e833eaef0b9e2b0f91a65ba55f5405e31b8b780772d7b3ce714b74394b4f33f",
-  "byte_size": 76023,
+  "byte_size": 76022,
   "title": "Find Your Polling Place | Orange County Florida Voter Lookup",
   "error": null
 }
