@@ -1,6 +1,6 @@
 Okeechobee County, FL
 Skip to content
-Active Registered Voters as of 08/23/2026:
+Active Registered Voters as of 08/24/2026:
 Dem: 4,287
 Rep: 12,464
 Oth: 872
@@ -174,10 +174,14 @@ Petition Title
 Ineligibility Notices
 Potentially Ineligible VotersNOTICE OF REMOVAL OF ...
 See All
+General Election
 Election Day
-August 18, 2026   7:00am – 7:00pm
-You must vote at your assigned precinct.
-Call the office at 863-763-4014 to locate your precinct.
+Date: November 3rd, 2026
+Time: 7:00am – 7:00pm
+Early Vote
+Date: October 24th – 31st
+Time: 8:30am – 6:00pm
+Location: 307 NW 5th Avenue
 SAMPLE BALLOTS NOW AVAILABLE
 REPUBLICAN
 DEMOCRATIC
@@ -219,7 +223,7 @@ elections@voteokeechobee.gov
 Contact Us Form
 Site powered by
 SOE Software
-Active Registered Voters as of 08/23/2026:
+Active Registered Voters as of 08/24/2026:
 Dem: 4,287
 Rep: 12,464
 Oth: 872
