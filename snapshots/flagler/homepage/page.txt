@@ -30,8 +30,7 @@ Signature Updates
 Voter Registration Cancellation
 Elections
 Upcoming Elections in Flagler County
-2026 Primary Election
-2026 Primary Early Voting Turnout
+2026 General Election
 Closed Primary Elections
 How to Vote
 Early Voting
@@ -42,6 +41,8 @@ Election Results
 Live Election Turnout
 Military Overseas Voting
 Past Elections
+2026 Primary Early Voting Turnout
+2026 Primary Election
 Provisional Ballot Lookup
 What Is Book Closing?
 Student Voting
@@ -107,6 +108,7 @@ Home
 2026 General Election
 Election Day: November 3, 2026
 Voter Registration Deadline: October 5, 2026
+2026 General Election Information
 Vote by Mail
 Early Voting
 My Voter Status

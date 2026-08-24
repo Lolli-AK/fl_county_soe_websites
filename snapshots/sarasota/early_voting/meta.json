@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-24T12:52:20Z",
-  "html_sha256": "6f001902cb7ecc1f3cd9b2ddd273e3c9d1001e2fd76a1ab47604645bd5c169c9",
-  "text_sha256": "28ea7952a19c22c3437396901f6c2c9b1d23757fe94d21dc46d12d319ca69f4f",
-  "byte_size": 50951,
+  "fetched_at": "2026-08-24T15:40:19Z",
+  "html_sha256": "7bc224e54c0849156d8cd45795b1242380b3d106ab35899b891b588a0b2b8d6b",
+  "text_sha256": "6388e1d95031bb47173e99b68223cd02cbee0b41f09772c4cef095760b7a40f7",
+  "byte_size": 50983,
   "title": "Early Voting | Sarasota County Supervisor of Elections, FL",
   "error": null
 }

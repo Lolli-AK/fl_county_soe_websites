@@ -139,7 +139,7 @@ Election Worker Login
 Search Website
 Election Results
 2026 Primary Election
-View Election Results
+View Official Election Results
 Current Elections
 My Sample Ballot
 Important Dates
@@ -164,7 +164,7 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(08/23/2026)
+(08/24/2026)
 Democrats
 23,638
 Republicans

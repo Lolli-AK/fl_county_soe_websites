@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-24T12:52:20Z",
-  "html_sha256": "ff0c5b78091a319909cc6b08ca1cabd4c769deea4dccebe4c1db9a339644e2f1",
-  "text_sha256": "73304b70d3432fb4c3b3ab4db07df6990e024ac9e506b436422085bc89996de5",
-  "byte_size": 71057,
+  "fetched_at": "2026-08-24T15:40:19Z",
+  "html_sha256": "24658d363d65d9603e3c13425ac8ef464c1701231171c82c750e416ccd3903fc",
+  "text_sha256": "ba0f73ed34631a99e3444233b77c7802f4d8455e32ac7f9f576e052db5919416",
+  "byte_size": 71281,
   "title": "Election Results | Flagler County Elections Office",
   "error": null
 }

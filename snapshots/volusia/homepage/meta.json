@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-24T12:52:20Z",
-  "html_sha256": "a113f5c4130829271805693d3a7829a2121bd0113e50de761c530e6c51c7a586",
-  "text_sha256": "c54da59f2f4f0c35a21bfc49b1e2834c595a292cbd9c9fb8c5401a5c2e981756",
-  "byte_size": 53414,
+  "fetched_at": "2026-08-24T15:40:19Z",
+  "html_sha256": "e646d68f3cc2f85f0cb414ebd39dc5d748ed4a9edcd0460b27a732f61490c7be",
+  "text_sha256": "ad3312f8a61905fc7f1a16e232bd25146467b626c407c49c1ebeb9f4de4c5d53",
+  "byte_size": 48804,
   "title": "Volusia County Supervisor of Elections",
   "error": null
 }
