@@ -75,8 +75,14 @@ _HOURS_RE = re.compile(
     r"\b(\d{1,2})(?::(\d{2}))?\s*([ap])\.?m\.?\s*(?:to|until|-|–|—)\s*"
     r"(\d{1,2})(?::(\d{2}))?\s*([ap])\.?m\.?", re.I)
 
-# A date with an explicit year.
+# A date with an explicit year, spelled-out month.
 _DATE_RE = re.compile(rf"\b({MONTHS})\.?\s+(\d{{1,2}}),?\s+(20\d\d)\b", re.I)
+# ...and the numeric form. Omitting this was a real gap: Bradford publishes
+# "Book Closing - 10/05/2026", the correct general-election deadline, and the
+# spelled-out-month-only pattern never saw it — so a county that states the right
+# answer was reported as stating the wrong one, and every numeric-format date
+# across the corpus fell into "never states it".
+_DATE_NUM_RE = re.compile(r"\b(\d{1,2})/(\d{1,2})/(20\d\d)\b")
 
 # Lines that are talking about registration closing.
 _REG_CONTEXT = re.compile(r"book\s*clos|registration deadline|deadline to register|"
@@ -167,12 +173,16 @@ def extract(text: str, page_type: str = "") -> dict[str, list[str]]:
     for line in text.splitlines():
         if not line.strip():
             continue
-        dates = list(_DATE_RE.finditer(line))
-        if not dates:
+        found: list[tuple[int, int, int]] = [_norm_date(m)
+                                             for m in _DATE_RE.finditer(line)]
+        found += [(int(m.group(3)), int(m.group(1)), int(m.group(2)))
+                  for m in _DATE_NUM_RE.finditer(line)]
+        if not found:
             continue
         reg, ev = bool(_REG_CONTEXT.search(line)), bool(_EV_CONTEXT.search(line))
-        for m in dates:
-            y, mo, d = _norm_date(m)
+        for y, mo, d in found:
+            if not (1 <= mo <= 12 and 1 <= d <= 31):
+                continue
             val = f"{y:04d}-{mo:02d}-{d:02d}"
             key = ("registration_deadline" if reg
                    else "early_voting" if ev else "election_date")
