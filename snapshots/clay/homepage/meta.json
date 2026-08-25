@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-25T01:19:10Z",
-  "html_sha256": "e6b898e2906f2c7e89b4d1a2942b14a5e0ee2bf7177c94ab7427b69e0875481d",
+  "fetched_at": "2026-08-25T03:49:45Z",
+  "html_sha256": "123c3af4433f0c9c5a069e29d9b646075031f0114e7af2a29b00acf997288224",
   "text_sha256": "d647b7b524a109ca33273c00b944c25237a16c442f69f277c24bdd126a879fbc",
-  "byte_size": 144970,
+  "byte_size": 144974,
   "title": "Clay County Supervisor of Elections",
   "error": null
 }
