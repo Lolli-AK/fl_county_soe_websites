@@ -8,13 +8,13 @@
     "https://browardvotes.gov/august-election-early-voting-sitesecure-ballot-intake-station-locator"
   ],
   "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-24T21:30:44Z",
-  "html_sha256": "bb61d13e2d4608514b51884dbfcd9de6d0ffa3654b160ddd7f4df20aa9035afc",
+  "fetched_at": "2026-08-25T01:19:10Z",
+  "html_sha256": "b6b80650dedea351d85dd813d6dc8100776d3ad9aeedbee132be2ab71114a3a2",
   "text_sha256": "c745de1c200c6485fa5a36ccb42cfaae5ed7e6cdc2fcda06625ae8bacda1fba0",
-  "byte_size": 54984,
+  "byte_size": 55043,
   "title": "Access denied | Broward County Supervisor of Elections",
   "error": null
 }

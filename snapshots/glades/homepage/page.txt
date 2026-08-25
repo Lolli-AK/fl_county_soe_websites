@@ -96,7 +96,7 @@ Precinct Shape Files
 Precinct District Assignments
 Public Notices
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 08/24/2026:
+Active Registered Voters as of 08/25/2026:
 Dem: 1,409
 Rep: 4,080
 Oth: 1,309
