@@ -24,10 +24,10 @@ Every row carries the matched text, so no cell has to be taken on trust.
 
 AUTHORITATIVE VALUES ARE A CONFIG, NOT A CLAIM. `EXPECTED` below is the one place
 they live. Poll hours (7 a.m.-7 p.m.) are statutory and safe; the dates come from the
-2026 calendar and the book-closing rule and should be **verified against the Florida
-Division of Elections calendar before any published use**. Getting these wrong would
-turn correct counties into false positives, so they are deliberately in one editable
-block rather than scattered through the regexes.
+2026 calendar were VERIFIED on 2026-08-25 against the Division of Elections calendar
+PDF — see the citation on the EXPECTED block. Getting these wrong would turn correct
+counties into false positives, so they live in one editable block rather than being
+scattered through the regexes, and the source is named beside them.
 
 Usage:
     python scripts/check_consistency.py
@@ -50,21 +50,29 @@ OUT = ROOT / "manifest" / "fl-consistency.csv"
 # --------------------------------------------------------------------------- #
 # The authoritative values. VERIFY THESE before publishing anything.
 # --------------------------------------------------------------------------- #
+# VERIFIED 2026-08-25 against the Florida Division of Elections "Election Dates and
+# Activities Calendar, 2026 Election Cycle" (files.floridados.gov/media/711204/
+# 2026-calendar-20260713.pdf). Quoted entries for the General Election:
+#   "Voter Registration Deadline (book closing)  October 5, 2026"
+#   "Early Voting - Mandatory (8-day period) (A county may offer up to 6 more days
+#    of voting days)  October 24 - 31, 2026"
+#   "General Election Day  November 3, 2026"
+# The same calendar gives the PRIMARY's book closing as July 20, 2026 and its
+# mandatory early voting as August 8-15, 2026 — which is exactly what the counties
+# flagged below still display, confirming those are stale rather than wrong.
 EXPECTED = {
     # Florida statute sets polling hours statewide; a county stating anything else
     # is simply wrong, which makes this the cleanest of the four checks.
     "poll_hours": {"label": "7 a.m. - 7 p.m.", "authority": "Fla. Stat. 100.011"},
-    # The general election following the 2026 primary.
     "election_date": {"label": "November 3, 2026",
-                      "authority": "2026 general election date"},
-    # Book closing is 29 days before an election.
+                      "authority": "FL DOE 2026 calendar, General Election Day"},
     "registration_deadline": {"label": "October 5, 2026",
-                              "authority": "book closing, 29 days before Nov 3"},
-    # Counties choose within a statutory range, so a date inside the range is a
-    # legitimate local choice rather than an error. Only dates OUTSIDE the range
-    # are flagged.
-    "early_voting": {"label": "between Oct 19 and Nov 1, 2026",
-                     "authority": "statutory early-voting range"},
+                              "authority": "FL DOE 2026 calendar, book closing"},
+    # The mandatory core is Oct 24-31; a county may add up to 6 further days, so the
+    # outer envelope is Oct 19 - Nov 1. A date inside that envelope is a legitimate
+    # local choice, not an error, and only dates outside it are flagged.
+    "early_voting": {"label": "Oct 24-31 mandatory, Oct 19 - Nov 1 with optional days",
+                     "authority": "FL DOE 2026 calendar, early voting"},
 }
 
 MONTHS = ("january|february|march|april|may|june|july|august|september|october|"
