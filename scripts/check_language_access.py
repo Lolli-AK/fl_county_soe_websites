@@ -68,6 +68,24 @@ _TRANSLATE = re.compile(r"translate\.goog|google_?translate|goog-te|gtranslate|"
                         r"translate\.google", re.I)
 
 
+# Section 203 coverage for Florida, from the controlling Census determination:
+# 86 FR 69611-69618, Docket Number 211029-0221, applicable 2021-12-08.
+#
+# Florida carries a "State Coverage ... Hispanic" row AND 14 named Hispanic
+# counties. The statewide row does NOT extend the county-level obligation to all
+# 67: the notice states "In the cases where a state is covered, those counties or
+# county equivalents not displayed in the attachment are exempt from the
+# obligation." So the operative county list for Spanish is these 14.
+SEC203_SPANISH = {
+    "Broward", "Collier", "DeSoto", "Hardee", "Hendry", "Hillsborough", "Lee",
+    "Miami-Dade", "Orange", "Osceola", "Palm Beach", "Pinellas", "Polk", "Seminole",
+}
+# Glades is covered for SEMINOLE, an American Indian language — not Spanish. A
+# Spanish detector says nothing about that obligation, and no mainstream machine
+# translator offers the language at all.
+SEC203_OTHER = {"Glades": "Seminole (American Indian language)"}
+
+
 def classify(county: str) -> dict:
     slug = county.lower().replace(" ", "_")
     text_hits, link_hits, widget = set(), 0, False
@@ -102,6 +120,8 @@ def classify(county: str) -> dict:
     else:
         level = "none"
     return {"county": county, "level": level,
+            "sec203_spanish": str(county in SEC203_SPANISH).lower(),
+            "sec203_other_language": SEC203_OTHER.get(county, ""),
             "distinct_spanish_words": len(text_hits),
             "pages_with_spanish": ",".join(sorted(pages_with_es)),
             "spanish_links": link_hits,
@@ -125,6 +145,11 @@ def main() -> None:
     print("\ncounties with ONLY a machine-translation widget:")
     print(" ", ", ".join(r["county"] for r in rows
                          if r["level"] == "translate_widget"))
+    print("\n--- among the 14 Section 203 Spanish-covered counties ---")
+    cov = [r for r in rows if r["sec203_spanish"] == "true"]
+    for lvl in ("spanish_content", "spanish_link", "translate_widget", "none"):
+        hit = [r["county"] for r in cov if r["level"] == lvl]
+        print(f"  {lvl:<18}{len(hit):>2}  {', '.join(hit) or '-'}")
 
 
 if __name__ == "__main__":
