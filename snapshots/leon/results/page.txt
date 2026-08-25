@@ -152,6 +152,30 @@ Precinct Totals
 PDF
 |
 Excel
+Demographics
+District Analysis
+PDF
+|
+Excel
+Precinct Analysis
+PDF
+|
+Excel
+Totals by District
+PDF
+|
+Excel
+Results
+Election Summary Report with Official Results
+Summary Report
+City Commission Seat 3 Recount
+Recount Summary
+Post-Election Audit Comparison of Votes Cast
+TBD
+Statement of Votes Cast
+TBD
+Election Night Reporting
+Webpage
 Miscellaneous
 Early Voting Snapshot
 Date Ascending
