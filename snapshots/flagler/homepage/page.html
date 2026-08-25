@@ -24,7 +24,9 @@
  </head>
  <body class="body layout-modern site-search-always-visble content-type-oc-profile content-template-oc-default group-template-oc-empty-with-default-header page-name-home page-sequence-1 page-depth-1 page-section-1 website-type-primary device-desktop" id="body-top">
   <form action="/Home" id="mainForm" method="post" name="mainForm">
-   <input id="ctl04_seamless_script_manager_TSM" name="ctl04_seamless_script_manager_TSM" type="hidden"/>
+   <div>
+    <input id="ctl04_seamless_script_manager_TSM" name="ctl04_seamless_script_manager_TSM" type="hidden"/>
+   </div>
    <div class="unsupported-browser-warning js-element">
    </div>
    <div hidden="">
@@ -103,6 +105,14 @@
              </span>
             </a>
            </li>
+           <li aria-selected="false" id="toolbar-language-option-es" role="option">
+            <a class="lang-item lang-es" data-translate-to="es" href="https://www.flaglerelections.gov/Home?oc_lang=es" lang="en">
+             Spanish
+             <span class="visuallyhidden">
+              Select this as your preferred language
+             </span>
+            </a>
+           </li>
           </ul>
          </div>
          <button aria-autocomplete="none" aria-controls="toolbar-language-drop-down" aria-expanded="false" aria-haspopup="listbox" aria-labelledby="toolbar-language-label" class="toolbar-button toolbar-button-language js-element" role="combobox" type="button">
@@ -119,6 +129,14 @@
            <li aria-selected="true" id="toolbar-language-option-en-us" role="option">
             <a class="lang-item lang-en-us" data-translate-to="en-us" href="https://www.flaglerelections.gov/Home?oc_lang=en-US" lang="en-US">
              English
+             <span class="visuallyhidden">
+              Select this as your preferred language
+             </span>
+            </a>
+           </li>
+           <li aria-selected="false" id="toolbar-language-option-es" role="option">
+            <a class="lang-item lang-es" data-translate-to="es" href="https://www.flaglerelections.gov/Home?oc_lang=es" lang="en">
+             Spanish
              <span class="visuallyhidden">
               Select this as your preferred language
              </span>
@@ -671,7 +689,7 @@
         </div>
         <div class="header-search-control-container" id="header-search">
          <div class="search-inner-container">
-          <div class="sc-search-panel">
+          <div class="sc-search-panel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl08_btnSearch')">
            <label class="sc-search-label" for="ctl08_txtSearch" id="ctl08_lblSearch">
             Search
            </label>
