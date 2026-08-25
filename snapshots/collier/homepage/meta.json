@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-25T15:43:05Z",
-  "html_sha256": "74c2e23c0ab02a365f7fea79e90998f898f01c24d31f5c7b54aa265a1c25953e",
-  "text_sha256": "8e9fe8445e11773b762052bdd90a64cc8387235351dff4a471fdcd4b97a52ed4",
-  "byte_size": 87224,
+  "fetched_at": "2026-08-25T18:40:48Z",
+  "html_sha256": "ff15439da1ca8562179a3d29be3c64fdaa272592c6d09332506451ca32edc0bf",
+  "text_sha256": "7ea5c0d48f66b425fd3f6189c8885a0e8c7180c6f7028dc04fd0ce6e224eb438",
+  "byte_size": 87195,
   "title": "Collier County Elections, FL | Official Website",
   "error": null
 }

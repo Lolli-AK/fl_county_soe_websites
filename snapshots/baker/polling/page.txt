@@ -1,86 +1,33 @@
-Baker County Supervisor of Elections
-Notice:
-Published Ineligible Voters Listing
-Baker County, Florida
-Supervisor of Elections
-Meet the Supervisor
-Voter Information
-Register to Vote
-Change My Address
-Voters’ Rights & Responsibilities
-Statistic Reports
-Initiative Petitions
-Vote-By-Mail
-Precinct Locations
-Early Voting
-Provisional Ballot Status
-Election Information
-Sample Ballots
-Voter Turnout
-Election Prep Reports
-Election Results Archive
-Precinct Finder
-Manual Audits
-Candidate Information
-Candidates & Profiles
-Financial Reports
-Becoming A Candidate
-Candidate Services
-Candidate Login
-Candidate Administration
-Committees
-Notices
-Languages
-Español
-Kreyòl Ayisyen
-Menu
-Meet the Supervisor
-Voter Information
-Register to Vote
-Change My Address
-Voters’ Rights & Responsibilities
-Statistic Reports
-Initiative Petitions
-Vote-By-Mail
-Precinct Locations
-Early Voting
-Provisional Ballot Status
-Election Information
-Sample Ballots
-Voter Turnout
-Election Prep Reports
-Election Results Archive
-Precinct Finder
-Manual Audits
-Candidate Information
-Candidates & Profiles
-Financial Reports
-Becoming A Candidate
-Candidate Services
-Candidate Login
-Candidate Administration
-Committees
-Notices
-Languages
-Español
-Kreyòl Ayis
-Where Do I Vote?
-Enter your house number and street name in the fields below to locate your Election Day polling place.
-Supervisor of Elections
-32 N 5th St, Suite A
-P.O. Box 505
-Macclenny, FL 32063
-Monday-Friday: 8:30am - 5:00pm
-P: 904.259.6339
-F: 904.259.2799
-[email protected]
-©
-County of Baker, Florida. All rights reserved.
-Voters
-Register to Vote
-Vote-By-Mail
-Early Voting
-Where Do I Vote?
-About
-Notices
-Disclaimer
+votebakerfl.gov | 522: Connection timed out
+Connection timed out
+Error code 522
+Visit
+cloudflare.com
+for more information.
+2026-08-25 18:42:09 UTC
+You
+Browser
+Working
+Detroit
+Cloudflare
+Working
+votebakerfl.gov
+Host
+Error
+What happened?
+The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.
+What can I do?
+If you're a visitor of this website:
+Please try again in a few minutes.
+If you're the owner of this website:
+Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.
+Additional troubleshooting information here.
+Cloudflare Ray ID:
+a30cbbad2c7833ac
+•
+Your IP:
+Click to reveal
+172.171.12.44
+•
+Performance & security by
+Cloudflare

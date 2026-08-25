@@ -127,16 +127,16 @@ Search
 Mark S. Earley
 Supervisor of Elections
 Leon County
-2026 Primary Election Book Closing Numbers as of:
-2026-07-29
+Active Registered Voters as of:
+2026-08-25
 Democratic
-87,051
+87,221
 Republican
-54,508
+54,521
 Others
-41,247
+41,147
 Total
-182,806
+182,889
 Leon County Supervisor of Elections
 Election Resources for the August 18 Primary Election
 To view our Canvassing Calendar, click
