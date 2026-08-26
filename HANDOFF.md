@@ -304,12 +304,25 @@ no longer matched their bodies. Fixed by restoring `snapshots/` wholesale from
 `ELECTION_WINDOW` is currently `true`, so the remote gains ~9 commits a day and a
 local clone goes stale within hours.
 
-**Open decision:** `ELECTION_WINDOW=true` has been running since ~08-12 and the
-primary was 08-18. Every 3 hours for 10 weeks until Nov 3 is ~1,700 more commits and
-a lot of Actions minutes. Either leave it (the post-primary reversion curve is
-genuinely useful, and it is the thing that made §2's synchronization finding
-possible) or drop to daily until late October. **This is a call for the researcher,
-not a bug.**
+**Cadence — decided 2026-08-26.** Dropped to the daily baseline for now, raised
+automatically for the general.
+
+- `ELECTION_WINDOW` set to **`false`** (was `true` since 08-11 19:53 UTC, which is
+  exactly why the primary got 3-hourly coverage). Cadence is now the daily 08:00 UTC
+  baseline — effective immediately, no push needed, since it is a repo variable.
+- The workflow gained an **automatic high-cadence window, 2026-10-20 → 2026-11-17**,
+  evaluated in a gate step because an Actions `if:` cannot see the date. It opens
+  before mandatory early voting (Oct 24–31) and closes two weeks *after* Nov 3,
+  because the post-election takedown curve is the whole point and lives after
+  election day. **Nothing has to be remembered in October.**
+- `ELECTION_WINDOW=true` still overrides in either direction at any time.
+- Gate logic was tested across ten event/date/variable combinations before commit;
+  boundaries are inclusive (Oct 19 skips, Oct 20 captures, Nov 17 captures, Nov 18
+  skips).
+
+Trade-off accepted: outside the window the 3-hourly cron still starts a runner and
+exits at the gate — ~8 short starts a day. That is the price of the `if:` limitation,
+and it is far cheaper than either full runs or a missed general election.
 
 ---
 

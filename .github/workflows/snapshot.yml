@@ -2,11 +2,16 @@ name: snapshot
 
 # Cadence is not hardcoded into the pipeline. Two schedules are defined here:
 #   - a DAILY baseline that always runs
-#   - an ELECTION-WINDOW cron (every 3h) that only does work when the repository
-#     variable ELECTION_WINDOW == 'true'  (Settings -> Secrets and variables ->
-#     Actions -> Variables). Flip that one variable to raise cadence for the
-#     window, flip it back afterwards. No code change required.
-# Adjust the cron strings to taste; keep the gating pattern.
+#   - an ELECTION-WINDOW cron (every 3h) that only does work when EITHER the
+#     repository variable ELECTION_WINDOW == 'true' (Settings -> Secrets and
+#     variables -> Actions -> Variables) OR today falls inside the automatic
+#     high-cadence window declared in the gate step below.
+#
+# The variable is the manual override and still works in both directions. The date
+# window exists so the general election does not depend on somebody remembering to
+# flip it: the primary was captured at 3-hourly cadence only because the variable
+# happened to be on, and the same luck should not be required in November.
+# Adjust the cron strings or the window dates to taste; keep the gating pattern.
 
 on:
   workflow_dispatch: {}
@@ -23,31 +28,74 @@ permissions:
 
 jobs:
   snapshot:
-    # Run for manual dispatch, the daily baseline, OR the frequent cron when the
-    # election window is enabled. The frequent cron is a no-op otherwise.
+    # The frequent cron is admitted to the job and then decided by the gate step,
+    # because an `if:` expression here has no access to the current date. The cost
+    # is a short runner start every 3 hours outside the window; the alternative is
+    # having no automatic high-cadence period at all.
     if: >-
       github.event_name == 'workflow_dispatch' ||
       github.event.schedule == '0 8 * * *' ||
-      (github.event.schedule == '0 */3 * * *' && vars.ELECTION_WINDOW == 'true')
+      github.event.schedule == '0 */3 * * *'
     runs-on: ubuntu-latest
     # 67 counties is 314 targets — roughly 40% of the Texas project's volume, so a
     # run lands well inside this cap. The cap exists to stop a hung fetch from
     # burning the 6-hour default (and, on a private repo, billable minutes).
     timeout-minutes: 90
     steps:
+      - name: Decide whether this run captures
+        id: gate
+        env:
+          EVENT: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+          ELECTION_WINDOW: ${{ vars.ELECTION_WINDOW }}
+        run: |
+          set -euo pipefail
+
+          # Automatic high-cadence window, UTC, inclusive of both endpoints.
+          # Start: Florida's mandatory early voting for the 2026 general runs
+          # Oct 24-31, so opening on Oct 20 catches the ramp into it.
+          # End: the post-election takedown curve is the point of the exercise and
+          # it lives in the WEEKS AFTER Nov 3, not on election night.
+          WINDOW_START=20261020
+          WINDOW_END=20261117
+
+          today=$(date -u +%Y%m%d)
+          go=false
+
+          if [ "$EVENT" = "workflow_dispatch" ]; then
+            go=true; why="manual dispatch"
+          elif [ "$SCHEDULE" = "0 8 * * *" ]; then
+            go=true; why="daily baseline"
+          elif [ "${ELECTION_WINDOW:-}" = "true" ]; then
+            go=true; why="ELECTION_WINDOW=true (manual override)"
+          elif [ "$today" -ge "$WINDOW_START" ] && [ "$today" -le "$WINDOW_END" ]; then
+            go=true; why="inside automatic window ${WINDOW_START}..${WINDOW_END}"
+          else
+            why="skipped: outside ${WINDOW_START}..${WINDOW_END} and ELECTION_WINDOW is '${ELECTION_WINDOW:-unset}'"
+          fi
+
+          echo "go=$go" >> "$GITHUB_OUTPUT"
+          echo "capture=$go — $why"
+          echo "### snapshot gate: \`$go\`" >> "$GITHUB_STEP_SUMMARY"
+          echo "$why" >> "$GITHUB_STEP_SUMMARY"
+
       - uses: actions/checkout@v4
+        if: steps.gate.outputs.go == 'true'
 
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.go == 'true'
         with:
           python-version: "3.11"
 
       - name: Install dependencies
+        if: steps.gate.outputs.go == 'true'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
       - name: Run snapshot (fetch -> normalize -> write -> commit)
+        if: steps.gate.outputs.go == 'true'
         run: |
           git config user.name "fl-county-watch[bot]"
           git config user.email "actions@github.com"
@@ -56,8 +104,9 @@ jobs:
       # If the run died part-way (flaky county, network blip), pick up where it
       # left off rather than refetching everything.
       - name: Resume once if the run failed
-        if: failure()
+        if: failure() && steps.gate.outputs.go == 'true'
         run: python scripts/snapshot.py --resume
 
       - name: Push snapshot commit
+        if: steps.gate.outputs.go == 'true'
         run: git push

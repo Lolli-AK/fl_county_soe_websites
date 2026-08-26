@@ -696,18 +696,32 @@ If a county is blocked only on CI, run it locally and push:
 Cadence is **not hardcoded** in the pipeline — the scheduler decides frequency.
 
 **GitHub Actions** (`.github/workflows/snapshot.yml`): a daily baseline cron that
-always runs, plus an every-3-hours cron gated on the repository variable
-`ELECTION_WINDOW`. Set `ELECTION_WINDOW=true` (Settings → Secrets and variables →
-Actions → Variables) to raise cadence for the election window; set it back to `false`
-afterwards. No code change. `config.json` documents the crons and the fetch knobs.
+always runs, plus an every-3-hours cron that captures when **either** of two gates
+opens. `config.json` documents the crons and the fetch knobs.
 
-> **This repo has no git remote yet, by choice.** The workflow file is committed and
-> ready, but nothing is published until you create a remote and push:
-> ```bash
-> git remote add origin <your-repo-url>
-> git push -u origin main
-> ```
-> Actions only starts running once the repo is on GitHub.
+| gate | where | what it does |
+|---|---|---|
+| `ELECTION_WINDOW` | repo variable (Settings → Secrets and variables → Actions → Variables) | manual override; `true` raises cadence immediately, `false` drops it. Works in both directions, any time. |
+| automatic date window | `WINDOW_START` / `WINDOW_END` in the workflow's gate step | raises cadence for the general election without anyone having to remember. Currently **2026-10-20 → 2026-11-17**. |
+
+The window opens before Florida's mandatory early voting (Oct 24–31) and closes two
+weeks *after* election day, because the post-election takedown curve is the point and
+it lives in the weeks after Nov 3, not on election night.
+
+Why a date window at all, when the variable was meant to be the single knob: the
+August primary was captured at 3-hourly cadence only because the variable happened to
+be switched on at the time. Relying on that twice is not a plan. The variable remains
+the override; the dates are the floor.
+
+> **Current state (2026-08-26):** the repo is live at
+> `github.com/Lolli-AK/fl_county_soe_websites`, Actions is running, and
+> `ELECTION_WINDOW` is `false` — so cadence is the daily baseline until the automatic
+> window opens on Oct 20.
+>
+> **The bot pushes to `origin` on every run, so a local clone goes stale fast** — at
+> 3-hourly cadence, within hours. Always `git fetch && git status` before trusting a
+> local `git log`. A local-only view of history once produced a false "the cron
+> produced nothing" conclusion; see `HANDOFF.md` §7.
 
 **Local cron** alternative — note the machine must be awake at the scheduled time:
 

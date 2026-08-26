@@ -1,10 +1,14 @@
 {
-  "_comment": "Runtime knobs for fl-county-watch. Cadence is NOT read by the pipeline; the scheduler (GitHub Actions / cron) owns frequency. Flip election_window to true in the scheduler to raise cadence during the election window. `workers` applies to plain fetches only — headless renders are always serialized to protect determinism.",
+  "_comment": "Runtime knobs for fl-county-watch. Cadence is NOT read by the pipeline; the scheduler (GitHub Actions / cron) owns frequency. Two gates open the 3-hourly cron: the repository variable ELECTION_WINDOW (manual override, either direction) or the automatic date window in the workflow's gate step. The election_window field below MIRRORS the repo variable for documentation only and is not read by anything. `workers` applies to plain fetches only - headless renders are always serialized to protect determinism.",
   "election_window": false,
   "cadence": {
     "baseline_cron": "0 8 * * *",
     "election_window_cron": "0 */3 * * *",
-    "note": "baseline = daily 08:00 UTC; election window = every 3 hours. Adjust freely."
+    "auto_high_cadence_window": {
+      "start": "2026-10-20",
+      "end": "2026-11-17"
+    },
+    "note": "baseline = daily 08:00 UTC; election window = every 3 hours. The auto window raises cadence for the 2026 general without needing the variable flipped: it opens before mandatory early voting (Oct 24-31) and closes two weeks after election day so the post-election takedown curve is captured. Authoritative values live in .github/workflows/snapshot.yml; these are documentation."
   },
   "fetch": {
     "js_shell_min_chars": 500,
