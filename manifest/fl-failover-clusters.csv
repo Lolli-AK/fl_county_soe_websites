@@ -1,0 +1,4 @@
+cluster,n_counties,n_targets,changed_after,changed_by,restored_after,restored_by,onset_window_hours,offset_window_hours,cluster_class,targets_200,targets_404,page_types,median_shrink_pct,counties
+1,10,44,2026-08-18T01:20:06+00:00,2026-08-18T03:49:49+00:00,2026-08-19T09:40:20+00:00,2026-08-19T12:51:08+00:00,2.5,3.2,county_change,27,17,"early_voting,elections,homepage,polling,results",90.65,"Calhoun,Dixie,Gadsden,Holmes,Jackson,Lafayette,Liberty,Wakulla,Walton,Washington"
+2,3,15,2026-08-21T15:36:39+00:00,2026-08-21T18:40:44+00:00,2026-08-21T18:40:44+00:00,2026-08-21T21:28:33+00:00,3.1,2.8,capture_failure,0,0,"early_voting,elections,homepage,polling,results",99.5,"Highlands,Nassau,St. Johns"
+3,3,14,2026-08-23T06:44:49+00:00,2026-08-23T08:32:03+00:00,2026-08-23T08:32:03+00:00,2026-08-23T09:30:28+00:00,1.8,1.0,capture_failure,0,0,"early_voting,elections,homepage,polling,results",100.0,"Duval,Hillsborough,Lake"
