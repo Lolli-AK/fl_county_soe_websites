@@ -118,11 +118,6 @@ Track
 My Ballot
 Calendar
 All Events
-Thu,
-Aug
-20,
-2026
-Canvassing Board Meeting
 Mon,
 Sep
 07,
@@ -138,17 +133,22 @@ Oct
 24,
 2026
 Early Voting for the General Election
+Sun,
+Oct
+25,
+2026
+Early Voting for the General Election
 View All Events
 Clay County Voter Totals
-August 20, 2026
+August 26, 2026
 Republicans:
-88177
+88388
 Democrats:
-31011
+31090
 NPA:
-28955
+28957
 Others:
-6251
+6281
 Total:
 Loading...
 Subscribe to Alerts

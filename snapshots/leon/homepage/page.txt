@@ -1,13 +1,22 @@
 Homepage of LeonVotes.gov - the website for the Leon County Supervisor of Elections Office
-English
-Español
-English
 Skip to content
+On Monday, August 24, the Leon County Canvassing Board completed the manual recount of the City Commission, Seat 3 race, as well as certified the official results of the 2026 Primary Election.
+Please view the public notice for additional information
+.
+Dismiss
 Leon County
 Supervisor
 of Elections
 Menu
 Official government website
+An Official Government Website
+Official Websites Use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use https
+A lock or https:// means you've safely connected to the .gov website. Only share sensitive information on official, secure websites.
+Official Mail
+Official Election Mail will always contain this symbol.
+Okay!
 How do I?
 Home
 Voting
@@ -118,27 +127,21 @@ Search
 Mark S. Earley
 Supervisor of Elections
 Leon County
-2026 Primary Election Book Closing Numbers as of:
-2026-07-29
+Active Registered Voters as of:
+2026-08-26
 Democratic
-87,051
+87,255
 Republican
-54,508
+54,534
 Others
-41,247
+41,162
 Total
-182,806
+182,951
 Leon County Supervisor of Elections
-Election Resources for the August 18 Primary Election
-To view our Canvassing Calendar, click
-here
-.
-For statewide election results, please visit the
-results reporting website for the Florida Division of Elections.
-For our 2026 Primary Election resources, pease click one of the buttons below:
-Unofficial Election Night Results
-Turnout QuickView
-Vote-by-Mail Accounting
+August 18 Primary Election Official Results
+To view the official election results, visit our Election Results page by clicking the link below.
+Official Election Results
+Leon County Supervisor of Elections
 Mark S. Earley
 Leon County Supervisor of Elections
 Office Address:
@@ -183,11 +186,3 @@ Vote@leonvotes.gov
 2990-1 Apalachee Parkway,
 Tallahassee FL 32301
 View on map
-An Official Government Website
-Official Websites Use .gov
-A .gov website belongs to an official government organization in the United States.
-Secure .gov websites use https
-A lock or https:// means you've safely connected to the .gov website. Only share sensitive information on official, secure websites.
-Official Mail
-Official Election Mail will always contain this symbol.
-Okay!

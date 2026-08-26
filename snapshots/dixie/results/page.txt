@@ -252,7 +252,7 @@ Yucatec Maya
 Zapotec
 Zulu
 Active Registered Voters
-As of 08/06/2026
+As of 08/25/2026
 Democrats
 0
 Republicans
@@ -500,6 +500,43 @@ We acknowledge some content on this page may not be fully accessible. Please
 contact us
 for any help with accessibility.
 Election Results and Report
+2026
+2028
+2030
+2032
+2034
+2036
+2038
+2040
+2042
+General Election
+Official Results
+Officials Precinct Level Results
+Manual Audit
+Primary Election
+Official Results
+Official Precinct Level Results
+Manual Audit
+General Election
+Primary Election
+Presidential Preference Primary Election
+General Election
+Primary Election
+General Election
+Primary Election
+Presidential Preference Primary Election
+General Election
+Primary Election
+General Election
+Primary Election
+Presidential Preference Primary Election
+General Election
+Primary Election
+General Election
+Primary Election
+Presidential Preference Primary Election
+General Election
+Primary Election
 2024
 2022
 2020

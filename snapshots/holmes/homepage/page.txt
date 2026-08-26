@@ -376,7 +376,7 @@ Sincerely,
 Rusty Williams
 Holmes County Supervisor of Elections
 2026 Primary Real-time Voter Turnout
-View 2024 Election Results
+View 2026 Primary Election Results
 **Florida Driver License Changes: What to Know**
 A little more than a year ago, the Florida Department of Highway Safety and Motor Vehicles began issuing driver licenses and state ID cards that include four randomly generated numbers. This change was part of a new law designed to enhance security and prevent identity theft.
 Beginning July 31, 2024, all Florida residents who renew their driver license are issued the new number.
@@ -388,7 +388,7 @@ While in-person voting is unaffected by the change, Florida voters with a new dr
 The bottom line
 Over time, all Florida residents will be required to transition to the new driver license format. Even though the change will not prevent anyone from voting, it is a good reminder to routinely update your voter record whenever there is a change to your residential address, name, signature or driver license number.
 If you have questions about how the new driver license format will affect the voting process, contact our office at 850-547-1107.
-August 6, 2026 is the last day to request a Vote By Mail ballot to be mailed for the August 18, 2026 Primary Election.
+October 22, 2026 is the last day to request a Vote By Mail ballot to be mailed for the November 3, 2026 General Election.
 **To vote by mail in 2026, a new request must be submitted. Request by clicking on the Vote By Mail tab located on the top menu bar or by calling our office at
 850-547-1107
 .
@@ -419,9 +419,9 @@ Use the
 Voter Information Search Tool
 to check your information & status.
 Calendar
-Early Voting
-2026-08-14
-Early voting will be in our office from August 8th-August 15th. We will be open from 8:00am-4:00pm.
+Labor Day Holiday
+2026-09-07
+Our office will be closed Monday, September 7th, in observance of the Labor Day Holiday.
 View All Upcoming Events
 News & Announcements
 Poll Worker Recruitment
@@ -435,7 +435,7 @@ Where can I get a sample ballot?
 Sample ballots are published in the local newspaper before each election. We post sample ballots on our Web site, too, and copies will be available in our office.
 View All FAQs
 Active Registered Voters
-As of 08/14/2026
+As of 08/25/2026
 Democrats
 0
 Republicans

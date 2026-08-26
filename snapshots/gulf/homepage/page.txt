@@ -130,17 +130,17 @@ Track My Ballot
 Early Voting
 Voting Locations
 Active Registered Voters
-(08/19/2026)
+(08/25/2026)
 Democrats
-2,250
+2,240
 Republicans
-7,172
+7,215
 No Party Affiliation
-1,281
+1,262
 Other
-381
+385
 Total
-11,084
+11,102
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -162,7 +162,7 @@ Early Voting - General Election
 All Upcoming Dates
 Stay Up to Date
 Gulf County Supervisor of Elections
-posted 2 days ago
+posted 1 week ago
 School Board Dist. 1 - Chad Bailey and Dennis Peak runoff in November General election as no one received 50% + one vote. Go to
 www.votegulf.gov
 to see all unofficial results for 2026 primary.
@@ -212,4 +212,3 @@ Privacy Policy
 Accessibility Policy
 Sitemap
 Site by KMA
-Secret Link

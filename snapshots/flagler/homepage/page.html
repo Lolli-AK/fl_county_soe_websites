@@ -23,6 +23,11 @@
   <link href="/files/ocfavicon/Elections/site.webmanifest" rel="manifest"/>
  </head>
  <body class="body layout-modern site-search-always-visble content-type-oc-profile content-template-oc-default group-template-oc-empty-with-default-header page-name-home page-sequence-1 page-depth-1 page-section-1 website-type-primary device-desktop" id="body-top">
+  <div id="skip-to-content-container">
+   <a class="visuallyhidden focusable" href="#main-content" id="skip-to-content-link">
+    Skip to main content
+   </a>
+  </div>
   <form action="/Home" id="mainForm" method="post" name="mainForm">
    <div>
     <input id="ctl04_seamless_script_manager_TSM" name="ctl04_seamless_script_manager_TSM" type="hidden"/>
@@ -38,11 +43,6 @@
    </div>
    <div class="background-container">
     <div class="page-container">
-     <div id="skip-to-content-container">
-      <a class="visuallyhidden focusable" href="#main-content" id="skip-to-content-link">
-       Skip to main content
-      </a>
-     </div>
      <header>
       <div class="toolbar-outer-container">
        <div class="toolbar-inner-container clearfix">
@@ -97,7 +97,7 @@
         <div class="toolbar-item toolbar-language notranslate toolbar-display-dropdown">
          <div class="no-js-element">
           <ul>
-           <li aria-selected="true" id="toolbar-language-option-en-us" role="option">
+           <li id="toolbar-language-option-en-us-noscript">
             <a class="lang-item lang-en-us" data-translate-to="en-us" href="https://www.flaglerelections.gov/Home?oc_lang=en-US" lang="en-US">
              English
              <span class="visuallyhidden">
@@ -105,7 +105,7 @@
              </span>
             </a>
            </li>
-           <li aria-selected="false" id="toolbar-language-option-es" role="option">
+           <li id="toolbar-language-option-es-noscript">
             <a class="lang-item lang-es" data-translate-to="es" href="https://www.flaglerelections.gov/Home?oc_lang=es" lang="en">
              Spanish
              <span class="visuallyhidden">
@@ -125,17 +125,17 @@
           </i>
          </button>
          <div aria-label="Available languages" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix" id="toolbar-language-drop-down" role="listbox">
-          <ul>
-           <li aria-selected="true" id="toolbar-language-option-en-us" role="option">
-            <a class="lang-item lang-en-us" data-translate-to="en-us" href="https://www.flaglerelections.gov/Home?oc_lang=en-US" lang="en-US">
+          <ul role="group">
+           <li role="presentation">
+            <a aria-selected="true" class="lang-item lang-en-us" data-translate-to="en-us" href="https://www.flaglerelections.gov/Home?oc_lang=en-US" id="toolbar-language-option-en-us" lang="en-US" role="option">
              English
              <span class="visuallyhidden">
               Select this as your preferred language
              </span>
             </a>
            </li>
-           <li aria-selected="false" id="toolbar-language-option-es" role="option">
-            <a class="lang-item lang-es" data-translate-to="es" href="https://www.flaglerelections.gov/Home?oc_lang=es" lang="en">
+           <li role="presentation">
+            <a aria-selected="false" class="lang-item lang-es" data-translate-to="es" href="https://www.flaglerelections.gov/Home?oc_lang=es" id="toolbar-language-option-es" lang="en" role="option">
              Spanish
              <span class="visuallyhidden">
               Select this as your preferred language
@@ -192,11 +192,11 @@
               <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/My-Voter-Info" target="">
                My Voter Info
               </a>
-              <button aria-controls="sc-menu-second-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-2" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
-              <ul id="sc-menu-second-level">
+              <ul id="sc-menu-second-level-nav-item-seq-2">
                <li class="">
                 <a class="" href="https://www.flaglerelections.gov/My-Voter-Info/Am-I-RANDOM-to-Vote" target="">
                  Am I Registered to Vote?
@@ -238,31 +238,20 @@
               <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/Elections" target="">
                Elections
               </a>
-              <button aria-controls="sc-menu-second-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-3" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
-              <ul id="sc-menu-second-level">
+              <ul id="sc-menu-second-level-nav-item-seq-3">
                <li class="">
                 <a class="" href="https://www.flaglerelections.gov/Elections/Upcoming-RANDOM-in-Flagler-County" target="">
                  Upcoming Elections in Flagler County
                 </a>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Elections/2026-Primary-RANDOM" target="">
-                 2026 Primary Election
+                <a class="" href="https://www.flaglerelections.gov/Elections/2026-General-RANDOM" target="">
+                 2026 General Election
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
-                 <i aria-hidden="true">
-                 </i>
-                </button>
-                <ul id="sc-menu-third-level">
-                 <li class="">
-                  <a href="https://www.flaglerelections.gov/Elections/2026-Primary-RANDOM/2026-Primary-Early-Voting-Turnout" target="">
-                   2026 Primary Early Voting Turnout
-                  </a>
-                 </li>
-                </ul>
                </li>
                <li class="">
                 <a class="" href="https://www.flaglerelections.gov/Elections/Closed-Primary-RANDOM" target="">
@@ -273,11 +262,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Elections/How-to-Vote" target="">
                  How to Vote
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-4" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-3-nav-item-seq-4">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Elections/How-to-Vote/Early-Voting" target="">
                    Early Voting
@@ -341,11 +330,11 @@
               <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/Candidates" target="">
                Candidates
               </a>
-              <button aria-controls="sc-menu-second-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-4" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
-              <ul id="sc-menu-second-level">
+              <ul id="sc-menu-second-level-nav-item-seq-4">
                <li class="">
                 <a class="" href="https://www.flaglerelections.gov/Candidates/Becoming-a-RANDOM" target="">
                  Becoming a Candidate
@@ -397,20 +386,20 @@
               <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM" target="">
                Get Involved
               </a>
-              <button aria-controls="sc-menu-second-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-5" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
-              <ul id="sc-menu-second-level">
+              <ul id="sc-menu-second-level-nav-item-seq-5">
                <li class="">
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/About-Us" target="">
                  About Us
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-1" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-1">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/About-Us/About-the-RANDOM-Office" target="">
                    About the Elections Office
@@ -442,11 +431,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Election-RANDOM" target="">
                  Election Security
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-2" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-2">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/Election-RANDOM/Election-RANDOM-Board" target="">
                    Election Canvassing Board
@@ -478,11 +467,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/News" target="">
                  News
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-3" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-3">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/News/Monthly-RANDOM" target="">
                    Monthly Newsletter
@@ -499,11 +488,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Legal-Notices" target="">
                  Legal Notices
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-4" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-4">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/Legal-Notices/Ballot-RANDOM-RANDOM" target="">
                    Ballot Material Inspection
@@ -525,11 +514,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Poll-Workers" target="">
                  Poll Workers
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-5" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-5">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/Poll-Workers/Become-a-Poll-Worker" target="">
                    Become a Poll Worker
@@ -541,11 +530,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Programs-and-Events" target="">
                  Programs and Events
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-6" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-6">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/Programs-and-Events/Adopt-a-RANDOM-Program" target="">
                    Adopt a Precinct
@@ -582,11 +571,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Research-Data" target="">
                  Research &amp; Data
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-7" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-7">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/Research-Data/Current-Elected-RANDOM" target="">
                    Current Elected Officials
@@ -618,11 +607,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Voter-RANDOM" target="">
                  Voter Education
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-8" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-8">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/Voter-RANDOM/2026-Voters-Guide" target="">
                    2026 Voter's Guide
@@ -728,36 +717,20 @@
                 </h2>
                </div>
                <h3>
-                2026 Primary Election
+                2026 General Election
                </h3>
                <p>
-                Election Day: August 18, 2026
+                Election Day: November 3, 2026
                </p>
                <p>
-                Party Change &amp; Voter Registration Deadline: July 20, 2026
-               </p>
-               <hr/>
-               <h3>
-                Election Results
-               </h3>
-               <p>
-                Election results will be available after 7:00 PM on Election Day. Thank you for voting!
+                Voter Registration Deadline: October 5, 2026
                </p>
                <p>
-                <a class="styled-button" href="https://enr.electionsfl.org/FLA/4029/Summary/">
-                 Flagler County Election Results
+                <a class="styled-button" href="https://www.flaglerelections.gov/Elections/2026-General-RANDOM">
+                 2026 General Election Information
                 </a>
                </p>
-               <p>
-                <a class="styled-button" href="https://floridaelectionwatch.gov/">
-                 Statewide Election Results
-                </a>
-               </p>
-               <a href="https://enr.electionsfl.org/FLA/4029/Summary/">
-                <img alt="Election Night Results" longdesc="Election%20Night%20Results" src="/files/assets/elections/v/1/images/election-results-banner.png" title="Election Night Results"/>
-               </a>
               </div>
-              <hr/>
              </div>
             </div>
            </div>
@@ -841,7 +814,7 @@
                <div class="wysiwyg-content body-content">
                 <div>
                  <div class="profile-listing-container profile-events-listing-container profile-events-listing-option-8 clearfix">
-                  <div class="profile-tabbed-listing profile-events-listing clearfix" data-total-results="2">
+                  <div class="profile-tabbed-listing profile-events-listing clearfix" data-total-results="5">
                    <div class="grid">
                     <div class="col-xs-12 col-m-6 col-lg-6">
                      <a class="profile-list item-0 homepage-show" href="https://www.flaglerelections.gov/Events/2026-FPC-RANDOM-Drive">
@@ -877,7 +850,106 @@
                      </a>
                     </div>
                     <div class="col-xs-12 col-m-6 col-lg-4">
-                     <a class="profile-list item-1 homepage-show" href="https://www.flaglerelections.gov/Events/Connecting-to-Palm-Coast-Expo">
+                     <a class="profile-list item-1 homepage-show" href="https://www.flaglerelections.gov/Events/Voter-RANDOM-at-Windsor">
+                      <picture>
+                       <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/event-imgs/assisted-living-outreach/livngfaclty.jpg?dimension=homepagelisting&amp;w=380&amp;h=250">
+                        <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/event-imgs/assisted-living-outreach/livngfaclty.jpg?dimension=homepagelisting&amp;w=496&amp;h=328">
+                         <source srcset="/files/assets/elections/v/1/images/event-imgs/assisted-living-outreach/livngfaclty.jpg?dimension=homepagelisting&amp;w=480&amp;h=316">
+                          <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/1/images/event-imgs/assisted-living-outreach/livngfaclty.jpg?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                         </source>
+                        </source>
+                       </source>
+                      </picture>
+                      <span aria-hidden="true" class="list-item-block-date">
+                       <span class="part-date">
+                        10
+                       </span>
+                       <span class="part-month">
+                        Sep
+                       </span>
+                       <span class="part-year">
+                        2026
+                       </span>
+                      </span>
+                      <h2>
+                       Voter Outreach at Windsor Senior Living
+                      </h2>
+                      <p class="event-date small-text">
+                       September 10, 2026
+                      </p>
+                      <p>
+                       The Flagler County Supervisor of Elections’ Voter Outreach Team visits local assisted living and residential facilities to make voting services more convenient and accessible for residents.
+                      </p>
+                     </a>
+                    </div>
+                    <div class="col-xs-12 col-m-6 col-lg-4">
+                     <a class="profile-list item-2 homepage-show" href="https://www.flaglerelections.gov/Events/Voter-RANDOM-at-Tuscan-Gardens">
+                      <picture>
+                       <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/event-imgs/assisted-living-outreach/livngfaclty.jpg?dimension=homepagelisting&amp;w=380&amp;h=250">
+                        <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/event-imgs/assisted-living-outreach/livngfaclty.jpg?dimension=homepagelisting&amp;w=496&amp;h=328">
+                         <source srcset="/files/assets/elections/v/1/images/event-imgs/assisted-living-outreach/livngfaclty.jpg?dimension=homepagelisting&amp;w=480&amp;h=316">
+                          <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/1/images/event-imgs/assisted-living-outreach/livngfaclty.jpg?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                         </source>
+                        </source>
+                       </source>
+                      </picture>
+                      <span aria-hidden="true" class="list-item-block-date">
+                       <span class="part-date">
+                        10
+                       </span>
+                       <span class="part-month">
+                        Sep
+                       </span>
+                       <span class="part-year">
+                        2026
+                       </span>
+                      </span>
+                      <h2>
+                       Voter Outreach at Tuscan Gardens
+                      </h2>
+                      <p class="event-date small-text">
+                       September 10, 2026
+                      </p>
+                      <p>
+                       The Flagler County Supervisor of Elections’ Voter Outreach Team visits local assisted living and residential facilities to make voting services more convenient and accessible for residents.
+                      </p>
+                     </a>
+                    </div>
+                    <div class="col-xs-12 col-m-6 col-lg-4">
+                     <a class="profile-list item-3 homepage-show" href="https://www.flaglerelections.gov/Events/Voter-RANDOM-Harbor-Chase">
+                      <picture>
+                       <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/event-imgs/assisted-living-outreach/livngfaclty.jpg?dimension=homepagelisting&amp;w=380&amp;h=250">
+                        <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/event-imgs/assisted-living-outreach/livngfaclty.jpg?dimension=homepagelisting&amp;w=496&amp;h=328">
+                         <source srcset="/files/assets/elections/v/1/images/event-imgs/assisted-living-outreach/livngfaclty.jpg?dimension=homepagelisting&amp;w=480&amp;h=316">
+                          <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/1/images/event-imgs/assisted-living-outreach/livngfaclty.jpg?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                         </source>
+                        </source>
+                       </source>
+                      </picture>
+                      <span aria-hidden="true" class="list-item-block-date">
+                       <span class="part-date">
+                        17
+                       </span>
+                       <span class="part-month">
+                        Sep
+                       </span>
+                       <span class="part-year">
+                        2026
+                       </span>
+                      </span>
+                      <h2>
+                       Voter Outreach Harbor Chase
+                      </h2>
+                      <p class="event-date small-text">
+                       September 17, 2026
+                      </p>
+                      <p>
+                       The Flagler County Supervisor of Elections’ Voter Outreach Team visits local assisted living and residential facilities to make voting services more convenient and accessible for residents.
+                      </p>
+                     </a>
+                    </div>
+                    <div class="col-xs-12 col-m-6 col-lg-4">
+                     <a class="profile-list item-4 homepage-show" href="https://www.flaglerelections.gov/Events/Connecting-to-Palm-Coast-Expo">
                       <picture>
                        <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/event-imgs/connecting-pc-expo/palm-coast-2nd-connect-flyer-2026.jpg?dimension=homepagelisting&amp;w=380&amp;h=250">
                         <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/event-imgs/connecting-pc-expo/palm-coast-2nd-connect-flyer-2026.jpg?dimension=homepagelisting&amp;w=496&amp;h=328">
@@ -932,10 +1004,10 @@
                     <div class="col-xs-12 col-m-6 col-lg-6">
                      <a class="profile-list item-0 homepage-show" href="https://www.flaglerelections.gov/News/Summer-Camp-RANDOM-2026">
                       <picture>
-                       <source media="(min-width: 992px)" srcset="/files/assets/elections/v/2/images/news-imgs/campelectionpic2.jpg?dimension=homepagelistingwide&amp;w=557&amp;h=189">
-                        <source media="(min-width: 768px)" srcset="/files/assets/elections/v/2/images/news-imgs/campelectionpic2.jpg?dimension=homepagelistingwide&amp;w=496&amp;h=328">
-                         <source srcset="/files/assets/elections/v/2/images/news-imgs/campelectionpic2.jpg?dimension=homepagelistingwide&amp;w=480&amp;h=316">
-                          <img alt="" class="large-thumbnail-image wide-thumbnail-image" src="/files/assets/elections/v/2/images/news-imgs/campelectionpic2.jpg?dimension=homepagelistingwide&amp;w=557&amp;h=189"/>
+                       <source media="(min-width: 992px)" srcset="/files/assets/elections/v/2/images/outreach/campelectionpic2.jpg?dimension=homepagelistingwide&amp;w=557&amp;h=189">
+                        <source media="(min-width: 768px)" srcset="/files/assets/elections/v/2/images/outreach/campelectionpic2.jpg?dimension=homepagelistingwide&amp;w=496&amp;h=328">
+                         <source srcset="/files/assets/elections/v/2/images/outreach/campelectionpic2.jpg?dimension=homepagelistingwide&amp;w=480&amp;h=316">
+                          <img alt="" class="large-thumbnail-image wide-thumbnail-image" src="/files/assets/elections/v/2/images/outreach/campelectionpic2.jpg?dimension=homepagelistingwide&amp;w=557&amp;h=189"/>
                          </source>
                         </source>
                        </source>
@@ -1020,10 +1092,10 @@
                     <div class="col-xs-12 col-m-6 col-lg-6">
                      <a class="profile-list item-4 homepage-show" href="https://www.flaglerelections.gov/News/2026-Martin-Luther-King-Jr-Parade">
                       <picture>
-                       <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/news-imgs/mlk6.jpeg?dimension=homepagelisting&amp;w=380&amp;h=250">
-                        <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/news-imgs/mlk6.jpeg?dimension=homepagelisting&amp;w=496&amp;h=328">
-                         <source srcset="/files/assets/elections/v/1/images/news-imgs/mlk6.jpeg?dimension=homepagelisting&amp;w=480&amp;h=316">
-                          <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/1/images/news-imgs/mlk6.jpeg?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                       <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/outreach/mlk6.jpeg?dimension=homepagelisting&amp;w=380&amp;h=250">
+                        <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/outreach/mlk6.jpeg?dimension=homepagelisting&amp;w=496&amp;h=328">
+                         <source srcset="/files/assets/elections/v/1/images/outreach/mlk6.jpeg?dimension=homepagelisting&amp;w=480&amp;h=316">
+                          <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/1/images/outreach/mlk6.jpeg?dimension=homepagelisting&amp;w=496&amp;h=328"/>
                          </source>
                         </source>
                        </source>

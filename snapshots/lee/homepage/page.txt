@@ -55,11 +55,8 @@ Elected Officials
 Election Information
 Access to Ballot Materials
 Election Dates and Deadlines
-August 18, 2026
 November 3, 2026
 Lee County Elections Facts
-Election Security Facts
-Vote-by-Mail Ballot Voter's Certificate Facts
 Municipal Elections Schedule
 Offices to Be Elected
 Precincts and Polling Places
@@ -68,6 +65,10 @@ Sample Ballots
 Voting ID Requirements
 What's on My Ballot?
 Election Results
+Election Security
+Election Security Facts
+Network Cyber Security
+Voting System
 Financial Disclosure Statements
 Links to Other Sites
 Meet the Supervisor
@@ -100,6 +101,7 @@ Request a Vote-by-Mail Ballot
 Track My Vote-by-Mail Ballot
 Vote-by-Mail Ballot Drop-off Locations
 Vote-by-Mail Ballot Signatures
+Vote-by-Mail Ballot Voter's Certificate Facts
 Vote-by-Mail Count Reporting Tally
 Vote-by-Mail Information
 Checking Your Vote-by-Mail Status
@@ -118,36 +120,23 @@ Restoration of Voting Rights
 Third Party Voter Registration
 Update My Voter Registration Information
 Voter's Guide
-Voting System Security
-Network Cyber Security
-Voting System
 Important Information
 Primary Election Results
-Click the link below to view the UNOFFICIAL results
+Click the link below to view the OFFICIAL results
 for the August 18, 2026, Primary
 Election.
 August 18, 2026 Primary Election
-UNOFFICIAL RESULTS
-Current Election Statistics
-View a breakdown of ballots cast for an upcoming election.
-On election night, Tuesday, August 18, we will release and post preliminary, unofficial local election results shortly after 7:00 p.m. The 1st unofficial results, 2nd unofficial results (only for recounts), and official results will be compiled on the dates designated by the Canvassing Board Meetings and Logic and Accuracy Testing Schedule
-Countdown to the Primary
-The first election of the season is the August 18 Primary Election. In our new video series, "Countdown to the Primary,"
-Supervisor Persons-Mulicka shares important information
-to get you election-ready.
-As a nod to Election Day, new videos within the series will be posted on Tuesdays!
-Countdown to the Primary Video Series
+OFFICIAL RESULTS
 Congressional Redistricting
 In 2026, the Florida Legislature passed House Bill 1D, which establishes new or revised congressional districts in several counties across the state. While Lee County’s voters remain in either Congressional District 17 or 19, your congressional district may have changed from 17 to 19 or vice versa under the new legislative map. Some voters will not experience a change in their congressional district.
 View your personalized voting information, including your Congressional District, here.
 Vote-by-Mail Request Renewal Required
-The deadline to request a Vote-by-Mail ballot for the August 18, 2026, Primary Election was 5:00 pm, August 6.
 Under Florida law, all previous Vote-by-Mail requests have expired. You must
 submit a new request
 to vote by mail in the 2026 election cycle.
 Florida is a Closed Primary State
-The deadline to register to vote or change your party affiliation for the August 18, 2026,
-Primary Election was Monday, July 20.
+The deadline to register to vote or change your party affiliation for the November 3, 2026, General
+Election is Monday, October 5.
 When registering to vote or changing your party affiliation, it is important to know that Florida is a closed primary state. This means that, in a Primary Election, voters not registered with a major political party may not have any candidates to vote for. However, they can vote on non-partisan candidates or issues that may appear on their ballot.
 Voters wishing to register to vote or change their party affiliation for a Primary Election must do so 29 days before that election.
 For more information on changing your political party affiliation for future elections,
@@ -196,11 +185,6 @@ Notice of General Election
 (English PDF)
 Notice of General Election
 (Spanish PDF)
-Tuesday, August 18, 2026
-Primary Election
-City of Cape Coral Primary Election
-City of Cape Coral Charter Amendments
-City of Bonita Springs Bond Referendum
 Tuesday, November 3, 2026
 General Election
 City of Bonita Springs Regular Election

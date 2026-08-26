@@ -1,5 +1,256 @@
 Election Information | Broward County Supervisor of Elections
 Skip to main content
+Select Language
+Abkhaz
+Acehnese
+Acholi
+Afar
+Afrikaans
+Albanian
+Alur
+Amharic
+Arabic
+Armenian
+Assamese
+Avar
+Awadhi
+Aymara
+Azerbaijani
+Balinese
+Baluchi
+Bambara
+Baoulé
+Bashkir
+Basque
+Batak Karo
+Batak Simalungun
+Batak Toba
+Belarusian
+Bemba
+Bengali
+Betawi
+Bhojpuri
+Bikol
+Bosnian
+Breton
+Bulgarian
+Buryat
+Cantonese
+Catalan
+Cebuano
+Chamorro
+Chechen
+Chichewa
+Chinese (Simplified)
+Chinese (Traditional)
+Chuukese
+Chuvash
+Corsican
+Crimean Tatar (Cyrillic)
+Crimean Tatar (Latin)
+Croatian
+Czech
+Danish
+Dari
+Dhivehi
+Dinka
+Dogri
+Dombe
+Dutch
+Dyula
+Dzongkha
+Esperanto
+Estonian
+Ewe
+Faroese
+Fijian
+Filipino
+Finnish
+Fon
+French
+French (Canada)
+Frisian
+Friulian
+Fulani
+Ga
+Galician
+Georgian
+German
+Greek
+Guarani
+Gujarati
+Haitian Creole
+Hakha Chin
+Hausa
+Hawaiian
+Hebrew
+Hiligaynon
+Hindi
+Hmong
+Hungarian
+Hunsrik
+Iban
+Icelandic
+Igbo
+Ilocano
+Indonesian
+Inuktut (Latin)
+Inuktut (Syllabics)
+Irish
+Italian
+Jamaican Patois
+Japanese
+Javanese
+Jingpo
+Kalaallisut
+Kannada
+Kanuri
+Kapampangan
+Kazakh
+Khasi
+Khmer
+Kiga
+Kikongo
+Kinyarwanda
+Kituba
+Kokborok
+Komi
+Konkani
+Korean
+Krio
+Kurdish (Kurmanji)
+Kurdish (Sorani)
+Kyrgyz
+Lao
+Latgalian
+Latin
+Latvian
+Ligurian
+Limburgish
+Lingala
+Lithuanian
+Lombard
+Luganda
+Luo
+Luxembourgish
+Macedonian
+Madurese
+Maithili
+Makassar
+Malagasy
+Malay
+Malay (Jawi)
+Malayalam
+Maltese
+Mam
+Manx
+Maori
+Marathi
+Marshallese
+Marwadi
+Mauritian Creole
+Meadow Mari
+Meiteilon (Manipuri)
+Minang
+Mizo
+Mongolian
+Myanmar (Burmese)
+Nahuatl (Eastern Huasteca)
+Ndau
+Ndebele (South)
+Nepalbhasa (Newari)
+Nepali
+NKo
+Norwegian
+Nuer
+Occitan
+Odia (Oriya)
+Oromo
+Ossetian
+Pangasinan
+Papiamento
+Pashto
+Persian
+Polish
+Portuguese (Brazil)
+Portuguese (Portugal)
+Punjabi (Gurmukhi)
+Punjabi (Shahmukhi)
+Quechua
+Qʼeqchiʼ
+Romani
+Romanian
+Rundi
+Russian
+Sami (North)
+Samoan
+Sango
+Sanskrit
+Santali (Latin)
+Santali (Ol Chiki)
+Scots Gaelic
+Sepedi
+Serbian
+Sesotho
+Seychellois Creole
+Shan
+Shona
+Sicilian
+Silesian
+Sindhi
+Sinhala
+Slovak
+Slovenian
+Somali
+Spanish
+Sundanese
+Susu
+Swahili
+Swati
+Swedish
+Tahitian
+Tajik
+Tamazight
+Tamazight (Tifinagh)
+Tamil
+Tatar
+Telugu
+Tetum
+Thai
+Tibetan
+Tigrinya
+Tiv
+Tok Pisin
+Tongan
+Tshiluba
+Tsonga
+Tswana
+Tulu
+Tumbuka
+Turkish
+Turkmen
+Tuvan
+Twi
+Udmurt
+Ukrainian
+Urdu
+Uyghur
+Uzbek
+Venda
+Venetian
+Vietnamese
+Waray
+Welsh
+Wolof
+Xhosa
+Yakut
+Yiddish
+Yoruba
+Yucatec Maya
+Zapotec
+Zulu
+Powered by
+Translate
 Main navigation
 Voters
 Register or Update
@@ -7,7 +258,7 @@ Voter Info
 Vote By Mail Information
 Early Voting & Ballot Return
 Election Day Precinct
-Sample Ballot and Status Notifications
+Ballot Status Notifications
 Voter Resources
 How to Register
 Voter Guide, Rights and Responsibilities
@@ -25,8 +276,6 @@ General Information
 Results & Information
 Election Information
 Election Results Information
-August Election Unofficial Voter Turnout
-August Election Unofficial Vote-by-Mail Data
 Voter Registration Statistics Summary
 Voter Statistics
 Municipal Election
@@ -74,16 +323,6 @@ If this is a new registration application, the date the completed application is
 If this is a new Florida application, you must be registered for at least
 29 days
 before you can vote in an election. If your application is complete and you are qualified as a voter, a voter information card will be mailed to you.
-ELECTION DATES FOR 2026
-Primary Elections - August 18, 2026
-Window to send vote-by-mail ballots to UOCAVA voters: July 4, 2026
-(Absent Stateside and Overseas Uniformed and Civilian Voters)(45 days before election)
-Window to send vote-by-mail ballots to domestic voters: July 9 – 16, 2026
-Window to register to vote (Book Closing) or change party affiliation: July 20, 2026
-Window to request that ballot be mailed: August 6, 2026
-The window to request that a vote-by-mail ballot be mailed is no later than 5:00 p.m. (local time) on the 12th day before the election.
-IMPORTANT: The window for a vote-by-mail ballot to be returned and received by the Supervisor of Elections Office is no later than 7:00 p.m. (local time) on Election Day.
-Early voting period: August 8 – 16, 2026 from 10:00 a.m. to 7:00 p.m.
 General Elections - November 3, 2026
 Window to send vote-by-mail ballots to UOCAVA voters: September 19, 2026
 (Absent Stateside and Overseas Uniformed and Civilian Voters)(45 days before election)
@@ -100,7 +339,7 @@ Voter Info
 Vote By Mail Information
 Early Voting & Ballot Return
 Election Day Precinct
-Sample Ballot and Status Notifications
+Ballot Status Notifications
 Voter Resources
 How to Register
 Voter Guide, Rights and Responsibilities
@@ -118,8 +357,6 @@ General Information
 Results & Information
 Election Information
 Election Results Information
-August Election Unofficial Voter Turnout
-August Election Unofficial Vote-by-Mail Data
 Voter Registration Statistics Summary
 Voter Statistics
 Municipal Election
@@ -169,3 +406,6 @@ Accessibility
 Social Media Policy
 Privacy Policy
 Disclaimer
+Original text
+Rate this translation
+Your feedback will be used to help improve Google Translate

@@ -96,11 +96,11 @@ Precinct Shape Files
 Precinct District Assignments
 Public Notices
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 08/20/2026:
+Active Registered Voters as of 08/26/2026:
 Dem: 1,409
-Rep: 4,077
-Oth: 1,310
-Total: 6,796
+Rep: 4,082
+Oth: 1,309
+Total: 6,800
 Register to Vote
 Election Dates
 Polling Location
@@ -115,12 +115,7 @@ ELECTION RESULTS
 PUBLIC NOTICE:
 Aletris Farnam is the custodian of Public Records. Email:
 [email protected]
-VBM Ballots Received
-526
-Uncounted
-0
 2026 Primary Election
-Turnout Quick View
 Election Night Results
 WHAT's NEW
 Did you update your Vote-By-Mail Request for 2026?

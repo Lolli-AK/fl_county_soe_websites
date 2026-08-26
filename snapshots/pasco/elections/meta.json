@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T15:35:14Z",
-  "html_sha256": "529418c36afd57458e6af7d5678f542fc774d1d017edea01c6d8103045774223",
-  "text_sha256": "8c2ed5c90d98897ab804900ef7c90742ef38b98c814875a5acf7f8198eebe2b9",
-  "byte_size": 58615,
+  "fetched_at": "2026-08-26T12:54:14Z",
+  "html_sha256": "6c44b016699c045c8c017c8978a595041e63a5eb4679a92f014d68e52f01273e",
+  "text_sha256": "160da0d368d1f1a47d7136cb3761d298f79d61fc85bbde0274921b3705e19115",
+  "byte_size": 58865,
   "title": "Pasco County Supervisor of Elections, FL",
   "error": null
 }

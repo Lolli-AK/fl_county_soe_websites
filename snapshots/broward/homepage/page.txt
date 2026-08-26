@@ -1,5 +1,256 @@
 Home | Broward County Supervisor of Elections
 Skip to main content
+Select Language
+Abkhaz
+Acehnese
+Acholi
+Afar
+Afrikaans
+Albanian
+Alur
+Amharic
+Arabic
+Armenian
+Assamese
+Avar
+Awadhi
+Aymara
+Azerbaijani
+Balinese
+Baluchi
+Bambara
+Baoulé
+Bashkir
+Basque
+Batak Karo
+Batak Simalungun
+Batak Toba
+Belarusian
+Bemba
+Bengali
+Betawi
+Bhojpuri
+Bikol
+Bosnian
+Breton
+Bulgarian
+Buryat
+Cantonese
+Catalan
+Cebuano
+Chamorro
+Chechen
+Chichewa
+Chinese (Simplified)
+Chinese (Traditional)
+Chuukese
+Chuvash
+Corsican
+Crimean Tatar (Cyrillic)
+Crimean Tatar (Latin)
+Croatian
+Czech
+Danish
+Dari
+Dhivehi
+Dinka
+Dogri
+Dombe
+Dutch
+Dyula
+Dzongkha
+Esperanto
+Estonian
+Ewe
+Faroese
+Fijian
+Filipino
+Finnish
+Fon
+French
+French (Canada)
+Frisian
+Friulian
+Fulani
+Ga
+Galician
+Georgian
+German
+Greek
+Guarani
+Gujarati
+Haitian Creole
+Hakha Chin
+Hausa
+Hawaiian
+Hebrew
+Hiligaynon
+Hindi
+Hmong
+Hungarian
+Hunsrik
+Iban
+Icelandic
+Igbo
+Ilocano
+Indonesian
+Inuktut (Latin)
+Inuktut (Syllabics)
+Irish
+Italian
+Jamaican Patois
+Japanese
+Javanese
+Jingpo
+Kalaallisut
+Kannada
+Kanuri
+Kapampangan
+Kazakh
+Khasi
+Khmer
+Kiga
+Kikongo
+Kinyarwanda
+Kituba
+Kokborok
+Komi
+Konkani
+Korean
+Krio
+Kurdish (Kurmanji)
+Kurdish (Sorani)
+Kyrgyz
+Lao
+Latgalian
+Latin
+Latvian
+Ligurian
+Limburgish
+Lingala
+Lithuanian
+Lombard
+Luganda
+Luo
+Luxembourgish
+Macedonian
+Madurese
+Maithili
+Makassar
+Malagasy
+Malay
+Malay (Jawi)
+Malayalam
+Maltese
+Mam
+Manx
+Maori
+Marathi
+Marshallese
+Marwadi
+Mauritian Creole
+Meadow Mari
+Meiteilon (Manipuri)
+Minang
+Mizo
+Mongolian
+Myanmar (Burmese)
+Nahuatl (Eastern Huasteca)
+Ndau
+Ndebele (South)
+Nepalbhasa (Newari)
+Nepali
+NKo
+Norwegian
+Nuer
+Occitan
+Odia (Oriya)
+Oromo
+Ossetian
+Pangasinan
+Papiamento
+Pashto
+Persian
+Polish
+Portuguese (Brazil)
+Portuguese (Portugal)
+Punjabi (Gurmukhi)
+Punjabi (Shahmukhi)
+Quechua
+Qʼeqchiʼ
+Romani
+Romanian
+Rundi
+Russian
+Sami (North)
+Samoan
+Sango
+Sanskrit
+Santali (Latin)
+Santali (Ol Chiki)
+Scots Gaelic
+Sepedi
+Serbian
+Sesotho
+Seychellois Creole
+Shan
+Shona
+Sicilian
+Silesian
+Sindhi
+Sinhala
+Slovak
+Slovenian
+Somali
+Spanish
+Sundanese
+Susu
+Swahili
+Swati
+Swedish
+Tahitian
+Tajik
+Tamazight
+Tamazight (Tifinagh)
+Tamil
+Tatar
+Telugu
+Tetum
+Thai
+Tibetan
+Tigrinya
+Tiv
+Tok Pisin
+Tongan
+Tshiluba
+Tsonga
+Tswana
+Tulu
+Tumbuka
+Turkish
+Turkmen
+Tuvan
+Twi
+Udmurt
+Ukrainian
+Urdu
+Uyghur
+Uzbek
+Venda
+Venetian
+Vietnamese
+Waray
+Welsh
+Wolof
+Xhosa
+Yakut
+Yiddish
+Yoruba
+Yucatec Maya
+Zapotec
+Zulu
+Powered by
+Translate
 Main navigation
 Voters
 Register or Update
@@ -7,7 +258,7 @@ Voter Info
 Vote By Mail Information
 Early Voting & Ballot Return
 Election Day Precinct
-Sample Ballot and Status Notifications
+Ballot Status Notifications
 Voter Resources
 How to Register
 Voter Guide, Rights and Responsibilities
@@ -25,8 +276,6 @@ General Information
 Results & Information
 Election Information
 Election Results Information
-August Election Unofficial Voter Turnout
-August Election Unofficial Vote-by-Mail Data
 Voter Registration Statistics Summary
 Voter Statistics
 Municipal Election
@@ -76,7 +325,7 @@ Voter Info
 Vote by Mail
 Early Voting & Ballot Return
 Election Day Precinct
-Sample Ballot and Status Notifications
+Ballot Status Notifications
 Announced Candidates
 Become a Candidate
 Calendar of Reporting Dates
@@ -88,47 +337,34 @@ What is an Election Worker?
 Become an Election Worker
 Election Worker Portal
 Broward County
-View Unofficial Election Results
-Unofficial election results are available after 7:00 p.m. See how your community voted.
-See Unofficial Results
-Vote By Mail Next Time
-Make voting even easier next time - sign up for vote-by-mail.
-Sign Up Now
-Become a Poll Worker
-Help strengthen democracy by serving as a poll worker in future elections.
-Join Us
-View Unofficial Turnout Statistics
-Unofficial Turnout Statistics for the August 18, 2026 Election.
-All Stats
-VBM Stats
+Become a Poll Worker!
+Serve your community and help ensure secure, fair elections. Poll workers are the backbone of democracy.
+Join Our Team
+Register to Vote
+Make sure you are registered before the deadline (29 days before the election). Quick and easy online registration.
+Register Now
+Request Your Vote-By-Mail Ballot
+Vote from the comfort of your home. Request your ballot early to ensure you have time to complete and return it.
+Request Ballot
+Election Information
+Key information about the 2026 elections, including registration deadlines and important dates.
+View Election Info
 Announcements
-August 18, 2026 Election - Important Information
-Early Voting Totals by Date and Location
+November 3, 2026 Election – Canvassing Board
+Canvassing Board Master Schedule in
+English
+/
+Spanish
+Important Forms for Elections | Broward County Supervisor of Elections
+November 3, 2026 Election – Important Information
 For Voter Information Lookup -
 Click Here
-For Personalized Sample Ballot -
+Election Preparation Report for the 2026 General Election
+Important Information about the 2026 November Election, including registration deadlines and other important dates.
+August 18, 2026 Election- Official Results
+To view August Election Official Results-
 Click Here
-Early Voting Flyer (Locations, Dates, and Hours)
-Secure Ballot Intake Stations for the August 18, 2026 Election
-Important Forms for Elections | Broward County Supervisor of Elections
-List of Polling Places for the August 18, 2026 Election
-List of Candidates for August Election
-Media Guide
-August 18, 2026 Election - Canvassing Board
-Canvassing Board Meeting Notice/Agenda in
-English
-/
-Spanish
-Canvassing Board Schedule in
-English
-/
-Spanish
-Administrative Order – Canvassing Board Alternates for the August 18 2026, Election
-Guidelines and Procedures for Observers and Meeting for the 2026 Primary Elections in
-English
-/
-Spanish
-August Election Canvassing Board Meetings
+.
 Legally Required Notices
 Potential Ineligibility Notices - Public Notice- 08/04/2026
 Notice of Special Election in Plantation Acres Improvement District Special Election in
@@ -145,19 +381,6 @@ Notice of Book Closing for Primary Election to be held on August 18, 2026
 Important Information to Voters
 Voter Participation Center (VPC) or Center for Voter Information (CVI) Mailers
 View the 2026 Congressional Redistricting Interactive Map
-Election Preparation Report for the 2026 General Election
-Election Information
-Important Information about the 2026 elections, including registration deadlines and other important dates.
-November 3, 2026 Election – Canvassing Board
-Canvassing Board Schedule in
-English
-/
-Spanish
-View this profile on Instagram
-Broward County SOE
-(@
-browardvotes
-) • Instagram photos and videos
 Three Ways to Vote
 There are three safe and convenient ways to vote in Broward County
 this election. If you are a resident of Broward County, a U.S. Citizen
@@ -166,10 +389,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
+8/26/26
+1,360,571
 Eligible Voters
+590,672
 Democrat
+315,545
 Republican
+418,003
 NPA
+36,351
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.
@@ -209,3 +438,6 @@ Accessibility
 Social Media Policy
 Privacy Policy
 Disclaimer
+Original text
+Rate this translation
+Your feedback will be used to help improve Google Translate

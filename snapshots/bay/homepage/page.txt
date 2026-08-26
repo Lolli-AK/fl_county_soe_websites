@@ -48,6 +48,7 @@ Voting Equipment
 Public Records Request
 Public Records Exemption Form
 Maps & Boundaries
+Request Vote By Mail Voter Information
 Outreach / Media
 Press & Media Resources
 Media Contact
@@ -114,6 +115,7 @@ Voting Equipment
 Public Records Request
 Public Records Exemption Form
 Maps & Boundaries
+Request Vote By Mail Voter Information
 Outreach / Media
 Press & Media Resources
 Media Contact
@@ -137,7 +139,7 @@ Election Worker Login
 Search Website
 Election Results
 2026 Primary Election
-View Election Results
+View Official Election Results
 Current Elections
 My Sample Ballot
 Important Dates
@@ -150,8 +152,8 @@ How Can I Vote?
 What Do I Need?
 3 Ways to Vote
 Where Do I Vote?
-Early Voting
-Voting Locations
+Early Voting Locations
+Election Day Voting Locations
 Candidates & Campaigns
 Current Candidates
 How to Run for Office
@@ -162,16 +164,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(08/20/2026)
+(08/25/2026)
 Democrats
-23,627
+23,646
 Republicans
-74,682
+74,728
 Other
-28,819
+28,849
 Total
-127,128
-Voter Turnout
+127,223
 Upcoming Elections
 All Upcoming Elections
 General Election
@@ -187,30 +188,30 @@ Sep 24, 2026
 Mail Ballot ‘Send’ Deadline (40-day deadline before election) for domestic voters for the General Election.
 Oct 5, 2026
 Deadline to register to vote in the General Election.
-Oct 22, 2026 5:00pm
-The deadline to request a vote-by-mail ballot for the General Election
+Oct 14, 2026 8:30am
+• Canvassing Board Orientation Meeting • Logic and Accuracy Testing of the Voting and Tabulating Equipment to be used for…
 All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
 posted 1 day ago
-🗳️🗳️Election Night unofficial results will be available at:
-https://www.bayvotesfl.gov/
-after 7:00pm when polls close.
+🗳️ 2026 PRIMARY ELECTION — BAY COUNTY VOTER TURNOUT
+📊 COUNTYWIDE VOTER TURNOUT: 26.6%
+⭐TOP 3 PRECINCTS BY VOTER TURNOUT
+🥇Precinct 19 — 36.7%
+🥈Precinct 6 — 36.5%
+🥉Precinct 26 — 35.3%
+👏To everyone who participated in the 2026 Primary Election — THANK YOU!
 View Facebook Post
 (opens in a new tab)
 Public Notices
 All Public Notices
-2026 Primary Election Canvassing Board Schedule
-August 18, 2026
-Read
-Full Notice
-Statewide Election Results
-August 21, 2026
-Read
-Full Notice
 Notice of Election - General
 November 3, 2026
+Read
+Full Notice
+2026 General Election Canvassing Board Schedule
+November 14, 2026
 Read
 Full Notice
 All Public Notices

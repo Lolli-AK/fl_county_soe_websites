@@ -96,7 +96,7 @@ Election Night Results
 Click Here
 2026 Election Night Results
 Active Registered Voters
-As of 08/19/2026
+As of 08/25/2026
 Democrats
 0
 Republicans
@@ -111,11 +111,20 @@ View Voter Turnout
 2026 Mail Ballot
 All Vote by Mail request expire after each General Election. Please be sure to request your Vote By Mail Ballot for the 2026 Election Cycle.
 Request Mail Ballot
-Primary Election
+General Election
 0
 Days Until Next Election
 View Events Calendar
 Dates to Remember
+Vote-By-Mail Sent to UOCAVA voters (General)
+Vote-By-Mail Sent to UOCAVA voters (General)
+2026-09-19
+Last day to Register to Vote or make Party Changes for the General Election
+October 5, 2026, is the last day to Register to Vote or make Party Changes for the General Election
+2026-10-05
+Last day to request Vote-by-Mail (Absentee Ballot) to be mailed for the General Election
+October 22, 2026, is the last day to Request Vote-by-Mail (Absentee Ballot) to be mailed for the General Election
+2026-10-22
 View full Calendar
 News & Announcements
 Military & Overseas Voting

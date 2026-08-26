@@ -150,7 +150,7 @@ Division of Elections
 Search Website
 Election Results
 2026 Madison Primary Election
-View Unofficial Results
+View Official Results
 Check My Status
 Register to Vote
 Update My Info
@@ -159,15 +159,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 07/20/2026
+Voter Totals as of: 08/26/2026
 Democrats
-3,839
+3,840
 Republicans
-5,240
+5,278
 Other
-1,341
+1,344
 Total
-10,420
+10,462
 Upcoming Elections
 Nov 3, 2026 7:00am
 General Election
@@ -190,9 +190,9 @@ Early Voting: General Election
 All Upcoming Dates
 Election News
 View all News & Announcements
-May 27, 2026
-Book Closing Deadline for the Primary Election (July 20, 2026)
-The last day to register to vote or to make a party change to an…
+July 6, 2026
+OFFICE CLOSURE
+Our office will be closed on Monday, September 7th in observance of Labor Day.
 Read Full Announcement
 May 6, 2026
 Amended Notice of General Election
@@ -202,8 +202,8 @@ March 30, 2026
 Active Petition Signature Verification Report
 Read Full Announcement
 March 26, 2026
-2026 Primary Election Canvassing Board Schedule
-Madison Primary Election 2026 Canvassing Schedule
+2026 General Election Canvassing Board Schedule
+Madison General Election 2026 Canvassing Schedule
 Read Full Announcement
 View all News & Announcements
 Madison County, Florida

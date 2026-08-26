@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T15:35:14Z",
-  "html_sha256": "f0497298e6cdde19a89a19036d15af60b2b019125271c01c50dff79f65362132",
-  "text_sha256": "afe072b99ac9f0419a9d079f949d4cc2462838e74f69fb0ed23aeca3d93eec7c",
-  "byte_size": 52999,
+  "fetched_at": "2026-08-26T12:54:14Z",
+  "html_sha256": "ae0bb6d7691ee69816b8562811807dfc72ceedcb574fd209119cc87cf37a919f",
+  "text_sha256": "0fabc8fef154033171da3a1020d31bfb1bde85c780b2257d3fc5c34ed858c373",
+  "byte_size": 53509,
   "title": "Upcoming Elections | Bay County Supervisor of Elections",
   "error": null
 }

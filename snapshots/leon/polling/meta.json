@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T15:35:14Z",
-  "html_sha256": "cb4eed24864406a652862a6dea68f0e2e4905f42c167cb34e369350aeadc6bb4",
-  "text_sha256": "f625f1459baf29e546d9310d86d96e2e084853181fd2926fc200b1b25f71b5b2",
-  "byte_size": 115786,
+  "fetched_at": "2026-08-26T12:54:14Z",
+  "html_sha256": "cee235632c44816bd8de413d24aba75093541a9c87dab989332de5c1a6aafd58",
+  "text_sha256": "172978b43b67e71fa35b229e6fb89269fb42575d0e36a448a39d42103270e7fe",
+  "byte_size": 115699,
   "title": "Check Your Info",
   "error": null
 }

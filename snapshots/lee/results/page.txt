@@ -52,11 +52,8 @@ Elected Officials
 Election Information
 Access to Ballot Materials
 Election Dates and Deadlines
-August 18, 2026
 November 3, 2026
 Lee County Elections Facts
-Election Security Facts
-Vote-by-Mail Ballot Voter's Certificate Facts
 Municipal Elections Schedule
 Offices to Be Elected
 Precincts and Polling Places
@@ -65,6 +62,10 @@ Sample Ballots
 Voting ID Requirements
 What's on My Ballot?
 Election Results
+Election Security
+Election Security Facts
+Network Cyber Security
+Voting System
 Financial Disclosure Statements
 Links to Other Sites
 Meet the Supervisor
@@ -97,6 +98,7 @@ Request a Vote-by-Mail Ballot
 Track My Vote-by-Mail Ballot
 Vote-by-Mail Ballot Drop-off Locations
 Vote-by-Mail Ballot Signatures
+Vote-by-Mail Ballot Voter's Certificate Facts
 Vote-by-Mail Count Reporting Tally
 Vote-by-Mail Information
 Checking Your Vote-by-Mail Status
@@ -115,9 +117,6 @@ Restoration of Voting Rights
 Third Party Voter Registration
 Update My Voter Registration Information
 Voter's Guide
-Voting System Security
-Network Cyber Security
-Voting System
 Home
 Election Results
 Election Results

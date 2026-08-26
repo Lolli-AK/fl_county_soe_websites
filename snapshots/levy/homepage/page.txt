@@ -120,7 +120,7 @@ Recursos en Español
 Search Website
 Election Results
 2026 Primary Election (08/18/2026)
-View Unofficial Results
+View Official Results
 Check Voter Status
 Register to Vote
 Update My Info
@@ -129,16 +129,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 08/19/2026
+Voter Totals as of: 08/25/2026
 Democrats
-6,103
+6,100
 Republicans
-18,744
+18,802
 Other
-5,308
+5,266
 Total
-30,155
-Voter Turnout
+30,168
 Upcoming Elections
 Nov 3, 2026
 General Election
@@ -161,13 +160,13 @@ Early Voting: General Election
 All Upcoming Dates
 Announcements
 View all News & Announcements
-August 18, 2026
+August 25, 2026
 Voter Ineligibility Notice
 Read Full Announcement
-August 15, 2026
-Election Day Tips for Primary Election on August 18
+August 21, 2026
+Voter Ineligibility Notice
 Read Full Announcement
-August 12, 2026
+August 18, 2026
 Voter Ineligibility Notice
 Read Full Announcement
 View all News & Announcements

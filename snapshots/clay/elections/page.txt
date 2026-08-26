@@ -80,15 +80,6 @@ All Event Type
 Holiday
 Office Closed
 Elections
-20
-August
-Thursday
-Elections
-Canvassing Board Meeting
-August 20, 2026 @
-3:30 PM -
-5:00 PM
-More Details
 23
 October
 Friday
@@ -170,8 +161,13 @@ October 31, 2026 @
 9:00 AM -
 6:00 PM
 More Details
-1
-2
+03
+November
+Tuesday
+Elections
+General Election
+November 3, 2026
+More Details
 Voter Information
 My Registration Status
 Register to Vote/Update Your Information
