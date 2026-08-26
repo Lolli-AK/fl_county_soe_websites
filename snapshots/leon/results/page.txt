@@ -166,16 +166,16 @@ PDF
 |
 Excel
 Results
-Election Summary Report with Official Results
-Summary Report
-City Commission Seat 3 Recount
-Recount Summary
-Post-Election Audit Comparison of Votes Cast
-TBD
-Statement of Votes Cast
-TBD
 Election Night Reporting
 Webpage
+Election Summary Report
+Official Results
+City Commission Seat 3 Recount
+Recount Results
+Statement of Votes Cast
+TBD
+Post-Election Audit Comparison of Votes Cast
+TBD
 Miscellaneous
 Early Voting Snapshot
 Date Ascending
