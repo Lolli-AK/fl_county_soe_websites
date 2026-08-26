@@ -11,3 +11,4 @@ logs/
 
 # Excel lock/temp files
 ~$*
+scripts/_data/national_county2020.txt

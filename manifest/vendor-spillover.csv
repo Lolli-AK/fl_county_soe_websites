@@ -1,0 +1,797 @@
+state,county,status,url,final_url,http_status,platform,bytes,attempts
+AL,Autauga County,not_found,,,,not_found,,autaugacountyal.gov:ConnectError;autaugacounty.gov:ConnectError;co.autauga.al.us:ConnectError;autaugacountyalabama.gov:ConnectError
+AL,Baldwin County,resolved,https://baldwincountyal.gov,https://baldwincountyal.gov,200,other/unknown,80084,first_try
+AL,Barbour County,not_found,,,,not_found,,barbourcountyal.gov:RemoteProtocolError;barbourcounty.gov:ConnectError;co.barbour.al.us:ConnectError;barbourcountyalabama.gov:ConnectError
+AL,Bibb County,not_found,,,,not_found,,bibbcountyal.gov:ConnectError;bibbcounty.gov:ConnectError;co.bibb.al.us:ConnectError;bibbcountyalabama.gov:ConnectError
+AL,Blount County,resolved,https://blountcountyal.gov,https://blountcountyal.gov,200,WordPress,70397,first_try
+AL,Bullock County,not_found,,,,not_found,,bullockcountyal.gov:ConnectError;bullockcounty.gov:ConnectError;co.bullock.al.us:ConnectError;bullockcountyalabama.gov:ConnectError
+AL,Butler County,not_found,,,,not_found,,butlercountyal.gov:ConnectError;butlercounty.gov:ConnectError;co.butler.al.us:ConnectError;butlercountyalabama.gov:ConnectError
+AL,Calhoun County,resolved,https://calhouncountyal.gov,https://calhouncountyal.gov,200,other/unknown,15962,first_try
+AL,Chambers County,resolved,https://chamberscountyal.gov,https://chamberscountyal.gov,200,Joomla,48156,first_try
+AL,Cherokee County,not_found,,,,not_found,,cherokeecountyal.gov:ConnectError;cherokeecounty.gov:ConnectError;co.cherokee.al.us:ConnectError;cherokeecountyalabama.gov:ConnectError
+AL,Chilton County,not_found,,,,not_found,,chiltoncountyal.gov:ConnectError;chiltoncounty.gov:ConnectError;co.chilton.al.us:ConnectError;chiltoncountyalabama.gov:ConnectError
+AL,Choctaw County,not_found,,,,not_found,,choctawcountyal.gov:ConnectError;choctawcounty.gov:ConnectError;co.choctaw.al.us:ConnectError;choctawcountyalabama.gov:ConnectError
+AL,Clarke County,not_found,,,,not_found,,clarkecountyal.gov:ConnectError;clarkecounty.gov:403;co.clarke.al.us:ConnectError;clarkecountyalabama.gov:ConnectError
+AL,Clay County,not_found,,,,not_found,,claycountyal.gov:ConnectError;claycounty.gov:ConnectError;co.clay.al.us:ConnectError;claycountyalabama.gov:ConnectError
+AL,Cleburne County,not_found,,,,not_found,,cleburnecountyal.gov:ConnectError;cleburnecounty.gov:ConnectError;co.cleburne.al.us:ConnectError;cleburnecountyalabama.gov:ConnectError
+AL,Coffee County,not_found,,,,not_found,,coffeecountyal.gov:ConnectError;coffeecounty.gov:ConnectError;co.coffee.al.us:401;coffeecountyalabama.gov:ConnectError
+AL,Colbert County,not_found,,,,not_found,,colbertcountyal.gov:ConnectError;colbertcounty.gov:ConnectError;co.colbert.al.us:ConnectError;colbertcountyalabama.gov:ConnectError
+AL,Conecuh County,not_found,,,,not_found,,conecuhcountyal.gov:ConnectError;conecuhcounty.gov:ConnectError;co.conecuh.al.us:ConnectError;conecuhcountyalabama.gov:ConnectError
+AL,Coosa County,resolved,https://coosacountyal.gov,https://coosacountyal.gov/owa/auth/logon.aspx?url=https%3a%2f%2fcoosacountyal.gov%2fowa%2f&reason=0,200,other/unknown,27980,first_try
+AL,Covington County,not_found,,,,not_found,,covingtoncountyal.gov:RemoteProtocolError;covingtoncounty.gov:ConnectError;co.covington.al.us:ConnectError;covingtoncountyalabama.gov:ConnectError
+AL,Crenshaw County,not_found,,,,not_found,,crenshawcountyal.gov:ConnectError;crenshawcounty.gov:ConnectError;co.crenshaw.al.us:ConnectError;crenshawcountyalabama.gov:ConnectError
+AL,Cullman County,resolved,https://co.cullman.al.us,https://co.cullman.al.us,200,other/unknown,16311,cullmancountyal.gov:ConnectError;cullmancounty.gov:ConnectError
+AL,Dale County,resolved,https://dalecountyal.gov,https://dalecountyal.gov,200,DotNetNuke,52443,first_try
+AL,Dallas County,not_found,,,,not_found,,dallascountyal.gov:ConnectError;dallascounty.gov:ConnectError;co.dallas.al.us:ConnectError;dallascountyalabama.gov:ConnectError
+AL,DeKalb County,not_found,,,,not_found,,dekalbcountyal.gov:ConnectError;dekalbcounty.gov:ConnectError;co.dekalb.al.us:ConnectError;dekalbcountyalabama.gov:ConnectError
+AL,Elmore County,not_found,,,,not_found,,elmorecountyal.gov:ConnectError;elmorecounty.gov:ConnectError;co.elmore.al.us:ConnectError;elmorecountyalabama.gov:ConnectError
+AL,Escambia County,resolved,https://escambiacountyal.gov,https://www.escambiacountyal.gov/,200,Revize,58867,first_try
+AL,Etowah County,not_found,,,,not_found,,etowahcountyal.gov:ConnectError;etowahcounty.gov:ConnectError;co.etowah.al.us:ConnectError;etowahcountyalabama.gov:ConnectError
+AL,Fayette County,not_found,,,,not_found,,fayettecountyal.gov:ConnectError;fayettecounty.gov:ConnectError;co.fayette.al.us:ConnectError;fayettecountyalabama.gov:ConnectError
+AL,Franklin County,not_found,,,,not_found,,franklincountyal.gov:ConnectError;franklincounty.gov:ConnectError;co.franklin.al.us:ConnectError;franklincountyalabama.gov:ConnectError
+AL,Geneva County,resolved,https://genevacountyal.gov,https://genevacountyal.gov,200,WordPress,110541,first_try
+AL,Greene County,not_found,,,,not_found,,greenecountyal.gov:ConnectError;greenecounty.gov:ConnectError;co.greene.al.us:ConnectError;greenecountyalabama.gov:ConnectError
+AL,Hale County,resolved,https://halecountyal.gov,https://www.halecountyal.gov/,200,Drupal,27199,first_try
+AL,Henry County,not_found,,,,not_found,,henrycountyal.gov:ConnectError;henrycounty.gov:ConnectError;co.henry.al.us:ConnectError;henrycountyalabama.gov:ConnectError
+AL,Houston County,resolved,https://houstoncountyal.gov,https://houstoncountyal.gov,200,WordPress,21763,first_try
+AL,Jackson County,resolved,https://jacksoncountyal.gov,https://jacksoncountyal.gov,200,CivicPlus,96318,first_try
+AL,Jefferson County,not_found,,,,not_found,,jeffersoncountyal.gov:ConnectError;jeffersoncounty.gov:ConnectError;co.jefferson.al.us:ConnectError;jeffersoncountyalabama.gov:ConnectError
+AL,Lamar County,not_found,,,,not_found,,lamarcountyal.gov:403;lamarcounty.gov:ConnectError;co.lamar.al.us:ConnectError;lamarcountyalabama.gov:ConnectError
+AL,Lauderdale County,resolved,https://lauderdalecountyal.gov,https://www.lauderdalecountyal.gov/Default.asp,200,other/unknown,27111,first_try
+AL,Lawrence County,not_found,,,,not_found,,lawrencecountyal.gov:wrong_county;lawrencecounty.gov:ConnectError;co.lawrence.al.us:ConnectError;lawrencecountyalabama.gov:ConnectError
+AL,Lee County,not_found,,,,not_found,,leecountyal.gov:ConnectError;leecounty.gov:ConnectError;co.lee.al.us:ConnectError;leecountyalabama.gov:ConnectError
+AL,Limestone County,not_found,,,,not_found,,limestonecountyal.gov:ConnectError;limestonecounty.gov:ConnectError;co.limestone.al.us:ConnectError;limestonecountyalabama.gov:ConnectError
+AL,Lowndes County,not_found,,,,not_found,,lowndescountyal.gov:ConnectError;lowndescounty.gov:ConnectError;co.lowndes.al.us:ConnectError;lowndescountyalabama.gov:ConnectError
+AL,Macon County,not_found,,,,not_found,,maconcountyal.gov:ConnectError;maconcounty.gov:ConnectError;co.macon.al.us:ConnectError;maconcountyalabama.gov:ConnectError
+AL,Madison County,not_found,,,,not_found,,madisoncountyal.gov:403;madisoncounty.gov:ConnectError;co.madison.al.us:ConnectError;madisoncountyalabama.gov:ConnectError
+AL,Marengo County,not_found,,,,not_found,,marengocountyal.gov:ConnectError;marengocounty.gov:ConnectError;co.marengo.al.us:ConnectError;marengocountyalabama.gov:ConnectError
+AL,Marion County,not_found,,,,not_found,,marioncountyal.gov:ConnectError;marioncounty.gov:ConnectError;co.marion.al.us:ConnectError;marioncountyalabama.gov:ConnectError
+AL,Marshall County,not_found,,,,not_found,,marshallcountyal.gov:ConnectError;marshallcounty.gov:ConnectError;co.marshall.al.us:ConnectError;marshallcountyalabama.gov:ConnectError
+AL,Mobile County,resolved,https://mobilecountyal.gov,https://www.mobilecountyal.gov/,200,other/unknown,47741,first_try
+AL,Monroe County,resolved,https://monroecounty.gov,https://www.monroecounty.gov/,200,other/unknown,111192,monroecountyal.gov:ConnectError
+AL,Montgomery County,not_found,,,,not_found,,montgomerycountyal.gov:403;montgomerycounty.gov:ConnectError;co.montgomery.al.us:ConnectError;montgomerycountyalabama.gov:ConnectError
+AL,Morgan County,not_found,,,,not_found,,morgancountyal.gov:ConnectError;morgancounty.gov:ConnectError;co.morgan.al.us:ConnectTimeout;morgancountyalabama.gov:ConnectError
+AL,Perry County,not_found,,,,not_found,,perrycountyal.gov:403;perrycounty.gov:ConnectError;co.perry.al.us:ConnectError;perrycountyalabama.gov:ConnectError
+AL,Pickens County,not_found,,,,not_found,,pickenscountyal.gov:ConnectError;pickenscounty.gov:ConnectError;co.pickens.al.us:ConnectError;pickenscountyalabama.gov:ConnectError
+AL,Pike County,not_found,,,,not_found,,pikecountyal.gov:ConnectError;pikecounty.gov:ConnectError;co.pike.al.us:ConnectError;pikecountyalabama.gov:ConnectError
+AL,Randolph County,resolved,https://randolphcountyal.gov,https://randolphcountyal.gov,200,WordPress,87954,first_try
+AL,Russell County,resolved,https://russellcountyal.gov,https://russellcountyal.gov,200,Revize,100400,first_try
+AL,Shelby County,not_found,,,,not_found,,shelbycountyal.gov:ConnectError;shelbycounty.gov:ConnectError;co.shelby.al.us:ConnectError;shelbycountyalabama.gov:ConnectError
+AL,St. Clair County,not_found,,,,not_found,,stclaircountyal.gov:ConnectError;stclaircounty.gov:ConnectError;co.stclair.al.us:ConnectError;stclaircountyalabama.gov:ConnectError
+AL,Sumter County,not_found,,,,not_found,,sumtercountyal.gov:ConnectError;sumtercounty.gov:ConnectError;co.sumter.al.us:ConnectError;sumtercountyalabama.gov:ConnectError
+AL,Talladega County,not_found,,,,not_found,,talladegacountyal.gov:ConnectError;talladegacounty.gov:ConnectError;co.talladega.al.us:ConnectError;talladegacountyalabama.gov:ConnectError
+AL,Tallapoosa County,not_found,,,,not_found,,tallapoosacountyal.gov:ConnectError;tallapoosacounty.gov:ConnectError;co.tallapoosa.al.us:ConnectError;tallapoosacountyalabama.gov:ConnectError
+AL,Tuscaloosa County,not_found,,,,not_found,,tuscaloosacountyal.gov:ConnectError;tuscaloosacounty.gov:ConnectError;co.tuscaloosa.al.us:ConnectError;tuscaloosacountyalabama.gov:ConnectError
+AL,Walker County,not_found,,,,not_found,,walkercountyal.gov:ConnectError;walkercounty.gov:ConnectError;co.walker.al.us:ConnectError;walkercountyalabama.gov:ConnectError
+AL,Washington County,not_found,,,,not_found,,washingtoncountyal.gov:ConnectError;washingtoncounty.gov:ConnectError;co.washington.al.us:ConnectError;washingtoncountyalabama.gov:ConnectError
+AL,Wilcox County,not_found,,,,not_found,,wilcoxcountyal.gov:ConnectError;wilcoxcounty.gov:ConnectError;co.wilcox.al.us:ConnectError;wilcoxcountyalabama.gov:ConnectError
+AL,Winston County,not_found,,,,not_found,,winstoncountyal.gov:ConnectError;winstoncounty.gov:ConnectError;co.winston.al.us:ConnectError;winstoncountyalabama.gov:ConnectError
+AR,Arkansas County,not_found,,,,not_found,,arkansascountyar.gov:ConnectError;co.arkansas.ar.us:ConnectError;arkansascounty.org:ConnectError;arkansascountyarkansas.gov:ConnectError
+AR,Ashley County,not_found,,,,not_found,,ashleycountyar.gov:ConnectError;co.ashley.ar.us:ConnectError;ashleycounty.org:ConnectError;ashleycountyarkansas.gov:ConnectError
+AR,Baxter County,resolved,https://baxtercountyar.gov,https://baxtercountyar.gov,200,other/unknown,60915,first_try
+AR,Benton County,not_found,,,,not_found,,bentoncountyar.gov:403;co.benton.ar.us:ConnectError;bentoncounty.org:wrong_county;bentoncountyarkansas.gov:ConnectError
+AR,Boone County,not_found,,,,not_found,,boonecountyar.gov:ConnectError;co.boone.ar.us:ConnectError;boonecounty.org:wrong_county;boonecountyarkansas.gov:ConnectError
+AR,Bradley County,not_found,,,,not_found,,bradleycountyar.gov:ConnectError;co.bradley.ar.us:ConnectError;bradleycounty.org:wrong_county;bradleycountyarkansas.gov:ConnectError
+AR,Calhoun County,resolved,https://calhouncounty.org,https://calhouncounty.org,200,other/unknown,15962,calhouncountyar.gov:wrong_county;co.calhoun.ar.us:ConnectError
+AR,Carroll County,not_found,,,,not_found,,carrollcountyar.gov:ConnectError;co.carroll.ar.us:ConnectError;carrollcounty.org:ConnectError;carrollcountyarkansas.gov:ConnectError
+AR,Chicot County,not_found,,,,not_found,,chicotcountyar.gov:ConnectError;co.chicot.ar.us:ConnectError;chicotcounty.org:wrong_county;chicotcountyarkansas.gov:ConnectError
+AR,Clark County,resolved,https://clarkcountyar.gov,https://clarkcountyar.gov,200,WordPress,151570,first_try
+AR,Clay County,not_found,,,,not_found,,claycountyar.gov:ConnectError;co.clay.ar.us:ConnectError;claycounty.org:wrong_county;claycountyarkansas.gov:ConnectError
+AR,Cleburne County,not_found,,,,not_found,,cleburnecountyar.gov:ConnectError;co.cleburne.ar.us:ConnectError;cleburnecounty.org:ConnectError;cleburnecountyarkansas.gov:ConnectError
+AR,Cleveland County,not_found,,,,not_found,,clevelandcountyar.gov:ConnectError;co.cleveland.ar.us:ConnectError;clevelandcounty.org:wrong_county;clevelandcountyarkansas.gov:ConnectError
+AR,Columbia County,resolved,https://columbiacounty.org,https://columbiacounty.org,200,other/unknown,1076,columbiacountyar.gov:ConnectError;co.columbia.ar.us:ConnectError
+AR,Conway County,not_found,,,,not_found,,conwaycountyar.gov:ConnectError;co.conway.ar.us:ConnectError;conwaycounty.org:wrong_county;conwaycountyarkansas.gov:ConnectError
+AR,Craighead County,resolved,https://craigheadcountyar.gov,https://craigheadcountyar.gov,200,other/unknown,61749,first_try
+AR,Crawford County,resolved,https://crawfordcountyar.gov,https://crawfordcountyar.gov,200,other/unknown,32889,first_try
+AR,Crittenden County,not_found,,,,not_found,,crittendencountyar.gov:ConnectError;co.crittenden.ar.us:ConnectError;crittendencounty.org:ConnectTimeout;crittendencountyarkansas.gov:ConnectError
+AR,Cross County,not_found,,,,not_found,,crosscountyar.gov:ConnectError;co.cross.ar.us:ConnectError;crosscounty.org:wrong_county;crosscountyarkansas.gov:ConnectError
+AR,Dallas County,resolved,https://dallascounty.org,https://dallascounty.org,200,other/unknown,58247,dallascountyar.gov:ConnectError;co.dallas.ar.us:ConnectError
+AR,Desha County,not_found,,,,not_found,,deshacountyar.gov:ConnectError;co.desha.ar.us:ConnectError;deshacounty.org:403;deshacountyarkansas.gov:ConnectError
+AR,Drew County,not_found,,,,not_found,,drewcountyar.gov:ConnectError;co.drew.ar.us:ConnectError;drewcounty.org:ConnectError;drewcountyarkansas.gov:ConnectError
+AR,Faulkner County,resolved,https://faulknercountyar.gov,https://www.faulknercountyar.gov/,200,WordPress,383799,first_try
+AR,Franklin County,resolved,https://franklincountyar.gov,https://franklincountyar.gov,200,WordPress,315419,first_try
+AR,Fulton County,resolved,https://fultoncountyar.gov,https://www.fultoncountyar.gov/,200,other/unknown,43358,first_try
+AR,Garland County,not_found,,,,not_found,,garlandcountyar.gov:ConnectError;co.garland.ar.us:ConnectError;garlandcounty.org:RemoteProtocolError;garlandcountyarkansas.gov:ConnectError
+AR,Grant County,resolved,https://grantcounty.org,https://grantcounty.org,200,WordPress,521016,grantcountyar.gov:ConnectError;co.grant.ar.us:ConnectError
+AR,Greene County,not_found,,,,not_found,,greenecountyar.gov:ConnectError;co.greene.ar.us:ConnectError;greenecounty.org:ConnectTimeout;greenecountyarkansas.gov:ConnectError
+AR,Hempstead County,not_found,,,,not_found,,hempsteadcountyar.gov:ConnectError;co.hempstead.ar.us:ConnectError;hempsteadcounty.org:wrong_county;hempsteadcountyarkansas.gov:ConnectError
+AR,Hot Spring County,resolved,https://hotspringcounty.org,https://hotspringcounty.org,200,WordPress,153332,hotspringcountyar.gov:ConnectError;co.hotspring.ar.us:ConnectError
+AR,Howard County,not_found,,,,not_found,,howardcountyar.gov:ConnectError;co.howard.ar.us:ConnectError;howardcounty.org:ConnectError;howardcountyarkansas.gov:ConnectError
+AR,Independence County,not_found,,,,not_found,,independencecountyar.gov:ConnectError;co.independence.ar.us:ConnectError;independencecounty.org:ConnectError;independencecountyarkansas.gov:ConnectError
+AR,Izard County,not_found,,,,not_found,,izardcountyar.gov:ConnectError;co.izard.ar.us:ConnectError;izardcounty.org:wrong_county;izardcountyarkansas.gov:ConnectError
+AR,Jackson County,resolved,https://jacksoncounty.org,https://jacksoncounty.org,200,other/unknown,387,jacksoncountyar.gov:ConnectError;co.jackson.ar.us:ConnectError
+AR,Jefferson County,resolved,https://jeffersoncounty.org,https://jeffersoncounty.org,200,other/unknown,29363,jeffersoncountyar.gov:403;co.jefferson.ar.us:ConnectError
+AR,Johnson County,not_found,,,,not_found,,johnsoncountyar.gov:ConnectError;co.johnson.ar.us:ConnectError;johnsoncounty.org:wrong_county;johnsoncountyarkansas.gov:ConnectError
+AR,Lafayette County,not_found,,,,not_found,,lafayettecountyar.gov:ConnectError;co.lafayette.ar.us:ConnectError;lafayettecounty.org:wrong_county;lafayettecountyarkansas.gov:ConnectError
+AR,Lawrence County,resolved,https://lawrencecounty.org,https://lawrencecounty.org,200,WordPress,142815,lawrencecountyar.gov:ConnectError;co.lawrence.ar.us:ConnectError
+AR,Lee County,resolved,https://leecountyar.gov,https://leecountyar.gov,200,other/unknown,90201,first_try
+AR,Lincoln County,not_found,,,,not_found,,lincolncountyar.gov:ConnectError;co.lincoln.ar.us:ConnectError;lincolncounty.org:ConnectTimeout;lincolncountyarkansas.gov:ConnectError
+AR,Little River County,not_found,,,,not_found,,littlerivercountyar.gov:ConnectError;co.littleriver.ar.us:ConnectError;littlerivercounty.org:wrong_county;littlerivercountyarkansas.gov:ConnectError
+AR,Logan County,not_found,,,,not_found,,logancountyar.gov:ConnectError;co.logan.ar.us:ConnectError;logancounty.org:ConnectError;logancountyarkansas.gov:ConnectError
+AR,Lonoke County,not_found,,,,not_found,,lonokecountyar.gov:ConnectError;co.lonoke.ar.us:ConnectError;lonokecounty.org:ConnectError;lonokecountyarkansas.gov:ConnectError
+AR,Madison County,resolved,https://madisoncountyar.gov,https://madisoncountyar.gov,200,other/unknown,16937,first_try
+AR,Marion County,resolved,https://marioncounty.org,https://synergytech.com/buy-domain/marioncounty.org?redirected=true,200,Streamline,60091,marioncountyar.gov:ConnectError;co.marion.ar.us:ConnectError
+AR,Miller County,resolved,https://millercountyar.gov,https://millercountyar.gov,200,WordPress,189237,first_try
+AR,Mississippi County,not_found,,,,not_found,,mississippicountyar.gov:ConnectError;co.mississippi.ar.us:ConnectError;mississippicounty.org:ConnectError;mississippicountyarkansas.gov:ConnectError
+AR,Monroe County,not_found,,,,not_found,,monroecountyar.gov:ConnectError;co.monroe.ar.us:ConnectError;monroecounty.org:wrong_county;monroecountyarkansas.gov:ConnectError
+AR,Montgomery County,resolved,https://montgomerycounty.org,https://montgomerycounty.org,200,Granicus,62475,montgomerycountyar.gov:ConnectError;co.montgomery.ar.us:ConnectError
+AR,Nevada County,not_found,,,,not_found,,nevadacountyar.gov:ConnectError;co.nevada.ar.us:ConnectError;nevadacounty.org:wrong_county;nevadacountyarkansas.gov:ConnectError
+AR,Newton County,not_found,,,,not_found,,newtoncountyar.gov:ConnectError;co.newton.ar.us:ConnectError;newtoncounty.org:ConnectError;newtoncountyarkansas.gov:ConnectError
+AR,Ouachita County,resolved,https://ouachitacounty.org,https://www.explorecamden.com/o/ouachitacounty/,200,other/unknown,1117636,ouachitacountyar.gov:ConnectError;co.ouachita.ar.us:ConnectError
+AR,Perry County,not_found,,,,not_found,,perrycountyar.gov:ConnectError;co.perry.ar.us:ConnectError;perrycounty.org:wrong_county;perrycountyarkansas.gov:ConnectError
+AR,Phillips County,resolved,https://phillipscounty.org,https://www.phillipscounty.org/,200,Streamline,208488,phillipscountyar.gov:ConnectError;co.phillips.ar.us:ConnectError
+AR,Pike County,not_found,,,,not_found,,pikecountyar.gov:ConnectError;co.pike.ar.us:ConnectError;pikecounty.org:ConnectError;pikecountyarkansas.gov:ConnectError
+AR,Poinsett County,not_found,,,,not_found,,poinsettcountyar.gov:ConnectError;co.poinsett.ar.us:ConnectError;poinsettcounty.org:ConnectError;poinsettcountyarkansas.gov:ConnectError
+AR,Polk County,resolved,https://polkcounty.org,https://polkcounty.org,200,other/unknown,49999,polkcountyar.gov:ConnectError;co.polk.ar.us:ConnectError
+AR,Pope County,resolved,https://popecountyar.gov,https://www.popecountyar.gov/,200,other/unknown,45459,first_try
+AR,Prairie County,resolved,https://prairiecounty.org,https://prairiecounty.org,200,Drupal,17640,prairiecountyar.gov:ConnectError;co.prairie.ar.us:ConnectError
+AR,Pulaski County,resolved,https://pulaskicounty.org,https://pulaskicounty.org,200,other/unknown,120910,pulaskicountyar.gov:ConnectError;co.pulaski.ar.us:ConnectError
+AR,Randolph County,not_found,,,,not_found,,randolphcountyar.gov:ConnectError;co.randolph.ar.us:ConnectError;randolphcounty.org:ConnectError;randolphcountyarkansas.gov:ConnectError
+AR,Saline County,resolved,https://salinecounty.org,https://salinecounty.org,200,Revize,59193,salinecountyar.gov:ConnectError;co.saline.ar.us:ConnectError
+AR,Scott County,not_found,,,,not_found,,scottcountyar.gov:ConnectError;co.scott.ar.us:ConnectError;scottcounty.org:RemoteProtocolError;scottcountyarkansas.gov:ConnectError
+AR,Searcy County,not_found,,,,not_found,,searcycountyar.gov:ConnectError;co.searcy.ar.us:ConnectError;searcycounty.org:wrong_county;searcycountyarkansas.gov:ConnectError
+AR,Sebastian County,resolved,https://sebastiancountyar.gov,https://sebastiancountyar.gov,200,DotNetNuke,104537,first_try
+AR,Sevier County,not_found,,,,not_found,,seviercountyar.gov:503;co.sevier.ar.us:ConnectError;seviercounty.org:wrong_county;seviercountyarkansas.gov:ConnectError
+AR,Sharp County,not_found,,,,not_found,,sharpcountyar.gov:ConnectError;co.sharp.ar.us:ConnectError;sharpcounty.org:403;sharpcountyarkansas.gov:ConnectError
+AR,St. Francis County,resolved,https://stfranciscountyar.gov,https://stfranciscountyar.gov,200,WordPress,70336,first_try
+AR,Stone County,resolved,https://stonecountyar.gov,https://www.stonecountyar.gov/,200,other/unknown,25654,first_try
+AR,Union County,resolved,https://unioncountyar.gov,https://unioncountyar.gov,200,other/unknown,10237,first_try
+AR,Van Buren County,resolved,https://vanburencountyar.gov,https://www.vanburencountyar.gov/,200,Squarespace,245852,first_try
+AR,Washington County,not_found,,,,not_found,,washingtoncountyar.gov:403;co.washington.ar.us:ConnectError;washingtoncounty.org:wrong_county;washingtoncountyarkansas.gov:ConnectError
+AR,White County,not_found,,,,not_found,,whitecountyar.gov:ConnectError;co.white.ar.us:ConnectError;whitecounty.org:ConnectError;whitecountyarkansas.gov:ConnectError
+AR,Woodruff County,resolved,https://woodruffcountyar.gov,https://www.woodruffcountyar.gov/,200,other/unknown,37807,first_try
+AR,Yell County,resolved,https://yellcountyar.gov,https://yellcountyar.gov,200,WordPress,480184,first_try
+FL,Alachua County,not_found,,,,not_found,,alachuacountyfl.gov:ConnectTimeout;alachuacounty.gov:404;alachuafl.gov:ConnectError;co.alachua.fl.us:ConnectError
+FL,Baker County,resolved,https://bakerfl.gov,https://bakerfl.gov,200,other/unknown,15777,bakercountyfl.gov:ConnectError;bakercounty.gov:ConnectError
+FL,Bay County,resolved,https://baycountyfl.gov,https://www.baycountyfl.gov/,200,CivicPlus,219242,first_try
+FL,Bradford County,resolved,https://bradfordcountyfl.gov,https://bradfordcountyfl.gov,200,WordPress,179460,first_try
+FL,Brevard County,not_found,,,,not_found,,brevardcountyfl.gov:ConnectError;brevardcounty.gov:ConnectError;brevardfl.gov:403;co.brevard.fl.us:ConnectError
+FL,Broward County,not_found,,,,not_found,,browardcountyfl.gov:ConnectError;browardcounty.gov:ConnectError;browardfl.gov:ConnectError;co.broward.fl.us:503
+FL,Calhoun County,resolved,https://calhouncountyfl.gov,https://www.calhouncountyfl.gov/,200,WordPress,201661,first_try
+FL,Charlotte County,resolved,https://charlottecountyfl.gov,https://www.charlottecountyfl.gov/,200,Granicus,90570,first_try
+FL,Citrus County,resolved,https://citruscounty.gov,https://www.citruscounty.gov/,200,Revize,96937,citruscountyfl.gov:ConnectError
+FL,Clay County,not_found,,,,not_found,,claycountyfl.gov:ConnectError;claycounty.gov:ConnectError;clayfl.gov:ConnectError;co.clay.fl.us:ConnectError
+FL,Collier County,not_found,,,,not_found,,colliercountyfl.gov:403;colliercounty.gov:ConnectError;collierfl.gov:ConnectError;co.collier.fl.us:ConnectError
+FL,Columbia County,not_found,,,,not_found,,columbiacountyfl.gov:ConnectError;columbiacounty.gov:ConnectError;columbiafl.gov:ConnectError;co.columbia.fl.us:ConnectError
+FL,DeSoto County,not_found,,,,not_found,,desotocountyfl.gov:ConnectError;desotocounty.gov:ConnectError;desotofl.gov:ConnectError;co.desoto.fl.us:ConnectTimeout
+FL,Dixie County,not_found,,,,not_found,,dixiecountyfl.gov:ConnectError;dixiecounty.gov:ConnectError;dixiefl.gov:ConnectError;co.dixie.fl.us:ConnectError
+FL,Duval County,not_found,,,,not_found,,duvalcountyfl.gov:ConnectError;duvalcounty.gov:ConnectError;duvalfl.gov:ConnectError;co.duval.fl.us:ConnectError
+FL,Escambia County,not_found,,,,not_found,,escambiacountyfl.gov:ConnectError;escambiacounty.gov:ConnectError;escambiafl.gov:ConnectError;co.escambia.fl.us:ConnectError
+FL,Flagler County,not_found,,,,not_found,,flaglercountyfl.gov:ConnectError;flaglercounty.gov:403;flaglerfl.gov:ConnectError;co.flagler.fl.us:ConnectError
+FL,Franklin County,not_found,,,,not_found,,franklincountyfl.gov:ConnectError;franklincounty.gov:ConnectError;franklinfl.gov:ConnectError;co.franklin.fl.us:ConnectError
+FL,Gadsden County,not_found,,,,not_found,,gadsdencountyfl.gov:403;gadsdencounty.gov:ConnectError;gadsdenfl.gov:ConnectError;co.gadsden.fl.us:ConnectTimeout
+FL,Gilchrist County,not_found,,,,not_found,,gilchristcountyfl.gov:ConnectError;gilchristcounty.gov:ConnectError;gilchristfl.gov:ConnectError;co.gilchrist.fl.us:ConnectError
+FL,Glades County,not_found,,,,not_found,,gladescountyfl.gov:ConnectError;gladescounty.gov:ConnectError;gladesfl.gov:ConnectError;co.glades.fl.us:ConnectError
+FL,Gulf County,not_found,,,,not_found,,gulfcountyfl.gov:ConnectError;gulfcounty.gov:ConnectError;gulffl.gov:ConnectError;co.gulf.fl.us:ConnectError
+FL,Hamilton County,not_found,,,,not_found,,hamiltoncountyfl.gov:ConnectError;hamiltoncounty.gov:ConnectError;hamiltonfl.gov:ConnectError;co.hamilton.fl.us:ConnectError
+FL,Hardee County,resolved,https://hardeecountyfl.gov,https://www.hardeecountyfl.gov/,200,other/unknown,193548,first_try
+FL,Hendry County,not_found,,,,not_found,,hendrycountyfl.gov:ConnectError;hendrycounty.gov:ConnectError;hendryfl.gov:ConnectError;co.hendry.fl.us:ConnectError
+FL,Hernando County,not_found,,,,not_found,,hernandocountyfl.gov:ConnectError;hernandocounty.gov:ConnectError;hernandofl.gov:ConnectError;co.hernando.fl.us:ConnectError
+FL,Highlands County,resolved,https://highlandsfl.gov,https://highlandsfl.gov,200,Revize,194282,highlandscountyfl.gov:ConnectError;highlandscounty.gov:ConnectError
+FL,Hillsborough County,not_found,,,,not_found,,hillsboroughcountyfl.gov:ConnectError;hillsboroughcounty.gov:ConnectError;hillsboroughfl.gov:ConnectError;co.hillsborough.fl.us:ConnectError
+FL,Holmes County,not_found,,,,not_found,,holmescountyfl.gov:ConnectError;holmescounty.gov:ConnectError;holmesfl.gov:ConnectError;co.holmes.fl.us:ConnectError
+FL,Indian River County,not_found,,,,not_found,,indianrivercountyfl.gov:ConnectError;indianrivercounty.gov:ConnectError;indianriverfl.gov:ConnectError;co.indianriver.fl.us:ConnectError
+FL,Jackson County,resolved,https://jacksoncountyfl.gov,https://www.jacksoncountyfl.gov/,200,WordPress,108439,first_try
+FL,Jefferson County,resolved,https://jeffersoncountyfl.gov,https://jeffersoncountyfl.gov,200,WordPress,285342,first_try
+FL,Lafayette County,not_found,,,,not_found,,lafayettecountyfl.gov:ConnectError;lafayettecounty.gov:ConnectError;lafayettefl.gov:ConnectError;co.lafayette.fl.us:ConnectError
+FL,Lake County,resolved,https://lakecountyfl.gov,https://lakecountyfl.gov,200,other/unknown,3779,first_try
+FL,Lee County,not_found,,,,not_found,,leecountyfl.gov:ConnectError;leecounty.gov:ConnectError;leefl.gov:ConnectError;co.lee.fl.us:ConnectError
+FL,Leon County,not_found,,,,not_found,,leoncountyfl.gov:403;leoncounty.gov:ConnectError;leonfl.gov:ConnectError;co.leon.fl.us:ConnectError
+FL,Levy County,not_found,,,,not_found,,levycountyfl.gov:ConnectError;levycounty.gov:ConnectError;levyfl.gov:ConnectError;co.levy.fl.us:ConnectError
+FL,Liberty County,not_found,,,,not_found,,libertycountyfl.gov:ConnectError;libertycounty.gov:ConnectError;libertyfl.gov:ConnectError;co.liberty.fl.us:ConnectError
+FL,Madison County,not_found,,,,not_found,,madisoncountyfl.gov:ConnectError;madisoncounty.gov:ConnectError;madisonfl.gov:ConnectError;co.madison.fl.us:ConnectError
+FL,Manatee County,not_found,,,,not_found,,manateecountyfl.gov:ConnectError;manateecounty.gov:ConnectError;manateefl.gov:ConnectError;co.manatee.fl.us:ConnectError
+FL,Marion County,not_found,,,,not_found,,marioncountyfl.gov:ConnectError;marioncounty.gov:ConnectError;marionfl.gov:ConnectError;co.marion.fl.us:ConnectError
+FL,Martin County,not_found,,,,not_found,,martincountyfl.gov:ConnectError;martincounty.gov:ConnectError;martinfl.gov:ConnectError;co.martin.fl.us:ConnectError
+FL,Miami-Dade County,not_found,,,,not_found,,miamidadecountyfl.gov:ConnectError;miamidadecounty.gov:ConnectError;miamidadefl.gov:ConnectError;co.miamidade.fl.us:ConnectError
+FL,Monroe County,resolved,https://monroecounty.gov,https://www.monroecounty.gov/,200,other/unknown,111192,monroecountyfl.gov:ConnectError
+FL,Nassau County,not_found,,,,not_found,,nassaucountyfl.gov:RemoteProtocolError;nassaucounty.gov:ConnectError;nassaufl.gov:ConnectError;co.nassau.fl.us:ConnectError
+FL,Okaloosa County,not_found,,,,not_found,,okaloosacountyfl.gov:ConnectError;okaloosacounty.gov:ConnectError;okaloosafl.gov:ConnectError;co.okaloosa.fl.us:ConnectError
+FL,Okeechobee County,not_found,,,,not_found,,okeechobeecountyfl.gov:403;okeechobeecounty.gov:ConnectError;okeechobeefl.gov:ConnectError;co.okeechobee.fl.us:ConnectError
+FL,Orange County,not_found,,,,not_found,,orangecountyfl.gov:ConnectError;orangecounty.gov:ConnectError;orangefl.gov:ConnectError;co.orange.fl.us:ConnectError
+FL,Osceola County,not_found,,,,not_found,,osceolacountyfl.gov:ConnectError;osceolacounty.gov:ConnectError;osceolafl.gov:ConnectError;co.osceola.fl.us:ConnectError
+FL,Palm Beach County,not_found,,,,not_found,,palmbeachcountyfl.gov:ConnectError;palmbeachcounty.gov:ConnectError;palmbeachfl.gov:ConnectError;co.palmbeach.fl.us:ConnectError
+FL,Pasco County,resolved,https://pascocountyfl.gov,https://pascocountyfl.gov,200,Revize,185000,first_try
+FL,Pinellas County,resolved,https://co.pinellas.fl.us,https://pinellas.gov/,200,Granicus,299974,pinellascountyfl.gov:ConnectError;pinellascounty.gov:ConnectError;pinellasfl.gov:ConnectError
+FL,Polk County,resolved,https://polkfl.gov,https://www.polkfl.gov/,200,WordPress,285667,polkcountyfl.gov:ConnectError;polkcounty.gov:ConnectError
+FL,Putnam County,not_found,,,,not_found,,putnamcountyfl.gov:ConnectError;putnamcounty.gov:ConnectError;putnamfl.gov:ConnectError;co.putnam.fl.us:ConnectError
+FL,Santa Rosa County,not_found,,,,not_found,,santarosacountyfl.gov:ConnectError;santarosacounty.gov:ConnectError;santarosafl.gov:ConnectError;co.santarosa.fl.us:ConnectError
+FL,Sarasota County,not_found,,,,not_found,,sarasotacountyfl.gov:ConnectError;sarasotacounty.gov:ConnectError;sarasotafl.gov:403;co.sarasota.fl.us:ConnectError
+FL,Seminole County,resolved,https://seminolecountyfl.gov,https://www.seminolecountyfl.gov/,200,other/unknown,179527,first_try
+FL,St. Johns County,not_found,,,,not_found,,stjohnscountyfl.gov:ConnectError;stjohnscounty.gov:ConnectError;stjohnsfl.gov:ConnectError;co.stjohns.fl.us:ConnectError
+FL,St. Lucie County,not_found,,,,not_found,,stluciecountyfl.gov:ConnectError;stluciecounty.gov:ConnectError;stluciefl.gov:ConnectError;co.stlucie.fl.us:ConnectError
+FL,Sumter County,resolved,https://sumtercountyfl.gov,https://sumtercountyfl.gov,200,CivicPlus,99428,first_try
+FL,Suwannee County,resolved,https://suwanneecountyfl.gov,https://suwanneecountyfl.gov,200,WordPress,94699,first_try
+FL,Taylor County,not_found,,,,not_found,,taylorcountyfl.gov:ConnectError;taylorcounty.gov:ConnectError;taylorfl.gov:ConnectError;co.taylor.fl.us:ConnectError
+FL,Union County,not_found,,,,not_found,,unioncountyfl.gov:ConnectError;unioncounty.gov:ConnectError;unionfl.gov:ConnectError;co.union.fl.us:ConnectError
+FL,Volusia County,not_found,,,,not_found,,volusiacountyfl.gov:ConnectError;volusiacounty.gov:ConnectError;volusiafl.gov:ConnectError;co.volusia.fl.us:ConnectError
+FL,Wakulla County,not_found,,,,not_found,,wakullacountyfl.gov:ConnectError;wakullacounty.gov:ConnectError;wakullafl.gov:ConnectError;co.wakulla.fl.us:ConnectError
+FL,Walton County,resolved,https://co.walton.fl.us,https://www.mywaltonfl.gov/,200,CivicPlus,173705,waltoncountyfl.gov:ConnectError;waltoncounty.gov:ConnectError;waltonfl.gov:ConnectError
+FL,Washington County,not_found,,,,not_found,,washingtoncountyfl.gov:ConnectError;washingtoncounty.gov:ConnectError;washingtonfl.gov:wrong_county;co.washington.fl.us:ConnectError
+GA,Appling County,not_found,,,,not_found,,applingcountyga.gov:ConnectError;applingcounty.gov:ConnectError;applingcountyga.com:ReadTimeout;applingcougov.org:ConnectError
+GA,Atkinson County,not_found,,,,not_found,,atkinsoncountyga.gov:ConnectError;atkinsoncounty.gov:ConnectError;atkinsoncountyga.com:ConnectError;atkinsoncougov.org:ConnectError
+GA,Bacon County,not_found,,,,not_found,,baconcountyga.gov:ConnectError;baconcounty.gov:ConnectError;baconcountyga.com:ConnectError;baconcougov.org:ConnectError
+GA,Baker County,resolved,https://bakercountyga.com,https://www.bakercountyga.com/,200,Wix,705482,bakercountyga.gov:ConnectError;bakercounty.gov:ConnectError
+GA,Baldwin County,resolved,https://baldwincountyga.com,https://baldwincountyga.com,200,CivicPlus,79890,baldwincountyga.gov:ConnectError;baldwincounty.gov:ConnectError
+GA,Banks County,not_found,,,,not_found,,bankscountyga.gov:ConnectError;bankscounty.gov:ConnectError;bankscountyga.com:ConnectTimeout;bankscougov.org:ConnectError
+GA,Barrow County,not_found,,,,not_found,,barrowcountyga.gov:ConnectError;barrowcounty.gov:ConnectError;barrowcountyga.com:wrong_county;barrowcougov.org:ConnectError
+GA,Bartow County,resolved,https://bartowcountyga.gov,https://www.bartowcountyga.gov/,200,Revize,133545,first_try
+GA,Ben Hill County,not_found,,,,not_found,,benhillcountyga.gov:ConnectError;benhillcounty.gov:ConnectError;benhillcountyga.com:ConnectError;benhillcougov.org:ConnectError
+GA,Berrien County,resolved,https://berriencountyga.com,https://berriencounty.smugmug.com/,200,Streamline,88808,berriencountyga.gov:ReadTimeout;berriencounty.gov:ConnectError
+GA,Bibb County,not_found,,,,not_found,,bibbcountyga.gov:ConnectError;bibbcounty.gov:ConnectError;bibbcountyga.com:ConnectError;bibbcougov.org:ConnectError
+GA,Bleckley County,not_found,,,,not_found,,bleckleycountyga.gov:ConnectError;bleckleycounty.gov:ConnectError;bleckleycountyga.com:ConnectError;bleckleycougov.org:ConnectError
+GA,Brantley County,resolved,https://brantleycountyga.com,https://www.brantleycountyga.com/,200,WordPress,92267,brantleycountyga.gov:ConnectError;brantleycounty.gov:ConnectError
+GA,Brooks County,resolved,https://brookscountyga.gov,https://brookscountyga.gov,200,other/unknown,75746,first_try
+GA,Bryan County,resolved,https://bryancountyga.com,https://bryancountyga.com,200,other/unknown,325539,bryancountyga.gov:403;bryancounty.gov:ConnectError
+GA,Bulloch County,not_found,,,,not_found,,bullochcountyga.gov:ConnectError;bullochcounty.gov:ConnectError;bullochcountyga.com:ConnectError;bullochcougov.org:ConnectError
+GA,Burke County,not_found,,,,not_found,,burkecountyga.gov:ConnectError;burkecounty.gov:ConnectError;burkecountyga.com:ConnectError;burkecougov.org:ConnectError
+GA,Butts County,resolved,https://buttscountyga.com,https://buttscountyga.com,200,WordPress,295277,buttscountyga.gov:ConnectError;buttscounty.gov:ConnectError
+GA,Calhoun County,resolved,https://calhouncountyga.com,https://calhouncountyga.com,200,other/unknown,29623,calhouncountyga.gov:ConnectError;calhouncounty.gov:ConnectError
+GA,Camden County,resolved,https://camdencountyga.gov,https://camdencountyga.gov,200,CivicPlus,177836,first_try
+GA,Candler County,not_found,,,,not_found,,candlercountyga.gov:ConnectError;candlercounty.gov:ConnectError;candlercountyga.com:503;candlercougov.org:ConnectError
+GA,Carroll County,resolved,https://carrollcountyga.gov,https://carrollcountyga.gov,200,CivicPlus,144850,first_try
+GA,Catoosa County,not_found,,,,not_found,,catoosacountyga.gov:403;catoosacounty.gov:ConnectError;catoosacountyga.com:ConnectError;catoosacougov.org:ConnectError
+GA,Charlton County,not_found,,,,not_found,,charltoncountyga.gov:ConnectError;charltoncounty.gov:ConnectError;charltoncountyga.com:ConnectError;charltoncougov.org:ConnectError
+GA,Chatham County,resolved,https://chathamcountyga.gov,https://chathamcountyga.gov,200,other/unknown,125241,first_try
+GA,Chattahoochee County,not_found,,,,not_found,,chattahoocheecountyga.gov:ConnectError;chattahoocheecounty.gov:ConnectError;chattahoocheecountyga.com:ConnectError;chattahoocheecougov.org:ConnectError
+GA,Chattooga County,resolved,https://chattoogacounty.gov,https://chattoogacounty.gov,200,CivicPlus,100803,chattoogacountyga.gov:ConnectError
+GA,Cherokee County,resolved,https://cherokeecountyga.gov,https://cherokeecountyga.gov,200,other/unknown,27247,first_try
+GA,Clarke County,not_found,,,,not_found,,clarkecountyga.gov:ConnectError;clarkecounty.gov:403;clarkecountyga.com:ConnectError;clarkecougov.org:ConnectError
+GA,Clay County,resolved,https://claycountyga.com,https://claycountyga.com,200,other/unknown,1144,claycountyga.gov:ConnectError;claycounty.gov:ConnectError
+GA,Clayton County,not_found,,,,not_found,,claytoncountyga.gov:wrong_county;claytoncounty.gov:ConnectError;claytoncountyga.com:wrong_county;claytoncougov.org:ConnectError
+GA,Clinch County,resolved,https://clinchcountyga.gov,https://clinchcountyga.gov/index.html,200,other/unknown,36995,first_try
+GA,Cobb County,resolved,https://cobbcountyga.gov,https://www.cobbcounty.gov,200,other/unknown,87060,first_try
+GA,Coffee County,not_found,,,,not_found,,coffeecountyga.gov:ConnectError;coffeecounty.gov:ConnectError;coffeecountyga.com:ConnectError;coffeecougov.org:ConnectError
+GA,Colquitt County,resolved,https://colquittcountyga.gov,https://www.colquittcountyga.gov/,200,Revize,36868,first_try
+GA,Columbia County,resolved,https://columbiacountyga.gov,https://columbiacountyga.gov,200,CivicPlus,114891,first_try
+GA,Cook County,not_found,,,,not_found,,cookcountyga.gov:ConnectError;cookcounty.gov:ConnectError;cookcountyga.com:RemoteProtocolError;cookcougov.org:ConnectError
+GA,Coweta County,not_found,,,,not_found,,cowetacountyga.gov:ConnectError;cowetacounty.gov:ConnectError;cowetacountyga.com:RemoteProtocolError;cowetacougov.org:ConnectError
+GA,Crawford County,not_found,,,,not_found,,crawfordcountyga.gov:ConnectError;crawfordcounty.gov:ConnectError;crawfordcountyga.com:ConnectError;crawfordcougov.org:ConnectError
+GA,Crisp County,not_found,,,,not_found,,crispcountyga.gov:ConnectError;crispcounty.gov:ConnectError;crispcountyga.com:ConnectError;crispcougov.org:ConnectError
+GA,Dade County,resolved,https://dadecountyga.com,https://dadecountyga.com,200,other/unknown,7305,dadecountyga.gov:ConnectError;dadecounty.gov:ConnectError
+GA,Dawson County,not_found,,,,not_found,,dawsoncountyga.gov:RemoteProtocolError;dawsoncounty.gov:ConnectError;dawsoncountyga.com:ConnectError;dawsoncougov.org:ConnectError
+GA,DeKalb County,resolved,https://dekalbcountyga.gov,https://dekalbcountyga.gov,200,Granicus,109243,first_try
+GA,Decatur County,resolved,https://decaturcountyga.gov,https://www.decaturcountyga.gov/,200,WordPress,37819,first_try
+GA,Dodge County,resolved,https://dodgecountyga.com,https://dodgecountyga.com,200,WordPress,99204,dodgecountyga.gov:ConnectError;dodgecounty.gov:ConnectError
+GA,Dooly County,resolved,https://doolycountyga.gov,https://doolycountyga.gov,200,other/unknown,26008,first_try
+GA,Dougherty County,not_found,,,,not_found,,doughertycountyga.gov:ConnectError;doughertycounty.gov:ConnectError;doughertycountyga.com:ConnectError;doughertycougov.org:ConnectError
+GA,Douglas County,resolved,https://douglascountyga.gov,https://douglascountyga.gov,200,CivicPlus,151377,first_try
+GA,Early County,resolved,https://earlycountyga.gov,https://www.earlycountyga.gov/,200,other/unknown,168208,first_try
+GA,Echols County,resolved,https://echolscountyga.com,https://echolscountyga.com,200,WordPress,88128,echolscountyga.gov:ConnectError;echolscounty.gov:ConnectError
+GA,Effingham County,resolved,https://effinghamcountyga.com,https://effinghamcountyga.com,200,WordPress,548193,effinghamcountyga.gov:ConnectError;effinghamcounty.gov:ConnectError
+GA,Elbert County,not_found,,,,not_found,,elbertcountyga.gov:ConnectError;elbertcounty.gov:ConnectError;elbertcountyga.com:401;elbertcougov.org:ConnectError
+GA,Emanuel County,not_found,,,,not_found,,emanuelcountyga.gov:ConnectError;emanuelcounty.gov:ConnectError;emanuelcountyga.com:ConnectError;emanuelcougov.org:ConnectError
+GA,Evans County,resolved,https://evanscountyga.com,https://evanscountyga.com,200,other/unknown,1072,evanscountyga.gov:ConnectError;evanscounty.gov:ConnectError
+GA,Fannin County,resolved,https://fannincountyga.com,https://fannincountyga.com,200,WordPress,282437,fannincountyga.gov:ConnectError;fannincounty.gov:ConnectError
+GA,Fayette County,resolved,https://fayettecountyga.gov,https://fayettecountyga.gov,200,Revize,94062,first_try
+GA,Floyd County,resolved,https://floydcountyga.gov,https://floydcountyga.gov,200,Revize,160316,first_try
+GA,Forsyth County,not_found,,,,not_found,,forsythcountyga.gov:ConnectError;forsythcounty.gov:ConnectError;forsythcountyga.com:ConnectTimeout;forsythcougov.org:ConnectError
+GA,Franklin County,not_found,,,,not_found,,franklincountyga.gov:ConnectError;franklincounty.gov:ConnectError;franklincountyga.com:RemoteProtocolError;franklincougov.org:ConnectError
+GA,Fulton County,resolved,https://fultoncountyga.gov,https://fultoncountyga.gov,200,other/unknown,455525,first_try
+GA,Gilmer County,not_found,,,,not_found,,gilmercountyga.gov:ConnectError;gilmercounty.gov:ConnectError;gilmercountyga.com:ConnectError;gilmercougov.org:ConnectError
+GA,Glascock County,not_found,,,,not_found,,glascockcountyga.gov:ConnectError;glascockcounty.gov:ConnectError;glascockcountyga.com:RemoteProtocolError;glascockcougov.org:ConnectError
+GA,Glynn County,not_found,,,,not_found,,glynncountyga.gov:ConnectError;glynncounty.gov:ConnectError;glynncountyga.com:ConnectError;glynncougov.org:ConnectError
+GA,Gordon County,resolved,https://gordoncountyga.gov,https://gordoncountyga.gov,200,CivicPlus,108975,first_try
+GA,Grady County,resolved,https://gradycountyga.gov,https://gradycountyga.gov,200,WordPress,76295,first_try
+GA,Greene County,resolved,https://greenecountyga.gov,https://greenecountyga.gov,200,CivicPlus,118119,first_try
+GA,Gwinnett County,resolved,https://gwinnettcountyga.gov,https://www.gwinnettcounty.com/home,200,other/unknown,149423,first_try
+GA,Habersham County,not_found,,,,not_found,,habershamcountyga.gov:ConnectError;habershamcounty.gov:ConnectError;habershamcountyga.com:RemoteProtocolError;habershamcougov.org:ConnectError
+GA,Hall County,not_found,,,,not_found,,hallcountyga.gov:wrong_county;hallcounty.gov:ConnectError;hallcountyga.com:wrong_county;hallcougov.org:ConnectError
+GA,Hancock County,resolved,https://hancockcountyga.gov,https://www.hancockcountyga.gov/,200,Squarespace,1755751,first_try
+GA,Haralson County,resolved,https://haralsoncountyga.gov,https://www.haralsoncountyga.gov/,200,Drupal,98542,first_try
+GA,Harris County,resolved,https://harriscountyga.gov,https://www.harriscountyga.gov/,200,WordPress,182112,first_try
+GA,Hart County,resolved,https://hartcountyga.gov,https://hartcountyga.gov,200,other/unknown,11850,first_try
+GA,Heard County,resolved,https://heardcountyga.com,https://heardcountyga.com,200,other/unknown,74168,heardcountyga.gov:ConnectError;heardcounty.gov:ConnectError
+GA,Henry County,resolved,https://henrycountyga.gov,https://www.henrycountyga.gov/,200,CivicPlus,580256,first_try
+GA,Houston County,resolved,https://houstoncountyga.gov,https://www.houstoncountyga.gov/,200,other/unknown,30203,first_try
+GA,Irwin County,not_found,,,,not_found,,irwincountyga.gov:ConnectError;irwincounty.gov:ConnectError;irwincountyga.com:wrong_county;irwincougov.org:ConnectError
+GA,Jackson County,resolved,https://jacksoncountyga.com,https://www.jacksoncountyga.com/,200,WordPress,335170,jacksoncountyga.gov:ConnectError;jacksoncounty.gov:ConnectError
+GA,Jasper County,not_found,,,,not_found,,jaspercountyga.gov:ConnectError;jaspercounty.gov:ConnectError;jaspercountyga.com:ConnectError;jaspercougov.org:ConnectError
+GA,Jeff Davis County,resolved,https://jeffdaviscountyga.gov,https://jeffdaviscountyga.gov,200,other/unknown,161824,first_try
+GA,Jefferson County,resolved,https://jeffersoncountyga.gov,https://jeffersoncountyga.gov,200,CivicPlus,138646,first_try
+GA,Jenkins County,resolved,https://jenkinscountyga.com,https://jenkinscountyga.com,200,other/unknown,34309,jenkinscountyga.gov:wrong_county;jenkinscounty.gov:ConnectError
+GA,Johnson County,not_found,,,,not_found,,johnsoncountyga.gov:ConnectError;johnsoncounty.gov:ConnectError;johnsoncountyga.com:ConnectError;johnsoncougov.org:ConnectError
+GA,Jones County,not_found,,,,not_found,,jonescountyga.gov:ConnectError;jonescounty.gov:ConnectError;jonescountyga.com:ConnectError;jonescougov.org:ConnectError
+GA,Lamar County,resolved,https://lamarcountyga.gov,https://www.lamarcountyga.org/,200,Wix,805023,first_try
+GA,Lanier County,not_found,,,,not_found,,laniercountyga.gov:ConnectError;laniercounty.gov:ConnectError;laniercountyga.com:ConnectError;laniercougov.org:ConnectError
+GA,Laurens County,not_found,,,,not_found,,laurenscountyga.gov:ConnectError;laurenscounty.gov:ConnectError;laurenscountyga.com:wrong_county;laurenscougov.org:ConnectError
+GA,Lee County,resolved,https://leecountyga.gov,https://www.leecountyga.gov/,200,other/unknown,60693,first_try
+GA,Liberty County,resolved,https://libertycountyga.gov,https://libertycountyga.gov,200,CivicPlus,168416,first_try
+GA,Lincoln County,resolved,https://lincolncountyga.gov,https://lincolncountyga.gov,200,other/unknown,67637,first_try
+GA,Long County,resolved,https://longcountyga.gov,https://www.longcountyga.gov/,200,Squarespace,325413,first_try
+GA,Lowndes County,not_found,,,,not_found,,lowndescountyga.gov:ConnectError;lowndescounty.gov:ConnectError;lowndescountyga.com:ConnectError;lowndescougov.org:ConnectError
+GA,Lumpkin County,resolved,https://lumpkincounty.gov,https://lumpkincounty.gov,200,CivicPlus,126951,lumpkincountyga.gov:ConnectError
+GA,Macon County,resolved,https://maconcountyga.gov,https://www.maconcountyga.gov/,200,other/unknown,55926,first_try
+GA,Madison County,not_found,,,,not_found,,madisoncountyga.gov:ConnectError;madisoncounty.gov:ConnectError;madisoncountyga.com:wrong_county;madisoncougov.org:ConnectError
+GA,Marion County,not_found,,,,not_found,,marioncountyga.gov:ConnectError;marioncounty.gov:ConnectError;marioncountyga.com:ConnectError;marioncougov.org:ConnectError
+GA,McDuffie County,not_found,,,,not_found,,mcduffiecountyga.gov:ConnectError;mcduffiecounty.gov:ConnectError;mcduffiecountyga.com:ConnectError;mcduffiecougov.org:ConnectError
+GA,McIntosh County,resolved,https://mcintoshcountyga.com,https://mcintoshcountyga.com,200,CivicPlus,115100,mcintoshcountyga.gov:ConnectError;mcintoshcounty.gov:ConnectError
+GA,Meriwether County,resolved,https://meriwethercountyga.gov,https://meriwethercountyga.gov,200,CivicPlus,157351,first_try
+GA,Miller County,resolved,https://millercountyga.gov,https://millercountyga.gov,200,other/unknown,15604,first_try
+GA,Mitchell County,not_found,,,,not_found,,mitchellcountyga.gov:ConnectError;mitchellcounty.gov:ConnectError;mitchellcountyga.com:526;mitchellcougov.org:ConnectError
+GA,Monroe County,resolved,https://monroecounty.gov,https://www.monroecounty.gov/,200,other/unknown,111192,monroecountyga.gov:ConnectError
+GA,Montgomery County,not_found,,,,not_found,,montgomerycountyga.gov:ConnectError;montgomerycounty.gov:ConnectError;montgomerycountyga.com:ConnectError;montgomerycougov.org:ConnectError
+GA,Morgan County,resolved,https://morgancountyga.gov,https://morgancountyga.gov,200,CivicPlus,129385,first_try
+GA,Murray County,not_found,,,,not_found,,murraycountyga.gov:ConnectError;murraycounty.gov:ConnectError;murraycountyga.com:ConnectError;murraycougov.org:ConnectError
+GA,Muscogee County,not_found,,,,not_found,,muscogeecountyga.gov:ConnectError;muscogeecounty.gov:ConnectError;muscogeecountyga.com:ConnectError;muscogeecougov.org:ConnectError
+GA,Newton County,not_found,,,,not_found,,newtoncountyga.gov:RemoteProtocolError;newtoncounty.gov:ConnectError;newtoncountyga.com:ConnectError;newtoncougov.org:ConnectError
+GA,Oconee County,resolved,https://oconeecountyga.gov,https://oconeecountyga.gov,200,CivicPlus,163049,first_try
+GA,Oglethorpe County,resolved,https://oglethorpecountyga.gov,https://www.oglethorpecountyga.gov/,200,Wix,897732,first_try
+GA,Paulding County,not_found,,,,not_found,,pauldingcountyga.gov:ConnectError;pauldingcounty.gov:ConnectError;pauldingcountyga.com:ConnectError;pauldingcougov.org:ConnectError
+GA,Peach County,resolved,https://peachcounty.gov,https://peachcounty.gov,200,WordPress,81710,peachcountyga.gov:ConnectError
+GA,Pickens County,resolved,https://pickenscountyga.com,https://pickenscountyga.com,200,WordPress,30272,pickenscountyga.gov:RemoteProtocolError;pickenscounty.gov:ConnectError
+GA,Pierce County,resolved,https://piercecountyga.gov,https://piercecountyga.gov,200,WordPress,114040,first_try
+GA,Pike County,not_found,,,,not_found,,pikecountyga.gov:ConnectError;pikecounty.gov:ConnectError;pikecountyga.com:ConnectError;pikecougov.org:ConnectError
+GA,Polk County,not_found,,,,not_found,,polkcountyga.gov:ConnectError;polkcounty.gov:ConnectError;polkcountyga.com:ConnectError;polkcougov.org:ConnectError
+GA,Pulaski County,not_found,,,,not_found,,pulaskicountyga.gov:ConnectError;pulaskicounty.gov:ConnectError;pulaskicountyga.com:ConnectError;pulaskicougov.org:ConnectError
+GA,Putnam County,not_found,,,,not_found,,putnamcountyga.gov:ConnectError;putnamcounty.gov:ConnectError;putnamcountyga.com:ConnectError;putnamcougov.org:ConnectError
+GA,Quitman County,not_found,,,,not_found,,quitmancountyga.gov:ConnectError;quitmancounty.gov:ConnectError;quitmancountyga.com:ConnectError;quitmancougov.org:ConnectError
+GA,Rabun County,not_found,,,,not_found,,rabuncountyga.gov:ConnectError;rabuncounty.gov:ConnectError;rabuncountyga.com:ConnectError;rabuncougov.org:ConnectError
+GA,Randolph County,resolved,https://randolphcountyga.com,https://www.randolphcountyga.com/,200,Drupal,33342,randolphcountyga.gov:wrong_county;randolphcounty.gov:ConnectError
+GA,Richmond County,not_found,,,,not_found,,richmondcountyga.gov:ConnectError;richmondcounty.gov:ConnectError;richmondcountyga.com:ConnectError;richmondcougov.org:ConnectError
+GA,Rockdale County,resolved,https://rockdalecountyga.gov,https://www.rockdalecountyga.gov/,200,WordPress,1041410,first_try
+GA,Schley County,not_found,,,,not_found,,schleycountyga.gov:ConnectError;schleycounty.gov:ConnectError;schleycountyga.com:ConnectError;schleycougov.org:ConnectError
+GA,Screven County,resolved,https://screvencountyga.gov,https://www.screvencountyboc.com/,200,Squarespace,92886,first_try
+GA,Seminole County,resolved,https://seminolecountyga.com,https://seminolecountyga.com,200,CivicPlus,82468,seminolecountyga.gov:ConnectError;seminolecounty.gov:ConnectError
+GA,Spalding County,not_found,,,,not_found,,spaldingcountyga.gov:ConnectError;spaldingcounty.gov:ConnectError;spaldingcountyga.com:ConnectError;spaldingcougov.org:ConnectError
+GA,Stephens County,resolved,https://stephenscountyga.gov,https://stephenscountyga.gov,200,WordPress,223564,first_try
+GA,Stewart County,resolved,https://stewartcountyga.gov,https://stewartcountyga.gov,200,WordPress,95505,first_try
+GA,Sumter County,not_found,,,,not_found,,sumtercountyga.gov:ConnectError;sumtercounty.gov:ConnectError;sumtercountyga.com:ConnectError;sumtercougov.org:ConnectError
+GA,Talbot County,not_found,,,,not_found,,talbotcountyga.gov:ConnectError;talbotcounty.gov:ConnectError;talbotcountyga.com:ConnectError;talbotcougov.org:ConnectError
+GA,Taliaferro County,not_found,,,,not_found,,taliaferrocountyga.gov:wrong_county;taliaferrocounty.gov:ConnectError;taliaferrocountyga.com:ConnectError;taliaferrocougov.org:ConnectError
+GA,Tattnall County,resolved,https://tattnallcountyga.com,https://www.tattnallcountyga.com/,200,other/unknown,40495,tattnallcountyga.gov:wrong_county;tattnallcounty.gov:ConnectError
+GA,Taylor County,resolved,https://taylorcountyga.com,https://taylorcountyga.com,200,other/unknown,22186,taylorcountyga.gov:ConnectError;taylorcounty.gov:ConnectError
+GA,Telfair County,not_found,,,,not_found,,telfaircountyga.gov:wrong_county;telfaircounty.gov:ConnectError;telfaircountyga.com:ConnectError;telfaircougov.org:ConnectError
+GA,Terrell County,resolved,https://terrellcountyga.gov,https://terrellcountyga.gov,200,other/unknown,60746,first_try
+GA,Thomas County,not_found,,,,not_found,,thomascountyga.gov:ConnectError;thomascounty.gov:ConnectError;thomascountyga.com:ConnectError;thomascougov.org:ConnectError
+GA,Tift County,not_found,,,,not_found,,tiftcountyga.gov:ConnectError;tiftcounty.gov:wrong_county;tiftcountyga.com:ConnectError;tiftcougov.org:ConnectError
+GA,Toombs County,resolved,https://toombscountyga.gov,https://toombscountyga.gov,200,WordPress,105029,first_try
+GA,Towns County,resolved,https://townscountyga.com,https://townscountyga.com,200,other/unknown,102,townscountyga.gov:ConnectError;townscounty.gov:ConnectError
+GA,Treutlen County,not_found,,,,not_found,,treutlencountyga.gov:ConnectError;treutlencounty.gov:ConnectError;treutlencountyga.com:ConnectError;treutlencougov.org:ConnectError
+GA,Troup County,resolved,https://troupcountyga.gov,https://troupcountyga.gov,200,Granicus,162102,first_try
+GA,Turner County,not_found,,,,not_found,,turnercountyga.gov:ConnectError;turnercounty.gov:ConnectError;turnercountyga.com:ConnectError;turnercougov.org:ConnectError
+GA,Twiggs County,not_found,,,,not_found,,twiggscountyga.gov:ConnectError;twiggscounty.gov:ConnectError;twiggscountyga.com:ConnectError;twiggscougov.org:ConnectError
+GA,Union County,not_found,,,,not_found,,unioncountyga.gov:RemoteProtocolError;unioncounty.gov:ConnectError;unioncountyga.com:wrong_county;unioncougov.org:ConnectError
+GA,Upson County,not_found,,,,not_found,,upsoncountyga.gov:ConnectError;upsoncounty.gov:ConnectError;upsoncountyga.com:ConnectError;upsoncougov.org:ConnectError
+GA,Walker County,resolved,https://walkercountyga.gov,https://walkercountyga.gov,200,WordPress,182051,first_try
+GA,Walton County,resolved,https://waltoncountyga.gov,https://waltoncountyga.gov,200,CivicPlus,112627,first_try
+GA,Ware County,resolved,https://warecountyga.gov,https://www.warecountyga.gov/,200,other/unknown,23084,first_try
+GA,Warren County,resolved,https://warrencountyga.gov,https://warrencountyga.gov,200,other/unknown,63536,first_try
+GA,Washington County,resolved,https://washingtoncountyga.gov,https://washingtoncountyga.gov,200,CivicPlus,88805,first_try
+GA,Wayne County,not_found,,,,not_found,,waynecountyga.gov:ConnectError;waynecounty.gov:ConnectError;waynecountyga.com:ConnectError;waynecougov.org:ConnectError
+GA,Webster County,not_found,,,,not_found,,webstercountyga.gov:ConnectError;webstercounty.gov:ConnectError;webstercountyga.com:403;webstercougov.org:ConnectError
+GA,Wheeler County,not_found,,,,not_found,,wheelercountyga.gov:ConnectError;wheelercounty.gov:ConnectError;wheelercountyga.com:ConnectError;wheelercougov.org:ConnectError
+GA,White County,resolved,https://whitecountyga.gov,https://whitecountyga.gov,200,CivicPlus,99682,first_try
+GA,Whitfield County,resolved,https://whitfieldcountyga.gov,https://whitfieldcountyga.gov,200,Revize,97038,first_try
+GA,Wilcox County,not_found,,,,not_found,,wilcoxcountyga.gov:ConnectError;wilcoxcounty.gov:ConnectError;wilcoxcountyga.com:ConnectError;wilcoxcougov.org:ConnectError
+GA,Wilkes County,not_found,,,,not_found,,wilkescountyga.gov:ConnectError;wilkescounty.gov:ConnectError;wilkescountyga.com:wrong_county;wilkescougov.org:ConnectError
+GA,Wilkinson County,not_found,,,,not_found,,wilkinsoncountyga.gov:ConnectError;wilkinsoncounty.gov:ConnectError;wilkinsoncountyga.com:ConnectError;wilkinsoncougov.org:ConnectError
+GA,Worth County,not_found,,,,not_found,,worthcountyga.gov:ConnectError;worthcounty.gov:ConnectError;worthcountyga.com:ConnectError;worthcougov.org:ConnectError
+LA,Acadia Parish,not_found,,,,not_found,,acadiaparishla.gov:ConnectError;acadiaparish.org:ConnectError;acadiapgov.org:ConnectError;acadiaparish.gov:ConnectError
+LA,Allen Parish,not_found,,,,not_found,,allenparishla.gov:ConnectError;allenparish.org:ConnectError;allenpgov.org:ConnectError;allenparish.gov:ConnectError
+LA,Ascension Parish,resolved,https://ascensionparish.org,https://www.ascensionparish.org/,200,other/unknown,20967,ascensionparishla.gov:ConnectError
+LA,Assumption Parish,not_found,,,,not_found,,assumptionparishla.gov:ConnectError;assumptionparish.org:403;assumptionpgov.org:ConnectError;assumptionparish.gov:ConnectError
+LA,Avoyelles Parish,not_found,,,,not_found,,avoyellesparishla.gov:ConnectError;avoyellesparish.org:ConnectError;avoyellespgov.org:ConnectError;avoyellesparish.gov:ConnectError
+LA,Beauregard Parish,not_found,,,,not_found,,beauregardparishla.gov:ConnectError;beauregardparish.org:ConnectError;beauregardpgov.org:ConnectError;beauregardparish.gov:ConnectError
+LA,Bienville Parish,resolved,https://bienvilleparish.org,https://bienvilleparish.org,200,Drupal,24059,bienvilleparishla.gov:ConnectError
+LA,Bossier Parish,resolved,https://bossierparishla.gov,https://bossierparishla.gov,200,other/unknown,44764,first_try
+LA,Caddo Parish,not_found,,,,not_found,,caddoparishla.gov:ConnectError;caddoparish.org:500;caddopgov.org:ConnectError;caddoparish.gov:ConnectError
+LA,Calcasieu Parish,not_found,,,,not_found,,calcasieuparishla.gov:ConnectError;calcasieuparish.org:ConnectError;calcasieupgov.org:ConnectError;calcasieuparish.gov:ConnectError
+LA,Caldwell Parish,not_found,,,,not_found,,caldwellparishla.gov:ConnectError;caldwellparish.org:ConnectError;caldwellpgov.org:ConnectError;caldwellparish.gov:ConnectError
+LA,Cameron Parish,not_found,,,,not_found,,cameronparishla.gov:ConnectError;cameronparish.org:ConnectError;cameronpgov.org:ConnectError;cameronparish.gov:ConnectError
+LA,Catahoula Parish,not_found,,,,not_found,,catahoulaparishla.gov:ConnectError;catahoulaparish.org:ConnectError;catahoulapgov.org:ConnectError;catahoulaparish.gov:ConnectError
+LA,Claiborne Parish,resolved,https://claiborneparish.org,https://www.claiborneparish.org/,200,other/unknown,25737,claiborneparishla.gov:ConnectError
+LA,Concordia Parish,not_found,,,,not_found,,concordiaparishla.gov:ConnectError;concordiaparish.org:ConnectError;concordiapgov.org:ConnectError;concordiaparish.gov:ConnectError
+LA,De Soto Parish,not_found,,,,not_found,,desotoparishla.gov:ConnectError;desotoparish.org:ConnectError;desotopgov.org:ConnectError;desotoparish.gov:ConnectError
+LA,East Baton Rouge Parish,not_found,,,,not_found,,eastbatonrougeparishla.gov:ConnectError;eastbatonrougeparish.org:ConnectError;eastbatonrougepgov.org:ConnectError;eastbatonrougeparish.gov:ConnectError
+LA,East Carroll Parish,not_found,,,,not_found,,eastcarrollparishla.gov:ConnectError;eastcarrollparish.org:ConnectError;eastcarrollpgov.org:ConnectError;eastcarrollparish.gov:ConnectError
+LA,East Feliciana Parish,not_found,,,,not_found,,eastfelicianaparishla.gov:ConnectError;eastfelicianaparish.org:ConnectError;eastfelicianapgov.org:ConnectError;eastfelicianaparish.gov:ConnectError
+LA,Evangeline Parish,not_found,,,,not_found,,evangelineparishla.gov:ConnectError;evangelineparish.org:ConnectError;evangelinepgov.org:ConnectError;evangelineparish.gov:ConnectError
+LA,Franklin Parish,not_found,,,,not_found,,franklinparishla.gov:ConnectError;franklinparish.org:wrong_county;franklinpgov.org:ConnectError;franklinparish.gov:ConnectError
+LA,Grant Parish,not_found,,,,not_found,,grantparishla.gov:ConnectError;grantparish.org:ConnectError;grantpgov.org:ConnectError;grantparish.gov:ConnectError
+LA,Iberia Parish,not_found,,,,not_found,,iberiaparishla.gov:ConnectError;iberiaparish.org:ConnectError;iberiapgov.org:ConnectError;iberiaparish.gov:ConnectError
+LA,Iberville Parish,not_found,,,,not_found,,ibervilleparishla.gov:ConnectError;ibervilleparish.org:ConnectError;ibervillepgov.org:ConnectError;ibervilleparish.gov:ConnectError
+LA,Jackson Parish,not_found,,,,not_found,,jacksonparishla.gov:ConnectError;jacksonparish.org:ConnectError;jacksonpgov.org:ConnectError;jacksonparish.gov:ConnectError
+LA,Jefferson Davis Parish,not_found,,,,not_found,,jeffersondavisparishla.gov:ConnectError;jeffersondavisparish.org:ConnectError;jeffersondavispgov.org:ConnectError;jeffersondavisparish.gov:ConnectError
+LA,Jefferson Parish,not_found,,,,not_found,,jeffersonparishla.gov:ConnectError;jeffersonparish.org:ConnectError;jeffersonpgov.org:ConnectError;jeffersonparish.gov:ConnectError
+LA,LaSalle Parish,not_found,,,,not_found,,lasalleparishla.gov:ConnectError;lasalleparish.org:ConnectError;lasallepgov.org:ConnectError;lasalleparish.gov:ConnectError
+LA,Lafayette Parish,not_found,,,,not_found,,lafayetteparishla.gov:ConnectError;lafayetteparish.org:ConnectError;lafayettepgov.org:ConnectError;lafayetteparish.gov:ConnectError
+LA,Lafourche Parish,not_found,,,,not_found,,lafourcheparishla.gov:ConnectError;lafourcheparish.org:ConnectError;lafourchepgov.org:ConnectError;lafourcheparish.gov:ConnectError
+LA,Lincoln Parish,resolved,https://lincolnparish.org,https://www.lincolnparish.gov/,200,Drupal,43303,lincolnparishla.gov:ConnectError
+LA,Livingston Parish,resolved,https://livingstonparishla.gov,https://www.livingstonparishla.gov/,200,other/unknown,248633,first_try
+LA,Madison Parish,resolved,https://madisonparish.org,https://www.madisonparish.org/,200,WordPress,106593,madisonparishla.gov:ConnectError
+LA,Morehouse Parish,not_found,,,,not_found,,morehouseparishla.gov:ConnectError;morehouseparish.org:ConnectError;morehousepgov.org:ConnectError;morehouseparish.gov:ConnectError
+LA,Natchitoches Parish,not_found,,,,not_found,,natchitochesparishla.gov:ConnectError;natchitochesparish.org:ConnectError;natchitochespgov.org:ConnectError;natchitochesparish.gov:ConnectError
+LA,Orleans Parish,not_found,,,,not_found,,orleansparishla.gov:ConnectError;orleansparish.org:wrong_county;orleanspgov.org:ConnectError;orleansparish.gov:ConnectError
+LA,Ouachita Parish,resolved,https://ouachitaparish.org,https://ouachitaparish.org,200,other/unknown,4249,ouachitaparishla.gov:ConnectError
+LA,Plaquemines Parish,resolved,https://plaqueminesparish.gov,https://plaqueminesparish.gov,200,CivicPlus,442064,plaqueminesparishla.gov:ConnectError;plaqueminesparish.org:ConnectError;plaqueminespgov.org:ConnectError
+LA,Pointe Coupee Parish,not_found,,,,not_found,,pointecoupeeparishla.gov:ConnectError;pointecoupeeparish.org:ConnectError;pointecoupeepgov.org:ConnectError;pointecoupeeparish.gov:ConnectError
+LA,Rapides Parish,not_found,,,,not_found,,rapidesparishla.gov:ConnectError;rapidesparish.org:ConnectError;rapidespgov.org:ConnectError;rapidesparish.gov:ConnectError
+LA,Red River Parish,resolved,https://redriverparish.org,https://redriverparish.org,200,WordPress,69595,redriverparishla.gov:ConnectError
+LA,Richland Parish,not_found,,,,not_found,,richlandparishla.gov:ConnectError;richlandparish.org:wrong_county;richlandpgov.org:ConnectError;richlandparish.gov:ConnectError
+LA,Sabine Parish,not_found,,,,not_found,,sabineparishla.gov:ConnectError;sabineparish.org:ConnectTimeout;sabinepgov.org:ConnectError;sabineparish.gov:ConnectError
+LA,St. Bernard Parish,not_found,,,,not_found,,stbernardparishla.gov:ConnectError;stbernardparish.org:ConnectError;stbernardpgov.org:ConnectError;stbernardparish.gov:ConnectError
+LA,St. Charles Parish,resolved,https://stcharlesparish.org,https://www.stcharlesparish.org/,200,other/unknown,90349,stcharlesparishla.gov:ConnectError
+LA,St. Helena Parish,resolved,https://sthelenaparish.org,https://www.sthelenaparish.org/,200,Wix,773313,sthelenaparishla.gov:ConnectError
+LA,St. James Parish,not_found,,,,not_found,,stjamesparishla.gov:ConnectError;stjamesparish.org:403;stjamespgov.org:ConnectError;stjamesparish.gov:ConnectError
+LA,St. John the Baptist Parish,resolved,https://stjohnthebaptistparish.org,https://www.benedictinecatholiccommunities.org/,200,Streamline,181682,stjohnthebaptistparishla.gov:ConnectError
+LA,St. Landry Parish,not_found,,,,not_found,,stlandryparishla.gov:ConnectError;stlandryparish.org:403;stlandrypgov.org:ConnectError;stlandryparish.gov:ConnectError
+LA,St. Martin Parish,not_found,,,,not_found,,stmartinparishla.gov:ConnectError;stmartinparish.org:ConnectError;stmartinpgov.org:ConnectError;stmartinparish.gov:ConnectError
+LA,St. Mary Parish,resolved,https://stmaryparish.org,https://stmaryparish.org,200,Joomla,64399,stmaryparishla.gov:403
+LA,St. Tammany Parish,not_found,,,,not_found,,sttammanyparishla.gov:ConnectError;sttammanyparish.org:ConnectError;sttammanypgov.org:ConnectError;sttammanyparish.gov:ConnectError
+LA,Tangipahoa Parish,not_found,,,,not_found,,tangipahoaparishla.gov:ConnectError;tangipahoaparish.org:ConnectError;tangipahoapgov.org:ConnectError;tangipahoaparish.gov:ConnectError
+LA,Tensas Parish,resolved,https://tensasparish.org,https://booneand.co/,200,other/unknown,29280,tensasparishla.gov:ConnectError
+LA,Terrebonne Parish,not_found,,,,not_found,,terrebonneparishla.gov:ConnectError;terrebonneparish.org:ConnectError;terrebonnepgov.org:ConnectError;terrebonneparish.gov:ConnectError
+LA,Union Parish,resolved,https://unionparish.org,https://uppj.org/,200,WordPress,80590,unionparishla.gov:ConnectError
+LA,Vermilion Parish,not_found,,,,not_found,,vermilionparishla.gov:ConnectError;vermilionparish.org:ConnectError;vermilionpgov.org:ConnectError;vermilionparish.gov:ConnectError
+LA,Vernon Parish,resolved,https://vernonparish.org,https://vernonparish.org,200,WordPress,135790,vernonparishla.gov:ConnectError
+LA,Washington Parish,resolved,https://washingtonparish.org,https://christchurchdc.org/,200,WordPress,307324,washingtonparishla.gov:ConnectError
+LA,Webster Parish,not_found,,,,not_found,,websterparishla.gov:ConnectError;websterparish.org:ConnectError;websterpgov.org:ConnectError;websterparish.gov:ConnectError
+LA,West Baton Rouge Parish,resolved,https://westbatonrougeparish.org,https://westbatonrougeparish.org,200,CivicPlus,150916,westbatonrougeparishla.gov:ConnectError
+LA,West Carroll Parish,not_found,,,,not_found,,westcarrollparishla.gov:ConnectError;westcarrollparish.org:ConnectError;westcarrollpgov.org:ConnectError;westcarrollparish.gov:ConnectError
+LA,West Feliciana Parish,not_found,,,,not_found,,westfelicianaparishla.gov:ConnectError;westfelicianaparish.org:ConnectError;westfelicianapgov.org:ConnectError;westfelicianaparish.gov:ConnectError
+LA,Winn Parish,not_found,,,,not_found,,winnparishla.gov:ConnectError;winnparish.org:wrong_county;winnpgov.org:ConnectError;winnparish.gov:ConnectError
+NM,Bernalillo County,not_found,,,,not_found,,bernalillocountynm.gov:ConnectError;co.bernalillo.nm.us:ConnectError;bernalillocounty.com:wrong_county;bernalillocountynm.com:ConnectError
+NM,Catron County,not_found,,,,not_found,,catroncountynm.gov:wrong_county;co.catron.nm.us:ConnectError;catroncounty.com:wrong_county;catroncountynm.com:ConnectError
+NM,Chaves County,not_found,,,,not_found,,chavescountynm.gov:ConnectError;co.chaves.nm.us:403;chavescounty.com:wrong_county;chavescountynm.com:wrong_county
+NM,Cibola County,resolved,https://cibolacountynm.com,https://cibolacountynm.com,200,Revize,78895,cibolacountynm.gov:ConnectError;co.cibola.nm.us:wrong_county;cibolacounty.com:wrong_county
+NM,Colfax County,resolved,https://co.colfax.nm.us,https://co.colfax.nm.us,200,Revize,81249,colfaxcountynm.gov:ConnectError
+NM,Curry County,not_found,,,,not_found,,currycountynm.gov:403;co.curry.nm.us:ConnectError;currycounty.com:ConnectTimeout;currycountynm.com:ConnectError
+NM,De Baca County,not_found,,,,not_found,,debacacountynm.gov:ConnectError;co.debaca.nm.us:ConnectError;debacacounty.com:wrong_county;debacacountynm.com:ConnectError
+NM,Doña Ana County,not_found,,,,not_found,,doaanacountynm.gov:ConnectError;co.doaana.nm.us:ConnectError;doaanacounty.com:ConnectError;doaanacountynm.com:ConnectError
+NM,Eddy County,resolved,https://eddycountynm.gov,https://eddycountynm.gov,200,CivicPlus,123767,first_try
+NM,Grant County,resolved,https://grantcountynm.gov,https://grantcountynm.gov,200,CivicPlus,128029,first_try
+NM,Guadalupe County,not_found,,,,not_found,,guadalupecountynm.gov:ConnectError;co.guadalupe.nm.us:ConnectError;guadalupecounty.com:wrong_county;guadalupecountynm.com:ConnectError
+NM,Harding County,not_found,,,,not_found,,hardingcountynm.gov:ConnectError;co.harding.nm.us:ConnectError;hardingcounty.com:wrong_county;hardingcountynm.com:ConnectError
+NM,Hidalgo County,not_found,,,,not_found,,hidalgocountynm.gov:ConnectError;co.hidalgo.nm.us:ConnectError;hidalgocounty.com:ConnectError;hidalgocountynm.com:ConnectError
+NM,Lea County,not_found,,,,not_found,,leacountynm.gov:ConnectError;co.lea.nm.us:ConnectError;leacounty.com:wrong_county;leacountynm.com:wrong_county
+NM,Lincoln County,resolved,https://lincolncountynm.gov,https://lincolncountynm.gov,200,Revize,69171,first_try
+NM,Los Alamos County,not_found,,,,not_found,,losalamoscountynm.gov:ConnectError;co.losalamos.nm.us:ConnectError;losalamoscounty.com:wrong_county;losalamoscountynm.com:ConnectError
+NM,Luna County,not_found,,,,not_found,,lunacountynm.gov:ConnectError;co.luna.nm.us:ConnectError;lunacounty.com:wrong_county;lunacountynm.com:wrong_county
+NM,McKinley County,resolved,https://co.mckinley.nm.us,https://co.mckinley.nm.us,200,CivicPlus,121345,mckinleycountynm.gov:ConnectError
+NM,Mora County,not_found,,,,not_found,,moracountynm.gov:ConnectError;co.mora.nm.us:ConnectError;moracounty.com:wrong_county;moracountynm.com:ConnectError
+NM,Otero County,resolved,https://co.otero.nm.us,https://co.otero.nm.us,200,CivicPlus,125221,oterocountynm.gov:ConnectError
+NM,Quay County,not_found,,,,not_found,,quaycountynm.gov:ConnectError;co.quay.nm.us:ConnectError;quaycounty.com:wrong_county;quaycountynm.com:ConnectError
+NM,Rio Arriba County,not_found,,,,not_found,,rioarribacountynm.gov:ConnectError;co.rioarriba.nm.us:ConnectError;rioarribacounty.com:wrong_county;rioarribacountynm.com:ConnectError
+NM,Roosevelt County,resolved,https://rooseveltcounty.com,https://www.rooseveltcounty.com/,200,WordPress,264749,rooseveltcountynm.gov:ConnectError;co.roosevelt.nm.us:ConnectError
+NM,San Juan County,not_found,,,,not_found,,sanjuancountynm.gov:ConnectError;co.sanjuan.nm.us:ConnectError;sanjuancounty.com:wrong_county;sanjuancountynm.com:ConnectError
+NM,San Miguel County,resolved,https://co.sanmiguel.nm.us,https://co.sanmiguel.nm.us,200,Revize,82662,sanmiguelcountynm.gov:ConnectError
+NM,Sandoval County,resolved,https://sandovalcountynm.gov,https://www.sandovalcountynm.gov/,200,WordPress,540831,first_try
+NM,Santa Fe County,resolved,https://santafecountynm.gov,https://www.santafecountynm.gov/,200,Granicus,44268,first_try
+NM,Sierra County,not_found,,,,not_found,,sierracountynm.gov:ConnectError;co.sierra.nm.us:ConnectError;sierracounty.com:503;sierracountynm.com:ConnectTimeout
+NM,Socorro County,not_found,,,,not_found,,socorrocountynm.gov:ConnectError;co.socorro.nm.us:ConnectTimeout;socorrocounty.com:wrong_county;socorrocountynm.com:ConnectError
+NM,Taos County,resolved,https://taoscountynm.gov,https://taoscountynm.gov,200,CivicPlus,106218,first_try
+NM,Torrance County,not_found,,,,not_found,,torrancecountynm.gov:ConnectError;co.torrance.nm.us:ConnectError;torrancecounty.com:wrong_county;torrancecountynm.com:ConnectError
+NM,Union County,not_found,,,,not_found,,unioncountynm.gov:ConnectError;co.union.nm.us:ConnectError;unioncounty.com:wrong_county;unioncountynm.com:ConnectError
+NM,Valencia County,resolved,https://co.valencia.nm.us,https://co.valencia.nm.us,200,CivicPlus,113647,valenciacountynm.gov:ConnectError
+OK,Adair County,not_found,,,,not_found,,adaircountyok.gov:ConnectError;co.adair.ok.us:ConnectError;adaircounty.org:ConnectError;adaircountyoklahoma.gov:ConnectError
+OK,Alfalfa County,not_found,,,,not_found,,alfalfacountyok.gov:ConnectError;co.alfalfa.ok.us:ConnectError;alfalfacounty.org:ConnectError;alfalfacountyoklahoma.gov:ConnectError
+OK,Atoka County,not_found,,,,not_found,,atokacountyok.gov:ConnectError;co.atoka.ok.us:ConnectError;atokacounty.org:ConnectError;atokacountyoklahoma.gov:ConnectError
+OK,Beaver County,not_found,,,,not_found,,beavercountyok.gov:ConnectError;co.beaver.ok.us:ConnectError;beavercounty.org:ConnectError;beavercountyoklahoma.gov:ConnectError
+OK,Beckham County,not_found,,,,not_found,,beckhamcountyok.gov:ConnectError;co.beckham.ok.us:ConnectError;beckhamcounty.org:wrong_county;beckhamcountyoklahoma.gov:ConnectError
+OK,Blaine County,not_found,,,,not_found,,blainecountyok.gov:ConnectError;co.blaine.ok.us:ConnectError;blainecounty.org:RemoteProtocolError;blainecountyoklahoma.gov:ConnectError
+OK,Bryan County,not_found,,,,not_found,,bryancountyok.gov:ConnectError;co.bryan.ok.us:ConnectError;bryancounty.org:ConnectError;bryancountyoklahoma.gov:ConnectError
+OK,Caddo County,not_found,,,,not_found,,caddocountyok.gov:ConnectError;co.caddo.ok.us:ConnectError;caddocounty.org:ConnectError;caddocountyoklahoma.gov:ConnectError
+OK,Canadian County,resolved,https://canadiancounty.org,https://canadiancounty.org,200,CivicPlus,159674,canadiancountyok.gov:ConnectError;co.canadian.ok.us:ConnectTimeout
+OK,Carter County,not_found,,,,not_found,,cartercountyok.gov:ConnectError;co.carter.ok.us:ConnectError;cartercounty.org:ConnectError;cartercountyoklahoma.gov:ConnectError
+OK,Cherokee County,not_found,,,,not_found,,cherokeecountyok.gov:ConnectError;co.cherokee.ok.us:ConnectError;cherokeecounty.org:wrong_county;cherokeecountyoklahoma.gov:ConnectError
+OK,Choctaw County,not_found,,,,not_found,,choctawcountyok.gov:ConnectError;co.choctaw.ok.us:ConnectError;choctawcounty.org:ConnectError;choctawcountyoklahoma.gov:ConnectError
+OK,Cimarron County,not_found,,,,not_found,,cimarroncountyok.gov:ConnectError;co.cimarron.ok.us:ConnectError;cimarroncounty.org:ConnectError;cimarroncountyoklahoma.gov:ConnectError
+OK,Cleveland County,resolved,https://co.cleveland.ok.us,https://ccok.us/,200,other/unknown,7753,clevelandcountyok.gov:ConnectError
+OK,Coal County,resolved,https://coalcounty.org,https://coalcounty.org,200,other/unknown,15603,coalcountyok.gov:ConnectError;co.coal.ok.us:ConnectError
+OK,Comanche County,not_found,,,,not_found,,comanchecountyok.gov:RemoteProtocolError;co.comanche.ok.us:ConnectError;comanchecounty.org:wrong_county;comanchecountyoklahoma.gov:ConnectError
+OK,Cotton County,not_found,,,,not_found,,cottoncountyok.gov:ConnectError;co.cotton.ok.us:ConnectError;cottoncounty.org:ConnectError;cottoncountyoklahoma.gov:ConnectError
+OK,Craig County,not_found,,,,not_found,,craigcountyok.gov:ConnectError;co.craig.ok.us:ConnectError;craigcounty.org:ConnectError;craigcountyoklahoma.gov:ConnectError
+OK,Creek County,resolved,https://creekcounty.org,https://creekcounty.org,200,other/unknown,1064,creekcountyok.gov:ConnectError;co.creek.ok.us:ConnectError
+OK,Custer County,not_found,,,,not_found,,custercountyok.gov:ConnectError;co.custer.ok.us:ConnectError;custercounty.org:wrong_county;custercountyoklahoma.gov:ConnectError
+OK,Delaware County,resolved,https://delawarecounty.org,https://www.delawarecounty.org/,200,other/unknown,57812,delawarecountyok.gov:ConnectError;co.delaware.ok.us:ConnectError
+OK,Dewey County,not_found,,,,not_found,,deweycountyok.gov:ConnectError;co.dewey.ok.us:ConnectError;deweycounty.org:520;deweycountyoklahoma.gov:ConnectError
+OK,Ellis County,not_found,,,,not_found,,elliscountyok.gov:ConnectError;co.ellis.ok.us:ConnectError;elliscounty.org:wrong_county;elliscountyoklahoma.gov:ConnectError
+OK,Garfield County,not_found,,,,not_found,,garfieldcountyok.gov:ConnectError;co.garfield.ok.us:ConnectError;garfieldcounty.org:ConnectError;garfieldcountyoklahoma.gov:ConnectError
+OK,Garvin County,not_found,,,,not_found,,garvincountyok.gov:ConnectError;co.garvin.ok.us:ConnectError;garvincounty.org:ConnectError;garvincountyoklahoma.gov:ConnectError
+OK,Grady County,not_found,,,,not_found,,gradycountyok.gov:ConnectError;co.grady.ok.us:ConnectError;gradycounty.org:wrong_county;gradycountyoklahoma.gov:ConnectError
+OK,Grant County,resolved,https://grantcounty.org,https://grantcounty.org,200,WordPress,521016,grantcountyok.gov:ConnectError;co.grant.ok.us:ConnectError
+OK,Greer County,not_found,,,,not_found,,greercountyok.gov:ConnectError;co.greer.ok.us:ConnectError;greercounty.org:ConnectError;greercountyoklahoma.gov:ConnectError
+OK,Harmon County,not_found,,,,not_found,,harmoncountyok.gov:ConnectError;co.harmon.ok.us:ConnectError;harmoncounty.org:ConnectError;harmoncountyoklahoma.gov:ConnectError
+OK,Harper County,not_found,,,,not_found,,harpercountyok.gov:ConnectError;co.harper.ok.us:ConnectError;harpercounty.org:wrong_county;harpercountyoklahoma.gov:ConnectError
+OK,Haskell County,not_found,,,,not_found,,haskellcountyok.gov:ConnectError;co.haskell.ok.us:ConnectError;haskellcounty.org:403;haskellcountyoklahoma.gov:ConnectError
+OK,Hughes County,resolved,https://hughescounty.org,https://hughescounty.org,200,other/unknown,126431,hughescountyok.gov:ConnectError;co.hughes.ok.us:ConnectError
+OK,Jackson County,resolved,https://jacksoncounty.org,https://jacksoncounty.org,200,other/unknown,387,jacksoncountyok.gov:ConnectError;co.jackson.ok.us:ConnectError
+OK,Jefferson County,resolved,https://jeffersoncounty.org,https://jeffersoncounty.org,200,other/unknown,29363,jeffersoncountyok.gov:ConnectError;co.jefferson.ok.us:ConnectError
+OK,Johnston County,not_found,,,,not_found,,johnstoncountyok.gov:ConnectError;co.johnston.ok.us:ConnectTimeout;johnstoncounty.org:wrong_county;johnstoncountyoklahoma.gov:ConnectError
+OK,Kay County,not_found,,,,not_found,,kaycountyok.gov:ConnectError;co.kay.ok.us:ConnectError;kaycounty.org:RemoteProtocolError;kaycountyoklahoma.gov:ConnectError
+OK,Kingfisher County,not_found,,,,not_found,,kingfishercountyok.gov:ConnectError;co.kingfisher.ok.us:ConnectError;kingfishercounty.org:ConnectError;kingfishercountyoklahoma.gov:ConnectError
+OK,Kiowa County,not_found,,,,not_found,,kiowacountyok.gov:ConnectError;co.kiowa.ok.us:ConnectError;kiowacounty.org:RemoteProtocolError;kiowacountyoklahoma.gov:ConnectError
+OK,Latimer County,not_found,,,,not_found,,latimercountyok.gov:ConnectError;co.latimer.ok.us:ConnectError;latimercounty.org:ConnectError;latimercountyoklahoma.gov:ConnectError
+OK,Le Flore County,not_found,,,,not_found,,leflorecountyok.gov:wrong_county;co.leflore.ok.us:ConnectError;leflorecounty.org:403;leflorecountyoklahoma.gov:ConnectError
+OK,Lincoln County,resolved,https://lincolncountyok.gov,https://www.lincolncountyok.gov/,200,Wix,1022660,first_try
+OK,Logan County,not_found,,,,not_found,,logancountyok.gov:ConnectError;co.logan.ok.us:ConnectError;logancounty.org:ConnectError;logancountyoklahoma.gov:ConnectError
+OK,Love County,not_found,,,,not_found,,lovecountyok.gov:ConnectError;co.love.ok.us:ConnectError;lovecounty.org:ConnectError;lovecountyoklahoma.gov:ConnectError
+OK,Major County,not_found,,,,not_found,,majorcountyok.gov:ConnectError;co.major.ok.us:ConnectError;majorcounty.org:ConnectError;majorcountyoklahoma.gov:ConnectError
+OK,Marshall County,not_found,,,,not_found,,marshallcountyok.gov:ConnectError;co.marshall.ok.us:ConnectError;marshallcounty.org:ConnectError;marshallcountyoklahoma.gov:ConnectError
+OK,Mayes County,not_found,,,,not_found,,mayescountyok.gov:ConnectError;co.mayes.ok.us:ConnectError;mayescounty.org:RemoteProtocolError;mayescountyoklahoma.gov:ConnectError
+OK,McClain County,not_found,,,,not_found,,mcclaincountyok.gov:403;co.mcclain.ok.us:ConnectError;mcclaincounty.org:RemoteProtocolError;mcclaincountyoklahoma.gov:ConnectError
+OK,McCurtain County,not_found,,,,not_found,,mccurtaincountyok.gov:ConnectError;co.mccurtain.ok.us:ConnectError;mccurtaincounty.org:ConnectTimeout;mccurtaincountyoklahoma.gov:ConnectError
+OK,McIntosh County,resolved,https://mcintoshcounty.org,https://mcintoshcounty.org,200,WordPress,80227,mcintoshcountyok.gov:ConnectError;co.mcintosh.ok.us:ConnectError
+OK,Murray County,not_found,,,,not_found,,murraycountyok.gov:ConnectError;co.murray.ok.us:ConnectError;murraycounty.org:ConnectError;murraycountyoklahoma.gov:ConnectError
+OK,Muskogee County,not_found,,,,not_found,,muskogeecountyok.gov:ConnectError;co.muskogee.ok.us:ConnectError;muskogeecounty.org:ConnectError;muskogeecountyoklahoma.gov:ConnectError
+OK,Noble County,resolved,https://noblecounty.org,http://kihuam.com/f.php?e=QpqVEvtVYOGy2nj0IE%2BnMn49fmYyQUl2SitkYm9KWVhPamRUd2Q2S0MwRmJJRWkxN0lVNDMvNVZYYm5Pb3ZzL28vWDB4TlVhWE5OOWxDV2hHU0MvcmNiTlBJRHdteWhjM0hGUmszTnQyQmI4VGJqZC9DUzdvODNuLyt1bHdhMmcyY2s0TU11enpnZE8xbmkxL214Y0ZOYW91NU1JaWZvc1ZSaGRRQVBFUFFDNzN0d1hVS0JuK21SbWJZMEIwa2I1Mlk3Q0tGbThYRHB3bm5MN0lURWg4Nm14Z3gzeGVPTzVRaFZudWNQV1RoanZyMGJkNnhGZXBONlprNURmTjR6Rm10bjR2RVdDa0F5ZDJZb0hiQkwwQkF1N3RLZDd4RFBzb1hxMTZ6OGV1eG1NbUw1MkptZ2Q5ZTh4UGZvdHZoL09VYkRWOStkeEw4NVp0WC9EV0ppczBEZzNwVjhocElJaWRIL29HaUwxVU9nekk0WXVQS1IxR2s3Mi9ScnFoTC9mbHI1d1BxWmJZak80OSthc2JXKzBWUk9UaXlSeXZsd0hUMEQwdUFZL2EwL29qaE10cWJPTlBFQ2dzUVBkbVZGUGZPNDcvY3F2SWVMbTMzWFJ2QVE4UFpsNDNmS2VhNnJ5QWFya2JVZTd1MFJRVWliYlRHMmF0MlBLeUpUU2RwUFY4cmI1UFNWaGVvU3JOaU9iYVVwUExrSThabE1EbEF0SG5aTTNCWVFLeDFkMHlYUlZ3djlxS0JxTVdSYWFYQXpPL2orT2YraHF0RUFSZERKZHNKUU1WaVRmRjlkaThrcFhuNFpvWEcwY0EyV1QvSzc2czJuRVB2VkwwWnNzM0pBTkpISExxVzh1ckY3dDhIMkdyZzRmTEVlWkRUcXp3N0FZMFlrWFBYNEZpZVgxU2ZXa0dFa1ZJVUkwRlVNMUhnNEU4eVlmMW5ub2RFMW5BaHdJK3VqclFaYkZmakJBKzRoYzBkYUc3bzlESHVmbDM3ZzNzdE5xS2xXWjZDdFV5a3pSRTVmQmlkY1dwV1NpZ1pxTHFHbkFRemtTblM2T3dGc0Z6MUZIbXlpNlE1OUIyalJ0eXpvd3YxYlROQVhjTGVNZEc2QmJRVGZTajJ3Q3ExemNsZFh0aHJvc2c3MjVXUXVBNHZXczhJVGFVV3NlZUgrL21DNGdjM0hhU04wRU5oZFdKaFZ0WUs2YmVJckhxQkIyeUFxVVhSWnpZRnJYNXlqS0wyWkl5THJ6ZzVTY1lKWlhIU285ZU5Ld3hVZzVrSUJLMHFscUxiNUlLZ2RwZ3N6NFo2dFZyS3lSbzFtamhjcDZkNzQzUnY5OXlvRHJ6dTdpUnhrdHdNUVpBa2xBZkk4Mm0zN291eWpNbmVTMC9NamVqcDFPK0JZYnNHNWVDQmpCODQ0V3UzbFo0cVhvbEpjOVdmWUhXN0d6Mkkrb3dzPQ%3D%3D,200,other/unknown,2379,noblecountyok.gov:ConnectError;co.noble.ok.us:ConnectError
+OK,Nowata County,not_found,,,,not_found,,nowatacountyok.gov:ConnectError;co.nowata.ok.us:ConnectError;nowatacounty.org:ConnectError;nowatacountyoklahoma.gov:ConnectError
+OK,Okfuskee County,not_found,,,,not_found,,okfuskeecountyok.gov:ConnectError;co.okfuskee.ok.us:ConnectError;okfuskeecounty.org:ConnectError;okfuskeecountyoklahoma.gov:ConnectError
+OK,Oklahoma County,resolved,https://oklahomacounty.org,https://oklahomacounty.org,200,DotNetNuke,240335,oklahomacountyok.gov:ConnectError;co.oklahoma.ok.us:ConnectTimeout
+OK,Okmulgee County,not_found,,,,not_found,,okmulgeecountyok.gov:ConnectError;co.okmulgee.ok.us:ConnectError;okmulgeecounty.org:ConnectError;okmulgeecountyoklahoma.gov:ConnectError
+OK,Osage County,resolved,https://osagecountyok.gov,https://www.osagecountyok.gov/,200,WordPress,272863,first_try
+OK,Ottawa County,not_found,,,,not_found,,ottawacountyok.gov:ConnectError;co.ottawa.ok.us:ConnectError;ottawacounty.org:ConnectError;ottawacountyoklahoma.gov:ConnectError
+OK,Pawnee County,not_found,,,,not_found,,pawneecountyok.gov:ConnectError;co.pawnee.ok.us:ConnectError;pawneecounty.org:ConnectError;pawneecountyoklahoma.gov:ConnectError
+OK,Payne County,resolved,https://paynecountyok.gov,https://paynecountyok.gov,200,other/unknown,4579,first_try
+OK,Pittsburg County,not_found,,,,not_found,,pittsburgcountyok.gov:ConnectError;co.pittsburg.ok.us:ConnectError;pittsburgcounty.org:ConnectError;pittsburgcountyoklahoma.gov:ConnectError
+OK,Pontotoc County,not_found,,,,not_found,,pontotoccountyok.gov:ConnectError;co.pontotoc.ok.us:ConnectError;pontotoccounty.org:ConnectError;pontotoccountyoklahoma.gov:ConnectError
+OK,Pottawatomie County,not_found,,,,not_found,,pottawatomiecountyok.gov:RemoteProtocolError;co.pottawatomie.ok.us:ConnectError;pottawatomiecounty.org:ConnectError;pottawatomiecountyoklahoma.gov:ConnectError
+OK,Pushmataha County,not_found,,,,not_found,,pushmatahacountyok.gov:ConnectError;co.pushmataha.ok.us:ConnectError;pushmatahacounty.org:ConnectError;pushmatahacountyoklahoma.gov:ConnectError
+OK,Roger Mills County,not_found,,,,not_found,,rogermillscountyok.gov:ConnectError;co.rogermills.ok.us:ConnectError;rogermillscounty.org:ConnectError;rogermillscountyoklahoma.gov:ConnectError
+OK,Rogers County,resolved,https://rogerscounty.org,https://rogerscounty.org,200,CivicPlus,96820,rogerscountyok.gov:ConnectError;co.rogers.ok.us:ConnectError
+OK,Seminole County,resolved,https://seminolecounty.org,https://forsale.dynadot.com/seminolecounty.org?drefid=2071,200,other/unknown,16825,seminolecountyok.gov:ConnectError;co.seminole.ok.us:ConnectError
+OK,Sequoyah County,resolved,https://sequoyahcounty.org,https://sequoyahcounty.org,200,WordPress,92701,sequoyahcountyok.gov:ConnectError;co.sequoyah.ok.us:ConnectError
+OK,Stephens County,not_found,,,,not_found,,stephenscountyok.gov:ConnectError;co.stephens.ok.us:ConnectError;stephenscounty.org:ConnectError;stephenscountyoklahoma.gov:ConnectError
+OK,Texas County,not_found,,,,not_found,,texascountyok.gov:ConnectError;co.texas.ok.us:ConnectError;texascounty.org:wrong_county;texascountyoklahoma.gov:ConnectError
+OK,Tillman County,not_found,,,,not_found,,tillmancountyok.gov:ConnectError;co.tillman.ok.us:ConnectError;tillmancounty.org:ConnectError;tillmancountyoklahoma.gov:ConnectError
+OK,Tulsa County,resolved,https://tulsacounty.org,https://tulsacounty.org,200,other/unknown,1427,tulsacountyok.gov:ConnectError;co.tulsa.ok.us:ConnectError
+OK,Wagoner County,not_found,,,,not_found,,wagonercountyok.gov:ConnectError;co.wagoner.ok.us:ConnectError;wagonercounty.org:ConnectError;wagonercountyoklahoma.gov:ConnectError
+OK,Washington County,resolved,https://washingtoncountyok.gov,https://washingtoncountyok.gov,200,other/unknown,44169,first_try
+OK,Washita County,not_found,,,,not_found,,washitacountyok.gov:ConnectError;co.washita.ok.us:ConnectError;washitacounty.org:ConnectError;washitacountyoklahoma.gov:ConnectError
+OK,Woods County,resolved,https://woodscountyok.gov,https://woodscountyok.gov,200,other/unknown,1468,first_try
+OK,Woodward County,resolved,https://woodwardcounty.org,https://woodward.okcounties.org,200,other/unknown,37410,woodwardcountyok.gov:ConnectError;co.woodward.ok.us:ConnectError
+TX,Anderson County,resolved,https://co.anderson.tx.us,https://www.andersoncountytx.gov,200,ezTask Titanium,63009,first_try
+TX,Andrews County,resolved,https://co.andrews.tx.us,https://co.andrews.tx.us,200,CivicPlus,119867,first_try
+TX,Angelina County,resolved,https://co.angelina.tx.us,https://www.angelinacounty.net/,200,WordPress,48131,first_try
+TX,Aransas County,not_found,,,,not_found,,co.aransas.tx.us:404;aransascounty.texas.gov:ConnectError;aransascountytx.gov:wrong_county;aransascounty.gov:ConnectError
+TX,Archer County,not_found,,,,not_found,,co.archer.tx.us:404;archercounty.texas.gov:ConnectError;archercountytx.gov:ConnectError;archercounty.gov:ConnectError
+TX,Armstrong County,not_found,,,,not_found,,co.armstrong.tx.us:404;armstrongcounty.texas.gov:ConnectError;armstrongcountytx.gov:ConnectError;armstrongcounty.gov:ConnectError
+TX,Atascosa County,resolved,https://co.atascosa.tx.us,https://co.atascosa.tx.us,200,WordPress,124170,first_try
+TX,Austin County,not_found,,,,not_found,,co.austin.tx.us:ConnectError;austincounty.texas.gov:ConnectError;austincountytx.gov:ConnectError;austincounty.gov:ConnectError
+TX,Bailey County,not_found,,,,not_found,,co.bailey.tx.us:404;baileycounty.texas.gov:ConnectError;baileycountytx.gov:ConnectError;baileycounty.gov:ConnectError
+TX,Bandera County,resolved,https://banderacounty.gov,https://www.banderacounty.gov,200,ezTask Titanium,57649,co.bandera.tx.us:ConnectError;banderacounty.texas.gov:ConnectError;banderacountytx.gov:ConnectError
+TX,Bastrop County,resolved,https://co.bastrop.tx.us,https://www.bastropcounty.gov/,200,ezTask Titanium,45516,first_try
+TX,Baylor County,not_found,,,,not_found,,co.baylor.tx.us:404;baylorcounty.texas.gov:ConnectError;baylorcountytx.gov:ConnectError;baylorcounty.gov:ConnectError
+TX,Bee County,resolved,https://co.bee.tx.us,https://www.beecounty.gov/,200,CivicPlus,115953,first_try
+TX,Bell County,not_found,,,,not_found,,co.bell.tx.us:ConnectError;bellcounty.texas.gov:ConnectError;bellcountytx.gov:ConnectError;bellcounty.gov:ConnectError
+TX,Bexar County,not_found,,,,not_found,,co.bexar.tx.us:ConnectError;bexarcounty.texas.gov:ConnectError;bexarcountytx.gov:ConnectError;bexarcounty.gov:ConnectError
+TX,Blanco County,resolved,https://co.blanco.tx.us,https://www.blancocountytexas.gov,200,ezTask Titanium,50710,first_try
+TX,Borden County,resolved,https://co.borden.tx.us,https://www.co.borden.tx.us,200,ezTask Titanium,73553,first_try
+TX,Bosque County,resolved,https://bosquecounty.gov,https://bosquecounty.gov,200,CivicPlus,97850,co.bosque.tx.us:ConnectError;bosquecounty.texas.gov:ConnectError;bosquecountytx.gov:ConnectError
+TX,Bowie County,not_found,,,,not_found,,co.bowie.tx.us:RemoteProtocolError;bowiecounty.texas.gov:ConnectError;bowiecountytx.gov:ConnectError;bowiecounty.gov:ConnectError
+TX,Brazoria County,not_found,,,,not_found,,co.brazoria.tx.us:ConnectError;brazoriacounty.texas.gov:ConnectError;brazoriacountytx.gov:403;brazoriacounty.gov:wrong_county
+TX,Brazos County,resolved,https://brazoscountytx.gov,https://brazoscountytx.gov,200,CivicPlus,180987,co.brazos.tx.us:ConnectError;brazoscounty.texas.gov:ConnectError
+TX,Brewster County,resolved,https://brewstercounty.gov,https://www.brewstercounty.gov,200,ezTask Titanium,132731,co.brewster.tx.us:ConnectError;brewstercounty.texas.gov:ConnectError;brewstercountytx.gov:ConnectError
+TX,Briscoe County,not_found,,,,not_found,,co.briscoe.tx.us:404;briscoecounty.texas.gov:ConnectError;briscoecountytx.gov:ConnectError;briscoecounty.gov:ConnectError
+TX,Brooks County,not_found,,,,not_found,,co.brooks.tx.us:404;brookscounty.texas.gov:ConnectError;brookscountytx.gov:ConnectError;brookscounty.gov:ConnectError
+TX,Brown County,resolved,https://browncountytx.gov,https://www.browncountytx.gov,200,ezTask Titanium,35912,co.brown.tx.us:ConnectError;browncounty.texas.gov:ConnectError
+TX,Burleson County,resolved,https://co.burleson.tx.us,https://www.burlesoncountytx.gov,200,ezTask Titanium,108453,first_try
+TX,Burnet County,not_found,,,,not_found,,co.burnet.tx.us:ConnectError;burnetcounty.texas.gov:ConnectError;burnetcountytx.gov:ConnectError;burnetcounty.gov:ConnectError
+TX,Caldwell County,resolved,https://co.caldwell.tx.us,https://www.co.caldwell.tx.us,200,ezTask Titanium,72642,first_try
+TX,Calhoun County,not_found,,,,not_found,,co.calhoun.tx.us:ConnectError;calhouncounty.texas.gov:ConnectError;calhouncountytx.gov:ConnectError;calhouncounty.gov:ConnectError
+TX,Callahan County,not_found,,,,not_found,,co.callahan.tx.us:404;callahancounty.texas.gov:ConnectError;callahancountytx.gov:ConnectError;callahancounty.gov:ConnectError
+TX,Cameron County,resolved,https://co.cameron.tx.us,https://www.cameroncountytx.gov/,200,WordPress,166223,first_try
+TX,Camp County,not_found,,,,not_found,,co.camp.tx.us:404;campcounty.texas.gov:ConnectError;campcountytx.gov:ConnectError;campcounty.gov:ConnectError
+TX,Carson County,not_found,,,,not_found,,co.carson.tx.us:404;carsoncounty.texas.gov:ConnectError;carsoncountytx.gov:ConnectError;carsoncounty.gov:ConnectError
+TX,Cass County,not_found,,,,not_found,,co.cass.tx.us:404;casscounty.texas.gov:ConnectError;casscountytx.gov:ConnectError;casscounty.gov:ConnectError
+TX,Castro County,not_found,,,,not_found,,co.castro.tx.us:404;castrocounty.texas.gov:ConnectError;castrocountytx.gov:ConnectError;castrocounty.gov:ConnectError
+TX,Chambers County,resolved,https://co.chambers.tx.us,https://www.chamberscountytx.gov/,200,CivicPlus,187824,first_try
+TX,Cherokee County,resolved,https://co.cherokee.tx.us,http://co.cherokee.tx.us/ips/cms/index.html,200,other/unknown,22646,first_try
+TX,Childress County,not_found,,,,not_found,,co.childress.tx.us:ConnectError;childresscounty.texas.gov:ConnectTimeout;childresscountytx.gov:ConnectError;childresscounty.gov:ConnectError
+TX,Clay County,resolved,https://co.clay.tx.us,https://www.claycountytx.net/,200,Wix,648415,first_try
+TX,Cochran County,not_found,,,,not_found,,co.cochran.tx.us:404;cochrancounty.texas.gov:ConnectError;cochrancountytx.gov:ConnectError;cochrancounty.gov:ConnectError
+TX,Coke County,not_found,,,,not_found,,co.coke.tx.us:404;cokecounty.texas.gov:ConnectError;cokecountytx.gov:ConnectError;cokecounty.gov:ConnectError
+TX,Coleman County,resolved,https://co.coleman.tx.us,https://www.colemancounty.gov,200,ezTask Titanium,61498,first_try
+TX,Collin County,resolved,https://collincountytx.gov,https://www.collincountytx.gov/,200,other/unknown,810705,co.collin.tx.us:ConnectTimeout;collincounty.texas.gov:ConnectError
+TX,Collingsworth County,not_found,,,,not_found,,co.collingsworth.tx.us:404;collingsworthcounty.texas.gov:ConnectError;collingsworthcountytx.gov:ConnectError;collingsworthcounty.gov:ConnectError
+TX,Colorado County,resolved,https://co.colorado.tx.us,https://www.co.colorado.tx.us,200,ezTask Titanium,48888,first_try
+TX,Comal County,not_found,,,,not_found,,co.comal.tx.us:ConnectTimeout;comalcounty.texas.gov:ConnectError;comalcountytx.gov:ConnectError;comalcounty.gov:RemoteProtocolError
+TX,Comanche County,not_found,,,,not_found,,co.comanche.tx.us:RemoteProtocolError;comanchecounty.texas.gov:ConnectError;comanchecountytx.gov:RemoteProtocolError;comanchecounty.gov:ConnectError
+TX,Concho County,not_found,,,,not_found,,co.concho.tx.us:404;conchocounty.texas.gov:ConnectError;conchocountytx.gov:ConnectError;conchocounty.gov:ConnectError
+TX,Cooke County,not_found,,,,not_found,,co.cooke.tx.us:404;cookecounty.texas.gov:ConnectError;cookecountytx.gov:ConnectError;cookecounty.gov:ConnectError
+TX,Coryell County,not_found,,,,not_found,,co.coryell.tx.us:404;coryellcounty.texas.gov:ConnectError;coryellcountytx.gov:ConnectError;coryellcounty.gov:ConnectError
+TX,Cottle County,resolved,https://co.cottle.tx.us,https://www.cottlecountytx.gov,200,ezTask Titanium,75358,first_try
+TX,Crane County,resolved,https://co.crane.tx.us,https://www.co.crane.tx.us,200,ezTask Titanium,36547,first_try
+TX,Crockett County,not_found,,,,not_found,,co.crockett.tx.us:404;crockettcounty.texas.gov:ConnectError;crockettcountytx.gov:ConnectError;crockettcounty.gov:ConnectError
+TX,Crosby County,not_found,,,,not_found,,co.crosby.tx.us:404;crosbycounty.texas.gov:ConnectError;crosbycountytx.gov:ConnectError;crosbycounty.gov:ConnectError
+TX,Culberson County,resolved,https://co.culberson.tx.us,https://www.co.culberson.tx.us,200,ezTask Titanium,74601,first_try
+TX,Dallam County,resolved,https://co.dallam.tx.us,https://co.dallam.tx.us,200,other/unknown,6937,first_try
+TX,Dallas County,not_found,,,,not_found,,co.dallas.tx.us:ConnectError;dallascounty.texas.gov:ConnectError;dallascountytx.gov:ConnectError;dallascounty.gov:ConnectError
+TX,Dawson County,not_found,,,,not_found,,co.dawson.tx.us:404;dawsoncounty.texas.gov:ConnectError;dawsoncountytx.gov:ConnectError;dawsoncounty.gov:ConnectError
+TX,DeWitt County,not_found,,,,not_found,,co.dewitt.tx.us:404;dewittcounty.texas.gov:ConnectError;dewittcountytx.gov:ConnectTimeout;dewittcounty.gov:ConnectError
+TX,Deaf Smith County,not_found,,,,not_found,,co.deafsmith.tx.us:ConnectError;deafsmithcounty.texas.gov:ConnectError;deafsmithcountytx.gov:ConnectError;deafsmithcounty.gov:ConnectError
+TX,Delta County,resolved,https://co.delta.tx.us,http://www.deltacountytx.com/,200,CivicPlus,105278,first_try
+TX,Denton County,resolved,https://dentoncounty.gov,https://www.dentoncounty.gov,200,CivicPlus,263268,co.denton.tx.us:ConnectError;dentoncounty.texas.gov:ConnectError;dentoncountytx.gov:ConnectError
+TX,Dickens County,not_found,,,,not_found,,co.dickens.tx.us:404;dickenscounty.texas.gov:ConnectError;dickenscountytx.gov:ConnectError;dickenscounty.gov:ConnectError
+TX,Dimmit County,not_found,,,,not_found,,co.dimmit.tx.us:ConnectError;dimmitcounty.texas.gov:ConnectError;dimmitcountytx.gov:ConnectError;dimmitcounty.gov:ConnectError
+TX,Donley County,resolved,https://co.donley.tx.us,https://www.co.donley.tx.us,200,ezTask Titanium,49918,first_try
+TX,Duval County,resolved,https://co.duval.tx.us,https://www.co.duval.tx.us,200,ezTask Titanium,51496,first_try
+TX,Eastland County,not_found,,,,not_found,,co.eastland.tx.us:ConnectError;eastlandcounty.texas.gov:ConnectError;eastlandcountytx.gov:ConnectError;eastlandcounty.gov:RemoteProtocolError
+TX,Ector County,resolved,https://co.ector.tx.us,https://www.ectorcountytx.gov/,200,CivicPlus,120306,first_try
+TX,Edwards County,resolved,https://co.edwards.tx.us,https://www.co.edwards.tx.us,200,ezTask Titanium,81564,first_try
+TX,El Paso County,not_found,,,,not_found,,co.elpaso.tx.us:ConnectError;elpasocounty.texas.gov:ConnectError;elpasocountytx.gov:ConnectError;elpasocounty.gov:ConnectError
+TX,Ellis County,resolved,https://co.ellis.tx.us,http://www.elliscountytx.gov/,200,CivicPlus,197257,first_try
+TX,Erath County,resolved,https://co.erath.tx.us,https://www.co.erath.tx.us/,200,CivicPlus,111816,first_try
+TX,Falls County,resolved,https://co.falls.tx.us,https://www.co.falls.tx.us,200,ezTask Titanium,113823,first_try
+TX,Fannin County,not_found,,,,not_found,,co.fannin.tx.us:404;fannincounty.texas.gov:ConnectError;fannincountytx.gov:ConnectError;fannincounty.gov:ConnectError
+TX,Fayette County,not_found,,,,not_found,,co.fayette.tx.us:404;fayettecounty.texas.gov:ConnectError;fayettecountytx.gov:ConnectError;fayettecounty.gov:ConnectError
+TX,Fisher County,not_found,,,,not_found,,co.fisher.tx.us:404;fishercounty.texas.gov:ConnectError;fishercountytx.gov:ConnectError;fishercounty.gov:ConnectError
+TX,Floyd County,not_found,,,,not_found,,co.floyd.tx.us:404;floydcounty.texas.gov:ConnectError;floydcountytx.gov:ConnectError;floydcounty.gov:ConnectError
+TX,Foard County,resolved,https://foardcounty.texas.gov,https://www.foardcounty.texas.gov,200,ezTask Titanium,71342,co.foard.tx.us:ConnectError
+TX,Fort Bend County,resolved,https://fortbendcountytx.gov,https://www.fortbendcountytx.gov/,200,Drupal,199463,co.fortbend.tx.us:ConnectError;fortbendcounty.texas.gov:ConnectError
+TX,Franklin County,not_found,,,,not_found,,co.franklin.tx.us:404;franklincounty.texas.gov:ConnectError;franklincountytx.gov:ConnectError;franklincounty.gov:ConnectError
+TX,Freestone County,not_found,,,,not_found,,co.freestone.tx.us:404;freestonecounty.texas.gov:ConnectError;freestonecountytx.gov:ConnectError;freestonecounty.gov:ConnectError
+TX,Frio County,resolved,https://co.frio.tx.us,https://www.co.frio.tx.us,200,ezTask Titanium,62778,first_try
+TX,Gaines County,not_found,,,,not_found,,co.gaines.tx.us:404;gainescounty.texas.gov:ConnectError;gainescountytx.gov:ConnectError;gainescounty.gov:ConnectError
+TX,Galveston County,not_found,,,,not_found,,co.galveston.tx.us:ConnectError;galvestoncounty.texas.gov:ConnectError;galvestoncountytx.gov:403;galvestoncounty.gov:ConnectError
+TX,Garza County,resolved,https://co.garza.tx.us,https://www.garzacounty.gov,200,ezTask Titanium,64908,first_try
+TX,Gillespie County,resolved,https://gillespiecounty.gov,https://gillespiecounty.gov,200,CivicPlus,83802,co.gillespie.tx.us:ConnectError;gillespiecounty.texas.gov:ConnectError;gillespiecountytx.gov:ConnectError
+TX,Glasscock County,resolved,https://co.glasscock.tx.us,https://www.co.glasscock.tx.us,200,ezTask Titanium,76051,first_try
+TX,Goliad County,not_found,,,,not_found,,co.goliad.tx.us:404;goliadcounty.texas.gov:ConnectError;goliadcountytx.gov:ConnectError;goliadcounty.gov:ConnectError
+TX,Gonzales County,not_found,,,,not_found,,co.gonzales.tx.us:404;gonzalescounty.texas.gov:ConnectError;gonzalescountytx.gov:ConnectError;gonzalescounty.gov:ConnectError
+TX,Gray County,not_found,,,,not_found,,co.gray.tx.us:404;graycounty.texas.gov:ConnectError;graycountytx.gov:ConnectError;graycounty.gov:ConnectError
+TX,Grayson County,not_found,,,,not_found,,co.grayson.tx.us:ConnectError;graysoncounty.texas.gov:ConnectError;graysoncountytx.gov:ConnectError;graysoncounty.gov:ConnectError
+TX,Gregg County,resolved,https://co.gregg.tx.us,https://greggcounty.texas.gov/,200,other/unknown,165580,first_try
+TX,Grimes County,not_found,,,,not_found,,co.grimes.tx.us:ConnectError;grimescounty.texas.gov:ConnectError;grimescountytx.gov:ConnectError;grimescounty.gov:ConnectError
+TX,Guadalupe County,not_found,,,,not_found,,co.guadalupe.tx.us:ConnectTimeout;guadalupecounty.texas.gov:ConnectError;guadalupecountytx.gov:ConnectError;guadalupecounty.gov:ConnectError
+TX,Hale County,resolved,https://co.hale.tx.us,https://www.halecounty.org/,200,Revize,53255,first_try
+TX,Hall County,not_found,,,,not_found,,co.hall.tx.us:404;hallcounty.texas.gov:ConnectError;hallcountytx.gov:ConnectError;hallcounty.gov:ConnectError
+TX,Hamilton County,resolved,https://co.hamilton.tx.us,https://www.hamiltoncountytx.gov/,200,ezTask Titanium,51595,first_try
+TX,Hansford County,not_found,,,,not_found,,co.hansford.tx.us:404;hansfordcounty.texas.gov:ConnectError;hansfordcountytx.gov:ConnectError;hansfordcounty.gov:ConnectError
+TX,Hardeman County,not_found,,,,not_found,,co.hardeman.tx.us:404;hardemancounty.texas.gov:ConnectError;hardemancountytx.gov:ConnectError;hardemancounty.gov:ConnectError
+TX,Hardin County,resolved,https://co.hardin.tx.us,https://www.hardincountytx.gov,200,ezTask Titanium,74073,first_try
+TX,Harris County,resolved,https://harriscountytx.gov,https://www.harriscountytx.gov/,200,DotNetNuke,140737,co.harris.tx.us:ConnectError;harriscounty.texas.gov:ConnectError
+TX,Harrison County,not_found,,,,not_found,,co.harrison.tx.us:ConnectTimeout;harrisoncounty.texas.gov:ConnectError;harrisoncountytx.gov:ConnectError;harrisoncounty.gov:ConnectError
+TX,Hartley County,not_found,,,,not_found,,co.hartley.tx.us:404;hartleycounty.texas.gov:ConnectError;hartleycountytx.gov:404;hartleycounty.gov:ConnectError
+TX,Haskell County,resolved,https://co.haskell.tx.us,https://www.haskellcountytx.gov,200,ezTask Titanium,30713,first_try
+TX,Hays County,not_found,,,,not_found,,co.hays.tx.us:ConnectTimeout;hayscounty.texas.gov:ConnectError;hayscountytx.gov:RemoteProtocolError;hayscounty.gov:ConnectError
+TX,Hemphill County,not_found,,,,not_found,,co.hemphill.tx.us:404;hemphillcounty.texas.gov:ConnectError;hemphillcountytx.gov:ConnectError;hemphillcounty.gov:ConnectError
+TX,Henderson County,resolved,https://co.henderson.tx.us,https://www.henderson-county.com/,200,CivicPlus,112288,first_try
+TX,Hidalgo County,resolved,https://co.hidalgo.tx.us,https://www.hidalgocounty.us,200,CivicPlus,135705,first_try
+TX,Hill County,not_found,,,,not_found,,co.hill.tx.us:404;hillcounty.texas.gov:ConnectError;hillcountytx.gov:ConnectError;hillcounty.gov:ConnectError
+TX,Hockley County,resolved,https://co.hockley.tx.us,https://www.co.hockley.tx.us,200,ezTask Titanium,87274,first_try
+TX,Hood County,resolved,https://hoodcounty.texas.gov,https://hoodcounty.texas.gov,200,Revize,70189,co.hood.tx.us:ConnectTimeout
+TX,Hopkins County,not_found,,,,not_found,,co.hopkins.tx.us:ConnectError;hopkinscounty.texas.gov:ConnectError;hopkinscountytx.gov:ConnectError;hopkinscounty.gov:ConnectError
+TX,Houston County,not_found,,,,not_found,,co.houston.tx.us:404;houstoncounty.texas.gov:ConnectError;houstoncountytx.gov:ConnectError;houstoncounty.gov:ConnectError
+TX,Howard County,not_found,,,,not_found,,co.howard.tx.us:RemoteProtocolError;howardcounty.texas.gov:ConnectError;howardcountytx.gov:ConnectError;howardcounty.gov:ConnectError
+TX,Hudspeth County,resolved,https://co.hudspeth.tx.us,https://www.co.hudspeth.tx.us,200,ezTask Titanium,84911,first_try
+TX,Hunt County,not_found,,,,not_found,,co.hunt.tx.us:ConnectError;huntcounty.texas.gov:ConnectError;huntcountytx.gov:ConnectError;huntcounty.gov:ConnectError
+TX,Hutchinson County,not_found,,,,not_found,,co.hutchinson.tx.us:404;hutchinsoncounty.texas.gov:ConnectError;hutchinsoncountytx.gov:ConnectError;hutchinsoncounty.gov:ConnectError
+TX,Irion County,not_found,,,,not_found,,co.irion.tx.us:RemoteProtocolError;irioncounty.texas.gov:ConnectError;irioncountytx.gov:ConnectError;irioncounty.gov:ConnectError
+TX,Jack County,not_found,,,,not_found,,co.jack.tx.us:ConnectError;jackcounty.texas.gov:403;jackcountytx.gov:ConnectError;jackcounty.gov:ConnectError
+TX,Jackson County,resolved,https://co.jackson.tx.us,https://www.co.jackson.tx.us,200,ezTask Titanium,85637,first_try
+TX,Jasper County,resolved,https://co.jasper.tx.us,https://www.co.jasper.tx.us,200,ezTask Titanium,74080,first_try
+TX,Jeff Davis County,not_found,,,,not_found,,co.jeffdavis.tx.us:ConnectError;jeffdaviscounty.texas.gov:404;jeffdaviscountytx.gov:ConnectError;jeffdaviscounty.gov:ConnectError
+TX,Jefferson County,resolved,https://co.jefferson.tx.us,https://jeffersoncountytx.gov/,200,WordPress,61338,first_try
+TX,Jim Hogg County,not_found,,,,not_found,,co.jimhogg.tx.us:ConnectError;jimhoggcounty.texas.gov:ConnectError;jimhoggcountytx.gov:ConnectError;jimhoggcounty.gov:ConnectError
+TX,Jim Wells County,not_found,,,,not_found,,co.jimwells.tx.us:ConnectError;jimwellscounty.texas.gov:ConnectError;jimwellscountytx.gov:ConnectError;jimwellscounty.gov:ConnectError
+TX,Johnson County,not_found,,,,not_found,,co.johnson.tx.us:ConnectError;johnsoncounty.texas.gov:ConnectError;johnsoncountytx.gov:ConnectError;johnsoncounty.gov:ConnectError
+TX,Jones County,not_found,,,,not_found,,co.jones.tx.us:404;jonescounty.texas.gov:ConnectError;jonescountytx.gov:ConnectError;jonescounty.gov:ConnectError
+TX,Karnes County,not_found,,,,not_found,,co.karnes.tx.us:404;karnescounty.texas.gov:ConnectError;karnescountytx.gov:ConnectError;karnescounty.gov:404
+TX,Kaufman County,not_found,,,,not_found,,co.kaufman.tx.us:ConnectTimeout;kaufmancounty.texas.gov:ConnectError;kaufmancountytx.gov:ConnectError;kaufmancounty.gov:ConnectError
+TX,Kendall County,resolved,https://co.kendall.tx.us,https://www.kendallcountytx.gov/,200,CivicPlus,111120,first_try
+TX,Kenedy County,resolved,https://co.kenedy.tx.us,https://www.kenedycountytx.gov/,200,ezTask Titanium,33332,first_try
+TX,Kent County,resolved,https://co.kent.tx.us,https://www.co.kent.tx.us,200,ezTask Titanium,34005,first_try
+TX,Kerr County,resolved,https://co.kerr.tx.us,https://co.kerr.tx.us,200,other/unknown,134,first_try
+TX,Kimble County,resolved,https://co.kimble.tx.us,https://www.co.kimble.tx.us,200,ezTask Titanium,77846,first_try
+TX,King County,resolved,https://kingcounty.gov,https://kingcounty.gov,200,other/unknown,65334,co.king.tx.us:404;kingcounty.texas.gov:ConnectError;kingcountytx.gov:ConnectError
+TX,Kinney County,resolved,https://co.kinney.tx.us,https://www.co.kinney.tx.us,200,ezTask Titanium,75502,first_try
+TX,Kleberg County,not_found,,,,not_found,,co.kleberg.tx.us:404;klebergcounty.texas.gov:ConnectError;klebergcountytx.gov:ConnectError;klebergcounty.gov:ConnectError
+TX,Knox County,not_found,,,,not_found,,co.knox.tx.us:ConnectError;knoxcounty.texas.gov:ConnectError;knoxcountytx.gov:ConnectError;knoxcounty.gov:ConnectError
+TX,La Salle County,not_found,,,,not_found,,co.lasalle.tx.us:ConnectError;lasallecounty.texas.gov:ConnectError;lasallecountytx.gov:ConnectError;lasallecounty.gov:ConnectError
+TX,Lamar County,not_found,,,,not_found,,co.lamar.tx.us:RemoteProtocolError;lamarcounty.texas.gov:ConnectError;lamarcountytx.gov:RemoteProtocolError;lamarcounty.gov:ConnectError
+TX,Lamb County,not_found,,,,not_found,,co.lamb.tx.us:404;lambcounty.texas.gov:ConnectError;lambcountytx.gov:ConnectError;lambcounty.gov:ConnectError
+TX,Lampasas County,not_found,,,,not_found,,co.lampasas.tx.us:404;lampasascounty.texas.gov:ConnectError;lampasascountytx.gov:ConnectError;lampasascounty.gov:ConnectError
+TX,Lavaca County,resolved,https://co.lavaca.tx.us,https://www.co.lavaca.tx.us,200,ezTask Titanium,55038,first_try
+TX,Lee County,not_found,,,,not_found,,co.lee.tx.us:404;leecounty.texas.gov:ConnectError;leecountytx.gov:403;leecounty.gov:ConnectError
+TX,Leon County,not_found,,,,not_found,,co.leon.tx.us:404;leoncounty.texas.gov:ConnectError;leoncountytx.gov:ConnectError;leoncounty.gov:ConnectError
+TX,Liberty County,not_found,,,,not_found,,co.liberty.tx.us:404;libertycounty.texas.gov:ConnectError;libertycountytx.gov:404;libertycounty.gov:ConnectError
+TX,Limestone County,not_found,,,,not_found,,co.limestone.tx.us:404;limestonecounty.texas.gov:ConnectError;limestonecountytx.gov:ConnectError;limestonecounty.gov:ConnectError
+TX,Lipscomb County,not_found,,,,not_found,,co.lipscomb.tx.us:404;lipscombcounty.texas.gov:ConnectError;lipscombcountytx.gov:ConnectError;lipscombcounty.gov:ConnectError
+TX,Live Oak County,not_found,,,,not_found,,co.liveoak.tx.us:ConnectError;liveoakcounty.texas.gov:ConnectError;liveoakcountytx.gov:ConnectError;liveoakcounty.gov:ConnectError
+TX,Llano County,resolved,https://co.llano.tx.us,https://www.llanocounty.gov,200,ezTask Titanium,75249,first_try
+TX,Loving County,resolved,https://co.loving.tx.us,https://www.co.loving.tx.us,200,ezTask Titanium,31086,first_try
+TX,Lubbock County,resolved,https://co.lubbock.tx.us,https://www.lubbockcounty.gov/,200,other/unknown,17564,first_try
+TX,Lynn County,not_found,,,,not_found,,co.lynn.tx.us:404;lynncounty.texas.gov:ConnectError;lynncountytx.gov:ConnectError;lynncounty.gov:ConnectError
+TX,Madison County,not_found,,,,not_found,,co.madison.tx.us:404;madisoncounty.texas.gov:ConnectError;madisoncountytx.gov:ConnectError;madisoncounty.gov:ConnectError
+TX,Marion County,not_found,,,,not_found,,co.marion.tx.us:404;marioncounty.texas.gov:ConnectError;marioncountytx.gov:404;marioncounty.gov:ConnectError
+TX,Martin County,not_found,,,,not_found,,co.martin.tx.us:ConnectError;martincounty.texas.gov:ConnectError;martincountytx.gov:ConnectError;martincounty.gov:ConnectError
+TX,Mason County,not_found,,,,not_found,,co.mason.tx.us:404;masoncounty.texas.gov:ConnectError;masoncountytx.gov:ConnectError;masoncounty.gov:ConnectError
+TX,Matagorda County,resolved,https://co.matagorda.tx.us,https://www.matagordatx.gov/,200,ezTask Titanium,92562,first_try
+TX,Maverick County,resolved,https://co.maverick.tx.us,https://co.maverick.tx.us,200,other/unknown,119911,first_try
+TX,McCulloch County,not_found,,,,not_found,,co.mcculloch.tx.us:404;mccullochcounty.texas.gov:ConnectError;mccullochcountytx.gov:ConnectError;mccullochcounty.gov:ConnectError
+TX,McLennan County,resolved,https://co.mclennan.tx.us,https://www.mclennan.gov/,200,CivicPlus,153325,first_try
+TX,McMullen County,not_found,,,,not_found,,co.mcmullen.tx.us:ConnectError;mcmullencounty.texas.gov:ConnectError;mcmullencountytx.gov:ConnectError;mcmullencounty.gov:ConnectError
+TX,Medina County,resolved,https://medinacounty.gov,https://www.medinaco.org/,200,WordPress,255157,co.medina.tx.us:ConnectError;medinacounty.texas.gov:ConnectError;medinacountytx.gov:ConnectError
+TX,Menard County,not_found,,,,not_found,,co.menard.tx.us:404;menardcounty.texas.gov:ConnectError;menardcountytx.gov:ConnectError;menardcounty.gov:ConnectError
+TX,Midland County,resolved,https://co.midland.tx.us,https://co.midland.tx.us,200,CivicPlus,141522,first_try
+TX,Milam County,not_found,,,,not_found,,co.milam.tx.us:404;milamcounty.texas.gov:ConnectError;milamcountytx.gov:ConnectError;milamcounty.gov:ConnectError
+TX,Mills County,resolved,https://co.mills.tx.us,https://www.millscountytx.gov/,200,ezTask Titanium,81450,first_try
+TX,Mitchell County,resolved,https://co.mitchell.tx.us,https://www.co.mitchell.tx.us,200,ezTask Titanium,70648,first_try
+TX,Montague County,resolved,https://co.montague.tx.us,https://www.co.montague.tx.us,200,ezTask Titanium,44216,first_try
+TX,Montgomery County,not_found,,,,not_found,,co.montgomery.tx.us:ConnectError;montgomerycounty.texas.gov:ConnectError;montgomerycountytx.gov:ConnectError;montgomerycounty.gov:ConnectError
+TX,Moore County,not_found,,,,not_found,,co.moore.tx.us:404;moorecounty.texas.gov:ConnectError;moorecountytx.gov:ConnectError;moorecounty.gov:ConnectError
+TX,Morris County,not_found,,,,not_found,,co.morris.tx.us:404;morriscounty.texas.gov:ConnectError;morriscountytx.gov:ConnectError;morriscounty.gov:ConnectError
+TX,Motley County,not_found,,,,not_found,,co.motley.tx.us:404;motleycounty.texas.gov:ConnectError;motleycountytx.gov:ConnectError;motleycounty.gov:ConnectError
+TX,Nacogdoches County,not_found,,,,not_found,,co.nacogdoches.tx.us:RemoteProtocolError;nacogdochescounty.texas.gov:ConnectError;nacogdochescountytx.gov:ConnectError;nacogdochescounty.gov:ConnectError
+TX,Navarro County,resolved,https://co.navarro.tx.us,https://www.co.navarro.tx.us,200,ezTask Titanium,87110,first_try
+TX,Newton County,not_found,,,,not_found,,co.newton.tx.us:404;newtoncounty.texas.gov:ConnectError;newtoncountytx.gov:ConnectError;newtoncounty.gov:ConnectError
+TX,Nolan County,not_found,,,,not_found,,co.nolan.tx.us:404;nolancounty.texas.gov:ConnectError;nolancountytx.gov:ConnectError;nolancounty.gov:ConnectError
+TX,Nueces County,not_found,,,,not_found,,co.nueces.tx.us:ConnectError;nuecescounty.texas.gov:ConnectError;nuecescountytx.gov:ConnectError;nuecescounty.gov:ConnectError
+TX,Ochiltree County,not_found,,,,not_found,,co.ochiltree.tx.us:404;ochiltreecounty.texas.gov:ConnectError;ochiltreecountytx.gov:ConnectError;ochiltreecounty.gov:ConnectError
+TX,Oldham County,resolved,https://co.oldham.tx.us,https://www.co.oldham.tx.us,200,ezTask Titanium,77764,first_try
+TX,Orange County,resolved,https://co.orange.tx.us,https://www.co.orange.tx.us/,200,other/unknown,44150,first_try
+TX,Palo Pinto County,not_found,,,,not_found,,co.palopinto.tx.us:ConnectError;palopintocounty.texas.gov:ConnectError;palopintocountytx.gov:ConnectError;palopintocounty.gov:ConnectError
+TX,Panola County,not_found,,,,not_found,,co.panola.tx.us:RemoteProtocolError;panolacounty.texas.gov:ConnectError;panolacountytx.gov:ConnectError;panolacounty.gov:ConnectError
+TX,Parker County,resolved,https://co.parker.tx.us,https://www.parkercountytx.gov/,200,CivicPlus,96206,first_try
+TX,Parmer County,resolved,https://parmercounty.texas.gov,https://parmercounty.texas.gov,200,WordPress,192038,co.parmer.tx.us:ConnectError
+TX,Pecos County,not_found,,,,not_found,,co.pecos.tx.us:ConnectError;pecoscounty.texas.gov:ConnectError;pecoscountytx.gov:ConnectError;pecoscounty.gov:ConnectError
+TX,Polk County,resolved,https://co.polk.tx.us,https://www.polktx.gov/,200,CivicPlus,99104,first_try
+TX,Potter County,resolved,https://co.potter.tx.us,https://www.co.potter.tx.us,200,ezTask Titanium,86048,first_try
+TX,Presidio County,not_found,,,,not_found,,co.presidio.tx.us:404;presidiocounty.texas.gov:ConnectError;presidiocountytx.gov:ConnectError;presidiocounty.gov:ConnectError
+TX,Rains County,not_found,,,,not_found,,co.rains.tx.us:404;rainscounty.texas.gov:ConnectError;rainscountytx.gov:ConnectError;rainscounty.gov:ConnectError
+TX,Randall County,resolved,https://randallcounty.gov,https://randallcounty.gov,200,CivicPlus,89844,co.randall.tx.us:ConnectError;randallcounty.texas.gov:ConnectError;randallcountytx.gov:ConnectError
+TX,Reagan County,not_found,,,,not_found,,co.reagan.tx.us:404;reagancounty.texas.gov:ConnectError;reagancountytx.gov:ConnectError;reagancounty.gov:ConnectError
+TX,Real County,not_found,,,,not_found,,co.real.tx.us:404;realcounty.texas.gov:ConnectError;realcountytx.gov:ConnectError;realcounty.gov:ConnectError
+TX,Red River County,not_found,,,,not_found,,co.redriver.tx.us:ConnectError;redrivercounty.texas.gov:ConnectError;redrivercountytx.gov:wrong_county;redrivercounty.gov:ConnectError
+TX,Reeves County,not_found,,,,not_found,,co.reeves.tx.us:ConnectError;reevescounty.texas.gov:ConnectError;reevescountytx.gov:403;reevescounty.gov:ConnectError
+TX,Refugio County,not_found,,,,not_found,,co.refugio.tx.us:404;refugiocounty.texas.gov:ConnectError;refugiocountytx.gov:ConnectError;refugiocounty.gov:ConnectError
+TX,Roberts County,not_found,,,,not_found,,co.roberts.tx.us:404;robertscounty.texas.gov:ConnectError;robertscountytx.gov:ConnectError;robertscounty.gov:ConnectError
+TX,Robertson County,not_found,,,,not_found,,co.robertson.tx.us:404;robertsoncounty.texas.gov:ConnectError;robertsoncountytx.gov:ConnectError;robertsoncounty.gov:ConnectError
+TX,Rockwall County,resolved,https://co.rockwall.tx.us,https://www.rockwallcountytexas.com/,200,CivicPlus,168440,first_try
+TX,Runnels County,not_found,,,,not_found,,co.runnels.tx.us:403;runnelscounty.texas.gov:ConnectError;runnelscountytx.gov:ConnectError;runnelscounty.gov:ConnectError
+TX,Rusk County,resolved,https://ruskcountytx.gov,https://www.ruskcountytx.gov,200,ezTask Titanium,83653,co.rusk.tx.us:404;ruskcounty.texas.gov:ConnectError
+TX,Sabine County,not_found,,,,not_found,,co.sabine.tx.us:404;sabinecounty.texas.gov:ConnectError;sabinecountytx.gov:ConnectError;sabinecounty.gov:ConnectError
+TX,San Augustine County,not_found,,,,not_found,,co.sanaugustine.tx.us:ConnectError;sanaugustinecounty.texas.gov:ConnectError;sanaugustinecountytx.gov:ConnectError;sanaugustinecounty.gov:ConnectError
+TX,San Jacinto County,not_found,,,,not_found,,co.sanjacinto.tx.us:ConnectError;sanjacintocounty.texas.gov:ConnectError;sanjacintocountytx.gov:ConnectError;sanjacintocounty.gov:ConnectError
+TX,San Patricio County,not_found,,,,not_found,,co.sanpatricio.tx.us:ConnectError;sanpatriciocounty.texas.gov:ConnectError;sanpatriciocountytx.gov:ConnectError;sanpatriciocounty.gov:ConnectError
+TX,San Saba County,not_found,,,,not_found,,co.sansaba.tx.us:ConnectError;sansabacounty.texas.gov:ConnectError;sansabacountytx.gov:ConnectError;sansabacounty.gov:ConnectError
+TX,Schleicher County,resolved,https://co.schleicher.tx.us,https://www.schleichercounty.gov/,200,ezTask Titanium,76219,first_try
+TX,Scurry County,not_found,,,,not_found,,co.scurry.tx.us:ConnectError;scurrycounty.texas.gov:ConnectError;scurrycountytx.gov:ConnectError;scurrycounty.gov:ConnectError
+TX,Shackelford County,resolved,https://co.shackelford.tx.us,https://www.shackelfordcounty.org/,200,ezTask Titanium,66291,first_try
+TX,Shelby County,not_found,,,,not_found,,co.shelby.tx.us:404;shelbycounty.texas.gov:ConnectError;shelbycountytx.gov:ConnectError;shelbycounty.gov:ConnectError
+TX,Sherman County,resolved,https://co.sherman.tx.us,https://www.shermancountytx.gov,200,ezTask Titanium,46386,first_try
+TX,Smith County,not_found,,,,not_found,,co.smith.tx.us:ConnectError;smithcounty.texas.gov:ConnectError;smithcountytx.gov:ConnectError;smithcounty.gov:ConnectError
+TX,Somervell County,not_found,,,,not_found,,co.somervell.tx.us:ConnectTimeout;somervellcounty.texas.gov:ConnectError;somervellcountytx.gov:ConnectError;somervellcounty.gov:ConnectError
+TX,Starr County,resolved,https://co.starr.tx.us,https://www.co.starr.tx.us,200,ezTask Titanium,92272,first_try
+TX,Stephens County,not_found,,,,not_found,,co.stephens.tx.us:404;stephenscounty.texas.gov:ConnectError;stephenscountytx.gov:521;stephenscounty.gov:ConnectError
+TX,Sterling County,resolved,https://co.sterling.tx.us,https://www.sterlingcotx.gov,200,ezTask Titanium,71671,first_try
+TX,Stonewall County,not_found,,,,not_found,,co.stonewall.tx.us:404;stonewallcounty.texas.gov:ConnectError;stonewallcountytx.gov:ConnectError;stonewallcounty.gov:ConnectError
+TX,Sutton County,resolved,https://co.sutton.tx.us,https://www.co.sutton.tx.us,200,ezTask Titanium,44808,first_try
+TX,Swisher County,not_found,,,,not_found,,co.swisher.tx.us:404;swishercounty.texas.gov:ConnectError;swishercountytx.gov:ConnectError;swishercounty.gov:wrong_county
+TX,Tarrant County,resolved,https://tarrantcountytx.gov,https://www.tarrantcountytx.gov/en.html,200,other/unknown,357180,co.tarrant.tx.us:ConnectError;tarrantcounty.texas.gov:ConnectError
+TX,Taylor County,resolved,https://taylorcounty.texas.gov,https://taylorcounty.texas.gov,200,CivicPlus,130787,co.taylor.tx.us:ConnectError
+TX,Terrell County,not_found,,,,not_found,,co.terrell.tx.us:404;terrellcounty.texas.gov:ConnectError;terrellcountytx.gov:ConnectError;terrellcounty.gov:ConnectError
+TX,Terry County,not_found,,,,not_found,,co.terry.tx.us:404;terrycounty.texas.gov:ConnectError;terrycountytx.gov:ConnectError;terrycounty.gov:ConnectError
+TX,Throckmorton County,resolved,https://throckmortoncountytx.gov,https://www.throckmortoncounty.org/,200,ezTask Titanium,29942,co.throckmorton.tx.us:ConnectError;throckmortoncounty.texas.gov:ConnectError
+TX,Titus County,resolved,https://co.titus.tx.us,https://www.co.titus.tx.us,200,ezTask Titanium,51365,first_try
+TX,Tom Green County,resolved,https://tomgreencountytx.gov,https://www.tomgreencountytx.gov,200,ezTask Titanium,58783,co.tomgreen.tx.us:ConnectError;tomgreencounty.texas.gov:ConnectError
+TX,Travis County,resolved,https://traviscountytx.gov,https://www.traviscountytx.gov/,200,Joomla,51278,co.travis.tx.us:ConnectError;traviscounty.texas.gov:ConnectError
+TX,Trinity County,not_found,,,,not_found,,co.trinity.tx.us:404;trinitycounty.texas.gov:ConnectError;trinitycountytx.gov:ConnectError;trinitycounty.gov:ConnectError
+TX,Tyler County,not_found,,,,not_found,,co.tyler.tx.us:404;tylercounty.texas.gov:ConnectError;tylercountytx.gov:ConnectError;tylercounty.gov:ConnectError
+TX,Upshur County,not_found,,,,not_found,,co.upshur.tx.us:ConnectError;upshurcounty.texas.gov:ConnectError;upshurcountytx.gov:ConnectError;upshurcounty.gov:ConnectError
+TX,Upton County,not_found,,,,not_found,,co.upton.tx.us:404;uptoncounty.texas.gov:ConnectError;uptoncountytx.gov:ConnectError;uptoncounty.gov:ConnectError
+TX,Uvalde County,resolved,https://uvaldecounty.gov,https://www.uvaldecounty.gov/,200,Wix,694261,co.uvalde.tx.us:ConnectError;uvaldecounty.texas.gov:ConnectError;uvaldecountytx.gov:ConnectError
+TX,Val Verde County,resolved,https://valverdecounty.texas.gov,https://valverdecounty.texas.gov,200,CivicPlus,148530,co.valverde.tx.us:ConnectError
+TX,Van Zandt County,not_found,,,,not_found,,co.vanzandt.tx.us:ConnectError;vanzandtcounty.texas.gov:ConnectError;vanzandtcountytx.gov:ConnectError;vanzandtcounty.gov:ConnectError
+TX,Victoria County,resolved,https://victoriacountytx.gov,https://www.vctx.org,200,ezTask Titanium,117295,co.victoria.tx.us:ConnectError;victoriacounty.texas.gov:ConnectError
+TX,Walker County,resolved,https://walkercountytx.gov,https://www.co.walker.tx.us/,200,other/unknown,24348,co.walker.tx.us:ConnectError;walkercounty.texas.gov:ConnectError
+TX,Waller County,not_found,,,,not_found,,co.waller.tx.us:ConnectError;wallercounty.texas.gov:ConnectError;wallercountytx.gov:ConnectError;wallercounty.gov:ConnectError
+TX,Ward County,not_found,,,,not_found,,co.ward.tx.us:404;wardcounty.texas.gov:ConnectError;wardcountytx.gov:ConnectError;wardcounty.gov:ConnectError
+TX,Washington County,resolved,https://washingtoncountytx.gov,https://www.co.washington.tx.us/,200,ezTask Titanium,43826,co.washington.tx.us:404;washingtoncounty.texas.gov:ConnectError
+TX,Webb County,not_found,,,,not_found,,co.webb.tx.us:ConnectError;webbcounty.texas.gov:ConnectError;webbcountytx.gov:ConnectError;webbcounty.gov:ConnectError
+TX,Wharton County,not_found,,,,not_found,,co.wharton.tx.us:404;whartoncounty.texas.gov:ConnectError;whartoncountytx.gov:ConnectError;whartoncounty.gov:ConnectError
+TX,Wheeler County,resolved,https://co.wheeler.tx.us,https://www.wheelercounty.texas.gov/,200,ezTask Titanium,78898,first_try
+TX,Wichita County,not_found,,,,not_found,,co.wichita.tx.us:ConnectError;wichitacounty.texas.gov:ConnectError;wichitacountytx.gov:ConnectError;wichitacounty.gov:ConnectError
+TX,Wilbarger County,resolved,https://co.wilbarger.tx.us,https://www.co.wilbarger.tx.us,200,ezTask Titanium,71776,first_try
+TX,Willacy County,resolved,https://co.willacy.tx.us,https://www.willacy.gov/,200,ezTask Titanium,44136,first_try
+TX,Williamson County,not_found,,,,not_found,,co.williamson.tx.us:ConnectError;williamsoncounty.texas.gov:ConnectError;williamsoncountytx.gov:ConnectError;williamsoncounty.gov:ConnectError
+TX,Wilson County,resolved,https://co.wilson.tx.us,https://www.wilsoncountytx.gov/,200,ezTask Titanium,56685,first_try
+TX,Winkler County,not_found,,,,not_found,,co.winkler.tx.us:RemoteProtocolError;winklercounty.texas.gov:ConnectError;winklercountytx.gov:ConnectError;winklercounty.gov:ConnectError
+TX,Wise County,resolved,https://co.wise.tx.us,https://co.wise.tx.us,200,CivicPlus,96982,first_try
+TX,Wood County,resolved,https://co.wood.tx.us,https://www.mywoodcounty.com/,200,ezTask Titanium,54140,first_try
+TX,Yoakum County,resolved,https://co.yoakum.tx.us,https://www.yoakumcounty.gov/,200,ezTask Titanium,61599,first_try
+TX,Young County,not_found,,,,not_found,,co.young.tx.us:404;youngcounty.texas.gov:ConnectError;youngcountytx.gov:ConnectError;youngcounty.gov:ConnectError
+TX,Zapata County,not_found,,,,not_found,,co.zapata.tx.us:404;zapatacounty.texas.gov:ConnectError;zapatacountytx.gov:ConnectError;zapatacounty.gov:ConnectError
+TX,Zavala County,not_found,,,,not_found,,co.zavala.tx.us:ConnectError;zavalacounty.texas.gov:ConnectError;zavalacountytx.gov:ConnectError;zavalacounty.gov:ConnectError
