@@ -94,32 +94,32 @@ Learn More
 Election Results
 August 18, 2026 Official Results
 Learn More
-Registered Voters as of August 24, 2026
-(  Includes Active and Inactive Voters  )
+Registered Voters as of August 26, 2026
+(Includes Active and Inactive Voters)
 Political Affiliation
 Active
 Inactive
 Total
 Democrats
-106,016
-19,839
-125,855
+106,070
+19,823
+125,893
 Republicans
-173,187
-17,776
-190,963
+173,253
+17,766
+191,019
 No Party Affiliation
-101,469
-24,447
+101,477
+24,439
 125,916
 Other
-17,332
-1,719
-19,051
+17,368
+1,718
+19,086
 Totals
-398,004
-63,781
-461,785
+398,168
+63,746
+461,914
 Ready. Set. VOTE
 Vote-by-Mail
 Precinct Locator

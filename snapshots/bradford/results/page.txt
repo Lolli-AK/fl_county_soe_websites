@@ -153,237 +153,245 @@ Document Center
 The Document Center provides easy access to public documents. Click on one of the categories below to see related documents or use the search function.
 Search for file name:
 Categories always sorted by seq (sub-categories sorted within each category)
-Documents sorted by SEQ in Ascending Order within category
+Documents sorted by _RECORDID in Descending Order within category
 RESET
 Election Night Summary Results
-22 documents
+24 documents
+2026
+2 documents
+2026 Primary Election Results
+document _recordid
+268
+2026 Primary Election Turnout
+document _recordid
+267
 2024
 6 documents
-2024 General Election Results
-document seq
-0.00
-2024 General Election Turnout
-document seq
-0.00
-2024 Primary Election Results
-document seq
-0.00
-2024 Primary Election Turnout
-document seq
-0.00
-2024 Presidential Preference Primary Results
-document seq
-0.00
 2024 Presidential Preference Primary Turnout
-document seq
-0.00
+document _recordid
+81
+2024 Presidential Preference Primary Results
+document _recordid
+80
+2024 Primary Election Turnout
+document _recordid
+79
+2024 Primary Election Results
+document _recordid
+78
+2024 General Election Turnout
+document _recordid
+77
+2024 General Election Results
+document _recordid
+76
 2022
 4 documents
-2022 General Results
-document seq
-0.00
-2022 General Turnout
-document seq
-0.00
-2022 Primary Results
-document seq
-0.00
 2022 Primary Turnout
-document seq
-0.00
+document _recordid
+86
+2022 Primary Results
+document _recordid
+85
+2022 General Turnout
+document _recordid
+84
+2022 General Results
+document _recordid
+83
 2020
 5 documents
-2020 General Summary Results
-document seq
-0.00
-2020 General Turnout
-document seq
-0.00
-2020 Primary Summary Results
-document seq
-0.00
-2020 Primary Turnout
-document seq
-0.00
 2020 Presidential Preference Primary Summary Results
-document seq
-0.00
+document _recordid
+92
+2020 Primary Turnout
+document _recordid
+91
+2020 Primary Summary Results
+document _recordid
+90
+2020 General Turnout
+document _recordid
+89
+2020 General Summary Results
+document _recordid
+88
 2018
 2 documents
-2018 General Summary Results
-document seq
-0.00
 2018 Primary Summary Results
-document seq
-0.00
+document _recordid
+95
+2018 General Summary Results
+document _recordid
+94
 2016
 3 documents
-2016 General Summary Results
-document seq
-0.00
-2016 Primary Summary Results
-document seq
-0.00
 2016 Presidential Preference Primary Summary Results
-document seq
-0.00
+document _recordid
+99
+2016 Primary Summary Results
+document _recordid
+98
+2016 General Summary Results
+document _recordid
+97
 2014
 2 documents
-2014 General Election Summary Results
-document seq
-0.00
 2014 Primary Election Summary Results
-document seq
-0.00
+document _recordid
+102
+2014 General Election Summary Results
+document _recordid
+101
 Election Archives
 39 documents
 2020
 2 documents
-2020 Primary Precinct-By-Precinct Results
-document seq
-0.00
 2020 Presidential Preference Primary Precinct-by-Precinct Results
-document seq
-0.00
+document _recordid
+122
+2020 Primary Precinct-By-Precinct Results
+document _recordid
+121
 2018
 2 documents
-2018 General Precinct-by-Precinct Results
-document seq
-0.00
 2018 Primary Precinct-by-Precinct Results
-document seq
-0.00
+document _recordid
+126
+2018 General Precinct-by-Precinct Results
+document _recordid
+124
 2016
 3 documents
-2016 General Precinct-by-Precinct Results
-document seq
-0.00
-2016 Primary Precinct-by-Precinct Results
-document seq
-0.00
 2016 Presidential Preference Primary Precinct-by-Precinct Results
-document seq
-0.00
+document _recordid
+130
+2016 Primary Precinct-by-Precinct Results
+document _recordid
+129
+2016 General Precinct-by-Precinct Results
+document _recordid
+128
 2014
 2 documents
-2014 General Precinct-by-Precinct Results
-document seq
-0.00
 2014 Primary Precinct-by-Precinct Results
-document seq
-0.00
+document _recordid
+134
+2014 General Precinct-by-Precinct Results
+document _recordid
+132
 2012
 3 documents
-2012 General Precinct-by-Precinct Results
-document seq
-0.00
-2012 Primary Precinct-by-Precinct Results
-document seq
-0.00
 2012 Presidential Preference Primary
-document seq
-0.00
+document _recordid
+137
+2012 Primary Precinct-by-Precinct Results
+document _recordid
+136
+2012 General Precinct-by-Precinct Results
+document _recordid
+135
 2011
 2 documents
-2011 Special General Precinct-by-Precinct
-document seq
-0.00
 2011 Special Primary Precinct-by-Precinct
-document seq
-0.00
+document _recordid
+140
+2011 Special General Precinct-by-Precinct
+document _recordid
+139
 2010
 2 documents
-2010 General Precinct-By-Precinct
-document seq
-0.00
 2010 Primary
-document seq
-0.00
+document _recordid
+142
+2010 General Precinct-By-Precinct
+document _recordid
+141
 2008
 3 documents
-2008 General
-document seq
-0.00
-2008 Primary
-document seq
-0.00
 2008 Presidential Preference Primary
-document seq
-0.00
+document _recordid
+146
+2008 Primary
+document _recordid
+145
+2008 General
+document _recordid
+144
 2006
 2 documents
-2006 General
-document seq
-0.00
 2006 Primary
-document seq
-0.00
+document _recordid
+149
+2006 General
+document _recordid
+148
 2004
 3 documents
-2004 General
-document seq
-0.00
-2004 Primary
-document seq
-0.00
 2004 Presidential Preference Primary
-document seq
-0.00
+document _recordid
+153
+2004 Primary
+document _recordid
+152
+2004 General
+document _recordid
+151
 2002
 2 documents
-2002 General
-document seq
-0.00
 2002 Primary
-document seq
-0.00
+document _recordid
+156
+2002 General
+document _recordid
+155
 2001
 1 document
 2001 Special Election Referendum
-document seq
-0.00
+document _recordid
+158
 2000
 5 documents
-2000 and 2004 Constitutional Amendments by District
-document seq
-0.00
-2000 General
-document seq
-0.00
-2000 Second Primary
-document seq
-0.00
-2000 First Primary
-document seq
-0.00
 2000 Presidential Preference Primary
-document seq
-0.00
+document _recordid
+163
+2000 First Primary
+document _recordid
+162
+2000 Second Primary
+document _recordid
+161
+2000 General
+document _recordid
+160
+2000 and 2004 Constitutional Amendments by District
+document _recordid
+159
 1998
 3 documents
-1998 General
-document seq
-0.00
-1998 Second Primary
-document seq
-0.00
 1998 First Primary
-document seq
-0.00
+document _recordid
+167
+1998 Second Primary
+document _recordid
+166
+1998 General
+document _recordid
+165
 1996
 4 documents
-1996 General
-document seq
-0.00
-1996 Second Primary
-document seq
-0.00
-1996 First Primary
-document seq
-0.00
 1996 Presidential Preference Primary
-document seq
-0.00
+document _recordid
+173
+1996 First Primary
+document _recordid
+172
+1996 Second Primary
+document _recordid
+171
+1996 General
+document _recordid
+170
 Related Pages
 Upcoming Elections
 Early Voting
