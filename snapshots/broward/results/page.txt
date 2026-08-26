@@ -276,8 +276,6 @@ General Information
 Results & Information
 Election Information
 Election Results Information
-August Election Unofficial Voter Turnout
-August Election Unofficial Vote-by-Mail Data
 Voter Registration Statistics Summary
 Voter Statistics
 Municipal Election
@@ -321,6 +319,7 @@ Election Results Information
 Home
 Results & Information
 Election Results Information
+2026 Primary Election
 June 23, 2026- Special Election for the Plantation Acres Improvement District
 2026 Municipal Election
 2025 Municipal Election
@@ -374,8 +373,6 @@ General Information
 Results & Information
 Election Information
 Election Results Information
-August Election Unofficial Voter Turnout
-August Election Unofficial Vote-by-Mail Data
 Voter Registration Statistics Summary
 Voter Statistics
 Municipal Election

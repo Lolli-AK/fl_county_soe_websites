@@ -276,8 +276,6 @@ General Information
 Results & Information
 Election Information
 Election Results Information
-August Election Unofficial Voter Turnout
-August Election Unofficial Vote-by-Mail Data
 Voter Registration Statistics Summary
 Voter Statistics
 Municipal Election
@@ -339,37 +337,19 @@ What is an Election Worker?
 Become an Election Worker
 Election Worker Portal
 Broward County
-View Unofficial Election Results
-Unofficial election results are available. See how your community voted.
-See Unofficial Results
-Vote By Mail Next Time
-Make voting even easier next time - sign up for vote-by-mail.
-Sign Up Now
-Become a Poll Worker
-Help strengthen democracy by serving as a poll worker in future elections.
-Join Us
-View Unofficial Turnout Statistics
-Unofficial Turnout Statistics for the August 18, 2026 Election.
-All Stats
-VBM Stats
+Become a Poll Worker!
+Serve your community and help ensure secure, fair elections. Poll workers are the backbone of democracy.
+Join Our Team
+Register to Vote
+Make sure you are registered before the deadline (29 days before the election). Quick and easy online registration.
+Register Now
+Request Your Vote-By-Mail Ballot
+Vote from the comfort of your home. Request your ballot early to ensure you have time to complete and return it.
+Request Ballot
+Election Information
+Key information about the 2026 elections, including registration deadlines and important dates.
+View Election Info
 Announcements
-August 18, 2026 Election - Canvassing Board
-Canvassing Board Meeting Notice/Agenda 8/25/2026 (
-English
-/
-Spanish
-)
-Canvassing Board Master Schedule (
-English
-/
-Spanish
-)
-Administrative Order – Canvassing Board Alternates for the August 18 2026, Election
-Guidelines and Procedures for Observers and Meeting for the 2026 Primary Elections in
-English
-/
-Spanish
-August Election Canvassing Board Meetings
 November 3, 2026 Election – Canvassing Board
 Canvassing Board Master Schedule in
 English
@@ -380,6 +360,11 @@ November 3, 2026 Election – Important Information
 For Voter Information Lookup -
 Click Here
 Election Preparation Report for the 2026 General Election
+Important Information about the 2026 November Election, including registration deadlines and other important dates.
+August 18, 2026 Election- Official Results
+To view August Election Official Results-
+Click Here
+.
 Legally Required Notices
 Potential Ineligibility Notices - Public Notice- 08/04/2026
 Notice of Special Election in Plantation Acres Improvement District Special Election in
@@ -396,8 +381,6 @@ Notice of Book Closing for Primary Election to be held on August 18, 2026
 Important Information to Voters
 Voter Participation Center (VPC) or Center for Voter Information (CVI) Mailers
 View the 2026 Congressional Redistricting Interactive Map
-Election Information
-Important Information about the 2026 elections, including registration deadlines and other important dates.
 Three Ways to Vote
 There are three safe and convenient ways to vote in Broward County
 this election. If you are a resident of Broward County, a U.S. Citizen

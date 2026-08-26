@@ -276,8 +276,6 @@ General Information
 Results & Information
 Election Information
 Election Results Information
-August Election Unofficial Voter Turnout
-August Election Unofficial Vote-by-Mail Data
 Voter Registration Statistics Summary
 Voter Statistics
 Municipal Election
@@ -362,8 +360,6 @@ General Information
 Results & Information
 Election Information
 Election Results Information
-August Election Unofficial Voter Turnout
-August Election Unofficial Vote-by-Mail Data
 Voter Registration Statistics Summary
 Voter Statistics
 Municipal Election

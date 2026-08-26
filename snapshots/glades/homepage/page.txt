@@ -97,10 +97,10 @@ Precinct District Assignments
 Public Notices
 [rotating image slideshow removed for determinism]
 Active Registered Voters as of 08/26/2026:
-Dem: 1,408
-Rep: 4,081
+Dem: 1,409
+Rep: 4,082
 Oth: 1,309
-Total: 6,798
+Total: 6,800
 Register to Vote
 Election Dates
 Polling Location

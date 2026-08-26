@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-26T09:42:46Z",
-  "html_sha256": "60d749958f9e29c4cb24fdaeada96e1e65b5fe8cf5797e31cba10d1719f77e25",
-  "text_sha256": "c745de1c200c6485fa5a36ccb42cfaae5ed7e6cdc2fcda06625ae8bacda1fba0",
-  "byte_size": 54966,
+  "fetched_at": "2026-08-26T12:54:14Z",
+  "html_sha256": "962bbcf56f65d717c0a58bdf70dc9c1b480ccf7ee08a90e7414b93dd50c88dec",
+  "text_sha256": "169ae726ff9fa0949d085b68ece170d4933eb6a1072b269ee072b7de9da77b88",
+  "byte_size": 54358,
   "title": "Access denied | Broward County Supervisor of Elections",
   "error": null
 }

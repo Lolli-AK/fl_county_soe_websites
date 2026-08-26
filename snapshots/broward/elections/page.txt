@@ -276,8 +276,6 @@ General Information
 Results & Information
 Election Information
 Election Results Information
-August Election Unofficial Voter Turnout
-August Election Unofficial Vote-by-Mail Data
 Voter Registration Statistics Summary
 Voter Statistics
 Municipal Election
@@ -325,16 +323,6 @@ If this is a new registration application, the date the completed application is
 If this is a new Florida application, you must be registered for at least
 29 days
 before you can vote in an election. If your application is complete and you are qualified as a voter, a voter information card will be mailed to you.
-ELECTION DATES FOR 2026
-Primary Elections - August 18, 2026
-Window to send vote-by-mail ballots to UOCAVA voters: July 4, 2026
-(Absent Stateside and Overseas Uniformed and Civilian Voters)(45 days before election)
-Window to send vote-by-mail ballots to domestic voters: July 9 – 16, 2026
-Window to register to vote (Book Closing) or change party affiliation: July 20, 2026
-Window to request that ballot be mailed: August 6, 2026
-The window to request that a vote-by-mail ballot be mailed is no later than 5:00 p.m. (local time) on the 12th day before the election.
-IMPORTANT: The window for a vote-by-mail ballot to be returned and received by the Supervisor of Elections Office is no later than 7:00 p.m. (local time) on Election Day.
-Early voting period: August 8 – 16, 2026 from 10:00 a.m. to 7:00 p.m.
 General Elections - November 3, 2026
 Window to send vote-by-mail ballots to UOCAVA voters: September 19, 2026
 (Absent Stateside and Overseas Uniformed and Civilian Voters)(45 days before election)
@@ -369,8 +357,6 @@ General Information
 Results & Information
 Election Information
 Election Results Information
-August Election Unofficial Voter Turnout
-August Election Unofficial Vote-by-Mail Data
 Voter Registration Statistics Summary
 Voter Statistics
 Municipal Election

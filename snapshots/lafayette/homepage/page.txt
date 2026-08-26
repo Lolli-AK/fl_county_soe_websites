@@ -236,7 +236,7 @@ Where Do I Vote?
 My Sample Ballot
 Lafayette County
 Supervisor of Elections
-Active Registered Voter: 08/24/2026
+Active Registered Voter: 08/26/2026
 Democrats:
 0
 Republicans:
@@ -307,6 +307,8 @@ Mayo, Fl 32066
 Branford, Fl 32008
 District Map
 News & Announcements
+August 26 - Canvassing Board Meeting @ 9:00 AM, convenes in SOE Office
+Submit Official Certification of Elections, Conduct Manual Audit and Certify results of the Audit to the Division of Elections.
 2026 Primary Election Sample Ballots
 Republican
 Non Partisan

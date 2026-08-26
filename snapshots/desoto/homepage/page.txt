@@ -106,9 +106,9 @@ Helpful Links
 [rotating image slideshow removed for determinism]
 Active Registered Voters as of 08/26/2026:
 Dem: 4,059
-Rep: 8,295
-Oth: 3,578
-Total: 15,932
+Rep: 8,298
+Oth: 3,576
+Total: 15,933
 Register to Vote
 Check My Status
 Vote by Mail
