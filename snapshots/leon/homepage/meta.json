@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-26T01:22:08Z",
-  "html_sha256": "c99fef0dbfc30638ede0cfebb8253d7bbc583a06fd5978db91f2a4d7dc0cb4ad",
+  "fetched_at": "2026-08-26T03:54:30Z",
+  "html_sha256": "dd1d41be577db92a417d56287024d61e999b316e8367562d6a1d0904ad82b07a",
   "text_sha256": "ec06424b65eb3a456e25fc4c993bb96ba5010da9e3ff9284bce75a630f4f91d3",
-  "byte_size": 115541,
+  "byte_size": 115461,
   "title": "Homepage of LeonVotes.gov - the website for the Leon County Supervisor of Elections Office",
   "error": null
 }
