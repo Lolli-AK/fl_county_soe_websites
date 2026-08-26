@@ -28,6 +28,11 @@
   <link href="/files/ocfavicon/Elections/site.webmanifest" rel="manifest"/>
  </head>
  <body class="body layout-modern site-search-always-visble content-type-oc-general content-template-oc-full-width-without-image group-template-oc-full-width-with-default-header page-name-election-results page-sequence-6 page-depth-2 page-section-4 website-type-primary device-desktop" id="body-top">
+  <div id="skip-to-content-container">
+   <a class="visuallyhidden focusable" href="#main-content" id="skip-to-content-link">
+    Skip to main content
+   </a>
+  </div>
   <form action="/Elections/Election-Results" id="mainForm" method="post" name="mainForm">
    <div>
     <input id="ctl04_seamless_script_manager_TSM" name="ctl04_seamless_script_manager_TSM" type="hidden"/>
@@ -43,11 +48,6 @@
    </div>
    <div class="background-container">
     <div class="page-container">
-     <div id="skip-to-content-container">
-      <a class="visuallyhidden focusable" href="#main-content" id="skip-to-content-link">
-       Skip to main content
-      </a>
-     </div>
      <header>
       <div class="toolbar-outer-container">
        <div class="toolbar-inner-container clearfix">
@@ -102,7 +102,7 @@
         <div class="toolbar-item toolbar-language notranslate toolbar-display-dropdown">
          <div class="no-js-element">
           <ul>
-           <li aria-selected="true" id="toolbar-language-option-en-us" role="option">
+           <li id="toolbar-language-option-en-us-noscript">
             <a class="lang-item lang-en-us" data-translate-to="en-us" href="https://www.flaglerelections.gov/Elections/Election-Results?oc_lang=en-US" lang="en-US">
              English
              <span class="visuallyhidden">
@@ -110,7 +110,7 @@
              </span>
             </a>
            </li>
-           <li aria-selected="false" id="toolbar-language-option-es" role="option">
+           <li id="toolbar-language-option-es-noscript">
             <a class="lang-item lang-es" data-translate-to="es" href="https://www.flaglerelections.gov/Elections/Election-Results?oc_lang=es" lang="en">
              Spanish
              <span class="visuallyhidden">
@@ -130,17 +130,17 @@
           </i>
          </button>
          <div aria-label="Available languages" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix" id="toolbar-language-drop-down" role="listbox">
-          <ul>
-           <li aria-selected="true" id="toolbar-language-option-en-us" role="option">
-            <a class="lang-item lang-en-us" data-translate-to="en-us" href="https://www.flaglerelections.gov/Elections/Election-Results?oc_lang=en-US" lang="en-US">
+          <ul role="group">
+           <li role="presentation">
+            <a aria-selected="true" class="lang-item lang-en-us" data-translate-to="en-us" href="https://www.flaglerelections.gov/Elections/Election-Results?oc_lang=en-US" id="toolbar-language-option-en-us" lang="en-US" role="option">
              English
              <span class="visuallyhidden">
               Select this as your preferred language
              </span>
             </a>
            </li>
-           <li aria-selected="false" id="toolbar-language-option-es" role="option">
-            <a class="lang-item lang-es" data-translate-to="es" href="https://www.flaglerelections.gov/Elections/Election-Results?oc_lang=es" lang="en">
+           <li role="presentation">
+            <a aria-selected="false" class="lang-item lang-es" data-translate-to="es" href="https://www.flaglerelections.gov/Elections/Election-Results?oc_lang=es" id="toolbar-language-option-es" lang="en" role="option">
              Spanish
              <span class="visuallyhidden">
               Select this as your preferred language
@@ -197,11 +197,11 @@
               <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/My-Voter-Info" target="">
                My Voter Info
               </a>
-              <button aria-controls="sc-menu-second-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-2" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
-              <ul id="sc-menu-second-level">
+              <ul id="sc-menu-second-level-nav-item-seq-2">
                <li class="">
                 <a class="" href="https://www.flaglerelections.gov/My-Voter-Info/Am-I-RANDOM-to-Vote" target="">
                  Am I Registered to Vote?
@@ -243,11 +243,11 @@
               <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/Elections" target="">
                Elections
               </a>
-              <button aria-controls="sc-menu-second-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-3" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
-              <ul id="sc-menu-second-level">
+              <ul id="sc-menu-second-level-nav-item-seq-3">
                <li class="">
                 <a class="" href="https://www.flaglerelections.gov/Elections/Upcoming-RANDOM-in-Flagler-County" target="">
                  Upcoming Elections in Flagler County
@@ -267,11 +267,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Elections/How-to-Vote" target="">
                  How to Vote
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-4" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-3-nav-item-seq-4">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Elections/How-to-Vote/Early-Voting" target="">
                    Early Voting
@@ -335,11 +335,11 @@
               <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/Candidates" target="">
                Candidates
               </a>
-              <button aria-controls="sc-menu-second-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-4" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
-              <ul id="sc-menu-second-level">
+              <ul id="sc-menu-second-level-nav-item-seq-4">
                <li class="">
                 <a class="" href="https://www.flaglerelections.gov/Candidates/Becoming-a-RANDOM" target="">
                  Becoming a Candidate
@@ -391,20 +391,20 @@
               <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM" target="">
                Get Involved
               </a>
-              <button aria-controls="sc-menu-second-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-5" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
-              <ul id="sc-menu-second-level">
+              <ul id="sc-menu-second-level-nav-item-seq-5">
                <li class="">
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/About-Us" target="">
                  About Us
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-1" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-1">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/About-Us/About-the-RANDOM-Office" target="">
                    About the Elections Office
@@ -436,11 +436,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Election-RANDOM" target="">
                  Election Security
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-2" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-2">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/Election-RANDOM/Election-RANDOM-Board" target="">
                    Election Canvassing Board
@@ -472,11 +472,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/News" target="">
                  News
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-3" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-3">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/News/Monthly-RANDOM" target="">
                    Monthly Newsletter
@@ -493,11 +493,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Legal-Notices" target="">
                  Legal Notices
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-4" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-4">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/Legal-Notices/Ballot-RANDOM-RANDOM" target="">
                    Ballot Material Inspection
@@ -519,11 +519,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Poll-Workers" target="">
                  Poll Workers
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-5" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-5">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/Poll-Workers/Become-a-Poll-Worker" target="">
                    Become a Poll Worker
@@ -535,11 +535,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Programs-and-Events" target="">
                  Programs and Events
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-6" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-6">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/Programs-and-Events/Adopt-a-RANDOM-Program" target="">
                    Adopt a Precinct
@@ -576,11 +576,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Research-Data" target="">
                  Research &amp; Data
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-7" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-7">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/Research-Data/Current-Elected-RANDOM" target="">
                    Current Elected Officials
@@ -612,11 +612,11 @@
                 <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Voter-RANDOM" target="">
                  Voter Education
                 </a>
-                <button aria-controls="sc-menu-third-level" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-8" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
-                <ul id="sc-menu-third-level">
+                <ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-8">
                  <li class="">
                   <a href="https://www.flaglerelections.gov/Get-RANDOM/Voter-RANDOM/2026-Voters-Guide" target="">
                    2026 Voter's Guide

@@ -1,153 +1,34 @@
-Baker County Supervisor of Elections � Civic Template
-Notice:
-Published Ineligible Voters Listing
-Baker County, Florida
-Supervisor of Elections
-Meet the Supervisor
-Voter Information
-Register to Vote
-Change My Address
-Voters’ Rights & Responsibilities
-Statistic Reports
-Initiative Petitions
-Vote-By-Mail
-Precinct Locations
-Early Voting
-Provisional Ballot Status
-Election Information
-Sample Ballots
-Voter Turnout
-Election Prep Reports
-Election Results Archive
-Precinct Finder
-Manual Audits
-Candidate Information
-Candidates & Profiles
-Financial Reports
-Becoming A Candidate
-Candidate Services
-Candidate Login
-Candidate Administration
-Committees
-Notices
-Languages
-Español
-Kreyòl Ayisyen
-Menu
-Meet the Supervisor
-Voter Information
-Register to Vote
-Change My Address
-Voters’ Rights & Responsibilities
-Statistic Reports
-Initiative Petitions
-Vote-By-Mail
-Precinct Locations
-Early Voting
-Provisional Ballot Status
-Election Information
-Sample Ballots
-Voter Turnout
-Election Prep Reports
-Election Results Archive
-Precinct Finder
-Manual Audits
-Candidate Information
-Candidates & Profiles
-Financial Reports
-Becoming A Candidate
-Candidate Services
-Candidate Login
-Candidate Administration
-Committees
-Notices
-Languages
-Español
-Kreyòl Ayis
-Quick Actions
-Register to Vote
-Register Today
-Vote-By-Mail
-Request / track
-Early Voting
-Dates & location
-Maps
-Districts & precincts
-Provisional Status
-Look up ballot
-Sample Ballots
-Whats on the ballot
-2026 Primary
-(8/18/2026)
-UNOFFICIAL RESULTS
-Chris Milton
-BAKER COUNTY SUPERVISOR OF ELECTIONS
-Voter Totals
-Democrats: 2,822
-Republicans: 12,682
-Other: 2,340
-Total: 17,844
-This is a breakdown of Baker County’s active registered voters by party affiliation. These numbers update as registrations are added or changed, offering an up-to-date look at who makes up our local voting community.
-Welcome
-I encourage you to browse through the various features of our website. With the help of this site, we hope to encourage citizen participation, enhance public confidence in the election process, and to educate citizens of all ages. I hope that you find this site beneficial and most helpful with all election questions and election needs. It is our desire to bring you as much information as possible about the voting process in an effort to help good citizens become good voting citizens. This site is a work in progress so if you have any questions or suggestions concerning this website please let us know.
-If I or my staff can be of any assistance to you, please feel free to call, e-mail, or visit the elections office at 32 N 5th St, Suite A. Our office hours are Monday - Friday 8:30am - 5:00pm
-With gratitude,
-Chris Milton
-Baker County Supervisor of Elections
-Official Notices
-Logic & Accuracy Test
-Pursuant to Florida Statutes 101.5612 the Logic and Accuracy Certification Board will conduct the logic and accuracy test of the automatic county equipment (for early voting, vote-by-mail, and for the equipment going to the polls) on July 29, 2026 at 9:00am. The test will be conducted for the August 18, 2026 Primary Election. The test will be held at the Baker County Supervisor of Elections Office, 32 N 5th Street, Macclenny, FL 32063.
-Key Dates & Deadlines
-2026 Primary Election
-Sample Ballot
-Registration Books Close:
-July 20, 2026
-Early Voting:
-August 8–15, 2026 • 8:30am-5:00pm
-Election Day:
-August 18, 2026 • 7am–7pm
-2026 General Election
-Registration Books Close:
-October 5, 2026
-Early voting:
-October 24–31, 2026 • 8:30am-5:00pm
-Election Day:
-November 3, 2026 • 7am–7pm
-Office of the Supervisor
-Proudly serving the voters of Baker County by providing accurate information, secure election services,
-and a welcoming environment where every voter is supported and valued.
-Meet the Supervisor
-Get to know the Supervisor of Elections who leads our office and oversees local election processes.
-Click below to learn about their experience, mission, and service to Baker County.
-Read bio
-Meet Our Staff
-Behind every election are the professionals who make it happen. Meet the staff members who assist
-voters, maintain records, and uphold the integrity of our elections.
-View staff
-Contact
-Office:
-32 N 5th St., Suite A, Macclenny FL 32063
-Hours:
-Monday – Friday, 8:30 AM – 5:00 PM
-Phone:
-(904) 259-6339
-Email:
-[email protected]
-Supervisor of Elections
-32 N 5th St, Suite A
-P.O. Box 505
-Macclenny, FL 32063
-Monday-Friday: 8:30am - 5:00pm
-P: 904.259.6339
-F: 904.259.2799
-[email protected]
-©
-County of Baker, Florida. All rights reserved.
-Voters
-Register to Vote
-Vote-By-Mail
-Early Voting
-Where Do I Vote?
-About
-Notices
-Disclaimer
+votebakerfl.gov | 521: Web server is down
+Web server is down
+Error code 521
+Visit
+cloudflare.com
+for more information.
+2026-08-26 06:51:57 UTC
+You
+Browser
+Working
+Los Angeles
+Cloudflare
+Working
+votebakerfl.gov
+Host
+Error
+What happened?
+The web server is not returning a connection. As a result, the web page is not displaying.
+What can I do?
+If you are a visitor of this website:
+Please try again in a few minutes.
+If you are the owner of this website:
+Contact your hosting provider letting them know your web server is not responding.
+Additional troubleshooting information
+.
+Cloudflare Ray ID:
+a310e935d8f0da41
+•
+Your IP:
+Click to reveal
+20.169.75.194
+•
+Performance & security by
+Cloudflare
