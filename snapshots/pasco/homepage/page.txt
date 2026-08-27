@@ -202,9 +202,6 @@ Election Dates
 Election
 Book Closing Date
 Election Date
-Primary Election 2026
-July 20, 2026
-August 18, 2026
 General Election 2026
 October 05, 2026
 November 03, 2026
@@ -233,6 +230,9 @@ Democratic:
 No Party:
 Minor Party:
 Total
+Vote By Mail Requests
+To request a vote by mail ballot for the upcoming 2026 General Election, visit https://pascovotes.gov/VBM_Request
+Close
 Share this page
 Share this page
 Close

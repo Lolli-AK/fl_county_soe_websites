@@ -1,4 +1,5 @@
 Monroe County FL Supervisor of Elections > Elections > Upcoming Elections
+Press Option+1 for screen-reader mode, Option+0 to cancel
 Skip Navigation
 Official government website
 Search
@@ -339,9 +340,6 @@ Upcoming Elections
 Election Dates
 On Election Day Polls open at 7:00 am - 7:00 pm.
 2026 Election Dates
-Primary
-08/18/2026
-Book Closing is July 20, 2026
 General
 11/03/2026
 Book Closing is October 5, 2026

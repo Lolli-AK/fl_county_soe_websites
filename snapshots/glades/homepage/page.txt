@@ -37,6 +37,7 @@ Precinct Map
 Precinct Shape Files
 Precinct District Assignments
 Public Notices
+Voting System Post-Election Audit Report
 Meet Your Supervisor
 Registration Information
 How to Register
@@ -66,6 +67,7 @@ Precinct Map
 Precinct Shape Files
 Precinct District Assignments
 Public Notices
+Voting System Post-Election Audit Report
 Meet Your Supervisor
 Registration Information
 How to Register
@@ -95,12 +97,13 @@ Precinct Map
 Precinct Shape Files
 Precinct District Assignments
 Public Notices
+Voting System Post-Election Audit Report
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 08/26/2026:
-Dem: 1,409
-Rep: 4,082
-Oth: 1,309
-Total: 6,800
+Active Registered Voters as of 08/27/2026:
+Dem: 1,410
+Rep: 4,084
+Oth: 1,311
+Total: 6,805
 Register to Vote
 Election Dates
 Polling Location

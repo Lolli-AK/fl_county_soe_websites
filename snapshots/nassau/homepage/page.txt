@@ -93,12 +93,6 @@ Register here
 Honor a Veteran
 Learn more
 2026 Election Countdown
-Primary Election
-Days
-Hours
-Minutes
-Seconds
-Countdown finished!
 General Election
 Days
 Hours
@@ -192,8 +186,6 @@ Under Florida law, email addresses are public records. If you do not want your e
 Privacy Policy
 |
 Terms of Service
-|
-Disclaimer
 |
 Cookie Policy
 Official websites use .gov

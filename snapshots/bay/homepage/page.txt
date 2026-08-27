@@ -164,15 +164,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(08/26/2026)
+(08/27/2026)
 Democrats
-23,652
+23,659
 Republicans
-74,756
+74,776
 Other
-28,855
+28,860
 Total
-127,263
+127,295
 Upcoming Elections
 All Upcoming Elections
 General Election
@@ -194,14 +194,10 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 1 day ago
-🗳️ 2026 PRIMARY ELECTION — BAY COUNTY VOTER TURNOUT
-📊 COUNTYWIDE VOTER TURNOUT: 26.6%
-⭐TOP 3 PRECINCTS BY VOTER TURNOUT
-🥇Precinct 19 — 36.7%
-🥈Precinct 6 — 36.5%
-🥉Precinct 26 — 35.3%
-👏To everyone who participated in the 2026 Primary Election — THANK YOU!
+posted 4 hours ago
+Interested in joining our team for the 2026 General Election? Election workers play an important role in helping ensure a smooth, secure, and successful Election.
+Learn more about available positions, training, and how to apply here:
+https://www.bayvotesfl.gov/about/election-workers/
 View Facebook Post
 (opens in a new tab)
 Public Notices

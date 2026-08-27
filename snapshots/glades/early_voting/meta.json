@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-26T16:18:44Z",
-  "html_sha256": "6bc65b315d65aec18cf19479f68eb7968fcae7948f747c4836f37cabe55b84a9",
-  "text_sha256": "d80382811bd670ed88f121b8cba081a249e8a98928b7ddf1375cba6e7e43ec83",
-  "byte_size": 64460,
+  "fetched_at": "2026-08-27T18:29:36Z",
+  "html_sha256": "9f318646919dde3ad6e1f0208109057a2e10a2e611958bf964bc3d9fc5ade8d4",
+  "text_sha256": "827c9c360af28ac65337c9e8f829e2e4d1880f2c96372e330be87ec2221571ac",
+  "byte_size": 65461,
   "title": "Early Voting – Glades, FL",
   "error": null
 }

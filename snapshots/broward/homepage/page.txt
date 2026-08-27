@@ -377,7 +377,7 @@ Notice of General Election in
 English
 /
 Spanish
-Notice of Book Closing for Primary Election to be held on August 18, 2026
+Notice of Book Closing for General Election to be held on November 3, 2026
 Important Information to Voters
 Voter Participation Center (VPC) or Center for Voter Information (CVI) Mailers
 View the 2026 Congressional Redistricting Interactive Map
@@ -389,16 +389,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-8/26/26
-1,360,571
+8/27/26
+1,360,589
 Eligible Voters
-590,672
+590,728
 Democrat
-315,545
+315,591
 Republican
-418,003
+417,930
 NPA
-36,351
+36,340
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.

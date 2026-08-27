@@ -94,15 +94,15 @@ Track My Ballot
 Early Voting
 Voting Locations
 Voter Totals
-as of: 08/26/2026
+as of: 08/27/2026
 Democrats
-5,108
+5,110
 Republicans
-17,271
+17,276
 Other
-4,426
+4,431
 Total
-26,805
+26,817
 Upcoming Elections
 Nov 3, 2026
 General Election
@@ -125,9 +125,9 @@ Early Voting: General Election
 All Upcoming Dates
 Announcements
 View all News & Announcements
-August 21, 2026
+August 27, 2026
 General Canvassing Board Schedule
-2026 General Canvassing Schedule
+View the Canvassing Board Schedule for 2026 by downloading the PDF below.
 Read Full Announcement
 August 3, 2026
 General Election Preparation Report

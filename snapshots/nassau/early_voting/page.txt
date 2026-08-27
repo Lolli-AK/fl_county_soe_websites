@@ -73,7 +73,7 @@ Elections
 /
 Early Voting
 Early Voting gives you the flexibility to vote when and where it's most convenient for you. Early Voting is available from
-August 6 - 15, 2026 from 9 AM - 6 PM
+﻿
 October 22- 31, 2026 from 9 AM - 6PM
 As long as you're registered to vote in Nassau County, you can vote in any Early Voting site we have open. This is different from Election Day voting, when you must vote in the polling place assigned to your precinct.
 What to Bring To The Voting Site
@@ -114,8 +114,6 @@ Under Florida law, email addresses are public records. If you do not want your e
 Privacy Policy
 |
 Terms of Service
-|
-Disclaimer
 |
 Cookie Policy
 Official websites use .gov

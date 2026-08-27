@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-26T16:18:44Z",
-  "html_sha256": "cf0910780137b8d38c46e2e827502ca361c1016eef3187611d7db6bf1b5cf4a6",
-  "text_sha256": "8c6919da33642573410ff76b4146716e163a580ec614a7f09a079b4f0b2b492e",
-  "byte_size": 63285,
+  "fetched_at": "2026-08-27T18:29:36Z",
+  "html_sha256": "63040eac0d8dad597c5f598e1a518535d45a54401a6ee6362923a018bfb50561",
+  "text_sha256": "edc8359cf5010aa89cc05df2e0d8445b4543a0131156684a1cc470e43f297f98",
+  "byte_size": 64551,
   "title": "Past Election Results – DeSoto, FL",
   "error": null
 }
