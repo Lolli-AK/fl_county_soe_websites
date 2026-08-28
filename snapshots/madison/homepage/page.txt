@@ -159,13 +159,13 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 08/27/2026
+Voter Totals as of: 08/28/2026
 Democrats
-3,844
+3,845
 Republicans
 5,281
 Other
-1,344
+1,343
 Total
 10,469
 Upcoming Elections
@@ -193,10 +193,6 @@ View all News & Announcements
 July 6, 2026
 OFFICE CLOSURE
 Our office will be closed on Monday, September 7th in observance of Labor Day.
-Read Full Announcement
-May 6, 2026
-Amended Notice of General Election
-English Español
 Read Full Announcement
 March 30, 2026
 Active Petition Signature Verification Report

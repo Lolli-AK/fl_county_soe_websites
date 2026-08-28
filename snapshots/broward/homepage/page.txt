@@ -347,7 +347,7 @@ Request Your Vote-By-Mail Ballot
 Vote from the comfort of your home. Request your ballot early to ensure you have time to complete and return it.
 Request Ballot
 Election Information
-Key information about the November 3, 2026 election, including registration deadline and important dates.
+Key information about the November 3, 2026 Election, including registration deadline and important dates.
 View Election Info
 Announcements
 November 3, 2026 Election – Canvassing Board
@@ -389,16 +389,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-8/27/26
-1,360,589
+8/28/26
+1,360,584
 Eligible Voters
-590,728
+590,746
 Democrat
-315,591
+315,617
 Republican
-417,930
+417,867
 NPA
-36,340
+36,354
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.

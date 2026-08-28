@@ -45,12 +45,14 @@ Poll Watchers
 Initiative Petitions
 Candidates
 Candidates
+Candidate Information
 Becoming a Candidate
-List of Candidates
-Candidate File Distribution
-Candidate Reporting Dates
 Candidate Handbook
 History Request Form
+List of Candidates
+Finance & Reporting
+Candidate File Distribution
+Candidate Reporting Dates
 Login to Finance Reporting
 Resources
 Resources
@@ -116,12 +118,14 @@ Poll Workers
 Poll Watchers
 Initiative Petitions
 Candidates
+Candidate Information
 Becoming a Candidate
-List of Candidates
-Candidate File Distribution
-Candidate Reporting Dates
 Candidate Handbook
 History Request Form
+List of Candidates
+Finance & Reporting
+Candidate File Distribution
+Candidate Reporting Dates
 Login to Finance Reporting
 Resources
 Your County
@@ -165,15 +169,15 @@ Early Voting
 (opens in a new tab)
 Voting Locations
 (opens in a new tab)
-Active Registered Voters (08/27/2026)
+Active Registered Voters (08/28/2026)
 Democrats
 1,482
 Republicans
-4,997
+4,998
 Other
-820
+821
 Total
-7,299
+7,301
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections

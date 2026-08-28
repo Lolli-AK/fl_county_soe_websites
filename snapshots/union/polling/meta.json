@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-27T18:29:36Z",
-  "html_sha256": "645f2b288bcce20f54aa06f52b483f1ef460e8ea476ece78a9026bc8a28a21ac",
-  "text_sha256": "63003c5ce577451a40ba90607fc97a858eab3c679b5ea7070bfee0de92aebb35",
-  "byte_size": 71336,
+  "fetched_at": "2026-08-28T19:45:10Z",
+  "html_sha256": "9b1005a67f0991a852976423d4a8d3d2caa55baceddb7d685df673f01381da3f",
+  "text_sha256": "e4fa0491287c5e8bc3df132d1378ff8f8516d355ebd55f08228d69069e4b6500",
+  "byte_size": 73866,
   "title": "Voting Locations | Union County Supervisor of Elections",
   "error": null
 }

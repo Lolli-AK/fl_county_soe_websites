@@ -163,13 +163,13 @@ Request a Mail Ballot
 Get Started
 Mary Jane Arrington
 Learn More
-82,391
+82,381
 Democrats
-70,461
+70,455
 Republicans
-80,441
+80,435
 Other Parties
-233,293
+233,271
 Total Registered
 Active Registered Voters
 Active Registered Voters as of 10/5/25

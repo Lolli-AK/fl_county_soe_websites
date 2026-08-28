@@ -152,11 +152,11 @@ FL Association of SOE
 FL Commission on Ethics
 Santa Rosa County
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 08/27/2026:
-Dem: 20,699
-Rep: 91,424
-Oth: 30,717
-Total: 142,840
+Active Registered Voters as of 08/28/2026:
+Dem: 20,702
+Rep: 91,446
+Oth: 30,726
+Total: 142,874
 Register to Vote/Update Voter Information
 My Status/Sample Ballots
 Vote By Mail
@@ -171,6 +171,7 @@ Tappie A. Villane, Supervisor of Elections Santa Rosa County
 2026 Primary Election Results
 2026 Primary Audit Notice
 2026 Primary Audit
+Notice of Candidate Withdrawal
 Notice of General Election
 Voter Status Checklist
 Canvassing Board Calendar
