@@ -159,15 +159,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 08/28/2026
+Voter Totals as of: 08/29/2026
 Democrats
-3,845
+3,844
 Republicans
 5,281
 Other
 1,343
 Total
-10,469
+10,468
 Upcoming Elections
 Nov 3, 2026 7:00am
 General Election
@@ -190,6 +190,10 @@ Early Voting: General Election
 All Upcoming Dates
 Election News
 View all News & Announcements
+August 28, 2026
+2026 General Election Preparation Report per F.S. 100.032
+Florida Statute 100.032 requires every county supervisor of elections to post an election preparation report…
+Read Full Announcement
 July 6, 2026
 OFFICE CLOSURE
 Our office will be closed on Monday, September 7th in observance of Labor Day.

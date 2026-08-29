@@ -1,9 +1,5 @@
 Homepage of LeonVotes.gov - the website for the Leon County Supervisor of Elections Office
 Skip to content
-On Monday, August 24, the Leon County Canvassing Board completed the manual recount of the City Commission, Seat 3 race, as well as certified the official results of the 2026 Primary Election.
-Please view the public notice for additional information
-.
-Dismiss
 Leon County
 Supervisor
 of Elections
@@ -128,15 +124,15 @@ Mark S. Earley
 Supervisor of Elections
 Leon County
 Active Registered Voters as of:
-2026-08-28
+2026-08-29
 Democratic
-87,258
+87,279
 Republican
-54,544
+54,550
 Others
-41,191
+41,193
 Total
-182,993
+183,022
 Leon County Supervisor of Elections
 August 18 Primary Election Official Results
 To view the official election results, visit our Election Results page by clicking the link below.
