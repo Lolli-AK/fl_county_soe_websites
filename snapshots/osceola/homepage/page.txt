@@ -167,9 +167,9 @@ Learn More
 Democrats
 70,455
 Republicans
-80,435
+80,434
 Other Parties
-233,271
+233,270
 Total Registered
 Active Registered Voters
 Active Registered Voters as of 10/5/25
