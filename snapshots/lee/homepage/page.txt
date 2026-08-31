@@ -60,7 +60,6 @@ Lee County Elections Facts
 Municipal Elections Schedule
 Offices to Be Elected
 Precincts and Polling Places
-Proposed Ballot Measures
 Sample Ballots
 Voting ID Requirements
 What's on My Ballot?
@@ -86,7 +85,6 @@ Notices and Mailings
 Canvassing Board
 Petition Signature Notice
 Potentially Ineligible Voters
-Public Notices
 Recent Mailings
 Poll Worker Information
 Become a Poll Worker

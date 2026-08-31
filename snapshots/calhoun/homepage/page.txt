@@ -605,6 +605,7 @@ Provisional Ballot Status
 2026 General Election Preparation Report
 2026 Offices Up for Election
 Election Dates
+2026 Primary Manual Audit Report
 Election Results Archived 1988-2008
 Election Results Archive
 Election Workers
@@ -631,6 +632,7 @@ Provisional Ballot Status
 2026 General Election Preparation Report
 2026 Offices Up for Election
 Election Dates
+2026 Primary Manual Audit Report
 Election Results Archived 1988-2008
 Election Results Archive
 Election Workers
@@ -851,7 +853,7 @@ Track My Mail Ballot
 Division of Elections
 Where Do I Vote?
 Active Registered Voters
-As of 08/28/2026
+As of 08/31/2026
 Democrats
 0
 Republicans

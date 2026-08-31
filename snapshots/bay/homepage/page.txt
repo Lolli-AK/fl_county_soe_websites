@@ -164,15 +164,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(08/29/2026)
+(08/31/2026)
 Democrats
 23,672
 Republicans
-74,809
+74,812
 Other
 28,873
 Total
-127,354
+127,357
 Upcoming Elections
 All Upcoming Elections
 General Election
@@ -194,7 +194,7 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 2 days ago
+posted 4 days ago
 Interested in joining our team for the 2026 General Election? Election workers play an important role in helping ensure a smooth, secure, and successful Election.
 Learn more about available positions, training, and how to apply here:
 https://www.bayvotesfl.gov/about/election-workers/

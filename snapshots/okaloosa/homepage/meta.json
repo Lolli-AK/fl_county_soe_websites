@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-30T13:24:16Z",
-  "html_sha256": "86bcd6e56ff68c871131e8ae60e5a03e6724b5d00726219c3d722fa3eae28a33",
-  "text_sha256": "3fbcc92a234deeb55acbeb1775496e1f347a38003359a361e519b960ad16fc7e",
-  "byte_size": 93948,
+  "fetched_at": "2026-08-31T15:38:43Z",
+  "html_sha256": "5b8cb43bc37fae0b48b0c12f0a856655c852c46170d4cfdf5b93c9eb2af5d63f",
+  "text_sha256": "eb473a47bf1cb436ae4ee117724626e8649eb06b7388a60a21d9390af3c59736",
+  "byte_size": 94017,
   "title": "Okaloosa County Supervisor of Elections",
   "error": null
 }
