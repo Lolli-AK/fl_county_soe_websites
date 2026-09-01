@@ -69,12 +69,13 @@ reason in `notes`.
 
 ## Coverage
 
-**67 counties · 335 manifest rows · 314 pages captured · 21 recorded gaps.**
+**67 counties · 402 manifest rows · 372 pages captured · 30 recorded gaps.**
 
 | page type | captured | why the rest are gaps |
 |---|---|---|
 | `homepage` | **67 / 67** | — every county has one |
 | `elections` | **64 / 67** | Baker, Lafayette and Escambia publish election info on the SOE homepage itself, with no distinct landing page |
+| `voter_registration` | **58 / 67** | the nine hand registration to `registertovoteflorida.gov` and publish no page of their own — the statewide-portal rule rejects it, as it does everywhere else |
 | `polling` | **65 / 67** | folded into the elections page, or published only as a per-election PDF |
 | `early_voting` | **61 / 67** | a few counties publish early voting only inside a per-election page, or not as HTML |
 | `results` | **57 / 67** | smaller counties post returns as PDFs, or link the statewide portal (rejected — see below) |
@@ -83,9 +84,9 @@ Per-county completeness — the inverse of Texas's shape:
 
 | pages captured | counties |
 |---|---|
-| 5 / 5 | **50** |
-| 4 / 5 | 13 |
-| 3 / 5 | 4 |
+| 6 / 6 | **44** |
+| 5 / 6 | 16 |
+| 4 / 6 | 7 |
 
 50 of 67 counties are complete because an SOE office exists only to run elections, so
 it publishes polling, early voting and results as standing pages. In Texas the

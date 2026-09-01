@@ -182,12 +182,33 @@ def main() -> None:
         want = {c.lower() for c in args.county}
         todo = {c: a for c, a in todo.items() if c.lower() in want}
 
+    # Results are written as they land, not collected and written at the end,
+    # and completion order is used rather than pool.map's input order. Both for
+    # the same reason: one county that never returns should cost that county,
+    # not the run. A 254-county sweep once sat blocked on its last six with
+    # everything else finished and nothing on disk to show for it.
     rows: list[dict] = []
-    with cf.ThreadPoolExecutor(max_workers=args.workers) as pool:
-        for r in pool.map(lambda kv: discover_one(*kv), sorted(todo.items())):
-            rows.append(r)
-            log.info("%-14s %s", r["county"], r["url"] or r["notes"][:70])
+    DRAFT.parent.mkdir(parents=True, exist_ok=True)
+    with DRAFT.open("w", newline="", encoding="utf-8") as fh:
+        w = csv.DictWriter(fh, fieldnames=FIELDS)
+        w.writeheader()
+        with cf.ThreadPoolExecutor(max_workers=args.workers) as pool:
+            futures = {pool.submit(discover_one, c, a): c
+                       for c, a in sorted(todo.items())}
+            for fut in cf.as_completed(futures):
+                county = futures[fut]
+                try:
+                    r = fut.result()
+                except Exception as exc:  # noqa: BLE001
+                    log.warning("%-14s crawl raised %s", county, type(exc).__name__)
+                    continue
+                rows.append(r)
+                w.writerow(r)
+                fh.flush()
+                log.info("%-14s %s", r["county"], r["url"] or r["notes"][:70])
 
+    # Rewrite in county order now that everything is in; the streamed file was
+    # in completion order, which is not a stable thing to diff.
     rows.sort(key=lambda r: r["county"])
     with DRAFT.open("w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=FIELDS)
