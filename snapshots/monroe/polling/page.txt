@@ -697,8 +697,6 @@ Polling Place changes
 Upcoming Elections
 View Upcoming Elections
 Dates to Remember
-Manual Audit
-8/26/2026
 Labor Day - All Offices Closed
 9/5/2026 - 9/7/2026
 Columbus Day - All Offices Closed
@@ -721,6 +719,8 @@ Canvass Overseas Ballots & Signatures for Final Returns
 11/13/2026
 Pull Race & Precinct
 11/13/2026
+Manual Audit
+11/18/2026
 View All
 The Honorable Sherri Hodies
 Supervisor of Elections,

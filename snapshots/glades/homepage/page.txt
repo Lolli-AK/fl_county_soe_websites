@@ -99,11 +99,11 @@ Precinct District Assignments
 Public Notices
 Voting System Post-Election Audit Report
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 08/31/2026:
-Dem: 1,408
+Active Registered Voters as of 09/01/2026:
+Dem: 1,407
 Rep: 4,087
 Oth: 1,313
-Total: 6,808
+Total: 6,807
 Register to Vote
 Election Dates
 Polling Location
@@ -132,7 +132,7 @@ Test
 «
 »
 MONTH OF
-AUGUST
+SEPTEMBER
 2026
 Sunday
 Monday
@@ -145,192 +145,81 @@ Saturday
 2
 3
 4
-1
 5
 6
-1
 7
 1
 8
 1
-Candidate Rally-Buckhead Ridge Community Center
-08/04/2026 - 08/04/2026
-7:00 PM
-Brighton Reservation Political Rally 5:30 PM for Dinner/6:30 PM for Rally
-08/06/2026 - 08/06/2026
-5:30 PM - 8:30 PM
-800 Harney Pond Rd., Okeechobee, FL 34974
-P6 Candidate Report Due
-8/7/2026 - 8/7/2026
-Early Voting 8:30 AM - 4:30 PM
-08/08/2026 - 08/15/2026
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-Early Voting will take place at the Rear Entrance of the Elections Office.
 9
-1
 10
 1
 11
-2
+1
 12
-1
-13
-2
-14
-3
-15
-1
-Early Voting 8:30 AM - 4:30 PM
-08/08/2026 - 08/15/2026
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-Early Voting will take place at the Rear Entrance of the Elections Office.
-Early Voting 8:30 AM - 4:30 PM
-08/08/2026 - 08/15/2026
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-Early Voting will take place at the Rear Entrance of the Elections Office.
-Early Voting 8:30 AM - 4:30 PM
-08/08/2026 - 08/15/2026
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-Early Voting will take place at the Rear Entrance of the Elections Office.
+Labor Day-Office Closed
+9/7/2026 - 9/7/2026
 Lakeport Community Assoc. Mtg. & Potluck
-08/11/2026 - 08/11/2026
+09/08/2026 - 09/08/2026
 6:00 PM
 1239 Red Barn Rd. Moore Haven, FL 33471
-Early Voting 8:30 AM - 4:30 PM
-08/08/2026 - 08/15/2026
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-Early Voting will take place at the Rear Entrance of the Elections Office.
-Early Voting 8:30 AM - 4:30 PM
-08/08/2026 - 08/15/2026
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-Early Voting will take place at the Rear Entrance of the Elections Office.
-Muse Community Association Mtg. **Canceled for Summer**
-08/13/2026 - 08/13/2026
+Muse Community Association Mtg.
+09/10/2026 - 09/10/2026
 6:00 PM
 3897 LOBLOLLY BAY RD, LABELLE, FL 33935
-P7 Candidate Report Due
-8/14/2026 - 8/14/2026
-P7 Political Committee Report Due
-8/14/2026 - 8/14/2026
-Early Voting 8:30 AM - 4:30 PM
-08/08/2026 - 08/15/2026
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-Early Voting will take place at the Rear Entrance of the Elections Office.
-Early Voting 8:30 AM - 4:30 PM
-08/08/2026 - 08/15/2026
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-Early Voting will take place at the Rear Entrance of the Elections Office.
+G2 Candidate Report Due
+9/11/2026 - 9/11/2026
+13
+14
+15
 16
 17
 18
-1
 19
 20
 21
-1
 22
-PRIMARY ELECTION DAY
-08/18/2026 - 08/18/2026
-7:00 AM - 7:00 PM
-Voting at YOUR precinct 7:00 AM - 7:00 PM
-Public Recount of the Moore Haven City Council Race
-08/21/2026 - 08/21/2026
-10:00 AM
-998 S US Hwy 27 Moore Haven, FL 33471
+1
 23
 24
 25
 1
 26
-27
-28
-1
-29
 BHR Community Meeting & Potluck
-08/25/2026 - 08/25/2026
+09/22/2026 - 09/22/2026
 6:00 PM
 30076 E SR 78 Okeechobee, FL 34974
-G1 Candidate Report Due
-8/28/2026 - 8/28/2026
+G3 Candidate Report Due
+9/25/2026 - 9/25/2026
+27
+28
+29
 30
-31
 Event Type:
 All Events
 Test
 «
 »
-August
+September
 2026
-August 4, 2026
-Candidate Rally-Buckhead Ridge Community Center
-7:00 PM
-August 6, 2026
-Brighton Reservation Political Rally 5:30 PM for Dinner/6:30 PM for Rally
-5:30 PM - 8:30 PM
-800 Harney Pond Rd., Okeechobee, FL 34974
-August 7, 2026
-P6 Candidate Report Due
-August 8, 2026
-Early Voting 8:30 AM - 4:30 PM
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-August 9, 2026
-Early Voting 8:30 AM - 4:30 PM
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-August 10, 2026
-Early Voting 8:30 AM - 4:30 PM
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-August 11, 2026
-Early Voting 8:30 AM - 4:30 PM
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
+September 7, 2026
+Labor Day-Office Closed
+September 8, 2026
 Lakeport Community Assoc. Mtg. & Potluck
 6:00 PM
 1239 Red Barn Rd. Moore Haven, FL 33471
-August 12, 2026
-Early Voting 8:30 AM - 4:30 PM
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-August 13, 2026
-Early Voting 8:30 AM - 4:30 PM
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-Muse Community Association Mtg. **Canceled for Summer**
+September 10, 2026
+Muse Community Association Mtg.
 6:00 PM
 3897 LOBLOLLY BAY RD, LABELLE, FL 33935
-August 14, 2026
-P7 Candidate Report Due
-P7 Political Committee Report Due
-Early Voting 8:30 AM - 4:30 PM
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-August 15, 2026
-Early Voting 8:30 AM - 4:30 PM
-8:30 AM - 4:30 PM
-998 S HWY 27, Moore Haven, FL 33471
-August 18, 2026
-PRIMARY ELECTION DAY
-7:00 AM - 7:00 PM
-August 21, 2026
-Public Recount of the Moore Haven City Council Race
-10:00 AM
-998 S US Hwy 27 Moore Haven, FL 33471
-August 25, 2026
+September 11, 2026
+G2 Candidate Report Due
+September 22, 2026
 BHR Community Meeting & Potluck
 6:00 PM
 30076 E SR 78 Okeechobee, FL 34974
-August 28, 2026
-G1 Candidate Report Due
+September 25, 2026
+G3 Candidate Report Due
 View All
 CONNECT WITH US!
 Glades County, FL Elections

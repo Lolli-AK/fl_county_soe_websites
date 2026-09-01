@@ -107,11 +107,11 @@ Campaign Finance Login
 Contact Us
 Helpful Links
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 08/31/2026:
-Dem: 4,059
+Active Registered Voters as of 09/01/2026:
+Dem: 4,060
 Rep: 8,301
 Oth: 3,578
-Total: 15,938
+Total: 15,939
 Register to Vote
 Check My Status
 Vote by Mail
@@ -131,7 +131,7 @@ EVENTS
 «
 »
 MONTH OF
-AUGUST
+SEPTEMBER
 2026
 Sunday
 Monday
@@ -147,127 +147,38 @@ Saturday
 5
 6
 7
+1
 8
-1
-Early Voting (Primary Election)
-08/08/2026 - 08/15/2026
 9
-1
 10
-1
 11
-1
 12
-1
+Office closed in Observance of Labor Day
+09/07/2026 - 09/07/2026
 13
-1
 14
-2
 15
-1
-Early Voting (Primary Election)
-08/08/2026 - 08/15/2026
-Early Voting (Primary Election)
-08/08/2026 - 08/15/2026
-Early Voting (Primary Election)
-08/08/2026 - 08/15/2026
-Early Voting (Primary Election)
-08/08/2026 - 08/15/2026
-Early Voting (Primary Election)
-08/08/2026 - 08/15/2026
-Early Voting (Primary Election)
-08/08/2026 - 08/15/2026
-Canvassing Vote-By-Mail
-08/14/2026 - 08/14/2026
-4:00 P.M.
-DeSoto BOCC, 201 E Oak St. Arcadia FL 34266
-Early Voting (Primary Election)
-08/08/2026 - 08/15/2026
 16
 17
-1
 18
-3
 19
 20
-1
 21
 22
-Canvassing Vote-By-Mail
-08/17/2026 - 08/17/2026
-4:00 P.M.
-DeSoto BOCC, 201 E Oak St. Arcadia FL 34266
-Primary Election
-08/18/2026 - 08/18/2026
-Canvassing Vote-By-Mail
-08/18/2026 - 08/18/2026
-5:00 P.M.
-DeSoto BOCC, 201 E Oak St. Arcadia FL 34266
-Canvass Vote-By-Mail
-08/18/2026 - 08/18/2026
-7:00 P.M.
-DeSoto BOCC, 201 E Oak St. Arcadia FL 34266
-Canvass Vote-By-Mail Cures & Provisional Ballots
-08/20/2026 - 08/20/2026
-4:00 P.M.
-DeSoto BOCC, 201 E Oak St. Arcadia FL 34266
 23
 24
 25
-1
 26
 27
 28
 29
-Official Audit
-08/25/2026 - 08/25/2026
-10:00 A.M.
-DeSoto BOCC, 201 E Oak St. Arcadia FL 34266
 30
-31
 «
 »
-August
+September
 2026
-August 8, 2026
-Early Voting (Primary Election)
-August 9, 2026
-Early Voting (Primary Election)
-August 10, 2026
-Early Voting (Primary Election)
-August 11, 2026
-Early Voting (Primary Election)
-August 12, 2026
-Early Voting (Primary Election)
-August 13, 2026
-Early Voting (Primary Election)
-August 14, 2026
-Early Voting (Primary Election)
-Canvassing Vote-By-Mail
-4:00 P.M.
-DeSoto BOCC, 201 E Oak St. Arcadia FL 34266
-August 15, 2026
-Early Voting (Primary Election)
-August 17, 2026
-Canvassing Vote-By-Mail
-4:00 P.M.
-DeSoto BOCC, 201 E Oak St. Arcadia FL 34266
-August 18, 2026
-Primary Election
-Canvassing Vote-By-Mail
-5:00 P.M.
-DeSoto BOCC, 201 E Oak St. Arcadia FL 34266
-Canvass Vote-By-Mail
-7:00 P.M.
-DeSoto BOCC, 201 E Oak St. Arcadia FL 34266
-August 20, 2026
-Canvass Vote-By-Mail Cures & Provisional Ballots
-4:00 P.M.
-DeSoto BOCC, 201 E Oak St. Arcadia FL 34266
-August 25, 2026
-Official Audit
-10:00 A.M.
-DeSoto BOCC, 201 E Oak St. Arcadia FL 34266
+September 7, 2026
+Office closed in Observance of Labor Day
 View All
 CONNECT WITH US!
 DeSoto County, FL Elections

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-31T15:38:43Z",
-  "html_sha256": "79cfd95220c60e2d9395605d70faab3e7fd98541a2cc024d1f2eda9d65766db7",
-  "text_sha256": "d4bac20e4b4ca6b7eaf37787e7a0cc605b424520d565b2b8f6d46ee735ccd50a",
-  "byte_size": 108881,
+  "fetched_at": "2026-09-01T12:51:58Z",
+  "html_sha256": "1dcc92c020edd6e1424d539631d1be391461a79f6e6226faeb9ce2af755e05bc",
+  "text_sha256": "c79bdb47246d7bcf997d058909bc432d5311971d2e40abc9242ee2bf420df0dd",
+  "byte_size": 112710,
   "title": "Lake County Elections, FL | Official Website",
   "error": null
 }

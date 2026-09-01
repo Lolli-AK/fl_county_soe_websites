@@ -215,6 +215,11 @@ document seq
 General Election 2000 results
 document seq
 0.00
+Manual Audit
+1 document
+2026 Primary Election
+document seq
+0.00
 Contact Us
 112 S Main Street, RM 137 Trenton, FL 32693
 352.463.3194

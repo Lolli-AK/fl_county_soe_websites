@@ -125,15 +125,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 07/30/2026
+Voter Totals as of: 09/01/2026
 Democrats
-3,793
+3,818
 Republicans
-4,729
+4,762
 Other
-1,387
+1,402
 Total
-9,909
+9,982
 Upcoming Elections
 Nov 3, 2026
 General Election
@@ -154,6 +154,10 @@ Book Closing Date for the General Election.
 All Upcoming Dates
 Election News
 View all News & Announcements
+August 31, 2026
+Office Closure this Monday, September 7
+Office Closure this Monday, September 7 in observance of Labor Day. Our office will reopen…
+Read Full Announcement
 August 25, 2026
 Public Notice - Post Election Audit
 The Post-Election Audit for the 2026 Primary will take place at the Supervisor of Elections…
@@ -161,10 +165,6 @@ Read Full Announcement
 August 20, 2026
 Public Notice - Meeting
 The Jefferson County Canvassing Board will meet at 10:00 a.m. on Friday, August 21, 2026,…
-Read Full Announcement
-August 9, 2026
-2026 General Election Preparation Report per F.S. 100.032
-Florida Statute 100.032 requires every county supervisor of elections to post an election preparation report…
 Read Full Announcement
 View all News & Announcements
 Latest News

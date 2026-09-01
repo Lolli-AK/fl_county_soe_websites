@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-31T15:38:43Z",
-  "html_sha256": "f3779924ff6e04cb83271727a9d37c707f8d4338bea5054aeea4772f9e670879",
-  "text_sha256": "5c89a8bca80d653f1451f4b9350dbf80e29c03972c2247a32796c6916c8951cb",
-  "byte_size": 108532,
+  "fetched_at": "2026-09-01T12:51:58Z",
+  "html_sha256": "10eac49d3c6138dd8bb553c56bc9da92e4dfae49be6278596e86f664ac656eab",
+  "text_sha256": "8c57d4d6484c059251afff5c9b88b20a11d20fc8979ef60d94665982ee365396",
+  "byte_size": 84205,
   "title": "DeSoto, FL – DeSoto County elections website.",
   "error": null
 }

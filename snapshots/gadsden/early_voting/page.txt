@@ -44,6 +44,7 @@ How to Run for Municipal Office
 Candidate & Committee Login
 Candidate Reports
 Candidate File Distribution
+Initiative Petitions
 Poll Watcher Information
 Request for Vote By Mail Voters Information
 Maps & Statistics
@@ -94,6 +95,7 @@ How to Run for Municipal Office
 Candidate & Committee Login
 Candidate Reports
 Candidate File Distribution
+Initiative Petitions
 Poll Watcher Information
 Request for Vote By Mail Voters Information
 Maps & Statistics

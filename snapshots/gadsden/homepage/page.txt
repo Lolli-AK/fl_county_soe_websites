@@ -44,6 +44,7 @@ How to Run for Municipal Office
 Candidate & Committee Login
 Candidate Reports
 Candidate File Distribution
+Initiative Petitions
 Poll Watcher Information
 Request for Vote By Mail Voters Information
 Maps & Statistics
@@ -94,6 +95,7 @@ How to Run for Municipal Office
 Candidate & Committee Login
 Candidate Reports
 Candidate File Distribution
+Initiative Petitions
 Poll Watcher Information
 Request for Vote By Mail Voters Information
 Maps & Statistics
@@ -120,7 +122,7 @@ We acknowledge that some content on this page may not be fully accessible. Pleas
 contact us
 for any help with accessibility.
 Active Registered Voters
-As of 08/31/2026
+As of 09/01/2026
 Democrats
 0
 Republicans
@@ -163,7 +165,7 @@ Register to Vote
 Request a Vote By Mail Ballot
 Check/Renew registration
 News & Announcements
-August Birthday Celebrations
+September Birthday Celebrations
 Happiest Birthday to our Staff & Poll Workers who were born in August!!!! We celebrate and appreciate you.
 Tony C. (6) Staff
 Joan B. (11)
