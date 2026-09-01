@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Phase 1 — discover the four election page types per county.
+"""Phase 1 — discover the election page types per county.
 
 Runs a TWO-LEVEL crawl from each county's Supervisor of Elections homepage:
 
@@ -129,6 +129,44 @@ PATTERNS: dict[str, list[tuple[str, int]]] = {
         ("result", -8), ("election day", -5), ("vote by mail", -6),
         ("worker", -8),
     ],
+    "voter_registration": [
+        ("voter registration", 14), ("register to vote", 14),
+        ("how to register", 13), ("registration application", 12),
+        ("voter registration form", 13), ("new voter", 10),
+        ("eligibility to register", 12), ("who can register", 12),
+        ("qualifications to register", 12), ("registration deadline", 10),
+        # Florida's own term for the registration deadline. A county that files
+        # its registration content under this heading and nothing else would
+        # otherwise score zero.
+        ("book closing", 4),
+        # ...but "Book Closing Date for the November General Election" is a
+        # calendar entry, and on five counties it outscored the real page.
+        ("book closing date", -10), ("event", -14),
+        ("update your registration", 9), ("change your address", 6),
+        ("registration", 6), ("register", 5),
+        # Sibling pages that score well on the word "registration" and would
+        # otherwise win. Poll-worker recruitment is the worst offender: those
+        # pages are literally titled "Poll Worker Registration".
+        # Ending a registration is not starting one. Hillsborough's "Cancel
+        # Voter Registration" scored higher than its actual registration page.
+        ("cancel", -16), ("remove", -14), ("deceased", -16), ("purge", -14),
+        ("poll worker", -16), ("election worker", -16), ("volunteer", -12),
+        ("candidate", -12), ("campaign", -10), ("petition", -12),
+        ("committee", -10), ("lobbyist", -12), ("vendor", -10),
+        ("registration statistics", -14), ("statistics", -10),
+        ("voter registration report", -12), ("data", -6), ("count", -6),
+        # Distinct page types in this same manifest.
+        ("early voting", -12), ("vote by mail", -12), ("vote-by-mail", -12),
+        ("absentee", -12), ("polling", -10), ("precinct", -8),
+        ("result", -10), ("sample ballot", -8),
+        # A lookup tool answers "am I registered", which is not the same page as
+        # "how do I register" and is usually the statewide portal besides.
+        ("faq", -12), ("deadline", -6), ("party change", -12),
+        ("voter lookup", -8), ("check your registration", -14),
+        ("registration status", -14), ("check my registration", -14),
+        ("my registration", -10), ("am i registered", -12),
+        ("my status", -8), ("information card", -12), ("id card", -10),
+    ],
     "results": [
         ("election result", 14), ("unofficial result", 14),
         ("election night reporting", 13), ("election returns", 12),
@@ -155,6 +193,20 @@ HUB_PATTERNS = [
     ("general election", 8), ("primary election", 7), ("municipal election", 6),
     ("election day information", 10), ("next election", 8), ("2026", 5),
     ("archive", -8), ("past", -8), ("result", -4), ("financial", -10),
+]
+
+# Nav sections that hold the voter-facing pages. Florida SOE sites built on the
+# common county-government platforms put nothing but section headers on the
+# homepage -- "Voters", "Voter Services", "Voting" -- and file registration one
+# level below. Hillsborough, Pinellas and Polk all look like they have no
+# registration page at all until this level is crawled.
+REG_HUB_PATTERNS = [
+    ("voter services", 15), ("voter information", 13), ("voter info", 13),
+    ("voters", 11), ("voting", 9), ("registration", 11), ("register", 9),
+    ("general info", 5), ("information", 3),
+    ("candidate", -12), ("result", -12), ("data", -10), ("record", -10),
+    ("get involved", -8), ("poll worker", -14), ("news", -10),
+    ("map", -8), ("about", -6), ("contact", -8), ("event", -12),
 ]
 
 # Generic statewide/national portals. These are real sites, but they are STATE-level
@@ -292,6 +344,18 @@ EXACT_ELECTION_LABELS = {
 }
 
 
+# The registration counterpart to EXACT_ELECTION_LABELS, and needed for the same
+# reason: keyword weights are additive, so a long noisy label stacks more points
+# than the plain one. "Update Voter Registration Information" out-scored
+# Hillsborough's "Register to Vote" by six on sheer length.
+EXACT_REGISTRATION_LABELS = {
+    "register to vote", "voter registration", "registration",
+    "how to register", "how to register to vote", "new voter registration",
+    "voter registration information", "registering to vote",
+    "register", "voter registration application",
+}
+
+
 # URL shapes that carry a per-election / per-event identifier. These go stale every
 # cycle — a CivicPlus "Calendar.aspx?EID=359" entry is *this* election's early-voting
 # notice, not the county's standing early-voting page — so a snapshot of one would
@@ -313,6 +377,9 @@ def score(text: str, url: str, pats: list[tuple[str, int]]) -> int:
             s += max(1, w // 2) if w > 0 else w
     if pats is PATTERNS["elections"] and t.strip() in EXACT_ELECTION_LABELS:
         s += 10
+    if (pats is PATTERNS["voter_registration"]
+            and t.strip() in EXACT_REGISTRATION_LABELS):
+        s += 12
     if s > 0 and _EPHEMERAL_URL_RE.search(url):
         s -= 12
     return s
@@ -348,7 +415,8 @@ def best_link(links: list[tuple[str, str]], ptype: str, exclude: set[str],
               home: str | None = None) -> tuple[str, int, str] | None:
     # `results` is the one type that legitimately lives off-site (Clarity ENR and
     # similar per-county vendor portals), so it is not pushed toward the SOE domain.
-    prefer_internal = ptype in ("elections", "polling", "early_voting")
+    prefer_internal = ptype in ("elections", "polling", "early_voting",
+                                "voter_registration")
     ranked = rank_links(links, PATTERNS[ptype], exclude, home, prefer_internal)
     if not ranked:
         return None
@@ -365,7 +433,8 @@ def is_external(url: str, home: str) -> bool:
 
 
 # Minimum score to accept a pick without flagging it as weak.
-MIN_STRONG = {"elections": 10, "polling": 12, "early_voting": 12, "results": 10}
+MIN_STRONG = {"elections": 10, "polling": 12, "early_voting": 12, "results": 10,
+              "voter_registration": 12}
 
 
 def _try_candidates(links: list[tuple[str, str]], exclude: set[str], home: str
