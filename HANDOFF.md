@@ -8,15 +8,43 @@ retracted, what is still open.
 
 ## 1. What exists
 
-Two sibling repos under `election_websites/`:
+Three sibling repos under `election_websites/`:
 
 | repo | scope | anchor page |
 |---|---|---|
-| `fl-county-watch` | 67 FL counties, 314 targets | Supervisor of Elections site |
-| `tx-county-watch` | 254 TX counties, 756 targets | county government site |
+| `fl-county-watch` | 67 FL counties, 402 targets | Supervisor of Elections site |
+| `tx-county-watch` | 254 TX counties | county government site |
+| `state-watch` | FL + TX state authorities, 12 targets | Division of Elections / SOS Elections |
 
-The snapshot pipeline (`snapshot.py`, `normalize.py`) is shared. Everything else in
-FL is Florida-specific.
+The snapshot pipeline (`snapshot.py`, `normalize.py`, `noncitizen.py`) is shared by
+all three. Everything else in FL is Florida-specific.
+
+**Added 2026-09-01, across all three:**
+
+- **A sixth page type, `voter_registration`.** 58/67 in Florida; the nine gaps hand
+  registration to `registertovoteflorida.gov` and publish nothing of their own.
+  Discovered by `discover_registration.py`, deliberately *not* by re-running
+  `discover_pages.py`, so its scoring cannot churn the five audited types — zero
+  pre-existing rows changed. **These 58 have had no human QA pass.** They are at the
+  standard the original five were at before §"The human QA pass"; five carry
+  `flag_for_review=weak-score`, and spot checks found Polk on "Registration Form
+  Locations" and Leon on "Update Your Registration" where a plain "Register to Vote"
+  page exists. Treat coverage numbers off this column as provisional.
+- **A `noncitizen_voting` flag in every `meta.json`.** Binary, plus the term families
+  that matched. Across 46,221 Florida page-observations it fires on exactly one page:
+  Indian River's homepage, carrying a proof-of-citizenship news release, first seen
+  2026-08-24 and since rotated off. Zero hits in Texas's 27,991. The point of the
+  page type above is that the flag could not otherwise have fired at all —
+  citizenship language does not appear on the other five types.
+- **`state-watch`.** One repo for both states rather than `fl-state-watch` +
+  `tx-state-watch`: six targets each, so splitting would duplicate the pipeline and
+  the scheduler for a dozen pages. Its twelve targets were pinned by hand because
+  `dos.fl.gov` builds its nav in JavaScript and yields one link to a crawl.
+- **Two latent bugs fixed in `discover_pages.fetch`**, both exposed by the new
+  crawl: it never took the headless lock that `snapshot.py` has always held (six
+  threads launching Chromium wedged a Texas sweep for 40 minutes), and it escalated
+  *verification* fetches on the low-anchor heuristic, which is a JS shell when you
+  want a nav but normal for a leaf page.
 
 **Analysis scripts (FL only — Texas has none of these):**
 
@@ -258,6 +286,14 @@ either. Treat as state-specific until shown otherwise.
    Services local-government reporting database. A project, not a pull.
 6. **Synchronized-diff detection** — a vendor template push shows up as the same diff
    on the same day across many counties. Detectable, and nobody has it.
+7. **QA the `voter_registration` column.** The one piece of the 2026-09-01 work that
+   is knowingly unfinished — see §1. The other five types needed a human pass after
+   their audit and this one has had neither.
+8. **Non-citizen language as a diffable event.** The flag currently answers "does
+   this page say it". The question worth asking is when counties start saying it, and
+   whether it arrives in vendor-synchronized waves like a template push (thread 6) or
+   county by county. `scan_noncitizen.py --history --csv` already emits the panel;
+   nothing has been done with it because there is, so far, one hit.
 
 ---
 
