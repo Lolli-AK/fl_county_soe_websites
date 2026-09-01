@@ -43,6 +43,7 @@ import csv
 import logging
 import re
 import sys
+import threading
 from pathlib import Path
 from urllib.parse import urljoin, urlparse, urlunparse
 
@@ -290,6 +291,14 @@ def _fetch_plain(url: str) -> dict:
 # cases, otherwise those counties silently look like they have no election pages.
 _ANCHOR_RE = re.compile(r"<a\s[^>]*href=", re.I)
 
+# Headless renders are serialized, exactly as snapshot.py serializes them. This
+# was missing here for as long as discovery has existed and only became visible
+# once the registration crawl started escalating several counties at once: six
+# worker threads launching Chromium simultaneously wedged a run for forty
+# minutes on its last handful of counties, with the process idle rather than
+# busy. One at a time is also what keeps a render deterministic.
+_HEADLESS_LOCK = threading.Lock()
+
 
 def fetch(url: str, allow_headless: bool = True) -> dict:
     r = _fetch_plain(url)
@@ -301,7 +310,8 @@ def fetch(url: str, allow_headless: bool = True) -> dict:
     if allow_headless and needs_headless:
         try:
             import snapshot  # local module; imports playwright lazily
-            h = snapshot.fetch_headless(url)
+            with _HEADLESS_LOCK:
+                h = snapshot.fetch_headless(url)
             status = h.get("http_status")
             if h["ok"] and (status or 200) < 400 and h["html"]:
                 return {"ok": True, "status": status or 200, "html": h["html"],
