@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-26T16:18:44Z",
+  "fetched_at": "2026-09-01T19:42:45Z",
   "html_sha256": "7a89c8bd79e49a56f09496e3633ecd872e6e3b9284a9698590210d0f33d0e93f",
   "text_sha256": "3545df7b8e8eccdf0eec0d933b5ada0edd6e456aadd8864b260bb8fce3bb4d78",
   "byte_size": 87521,
   "title": "Election Results | Hamilton County Supervisor of Elections, Laura Hutto",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

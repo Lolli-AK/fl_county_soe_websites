@@ -1,0 +1,24 @@
+{
+  "county": "Clay",
+  "page_type": "voter_registration",
+  "requested_url": "https://clayelections.gov/voter-information/register-to-vote-update-info/",
+  "final_url": "https://clayelections.gov/voter-information/register-to-vote-update-info/",
+  "redirect_chain": [
+    "https://clayelections.gov/voter-information/register-to-vote-update-info/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "387a7ae8000e66157934a9360e001490f7c17f098fcc234391c7c650c455cb3e",
+  "text_sha256": "97272e373d5923b0b5140f9c857075735278645945ab578ce9db18d4b553a99c",
+  "byte_size": 95507,
+  "title": "Register to Vote/Update Your Information - Clay County Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

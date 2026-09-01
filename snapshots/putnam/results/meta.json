@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-26T16:18:44Z",
-  "html_sha256": "98f5d315335e708e25169de14ffe1b7eddaaebfc20fc35764585a699daedaa00",
-  "text_sha256": "ed70658059cca36f85a4e83ff4be10ad1911c4c674f5d5e7ac0cdc4c15eafa57",
-  "byte_size": 186324,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "15d8cd08d7e18057a4961e4ff4a54499809a2f15abf5e4b6aeeca3a5b17ca084",
+  "text_sha256": "48fb47cab519c0a1633b8f7aa62ed11b1ad2c684af5c9531b5162d3f6498488f",
+  "byte_size": 187222,
   "title": "Putnam County, Florida - Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

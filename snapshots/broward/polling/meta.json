@@ -8,12 +8,17 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-26T16:18:44Z",
-  "html_sha256": "3b4356c2aa93394aab9eb165f73b0469f775f46b5d14a7bc4c83ce0b9811f9f4",
-  "text_sha256": "51162c453e03bc64cf4d3e90203222c05db20fa36d63f8aee03e76f0129adf77",
-  "byte_size": 75755,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "d924624b431e29f9991f9a918338c45ffbaf038db9e0cbf7ecea0847e50b18db",
+  "text_sha256": "721ad64e14fae82a308ba6d7b61dd1e3928d587579bd98d3ef44601cdabeb589",
+  "byte_size": 48825,
   "title": "Precinct Finder",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

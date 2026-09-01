@@ -1,0 +1,24 @@
+{
+  "county": "Hamilton",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.hamiltonvotesfl.gov/voters/register-to-vote/",
+  "final_url": "https://www.hamiltonvotesfl.gov/voters/register-to-vote/",
+  "redirect_chain": [
+    "https://www.hamiltonvotesfl.gov/voters/register-to-vote/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "a15b5a57aed97093b5f59c5b561fdcb14917454f493afd0493b71b0572970e11",
+  "text_sha256": "29015434c44e9a74b086d362adf9579b5d31ebf126a705165a0e2c3053420d78",
+  "byte_size": 64942,
+  "title": "Register to Vote | Hamilton County Supervisor of Elections, Laura Hutto",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

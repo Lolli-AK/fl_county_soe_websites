@@ -1,0 +1,24 @@
+{
+  "county": "Levy",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votelevy.gov/voters/register-to-vote/",
+  "final_url": "https://www.votelevy.gov/voters/register-to-vote/",
+  "redirect_chain": [
+    "https://www.votelevy.gov/voters/register-to-vote/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "0e99347920e80393e97484cefaac4d235ef4c9f37fa70a18656db4c2b30f60c9",
+  "text_sha256": "ec51df9a913b9499895411b13352a5a122266beb260692e5b0d38bf5b08f4391",
+  "byte_size": 53173,
+  "title": "Register to Vote | Levy County Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

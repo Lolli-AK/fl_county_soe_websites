@@ -10,8 +10,8 @@ Election Workers
 How Do I?
 Search
 [rotating image slideshow removed for determinism]
-2026 General Election
-November 3, 2026
+2026 Primary Election
+August 18, 2026
 OFFICIAL RESULTS
 My Voter Information & Sample Ballot
 Register to Vote
@@ -50,7 +50,7 @@ Important Dates
 Events
 Canvassing Board
 Important Dates
-August 2026
+September 2026
 Sun
 Mon
 Tue
@@ -58,10 +58,6 @@ Wed
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -94,17 +90,29 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
-There are no published events in current month.
+Mon, Sep. 7
+Labor Day - Holiday Office Closure
+Labor Day - Holiday Office Closure
+Read on...
+Fri, Sep. 18
+2026 General Election--Initial mailout of vote-by-mail ballots to military and overseas voters
+2026 General Election--Initial mailout of vote-by-mail ballots to military and overseas voters
+Read on...
+Mon, Sep. 21 - Fri, Sep. 25
+2026 General Election--Vote-by-mail mailouts continue to military and overseas voters
+2026 General Election--Vote-by-mail mailouts continue to military and overseas voters
+Read on...
+Fri, Sep. 25
+2026 General Election--Initial mailout of vote-by-mail ballots to civilian voters
+2026 General Election--Initial mailout of vote-by-mail ballots to civilian voters
+Read on...
 View All Events
 /Calendar.aspx
 Events
-August 2026
+September 2026
 Sun
 Mon
 Tue
@@ -112,10 +120,6 @@ Wed
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -148,20 +152,25 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
-Wed, Aug. 26
-City of Minneola Market & Food Trucks
-City of Minneola Market & Food Trucks
+Thu, Sep. 10
+Veterans Benefit at Clermont Arts and Recreation Center
+Veterans Benefit at Clermont Arts and Recreation Center
+Read on...
+Sat, Sep. 12
+The Common Chord Event at First Presbyterian Church
+The Common Chord Event at First Presbyterian Church
+Read on...
+Sat, Sep. 12
+Sips and Salsa
+Sips and Salsa
 Read on...
 View All Events
 /Calendar.aspx
 Canvassing Board
-August 2026
+September 2026
 Sun
 Mon
 Tue
@@ -169,10 +178,6 @@ Wed
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -205,12 +210,9 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
 There are no published events in current month.
 View All Events
 /Calendar.aspx

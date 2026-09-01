@@ -1,0 +1,24 @@
+{
+  "county": "Marion",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votemarion.gov/307/Register-to-Vote",
+  "final_url": "https://www.votemarion.gov/307/Register-to-Vote",
+  "redirect_chain": [
+    "https://www.votemarion.gov/307/Register-to-Vote"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "1365ac0bc81f25b381f3c5fed802c1c1e17bac710e9948ff148d36fa335b3f82",
+  "text_sha256": "3bd0b9d15340edcde4c713b4fa354a746f5f0cd98096a4da992116b271049a05",
+  "byte_size": 65363,
+  "title": "Register to Vote | Marion County Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

@@ -1,0 +1,24 @@
+{
+  "county": "Duval",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.duvalelections.gov/207/Forms-Publications",
+  "final_url": "https://www.duvalelections.gov/207/Forms-Publications",
+  "redirect_chain": [
+    "https://www.duvalelections.gov/207/Forms-Publications"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "d6119d5be3c42f63555fd989625f38069df2c86dce55a0a9ba8e1963cee3c42f",
+  "text_sha256": "bab6d0a1cda3e6a30ecc6f36b7868a21e37847c122f1067c413709b9cf05fd5f",
+  "byte_size": 80756,
+  "title": "Forms & Publications | Duval County Elections, FL Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

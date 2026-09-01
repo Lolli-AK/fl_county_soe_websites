@@ -8,12 +8,17 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-26T16:18:44Z",
-  "html_sha256": "cee235632c44816bd8de413d24aba75093541a9c87dab989332de5c1a6aafd58",
-  "text_sha256": "172978b43b67e71fa35b229e6fb89269fb42575d0e36a448a39d42103270e7fe",
-  "byte_size": 115699,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "9e47e526ceb5fab19af6cbbc7ab83d7f026335581fb3f66c46ecfd0498da7f8d",
+  "text_sha256": "2b266a1a972f05db55c1c44543525e281ff567dbff25cfeb8d55e5668d8f016d",
+  "byte_size": 117166,
   "title": "Check Your Info",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

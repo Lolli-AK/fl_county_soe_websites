@@ -164,15 +164,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(08/26/2026)
+(09/01/2026)
 Democrats
-23,652
+23,672
 Republicans
-74,756
+74,812
 Other
-28,855
+28,873
 Total
-127,263
+127,357
 Upcoming Elections
 All Upcoming Elections
 General Election
@@ -183,25 +183,22 @@ All Upcoming Elections
 Dates to Remember
 All Upcoming Dates
 Sep 19, 2026
-Mail Ballot ‘Send’ Deadline (45-day deadline before election) for UOCAVA voters for the General Election.
+Deadline to mail vote-by-mail ballots (45-day deadline before election) for UOCAVA voters who requested a vote-by-mail ballot for the General…
 Sep 24, 2026
-Mail Ballot ‘Send’ Deadline (40-day deadline before election) for domestic voters for the General Election.
+First day to mail vote-by-mail ballots  (40-days before election) for domestic voters who requested vote-by-mail ballots for the General Election.
 Oct 5, 2026
 Deadline to register to vote in the General Election.
 Oct 14, 2026 8:30am
-• Canvassing Board Orientation Meeting • Logic and Accuracy Testing of the Voting and Tabulating Equipment to be used for…
+Canvassing Board Orientation Meeting followed by Public Logic and Accuracy Testing of the Voting and Tabulating Equipment to be used…
 All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 1 day ago
-🗳️ 2026 PRIMARY ELECTION — BAY COUNTY VOTER TURNOUT
-📊 COUNTYWIDE VOTER TURNOUT: 26.6%
-⭐TOP 3 PRECINCTS BY VOTER TURNOUT
-🥇Precinct 19 — 36.7%
-🥈Precinct 6 — 36.5%
-🥉Precinct 26 — 35.3%
-👏To everyone who participated in the 2026 Primary Election — THANK YOU!
+posted 4 hours ago
+Did you know that your vote-by-mail request expires after every General Election?
+📣Renew your request today for the 2026 General Election by calling 850-784-6100,
+📣or request online at the link below:
+https://www.bayvotesfl.gov/voters/vote-by-mail/
 View Facebook Post
 (opens in a new tab)
 Public Notices

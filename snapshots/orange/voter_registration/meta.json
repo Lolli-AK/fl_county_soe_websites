@@ -1,0 +1,24 @@
+{
+  "county": "Orange",
+  "page_type": "voter_registration",
+  "requested_url": "https://voteorangefl.gov/register-to-vote/",
+  "final_url": "https://voteorangefl.gov/register-to-vote/",
+  "redirect_chain": [
+    "https://voteorangefl.gov/register-to-vote/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "91ed4839b23f60c5aeb6ab7f886c5a3b63d4b7904337be275bc4ba482729faa2",
+  "text_sha256": "4184e0263c0480a89b110bf1bb02bcab113ccfe5cca580f0f2f5d0007210e92e",
+  "byte_size": 107912,
+  "title": "How to Register to Vote | Orange County Florida | OCSOE",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

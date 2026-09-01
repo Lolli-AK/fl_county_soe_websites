@@ -46,7 +46,7 @@ View All News
 /CivicAlerts.aspx
 Upcoming Events
 Mark your calendars
-August 2026
+September 2026
 S
 M
 T
@@ -54,10 +54,6 @@ W
 T
 F
 S
-26
-27
-28
-29
 30
 31
 1
@@ -90,13 +86,13 @@ S
 28
 29
 30
-31
 1
 2
 3
-4
-5
-There are no published events in current month.
+Mon, Sep. 7
+Holiday - Closed for Labor Day
+Fri, Sep. 25
+General Logic & Accuracy Testing
 View All Events
 /Calendar.aspx
 Contact Us

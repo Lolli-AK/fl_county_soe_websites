@@ -8,12 +8,17 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-26T16:18:44Z",
-  "html_sha256": "f4fc47472581aa86e841bb9d7fad072bfdd8a00021fbb0a0382d6d632c3b1084",
-  "text_sha256": "ee81a0e9603b33d9b0581dad1164ad157e3b4a57ec57de0285fbca0cfcc32222",
-  "byte_size": 122932,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "f18b22764621ba0d22b59be509d2e3d0d53a6711341c043359476ea3927b7fbf",
+  "text_sha256": "51c847248923491c8382683bd5d70211e989c6be73e455852fc0608c44c97af1",
+  "byte_size": 99562,
   "title": "Monroe County FL Supervisor of Elections > Voting > Three Ways to Vote > Early Voting",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-26T16:18:44Z",
-  "html_sha256": "b2417aa6fceeadaa7da8af4a5fc500028f34ca52225f9b50bd1d8ae0819d4ae3",
-  "text_sha256": "4937a9f3e964ed2a21fe95bddec5a9f104e2a37830ee0696d11e4ef4461ad12c",
-  "byte_size": 64357,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "a999d7671d848682442f36653f081fc2738aaa448cdf59c26b8e46f76c66dfdd",
+  "text_sha256": "71b351b245560e44e27a0be6606ee68dfd0582f1f8f3a7f05dafbbb0c03f3043",
+  "byte_size": 61853,
   "title": "Pinellas County Election, FL | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

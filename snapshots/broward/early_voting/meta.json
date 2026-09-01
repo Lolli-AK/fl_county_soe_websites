@@ -9,12 +9,17 @@
   ],
   "http_status": 403,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-26T16:18:44Z",
-  "html_sha256": "962bbcf56f65d717c0a58bdf70dc9c1b480ccf7ee08a90e7414b93dd50c88dec",
-  "text_sha256": "169ae726ff9fa0949d085b68ece170d4933eb6a1072b269ee072b7de9da77b88",
-  "byte_size": 54358,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "63ec02650f9be1e90c0abbb5b340122f5b8c292a1a7c19e67d7d380d070432fd",
+  "text_sha256": "fcda54fa51abb9d6ef311c2484a03c229cbee5bb3b3252dbe1afcfc9ddc0049e",
+  "byte_size": 27336,
   "title": "Access denied | Broward County Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

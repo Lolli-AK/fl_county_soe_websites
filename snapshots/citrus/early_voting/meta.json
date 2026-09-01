@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-26T16:18:44Z",
+  "fetched_at": "2026-09-01T19:42:45Z",
   "html_sha256": "7e754d0317b5b8af586fe84b9814d23138a9f467ed8c515ae57a15a7da247f79",
   "text_sha256": "ff0a81fc2e9047588e4c0eb82683df866c4b4f9d3568db5f5b15b70e7e55c8cf",
   "byte_size": 102998,
   "title": "2026 Early Voting Sites & Schedule | Citrus County Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

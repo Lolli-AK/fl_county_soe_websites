@@ -1,0 +1,24 @@
+{
+  "county": "Charlotte",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.soecharlottecountyfl.gov/1270/How-To-Register-to-Vote",
+  "final_url": "https://www.soecharlottecountyfl.gov/1270/How-To-Register-to-Vote",
+  "redirect_chain": [
+    "https://www.soecharlottecountyfl.gov/1270/How-To-Register-to-Vote"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "999df7cf4506eaf3820cdd2dbdf955727f5cd4c6a8c72d03fe8b5e784b86b126",
+  "text_sha256": "bd7f4c2c8618c992b5abe3291322fb70ebddf57f7e08df0d7af96a631853b191",
+  "byte_size": 50346,
+  "title": "How To Register to Vote | Charlotte County Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

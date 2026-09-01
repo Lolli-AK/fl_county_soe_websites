@@ -1,259 +1,7 @@
 Home
-Press Option+1 for screen-reader mode, Option+0 to cancel
 Skip Navigation
 Official government website
 Search
-Select Language
-Abkhaz
-Acehnese
-Acholi
-Afar
-Afrikaans
-Albanian
-Alur
-Amharic
-Arabic
-Armenian
-Assamese
-Avar
-Awadhi
-Aymara
-Azerbaijani
-Balinese
-Baluchi
-Bambara
-Baoulé
-Bashkir
-Basque
-Batak Karo
-Batak Simalungun
-Batak Toba
-Belarusian
-Bemba
-Bengali
-Betawi
-Bhojpuri
-Bikol
-Bosnian
-Breton
-Bulgarian
-Buryat
-Cantonese
-Catalan
-Cebuano
-Chamorro
-Chechen
-Chichewa
-Chinese (Simplified)
-Chinese (Traditional)
-Chuukese
-Chuvash
-Corsican
-Crimean Tatar (Cyrillic)
-Crimean Tatar (Latin)
-Croatian
-Czech
-Danish
-Dari
-Dhivehi
-Dinka
-Dogri
-Dombe
-Dutch
-Dyula
-Dzongkha
-Esperanto
-Estonian
-Ewe
-Faroese
-Fijian
-Filipino
-Finnish
-Fon
-French
-French (Canada)
-Frisian
-Friulian
-Fulani
-Ga
-Galician
-Georgian
-German
-Greek
-Guarani
-Gujarati
-Haitian Creole
-Hakha Chin
-Hausa
-Hawaiian
-Hebrew
-Hiligaynon
-Hindi
-Hmong
-Hungarian
-Hunsrik
-Iban
-Icelandic
-Igbo
-Ilocano
-Indonesian
-Inuktut (Latin)
-Inuktut (Syllabics)
-Irish
-Italian
-Jamaican Patois
-Japanese
-Javanese
-Jingpo
-Kalaallisut
-Kannada
-Kanuri
-Kapampangan
-Kazakh
-Khasi
-Khmer
-Kiga
-Kikongo
-Kinyarwanda
-Kituba
-Kokborok
-Komi
-Konkani
-Korean
-Krio
-Kurdish (Kurmanji)
-Kurdish (Sorani)
-Kyrgyz
-Lao
-Latgalian
-Latin
-Latvian
-Ligurian
-Limburgish
-Lingala
-Lithuanian
-Lombard
-Luganda
-Luo
-Luxembourgish
-Macedonian
-Madurese
-Maithili
-Makassar
-Malagasy
-Malay
-Malay (Jawi)
-Malayalam
-Maltese
-Mam
-Manx
-Maori
-Marathi
-Marshallese
-Marwadi
-Mauritian Creole
-Meadow Mari
-Meiteilon (Manipuri)
-Minang
-Mizo
-Mongolian
-Myanmar (Burmese)
-Nahuatl (Eastern Huasteca)
-Ndau
-Ndebele (South)
-Nepalbhasa (Newari)
-Nepali
-NKo
-Norwegian
-Nuer
-Occitan
-Odia (Oriya)
-Oromo
-Ossetian
-Pangasinan
-Papiamento
-Pashto
-Persian
-Polish
-Portuguese (Brazil)
-Portuguese (Portugal)
-Punjabi (Gurmukhi)
-Punjabi (Shahmukhi)
-Quechua
-Qʼeqchiʼ
-Romani
-Romanian
-Rundi
-Russian
-Sami (North)
-Samoan
-Sango
-Sanskrit
-Santali (Latin)
-Santali (Ol Chiki)
-Scots Gaelic
-Sepedi
-Serbian
-Sesotho
-Seychellois Creole
-Shan
-Shona
-Sicilian
-Silesian
-Sindhi
-Sinhala
-Slovak
-Slovenian
-Somali
-Spanish
-Sundanese
-Susu
-Swahili
-Swati
-Swedish
-Tahitian
-Tajik
-Tamazight
-Tamazight (Tifinagh)
-Tamil
-Tatar
-Telugu
-Tetum
-Thai
-Tibetan
-Tigrinya
-Tiv
-Tok Pisin
-Tongan
-Tshiluba
-Tsonga
-Tswana
-Tulu
-Tumbuka
-Turkish
-Turkmen
-Tuvan
-Twi
-Udmurt
-Ukrainian
-Urdu
-Uyghur
-Uzbek
-Venda
-Venetian
-Vietnamese
-Waray
-Welsh
-Wolof
-Xhosa
-Yakut
-Yiddish
-Yoruba
-Yucatec Maya
-Zapotec
-Zulu
-Powered by
-Translate
 Monroe County
 FL
 Supervisor of Elections
@@ -337,17 +85,17 @@ Supervisor of Elections
 Monroe County
 Active Registered Voters
 Democratic
-14,759
+14,763
 Republican
-25,238
+25,251
 Others
-14,843
+14,845
 Total
-54,840
-Last updated 2026-08-26
+54,859
+Last updated 2026-09-01
 Election Night Results
 August 18, 2026 - Primary Election
-View Unofficial Results
+View Official Results
 Monroe County Supervisor of Elections
 The Offical Website of Monroe Co FL Supervisor of Elections
 2026 Primary Election Day Precinct Results Will Be Reported Later Than Usual
@@ -398,8 +146,6 @@ Vote-by-Mail Ballots can be hand-delivered inside the office or to the Secure Ba
 Upcoming Elections
 View Upcoming Elections
 Dates to Remember
-Manual Audit
-8/26/2026
 Labor Day - All Offices Closed
 9/5/2026 - 9/7/2026
 Columbus Day - All Offices Closed
@@ -422,6 +168,8 @@ Canvass Overseas Ballots & Signatures for Final Returns
 11/13/2026
 Pull Race & Precinct
 11/13/2026
+Manual Audit
+11/18/2026
 View All
 The Honorable Sherri Hodies
 Supervisor of Elections,
@@ -485,6 +233,3 @@ Forms
 Search
 Search
 Search
-Original text
-Rate this translation
-Your feedback will be used to help improve Google Translate

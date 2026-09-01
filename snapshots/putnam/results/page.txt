@@ -121,7 +121,6 @@ Precincts And Polling Locations
 2026 Notice of General Election_English
 2026 Notice of General Election_Spanish
 Election Preparation Reports
-TurnOut Quick View
 Candidates & Committees
 2026 Candidate Contact List
 2026 Qualifications and Fees
@@ -203,7 +202,6 @@ Precincts And Polling Locations
 2026 Notice of General Election_English
 2026 Notice of General Election_Spanish
 Election Preparation Reports
-TurnOut Quick View
 Election Results
 Home
 Election Information
@@ -744,6 +742,11 @@ Official Statement of Votes Cast
 document seq
 0.00
 Official Election Results
+2026 Primary Election - August 18, 2026
+1 document
+OFFICIAL RESULTS ElectionSummaryReport
+document seq
+0.00
 qualifying office
 2509 Crill Ave, Suite 900
 Palatka, FL 32177

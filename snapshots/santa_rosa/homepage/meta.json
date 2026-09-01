@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-26T16:18:44Z",
-  "html_sha256": "38250e898e614b44a066d53187ffc78c40dc69a6bc1355d479251f42b05c9b58",
-  "text_sha256": "1164216a8d41c4057c53953faea7841497736527f5bb592d00a128f7e640db2b",
-  "byte_size": 194889,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "524e437e5f838466d25902353fd651e73a59dfdf95a4c5f11d6714fe3ed7dc6b",
+  "text_sha256": "d0ef67e6f8e59a85217238ba773ad4003071b0687a4e2dd1199872541d7ae74f",
+  "byte_size": 103401,
   "title": "Santa Rosa, FL – Santa Rosa, FL – elections website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

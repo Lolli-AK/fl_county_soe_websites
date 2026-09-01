@@ -26,7 +26,6 @@ Home
 Elections
 Election Results
 Election Results
-ELECTION NIGHT RESULTS
 Here are the records of election results from 1996 to 2024 which have been certified by the canvassing board, and whose records are in the possession of the Supervisor of Elections. For election results dated prior to 1996, please contact our office to make a public records request. Presidential Elections are in
 bold
 .
@@ -35,18 +34,21 @@ Please Note:
 Some elections do not have a turnout percentage because it is not known. For elections with a single page ballot, the number of "Cards Cast" is used to determine turnout because it equals one card, or page, per voter. Two elections in the list below are two-page ballots. Two-page ballots cause the "Cards Cast" number to be an incorrect representation of turnout because it equals two ballots per voter. For these elections, the contest with the highest "Times Counted" number is used to approximate turnout. Those two election are as follows:
 2012 General Election: The presidential race is used for turnout.
 2002 General Election: The governor's race is used for turnout.
+2026 Primary Election
+Resources
+Turnout: 27.19%
+Official Results Signed by the Board of Canvassers
+Post Election Audit Report
+1st Unofficial Results signed by the Canvassing Board (PDF)
+Unofficial Election Results: 2026 Primary Election
+Sample Ballot
+2025
 2025 City of Gainesville Special Election Referendum
 Turnout: 19.07%
 Official Results Signed by the Board of Canvassers
 Sample Ballot
 Post Election Audit Report
 Unofficial Election Night Results
-2026
-2026 Primary Election
-Resources
-Turnout: 27.19%
-1st Unofficial Results signed by the Canvassing Board (PDF)
-Unofficial Election Results: 2026 Primary Election
 2024
 2024 General Election Cycle
 2024 General Election

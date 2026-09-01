@@ -53,15 +53,23 @@ code change** — see [Editing the manifest](#editing-the-manifest).
 
 ## What it captures
 
-Five target page types per county:
+Six target page types per county:
 
 | type | what |
 |---|---|
 | `homepage` | Supervisor of Elections front page (alert banners, election countdowns) |
 | `elections` | elections / voter-info landing page ("Upcoming Elections", "Election Dates") |
+| `voter_registration` | how to register / update a registration |
 | `polling` | polling places / precinct finder |
 | `early_voting` | early voting sites & schedule |
 | `results` | election results / returns |
+
+`voter_registration` was added last, after the other five had been snapshotting
+for months, and it exists to make the non-citizen-voting flag answerable — see
+[The non-citizen-voting flag](#the-non-citizen-voting-flag). It is discovered by
+its own script (`discover_registration.py`) rather than by re-running
+`discover_pages.py`, so retuning the scoring for it cannot churn five page types
+that are already stable and audited.
 
 Not every county publishes a distinct page for every type. **A missing target is
 expected data, not an error** — it's recorded as a gap in the manifest, with the
@@ -112,7 +120,7 @@ Three text artifacts per page, under `snapshots/<county>/<page_type>/`:
 |---|---|
 | **`page.html`** | cleaned, normalized HTML — the structural-diff artifact |
 | **`page.txt`** | visible text only — the primary, lowest-noise human-readable diff |
-| **`meta.json`** | metadata sidecar: requested/final URL, redirect chain, HTTP status, content type, render mode, `external` flag, `fetched_at`, `html_sha256`, `text_sha256`, byte size, title, error |
+| **`meta.json`** | metadata sidecar: requested/final URL, redirect chain, HTTP status, content type, render mode, `external` flag, `fetched_at`, `html_sha256`, `text_sha256`, byte size, title, `noncitizen_voting`, error |
 
 `meta.json` is what catches "page moved / went down / changed vendor" — changes that
 leave no trace in the body.
@@ -121,6 +129,55 @@ leave no trace in the body.
 > `page.html`/`page.txt` — otherwise every run would diff. `meta.json` therefore
 > updates every run by design; the stable `html_sha256` / `text_sha256` fields let
 > you tell a real content change from a mere re-fetch. A test enforces this.
+
+## The non-citizen-voting flag
+
+Every `meta.json` carries:
+
+```json
+"noncitizen_voting": { "present": false, "terms": [], "count": 0 }
+```
+
+`present` is a binary yes/no for whether the page references non-citizen voting.
+`terms` names which families matched, because a bare `true` that can't be
+explained six months later is barely better than no flag.
+
+**It is a tripwire, and `false` is the expected reading.** Across the 1,070 pages
+the Florida and Texas repos had captured when the flag was added, the term
+appeared **zero times in any spelling**. A single `true` is therefore worth
+reading, which only stays true if the term set stays narrow.
+
+What is matched, and what deliberately isn't, is in `scripts/noncitizen.py`.
+Two decisions carry most of the weight:
+
+- **Curated variants, not fuzzy matching.** An edit-distance score over full
+  page text at this specificity produces hits nobody can explain. The variants
+  that matter aren't typos — they're different vocabulary for the same policy
+  ("documentary proof of citizenship", the SAVE database). Spelling slack is
+  applied only where it really occurs: the hyphen in *non-citizen*, which real
+  pages write as a hyphen, an en dash, a non-breaking hyphen, a space, or
+  nothing.
+- **Eligibility boilerplate is excluded.** "You must be a U.S. citizen" and bare
+  "citizenship" appear on ordinary registration pages and would fire on most of
+  the new `voter_registration` targets. The cost is that a page saying only
+  "only citizens may vote" reads `false` — which is the intended reading: that
+  states who may vote, it does not discuss non-citizen voting as a subject.
+
+The flag is computed from `page.txt`, never from the live response, so it is
+reproducible for any past commit:
+
+```bash
+python scripts/scan_noncitizen.py                    # working tree
+python scripts/scan_noncitizen.py --history          # every snapshot commit
+python scripts/scan_noncitizen.py --history --csv /tmp/panel.csv
+```
+
+The history sweep is keyed on blob hashes rather than paths — an unchanged page
+keeps its blob across runs, so 45,849 page-observations collapse to about 2,500
+distinct blobs and the whole sweep takes five seconds. Over the full Florida
+history it finds exactly one page: **Indian River County's homepage**, carrying
+a news release headed "New State Law Will Require Voters Provide Proof of
+Citizenship to Vote", first seen **2026-08-24**.
 
 ### How the data is laid out on disk
 
@@ -458,7 +515,7 @@ ignores unknown columns):
 | column | meaning |
 |---|---|
 | `county` / `batch` | county name; homepage provenance (see the batch table above) |
-| `page_type` | `homepage` · `elections` · `polling` · `early_voting` · `results` |
+| `page_type` | `homepage` · `elections` · `voter_registration` · `polling` · `early_voting` · `results` |
 | `url` | the target; **empty = a recorded gap**, with the reason in `notes` |
 | `external` | `true` when the URL's registered domain differs from the SOE homepage's |
 | `notes` | provenance: how the URL was found, why the row is a gap, or the human QA judgement |

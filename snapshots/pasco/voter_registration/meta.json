@@ -1,0 +1,24 @@
+{
+  "county": "Pasco",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.pascovotes.gov/newslist.php",
+  "final_url": "https://www.pascovotes.gov/newslist.php",
+  "redirect_chain": [
+    "https://www.pascovotes.gov/newslist.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "2fc2dbd114d5ba86ca6a6f73380e8659136acf92a0030cffed3a600ad546c75d",
+  "text_sha256": "c163dd906c43ff83ee5853ce99dd5c8459e5d644fa2d8ee3ddf141c28a7bb08b",
+  "byte_size": 70325,
+  "title": "Pasco County Supervisor of Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

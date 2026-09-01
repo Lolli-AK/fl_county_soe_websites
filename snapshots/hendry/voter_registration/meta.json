@@ -1,0 +1,24 @@
+{
+  "county": "Hendry",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.hendryelections.gov/voter/online_voter_registration.php",
+  "final_url": "https://www.hendryelections.gov/voter/online_voter_registration.php",
+  "redirect_chain": [
+    "https://www.hendryelections.gov/voter/online_voter_registration.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "0493885732d03486351345dcacdb1be44675e963f0c43574a5bd70c827d7a757",
+  "text_sha256": "4063a5a87daaf39d5846def8573e72d7105f3792ecd8c04ae918876c342aa30d",
+  "byte_size": 42812,
+  "title": "Hendry County Supervisor of Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

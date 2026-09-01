@@ -1,0 +1,24 @@
+{
+  "county": "Miami-Dade",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votemiamidade.gov/elections/voters/registration.page",
+  "final_url": "https://www.votemiamidade.gov/elections/voters/registration.page",
+  "redirect_chain": [
+    "https://www.votemiamidade.gov/elections/voters/registration.page"
+  ],
+  "http_status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "c6d2fe8140fb9a2ed58251003328417316b67b593347a5bb8d575c977b3adb3b",
+  "text_sha256": "f080a58228a82218f1f336eeb66782ca6d6470deb4b83e095b61b781e6081c3a",
+  "byte_size": 72191,
+  "title": "Register to Vote",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

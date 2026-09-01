@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-26T16:18:44Z",
-  "html_sha256": "c216e4dbd577932d8cb04b4f4156a10ec2b1b979a9f1572830166061d6cb40e7",
-  "text_sha256": "0aa77df3259c385123723f4e7abe0e4ff04eb05270b818595a8962922c314dba",
-  "byte_size": 67098,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "0d0e61026aa5d80a25387182a207f4198bac31c358b571a567fa8e3c851727e5",
+  "text_sha256": "211e0120055ea9d5b7d42068ba0cfaa8d0b7505dd88f871824e1445a4a15a17e",
+  "byte_size": 68039,
   "title": "Early Voting – DeSoto, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

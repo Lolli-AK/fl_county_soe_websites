@@ -1,0 +1,24 @@
+{
+  "county": "Franklin",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votefranklinfl.gov/voter_information/register_to_vote.php",
+  "final_url": "https://www.votefranklinfl.gov/voter_information/register_to_vote.php",
+  "redirect_chain": [
+    "https://www.votefranklinfl.gov/voter_information/register_to_vote.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "92f9267709fef56b989daf050f484118e6d9e0a00212db26f428bbd0eed41d76",
+  "text_sha256": "3eb766f37a1b6c7176dfc1220ca7747f85e35eabb8c314ba0e2276f96e58c063",
+  "byte_size": 37853,
+  "title": "Franklin County, FL SOE",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

@@ -1,0 +1,24 @@
+{
+  "county": "Leon",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.leonvotes.gov/Registration/Update-Your-Registration",
+  "final_url": "https://www.leonvotes.gov/Registration/Update-Your-Registration",
+  "redirect_chain": [
+    "https://www.leonvotes.gov/Registration/Update-Your-Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
+  "external": false,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "8cc638137afd9d28759a78414299b56b49ae31f70e9bc42a29218aef434503de",
+  "text_sha256": "5206dfa80fa5c0b4cd04528a3c600c03d3bdc82ce09adcfa8a7dcfa5ab12b6dc",
+  "byte_size": 147199,
+  "title": "Update Your Registration",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

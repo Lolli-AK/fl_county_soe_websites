@@ -1,0 +1,24 @@
+{
+  "county": "Alachua",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votealachua.gov/205/Register-to-Vote-or-Update-Registration",
+  "final_url": "https://www.votealachua.gov/205/Register-to-Vote-or-Update-Registration",
+  "redirect_chain": [
+    "https://www.votealachua.gov/205/Register-to-Vote-or-Update-Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "98fd1230dca0df3c9e0b2fb9914ac5a4dd79fc19a0d7e3657f21c6772390a354",
+  "text_sha256": "2893cc5fff18452991f3dff797aec1491863b8aefdd660620abb611351f8dc7f",
+  "byte_size": 45956,
+  "title": "Register to Vote or Update Registration | Alachua County Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

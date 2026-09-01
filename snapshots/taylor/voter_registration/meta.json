@@ -1,0 +1,24 @@
+{
+  "county": "Taylor",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.taylorelectionsfl.gov/third-party-registration-organization/",
+  "final_url": "https://www.taylorelectionsfl.gov/third-party-registration-organization/",
+  "redirect_chain": [
+    "https://www.taylorelectionsfl.gov/third-party-registration-organization/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "ab6773844197a389aee72df962e16bb031a012806a4bf259d37c1a83b59a1e8c",
+  "text_sha256": "9680003efce7d6e322567980acec1b4fb0e073c05067e4003089e14b2ac2e559",
+  "byte_size": 58684,
+  "title": "Third Party Registration Organizations | Taylor County Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

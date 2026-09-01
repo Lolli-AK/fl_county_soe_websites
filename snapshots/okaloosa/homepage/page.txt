@@ -146,15 +146,15 @@ Early Voting
 Voting Locations
 Military & Overseas
 active registered voters
-(07/20/2026)
+(09/01/2026)
 Democrats
-24,050
+24,343
 Republicans
-85,709
+86,354
 Other
-36,407
+36,566
 Total
-146,166
+147,263
 Upcoming Elections
 November 3, 2026
 General Election
@@ -171,6 +171,10 @@ Book Closing Date for the General Election.
 All Upcoming Dates
 Public Notices
 View All Public Notices
+August 31, 2026
+Notice of Potential Removal from Voter Registration Records
+View the PDF for more information.
+Read Full Announcement
 August 21, 2026
 Notice of Voting System Audit
 View the PDF for more information.
@@ -178,10 +182,6 @@ Read Full Announcement
 August 17, 2026
 Primary Election Day
 View your Sample Ballot HERE. Find your precinct HERE.
-Read Full Announcement
-August 14, 2026
-Notice of Canvassing Board Alternates
-View the PDF for more information.
 Read Full Announcement
 View All Public Notices
 Okaloosa County, Florida

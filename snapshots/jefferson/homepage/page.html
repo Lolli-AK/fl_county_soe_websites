@@ -302,54 +302,58 @@
              </div>
              <div class="relative z-20 col-span-3 p-8 bg-white grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12 shadow-xl">
               <div class="relative">
-               <a class="group no-underline block" href="https://jeffersonvotesfl.gov/becoming-a-candidate/" role="button" tabindex="0" target="">
-                <span class="mega-menu-child-title hover:underline">
-                 Becoming a Candidate
+               <a class="group no-underline block" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title">
+                 Candidate Information
                 </span>
                </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a class="mega-menu-child-link" href="https://jeffersonvotesfl.gov/becoming-a-candidate/" role="button" tabindex="0" target="">
+                 <span>
+                  Becoming a Candidate
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://jeffersonvotesfl.gov/designated-qualifying-office-information/" role="button" tabindex="0" target="">
+                 <span>
+                  Designated Qualifying Office
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://jeffersonvotesfl.gov/ballot-material-inspection/" role="button" tabindex="0" target="">
+                 <span>
+                  Ballot Material Inspection
+                 </span>
+                </a>
+               </div>
               </div>
               <div class="relative">
-               <a class="group no-underline block" href="https://jeffersonvotesfl.gov/ballot-material-inspection/" role="button" tabindex="0" target="">
-                <span class="mega-menu-child-title hover:underline">
-                 Ballot Material Inspection
+               <a class="group no-underline block" role="button" tabindex="0" target="">
+                <span class="mega-menu-child-title">
+                 Finance &amp; Reporting
                 </span>
                </a>
-              </div>
-              <div class="relative">
-               <a class="group no-underline block" href="https://jeffersonvotesfl.gov/designated-qualifying-office-information/" role="button" tabindex="0" target="">
-                <span class="mega-menu-child-title hover:underline">
-                 Designated Qualifying Office
-                </span>
-               </a>
-              </div>
-              <div class="relative">
-               <a class="group no-underline block" href="https://jeffersonvotesfl.gov/candidate-committee-login/" role="button" tabindex="0" target="">
-                <span class="mega-menu-child-title hover:underline">
-                 Login to Finance Reporting
-                </span>
-               </a>
-              </div>
-              <div class="relative">
-               <a class="group no-underline block" href="https://jeffersonvotesfl.gov/download-election-information/" role="button" tabindex="0" target="">
-                <span class="mega-menu-child-title hover:underline">
-                 Candidate/Committee File Access
-                </span>
-               </a>
-              </div>
-              <div class="relative">
-               <a class="group no-underline block" href="https://jeffersonvotesfl.gov/reporting-dates/" role="button" tabindex="0" target="">
-                <span class="mega-menu-child-title hover:underline">
-                 Reporting Dates
-                </span>
-               </a>
-              </div>
-              <div class="relative">
-               <a class="group no-underline block" href="https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=jefferson" role="button" tabindex="0" target="_blank">
-                <span class="mega-menu-child-title hover:underline">
-                 Candidate Profiles &amp; Financial Reports
-                </span>
-                <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-3 w-3" role="button" src="/icons/fa/arrow-up-right-from-square.svg"/>
-               </a>
+               <div class="w-full top-0 flex-col mt-2 mb-4">
+                <a class="mega-menu-child-link" href="https://jeffersonvotesfl.gov/download-election-information/" role="button" tabindex="0" target="">
+                 <span>
+                  Candidate/Committee File Access
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://jeffersonvotesfl.gov/candidate-committee-login/" role="button" tabindex="0" target="">
+                 <span>
+                  Login to Finance Reporting
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://jeffersonvotesfl.gov/reporting-dates/" role="button" tabindex="0" target="">
+                 <span>
+                  Reporting Dates
+                 </span>
+                </a>
+                <a class="mega-menu-child-link" href="https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=jefferson" role="button" tabindex="0" target="_blank">
+                 <span>
+                  Candidate Profiles &amp; Financial Reports
+                 </span>
+                 <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+                </a>
+               </div>
               </div>
              </div>
              <div class="absolute z-0 inset-0 bg-bottom bg-left bg-no-repeat bg-blend-multiply bg-cover opacity-10">
@@ -614,28 +618,38 @@
          </span>
         </div>
         <div class="flex flex-col pt-4 pb-6 pl-3 pr-6 transition" v-if="subMenus.includes(3)">
-         <a class="mobile-nav-child" href="https://jeffersonvotesfl.gov/becoming-a-candidate/" title="Candidates">
-          Becoming a Candidate
+         <a class="mobile-nav-child" href="#" title="Candidates">
+          Candidate Information
          </a>
-         <a class="mobile-nav-child" href="https://jeffersonvotesfl.gov/ballot-material-inspection/" title="Candidates">
-          Ballot Material Inspection
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild" href="https://jeffersonvotesfl.gov/becoming-a-candidate/">
+           Becoming a Candidate
+          </a>
+          <a class="mobile-nav-grandchild" href="https://jeffersonvotesfl.gov/designated-qualifying-office-information/">
+           Designated Qualifying Office
+          </a>
+          <a class="mobile-nav-grandchild" href="https://jeffersonvotesfl.gov/ballot-material-inspection/">
+           Ballot Material Inspection
+          </a>
+         </div>
+         <a class="mobile-nav-child" href="#" title="Candidates">
+          Finance &amp; Reporting
          </a>
-         <a class="mobile-nav-child" href="https://jeffersonvotesfl.gov/designated-qualifying-office-information/" title="Candidates">
-          Designated Qualifying Office
-         </a>
-         <a class="mobile-nav-child" href="https://jeffersonvotesfl.gov/candidate-committee-login/" title="Candidates">
-          Login to Finance Reporting
-         </a>
-         <a class="mobile-nav-child" href="https://jeffersonvotesfl.gov/download-election-information/" title="Candidates">
-          Candidate/Committee File Access
-         </a>
-         <a class="mobile-nav-child" href="https://jeffersonvotesfl.gov/reporting-dates/" title="Candidates">
-          Reporting Dates
-         </a>
-         <a class="mobile-nav-child gap-2" href="https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=jefferson" target="_blank" title="Candidates">
-          Candidate Profiles &amp; Financial Reports
-          <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
-         </a>
+         <div class="w-full flex-col pb-3 mb-4 px-4">
+          <a class="mobile-nav-grandchild" href="https://jeffersonvotesfl.gov/download-election-information/">
+           Candidate/Committee File Access
+          </a>
+          <a class="mobile-nav-grandchild" href="https://jeffersonvotesfl.gov/candidate-committee-login/">
+           Login to Finance Reporting
+          </a>
+          <a class="mobile-nav-grandchild" href="https://jeffersonvotesfl.gov/reporting-dates/">
+           Reporting Dates
+          </a>
+          <a class="mobile-nav-grandchild gap-2" href="https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=jefferson" target="_blank">
+           Candidate Profiles &amp; Financial Reports
+           <img alt="" class="inline-block ml-2 saturate-200 dark:invert h-2.5 w-2.5 opacity-90" role="presentation" src="/icons/fa/arrow-up-right-from-square.svg"/>
+          </a>
+         </div>
         </div>
        </div>
        <div class="w-full px-6">
@@ -716,6 +730,13 @@
      </div>
     </div>
     <main class="bg-white static" id="content">
+     <div :class="{
+  'pt-28 sm:pt-28 md:pt-32 lg:pt-32': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+  'pt-28 sm:pt-20 md:pt-28 lg:pt-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+}" class="w-full relative lg:absolute z-20 border-b-4 border-white" v-cloak="">
+      <alerts>
+      </alerts>
+     </div>
      <section class="w-full h-[47vh] lg:h-[87vh] relative z-10 transition-all duration-1000 grow bg-gray-100">
       <div class="absolute w-full h-[500px] md:h-[60vh] lg:h-screen top-0 z-0 transition-all duration-500">
        <div alt="building" aria-label="building" class="w-full h-full lg:hidden bg-cover bg-center z-0 bg-gray-800" role="img">
@@ -825,7 +846,7 @@
         <span class="bg-right bg-cover bg-no-repeat grow" v-lazy:background-image="'/images/star-lines-1.svg?v=2'">
         </span>
         <h1 class="font-bold text-accent uppercase leading-tight md:text-2xl my-auto" tabindex="0">
-         Voter Totals as of: 07/30/2026
+         Voter Totals as of: 09/01/2026
         </h1>
         <span class="bg-left bg-cover bg-no-repeat grow" v-lazy:background-image="'/images/star-lines-2.svg'">
         </span>
@@ -836,7 +857,7 @@
           Democrats
          </span>
          <div class="voter-total">
-          3,793
+          3,818
          </div>
         </div>
         <div tabindex="0">
@@ -844,7 +865,7 @@
           Republicans
          </span>
          <div class="voter-total">
-          4,729
+          4,762
          </div>
         </div>
         <div tabindex="0">
@@ -852,7 +873,7 @@
           Other
          </span>
          <div class="voter-total">
-          1,387
+          1,402
          </div>
         </div>
         <div tabindex="0">
@@ -860,7 +881,7 @@
           Total
          </span>
          <div class="voter-total">
-          9,909
+          9,982
          </div>
         </div>
        </div>
@@ -990,6 +1011,24 @@
         </div>
        </div>
        <div class="not-prose">
+        <a aria-label="Read full announcement, OFFICE CLOSURE" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://jeffersonvotesfl.gov/announcements/office-closure-this-monday-september-7/" role="link" tabindex="0">
+         <div class="relative z-10 xl:pr-12">
+          <span class="text-accent text-lg font-extrabold uppercase">
+           August 31, 2026
+          </span>
+          <p class="text-primary-dark font-heading text-3xl md:text-4xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
+           OFFICE CLOSURE
+          </p>
+          <p class="font-semibold text-gray-800 text-pretty mt-2">
+           Your Supervisor of Elections office will be closed on Monday, September 7, 2026, in observance…
+          </p>
+         </div>
+         <span class="flex-none whitespace-nowrap btn-simple border-primary-dark bg-primary-dark group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
+          Read Full Announcement
+         </span>
+         <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300">
+         </div>
+        </a>
         <a aria-label="Read full announcement, Public Notice - Post Election Audit" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://jeffersonvotesfl.gov/announcements/public-notice-post-election-audit/" role="link" tabindex="0">
          <div class="relative z-10 xl:pr-12">
           <span class="text-accent text-lg font-extrabold uppercase">
@@ -1018,24 +1057,6 @@
           </p>
           <p class="font-semibold text-gray-800 text-pretty mt-2">
            The Jefferson County Canvassing Board will meet at 10:00 a.m. on Friday, August 21, 2026,…
-          </p>
-         </div>
-         <span class="flex-none whitespace-nowrap btn-simple border-primary-dark bg-primary-dark group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
-          Read Full Announcement
-         </span>
-         <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300">
-         </div>
-        </a>
-        <a aria-label="Read full announcement, 2026 General Election Preparation Report per F.S. 100.032" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://jeffersonvotesfl.gov/announcements/2026-general-election-preparation-report-per-f-s-100-032/" role="link" tabindex="0">
-         <div class="relative z-10 xl:pr-12">
-          <span class="text-accent text-lg font-extrabold uppercase">
-           August 9, 2026
-          </span>
-          <p class="text-primary-dark font-heading text-3xl md:text-4xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
-           2026 General Election Preparation Report per F.S. 100.032
-          </p>
-          <p class="font-semibold text-gray-800 text-pretty mt-2">
-           Florida Statute 100.032 requires every county supervisor of elections to post an election preparation report…
           </p>
          </div>
          <span class="flex-none whitespace-nowrap btn-simple border-primary-dark bg-primary-dark group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
@@ -1074,7 +1095,7 @@
               Jefferson County Supervisor of Elections - Michelle Milligan
              </p>
              <p class="font-semibold text-primary-dark/50">
-              posted 5 days ago
+              posted 1 week ago
              </p>
             </div>
            </div>
@@ -1157,7 +1178,7 @@
          </div>
          <div class="w-full lg:w-1/2">
           <div class="h-full flex flex-wrap">
-           <a class="flex justify-center items-center w-full text-white group bg-center bg-cover max-w-full h-auto" href="https://www.facebook.com/HEX/videos/HEX" target="_blank" v-lazy:background-image="'https://scontent.xx.fbcdn.net/v/t15.5256-10/783485753_2119839098567451_8148057977671834933_n.jpg?stp=dst-jpg_s720x720_tt6&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=5fad0e&amp;_nc_ohc=SG_w1sPlEHoQ7kNvwFtzjJa&amp;_nc_oc=AdpbJE7aF2AuozkjSCqbEL6-qE4jP2gO-Nz78smd6XXWGqsMUxxk5FESe2LClrr81Ws&amp;_nc_zt=23&amp;_nc_ht=scontent.xx&amp;edm=AKIiGfEEAAAA&amp;_nc_gid=2CNsh1BrETXNLBLgrFv8-A&amp;_nc_tpa=Q5bMBQIuXmVoHgl2StTmscAIStQQXRvpgS-MbeVh5iqedq8jeQlTQf0nnht4Se_K2DflpZAfB0R6pa0y&amp;oh=00_AQG6Y-37va10gThKSABSgM_IcTPTuQL18UxqW1PuTqdXhg&amp;oe=6A94CF21'">
+           <a class="flex justify-center items-center w-full text-white group bg-center bg-cover max-w-full h-auto" href="https://www.facebook.com/HEX/videos/HEX" target="_blank" v-lazy:background-image="'https://scontent.xx.fbcdn.net/v/t15.5256-10/783485753_2119839098567451_8148057977671834933_n.jpg?stp=dst-jpg_s720x720_tt6&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=5fad0e&amp;_nc_ohc=3pMXV1phA5EQ7kNvwEnjYrh&amp;_nc_oc=AdpLt4weg4BkWFIOiVuYrqLMnJ_HSO2kiFNePcFjedGJTB2Ci2uEr3B45MvkI_nYOEg&amp;_nc_zt=23&amp;_nc_ht=scontent.xx&amp;edm=AKIiGfEEAAAA&amp;_nc_gid=o4pl6A9JP2HD4kX7mr9Qlg&amp;_nc_tpa=Q5bMBQL1ZKxbcyn-YYZfGJvSkrhUSVQn_CL7I0jOaceeJUtjMAfXu26nPuQ2NVbEHW0LUOgkLQ1IjnCM&amp;oh=00_AQJuObTchjBH5mE0QJt4xHfXbFzk2C1Ry1oRTXI1H_3NDA&amp;oe=6A9CF061'">
             <div class="w-20 h-20 flex justify-center items-center bg-primary/40 rounded-full backdrop-blur text-white group-hover:text-accent">
              <span class="hidden group-hover:inline-flex animate-ping absolute z-0 h-full w-full rounded-full bg-primary/50">
              </span>

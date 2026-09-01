@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-26T16:18:44Z",
-  "html_sha256": "2d1c2121db30f0e2a3ad0b246b51c7b75b9afc1dcd868f0b833db0bc74c17f37",
-  "text_sha256": "16ad8dab679932af4de3b91bcf3f64d1d1b82c595e6f01d15e5a3c4b54e83b73",
-  "byte_size": 81919,
+  "fetched_at": "2026-09-01T19:42:45Z",
+  "html_sha256": "0236839a0328617e472a60d6d5f703d8250b6cfd5039dca3eea1cc1aa1e1b971",
+  "text_sha256": "32ef1c922ad456e5365fb4c2dedde2fdc1ae5673b50e29c04e14a72319bce1ce",
+  "byte_size": 81815,
   "title": "Hamilton County Supervisor of Elections | Laura Hutto",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }
