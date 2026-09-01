@@ -22,7 +22,10 @@ SNAPSHOTS = ROOT / "snapshots"
 
 # Florida has exactly 67 counties. This is the project's scope, not a magic number.
 FLORIDA_COUNTY_COUNT = 67
-PAGE_TYPES = ["homepage", "elections", "polling", "early_voting", "results"]
+# voter_registration was added after the other five were already snapshotting;
+# it is where citizenship language lives, which the other five never carry.
+PAGE_TYPES = ["homepage", "elections", "voter_registration", "polling",
+              "early_voting", "results"]
 # Batch records where the SOE homepage came from:
 #   1 = the Florida DOS Supervisor of Elections directory, verified as published
 #   2 = the directory URL was stale; the live domain was resolved and verified
@@ -110,7 +113,7 @@ def test_seat_and_office_city_differ_for_some_counties(counties):
 # --------------------------------------------------------------------------- #
 # The manifest the pipeline actually reads
 # --------------------------------------------------------------------------- #
-def test_targets_covers_seed_counties_five_ways(counties, targets):
+def test_targets_covers_seed_counties_once_per_page_type(counties, targets):
     """Every seeded county gets exactly one row per page type."""
     seeded = {r["county"].strip() for r in counties}
     seen: dict[str, list[str]] = {}
@@ -306,3 +309,47 @@ def test_artifacts_contain_no_fetch_timestamp(targets):
         if stamp and stamp in f.read_text(encoding="utf-8"):
             offenders.append(str(f))
     assert not offenders, f"fetch timestamp leaked into artifacts: {offenders[:5]}"
+
+
+# --------------------------------------------------------------------------- #
+# The non-citizen-voting flag
+# --------------------------------------------------------------------------- #
+@pytest.mark.skipif(not SNAPSHOTS.exists(), reason="no snapshots captured yet")
+def test_meta_json_carries_the_noncitizen_flag(targets):
+    for r in targets:
+        if not r["url"].strip():
+            continue
+        d = SNAPSHOTS / _slug(r["county"]) / r["page_type"].strip()
+        if not (d / "meta.json").exists():
+            continue
+        meta = json.loads((d / "meta.json").read_text(encoding="utf-8"))
+        flag = meta.get("noncitizen_voting")
+        assert flag is not None, f"{d}: meta.json predates the flag; re-snapshot"
+        assert isinstance(flag["present"], bool)
+        assert flag["present"] == bool(flag["terms"])
+        assert (flag["count"] > 0) == flag["present"]
+
+
+@pytest.mark.skipif(not SNAPSHOTS.exists(), reason="no snapshots captured yet")
+def test_the_flag_agrees_with_a_fresh_scan_of_page_txt(targets):
+    """The stored flag must be reproducible from the committed text.
+
+    This is what lets scan_noncitizen.py rebuild the flag over history: if a
+    stored value could drift from what page.txt implies, a historical row and a
+    live row would no longer mean the same thing.
+    """
+    import sys
+    sys.path.insert(0, str(ROOT / "scripts"))
+    import noncitizen
+
+    for r in targets:
+        if not r["url"].strip():
+            continue
+        d = SNAPSHOTS / _slug(r["county"]) / r["page_type"].strip()
+        if not (d / "meta.json").exists():
+            continue
+        stored = json.loads((d / "meta.json").read_text(encoding="utf-8"))
+        if "noncitizen_voting" not in stored:
+            continue
+        fresh = noncitizen.scan((d / "page.txt").read_text(encoding="utf-8"))
+        assert stored["noncitizen_voting"] == fresh, f"{d} flag is stale"

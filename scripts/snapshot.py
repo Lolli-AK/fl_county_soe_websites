@@ -4,6 +4,11 @@
 Drives fetch -> normalize -> write 3 artifacts (page.html, page.txt, meta.json)
 for every row in manifest/targets.csv, then makes ONE git commit per run.
 
+meta.json also carries a `noncitizen_voting` flag (see noncitizen.py): a
+binary yes/no for whether the page references non-citizen voting, plus the
+terms that matched. It is derived from page.txt, so it never affects the
+fetch and can be recomputed over history.
+
 Fetch strategy is plain-first, escalate-on-empty:
   1. plain HTTP via httpx (realistic UA, follow redirects)
   2. if the cleaned page looks like an empty JS shell -> escalate to headless
@@ -38,6 +43,7 @@ from pathlib import Path
 
 import httpx
 
+import noncitizen
 import normalize
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -456,6 +462,9 @@ def process_target(row: dict, fetched_at: str, allow_headless: bool) -> dict:
         "text_sha256": _sha256(cleaned_text),
         "byte_size": byte_size,
         "title": title,
+        # Derived from cleaned_text, so it is reproducible from page.txt alone
+        # and can be recomputed for any past commit (scripts/scan_noncitizen.py).
+        "noncitizen_voting": noncitizen.scan(cleaned_text),
         "error": result["error"],
     }
 
