@@ -300,12 +300,23 @@ _ANCHOR_RE = re.compile(r"<a\s[^>]*href=", re.I)
 _HEADLESS_LOCK = threading.Lock()
 
 
-def fetch(url: str, allow_headless: bool = True) -> dict:
+def fetch(url: str, allow_headless: bool = True,
+          require_links: bool = True) -> dict:
+    """Fetch a page, escalating to Chromium when the plain result is unusable.
+
+    `require_links` says whether this fetch is being made to CRAWL the page or
+    merely to CHECK it. A page with almost no anchors is a JS shell when you
+    wanted its nav, but it is perfectly normal when you are confirming that a
+    leaf target exists and is HTML -- most registration pages are exactly that.
+    Escalating those was launching a serialized Chromium render per candidate
+    and turning a 254-county sweep into a multi-hour one.
+    """
     r = _fetch_plain(url)
     needs_headless = (
         not r["ok"]
         or (r["status"] or 0) >= 400
-        or ("html" in r["ctype"].lower() and len(_ANCHOR_RE.findall(r["html"])) < 5)
+        or (require_links and "html" in r["ctype"].lower()
+            and len(_ANCHOR_RE.findall(r["html"])) < 5)
     )
     if allow_headless and needs_headless:
         try:

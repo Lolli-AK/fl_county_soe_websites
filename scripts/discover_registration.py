@@ -117,7 +117,10 @@ def discover_one(county: str, a: dict) -> dict:
 
     tried: list[str] = []
     for score, url, text in ranked:
-        r = fetch(url)
+        # Verification only: we need this to exist and be HTML, not to be
+        # crawlable. A registration page having few links is normal, not a
+        # symptom, so it must not trigger a headless render.
+        r = fetch(url, require_links=False)
         tail = url.rstrip("/").split("/")[-1][:30] or url
         if not r["ok"] or (r["status"] or 0) >= 400:
             tried.append(f"{tail} -> {r['status'] or r['error']}")

@@ -29,6 +29,13 @@ The cost of that choice is that a page saying only "only citizens may vote"
 reads as false. That is the intended reading: it is a statement of who may
 vote, not a reference to non-citizen voting as a subject.
 
+One real near-miss is worth knowing about. Several Florida sample-ballot pages
+carry the historical ballot measures "Citizenship Requirement to Vote" and
+"Property Rights for Aliens Ineligible for Citizenship". Neither matches, and
+neither should: they are archival lists of what has appeared on a ballot, not
+the county saying anything about non-citizen voting now. If the flag is ever
+widened, those two are what a careless widening picks up first.
+
 Matching runs on page.txt (normalized visible text), never on raw HTML, so
 the result is deterministic and can be recomputed for any past commit --
 see scripts/scan_noncitizen.py, which backfills the whole git history.
@@ -62,27 +69,35 @@ PATTERNS: list[tuple[str, re.Pattern]] = [
     ("noncitizen_voting", re.compile(
         rf"\bnon{_H}citizens?\b.{{0,{_NEAR}}}?{_VOTE}"
         rf"|{_VOTE}.{{0,{_NEAR}}}?\bnon{_H}citizens?\b", re.I | re.S)),
-    # "Illegal alien voting" and kin. `alien` is required to sit near a voting
-    # word: on its own the word turns up in unrelated federal-form language.
+    # "Illegal alien voting" and kin. The qualifier is REQUIRED, and bare
+    # "alien" near a voting word is not enough, because "Alien Registration
+    # Card" is a green card -- an ID document listed by name on the very
+    # registration pages this watches. Proximity alone flagged those.
     ("alien_voting", re.compile(
-        rf"\b(?:illegal|undocumented|unauthorized)?\s?aliens?\b.{{0,{_NEAR}}}?{_VOTE}"
-        rf"|{_VOTE}.{{0,{_NEAR}}}?\b(?:illegal|undocumented|unauthorized)\s+aliens?\b",
+        rf"\b(?:illegal|undocumented|unauthorized)\s+aliens?\b.{{0,{_NEAR}}}?{_VOTE}"
+        rf"|{_VOTE}.{{0,{_NEAR}}}?\b(?:illegal|undocumented|unauthorized)\s+aliens?\b"
+        rf"|\baliens?\s+(?:who\s+)?(?:vote|votes|voted|voting|register|registered)\b",
         re.I | re.S)),
     # Documentary-proof-of-citizenship requirements: the policy, not the
     # eligibility statement.
     ("proof_of_citizenship", re.compile(
         r"\b(?:documentary\s+)?proof\s+of\s+(?:u\.?\s?s\.?\s+|united\s+states\s+)?citizenship"
         r"|\bcitizenship\s+document(?:s|ation)?\b", re.I)),
-    # List-maintenance and verification programs.
+    # List-maintenance and verification programs. "citizenship status" is
+    # deliberately NOT here: the others name a program or an action, status
+    # only describes a field, and it reads the same on an eligibility page as
+    # on a purge notice.
     ("citizenship_verification", re.compile(
-        r"\bcitizenship\s+(?:verification|check|audit|review|status|screening)\b"
+        r"\bcitizenship\s+(?:verification|check|audit|review|screening)\b"
         r"|\bverif(?:y|ies|ied|ying|ication\s+of)\s+(?:u\.?\s?s\.?\s+)?citizenship\b", re.I)),
-    # SAVE is the federal database states actually use for these checks, and
-    # the bare acronym is too common to match on its own.
+    # SAVE is the federal database states actually use for these checks. The
+    # acronym stays case-sensitive because "save" is an ordinary word ("save
+    # time by voting early"); everything around it does not, or the program's
+    # own title-case name would be missed.
     ("save_program", re.compile(
-        r"\bsystematic\s+alien\s+verification\b"
-        r"|\bSAVE\s+(?:program|database|system)\b"
-        r"|\b(?:program|database|system)\s+known\s+as\s+SAVE\b")),
+        r"(?i:\bsystematic\s+alien\s+verification\b)"
+        r"|\bSAVE\s+(?i:program|database|system)\b"
+        r"|(?i:\b(?:program|database|system)\s+known\s+as\s+)SAVE\b")),
 ]
 
 
