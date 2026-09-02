@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-01T12:51:58Z",
-  "html_sha256": "4c7dd6880e1a07ba23dca9ef33a8e7d9583761e29dce4a9f0712800934fb5ec2",
-  "text_sha256": "1b66d4a2ca817c602e19c0d670f9679677d6db9b34076b8e245e3bc3c1e67f03",
-  "byte_size": 129664,
+  "fetched_at": "2026-09-02T12:22:57Z",
+  "html_sha256": "ac1d9cee5c8542228248c518962654aefc9db156732a3ef446268ccd86412dc5",
+  "text_sha256": "e10f3db7fa1f883ae55bbbeeb7c27a2c0be2cd1a52715ce1ba99533e83f2dc84",
+  "byte_size": 129466,
   "title": "Brevard County Supervisor of Elections > News and Notices > Precinct & Polling Place Change Notices",
   "error": null
 }

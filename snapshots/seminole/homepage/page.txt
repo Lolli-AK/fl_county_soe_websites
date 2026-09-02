@@ -158,30 +158,22 @@ FAQs
 Answers to common voting and election questions.
 Our office will be closed on Monday, May 25, 2026, in observance of Memorial Day.
 We will resume normal business hours on Tuesday, May 26, 2026.
-☆
-PRIMARY ELECTION
-TUESDAY,
-AUGUST 18, 2026
-Everything you need to vote in one place.
-Find My Polling Location
-›
-View My Sample Ballot
-›
-Vote-by-Mail
-›
-PRIMARY ELECTION
-—
-DAYS
-REMAINING
-POLLS ARE OPEN
-7 AM – 7 PM
-ELECTION DAY
-AUG 18
-7 AM – 7 PM
+Election Info
+Primary Election Day
+Polls Are Closed
+Live Results
+Click here
+Election Info
+•
+Polls Closed
+Primary Election Day
+Polls Are Closed
+Live Results
+Click here
 ☆
 PRIMARY ELECTION
 LIVE RESULTS
-Everything you need to vote in one place.
+View results and voter turnout for the 2026 Primary Election.
 Live Results
 ›
 Voter Turnout
@@ -192,35 +184,25 @@ LIVE RESULTS
 Be Election Ready
 Everything you need to vote with confidence, all in one place.
 Register to Vote
-Sign up, update your information, or request a voter card using Florida's online registration system.
+Sign up, update your information, or request a voter card using Florida’s online registration system.
 3 Ways to Vote
 Explore your voting options in Seminole County — Election Day, early voting, or vote-by-mail.
 Upcoming Elections
 View the latest election dates, deadlines, and key details so you never miss your opportunity to vote.
 Are You Election Ready
 Everything you need to vote in Seminole County, from registration requirements to what ID to bring.
-Primary Election Day Starts
-00
-Days
-00
-Hours
-00
-Minutes
-00
-Seconds
-Polls are open from 7AM-7PM.
 Active Registered Voters
-Updated: 08/05
+Updated: 09/01
 Democrat:
-106,745
+107,609
 Republican:
-121,002
+121,619
 NPA:
-98,386
+98,232
 Other:
-13,411
+13,690
 Total:
-339,544
+341,150
 Your Vote.
 Your Voice.
 Your County.

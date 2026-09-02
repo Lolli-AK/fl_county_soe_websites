@@ -129,7 +129,7 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 08/31/2026
+Voter Totals as of: 09/01/2026
 Democrats
 6,103
 Republicans
@@ -161,13 +161,13 @@ Early Voting: General Election
 All Upcoming Dates
 Announcements
 View all News & Announcements
+September 1, 2026
+2026 General Election Sample Ballots Now Available
+Read Full Announcement
 August 26, 2026
 Voter Ineligibility Notice
 Read Full Announcement
 August 25, 2026
-Voter Ineligibility Notice
-Read Full Announcement
-August 21, 2026
 Voter Ineligibility Notice
 Read Full Announcement
 View all News & Announcements

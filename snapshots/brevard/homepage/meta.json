@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-01T12:51:58Z",
-  "html_sha256": "1bf54977906d3490905e9fafc665521d61b9520ca90c21f3d6d7c4c282674bde",
-  "text_sha256": "7556afc1fef604e778aecc4384d296384cce4631232e198e0fcaf8cdcf42c7df",
-  "byte_size": 146628,
+  "fetched_at": "2026-09-02T12:22:57Z",
+  "html_sha256": "256f3d9f7d8bb2a7e7610939c4312d01d50036cdb01ba4c0610868639da3d431",
+  "text_sha256": "2709213495737b8424f7fe2f4e1b4382a5c07a1989221a8f7228ce198fdf8792",
+  "byte_size": 146420,
   "title": "Brevard County Supervisor of Elections",
   "error": null
 }

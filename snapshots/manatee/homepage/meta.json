@@ -2,18 +2,19 @@
   "county": "Manatee",
   "page_type": "homepage",
   "requested_url": "https://www.votemanatee.gov",
-  "final_url": "https://www.votemanatee.gov",
+  "final_url": "https://www.votemanatee.gov/check-your-status/",
   "redirect_chain": [
-    "https://www.votemanatee.gov"
+    "https://www.votemanatee.gov",
+    "https://www.votemanatee.gov/check-your-status/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-01T12:51:58Z",
-  "html_sha256": "29cc6a5656ae9f0bce6529e5a746553265b9b08064e51a18afb378d8cedd3905",
-  "text_sha256": "6d686648779d9d8560cbf90903007773f509fcb79b1b82479126f1a762c4ce22",
-  "byte_size": 158739,
-  "title": "Home - Vote Manatee",
+  "fetched_at": "2026-09-02T12:22:57Z",
+  "html_sha256": "dce961f4e6ec588793714adb6d56ab0e53e0bbdf9d9ca7177e3a2bbd79f0e505",
+  "text_sha256": "ff29fd9da87233ce83c8bd5fed6294e0b8d492fd6ee8a8f3f15a0eff27f845df",
+  "byte_size": 96935,
+  "title": "Check Your Status - Vote Manatee",
   "error": null
 }
