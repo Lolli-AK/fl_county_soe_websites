@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-02T12:22:57Z",
-  "html_sha256": "420fa2ece09eb1a02c6d2941ce35fa426f579c33da45f1999ffec82a2576b170",
-  "text_sha256": "a4d6ff7345b5bbf8fc60826f73277c5baf6b6192fefe0573f822a1cd4b152f03",
-  "byte_size": 48622,
+  "fetched_at": "2026-09-03T12:20:23Z",
+  "html_sha256": "f95714fd3ba43be5451854afceda6f9042b50a68395f17f5a5ba17334c6abf6c",
+  "text_sha256": "9fa66ec09620f57c74575dc9588e5ca3331562867534a9d33ed26dab1e9adcbe",
+  "byte_size": 49548,
   "title": "Voting Locations | Levy County Supervisor of Elections",
   "error": null
 }

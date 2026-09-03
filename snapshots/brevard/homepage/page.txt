@@ -115,17 +115,17 @@ Welcome to the Brevard County
 Supervisor of Elections
 Tim Bobanic
 Active Registered Voters as of:
-09/02/2026
+09/03/2026
 Republican
-206,626
+206,665
 Democratic
-111,406
+111,417
 Non-Partisan
-106,399
+106,416
 Others
-18,812
+18,821
 Total
-443,243
+443,319
 2026 Primary Election Results
 View Election Results
 View Announced and Qualified Candidates for the 2026 Election Cycle
@@ -156,11 +156,6 @@ Facebook
 X
 Brevard County Supervisor of Elections
 Upcoming Events
-September 2, 2026
-10:30 AM -
-12:30 PM
-Voter Registration Drive - Harborview Health Center
-Read More
 September 7, 2026
 All day
 Offices Closed - Labor Day Holiday
@@ -179,6 +174,10 @@ September 17, 2026
 11:00 AM -
 2:00 PM
 Voter Registration Drive - EFSC Constitution Day Celebration
+Read More
+September 18, 2026
+All day
+Mass mail of Military/Overseas (UOCAVA) Mail Ballots - 2026 General Election
 Read More
 Brevard County Supervisor of Elections
 Election Public Notices

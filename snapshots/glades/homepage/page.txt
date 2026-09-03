@@ -99,11 +99,11 @@ Precinct District Assignments
 Public Notices
 Voting System Post-Election Audit Report
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 09/02/2026:
+Active Registered Voters as of 09/03/2026:
 Dem: 1,408
-Rep: 4,088
-Oth: 1,312
-Total: 6,808
+Rep: 4,089
+Oth: 1,313
+Total: 6,810
 Register to Vote
 Election Dates
 Polling Location

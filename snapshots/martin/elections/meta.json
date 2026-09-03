@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-02T12:22:57Z",
-  "html_sha256": "b9c26a01f04b035c7693e077bc00d58a16d548144fd9f50784073e40cd4b2fa4",
-  "text_sha256": "98ca2d162424e748d5ff5aa228dd328d65d6ed1b5c62b4137334968ae6ad2747",
-  "byte_size": 68488,
+  "fetched_at": "2026-09-03T12:20:23Z",
+  "html_sha256": "34fa320a4b4b6a74bb2f2d53fa69a359fb4c6f6b4d42c9a44399f8e0ba0ad450",
+  "text_sha256": "0ce7da38e1d40e078dccc6122c791bb80aa6ec5a3fef3e8174820a23ee543f27",
+  "byte_size": 67823,
   "title": "Election Information - Martin County",
   "error": null
 }

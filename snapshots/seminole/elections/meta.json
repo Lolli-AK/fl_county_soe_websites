@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-02T12:22:57Z",
-  "html_sha256": "c812be9d36ed48a615dd24686efde7b10e67b32424e20edc3a4a35ba8a53ad64",
-  "text_sha256": "0830be7e6943ddbe7869499ba2abd0d8f0466b536bb45b4d28f116ed87da4d08",
-  "byte_size": 75694,
+  "fetched_at": "2026-09-03T12:20:23Z",
+  "html_sha256": "913ee72978ab47b41431a0ea5a1f3dd70c665a014b9a517524091bbd6342098a",
+  "text_sha256": "53160e25ed992a23a95e1e2fba5acf8492c2e9ce6508575af3206da30969b81e",
+  "byte_size": 75836,
   "title": "Upcoming Elections – voteseminole.gov",
   "error": null
 }

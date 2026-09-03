@@ -125,15 +125,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 09/02/2026
+Voter Totals as of: 09/03/2026
 Democrats
-3,818
+3,822
 Republicans
-4,762
+4,768
 Other
-1,402
+1,404
 Total
-9,982
+9,994
 Upcoming Elections
 Nov 3, 2026
 General Election

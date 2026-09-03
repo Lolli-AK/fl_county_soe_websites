@@ -59,11 +59,11 @@
           'h-16 md:h-32 md:-mt-12 lg:h-32 2xl:-mt-14': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
           'h-16 md:h-28 lg:h-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
         }" class="flex lg:bg-white lg:relative lg:z-20" href="/">
-         <img alt="photo of Dana Southerland, Supervisor of Elections" class="block h-full w-auto transition-all relative z-20" height="144px" src="/images/dana-headshot.webp" width="126px"/>
+         <img alt="photo of Tammy Jones, Supervisor of Elections" class="block h-full w-auto transition-all relative z-20" height="144px" src="/images/soe-headshot-new-small.jpg" width="126px"/>
          <div :class="{
             'md:pt-12': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
             'md:pt-0 lg:py-2': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
-          }" class="my-auto transition-all p-1 lg:pt-0 lg:pr-8">
+          }" class="my-auto transition-all p-1 pl-2 lg:pt-0 lg:pl-6 lg:pr-8">
           <img :class="{
                 '2xl:h-20': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
                 '': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
@@ -415,6 +415,16 @@
                   Public Records Request
                  </span>
                 </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votelevy.gov/resources/meet-the-supervisor/" role="button" tabindex="0" target="">
+                 <span class="whitespace-nowrap">
+                  Meet the Supervisor
+                 </span>
+                </a>
+                <a aria-label="navigation link" class="mega-menu-child-link" href="https://www.votelevy.gov/resources/meet-the-staff/" role="button" tabindex="0" target="">
+                 <span class="whitespace-nowrap">
+                  Meet the Staff
+                 </span>
+                </a>
                </div>
               </div>
               <div class="relative">
@@ -696,6 +706,12 @@
           <a class="mobile-nav-grandchild" href="https://www.votelevy.gov/resources/public-records-request/">
            Public Records Request
           </a>
+          <a class="mobile-nav-grandchild" href="https://www.votelevy.gov/resources/meet-the-supervisor/">
+           Meet the Supervisor
+          </a>
+          <a class="mobile-nav-grandchild" href="https://www.votelevy.gov/resources/meet-the-staff/">
+           Meet the Staff
+          </a>
          </div>
          <a class="mobile-nav-child" href="#" title="Resources">
           Elected Officials
@@ -852,7 +868,7 @@
        <span class="flex mx-auto items-center justify-center w-80 h-8 bg-no-repeat bg-center bg-contain" v-lazy:background-image="'/images/line-star-line.svg'">
        </span>
        <h2 class="flex leading-tight md:text-3xl my-auto mx-auto items-center justify-center font-heading pb-6 md:pb-12 text-gray-700/95" tabindex="0">
-        Voter Totals as of: 09/01/2026
+        Voter Totals as of: 09/02/2026
        </h2>
        <div class="w-full grid grid-cols-2 md:grid-cols-4 gap-4 max-w-7xl mx-auto text-center px-4">
         <div tabindex="0">
@@ -868,7 +884,7 @@
           Republicans
          </h3>
          <div class="voter-total">
-          18,839
+          18,851
          </div>
         </div>
         <div tabindex="0">
@@ -876,7 +892,7 @@
           Other
          </h3>
          <div class="voter-total">
-          5,276
+          5,279
          </div>
         </div>
         <div tabindex="0">
@@ -884,7 +900,7 @@
           Total
          </h3>
          <div class="voter-total">
-          30,218
+          30,233
          </div>
         </div>
        </div>
@@ -1127,6 +1143,9 @@
         <div class="w-full flex flex-wrap gap-2 md:gap-4 xl:gap-4 py-4 justify-start">
          <a class="group relative z-10 flex items-center btn-accent-outlined" href="/resources/meet-the-supervisor/" target="_self">
           Meet Your Supervisor
+         </a>
+         <a class="group relative z-10 flex items-center btn-primary-outlined" href="/resources/meet-the-staff/" target="_self">
+          Meet the Team
          </a>
         </div>
        </div>

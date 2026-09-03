@@ -1,4 +1,4 @@
-Check Your Status - Vote Manatee
+Home - Vote Manatee
 Skip to main content
 Contact
 EN
@@ -84,19 +84,67 @@ Federal Voting Assistance (External Link)
 Florida Elections Commission (External Link)
 Florida Commission on Ethics (External Link)
 search
-Home
-»
-Check Your Status
-Check Your Status
-Complete the form to see:
-Where to vote on election day
-Sample ballots
-Upcoming elections
-Request an absentee/mail ballot
-Review/update your voter registration information
-Check the status of your absentee/mail ballot
-Review your voting activity for the past 12 months
-Voter Information Lookup
+Active Registered Voters
+as of:
+09/03/2026
+Democratic
+67,915
+Republican
+142,551
+No Party Affiliation
+64,712
+Other
+9,984
+Total
+285,162
+Check your Voter Registration Status
+Am I Registered?
+Link to Register to Vote
+Register to Vote
+Link to find your precinct
+Where Do I Vote?
+Link to information about vote by mail
+Vote by Mail
+Link to get a sample ballot
+Sample Ballot
+Manatee County Unofficial Voter Turnout
+Manatee County Unofficial Election Results
+Now Open
+SEASONAL ELECTIONS OFFICE
+Voter Services Available July 6 – November 6, 2026
+Monday – Friday, 9:00 AM – 5:00 PM (Closed for Lunch)
+Learn More
+Manatee County
+Administration Building – East Campus
+9000 Town Center Parkway
+Lakewood Ranch, FL 34202
+Message from Supervisor of Elections
+Scott Farrington
+Welcome to the Manatee County Supervisor of Elections website. Whether you’re a first-time voter, a longtime resident, we want you to know that your voice matters and your participation strengthens our democracy.
+Our office is dedicated to conducting secure, accurate, and transparent elections.  My team pledges to provide professional, courteous, and respectful service to every person who walks through our doors, calls our office, or visits our website.
+We encourage all eligible citizens of Manatee County to register to vote, become familiar with the candidates and issues, and to cast your ballot in every election. We’re here to answer your questions and ensure your voting experience is positive and empowering. Thank you for being an engaged citizen of Manatee County.
+Learn More about Scott
+Upcoming Elections
+Upcoming Elections
+Primary Election – August 18, 2026
+Primary Election – August 18, 2026
+Primary Election – August 18, 2026
+Florida is a Closed Primary State. In partisan races, you may only vote for candidates in the same party you are registered (click for more information).
+Read More
+General Election – November 3, 2026
+General Election – November 3, 2026
+General Election – November 3, 2026
+Including City of Anna Maria, City of Bradenton, City of Bradenton Beach, City of Holmes Beach, and City of Palmetto
+Read More
+Featured Resources
+Check Your Registration Status
+Learn More
+Offices Up for Election
+Learn More
+Your Vote By Mail Request May Have Expired
+Learn More
+Become an Election Worker
+Learn More
 Scott Farrington
 Supervisor of Elections, Manatee County
 Address
