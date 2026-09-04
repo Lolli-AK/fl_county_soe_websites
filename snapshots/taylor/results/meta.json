@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-03T12:20:23Z",
-  "html_sha256": "65e150538e070ac583d9bb8017ca8d4e2281b4eb57ddd6cf9bd17fe78d46d2da",
+  "fetched_at": "2026-09-04T12:20:56Z",
+  "html_sha256": "9e50bc6ba44f486f8e95c734cf3303fcf98f7ea40b5bd682c088ee0ea4d7d1c5",
   "text_sha256": "ba4116e4698c57c498d2b91915b13e56351780e7c3852dd6c320e5ff52d51095",
-  "byte_size": 58745,
+  "byte_size": 58771,
   "title": "Election Results | Taylor County Supervisor of Elections",
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-03T12:20:23Z",
-  "html_sha256": "6423cbc37aedf029a923100be9a26e3e3df9027a4a7d3f36d52a40b09d992d8c",
+  "fetched_at": "2026-09-04T12:20:56Z",
+  "html_sha256": "5ad5729dc7e91a1afb5d3e8f6fdf4a6f50e3537697171d8dfea15901fd9ee8e5",
   "text_sha256": "97be9dc6bb71b5fd320123de14976360f48c3496c30abfc2d8b486194742ab67",
-  "byte_size": 69556,
+  "byte_size": 69582,
   "title": "Where to Vote in Person",
   "error": null
 }

@@ -121,10 +121,12 @@ Sample Ballots
 Election Mail
 Submit A Public Records Request
 ‹
-2026 general election center
+2026 general
+election center
 Orange County’s Election Center has everything you need for the
 2026 General Election
-, all in one place! Access your voter information, explore turnout updates, follow results on election night, and find important election resources to help you stay informed.
+, all in one place! Access your voter information,
+turnout updates, follow results on election night, and find resources to help you stay informed.
 Visit our election center
 HOW CAN WE HELP YOU?
 WHAT’S ON MY BALLOT?
@@ -164,59 +166,59 @@ Read More
 View Calendar
 VOTER STATISTICS
 Registered Active Voters
-as of 09/02/2026
+as of 09/03/2026
 Switch to details
 Switch to summary
 Party
 Count
 Percentage
 Dem.
-315,741
-38.90%
+315,800
+38.89%
 Rep.
-226,721
+226,772
 27.93%
 Other
-32,173
-3.96%
+32,210
+3.97%
 NPA
-237,132
+237,181
 29.21%
 Total
-811,767
+811,963
 100%
 Party Name
 Count
 Florida Democratic Party
-315,741
+315,800
 NO PARTY AFFILIATION
-237,132
+237,181
 Republican Party Of Florida
-226,721
+226,772
 Independent Party of Florida
-18,196
+18,207
 Boricua Party
-2,939
+2,948
 Conservative Party of Florida
 2,459
 America First Party of Florida
-2,242
+2,256
 Libertarian Party of Florida
-2,096
+2,095
 Constitution Party of Florida
 1,086
 Coalition With A Purpose Party
-879
+880
 American Solidarity Party of Florida
 752
 Green Party of Florida
-707
+708
 Ecology Party of Florida
 335
 Party for Socialism and Liberation – Florida
-227
+228
 Florida Forward Party
-221
+222
 We the People Florida
 22
 Jeffersonian Party of Florida
@@ -224,15 +226,15 @@ Jeffersonian Party of Florida
 MGTOW Party
 6
 Total
-811,767
+811,963
 Vote By Mail Standing Request Totals
-as of 09/02/2026
+as of 09/03/2026
 Election Name
 Count
 2026 General Election
-101,698
+101,809
 Permanent VBM requests 2025-2026
-98,958
+99,045
 BY THE NUMBERS
 Get a quick snapshot of elections in Orange County. We highlight key statistics that capture the scale, accuracy, and impact of our election operations.
 8

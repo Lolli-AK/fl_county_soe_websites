@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-03T12:20:23Z",
-  "html_sha256": "8bf67d384772a669249b76cc54a0407f7e2cc8b405d0731282bc106622dee2fe",
+  "fetched_at": "2026-09-04T12:20:56Z",
+  "html_sha256": "b50baf8a65f7935ccbd3dad62d03f625e2e0289e222910395963c82f3bc07e88",
   "text_sha256": "69bb1470fc57774208154750e55dbc5706176c7daa300b57104b35393a1dc818",
-  "byte_size": 61732,
+  "byte_size": 61758,
   "title": "Vote Early",
   "error": null
 }

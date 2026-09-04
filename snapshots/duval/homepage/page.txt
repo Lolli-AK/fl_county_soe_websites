@@ -44,11 +44,11 @@ View All News
 Public Notices
 2026 Primary Voting System Audit
 2026 General Election Preparation Report
+Notice of General Logic and Accuracy Test
 2026 Primary Canvassing Board Notice
 2026 Primary Super Sampler
 July 1, 2026
 Precinct Boundary Changes
-Polling Place Changes
 View All News
 /CivicAlerts.aspx
 Calendar
@@ -95,10 +95,6 @@ Sat
 1
 2
 3
-Thu, Sep. 3
-Voter Registration at Desert Winds Apartments
-Voter Registration at Desert Winds Apartments
-Read on...
 Fri, Sep. 4
 Speaking Engagement at Mandarin Senior Center
 Speaking Engagement at Mandarin Senior Center
@@ -110,6 +106,10 @@ Read on...
 Tue, Sep. 8
 Democracy Starts Here Museum Grand Opening
 Democracy Starts Here Museum Grand Opening
+Read on...
+Tue, Sep. 8
+Election Center Tour with The Links, Inc. Jacksonville Chapter
+Election Center Tour with The Links, Inc. Jacksonville Chapter
 Read on...
 /Calendar.aspx
 Contact Us

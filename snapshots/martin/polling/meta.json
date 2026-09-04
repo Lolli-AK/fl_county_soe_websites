@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-03T12:20:23Z",
-  "html_sha256": "32c9a00f185ffc09750e9245325c37d166c504f29b7285c7495457d111cd93bc",
-  "text_sha256": "d0e8c1cf0e4f75df35a3d0a3df178fe32ac2e2495a5e3ff86c031a32681d7bf8",
-  "byte_size": 60615,
+  "fetched_at": "2026-09-04T12:20:56Z",
+  "html_sha256": "b1765a3ff151e1e7f36288dba89680b9ec0a88fa6510cfd9016e8cc369d14c95",
+  "text_sha256": "a34833a70b5a8a1fac183d5614dc51dc20dabc90c3acc4dae8e592e2c4059fa8",
+  "byte_size": 59941,
   "title": "Precinct Maps - Martin County",
   "error": null
 }

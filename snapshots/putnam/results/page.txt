@@ -212,7 +212,7 @@ Document Center
 The Document Center provides easy access to public documents. Click on one of the categories below to see related documents or use the search function.
 Search for file name:
 Categories always sorted by seq (sub-categories sorted within each category)
-Documents sorted by SEQ in Descending Order within category
+Documents sorted by SEQ in Ascending Order within category
 RESET
 2000 First Primary Election - September 5, 2000
 1 document
@@ -743,10 +743,19 @@ document seq
 0.00
 Official Election Results
 2026 Primary Election - August 18, 2026
-1 document
+4 documents
 OFFICIAL RESULTS ElectionSummaryReport
 document seq
-0.00
+1.00
+Precinct Summary Voter Turnout Analysis
+document seq
+2.00
+Official Statement of Votes Cast
+document seq
+3.00
+Voting System Post Election Audit Report
+document seq
+4.00
 qualifying office
 2509 Crill Ave, Suite 900
 Palatka, FL 32177

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-03T12:20:23Z",
-  "html_sha256": "ba1d952f689d1609e4b74c7f90d3fe7510254a7ce5e8ea47ee3b5941be899f4b",
-  "text_sha256": "690f077f2c20c4683b72e2f3ff71edebde6e45935f8b3706bb4b5299777df818",
-  "byte_size": 50486,
+  "fetched_at": "2026-09-04T12:20:56Z",
+  "html_sha256": "4c6445cdaa999257b7947ed57be187e1a4c2f49c3ac32dcb4888b6989cd74def",
+  "text_sha256": "0ed8e187509c5c4fb3e0d6a5a74991713239bf67c2ffef5430ea0a7a826ff0a7",
+  "byte_size": 51466,
   "title": "Find My Precinct | Lake County Elections, FL",
   "error": null
 }

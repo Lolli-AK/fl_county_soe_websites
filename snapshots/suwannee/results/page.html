@@ -80,7 +80,7 @@
          </div>
         </div>
         <div class="hidden xl:flex justify-end grow">
-         <nav @mouseenter="isHovered = true" @mouseleave="isHovered = false" class="hidden w-auto h-full xl:flex static transition-all duration-300 px-4 xl:px-8" v-cloak="">
+         <nav @mouseenter="isHovered = true" @mouseleave="isHovered = false" aria-label="Main Menu" class="hidden w-auto h-full xl:flex static transition-all duration-300 px-4 xl:px-8" v-cloak="">
           <div class="group h-full">
            <a aria-label="Voters" class="nav-link" role="button" tabindex="0">
             <span>
@@ -96,7 +96,7 @@
              </div>
              <div class="relative z-20 col-span-3 p-8 bg-gray-950/30 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12">
               <div class="relative">
-               <a aria-label="Ways to Vote" class="group no-underline block" role="button" tabindex="0" target="">
+               <a aria-label="Ways to Vote" class="group no-underline block" tabindex="0" target="">
                 <span class="mega-menu-child-title">
                  Ways to Vote
                 </span>
@@ -120,7 +120,7 @@
                </div>
               </div>
               <div class="relative">
-               <a aria-label="Voting Tools &amp; Resources" class="group no-underline block" role="button" tabindex="0" target="">
+               <a aria-label="Voting Tools &amp; Resources" class="group no-underline block" tabindex="0" target="">
                 <span class="mega-menu-child-title">
                  Voting Tools &amp; Resources
                 </span>
@@ -192,35 +192,35 @@
              </div>
              <div class="relative z-20 col-span-3 p-8 bg-gray-950/30 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12">
               <div class="relative">
-               <a aria-label="Upcoming Dates to Remember" class="group no-underline block" href="https://www.suwanneevotes.com/events/" role="button" tabindex="0" target="">
+               <a aria-label="Upcoming Dates to Remember" class="group no-underline block" href="https://www.suwanneevotes.com/events/" tabindex="0" target="">
                 <span class="mega-menu-child-title hover:underline">
                  Upcoming Dates to Remember
                 </span>
                </a>
               </div>
               <div class="relative">
-               <a aria-label="Election Results" class="group no-underline block" href="https://www.suwanneevotes.com/election-results/" role="button" tabindex="0" target="">
+               <a aria-label="Election Results" class="group no-underline block" href="https://www.suwanneevotes.com/election-results/" tabindex="0" target="">
                 <span class="mega-menu-child-title hover:underline">
                  Election Results
                 </span>
                </a>
               </div>
               <div class="relative">
-               <a aria-label="Initiative Petitions" class="group no-underline block" href="https://www.suwanneevotes.com/initiative-petitions/" role="button" tabindex="0" target="">
+               <a aria-label="Initiative Petitions" class="group no-underline block" href="https://www.suwanneevotes.com/initiative-petitions/" tabindex="0" target="">
                 <span class="mega-menu-child-title hover:underline">
                  Initiative Petitions
                 </span>
                </a>
               </div>
               <div class="relative">
-               <a aria-label="Petitions" class="group no-underline block" href="https://www.suwanneevotes.com/petitions/" role="button" tabindex="0" target="">
+               <a aria-label="Petitions" class="group no-underline block" href="https://www.suwanneevotes.com/petitions/" tabindex="0" target="">
                 <span class="mega-menu-child-title hover:underline">
                  Petitions
                 </span>
                </a>
               </div>
               <div class="relative">
-               <a aria-label="Primary Elections" class="group no-underline block" href="https://dos.fl.gov/elections/for-voters/voter-registration/closed-primary-elections/" role="button" tabindex="0" target="_blank">
+               <a aria-label="Primary Elections (link opens in a new tab)" class="group no-underline block" href="https://dos.fl.gov/elections/for-voters/voter-registration/closed-primary-elections/" tabindex="0" target="_blank">
                 <span class="mega-menu-child-title hover:underline">
                  Primary Elections
                 </span>
@@ -248,14 +248,14 @@
              </div>
              <div class="relative z-20 col-span-3 p-8 bg-gray-950/30 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12">
               <div class="relative">
-               <a aria-label="Candidate Committee Profiles &amp;#038; Financial Reports" class="group no-underline block" href="https://www.suwanneevotes.com/candidate-committee-profiles-financial-reports/" role="button" tabindex="0" target="">
+               <a aria-label="Candidate Committee Profiles &amp;#038; Financial Reports" class="group no-underline block" href="https://www.suwanneevotes.com/candidate-committee-profiles-financial-reports/" tabindex="0" target="">
                 <span class="mega-menu-child-title hover:underline">
                  Candidate Committee Profiles &amp; Financial Reports
                 </span>
                </a>
               </div>
               <div class="relative">
-               <a aria-label="State Announced Candidates" class="group no-underline block" href="https://dos.elections.myflorida.com/candidates/" role="button" tabindex="0" target="_blank">
+               <a aria-label="State Announced Candidates (link opens in a new tab)" class="group no-underline block" href="https://dos.elections.myflorida.com/candidates/" tabindex="0" target="_blank">
                 <span class="mega-menu-child-title hover:underline">
                  State Announced Candidates
                 </span>
@@ -263,14 +263,14 @@
                </a>
               </div>
               <div class="relative">
-               <a aria-label="How to Become a Candidate" class="group no-underline block" href="https://www.suwanneevotes.com/how-to-become-a-candidate/" role="button" tabindex="0" target="">
+               <a aria-label="How to Become a Candidate" class="group no-underline block" href="https://www.suwanneevotes.com/how-to-become-a-candidate/" tabindex="0" target="">
                 <span class="mega-menu-child-title hover:underline">
                  How to Become a Candidate
                 </span>
                </a>
               </div>
               <div class="relative">
-               <a aria-label="Candidate &amp; Committee Login" class="group no-underline block" href="https://www.voterfocus.com/CampaignFinance/candidate_login.php?county=suwannee" role="button" tabindex="0" target="_blank">
+               <a aria-label="Candidate &amp; Committee Login (link opens in a new tab)" class="group no-underline block" href="https://www.voterfocus.com/CampaignFinance/candidate_login.php?county=suwannee" tabindex="0" target="_blank">
                 <span class="mega-menu-child-title hover:underline">
                  Candidate &amp; Committee Login
                 </span>
@@ -278,7 +278,7 @@
                </a>
               </div>
               <div class="relative">
-               <a aria-label="Candidate Forms" class="group no-underline block" href="https://dos.fl.gov/elections/forms-publications/forms/" role="button" tabindex="0" target="_blank">
+               <a aria-label="Candidate Forms (link opens in a new tab)" class="group no-underline block" href="https://dos.fl.gov/elections/forms-publications/forms/" tabindex="0" target="_blank">
                 <span class="mega-menu-child-title hover:underline">
                  Candidate Forms
                 </span>
@@ -286,7 +286,7 @@
                </a>
               </div>
               <div class="relative">
-               <a aria-label="State Publications" class="group no-underline block" href="https://dos.fl.gov/elections/forms-publications/publicationsreports/" role="button" tabindex="0" target="_blank">
+               <a aria-label="State Publications (link opens in a new tab)" class="group no-underline block" href="https://dos.fl.gov/elections/forms-publications/publicationsreports/" tabindex="0" target="_blank">
                 <span class="mega-menu-child-title hover:underline">
                  State Publications
                 </span>
@@ -294,7 +294,7 @@
                </a>
               </div>
               <div class="relative">
-               <a aria-label="Candidate File Distribution" class="group no-underline block" href="https://www.suwanneevotes.com/candidate-file-distribution/" role="button" tabindex="0" target="">
+               <a aria-label="Candidate File Distribution" class="group no-underline block" href="https://www.suwanneevotes.com/candidate-file-distribution/" tabindex="0" target="">
                 <span class="mega-menu-child-title hover:underline">
                  Candidate File Distribution
                 </span>
@@ -321,35 +321,35 @@
              </div>
              <div class="relative z-20 col-span-3 p-8 bg-gray-950/30 grid grid-cols-2 2xl:grid-cols-3 gap-8 xl:pl-12">
               <div class="relative">
-               <a aria-label="Election News &amp;#038; Announcements" class="group no-underline block" href="https://www.suwanneevotes.com/announcements/" role="button" tabindex="0" target="">
+               <a aria-label="Election News &amp;#038; Announcements" class="group no-underline block" href="https://www.suwanneevotes.com/announcements/" tabindex="0" target="">
                 <span class="mega-menu-child-title hover:underline">
                  Election News &amp; Announcements
                 </span>
                </a>
               </div>
               <div class="relative">
-               <a aria-label="Duties of the Supervisor" class="group no-underline block" href="https://www.suwanneevotes.com/duties-of-the-supervisor/" role="button" tabindex="0" target="">
+               <a aria-label="Duties of the Supervisor" class="group no-underline block" href="https://www.suwanneevotes.com/duties-of-the-supervisor/" tabindex="0" target="">
                 <span class="mega-menu-child-title hover:underline">
                  Duties of the Supervisor
                 </span>
                </a>
               </div>
               <div class="relative">
-               <a aria-label="Poll Worker Information" class="group no-underline block" href="https://www.suwanneevotes.com/poll-worker-information/" role="button" tabindex="0" target="">
+               <a aria-label="Poll Worker Information" class="group no-underline block" href="https://www.suwanneevotes.com/poll-worker-information/" tabindex="0" target="">
                 <span class="mega-menu-child-title hover:underline">
                  Poll Worker Information
                 </span>
                </a>
               </div>
               <div class="relative">
-               <a aria-label="Public Records Request" class="group no-underline block" href="https://www.suwanneevotes.com/public-records-request/" role="button" tabindex="0" target="">
+               <a aria-label="Public Records Request" class="group no-underline block" href="https://www.suwanneevotes.com/public-records-request/" tabindex="0" target="">
                 <span class="mega-menu-child-title hover:underline">
                  Public Records Request
                 </span>
                </a>
               </div>
               <div class="relative">
-               <a aria-label="Public Records Exemption Request" class="group no-underline block" href="https://files.floridados.gov/media/695951/dos119.pdf" role="button" tabindex="0" target="_blank">
+               <a aria-label="Public Records Exemption Request (link opens in a new tab)" class="group no-underline block" href="https://files.floridados.gov/media/695951/dos119.pdf" tabindex="0" target="_blank">
                 <span class="mega-menu-child-title hover:underline">
                  Public Records Exemption Request
                 </span>
@@ -357,7 +357,7 @@
                </a>
               </div>
               <div class="relative">
-               <a aria-label="FAQs" class="group no-underline block" href="https://dos.fl.gov/elections/contacts/frequently-asked-questions/" role="button" tabindex="0" target="_blank">
+               <a aria-label="FAQs (link opens in a new tab)" class="group no-underline block" href="https://dos.fl.gov/elections/contacts/frequently-asked-questions/" tabindex="0" target="_blank">
                 <span class="mega-menu-child-title hover:underline">
                  FAQs
                 </span>
@@ -365,7 +365,7 @@
                </a>
               </div>
               <div class="relative">
-               <a aria-label="Florida Division of Elections" class="group no-underline block" href="https://dos.fl.gov/elections" role="button" tabindex="0" target="_blank">
+               <a aria-label="Florida Division of Elections (link opens in a new tab)" class="group no-underline block" href="https://dos.fl.gov/elections" tabindex="0" target="_blank">
                 <span class="mega-menu-child-title hover:underline">
                  Florida Division of Elections
                 </span>
@@ -373,7 +373,7 @@
                </a>
               </div>
               <div class="relative">
-               <a aria-label="Contact Us" class="group no-underline block" href="https://www.suwanneevotes.com/contact-us/" role="button" tabindex="0" target="">
+               <a aria-label="Contact Us" class="group no-underline block" href="https://www.suwanneevotes.com/contact-us/" tabindex="0" target="">
                 <span class="mega-menu-child-title hover:underline">
                  Contact Us
                 </span>

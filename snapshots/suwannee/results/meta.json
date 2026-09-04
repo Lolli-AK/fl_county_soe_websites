@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-03T12:20:23Z",
-  "html_sha256": "d985982d6dfcecddd492b42e2addbcff5648a366065cc6c74a8e256e85081a43",
+  "fetched_at": "2026-09-04T12:20:56Z",
+  "html_sha256": "4410799552466af18826d6228948c210abe8cbe9d30752e4074a42d8cd2bc6e0",
   "text_sha256": "15ec45b7fc2b1601b493309f3b0c1a326520e6d616e7dc4b0cf9c681cc14c212",
-  "byte_size": 43881,
+  "byte_size": 43804,
   "title": "Election Results | Suwannee County Supervisor of Elections",
   "error": null
 }
