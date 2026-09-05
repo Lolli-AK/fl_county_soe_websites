@@ -146,15 +146,15 @@ Early Voting
 Voting Locations
 Military & Overseas
 active registered voters
-(09/03/2026)
+(09/04/2026)
 Democrats
-24,381
+24,392
 Republicans
-86,473
+86,462
 Other
-36,609
+36,607
 Total
-147,463
+147,461
 Upcoming Elections
 November 3, 2026
 General Election
@@ -168,6 +168,10 @@ IMPORTANTE: Las boletas y los materiales electorales están disponibles en ingl�
 Dates to Remember
 October 5, 2026
 Book Closing Date for the General Election.
+October 8, 2026
+The Logic & Accuracy Test will be held at 8:30 AM; October 8, 2026.
+October 19, 2026
+Early Voting for the General Election will be held every day 7AM – 7PM; October 19-31, 2026.
 All Upcoming Dates
 Public Notices
 View All Public Notices

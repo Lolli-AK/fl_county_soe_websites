@@ -164,15 +164,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(09/03/2026)
+(09/04/2026)
 Democrats
-23,706
+23,708
 Republicans
-74,915
+74,920
 Other
-28,902
+28,912
 Total
-127,523
+127,540
 Upcoming Elections
 All Upcoming Elections
 General Election
@@ -194,11 +194,10 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 2 days ago
-Did you know that your vote-by-mail request expires after every General Election?
-📣Renew your request today for the 2026 General Election by calling 850-784-6100,
-📣or request online at the link below:
-https://www.bayvotesfl.gov/voters/vote-by-mail/
+posted 21 hours ago
+In observance of the Labor Day Holiday, the Supervisor of Elections office will be closed Monday, September 7, 2026. Normal business hours will resume on September 8, 2026.
+Remember, voter registration services are always available online at
+www.bayvotesfl.gov
 View Facebook Post
 (opens in a new tab)
 Public Notices
@@ -232,6 +231,11 @@ Panama City, FL 32401
 Office Hours
 Monday-Friday
 8:00 AM to 5:00 PM
+Quick Links
+Florida Election Laws
+Florida Commission on Ethics
+Florida Division of Elections
+Florida Election Commission Complaint Form
 Spanish support
 hotline:
 Call

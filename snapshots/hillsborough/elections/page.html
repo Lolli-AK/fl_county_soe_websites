@@ -217,9 +217,39 @@
                      .
                     </div>
                    </div>
-                   <p>
-                    There are no active alerts.
-                   </p>
+                   <div id="ctl00_ctl00_MainContent_ModuleContent_ctl00_categoryListControl_categoriesUpdatePanel">
+                    <div class="listing listingCollapse divCat_5" id="ctl00_ctl00_MainContent_ModuleContent_ctl00_categoryListControl_lvwCategories_ctrl0_divCategory">
+                     <div id="ctl00_ctl00_MainContent_ModuleContent_ctl00_categoryListControl_lvwCategories_ctrl0_divAuxCatLiveEdit">
+                      <h2 aria-controls="ctl00_ctl00_MainContent_ModuleContent_ctl00_categoryListControl_lvwCategories_ctrl0_alertsList" aria-expanded="true" aria-label="Category Office Update with 1  Alert" class="active" data-cp-toggle="collapse" onkeypress="this.onclick();" role="button" tabindex="0">
+                       Office Update
+                      </h2>
+                      <span class="numAlerts">
+                       1 Alert
+                      </span>
+                     </div>
+                     <div id="ctl00_ctl00_MainContent_ModuleContent_ctl00_categoryListControl_lvwCategories_ctrl0_alertsList">
+                      <ol class="alerts-list no-bullets">
+                       <li aria-labelledby="alertHeader_11" class="alerts-list" id="alertItem">
+                        <div class="alert on noBorder first" id="ctl00_ctl00_MainContent_ModuleContent_ctl00_categoryListControl_lvwCategories_ctrl0_lvwAlerts_ctrl0_divAlert">
+                         <span class="date" id="alertDate_11">
+                          September 4, 2026 8:00 AM
+                         </span>
+                         <h3 id="alertHeader_11">
+                          <a href="/AlertCenter.aspx?AID=Offices-Closed-RANDOM-7-11" id="alertTitle_11">
+                           Offices Closed September 7
+                          </a>
+                         </h3>
+                         <p>
+                          All Hillsborough County Supervisor of Elections Offices are closed Monday, September 7, for Labor Day.
+                         </p>
+                         <p>
+                         </p>
+                        </div>
+                       </li>
+                      </ol>
+                     </div>
+                    </div>
+                   </div>
                   </div>
                   <section aria-label="Sidebar Navigation" class="search selfClear">
                    <div class="sidebar" id="ctl00_ctl00_MainContent_ModuleContent_ctl00_divSideBar">
@@ -241,6 +271,9 @@
                       <select aria-label="Select a Category" id="ctl00_ctl00_MainContent_ModuleContent_ctl00_ddlCategories" name="ctl00$ctl00$MainContent$ModuleContent$ctl00$ddlCategories" title="Categories">
                        <option value="0">
                         All Categories
+                       </option>
+                       <option value="5">
+                        Office Update
                        </option>
                       </select>
                      </div>
@@ -275,6 +308,11 @@
                       <li class="all">
                        <a href="/AlertCenter.aspx">
                         All Categories
+                       </a>
+                      </li>
+                      <li>
+                       <a href="/AlertCenter.aspx?CID=Office-Update-5">
+                        Office Update
                        </a>
                       </li>
                      </ol>

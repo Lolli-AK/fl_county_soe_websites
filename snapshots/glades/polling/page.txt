@@ -28,7 +28,7 @@ Candidate File Access
 List of Candidates
 City and County Candidates
 2026 Reporting Dates
-2026 Primary Canvassing Board Schedule of Events
+2026 General Canvassing Board Schedule of Events
 Research/Data
 Initiative Petitions
 Petition Summary
@@ -58,7 +58,7 @@ Candidate File Access
 List of Candidates
 City and County Candidates
 2026 Reporting Dates
-2026 Primary Canvassing Board Schedule of Events
+2026 General Canvassing Board Schedule of Events
 Research/Data
 Initiative Petitions
 Petition Summary
@@ -93,7 +93,7 @@ Candidate File Access
 List of Candidates
 City and County Candidates
 2026 Reporting Dates
-2026 Primary Canvassing Board Schedule of Events
+2026 General Canvassing Board Schedule of Events
 Research/Data
 Initiative Petitions
 Petition Summary

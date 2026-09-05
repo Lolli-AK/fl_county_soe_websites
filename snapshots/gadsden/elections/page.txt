@@ -36,7 +36,6 @@ Records Request Policy
 2026 Notice of General Election
 2026 City of Quincy Special Election Notices
 Candidates & Committees
-Qualifying Information
 2028 Qualifying Information
 Candidate Qualifying Handbook 2026
 Local & Municipal Candidates
@@ -88,7 +87,6 @@ Records Request Policy
 2026 Notice of General Election
 2026 City of Quincy Special Election Notices
 Candidates & Committees
-Qualifying Information
 2028 Qualifying Information
 Candidate Qualifying Handbook 2026
 Local & Municipal Candidates
@@ -104,8 +102,7 @@ Maps & Statistics
 Demographics
 Maps
 Elections Team
-LAST DAY TO VOTE EARLY
-for the 2026 Primary Election is Sunday, August 16th, from 9:00am to 6:00pm. All Gadsden County voters may vote at any one of the listed early voting locations: Supervisor of Elections Office, Midway Fire Dept., Havana and Chattahoochee Public Library.
+OFFICE CLOSURE: We will be closed Monday, September 7, 2026, in observance of Labor Day. We will reopen on Tuesday, September 8th at 8:30am.
 Search
 Search
 Languages
@@ -127,6 +124,9 @@ Upcoming Elections
 New Registration/Party Change Deadline
 October 5, 2026
 View New Registration/Party Change Deadline Details
+Early Voting Starts
+October 19, 2026
+View Early Voting Starts Details
 General Election
 November 3, 2026
 View General Election Details

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-04T12:20:56Z",
-  "html_sha256": "f8fc3862c159b606bb4177c26fbe0ad540de6c90b212a5a75335442f539e0082",
-  "text_sha256": "38ecc8ec745145f626d75c1559574805b98bd32d11c8700f4447390eaacba82c",
-  "byte_size": 140023,
+  "fetched_at": "2026-09-05T11:28:17Z",
+  "html_sha256": "6e59bbe8af817eaa9625a58331a50380fcdd073aea75bd94effc5dfe3e55a2e0",
+  "text_sha256": "aaa52d800ffd7741ac93059411cb3f0d788e78039eaae739848dccf7b1354324",
+  "byte_size": 140021,
   "title": "Election Archives – Okeechobee County, FL",
   "error": null
 }

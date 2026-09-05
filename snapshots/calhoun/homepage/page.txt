@@ -603,6 +603,7 @@ Provisional Ballot Information
 Provisional Ballot Status
 2026 Election Dates & Candidate Deadlines
 2026 General Election Preparation Report
+2026 General Logic & Accuracy Testing Information
 2026 Offices Up for Election
 Election Dates
 2026 Primary Manual Audit Report
@@ -630,6 +631,7 @@ Provisional Ballot Information
 Provisional Ballot Status
 2026 Election Dates & Candidate Deadlines
 2026 General Election Preparation Report
+2026 General Logic & Accuracy Testing Information
 2026 Offices Up for Election
 Election Dates
 2026 Primary Manual Audit Report
@@ -853,7 +855,7 @@ Track My Mail Ballot
 Division of Elections
 Where Do I Vote?
 Active Registered Voters
-As of 09/02/2026
+As of 09/04/2026
 Democrats
 0
 Republicans

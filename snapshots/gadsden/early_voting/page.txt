@@ -36,7 +36,6 @@ Records Request Policy
 2026 Notice of General Election
 2026 City of Quincy Special Election Notices
 Candidates & Committees
-Qualifying Information
 2028 Qualifying Information
 Candidate Qualifying Handbook 2026
 Local & Municipal Candidates
@@ -88,7 +87,6 @@ Records Request Policy
 2026 Notice of General Election
 2026 City of Quincy Special Election Notices
 Candidates & Committees
-Qualifying Information
 2028 Qualifying Information
 Candidate Qualifying Handbook 2026
 Local & Municipal Candidates
@@ -104,8 +102,7 @@ Maps & Statistics
 Demographics
 Maps
 Elections Team
-LAST DAY TO VOTE EARLY
-for the 2026 Primary Election is Sunday, August 16th, from 9:00am to 6:00pm. All Gadsden County voters may vote at any one of the listed early voting locations: Supervisor of Elections Office, Midway Fire Dept., Havana and Chattahoochee Public Library.
+OFFICE CLOSURE: We will be closed Monday, September 7, 2026, in observance of Labor Day. We will reopen on Tuesday, September 8th at 8:30am.
 Search
 Search
 Languages
@@ -129,7 +126,7 @@ Early Voting is defined as “casting a ballot in person prior to Election Day a
 When is Early Voting Available?
 Early voting, at a minimum, must begin on the 10th day before an election that contains state or federal races and end on the 3rd day before the election, and shall be provided for no less than eight hours and no more than 12 hours per day at each site during the applicable period.
 In addition, early voting may be offered at the discretion of the supervisor of elections on the 15th, 14th, 13th, 12th, 11th, or 2nd day before an election that contains state or federal races for at least eight hours per day, but not more than 12 hours per day. Supervisors of Elections designate early voting sites 30 days prior to an election.
-For the 2026 General Election, early voting will start October 19 through November 1.
+Early voting will start October 19 through November 1, for the 2026 General Election.
 The Supervisor of Elections may provide early voting for elections that are not held in conjunction with a state or federal election. However, the supervisor has the discretion to determine the hours of operation of early voting sites in those elections.
 How to Early Vote
 Voters who want to vote early should present the following at the early voting site:
