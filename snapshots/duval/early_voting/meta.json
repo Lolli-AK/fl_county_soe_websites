@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-05T11:28:17Z",
-  "html_sha256": "24a48d847c35fb8355c03c50b17f695960b66241515bab732b93682a8122fc86",
-  "text_sha256": "d146d19f776eaff60d3433635928e039de240f6f2ca94c8f76b12b9d7f4af33f",
-  "byte_size": 69894,
+  "fetched_at": "2026-09-06T11:49:07Z",
+  "html_sha256": "3d59a27d06e69b4e58bd96c54338c98e69da4701c873abbe022cf20bb7dce8f7",
+  "text_sha256": "f76c1c08c2b6604fe1adaac6d7be1762c7f1fa94edcc67d13223906bdc0941ba",
+  "byte_size": 69867,
   "title": "Early Voting | Duval County Elections, FL Official Website",
   "error": null
 }

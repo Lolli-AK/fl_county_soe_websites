@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://elections.sumtercountyfl.gov"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-05T11:28:17Z",
-  "html_sha256": "c1ac81f5c129c442a7d13ff514ecfadd967441672474d0c85b66a9384a4e6df3",
-  "text_sha256": "64166b59728648325a79dd34472b1b2cab6717ada298b082aae8214078df1d6e",
-  "byte_size": 70739,
-  "title": "Sumter County Elections, FL | Official Website",
-  "error": null
+  "fetched_at": "2026-09-06T11:49:07Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ConnectError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1016)"
 }

@@ -7,13 +7,13 @@
     "https://lafayettevotes.net/early-voting/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-05T11:28:17Z",
-  "html_sha256": "a967641d2b29a6eccfe8174f972c32a339a33a53d3db105c17b32a80a94b2f5e",
-  "text_sha256": "a170e7107b7dbb94b3afda4da7cada64b1bda1f174552cf37e93a84a1f8eee90",
-  "byte_size": 101041,
-  "title": "2026 Early Voting Dates & Times – Lafayette County Supervisor of Elections",
+  "fetched_at": "2026-09-06T11:49:07Z",
+  "html_sha256": "8006e709fbaaf7fd7e5c1f0afe5e3eeb5973157604786ea1e8abe1e5c89a985a",
+  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
+  "byte_size": 488,
+  "title": "One moment, please...",
   "error": null
 }

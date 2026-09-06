@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://elections.sumtercountyfl.gov/200/Early-Voting"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-05T11:28:17Z",
-  "html_sha256": "ddfdb8bb535f4169520268066adb85a8e7d6b51e286684c16568ce12329a5ad8",
-  "text_sha256": "b8abb87f59c7a3343b0c89c658d127d24cd61d996cc8ed671b5a85e49a235007",
-  "byte_size": 40653,
-  "title": "Early Voting | Sumter County Elections, FL",
-  "error": null
+  "fetched_at": "2026-09-06T11:49:07Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ConnectError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1016)"
 }

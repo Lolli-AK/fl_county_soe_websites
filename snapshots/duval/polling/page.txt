@@ -117,11 +117,11 @@ Receive an email copy of this form.
 Email address
 This field is not part of the form submission.
 Submit
-Google reCAPTCHA protected form.
-Google reCAPTCHA Privacy Policy
-.
-Google Terms of Service
-.
+This site is protected by reCAPTCHA and the Google
+Privacy Policy
+and
+Terms of Service
+apply.
 OK
 Office Information
 Main Office:

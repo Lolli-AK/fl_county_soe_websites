@@ -602,8 +602,11 @@ Election Integrity Info
 Provisional Ballot Information
 Provisional Ballot Status
 2026 Election Dates & Candidate Deadlines
+2026 General Election Preparation Report
+2026 General Logic & Accuracy Testing Information
 2026 Offices Up for Election
 Election Dates
+2026 Primary Manual Audit Report
 Election Results Archived 1988-2008
 Election Results Archive
 Election Workers
@@ -627,8 +630,11 @@ Election Integrity Info
 Provisional Ballot Information
 Provisional Ballot Status
 2026 Election Dates & Candidate Deadlines
+2026 General Election Preparation Report
+2026 General Logic & Accuracy Testing Information
 2026 Offices Up for Election
 Election Dates
+2026 Primary Manual Audit Report
 Election Results Archived 1988-2008
 Election Results Archive
 Election Workers
@@ -836,7 +842,6 @@ Kids Corner
 Vote in honor of a Veteran
 Public Records Request Information
 Contact Us
-Election Dates
 View Election Dates
 We acknowledge some content on this page may not be fully accessible. Please
 contact us
