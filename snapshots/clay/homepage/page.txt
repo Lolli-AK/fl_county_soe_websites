@@ -118,11 +118,6 @@ Track
 My Ballot
 Calendar
 All Events
-Mon,
-Sep
-07,
-2026
-Labor Day
 Fri,
 Oct
 23,
@@ -138,13 +133,18 @@ Oct
 25,
 2026
 Early Voting for the General Election
+Mon,
+Oct
+26,
+2026
+Early Voting for the General Election
 View All Events
 Clay County Voter Totals
-September 6, 2026
+September 7, 2026
 Republicans:
-88536
+88538
 Democrats:
-31187
+31189
 NPA:
 28995
 Others:

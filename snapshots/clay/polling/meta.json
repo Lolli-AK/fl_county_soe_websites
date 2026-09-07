@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-06T11:49:07Z",
-  "html_sha256": "47250562a603b70845dfd6b83690fc4bc42af4009c7b83988802ac88ece5dc02",
+  "fetched_at": "2026-09-07T13:46:26Z",
+  "html_sha256": "ec497b0d7514bc99dfffde530be796a9dc7e56c7763da650ad61e8eae168caf1",
   "text_sha256": "8ca9021298d6b82c87473177744ae3e5fbcc8c40b018e067d5f3d4373e26c4cf",
-  "byte_size": 69465,
+  "byte_size": 69466,
   "title": "Precinct Finder - Clay County Supervisor of Elections",
   "error": null
 }

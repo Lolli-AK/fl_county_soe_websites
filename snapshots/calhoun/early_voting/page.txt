@@ -602,8 +602,11 @@ Election Integrity Info
 Provisional Ballot Information
 Provisional Ballot Status
 2026 Election Dates & Candidate Deadlines
+2026 General Election Preparation Report
+2026 General Logic & Accuracy Testing Information
 2026 Offices Up for Election
 Election Dates
+2026 Primary Manual Audit Report
 Election Results Archived 1988-2008
 Election Results Archive
 Election Workers
@@ -627,8 +630,11 @@ Election Integrity Info
 Provisional Ballot Information
 Provisional Ballot Status
 2026 Election Dates & Candidate Deadlines
+2026 General Election Preparation Report
+2026 General Logic & Accuracy Testing Information
 2026 Offices Up for Election
 Election Dates
+2026 Primary Manual Audit Report
 Election Results Archived 1988-2008
 Election Results Archive
 Election Workers
@@ -836,7 +842,6 @@ Kids Corner
 Vote in honor of a Veteran
 Public Records Request Information
 Contact Us
-Early Voting
 Early Voting in Calhoun County is open to all eligible register voters. Early Voting lets you avoid long lines, and vote when and where it is most convenient for you.
 When is Early Voting Available?
 Early Voting is available as part of each election here in Calhoun County. State law sets a minimum of eight days of Early Voting, but here in Calhoun County we offer additional days so that voters have more flexibility when casting their ballot.
