@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://votegadsdenfl.gov/election-info/precinct-information/precinct-lookup/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-07T13:46:26Z",
-  "html_sha256": "0a5b07b900094e877d8725624084267165ef941e968724b7c86ec55a146ef95d",
-  "text_sha256": "fe3cf79a7e31f0bc25d3f26e41f7145720a1e5827ecb4d9cda86439ce471fac5",
-  "byte_size": 61747,
-  "title": "Precinct Lookup – Gadsden County Supervisor of Elections",
+  "fetched_at": "2026-09-08T12:22:21Z",
+  "html_sha256": "8006e709fbaaf7fd7e5c1f0afe5e3eeb5973157604786ea1e8abe1e5c89a985a",
+  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
+  "byte_size": 488,
+  "title": "One moment, please...",
   "error": null
 }

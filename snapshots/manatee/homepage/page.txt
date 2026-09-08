@@ -1,6 +1,5 @@
 Home - Vote Manatee
 Skip to main content
-Our offices will be closed on Monday, September 7, 2026, in observance of the Labor Day holiday.
 Contact
 EN
 EN
@@ -87,17 +86,17 @@ Florida Commission on Ethics (External Link)
 search
 Active Registered Voters
 as of:
-09/07/2026
+09/08/2026
 Democratic
-67,960
+67,961
 Republican
-142,696
+142,697
 No Party Affiliation
-64,742
+64,743
 Other
 9,993
 Total
-285,391
+285,394
 Check your Voter Registration Status
 Am I Registered?
 Link to Register to Vote

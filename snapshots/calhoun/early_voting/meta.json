@@ -6,11 +6,11 @@
   "redirect_chain": [
     "https://votecalhounfl.gov/ways-to-vote/early-voting/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-07T13:46:26Z",
+  "fetched_at": "2026-09-08T12:22:21Z",
   "html_sha256": "eb5b838cf4554a6b6e24a69fd951ff3b495fd286c85acbd1483e74ee49a62aef",
   "text_sha256": "298b89c249709b12e2b42353c757c541e0db9410cab2d9951605783df639672a",
   "byte_size": 184941,

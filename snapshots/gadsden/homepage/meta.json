@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://votegadsdenfl.gov/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-07T13:46:26Z",
-  "html_sha256": "94466de2a73765d8e684b153f799c52c16859da3e57c7c04dcc1b66427debd21",
-  "text_sha256": "176d33d3a868f42f85bfeabaa91f21cbce820e4b95dffb262418f949d0d16363",
-  "byte_size": 91897,
+  "fetched_at": "2026-09-08T12:22:21Z",
+  "html_sha256": "d2add201ee40ce68f30807b041d99d72e95d0253f13d8d5d609606aed56940de",
+  "text_sha256": "8ae910e300a600d67351fceed217e4682ab187553d67344a28ea4a7ca5329669",
+  "byte_size": 94481,
   "title": "Gadsden County Supervisor of Elections – County government Office in Quincy, Florida",
   "error": null
 }
