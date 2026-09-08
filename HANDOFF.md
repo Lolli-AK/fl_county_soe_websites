@@ -30,6 +30,26 @@ all three. Everything else in FL is Florida-specific.
   `flag_for_review=weak-score`, and spot checks found Polk on "Registration Form
   Locations" and Leon on "Update Your Registration" where a plain "Register to Vote"
   page exists. Treat coverage numbers off this column as provisional.
+
+  **Texas, added 2026-09-08.** The crawl and its tests shipped on 2026-09-01 but the
+  column was never merged into `tx-county-watch/manifest/targets.csv`, so for a week
+  nothing was captured and that suite failed on 254×6. Merging the draft as it stood
+  was not an option: it found 139 pages and **about 66 were wrong**, a far worse rate
+  than Florida's, for a reason specific to Texas county websites — a county auditor
+  publishes a monthly **check register**, the list of cheques the county wrote, and it
+  shares exactly one word with voter registration. 25 counties were assigned an
+  accounting page on that word; 14 more got `txapps.texas.gov`, the state's own
+  application. Fixed with four gates (negative weights, non-county hosts, the page's
+  own prose with anchors stripped, and a prose-based county-identity check) — see the
+  Texas README and `tests/test_registration.py`, which pins one case per family.
+  **74/254** counties publish a registration page of their own; the 180 gaps are the
+  finding, since in most counties the Tax Assessor-Collector is the registrar and
+  posts only a PDF form.
+
+  Florida has had none of those gates applied. Its 58 rows were accepted under the
+  same accept-and-flag logic that produced Texas's 66 errors, so its true precision
+  is unmeasured, not known-good. Whoever picks up thread 7 should start by running
+  the Texas gates against the Florida column rather than eyeballing 58 URLs.
 - **A `noncitizen_voting` flag in every `meta.json`.** Binary, plus the term families
   that matched. Across 46,221 Florida page-observations it fires on exactly one page:
   Indian River's homepage, carrying a proof-of-citizenship news release, first seen
@@ -286,9 +306,14 @@ either. Treat as state-specific until shown otherwise.
    Services local-government reporting database. A project, not a pull.
 6. **Synchronized-diff detection** — a vendor template push shows up as the same diff
    on the same day across many counties. Detectable, and nobody has it.
-7. **QA the `voter_registration` column.** The one piece of the 2026-09-01 work that
-   is knowingly unfinished — see §1. The other five types needed a human pass after
-   their audit and this one has had neither.
+7. **QA the `voter_registration` column.** Still open, and now asymmetric. Texas has
+   the four gates and two clean end-to-end sweeps (253/254 rows identical, the one
+   delta intended), but no *human* pass; three rows carry `flag_for_review`. Florida
+   has neither gates nor a human pass, and its 58 rows were accepted by the same
+   accept-and-flag logic that misassigned 66 Texas counties — porting the gates over
+   is the cheap first move, and it is a code change rather than a review task. The
+   other five types needed a human pass after their audit; this one has had neither
+   in either state.
 8. **Non-citizen language as a diffable event.** The flag currently answers "does
    this page say it". The question worth asking is when counties start saying it, and
    whether it arrives in vendor-synchronized waves like a template push (thread 6) or
