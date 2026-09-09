@@ -350,9 +350,6 @@ Election Information
 Key information about the November 3, 2026 Election, including registration deadline and important dates.
 View Election Info
 Announcements
-Closed on Labor Day - September 7, 2026
-Our offices will be closed on Monday, September 7, 2026 in observance of the Labor Day Holiday
-.
 November 3, 2026 Election – Canvassing Board
 Canvassing Board Master Schedule in
 English
@@ -366,7 +363,6 @@ Election Preparation Report for the 2026 General Election
 Important Information about the 2026 November Election, including registration deadline and other important dates.
 Legally Required Notices
 Potential Ineligibility Notices - Public Notice- 09/03/2026
-Potential Ineligibility Notices - Public Notice- 08/04/2026
 Notice of Special Election in Plantation Acres Improvement District Special Election in
 English
 /
@@ -389,16 +385,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-9/8/26
-1,361,689
+9/9/26
+1,361,587
 Eligible Voters
-591,217
+591,143
 Democrat
-316,040
+316,023
 Republican
-417,953
+417,917
 NPA
-36,479
+36,504
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.

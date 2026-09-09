@@ -855,7 +855,7 @@ Track My Mail Ballot
 Division of Elections
 Where Do I Vote?
 Active Registered Voters
-As of 09/07/2026
+As of 09/08/2026
 Democrats
 0
 Republicans
@@ -866,9 +866,6 @@ Total
 0
 Official Election Results
 Click here
-COUNTDOWN
-Days Until Next Election
-The Election is Now!
 2026 Election Information
 PRIMARY ELECTION
 Book Closing:  July 20
@@ -892,6 +889,9 @@ Shelton Park Library:  Oct. 24-31
 Hours: 10 AM – 6 PM
 Election Day
 – November 3, 2026
+COUNTDOWN
+Days Until Next Election
+The Election is Now!
 Dates to Remember
 View Full Calendar
 Local Candidates

@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://elections.sumtercountyfl.gov/163/Upcoming-Election-Information"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-08T12:22:21Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
-  "error": "plain_fetch_error: ConnectError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1016)"
+  "fetched_at": "2026-09-09T12:33:52Z",
+  "html_sha256": "57e866c820b7d3afe80b996ec3edda3ba0fc8f2a17cd93defc971ca34d6b62fa",
+  "text_sha256": "8a40fa0623ad8247da96cbee5447126d8d825cde8fce55e8abdba8bce7967c65",
+  "byte_size": 52390,
+  "title": "Upcoming Election Information | Sumter County Elections, FL",
+  "error": null
 }

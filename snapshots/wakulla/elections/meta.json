@@ -7,13 +7,13 @@
     "https://wakullavotes.gov/current-upcoming-elections/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-08T12:22:21Z",
-  "html_sha256": "8006e709fbaaf7fd7e5c1f0afe5e3eeb5973157604786ea1e8abe1e5c89a985a",
-  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
-  "byte_size": 488,
-  "title": "One moment, please...",
+  "fetched_at": "2026-09-09T12:33:52Z",
+  "html_sha256": "331a13872e1977527b1998f7fde2c83e3d76b499b2e5312fa7efd82d0d7f65f9",
+  "text_sha256": "483711d5380ef5698a2b417752b98fbd79cf4957385f69fae50d5d2be7a706b1",
+  "byte_size": 71987,
+  "title": "Current/Upcoming Elections – Wakulla County Supervisor of Elections",
   "error": null
 }

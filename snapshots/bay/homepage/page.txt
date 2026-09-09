@@ -26,6 +26,8 @@ Military & Overseas Voters
 Supervised Voting for Assisted Living & Nursing Homes
 Elections
 Current & Upcoming Elections
+Proposed Constitutional Amendments
+City of Panama City Proposed Charter Amendments
 Dates to Remember
 Offices up for Election
 Unofficial Voter Turnout
@@ -93,6 +95,8 @@ Military & Overseas Voters
 Supervised Voting for Assisted Living & Nursing Homes
 Elections
 Current & Upcoming Elections
+Proposed Constitutional Amendments
+City of Panama City Proposed Charter Amendments
 Dates to Remember
 Offices up for Election
 Unofficial Voter Turnout
@@ -164,15 +168,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(09/07/2026)
+(09/08/2026)
 Democrats
-23,712
+23,713
 Republicans
 74,945
 Other
 28,920
 Total
-127,577
+127,578
 Upcoming Elections
 All Upcoming Elections
 General Election
@@ -194,10 +198,12 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 3 days ago
-In observance of the Labor Day Holiday, the Supervisor of Elections office will be closed Monday, September 7, 2026. Normal business hours will resume on September 8, 2026.
-Remember, voter registration services are always available online at
-www.bayvotesfl.gov
+posted 20 hours ago
+The Voter Registration Deadline for the 2026 General Election is Monday October 5.
+To register to vote by the deadline,
+⭐️stop by the Supervisor of Elections office
+⭐️or visit the link below to register:
+https://registertovoteflorida.gov/home
 View Facebook Post
 (opens in a new tab)
 Public Notices

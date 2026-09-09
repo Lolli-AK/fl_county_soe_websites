@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-08T12:22:21Z",
-  "html_sha256": "0aa68a3d57992f064908a20cdb9396b8ee39d0a63d1f166ba62c658135c7bcd1",
-  "text_sha256": "ef4d0a52c412f1a0b5303644dcdf82e5d09d938b938c8b27f0ef536c938b080e",
-  "byte_size": 48625,
+  "fetched_at": "2026-09-09T12:33:52Z",
+  "html_sha256": "50e133ceaf9129f446ffa7c6aaa031653c86aeb7605b4865614f04c17d4d44bb",
+  "text_sha256": "180945a14bc8d660d46040b522b59f471b3afef7ee31ce4f81ed4ab4d892e7fb",
+  "byte_size": 48780,
   "title": "Vote Early | Collier County Elections, FL",
   "error": null
 }

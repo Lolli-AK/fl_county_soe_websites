@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-08T12:22:21Z",
-  "html_sha256": "619d98d1dc34207fb0e756b7991d6d401366b3f509a15b703d3125028d336d44",
-  "text_sha256": "ce69938c31b80923c79f46f293715a7376f190b1bd0ae619567390a19beb28cf",
-  "byte_size": 118778,
+  "fetched_at": "2026-09-09T12:33:52Z",
+  "html_sha256": "4007e0afe4ed463eefb4be1e455511ebc2388fd8a0fa4d982149201699a8378b",
+  "text_sha256": "46e5a1f431ef9142dc751d6c3fdc7956f6a373727869a4361f8081d51e75d6c5",
+  "byte_size": 117398,
   "title": "Early Voting Locations Map",
   "error": null
 }
