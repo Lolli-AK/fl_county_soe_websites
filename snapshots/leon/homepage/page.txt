@@ -39,6 +39,7 @@ Election Integrity
 Why you can trust Florida elections
 Election Ready
 Resources and information for the General Election
+General Election Ballot Questions
 Canvassing Board
 Information about the Election Board
 Registration
@@ -124,15 +125,15 @@ Mark S. Earley
 Supervisor of Elections
 Leon County
 Active Registered Voters as of:
-2026-09-09
+2026-09-10
 Democratic
-87,373
+87,404
 Republican
-54,568
+54,562
 Others
-41,274
+41,298
 Total
-183,215
+183,264
 Leon County Supervisor of Elections
 August 18 Primary Election Official Results
 To view the official election results, visit our Election Results page by clicking the link below.

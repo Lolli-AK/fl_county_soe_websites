@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-09T12:33:52Z",
-  "html_sha256": "564e93b68e1ffd7d90c6ac6c482830d5e6594f25776a1bd828665cff9b39f1f5",
-  "text_sha256": "41da4bf09825046bb5ea9bbc3fa00afad26fb04fa2a399f700ec46faeabf50c4",
-  "byte_size": 38368,
+  "fetched_at": "2026-09-10T12:27:32Z",
+  "html_sha256": "6dd9210036291818c4b95c3dba5b522f606ba7253f447e54e568c34e45836a7f",
+  "text_sha256": "0c1300a8ea90733b6066b983d83fca48881eab4203e29bbe26f0995a5c5436d1",
+  "byte_size": 38451,
   "title": "Hendry County Supervisor of Elections, FL",
   "error": null
 }

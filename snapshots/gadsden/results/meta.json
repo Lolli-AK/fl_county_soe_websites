@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-09T12:33:52Z",
-  "html_sha256": "4f06cdddd3f0cb4173d6b98f86358c4b66634af3ed0ecb4088817e32d5dace30",
-  "text_sha256": "4d9ca0161dc25b764b245ef71e6a110dcc60edc839fcbe788da9a204eb4efab1",
-  "byte_size": 61473,
+  "fetched_at": "2026-09-10T12:27:32Z",
+  "html_sha256": "2ddbdbce53a8b242891e5ed4030133ab7e2f6cc51bde511af02deb160e281ebc",
+  "text_sha256": "7af3968485bbff16acd6eb9e4c6b651c26460d0ea4c7d0d835e3a0bf533a87f7",
+  "byte_size": 61844,
   "title": "Election Results – Gadsden County Supervisor of Elections",
   "error": null
 }

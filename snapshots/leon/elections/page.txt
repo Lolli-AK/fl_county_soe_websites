@@ -39,6 +39,7 @@ Election Integrity
 Why you can trust Florida elections
 Election Ready
 Resources and information for the General Election
+General Election Ballot Questions
 Canvassing Board
 Information about the Election Board
 Registration
@@ -180,6 +181,7 @@ Online Vote-by-Mail Request
 Voter ID
 Election Integrity
 Election Ready
+General Election Ballot Questions
 Canvassing Board
 Mark S. Earley
 Leon County Supervisor of Elections

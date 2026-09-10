@@ -419,9 +419,9 @@ Use the
 Voter Information Search Tool
 to check your information & status.
 Calendar
-Labor Day Holiday
-2026-09-07
-Our office will be closed Monday, September 7th, in observance of the Labor Day Holiday.
+Yom Kippur Holiday
+2026-09-21
+Our office will be closed Monday, September 21st, in observance of the Yom Kippur Holiday.
 View All Upcoming Events
 News & Announcements
 Poll Worker Recruitment
@@ -435,7 +435,7 @@ Where can I get a sample ballot?
 Sample ballots are published in the local newspaper before each election. We post sample ballots on our Web site, too, and copies will be available in our office.
 View All FAQs
 Active Registered Voters
-As of 09/01/2026
+As of 09/09/2026
 Democrats
 0
 Republicans

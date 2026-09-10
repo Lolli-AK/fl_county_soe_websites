@@ -96,10 +96,6 @@ S
 01
 02
 03
-Wed, Sep 9
-Outreach - Naples Regional Library
-Outreach - Naples Regional Library
-Read On
 Thu, Sep 10
 Outreach - Marco Island Library
 Outreach - Marco Island Library
@@ -111,6 +107,10 @@ Read On
 Mon, Sep 14
 Outreach - NCH North Hospital
 Outreach - NCH North Hospital
+Read On
+Mon, Sep 14
+Outreach - Immokalee Library
+Outreach - Immokalee Library
 Read On
 View All Events
 /Calendar.aspx
