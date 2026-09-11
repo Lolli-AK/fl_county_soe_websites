@@ -92,6 +92,7 @@ Toggle Candidate Information submenu
 Candidate Information
 Toggle submenu
 New Column
+Current Candidates
 Candidate Resources
 Committee Resources
 Important Dates
@@ -105,6 +106,7 @@ Get in touch
 Contact Us
 Follow us
 New Column
+Current Candidates
 Candidate Resources
 Committee Resources
 Important Dates

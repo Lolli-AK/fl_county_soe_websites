@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-10T12:27:32Z",
-  "html_sha256": "22451a8faa1979c21c6c6856313bebca45499ebd395a6d9e10b19dcca05e1223",
-  "text_sha256": "5e3f4afc3a929db50886db2218e50d8a3e0d612c3106419689189408b53fccc6",
-  "byte_size": 71582,
+  "fetched_at": "2026-09-11T12:26:27Z",
+  "html_sha256": "e050d9a7f2c8924dba175fb60b1a0f10d5f041ecade091a1b59a98e38bd879e6",
+  "text_sha256": "bf81f0fb4f948431983697c62cbbf5ab462fe8593ff978720833473b14fa8807",
+  "byte_size": 71348,
   "title": "Early Voting – voteseminole.gov",
   "error": null
 }

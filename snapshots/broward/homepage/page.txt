@@ -357,6 +357,7 @@ English
 Spanish
 Important Forms for Elections | Broward County Supervisor of Elections
 November 3, 2026 Election – Important Information
+Secure Ballot Intake Stations for the November 3, 2026 Election
 For Voter Information Lookup -
 Click Here
 Election Preparation Report for the 2026 General Election
@@ -385,16 +386,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-9/10/26
-1,361,871
+9/11/26
+1,361,907
 Eligible Voters
-591,253
+591,239
 Democrat
-316,132
+316,145
 Republican
-417,937
+417,951
 NPA
-36,549
+36,572
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.

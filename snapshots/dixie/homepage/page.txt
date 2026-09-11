@@ -252,7 +252,7 @@ Yucatec Maya
 Zapotec
 Zulu
 Active Registered Voters
-As of 09/04/2026
+As of 09/10/2026
 Democrats
 0
 Republicans
@@ -316,7 +316,7 @@ Maps
 About Us
 Your Elections Office
 Your Elected Officials
-County Canvassing Board
+2026 General Election County Canvassing Board
 Vote in Honor of a Veteran
 Scholarship
 Dixie Supervisor of Elections History
@@ -372,7 +372,7 @@ Maps
 About Us
 Your Elections Office
 Your Elected Officials
-County Canvassing Board
+2026 General Election County Canvassing Board
 Vote in Honor of a Veteran
 Scholarship
 Dixie Supervisor of Elections History
@@ -426,7 +426,7 @@ Maps
 About Us
 Your Elections Office
 Your Elected Officials
-County Canvassing Board
+2026 General Election County Canvassing Board
 Vote in Honor of a Veteran
 Scholarship
 Dixie Supervisor of Elections History
@@ -486,7 +486,7 @@ Maps
 About Us
 Your Elections Office
 Your Elected Officials
-County Canvassing Board
+2026 General Election County Canvassing Board
 Vote in Honor of a Veteran
 Scholarship
 Dixie Supervisor of Elections History
@@ -535,8 +535,6 @@ See sample ballots for the
 2026 November General Election
 Sample Ballots
 Dates to Remember
-Closed for Labor Day
-09/07/2026
 View Full Calendar
 Notice Of Potential Ineligible Voters
 With the recent passing of Senate Bill 7050, notices of potential ineligibility will now be posted on the Supervisor website.

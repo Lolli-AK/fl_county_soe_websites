@@ -132,10 +132,7 @@ Voter Statistics
 Election Laws
 Current Candidates and Finances
 [rotating image slideshow removed for determinism]
-2026 Primary Election
-(8/18/2026)
-Click Below
-OFFICIAL RESULTS
+[rotating image slideshow removed for determinism]
 How Can We Help?
 Where Do I Vote?
 How Do I Vote?
@@ -199,7 +196,7 @@ Our Mission:
 DAYS
 Days until Presidential Primary
 DAYS
-Days until Primary Election
+Days until Book Closing
 DAYS
 Days until General Election
 CONTACT

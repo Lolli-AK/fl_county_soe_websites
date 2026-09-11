@@ -132,9 +132,6 @@ Voter Statistics
 Election Laws
 Current Candidates and Finances
 EARLY VOTING DATES AND LOCATIONS
-August 18, 2026 - Primary Election
-Early Vote Dates: August 8 through August 15
-Early Vote Hours: 8:00 AM to 5:30 PM
 November 3, 2026 - General Election
 Early Vote Dates: October 19 through October 31
 Early Vote Hours: 8:00 AM - 6:00 PM
@@ -149,8 +146,8 @@ Escambia County Extension Services, 3740 Stefani Road, Cantonment
 Brownsville Community Center, 3200 W De Soto Street, Pensacola
 Billy G. Ward Century Courthouse, 7500 N Century Blvd, Century
 UWF Center for Fine and Performing Arts, Building 82, 11000 University Parkway, Pensacola
-18
-August
+03
+November
 2026
 NEXT ELECTION
 Upcoming Elections
@@ -166,7 +163,7 @@ Total
 DAYS
 Days until Presidential Primary
 DAYS
-Days until Primary Election
+Days until Book Closing
 DAYS
 Days until General Election
 CONTACT

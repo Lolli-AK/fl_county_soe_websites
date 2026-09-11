@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-10T12:27:32Z",
-  "html_sha256": "540f94b35add5480c86956c56d2b7bb5d7e697fef6a3545855ba11e1369bc93f",
-  "text_sha256": "2e78181a52c2edacd3367d80ba6aa0029756079b5bfb51a25ca37ae4260c9504",
-  "byte_size": 90477,
+  "fetched_at": "2026-09-11T12:26:27Z",
+  "html_sha256": "037fcb353ab20733231af51b66949872be289186173aff92be024966261fece0",
+  "text_sha256": "4c37ddce506f88f19cb39c56fe1b43784b31b31f5b2746342224c6a80e19a851",
+  "byte_size": 90453,
   "title": "Washington County (FL) Supervisor of Elections",
   "error": null
 }
