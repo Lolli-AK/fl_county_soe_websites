@@ -1,0 +1,24 @@
+{
+  "county": "Dixie",
+  "page_type": "voter_registration",
+  "requested_url": "https://dixievotes.gov/voter-registration/",
+  "final_url": "https://dixievotes.gov/voter-registration/",
+  "redirect_chain": [
+    "https://dixievotes.gov/voter-registration/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "7a4d8e9d5ea9c37bee1028c4528df4c022234bf8d8006c912b2779c3a51c9256",
+  "text_sha256": "63f20e4b7c40f9653262ba45e48c694facc8c7a5240856aad20b858e816ab1a6",
+  "byte_size": 114791,
+  "title": "Voter Registration – Dixie County Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

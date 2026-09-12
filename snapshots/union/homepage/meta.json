@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
-  "html_sha256": "a3acef4050fd2c53a1ae628a92ec8081d26a4e2eee80d6bc0b47e9e3b1f0e343",
-  "text_sha256": "b4d37d27baef1dcf4e0bb34f309c92b5b5343e2a73f4abd858d40d13437010c9",
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "d45dadb6104c87193069cef64b1a4aefbb49513352708c0cb126af626626f751",
+  "text_sha256": "4c227a75854b83dea3f40ffa4cf14173b65946af51949163ae0f60ff5f0a58b7",
   "byte_size": 93944,
   "title": "Union County Supervisor of Elections | Deborah Osborne",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
+  "fetched_at": "2026-09-12T11:47:24Z",
   "html_sha256": "4765fd320ae625511efeb8650bd25b23e8ec5fc260bbbc4f31d33f196400a1c8",
   "text_sha256": "bef5ba3ab0305a007ea71642c5a25bd25f3e51c3196c5faacaa9f75f19688648",
   "byte_size": 116024,
   "title": "Check Your Info",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -1,0 +1,24 @@
+{
+  "county": "Okaloosa",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.voteokaloosa.gov/voters/register-to-vote/",
+  "final_url": "https://www.voteokaloosa.gov/voters/register-to-vote/",
+  "redirect_chain": [
+    "https://www.voteokaloosa.gov/voters/register-to-vote/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "6c719c815e76b2cdbe5abf7cd5537518ca6c9db05a6f5fc126edaf1c34008c04",
+  "text_sha256": "253b053486677634ca5d607f81932e43dbc11a6a393d05f201115c9cc911768d",
+  "byte_size": 75691,
+  "title": "Register to Vote | Okaloosa County Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

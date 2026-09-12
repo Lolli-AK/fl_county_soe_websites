@@ -1,0 +1,24 @@
+{
+  "county": "Collier",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.colliervotes.gov/161/Register-to-Vote-Update-Voter-Registrati",
+  "final_url": "https://www.colliervotes.gov/161/Register-to-Vote-Update-Voter-Registrati",
+  "redirect_chain": [
+    "https://www.colliervotes.gov/161/Register-to-Vote-Update-Voter-Registrati"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "d0e3b7d7c6f335d1e2b84a1963a46a293fcd45ade953c7c19e0f463946d9846c",
+  "text_sha256": "60b4f2806a22257d56a5945e7b576f650e08f6feee72b321fc9bceefaedacf05",
+  "byte_size": 50987,
+  "title": "Register to Vote / Update Voter Registration | Collier County Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

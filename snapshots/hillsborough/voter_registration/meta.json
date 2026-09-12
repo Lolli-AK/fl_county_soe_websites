@@ -1,0 +1,24 @@
+{
+  "county": "Hillsborough",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votehillsborough.gov/168/Register-to-Vote",
+  "final_url": "https://www.votehillsborough.gov/168/Register-to-Vote",
+  "redirect_chain": [
+    "https://www.votehillsborough.gov/168/Register-to-Vote"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "7705327c9e7793191a0ce45b5f2d746ccb64a13651e02c3ccd3cc2324a726beb",
+  "text_sha256": "5cd2bb75cbfc706ebaa330e13a9cd4f396001ee0b2198f7089d388dd91c4f112",
+  "byte_size": 41955,
+  "title": "Register to Vote | Hillsborough County Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

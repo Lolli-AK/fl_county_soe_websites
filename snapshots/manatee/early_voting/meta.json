@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
-  "html_sha256": "bf3c00056535e08c4edf6508f8fc2addd15c5eec99c070aa5c2d451e41f180b6",
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "40b78885d7eb1b7c72a4d51589b15dfe51605d074d6c43542deac3b8333446aa",
   "text_sha256": "f7630ab5a621033282658349a3ce34429341ebf06aa38921ed8f678c15014bfa",
   "byte_size": 97087,
   "title": "Early Voting Locations - Vote Manatee",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

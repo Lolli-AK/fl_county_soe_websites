@@ -1,0 +1,24 @@
+{
+  "county": "DeSoto",
+  "page_type": "voter_registration",
+  "requested_url": "https://votedesotofl.gov/voter-information/register-to-vote/",
+  "final_url": "https://votedesotofl.gov/voter-information/register-to-vote/",
+  "redirect_chain": [
+    "https://votedesotofl.gov/voter-information/register-to-vote/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "9fc7c65384e43775fd0cb80d00d90fa01116b9f7d0e2182377fd9ccb5ce7bad8",
+  "text_sha256": "52c6b9b2c05c4e634db48e9026104e2e4911eb41184d98e5741bb5991be35dc5",
+  "byte_size": 71269,
+  "title": "Register to Vote – DeSoto, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

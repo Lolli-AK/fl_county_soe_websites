@@ -1,0 +1,24 @@
+{
+  "county": "Indian River",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.voteindianriver.gov/voter_registration/register_to_vote_update_your_voter_record.php",
+  "final_url": "https://www.voteindianriver.gov/voter_registration/register_to_vote_update_your_voter_record.php",
+  "redirect_chain": [
+    "https://www.voteindianriver.gov/voter_registration/register_to_vote_update_your_voter_record.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "dfaaef02d917591ed3440887a2ffcc0130b53059a77923ae83722f16f9a0bbf0",
+  "text_sha256": "79ba019ddea8ef36df7b5a6bdbbcea59a38ad2ff545eabcd279b870af225bc76",
+  "byte_size": 43126,
+  "title": "Indian River County Supervisor of Elections FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

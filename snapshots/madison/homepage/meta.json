@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
-  "html_sha256": "169dbedd54ff20dbf844cf74a4c201fd48ffd22bb1e0c6ebbd1aa34ff9964880",
-  "text_sha256": "52decad0b37e55a5963b9ffc3fc30c43379ab1f4abea33de1bb99472b3a46223",
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "285268b007b90814a851e1a7e0ff1cb25422da94cb93fa8806369bb341c94061",
+  "text_sha256": "751fea66d92798674139b7f3e8c885afd9a5a80c6f4f7503025a21a3a49865d5",
   "byte_size": 90212,
   "title": "Madison County Supervisor of Elections | Heath Driggers",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

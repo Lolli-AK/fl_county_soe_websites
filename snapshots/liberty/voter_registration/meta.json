@@ -1,0 +1,24 @@
+{
+  "county": "Liberty",
+  "page_type": "voter_registration",
+  "requested_url": "https://libertycountyflsoe.gov/voter-information/voter-registration/",
+  "final_url": "https://libertycountyflsoe.gov/voter-information/voter-registration/",
+  "redirect_chain": [
+    "https://libertycountyflsoe.gov/voter-information/voter-registration/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "ba5983eee87e81c50c5e9310157809848ce58c3b4b2ba23bf5607b74bfca1a0f",
+  "text_sha256": "cdd5dc76e6b7fc89a378c67ee30128b58fdc1ff72b0a9e0040a6cbbe071f5d6c",
+  "byte_size": 60245,
+  "title": "Voter Registration – Liberty County (FL) Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

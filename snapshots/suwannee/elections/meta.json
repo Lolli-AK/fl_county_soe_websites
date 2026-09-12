@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
+  "fetched_at": "2026-09-12T11:47:24Z",
   "html_sha256": "243780d7bd4235315699ae5245dfc9ade82eb4ebb827815ae2dba8288894ae80",
   "text_sha256": "71206ff9c60e152e646354bf04881b62e783a8c93fec762b9ed62f6e64a117e1",
   "byte_size": 42369,
   "title": "Mail Ballot ‘Send’ Deadline For Domestic Voters: General Election | Suwannee County Supervisor of Elections, Jennifer Kinsey",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

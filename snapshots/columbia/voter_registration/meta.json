@@ -1,0 +1,24 @@
+{
+  "county": "Columbia",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votecolumbiafl.gov/voter_information/voter_registration.php",
+  "final_url": "https://www.votecolumbiafl.gov/voter_information/voter_registration.php",
+  "redirect_chain": [
+    "https://www.votecolumbiafl.gov/voter_information/voter_registration.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "882be56a402fd29e9ff65b49e5b1759434d57a201b006f6bf5f3b84e382f08e2",
+  "text_sha256": "248e282b27f93861a85d587398f0239eafd7397476d46a4303ebe17d33edde0b",
+  "byte_size": 45311,
+  "title": "Columbia County Supervisor of Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

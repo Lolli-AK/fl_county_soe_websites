@@ -1,0 +1,24 @@
+{
+  "county": "Brevard",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votebrevard.gov/Voter-Information/Register-to-Vote",
+  "final_url": "https://www.votebrevard.gov/Voter-Information/Register-to-Vote",
+  "redirect_chain": [
+    "https://www.votebrevard.gov/Voter-Information/Register-to-Vote"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "1a6850256f4e427ff0d069fe1e616344cd2a27e2ff324242461bd5569ebb4af1",
+  "text_sha256": "5cf1454fe1bbe42f61f9957f48f09b75033a61a2b800762d8c492beffa15102e",
+  "byte_size": 117488,
+  "title": "Brevard County Supervisor of Elections > Voter Information > Register to Vote",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

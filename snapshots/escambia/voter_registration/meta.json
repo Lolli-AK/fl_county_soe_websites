@@ -1,0 +1,24 @@
+{
+  "county": "Escambia",
+  "page_type": "voter_registration",
+  "requested_url": "https://escambiavotes.gov/register-to-vote",
+  "final_url": "https://escambiavotes.gov/register-to-vote",
+  "redirect_chain": [
+    "https://escambiavotes.gov/register-to-vote"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "b202798eb921a9b3284ea129ee8645f3e6aa502182f8697253fda5778845d5ed",
+  "text_sha256": "ae63fc1dbd80b1adc464406bbf05509c7c68390f9fdeb97b5b7e9d3a9a8374db",
+  "byte_size": 43192,
+  "title": "Register to Vote",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

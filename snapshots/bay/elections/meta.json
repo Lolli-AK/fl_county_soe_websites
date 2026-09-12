@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
+  "fetched_at": "2026-09-12T11:47:24Z",
   "html_sha256": "f89d2ca91d26fd3661a65332601b4d032ef5556037d414a02940d8b8f93ee6e7",
   "text_sha256": "c9a5a9682507a21d80adf8a6c7281dfc24295005873e312ae4761bb204598386",
   "byte_size": 53911,
   "title": "Upcoming Elections | Bay County Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

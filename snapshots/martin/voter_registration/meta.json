@@ -1,0 +1,24 @@
+{
+  "county": "Martin",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.martinvotes.gov/voter-information/register-to-vote/",
+  "final_url": "https://www.martinvotes.gov/voter-information/register-to-vote/",
+  "redirect_chain": [
+    "https://www.martinvotes.gov/voter-information/register-to-vote/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "f82619c347ef97ffd3ed590992eb859817abd21d68531f2274e187507de331bd",
+  "text_sha256": "a05b51a9304d5f31c691e1362ea0476ef0d3c0f25c25399b934093526b67a3f7",
+  "byte_size": 64009,
+  "title": "Register to Vote - Martin County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

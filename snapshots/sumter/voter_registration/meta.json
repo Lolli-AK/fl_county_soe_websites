@@ -1,0 +1,24 @@
+{
+  "county": "Sumter",
+  "page_type": "voter_registration",
+  "requested_url": "https://elections.sumtercountyfl.gov/172/How-to-Register-to-Vote",
+  "final_url": "https://elections.sumtercountyfl.gov/172/How-to-Register-to-Vote",
+  "redirect_chain": [
+    "https://elections.sumtercountyfl.gov/172/How-to-Register-to-Vote"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "523be5f707ab3ac8eb43b97c157834c9d888e77fa1ff48338a42f9be4d774df1",
+  "text_sha256": "b3156cfbaa5b0fafa60876340b2fca8765363cc9616ceb7b2fb41d10aee4cb0b",
+  "byte_size": 48365,
+  "title": "How to Register to Vote | Sumter County Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

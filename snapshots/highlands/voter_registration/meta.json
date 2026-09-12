@@ -1,0 +1,24 @@
+{
+  "county": "Highlands",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votehighlands.gov/new-page",
+  "final_url": "https://www.votehighlands.gov/new-page",
+  "redirect_chain": [
+    "https://www.votehighlands.gov/new-page"
+  ],
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "191dd5464b6de0060ec39e47688b7344eaaa33630160f2b616538532bc8f8679",
+  "text_sha256": "cd7fad1618ad585227f599d831fca0a0b5b57338a84277e4e3babe0cdfcc4c02",
+  "byte_size": 121236,
+  "title": "Voter Registration Status | Highlands County Supervisor of Elections | Sebring, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

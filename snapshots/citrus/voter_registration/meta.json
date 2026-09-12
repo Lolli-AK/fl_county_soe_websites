@@ -1,0 +1,24 @@
+{
+  "county": "Citrus",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votecitrus.gov/286/How-to-Register-to-Vote",
+  "final_url": "https://www.votecitrus.gov/286/How-to-Register-to-Vote",
+  "redirect_chain": [
+    "https://www.votecitrus.gov/286/How-to-Register-to-Vote"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "81b8e58966f5c9392e8df2c090a660dd1387ef8c2173cf7228600bcabbd4e30f",
+  "text_sha256": "2c1115bac613d362015795181ef4e1d0fcb09b5fa15361374a16294031d74812",
+  "byte_size": 100254,
+  "title": "How to Register to Vote | Citrus County Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

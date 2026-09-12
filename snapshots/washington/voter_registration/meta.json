@@ -1,0 +1,24 @@
+{
+  "county": "Washington",
+  "page_type": "voter_registration",
+  "requested_url": "https://wcsoe.gov/register-to-vote/",
+  "final_url": "https://wcsoe.gov/register-to-vote/",
+  "redirect_chain": [
+    "https://wcsoe.gov/register-to-vote/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "5b4b51728c25116f6f116d01050a34aa720df84220ec38d23c42d2ea77e5b803",
+  "text_sha256": "cf8d737441ff2c7ad897c3080ea61723bd6ffa070709fe4d556b5870c0a90b02",
+  "byte_size": 59296,
+  "title": "Register to Vote – Washington County (FL) Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

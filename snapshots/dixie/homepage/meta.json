@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
-  "html_sha256": "4d5480daff690a45fd763359cefa644d572db2f47505dc212a861bd0c285653a",
-  "text_sha256": "1e6a3cc5dcd213277e917d2c7c0df98a962d13aca7086d0d16b7bba3f6818c49",
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "7a9c1357e7b6912a07d976e0fabcca204bf34fb5e3660961b94d139ff5d12cae",
+  "text_sha256": "78b49f261c0827d1feb7ed308df99c910bdd7097fea33930724e166de0d22cff",
   "byte_size": 143835,
   "title": "Dixie County Supervisor of Elections – Darbi Chaires",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

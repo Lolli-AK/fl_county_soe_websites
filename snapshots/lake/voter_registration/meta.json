@@ -1,0 +1,24 @@
+{
+  "county": "Lake",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.lakevotes.gov/243/Voter-Registration",
+  "final_url": "https://www.lakevotes.gov/243/Voter-Registration",
+  "redirect_chain": [
+    "https://www.lakevotes.gov/243/Voter-Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "6c10b8a124aa7e566d93f73d3261b01e6912600d3fb37496e94e446b477b1219",
+  "text_sha256": "41b7e0592bec6262b7154ed8bdc70b1a8d589ca23f806b7ccd4738cfd00ab46b",
+  "byte_size": 45183,
+  "title": "Voter Registration | Lake County Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

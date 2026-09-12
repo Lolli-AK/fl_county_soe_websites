@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
+  "fetched_at": "2026-09-12T11:47:24Z",
   "html_sha256": "de4f9b483c8682795a0cb8ed00646873a31352eccad7ba186a97581ace13e40f",
   "text_sha256": "dfd0cb17747703ba8767de88a337fa444510423424364a2f25f592bfe12a1ca6",
   "byte_size": 68899,
   "title": "Home | Flagler County Elections Office",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

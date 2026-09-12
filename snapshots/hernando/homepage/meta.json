@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
-  "html_sha256": "b790ea53264435e1322039dc9618c85e53b4bd17c036788e2c8ebe3de0775e91",
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "435bef569bae520abe9f82689c25218ea06a25c7fbb1723de2e19f9c12bdc598",
   "text_sha256": "bf95e7a5d64139dfcfe34ab9630c3e85b202270bea85cabbbffdc95b057f3cc5",
   "byte_size": 69056,
   "title": "Hernando County SOE, FL | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

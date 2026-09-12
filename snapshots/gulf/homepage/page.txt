@@ -130,17 +130,17 @@ Track My Ballot
 Early Voting
 Voting Locations
 Active Registered Voters
-(09/10/2026)
+(09/11/2026)
 Democrats
-2,235
+2,233
 Republicans
-7,262
+7,272
 No Party Affiliation
-1,262
+1,263
 Other
 391
 Total
-11,150
+11,159
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -171,11 +171,8 @@ View Facebook Post
 2
 Public Notices
 All Public Notices
-Canvassing Board Timeline
-August 1, 2026
-Read Full Notice
-1st Annual Sticker Contest
-July 7, 2026
+Logic and Accuracy Test Notice
+September 11, 2026
 Read Full Notice
 Voter Eligibility Notice
 May 5, 2026
@@ -212,4 +209,3 @@ Privacy Policy
 Accessibility Policy
 Sitemap
 Site by KMA
-Secret Link

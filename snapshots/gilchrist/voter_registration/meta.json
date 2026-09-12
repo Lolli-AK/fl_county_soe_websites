@@ -1,0 +1,24 @@
+{
+  "county": "Gilchrist",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votegilchrist.com/voter_registration/index.php",
+  "final_url": "https://www.votegilchrist.com/voter_registration/index.php",
+  "redirect_chain": [
+    "https://www.votegilchrist.com/voter_registration/index.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "19d44356f319459f5c874ddcffbc87832700efa7571edcbb1462c424b5017260",
+  "text_sha256": "e07447062612ad65c7418abbf953e36c7f1f280c5d816417ed6871744d98ab89",
+  "byte_size": 39957,
+  "title": "Gilchrist County Supervisor of Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

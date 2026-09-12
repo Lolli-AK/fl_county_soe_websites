@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
-  "html_sha256": "d0f9903f0cd1f5a097f359db15f66484d6238108c2894ccadb4b57b701eb8424",
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "f81ef1de5d34ca76a832c55ca7bd595807bd21c4c5b307eaf3e3390a9b5b1c5a",
   "text_sha256": "b9a7203731648524fefcf61b12c2f3fad3ce38764e599092785f657b62017d10",
   "byte_size": 78037,
   "title": "Polk County SOE, FL | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

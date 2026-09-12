@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
+  "fetched_at": "2026-09-12T11:47:24Z",
   "html_sha256": "71940cf7a3282bf8139dd61aec2ec632e029565a875baff66eb01b2eb440467d",
   "text_sha256": "e69a7952d586afc8f444157047e2d805f87a98ac79a3f98a540447ba204f77dd",
   "byte_size": 51900,
   "title": "Indian River County Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

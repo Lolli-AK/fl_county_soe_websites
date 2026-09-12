@@ -1,0 +1,24 @@
+{
+  "county": "Osceola",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.voteosceola.gov/en-us/voter-information/how-to-register-to-vote/",
+  "final_url": "https://www.voteosceola.gov/en-us/voter-information/how-to-register-to-vote/",
+  "redirect_chain": [
+    "https://www.voteosceola.gov/en-us/voter-information/how-to-register-to-vote/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "5769de02f2b37d2d92a139069393bc930f8692f0b2e6224f8d3655c2704ead60",
+  "text_sha256": "851a6686ecc042adce514147bff19a87e37fa9b9d72f9390a2914108ddb31442",
+  "byte_size": 54696,
+  "title": "How to Register to Vote – Vote Osceola",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

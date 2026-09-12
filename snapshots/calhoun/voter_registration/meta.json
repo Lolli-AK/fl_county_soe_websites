@@ -1,0 +1,24 @@
+{
+  "county": "Calhoun",
+  "page_type": "voter_registration",
+  "requested_url": "https://votecalhounfl.gov/voter-information/register-to-vote/",
+  "final_url": "https://votecalhounfl.gov/voter-information/register-to-vote/",
+  "redirect_chain": [
+    "https://votecalhounfl.gov/voter-information/register-to-vote/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "ce796a4acf4d17704679ec2c88c4e26bf2c8fdf24479e373b524719143b206ba",
+  "text_sha256": "0820f6228a735fc11be2a726d6835071fa781ef0010c0ef258137b7420f28bba",
+  "byte_size": 178368,
+  "title": "Register To Vote – Calhoun County – Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

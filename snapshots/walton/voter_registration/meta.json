@@ -1,0 +1,24 @@
+{
+  "county": "Walton",
+  "page_type": "voter_registration",
+  "requested_url": "https://votewalton.gov/update-my-record/",
+  "final_url": "https://votewalton.gov/update-my-record/",
+  "redirect_chain": [
+    "https://votewalton.gov/update-my-record/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "abdd981495e1448e7f877de0b72ee2fe441c900235af7f15f99494c9ecce9b07",
+  "text_sha256": "567706c97cabf88aaa5b578b7e6254a0ce549e7f35455c7c9a883247682304db",
+  "byte_size": 187321,
+  "title": "Update Registration – Walton County Supervisor of Election",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

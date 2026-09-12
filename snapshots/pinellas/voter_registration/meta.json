@@ -1,0 +1,24 @@
+{
+  "county": "Pinellas",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votepinellas.gov/196/Voter-Registration",
+  "final_url": "https://www.votepinellas.gov/196/Voter-Registration",
+  "redirect_chain": [
+    "https://www.votepinellas.gov/196/Voter-Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "b9d53574b384bcbe2a5c8910cf5fbc6a9f25f99129ebe2994149f108b5e08639",
+  "text_sha256": "3f7401095be2df60fa0f38a4594c45ce1520d98c560fc818de94878229ea84a0",
+  "byte_size": 49725,
+  "title": "Voter Registration | Pinellas County Election, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

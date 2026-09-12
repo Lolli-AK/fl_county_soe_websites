@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
+  "fetched_at": "2026-09-12T11:47:24Z",
   "html_sha256": "1ea436d5a46b54b52be7f8b1ad244c5982256b9b7fb4baa0bf3739179ecc7885",
   "text_sha256": "23c1e09c1fa3e632482f6b1995367f959af0db20ccd05dbe196228e2f94ead02",
   "byte_size": 122933,
   "title": "Monroe County FL Supervisor of Elections > Voting > Three Ways to Vote > Early Voting",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

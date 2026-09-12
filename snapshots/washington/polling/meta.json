@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
+  "fetched_at": "2026-09-12T11:47:24Z",
   "html_sha256": "f29db86a0d3ae96afab87cd484c27dd963881e6d3261328bb2da265f2b859d4e",
   "text_sha256": "f6db5fdaddd67a2b7356173b1ea4e33ac095eb8f7fed843067a77d0987e2b156",
   "byte_size": 85276,
   "title": "Precinct Numbers and Polling Locations – Washington County (FL) Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

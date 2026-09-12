@@ -1,0 +1,24 @@
+{
+  "county": "Holmes",
+  "page_type": "voter_registration",
+  "requested_url": "https://holmeselectionsfl.gov/voter-information/register-to-vote/",
+  "final_url": "https://holmeselectionsfl.gov/voter-information/register-to-vote/",
+  "redirect_chain": [
+    "https://holmeselectionsfl.gov/voter-information/register-to-vote/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "a32cb393d9a635124b9cdf7abd65d20dae25801713473d95003874ecc043d19e",
+  "text_sha256": "ed2cd9e85d7e2a71d23e1cad093e88875152fd6dd38324ab61c47aee36bcc2f5",
+  "byte_size": 99773,
+  "title": "Register To Vote – Holmes County Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

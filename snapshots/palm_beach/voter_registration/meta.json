@@ -1,0 +1,24 @@
+{
+  "county": "Palm Beach",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votepalmbeach.gov/161/Voter-Registration",
+  "final_url": "https://www.votepalmbeach.gov/161/Voter-Registration",
+  "redirect_chain": [
+    "https://www.votepalmbeach.gov/161/Voter-Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "f0bafa84545fea93bc9216db20bbd8833ee4c14ccf36428bf75993b2901ad01a",
+  "text_sha256": "3085b687ca8a0f5bafe8b592b59411f7c9347b336714e9153236617e2f395d98",
+  "byte_size": 46180,
+  "title": "Voter Registration | Palm Beach County Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

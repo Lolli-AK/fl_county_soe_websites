@@ -1,0 +1,24 @@
+{
+  "county": "Volusia",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.volusiaelections.gov/elections/register-to-vote.stml",
+  "final_url": "https://www.volusiaelections.gov/elections/register-to-vote.stml",
+  "redirect_chain": [
+    "https://www.volusiaelections.gov/elections/register-to-vote.stml"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "0798e92175c3a4955bd36b180932a8926f22c97fa7e79d06f81786f91e1f8d3a",
+  "text_sha256": "c6e8e37c5912e4f1c3838ff668475e07dbbb27133adfa5db402205d69792aac5",
+  "byte_size": 40071,
+  "title": "Register to Vote | Volusia County Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

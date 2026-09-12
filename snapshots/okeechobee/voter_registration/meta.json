@@ -1,0 +1,24 @@
+{
+  "county": "Okeechobee",
+  "page_type": "voter_registration",
+  "requested_url": "https://voteokeechobee.gov/voter-information/student-services/",
+  "final_url": "https://voteokeechobee.gov/voter-information/student-services/",
+  "redirect_chain": [
+    "https://voteokeechobee.gov/voter-information/student-services/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "234da399cf64d86de9f777805115cd99b3218cb842fe7172076869c175e58491",
+  "text_sha256": "af2666e36ab5f776dd84b46a5e8c27241191030e6b0ae97e57c5a7af997fba8b",
+  "byte_size": 93250,
+  "title": "Student Services – Okeechobee County, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

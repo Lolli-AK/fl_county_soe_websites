@@ -1,0 +1,24 @@
+{
+  "county": "Jefferson",
+  "page_type": "voter_registration",
+  "requested_url": "https://jeffersonvotesfl.gov/register-to-vote/",
+  "final_url": "https://jeffersonvotesfl.gov/register-to-vote/",
+  "redirect_chain": [
+    "https://jeffersonvotesfl.gov/register-to-vote/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "d8be2fd6cf34964c0fec8e1885a146773a98d3ac40c942bcb7648780facbbb00",
+  "text_sha256": "17825a9b7d02e50c00ad2a4af9255876ec12233f857dd486cc3783f2ce875335",
+  "byte_size": 53047,
+  "title": "Register to Vote | Jefferson County Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

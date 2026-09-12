@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
+  "fetched_at": "2026-09-12T11:47:24Z",
   "html_sha256": "76a886b1683c0bc99ad52cd777899fb45d36b54edd033b734648e3a7ff7db3c6",
   "text_sha256": "349837a59af9d73c56040a5bc7eb776fa014a52c302b99079caeb8b823088b28",
   "byte_size": 41710,
   "title": "Polling Location Changes For 2026 (Revised)",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

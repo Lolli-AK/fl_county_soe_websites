@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
-  "html_sha256": "e16af205f339d24b3bc6cbe0ea9df4e955333b7adbe550a76a8fdc7e96bc38d9",
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "a46ca7341bd9de071df3b3b547df43162282b6318cfb3c6b481f7f40cc6a6b0e",
   "text_sha256": "01992af5185d1aa256b7a278376d08e78fa7981ad16b10b6a95510a8551d57c6",
   "byte_size": 105531,
   "title": "Election Dates - Vote Manatee",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

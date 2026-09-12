@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
-  "html_sha256": "0ddd5031c7987c28bec8b03de3279aaf543cbd096eb91c02bc1c036572ebd540",
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "e02f69c58465ab3b05d2c975889d8db7197f16a3bda0da6d77d30cc75c5776a8",
   "text_sha256": "6592acbce6c9121b35ae36bf0c7cd2dcb777b268093a05812cac3237ff389720",
   "byte_size": 124187,
   "title": "Citrus County Elections, FL | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

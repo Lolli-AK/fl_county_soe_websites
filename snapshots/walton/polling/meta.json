@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
+  "fetched_at": "2026-09-12T11:47:24Z",
   "html_sha256": "c11c5e594340a8be75ef51db269f63adeb79163da4edbd6af67963dafb06805f",
   "text_sha256": "4c5bf7a3e4e2a4f1c14cb225b64c59aed667edb0dacc0811ba9b8cb27ccd73f5",
   "byte_size": 189974,
   "title": "Where Do I Vote? – Walton County Supervisor of Election",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

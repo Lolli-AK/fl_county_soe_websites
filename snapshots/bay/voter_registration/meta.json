@@ -1,0 +1,24 @@
+{
+  "county": "Bay",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.bayvotesfl.gov/events/book-closing-general-election/",
+  "final_url": "https://www.bayvotesfl.gov/events/book-closing-general-election/",
+  "redirect_chain": [
+    "https://www.bayvotesfl.gov/events/book-closing-general-election/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "291a505f6f3438443c19d6d9301c3423feea830512f087f53d46630fea9536e0",
+  "text_sha256": "454df1ecd0bad7c8bd33f1f78e191d3c9279820d8a7daf93d13ab41f0cc9f5d9",
+  "byte_size": 53268,
+  "title": "Book Closing: General Election | Bay County Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

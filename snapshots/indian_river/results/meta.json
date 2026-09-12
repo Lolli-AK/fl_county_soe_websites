@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
+  "fetched_at": "2026-09-12T11:47:24Z",
   "html_sha256": "8e16ec38fdd6a8e1b4feea5f6d1394b7b3a133170524cf452cca1eae188ff664",
   "text_sha256": "0959291070b89cf5eb5c0171a3c8ac8a34baf0cd901d7e6098e81927088f188a",
   "byte_size": 42046,
   "title": "Indian River County Supervisor of Elections FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

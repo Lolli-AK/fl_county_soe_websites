@@ -1,0 +1,24 @@
+{
+  "county": "Manatee",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votemanatee.gov/voter-registration/",
+  "final_url": "https://www.votemanatee.gov/voter-registration/",
+  "redirect_chain": [
+    "https://www.votemanatee.gov/voter-registration/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "1a2809361f3c2c48826cac3636c32364c429916929fc408f90a53760ada93fd2",
+  "text_sha256": "44d069769cc7d383e8948401be34fd6b98a23fd90df944fe41b01b997414a3c0",
+  "byte_size": 101940,
+  "title": "Register to Vote - Vote Manatee",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

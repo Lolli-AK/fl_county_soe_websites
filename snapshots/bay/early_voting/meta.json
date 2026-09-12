@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
+  "fetched_at": "2026-09-12T11:47:24Z",
   "html_sha256": "095e3f3fcea4debadd52897820255cfec5a146f471082cb2402cdcbb846b4211",
   "text_sha256": "d40bb7ce1eb0075feb52aed532ceaae21b9ed0ef78365bfdfe4bd5ba10489b62",
   "byte_size": 54802,
   "title": "Early Voting: Primary Election | Bay County Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

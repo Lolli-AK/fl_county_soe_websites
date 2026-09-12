@@ -1,0 +1,24 @@
+{
+  "county": "Seminole",
+  "page_type": "voter_registration",
+  "requested_url": "https://voteseminole.gov/voters/register-to-vote/",
+  "final_url": "https://voteseminole.gov/voters/register-to-vote/",
+  "redirect_chain": [
+    "https://voteseminole.gov/voters/register-to-vote/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "dfabb7796ca913b2bbce8a8b5a842325ddc282251cada66afb32a0bc6f477d82",
+  "text_sha256": "552d3eb01ee97790f6bb60082f1fa4000b4adf6c82625805e26b2e572cf3cd01",
+  "byte_size": 76877,
+  "title": "Register To Vote – voteseminole.gov",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

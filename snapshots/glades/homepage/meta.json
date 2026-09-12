@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
-  "html_sha256": "f6c61ad02704380244b2df2202655babd7279503552d24a3b234cb5000326c0e",
-  "text_sha256": "6e7fae27b82f4f34f8f9ac06c4b00d67497e37be024fbc025d40b1a0e66d3a89",
-  "byte_size": 96529,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "7ff477ba80de1fbea99085c7b61ab2f8c599dabb31f5a9fbe49155ceee34b5b8",
+  "text_sha256": "95607074a5915e0be5280b6b997eb661fcbcca94c735500d4e22df14d2d47db1",
+  "byte_size": 96517,
   "title": "Glades, FL – Glades County Elections Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

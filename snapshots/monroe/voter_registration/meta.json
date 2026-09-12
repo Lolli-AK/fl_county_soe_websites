@@ -1,0 +1,24 @@
+{
+  "county": "Monroe",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votemonroeflkeys.gov/Voter-Information/Voter-Registration",
+  "final_url": "https://www.votemonroeflkeys.gov/Voter-Information/Voter-Registration",
+  "redirect_chain": [
+    "https://www.votemonroeflkeys.gov/Voter-Information/Voter-Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
+  "external": false,
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "a68423597f394aa75355ee62125be531a106055e6c5dfe3b7b3a98aa26f71407",
+  "text_sha256": "82c5178b06eb0d7c6af3eb475b5c9ea824785aae5fd618856c705b3e50db5d91",
+  "byte_size": 121842,
+  "title": "Monroe County FL Supervisor of Elections > Voter Information > Voter Registration",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

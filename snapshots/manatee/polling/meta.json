@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
-  "html_sha256": "7c1371f0d48be759d001fb294e517c91418b2b610231bd605e96db1e6d603de0",
+  "fetched_at": "2026-09-12T11:47:24Z",
+  "html_sha256": "488f65c3d0ce301da79675b9a7d8e32447bfd92ead42ee00518f52fe3cee10c1",
   "text_sha256": "71e471fe0a23d04f718f7b9cf8fb2c38724b6f30b40e4741c9c5ee0659a9133b",
   "byte_size": 95857,
   "title": "Polling Locations - Vote Manatee",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

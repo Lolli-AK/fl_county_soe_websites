@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:26:27Z",
+  "fetched_at": "2026-09-12T11:47:24Z",
   "html_sha256": "432eeb17bf5a6aa73f96e7e0426dba8e0738058e782b83000d67a40a2ccaaca5",
   "text_sha256": "3a9bad77caaec8cb7c2588a825ad73e23bafa3172fb583b6f19bef317ee7e506",
   "byte_size": 176440,
   "title": "Election Results Archive – Calhoun County – Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }
