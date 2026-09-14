@@ -166,15 +166,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(09/12/2026)
+(09/13/2026)
 Democrats
 23,740
 Republicans
-75,038
+75,039
 Other
-28,951
+28,952
 Total
-127,729
+127,731
 Upcoming Elections
 All Upcoming Elections
 General Election
@@ -196,18 +196,19 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 3 days ago
-📣 SPREAD THE WORD, BAY COUNTY! 📣
-🗳️ Help us celebrate National Voter Registration Day!
-The Bay County Supervisor of Elections Office invites you to stop by and make sure you’re election ready for the 2026 General Election!
-🗓️ Tuesday, September 15, 2026
-⏰ 11:00 AM – 2:00 PM
-📍 In front of the Government Center
-840 W. 11th Street
-Our team will be on-site providing voter registration services and answering your election-related questions. And while you’re there, enjoy some refreshments with us! 🎉
-Whether you need to register to vote or update your voter information, this is a great opportunity to get ready for Election Day.
-Come out, spread the word, and celebrate with us!
-🗳️ Be informed. Be prepared. Be election ready!
+posted 36 minutes ago
+🗳️ 2026 GENERAL ELECTION SAMPLE BALLOTS ARE NOW AVAILABLE!
+Sample ballots for the 2026 General Election are now available online. Take time to review your ballot, research the candidates and questions that will appear on your ballot, and be prepared before you vote.
+📬 Printed sample ballots will also be mailed to voters before Early Voting begins.
+🔎 View Your Sample Ballot Online Today
+Click the link below and enter your information to view your personalized sample ballot:
+https://www.bayvotesfl.gov/elections/sample-ballot/
+📚 Looking for Additional Information?
+Learn more about:
+• Judicial Merit Retention Questions
+• Proposed Florida Constitutional Amendments
+Visit our Voting Guides & Resources page:
+https://www.bayvotesfl.gov/elections/voting-guides-resources/
 View Facebook Post
 (opens in a new tab)
 Public Notices

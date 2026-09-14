@@ -7,7 +7,7 @@ Site Map
 Search
 Site Map
 Site Map
-2026 Primary Election
+2026 General Election
 Voter Turnout Quickview
 Election Night Results
 Voter Information
@@ -37,7 +37,7 @@ Florida Commission on Ethics
 Florida Political Parties
 Florida Civil Rights Restoration
 Scholarship Information
-2026 Primary Election
+2026 General Election
 Voter Turnout Quickview
 Election Night Results
 Voter Information
@@ -67,7 +67,7 @@ Florida Commission on Ethics
 Florida Political Parties
 Florida Civil Rights Restoration
 Scholarship Information
-2026 Primary Election
+2026 General Election
 Voter Turnout Quickview
 Election Night Results
 Voter Information
@@ -98,12 +98,12 @@ Florida Political Parties
 Florida Civil Rights Restoration
 Scholarship Information
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 09/13/2026:
+Active Registered Voters as of 09/14/2026:
 Dem: 2,437
-Rep: 6,650
+Rep: 6,651
 Oth: 2,355
 NPA: 0
-Total: 11,442
+Total: 11,443
 Register to Vote or Update Voter Information
 Request Absentee Ballot
 Find My Precinct

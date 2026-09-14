@@ -121,18 +121,19 @@ Third Party Voter Registration
 Update My Voter Registration Information
 Voter's Guide
 Important Information
-Vote-by-Mail Request Renewal Required
-The deadline to request a Vote-by-Mail ballot for the November 3, 2026, General Election is 5:00 pm, Thursday, October 22.
-Under Florida law, all previous Vote-by-Mail requests have expired. You must
-submit a new request
-to vote by mail in the 2026 election cycle.
 Voter Registration Deadline
 The deadline to register to vote for the November 3, 2026, General Election is Monday, October 5.
 For more information on registering to vote,
 visit our Voter Registration Information page
 .
+Vote-by-Mail Request Renewal Required
+The deadline to request a Vote-by-Mail ballot for the November 3, 2026, General Election is 5:00 pm, Thursday, October 22.
+Under Florida law, all previous Vote-by-Mail requests have expired. You must
+submit a new request
+to vote by mail in the 2026 election cycle.
 Sample Ballots for the 2026 General Election
-Find your voter-specific sample ballot (Available Soon)
+Sample ballots for the November 3, 2026 General Election are now available.
+Find your voter-specific sample ballot
 View the all-inclusive Sample Ballot
 Updating your Florida Driver's License or ID Card Number
 Have you recently updated or been issued a new Florida driver's license or ID card? Due to changes implemented to the numbering system
@@ -186,6 +187,9 @@ City of Bonita Springs Regular Election
 City of Cape Coral General Election
 City of Fort Myers General Election
 Town of Fort Myers Beach Regular Election
+Current Press Releases
+There are no current Press Releases.
+/CivicAlerts.aspx
 Mailing Address: P.O. Box 2545, Fort Myers, FL 33902-2545
 Phone (all offices):
 239-533-8683

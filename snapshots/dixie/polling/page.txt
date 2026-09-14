@@ -252,7 +252,7 @@ Yucatec Maya
 Zapotec
 Zulu
 Active Registered Voters
-As of 08/14/2026
+As of 09/14/2026
 Democrats
 0
 Republicans
@@ -316,7 +316,7 @@ Maps
 About Us
 Your Elections Office
 Your Elected Officials
-County Canvassing Board
+2026 General Election County Canvassing Board
 Vote in Honor of a Veteran
 Scholarship
 Dixie Supervisor of Elections History
@@ -372,7 +372,7 @@ Maps
 About Us
 Your Elections Office
 Your Elected Officials
-County Canvassing Board
+2026 General Election County Canvassing Board
 Vote in Honor of a Veteran
 Scholarship
 Dixie Supervisor of Elections History
@@ -426,7 +426,7 @@ Maps
 About Us
 Your Elections Office
 Your Elected Officials
-County Canvassing Board
+2026 General Election County Canvassing Board
 Vote in Honor of a Veteran
 Scholarship
 Dixie Supervisor of Elections History
@@ -486,7 +486,7 @@ Maps
 About Us
 Your Elections Office
 Your Elected Officials
-County Canvassing Board
+2026 General Election County Canvassing Board
 Vote in Honor of a Veteran
 Scholarship
 Dixie Supervisor of Elections History
@@ -507,8 +507,8 @@ Precinct 2
 Masonic Lodge
 325 NE 134th St, Cross City
 Precinct 4
-School Board Meeting Facility
-841 SE 349 Hwy, Old Town
+Suwannee River Baptist Church
+64 NE 718 St, Old Town
 Precinct 5
 Suwannee Fire Station (by Library)
 21354 SE 349 Hwy, Old Town (In Suwannee)
