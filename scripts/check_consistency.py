@@ -92,6 +92,85 @@ _DATE_RE = re.compile(rf"\b({MONTHS})\.?\s+(\d{{1,2}}),?\s+(20\d\d)\b", re.I)
 # across the corpus fell into "never states it".
 _DATE_NUM_RE = re.compile(r"\b(\d{1,2})/(\d{1,2})/(20\d\d)\b")
 
+# A date RANGE elides the repeated parts: the year, and often the month, appear
+# only on the LAST endpoint. _DATE_RE requires month+day+year adjacent, so the
+# Division of Elections' literal "Early voting period (mandatory period):
+# October 24 - 31, 2026" produced NO value at all and read as "not stated".
+#
+# One regex, so the range must be contiguous -- a year must never reach backwards
+# across a sentence and pair up unrelated dates.
+_RANGE_SEP = r"(?:-|–|—|\bto\b|\bthrough\b|\bthru\b|\buntil\b|\btill\b)"
+_DATE_RANGE_RE = re.compile(
+    rf"\b({MONTHS})\.?\s+(\d{{1,2}})(?:st|nd|rd|th)?\s*{_RANGE_SEP}\s*"
+    rf"(?:({MONTHS})\.?\s+)?(\d{{1,2}})(?:st|nd|rd|th)?,?\s+(20\d\d)\b", re.I)
+_NUM_RANGE_RE = re.compile(
+    rf"\b(\d{{1,2}})/(\d{{1,2}})\s*{_RANGE_SEP}\s*(\d{{1,2}})/(\d{{1,2}})/(20\d\d)\b")
+
+# A BARE date omits the year entirely ("Book closing: October 5", "Early voting
+# October 24-31"). A month+day+year regex cannot see it, though a reader has no
+# trouble: the year is established elsewhere on the page.
+#
+# The year is RESOLVED, never guessed - taken from a +/-2 line window around the
+# date, and only when that window pins exactly ONE year. The window keeps the
+# same contiguity discipline as the range regexes: a year is not allowed to
+# reach across a whole page to date an unrelated deadline.
+_BARE_RANGE_RE = re.compile(
+    rf"\b({MONTHS})\.?\s+(\d{{1,2}})(?:st|nd|rd|th)?\s*{_RANGE_SEP}\s*"
+    rf"(?:({MONTHS})\.?\s+)?(\d{{1,2}})(?:st|nd|rd|th)?\b", re.I)
+_BARE_DATE_RE = re.compile(rf"\b({MONTHS})\.?\s+(\d{{1,2}})(?:st|nd|rd|th)?\b", re.I)
+_YEAR_RE = re.compile(r"\b(20\d\d)\b")
+_YEAR_WINDOW = 2
+
+
+def _mask(text: str, regexes) -> str:
+    """Blank out spans already consumed, preserving offsets."""
+    chars = list(text)
+    for rx in regexes:
+        for m in rx.finditer(text):
+            for i in range(m.start(), m.end()):
+                chars[i] = " "
+    return "".join(chars)
+
+
+def _resolve_year(window: str) -> int | None:
+    years = {int(y) for y in _YEAR_RE.findall(window)}
+    return years.pop() if len(years) == 1 else None
+
+
+def _bare_dates(line: str, year: int) -> list[tuple[int, int, int]]:
+    """Yearless month-day dates on this line, dated from the window's year."""
+    out: list[tuple[int, int, int]] = []
+    masked = _mask(line, (_DATE_RANGE_RE, _NUM_RANGE_RE, _DATE_RE, _DATE_NUM_RE))
+    for m in _BARE_RANGE_RE.finditer(masked):
+        m1, d1, m2, d2 = m.groups()
+        mo1 = _month(m1)
+        mo2 = _month(m2) if m2 else mo1
+        if mo1 and mo2:
+            out.append((year, mo1, int(d1)))
+            out.append((year, mo2, int(d2)))
+    for m in _BARE_DATE_RE.finditer(_mask(masked, (_BARE_RANGE_RE,))):
+        mo = _month(m.group(1))
+        if mo:
+            out.append((year, mo, int(m.group(2))))
+    return out
+
+
+def _range_dates(line: str) -> list[tuple[int, int, int]]:
+    """Both endpoints of every contiguous date range on the line."""
+    out = []
+    for m in _DATE_RANGE_RE.finditer(line):
+        mon1, d1, mon2, d2, y = m.groups()
+        mm1 = _month(mon1)
+        mm2 = _month(mon2) if mon2 else mm1
+        if mm1 and mm2:
+            out.append((int(y), mm1, int(d1)))
+            out.append((int(y), mm2, int(d2)))
+    for m in _NUM_RANGE_RE.finditer(line):
+        a1, b1, a2, b2, y = (int(g) for g in m.groups())
+        out.append((y, a1, b1))
+        out.append((y, a2, b2))
+    return out
+
 # Lines that are talking about registration closing.
 _REG_CONTEXT = re.compile(r"book\s*clos|registration deadline|deadline to register|"
                           r"last day to register", re.I)
@@ -178,13 +257,21 @@ def extract(text: str, page_type: str = "") -> dict[str, list[str]]:
     # Dates, split by what the surrounding line is about. Line-scoped rather than
     # document-scoped: a page can carry an election date and a registration
     # deadline, and attributing both to the same fact would be nonsense.
-    for line in text.splitlines():
+    lines = text.splitlines()
+    for i, line in enumerate(lines):
         if not line.strip():
             continue
-        found: list[tuple[int, int, int]] = [_norm_date(m)
-                                             for m in _DATE_RE.finditer(line)]
+        # Ranges first; their leading endpoint is invisible to _DATE_RE.
+        found: list[tuple[int, int, int]] = _range_dates(line)
+        found += [_norm_date(m) for m in _DATE_RE.finditer(line)]
         found += [(int(m.group(3)), int(m.group(1)), int(m.group(2)))
                   for m in _DATE_NUM_RE.finditer(line)]
+        # Bare dates are dated from the window but still attributed by THIS
+        # line, so a deadline and an election date on adjacent lines stay apart.
+        year = _resolve_year(" ".join(
+            lines[max(0, i - _YEAR_WINDOW): i + _YEAR_WINDOW + 1]))
+        if year:
+            found += _bare_dates(line, year)
         if not found:
             continue
         reg, ev = bool(_REG_CONTEXT.search(line)), bool(_EV_CONTEXT.search(line))
@@ -227,6 +314,14 @@ def judge(fact: str, values: list[str]) -> tuple[str, str]:
     if fact == "registration_deadline":
         if "2026-10-05" in values:
             return "matches", "2026-10-05"
+        # A results archive indexes every past election by its book-closing
+        # date ("Book Closing - 2007 June 26 - Special General"). Those parse
+        # correctly and are not claims about the current deadline; calling them
+        # a contradiction would invent a conflict out of a filing cabinet.
+        past = [v for v in values if v < "2026-01-01"]
+        if past and len(past) == len(values):
+            return "conflicts", ("only past-election dates: "
+                                 + ", ".join(past[:4]))
         return "conflicts", "states " + ", ".join(values[:4])
 
     if fact == "early_voting":
