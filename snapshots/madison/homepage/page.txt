@@ -159,15 +159,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 09/14/2026
+Voter Totals as of: 09/15/2026
 Democrats
 3,849
 Republicans
-5,297
+5,298
 Other
 1,339
 Total
-10,485
+10,486
 Upcoming Elections
 Nov 3, 2026 7:00am
 General Election
@@ -190,6 +190,10 @@ Early Voting: General Election Mon-Fri 8am-6pm, Sat and Sun 7am–3pm
 All Upcoming Dates
 Election News
 View all News & Announcements
+September 14, 2026
+Potential Felon Voter Ineligibility Notice
+Notice is hereby given: O’TERRIAN T MCDANIEL LAST KNOWN ADDRESS: 1011 SW ML KING JR…
+Read Full Announcement
 August 28, 2026
 2026 General Election Preparation Report per F.S. 100.032
 Florida Statute 100.032 requires every county supervisor of elections to post an election preparation report…

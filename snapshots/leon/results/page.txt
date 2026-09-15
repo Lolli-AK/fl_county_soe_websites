@@ -193,6 +193,21 @@ PDF by Name
 PDF by Precinct
 |
 Excel
+2026 General
+Category
+Report
+Download
+Miscellaneous
+Sample Ballot Repository
+English
+|
+Spanish
+Polling Place List
+PDF by Name
+|
+PDF by Precinct
+|
+Excel
 2024 Elections
 2024 General
 Category

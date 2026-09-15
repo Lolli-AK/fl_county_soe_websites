@@ -166,15 +166,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(09/13/2026)
+(09/14/2026)
 Democrats
 23,740
 Republicans
-75,039
+75,041
 Other
 28,952
 Total
-127,731
+127,733
 Upcoming Elections
 All Upcoming Elections
 General Election
@@ -196,7 +196,7 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 36 minutes ago
+posted 23 hours ago
 🗳️ 2026 GENERAL ELECTION SAMPLE BALLOTS ARE NOW AVAILABLE!
 Sample ballots for the 2026 General Election are now available online. Take time to review your ballot, research the candidates and questions that will appear on your ballot, and be prepared before you vote.
 📬 Printed sample ballots will also be mailed to voters before Early Voting begins.
