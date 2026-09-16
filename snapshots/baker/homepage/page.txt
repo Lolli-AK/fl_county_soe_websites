@@ -83,9 +83,9 @@ OFFICIAL RESULTS
 Chris Milton
 BAKER COUNTY SUPERVISOR OF ELECTIONS
 Voter Totals
-Democrats: 2,814
-Republicans: 12,715
-Other: 2,338
+Democrats: 2,813
+Republicans: 12,714
+Other: 2,340
 Total: 17,867
 This is a breakdown of Baker County’s active registered voters by party affiliation. These numbers update as registrations are added or changed, offering an up-to-date look at who makes up our local voting community.
 Welcome

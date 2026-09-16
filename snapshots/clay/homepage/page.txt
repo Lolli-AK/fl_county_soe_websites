@@ -121,6 +121,11 @@ Calendar
 All Events
 Fri,
 Oct
+09,
+2026
+Logic and Accuracy (L&A) Test
+Fri,
+Oct
 23,
 2026
 Early Voting for the General Election
@@ -134,22 +139,17 @@ Oct
 25,
 2026
 Early Voting for the General Election
-Mon,
-Oct
-26,
-2026
-Early Voting for the General Election
 View All Events
 Clay County Voter Totals
-September 15, 2026
+September 16, 2026
 Republicans:
-88632
+88662
 Democrats:
-31242
+31265
 NPA:
-29034
+29048
 Others:
-6357
+6362
 Total:
 Loading...
 Subscribe to Alerts

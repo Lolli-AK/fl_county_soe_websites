@@ -146,15 +146,15 @@ Early Voting
 Voting Locations
 Military & Overseas
 active registered voters
-(09/14/2026)
+(09/15/2026)
 Democrats
-24,417
+24,425
 Republicans
-86,495
+86,499
 Other
-36,673
+36,688
 Total
-147,585
+147,612
 Upcoming Elections
 November 3, 2026
 General Election
@@ -175,6 +175,10 @@ Early Voting for the General Election will be held every day 7AM – 7PM; Octobe
 All Upcoming Dates
 Public Notices
 View All Public Notices
+September 15, 2026
+Notice of Public Test for Voting Equipment and Early Voting
+View the PDF for more information.
+Read Full Announcement
 September 14, 2026
 Notice of Potential Removal from Voter Registration Records
 View the PDF for more information.
@@ -182,10 +186,6 @@ Read Full Announcement
 September 3, 2026
 Office Closure: September 7, 2026
 Our office will be closed for Labor Day. Normal business hours will resume Tuesday, September…
-Read Full Announcement
-August 31, 2026
-Notice of Potential Removal from Voter Registration Records
-View the PDF for more information.
 Read Full Announcement
 View All Public Notices
 Okaloosa County, Florida

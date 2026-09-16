@@ -86,17 +86,17 @@ Florida Commission on Ethics (External Link)
 search
 Active Registered Voters
 as of:
-09/15/2026
+09/16/2026
 Democratic
-67,997
+68,042
 Republican
-142,856
+142,964
 No Party Affiliation
-64,809
+64,868
 Other
-10,034
+10,054
 Total
-285,696
+285,928
 Check your Voter Registration Status
 Am I Registered?
 Link to Register to Vote
@@ -107,8 +107,6 @@ Link to information about vote by mail
 Vote by Mail
 Link to get a sample ballot
 Sample Ballot
-Manatee County Unofficial Voter Turnout
-Manatee County Unofficial Election Results
 Now Open
 SEASONAL ELECTIONS OFFICE
 Voter Services Available July 6 – November 6, 2026

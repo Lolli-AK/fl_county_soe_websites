@@ -80,6 +80,16 @@ All Event Type
 Holiday
 Office Closed
 Elections
+09
+October
+Friday
+Elections
+Logic and Accuracy (L&A) Test
+October 9, 2026 @
+9:00 AM -
+12:00 AM
+500 N. Orange Ave. GCS FL 32043
+More Details
 23
 October
 Friday
@@ -161,13 +171,8 @@ October 31, 2026 @
 9:00 AM -
 6:00 PM
 More Details
-03
-November
-Tuesday
-Elections
-General Election
-November 3, 2026
-More Details
+1
+2
 Voter Information
 My Registration Status
 Register to Vote/Update Your Information
