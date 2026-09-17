@@ -1,11 +1,11 @@
 Okeechobee County, FL
 Skip to content
-Active Registered Voters as of 09/16/2026:
-Dem: 4,311
-Rep: 12,495
-Oth: 884
-NPA: 3,085
-Total: 20,775
+Active Registered Voters as of 09/17/2026:
+Dem: 4,312
+Rep: 12,497
+Oth: 885
+NPA: 3,086
+Total: 20,780
 Home
 Voter Information
 Update Your Voter Registration Information
@@ -174,8 +174,7 @@ A vote-by-mail ballot may be requested for a speci...
 Petition Title
 ...
 Ineligibility Notices
-Potentially Ineligible Voters
-NOTICE OF REMOVAL OF...
+Potentially Ineligible VotersNOTICE OF REMOVAL OF ...
 See All
 General Election
 Early Vote
@@ -225,12 +224,12 @@ elections@voteokeechobee.gov
 Contact Us Form
 Site powered by
 SOE Software
-Active Registered Voters as of 09/16/2026:
-Dem: 4,311
-Rep: 12,495
-Oth: 884
-NPA: 3,085
-Total: 20,775
+Active Registered Voters as of 09/17/2026:
+Dem: 4,312
+Rep: 12,497
+Oth: 885
+NPA: 3,086
+Total: 20,780
 General Election Sample Ballots
 ENGLISH
 SPANISH

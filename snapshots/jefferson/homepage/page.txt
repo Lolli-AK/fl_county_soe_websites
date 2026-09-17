@@ -125,15 +125,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 09/16/2026
+Voter Totals as of: 09/17/2026
 Democrats
-3,829
+3,828
 Republicans
 4,777
 Other
-1,404
+1,403
 Total
-10,010
+10,008
 Upcoming Elections
 Nov 3, 2026
 General Election
@@ -169,7 +169,7 @@ Read Full Announcement
 View all News & Announcements
 Latest News
 Jefferson County Supervisor of Elections - Michelle Milligan
-posted 4 days ago
+posted 5 days ago
 🇺🇸 **We
 Remember.**
 Today, we pause to remember the lives lost on September 11, 2001, and to honor the first responders, service members, and countless individuals whose courage and sacrifice will never be forgotten.

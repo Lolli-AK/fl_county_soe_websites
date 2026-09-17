@@ -146,15 +146,15 @@ Early Voting
 Voting Locations
 Military & Overseas
 active registered voters
-(09/15/2026)
+(09/16/2026)
 Democrats
-24,425
+24,438
 Republicans
-86,499
+86,507
 Other
-36,688
+36,706
 Total
-147,612
+147,651
 Upcoming Elections
 November 3, 2026
 General Election

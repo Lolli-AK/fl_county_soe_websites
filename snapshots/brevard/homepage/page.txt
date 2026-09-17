@@ -114,17 +114,17 @@ Welcome to the Brevard County
 Supervisor of Elections
 Tim Bobanic
 Active Registered Voters as of:
-09/16/2026
+09/17/2026
 Republican
-207,118
+207,173
 Democratic
-111,666
+111,752
 Non-Partisan
-106,628
+106,658
 Others
-18,954
+18,964
 Total
-444,366
+444,547
 2026 Primary Election Results
 View Election Results
 View Announced and Qualified Candidates for the 2026 Election Cycle
@@ -155,11 +155,6 @@ Facebook
 X
 Brevard County Supervisor of Elections
 Upcoming Events
-September 16, 2026
-2:00 PM -
-4:00 PM
-Voter Registration Drive - Melbourne Healthcare & Rehab
-Read More
 September 17, 2026
 11:00 AM -
 2:00 PM
@@ -176,6 +171,10 @@ Read More
 October 2, 2026
 9:00 AM -
 Public Logic & Accuracy Test for 2026 General Election
+Read More
+October 5, 2026
+All day
+Book Closing - 2026 General Election
 Read More
 Brevard County Supervisor of Elections
 Election Public Notices

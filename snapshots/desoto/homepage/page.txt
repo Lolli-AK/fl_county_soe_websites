@@ -107,11 +107,11 @@ Campaign Finance Login
 Contact Us
 Helpful Links
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 09/16/2026:
-Dem: 4,079
-Rep: 8,326
-Oth: 3,588
-Total: 15,993
+Active Registered Voters as of 09/17/2026:
+Dem: 4,081
+Rep: 8,327
+Oth: 3,589
+Total: 15,997
 Register to Vote
 Check My Status
 Vote by Mail
