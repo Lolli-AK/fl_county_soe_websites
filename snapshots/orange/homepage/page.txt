@@ -138,11 +138,6 @@ Stay in the know.
 Here you’ll find all of the important dates for upcoming elections in Orange County, including registration deadlines, early voting windows, public meeting schedules, and more.
 Upcoming Events
 Sep
-17
-All day
-Overseas (UOCAVA) Ballots Are Mailed (General Election)
-Read More
-Sep
 21
 September 21 @ 10:00 am
 –
@@ -161,62 +156,69 @@ September 28 @ 10:00 am
 September 30 @ 12:00 pm
 Signature Observation (General Election)
 Read More
+Oct
+5
+October 5 @ 10:00 am
+–
+October 7 @ 12:00 pm
+Signature Observation (General Election)
+Read More
 View Calendar
 VOTER STATISTICS
 Registered Active Voters
-as of 09/16/2026
+as of 09/17/2026
 Switch to details
 Switch to summary
 Party
 Count
 Percentage
 Dem.
-317,044
+317,173
 38.93%
 Rep.
-227,234
-27.90%
+227,270
+27.89%
 Other
-32,484
+32,531
 3.99%
 NPA
-237,734
-29.19%
+237,765
+29.18%
 Total
-814,496
+814,739
 100%
 Party Name
 Count
 Florida Democratic Party
-317,044
+317,173
 NO PARTY AFFILIATION
-237,734
+237,765
 Republican Party Of Florida
-227,234
+227,270
 Independent Party of Florida
-18,306
+18,320
 Boricua Party
-2,986
+2,993
 Conservative Party of Florida
-2,457
+2,462
 America First Party of Florida
-2,342
+2,358
 Libertarian Party of Florida
-2,098
+2,099
 Constitution Party of Florida
-1,085
+1,086
 Coalition With A Purpose Party
-902
+903
 American Solidarity Party of Florida
-760
+758
 Green Party of Florida
-713
+715
 Ecology Party of Florida
 339
 Party for Socialism and Liberation – Florida
-231
+232
 Florida Forward Party
-226
+227
 We the People Florida
 28
 MGTOW Party
@@ -224,15 +226,15 @@ MGTOW Party
 Jeffersonian Party of Florida
 5
 Total
-814,496
+814,739
 Vote By Mail Standing Request Totals
-as of 09/16/2026
+as of 09/17/2026
 Election Name
 Count
 2026 General Election
-104,031
+104,287
 Permanent VBM requests 2025-2026
-100,689
+100,887
 BY THE NUMBERS
 Get a quick snapshot of elections in Orange County. We highlight key statistics that capture the scale, accuracy, and impact of our election operations.
 8
@@ -244,6 +246,9 @@ Voting precincts ready to serve voters across Orange County.
 50,020
 Voters tracking their Vote-by-Mail ballot using BallotTrax.
 Latest News
+More Than 2,000 Military and Overseas Ballots Mailed for 2026 General Election
+ORANGE COUNTY, Fla. — More than 2,000 ballots are on their way to Orange County…
+READ MORE
 Public Notice: Independent Audit Notice – Primary 2026
 NOTICE The Orange County Canvassing Board will conduct an Automated, Independent Audit for the August…
 READ MORE
@@ -258,9 +263,6 @@ The Canvassing Board Recessed at 4:47 PM. The Board will resume at 6:45 PM for�
 READ MORE
 2026 Primary Election Polling Place Changes
 2026 Precinct NumberNew Polling PlacePrevious Polling PlaceType of Change115St Lukes United Methodist Church4851 S Apopka…
-READ MORE
-Supervisor of Elections Takes Steps to Ensure Accurate Ballot Tabulation
-A Limited Number of Ballots Identified for Additional Review All Affected Ballots Have Been Accounted…
 READ MORE
 VIEW MORE NEWS
 SUBMIT A PUBLIC RECORDS REQUEST

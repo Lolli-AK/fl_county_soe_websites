@@ -236,7 +236,7 @@ Where Do I Vote?
 My Sample Ballot
 Lafayette County
 Supervisor of Elections
-Active Registered Voter: 09/17/2026
+Active Registered Voter: 09/18/2026
 Democrats:
 0
 Republicans:
@@ -299,7 +299,6 @@ News & Announcements
 Republican
 Non Partisan
 Democrat
-Read More...
 Accessibility Statement
 We are committed to keeping our site accessible to everyone.
 We welcome feedback on ways to improve the site’s accessibility.

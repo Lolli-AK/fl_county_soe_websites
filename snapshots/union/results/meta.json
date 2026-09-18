@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-17T12:52:08Z",
-  "html_sha256": "0c18f27257a8652b635c0f58b68835e082117e087eab06678d322cbf9b810f23",
+  "fetched_at": "2026-09-18T12:27:28Z",
+  "html_sha256": "d1c9ae189ceb5a326b7cadef87eda8bdd4b88849dce0d036dd916954fc94335a",
   "text_sha256": "f8cb611ad908e6f60f68c090d1d9da40887e3e62f7840c220d53ba7c2d190edc",
-  "byte_size": 72027,
+  "byte_size": 72023,
   "title": "Election Results | Union County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
