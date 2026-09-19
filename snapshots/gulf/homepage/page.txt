@@ -130,17 +130,17 @@ Track My Ballot
 Early Voting
 Voting Locations
 Active Registered Voters
-(09/17/2026)
+(09/18/2026)
 Democrats
 2,235
 Republicans
-7,285
+7,288
 No Party Affiliation
 1,267
 Other
 390
 Total
-11,177
+11,180
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -151,8 +151,6 @@ Info & Dates
 All Upcoming Elections
 Dates to Remember
 All Upcoming Dates
-September 19, 2026
-Mail Ballot Deadline (UOCAVA Voters) – General Election
 September 24, 2026
 Mail Ballot Deadline (Domestic Voters) – General Election
 October 5, 2026

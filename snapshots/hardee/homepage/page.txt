@@ -98,9 +98,9 @@ Florida Political Parties
 Florida Civil Rights Restoration
 Scholarship Information
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 09/18/2026:
-Dem: 2,445
-Rep: 6,651
+Active Registered Voters as of 09/19/2026:
+Dem: 2,447
+Rep: 6,649
 Oth: 2,363
 NPA: 0
 Total: 11,459

@@ -236,7 +236,7 @@ Where Do I Vote?
 My Sample Ballot
 Lafayette County
 Supervisor of Elections
-Active Registered Voter: 09/18/2026
+Active Registered Voter: 09/19/2026
 Democrats:
 0
 Republicans:
@@ -295,10 +295,11 @@ Mayo, Fl 32066
 Branford, Fl 32008
 District Map
 News & Announcements
-2026 Primary Election Sample Ballots
-Republican
-Non Partisan
-Democrat
+September 18 - UOCAVA Vote By Mail Sent
+October 1 - Domestic Vote By Mail Sent
+General Election 2026 Sample Ballots
+Congressional District 2
+Congressional District 3
 Accessibility Statement
 We are committed to keeping our site accessible to everyone.
 We welcome feedback on ways to improve the site’s accessibility.

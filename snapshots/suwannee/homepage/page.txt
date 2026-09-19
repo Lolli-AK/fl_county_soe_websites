@@ -94,15 +94,15 @@ Track My Ballot
 Early Voting
 Voting Locations
 Voter Totals
-as of: 09/18/2026
+as of: 09/19/2026
 Democrats
-5,116
+5,115
 Republicans
-17,316
+17,318
 Other
-4,468
+4,465
 Total
-26,900
+26,898
 Upcoming Elections
 Nov 3, 2026
 General Election
@@ -114,8 +114,6 @@ extended hours during elections
 Toll Free (English and Spanish)
 +1 (866) 308-6739
 Dates to Remember
-Sep 19, 2026
-Mail Ballot ‘Send’ Deadline (45-day deadline before election) for UOCAVA voters for the General Election.
 Sep 24, 2026
 Mail Ballot ‘Send’ Deadline (40-day deadline before election) for domestic voters for the General Election.
 Oct 5, 2026

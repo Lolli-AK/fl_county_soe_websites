@@ -119,17 +119,17 @@ Welcome to the Brevard County
 Supervisor of Elections
 Tim Bobanic
 Active Registered Voters as of:
-09/18/2026
+09/19/2026
 Republican
-207,173
+207,224
 Democratic
-111,752
+111,814
 Non-Partisan
-106,658
+106,672
 Others
-18,964
+18,986
 Total
-444,547
+444,696
 2026 General Election Sample Ballots
 View Your 2026 General Election Sample Ballot
 View Announced and Qualified Candidates for the 2026 Election Cycle

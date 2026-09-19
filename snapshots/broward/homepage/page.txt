@@ -351,6 +351,7 @@ Key information about the November 3, 2026 Election, including registration dead
 View Election Info
 Announcements
 November 3, 2026 Election – Canvassing Board
+Administrative Order for the 2026 November Election
 Canvassing Board Master Schedule in
 English
 /
@@ -365,12 +366,6 @@ Election Preparation Report for the 2026 General Election
 Important Information about the 2026 November Election, including registration deadline and other important dates.
 Legally Required Notices
 Potential Ineligibility Notices - Public Notice- 09/03/2026
-Notice of Special Election in Plantation Acres Improvement District Special Election in
-English
-/
-Spanish
-/
-Creole
 Notice of General Election in
 English
 /
@@ -387,16 +382,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-9/18/26
-1,362,419
+9/19/26
+1,362,558
 Eligible Voters
-591,422
+591,467
 Democrat
-316,360
+316,423
 Republican
-418,002
+418,009
 NPA
-36,635
+36,659
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.

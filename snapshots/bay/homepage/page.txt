@@ -163,15 +163,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(09/17/2026)
+(09/18/2026)
 Democrats
-23,778
+23,802
 Republicans
-75,077
+75,102
 Other
-28,977
+28,990
 Total
-127,832
+127,894
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -182,19 +182,19 @@ Info & Dates
 All Upcoming Elections
 Dates to Remember
 All Upcoming Dates
-Sep 19, 2026
-Deadline to mail vote-by-mail ballots (45-day deadline before election) for UOCAVA voters who requested a vote-by-mail ballot for the General…
 Sep 24, 2026
 First day to mail vote-by-mail ballots  (40-days before election) for domestic voters who requested vote-by-mail ballots for the General Election.
 Oct 5, 2026
 Deadline to register to vote in the General Election.
 Oct 14, 2026 8:30am
 Canvassing Board Orientation Meeting followed by Public Logic and Accuracy Testing of the Voting and Tabulating Equipment to be used…
+Oct 21, 2026 8:30am
+Canvassing Board Meeting to begin canvass of vote by mail ballots, scan into audit system, and ballot duplication (as needed)
 All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 1 day ago
+posted 2 days ago
 🗳️ The 2026 General Election will be here before we know it!
 Being Election Ready starts with knowing the important dates and deadlines. Mark your calendar, share this information with friends and family, and make your plan to vote!
 🗓️ Important General Election Dates:

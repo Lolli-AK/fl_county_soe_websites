@@ -133,15 +133,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 09/17/2026
+Voter Totals as of: 09/18/2026
 Democrats
-6,108
+6,111
 Republicans
-18,887
+18,889
 Other
-5,305
+5,308
 Total
-30,300
+30,308
 Voter Turnout
 Upcoming Elections
 Nov 3, 2026
@@ -154,8 +154,6 @@ extended hours during elections
 English & Spanish
 +1 (833) 917-4357
 Dates to Remember
-Sep 19, 2026
-Mail Ballot ‘Send’ Deadline For Absentee and Overseas Voters: General Election
 Sep 24, 2026
 Mail Ballot ‘Send’ Deadline For Domestic Voters: General Election
 Oct 5, 2026

@@ -159,15 +159,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 09/18/2026
+Voter Totals as of: 09/19/2026
 Democrats
-3,850
+3,851
 Republicans
-5,300
+5,299
 Other
-1,341
+1,342
 Total
-10,491
+10,492
 Upcoming Elections
 Nov 3, 2026 7:00am
 General Election
@@ -179,8 +179,6 @@ extended hours during elections
 Toll Free:
 +1 (866) 308-6739
 Dates to Remember
-September 19, 2026
-Mail Ballot ‘Send’ Deadline (45-day deadline before election) for UOCAVA voters for the General Election.
 September 24, 2026
 Mail Ballot ‘Send’ Deadline (40-day deadline before election) for domestic voters for the General Election.
 October 5, 2026
@@ -197,6 +195,10 @@ Read Full Announcement
 August 28, 2026
 2026 General Election Preparation Report per F.S. 100.032
 Florida Statute 100.032 requires every county supervisor of elections to post an election preparation report…
+Read Full Announcement
+July 6, 2026
+DEADLINE -
+The last day to register to vote for the November General Election is Monday, October…
 Read Full Announcement
 March 30, 2026
 Active Petition Signature Verification Report

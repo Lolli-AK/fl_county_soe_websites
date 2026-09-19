@@ -169,15 +169,15 @@ Early Voting
 (opens in a new tab)
 Voting Locations
 (opens in a new tab)
-Active Registered Voters (09/17/2026)
+Active Registered Voters (09/18/2026)
 Democrats
 1,480
 Republicans
-5,003
+5,000
 Other
 824
 Total
-7,307
+7,304
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -195,8 +195,6 @@ Toll Free
 +1 (866) 308-6739
 Dates to Remember
 All Upcoming Dates
-September 19, 2026
-Mail Ballot ‘Send’ Deadline (45-day deadline before election) for UOCAVA voters for the General Election.
 September 24, 2026
 Mail Ballot ‘Send’ Deadline (40-day deadline before election) for domestic voters for the General Election.
 October 5, 2026
