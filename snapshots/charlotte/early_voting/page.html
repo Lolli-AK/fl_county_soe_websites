@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="removeSetHeights no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-muli-n3-active wf-muli-n4-active wf-muli-i4-active wf-muli-n7-active" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -17,7 +17,17 @@
   <meta content="Early Voting Locations" name="description"/>
   <meta content="Early Voting,Voting Location" name="keywords"/>
  </head>
- <body class="wide">
+ <body class="wide cpTextResizeOn doneLoading">
+  <div id="divAjaxProgress">
+   <div id="divAjaxShade">
+   </div>
+   <div class="loading" id="divAjaxImgProgress">
+    <img alt="Loading" src="/Common/images/ajax-loader.gif" title="Loading"/>
+    <p>
+     Loading
+    </p>
+   </div>
+  </div>
   <div class="cp-PopOver cp-PopOver--modal" id="popoverModal">
    <div class="cp-PopOver-header">
     <h3 class="cp-PopOver-title">
@@ -73,53 +83,43 @@
          <ol class="rootNavMenu" data-parent="1" id="mainNavMenu" role="menu">
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="27" id="MainItem27" role="none">
            <a aria-controls="mainNavMegaMenu27" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem1" href="/27/About" id="mainNavAbout" role="menuitem" target="_self">
-            About
+            <span>
+             About
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="31" id="MainItem31" role="none">
            <a aria-controls="mainNavMegaMenu31" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem2" href="/31/Election-RANDOM" id="mainNavElectionInformation" role="menuitem" target="_self">
-            Election Information
+            <span>
+             Election Information
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="35" id="MainItem35" role="none">
            <a aria-controls="mainNavMegaMenu35" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem3" href="/35/Voter-RANDOM" id="mainNavVoterInformation" role="menuitem" target="_self">
-            Voter Information
+            <span>
+             Voter Information
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="9" id="MainItem9" role="none">
            <a aria-controls="mainNavMegaMenu9" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem4" href="/9/Candidates-Elected-RANDOM" id="mainNavCandidatesElectedOfficials" role="menuitem" target="_self">
-            Candidates &amp; Elected Officials
+            <span>
+             Candidates &amp; Elected Officials
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="1192" id="MainItem1192" role="none">
            <a aria-controls="mainNavMegaMenu1192" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem5" href="/1192/How-To-Videos" id="mainNavHowToVideos" role="menuitem" target="_self">
-            How-To Videos
+            <span>
+             How-To Videos
+            </span>
            </a>
           </li>
          </ol>
          <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu">
           <input id="megaMenuPopupDirection" type="hidden"/>
           <input id="megaMenuWidthReference" type="hidden"/>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="menu">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31" role="menu">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="menu">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="menu">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_1192 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu1192" role="menu">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
          </aside>
         </nav>
         <div data-cprole="contentContainer" id="searchTS">
@@ -131,7 +131,7 @@
               <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
                <section aria-label="Search" class="widget widgetSearch skin62 widgetOptionSet37" id="widgetPreviewSearch">
                 <div class="widgetBody buttonRightInside">
-                 <input class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="I'm Looking For..." type="text" value=""/>
+                 <input autocomplete="off" class="widgetSearchBox widgetSearchBoxGUID ui-autocomplete-input" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="I'm Looking For..." type="text" value=""/>
                  <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon" role="button">
                   <img alt="Go to Site Search" class="imageHover" data-hover="/ImageRepository/Document?documentID=119" data-image="/ImageRepository/Document?documentID=118" src="/ImageRepository/Document?documentID=118"/>
                  </a>
@@ -163,11 +163,8 @@
         </div>
         <div class="hidden" id="bannerImagesJSON77">
         </div>
-        <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
-         <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
-         </a>
-         <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
-         </a>
+        <div class="bannerObject external fixedBanner" data-image-scale="true" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" data-is-delayed="false" src="/ImageRepository/Document?documentID=250" width="1280px"/>
         </div>
        </div>
       </div>
@@ -701,7 +698,7 @@
                     </li>
                     <li class="InfoAdvanced widgetItem fr-view">
                      <p>
-                      <a href="https://www.google.com/maps/place/6868+San+Casa+Dr,+Englewood,+FL+34224/@26.9216303,-82.3125742,17z/data=!3m1!4b1!4m6!3m5!1s0x88c4a9834ac48ed9:0x8783fc86dedf30f5!8m2!3d26.9216303!4d-82.3125742!16s%2Fg%2F11b8v5b7qw?entry=ttu&amp;g_ep=EgoyMDI2MDEyMC4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                      <a aria-label="6868 San Casa Drive, Englewood, FL 34224 Opens in new window" href="https://www.google.com/maps/place/6868+San+Casa+Dr,+Englewood,+FL+34224/@26.9216303,-82.3125742,17z/data=!3m1!4b1!4m6!3m5!1s0x88c4a9834ac48ed9:0x8783fc86dedf30f5!8m2!3d26.9216303!4d-82.3125742!16s%2Fg%2F11b8v5b7qw?entry=ttu&amp;g_ep=EgoyMDI2MDEyMC4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                        6868 San Casa Drive, Englewood, FL 34224
                       </a>
                      </p>
@@ -721,8 +718,8 @@
                     </li>
                     <li class="InfoAdvanced widgetItem fr-view">
                      <p>
-                      <a href="https://www.google.com/maps/place/6868+San+Casa+Dr,+Englewood,+FL+34224/@26.9216303,-82.3125742,17z/data=!3m1!4b1!4m6!3m5!1s0x88c4a9834ac48ed9:0x8783fc86dedf30f5!8m2!3d26.9216303!4d-82.3125742!16s%2Fg%2F11b8v5b7qw?entry=ttu&amp;g_ep=EgoyMDI2MDEyMC4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
-                       <img alt="Mac V. Horton West County Annex" class="fr-fil fr-dib" src="/ImageRepository/Document?documentId=358"/>
+                      <a aria-label="Mac V. Horton West County Annex Opens in new window" href="https://www.google.com/maps/place/6868+San+Casa+Dr,+Englewood,+FL+34224/@26.9216303,-82.3125742,17z/data=!3m1!4b1!4m6!3m5!1s0x88c4a9834ac48ed9:0x8783fc86dedf30f5!8m2!3d26.9216303!4d-82.3125742!16s%2Fg%2F11b8v5b7qw?entry=ttu&amp;g_ep=EgoyMDI2MDEyMC4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                       <img alt="Mac V. Horton West County Annex Opens in new window" class="fr-fil fr-dib" src="/ImageRepository/Document?documentId=358"/>
                       </a>
                      </p>
                     </li>
@@ -758,7 +755,7 @@
                     </li>
                     <li class="InfoAdvanced widgetItem fr-view">
                      <p>
-                      <a href="https://www.google.com/maps/place/226+Taylor+St,+Punta+Gorda,+FL+33950/@26.9346642,-82.0501992,16z/data=!3m1!4b1!4m6!3m5!1s0x88db57f1b5449f2f:0xfaefec9510c2e500!8m2!3d26.9346642!4d-82.0501992!16s%2Fg%2F11rg61xfhh?entry=ttu&amp;g_ep=EgoyMDI2MDEyMC4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                      <a aria-label="226 Taylor St. Punta Gorda, FL 33950 Opens in new window" href="https://www.google.com/maps/place/226+Taylor+St,+Punta+Gorda,+FL+33950/@26.9346642,-82.0501992,16z/data=!3m1!4b1!4m6!3m5!1s0x88db57f1b5449f2f:0xfaefec9510c2e500!8m2!3d26.9346642!4d-82.0501992!16s%2Fg%2F11rg61xfhh?entry=ttu&amp;g_ep=EgoyMDI2MDEyMC4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                        226 Taylor St. Punta Gorda, FL 33950
                       </a>
                      </p>
@@ -778,8 +775,8 @@
                     </li>
                     <li class="InfoAdvanced widgetItem fr-view">
                      <p>
-                      <a href="https://www.google.com/maps/place/226+Taylor+St,+Punta+Gorda,+FL+33950/@26.9346642,-82.0501992,16z/data=!3m1!4b1!4m6!3m5!1s0x88db57f1b5449f2f:0xfaefec9510c2e500!8m2!3d26.9346642!4d-82.0501992!16s%2Fg%2F11rg61xfhh?entry=ttu&amp;g_ep=EgoyMDI2MDEyMC4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
-                       <img alt="Charlotte County Historic Courthouse" class="fr-fil fr-dib" src="/ImageRepository/Document?documentId=359"/>
+                      <a aria-label="Charlotte County Historic Courthouse Opens in new window" href="https://www.google.com/maps/place/226+Taylor+St,+Punta+Gorda,+FL+33950/@26.9346642,-82.0501992,16z/data=!3m1!4b1!4m6!3m5!1s0x88db57f1b5449f2f:0xfaefec9510c2e500!8m2!3d26.9346642!4d-82.0501992!16s%2Fg%2F11rg61xfhh?entry=ttu&amp;g_ep=EgoyMDI2MDEyMC4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                       <img alt="Charlotte County Historic Courthouse Opens in new window" class="fr-fil fr-dib" src="/ImageRepository/Document?documentId=359"/>
                       </a>
                      </p>
                     </li>
@@ -815,7 +812,7 @@
                     </li>
                     <li class="InfoAdvanced widgetItem fr-view">
                      <p>
-                      <a href="https://www.google.com/maps/place/18500+Murdock+Cir,+Port+Charlotte,+FL+33948/@27.0085309,-82.14134,17z/data=!3m1!4b1!4m6!3m5!1s0x88dcabcef5543f55:0xd4fa12bf56bf329b!8m2!3d27.0085309!4d-82.14134!16s%2Fg%2F11bw41p652?entry=ttu&amp;g_ep=EgoyMDI2MDEyMC4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                      <a aria-label="18500 Murdock Circle, Port Charlotte, FL 33948 Opens in new window" href="https://www.google.com/maps/place/18500+Murdock+Cir,+Port+Charlotte,+FL+33948/@27.0085309,-82.14134,17z/data=!3m1!4b1!4m6!3m5!1s0x88dcabcef5543f55:0xd4fa12bf56bf329b!8m2!3d27.0085309!4d-82.14134!16s%2Fg%2F11bw41p652?entry=ttu&amp;g_ep=EgoyMDI2MDEyMC4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                        18500 Murdock Circle, Port Charlotte, FL 33948
                       </a>
                      </p>
@@ -835,8 +832,8 @@
                     </li>
                     <li class="InfoAdvanced widgetItem fr-view">
                      <p>
-                      <a href="https://www.google.com/maps/place/18500+Murdock+Cir,+Port+Charlotte,+FL+33948/@27.0085309,-82.14134,17z/data=!3m1!4b1!4m6!3m5!1s0x88dcabcef5543f55:0xd4fa12bf56bf329b!8m2!3d27.0085309!4d-82.14134!16s%2Fg%2F11bw41p652?entry=ttu&amp;g_ep=EgoyMDI2MDEyMC4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
-                       <img alt="Charlotte County Administrative Building" class="fr-fil fr-dib" src="/ImageRepository/Document?documentId=357"/>
+                      <a aria-label="Charlotte County Administrative Building Opens in new window" href="https://www.google.com/maps/place/18500+Murdock+Cir,+Port+Charlotte,+FL+33948/@27.0085309,-82.14134,17z/data=!3m1!4b1!4m6!3m5!1s0x88dcabcef5543f55:0xd4fa12bf56bf329b!8m2!3d27.0085309!4d-82.14134!16s%2Fg%2F11bw41p652?entry=ttu&amp;g_ep=EgoyMDI2MDEyMC4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                       <img alt="Charlotte County Administrative Building Opens in new window" class="fr-fil fr-dib" src="/ImageRepository/Document?documentId=357"/>
                       </a>
                      </p>
                     </li>
@@ -946,7 +943,7 @@
                    <div class="col col1 first">
                     <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
-                      <a aria-label="Facebook" class="widgetDesc widgetGraphicLinksLink" href="https://www.facebook.com/CharCountySOE" target="_self">
+                      <a class="widgetDesc widgetGraphicLinksLink" href="https://www.facebook.com/CharCountySOE" target="_self">
                        <img alt="Facebook" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=146'" onfocus="this.src='/ImageRepository/Document?documentID=146'" onmouseout="this.src='/ImageRepository/Document?documentID=146'" onmouseover="this.src='/ImageRepository/Document?documentID=146'" src="/ImageRepository/Document?documentID=146"/>
                       </a>
                      </li>
@@ -955,7 +952,7 @@
                    <div class="col col1">
                     <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
-                      <a aria-label="Instagram" class="widgetDesc widgetGraphicLinksLink" href="https://www.instagram.com/charcosoe/" target="_self">
+                      <a class="widgetDesc widgetGraphicLinksLink" href="https://www.instagram.com/charcosoe/" target="_self">
                        <img alt="Instagram" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=147'" onfocus="this.src='/ImageRepository/Document?documentID=147'" onmouseout="this.src='/ImageRepository/Document?documentID=147'" onmouseover="this.src='/ImageRepository/Document?documentID=147'" src="/ImageRepository/Document?documentID=147"/>
                       </a>
                      </li>
@@ -964,7 +961,7 @@
                    <div class="col col1">
                     <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
-                      <a aria-label="X" class="widgetDesc widgetGraphicLinksLink" href="https://x.com/CharCoSOE" target="_self">
+                      <a class="widgetDesc widgetGraphicLinksLink" href="https://x.com/CharCoSOE" target="_self">
                        <img alt="X" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=158'" onfocus="this.src='/ImageRepository/Document?documentID=158'" onmouseout="this.src='/ImageRepository/Document?documentID=158'" onmouseover="this.src='/ImageRepository/Document?documentID=158'" src="/ImageRepository/Document?documentID=158"/>
                       </a>
                      </li>
@@ -973,7 +970,7 @@
                    <div class="col col1">
                     <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
-                      <a aria-label="Nextdoor" class="widgetDesc widgetGraphicLinksLink" href="https://nextdoor.com/agency-detail/fl/punta-gorda/charlotte-county-supervisor-elections/" target="_self">
+                      <a class="widgetDesc widgetGraphicLinksLink" href="https://nextdoor.com/agency-detail/fl/punta-gorda/charlotte-county-supervisor-elections/" target="_self">
                        <img alt="Nextdoor" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=150'" onfocus="this.src='/ImageRepository/Document?documentID=150'" onmouseout="this.src='/ImageRepository/Document?documentID=150'" onmouseover="this.src='/ImageRepository/Document?documentID=150'" src="/ImageRepository/Document?documentID=150"/>
                       </a>
                      </li>
@@ -982,7 +979,7 @@
                    <div class="col col1 last">
                     <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
-                      <a aria-label="YouTube" class="widgetDesc widgetGraphicLinksLink" href="https://www.youtube.com/@CharCoSOE" target="_self">
+                      <a class="widgetDesc widgetGraphicLinksLink" href="https://www.youtube.com/@CharCoSOE" target="_self">
                        <img alt="YouTube" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=159'" onfocus="this.src='/ImageRepository/Document?documentID=159'" onmouseout="this.src='/ImageRepository/Document?documentID=159'" onmouseover="this.src='/ImageRepository/Document?documentID=159'" src="/ImageRepository/Document?documentID=159"/>
                       </a>
                      </li>
@@ -1065,12 +1062,39 @@
   </div>
   <div>
   </div>
-  <div class="hidden activeWidgetSkinComponentsOnPageJson">
-   []
-  </div>
   <div>
   </div>
   <div id="root-picker-outlet">
+  </div>
+  <ul class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" id="ui-id-1" tabindex="0">
+  </ul>
+  <div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status">
+  </div>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_1192 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu1192" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
+   <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
+   </a>
+   <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
+   </a>
   </div>
  </body>
 </html>

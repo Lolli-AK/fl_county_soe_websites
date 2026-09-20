@@ -1,4 +1,6 @@
 Marion County Elections, FL | Official Website
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 About
 Voters
@@ -29,22 +31,33 @@ Financial Reports
 /QuickLinks.aspx
 Voter Demographics
 As of:
+9/20/26
 Democrats:
+67,639
 Republicans:
+140,024
 No Party Affiliation:
+51,210
 Other:
+11,070
 Total:
+269,943
 News & Events
 News Flash
 2026 General Election - Canvassing Board Meetings
 Additional Info...
+about 2026 General Election - Canvassing Board Meetings
 2026 Primary - Post Election Audit
 Additional Info...
+about 2026 Primary - Post Election Audit
 2026 Primary - Post Election Audit Public Notice
 Additional Info...
+about 2026 Primary - Post Election Audit Public Notice
 View All News
+News Flash
 /CivicAlerts.aspx
 September 2026
+Calendar
 S
 M
 T
@@ -113,4 +126,5 @@ Loading
 Loading
 Do Not Show Again
 Close
-[]
+Hi, how can I help?
+Explore your accessibility options

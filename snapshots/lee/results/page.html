@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-muli-n3-active wf-muli-n4-active wf-muli-i4-active wf-muli-n7-active" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -13,10 +13,27 @@
   </title>
   <meta content="On election night, we will release and post preliminary, unofficial local election results shortly after 7 pm." name="description"/>
  </head>
- <body class="wide">
+ <body class="wide cpTextResizeOn doneLoading ae-election-results-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
+  <div aria-live="polite" class="ae-blurb-noaudio" data-nosnippet="" id="ae_enabled_site" role="status">
+   <div>
+    <p data-modulename="launcher">
+     This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+    </p>
+   </div>
+  </div>
+  <div id="divAjaxProgress">
+   <div id="divAjaxShade">
+   </div>
+   <div class="loading" id="divAjaxImgProgress">
+    <img alt="" src="/Common/images/ajax-loader.gif" title="Loading"/>
+    <p>
+     Loading
+    </p>
+   </div>
+  </div>
   <div class="cp-PopOver cp-PopOver--modal" id="popoverModal">
    <div class="cp-PopOver-header">
-    <h3 class="cp-PopOver-title">
+    <h3 aria-hidden="true" class="cp-PopOver-title" role="presentation" tabindex="-1">
     </h3>
     <button class="cp-Btn cp-PopOver-close" onclick="closePopOverModal(event)">
     </button>
@@ -32,12 +49,12 @@
   </div>
   <div id="fb-root">
   </div>
-  <div id="skipToContentLinks">
-   <a class="skipToContentLink" href="#ccGUID" target="_self">
+  <div aria-hidden="true" class="ae-exclude" id="skipToContentLinks" role="presentation" tabindex="-1">
+   <a aria-hidden="true" class="skipToContentLink ae-exclude" href="#ccGUID" role="presentation" tabindex="-1" target="_self">
     Skip to Main Content
    </a>
   </div>
-  <form id="frmReferenceFormForTelerikEditorDialogs">
+  <form id="frmReferenceFormForTelerikEditorDialogs" role="presentation">
   </form>
   <input id="GoogleMapsKey" type="hidden"/>
   <input id="cpcDomain" type="hidden"/>
@@ -74,6 +91,766 @@
                    <div>
                     <div id="google-translate-container">
                      <div id="google_translate_element">
+                      <div aria-label="Website Translation by Google Translate" class="skiptranslate goog-te-gadget" dir="ltr" role="region">
+                       <div id=":0.targetLanguage">
+                        <select aria-label="Select Language" class="goog-te-combo">
+                         <option value="">
+                          Select Language
+                         </option>
+                         <option value="ab">
+                          Abkhaz
+                         </option>
+                         <option value="ace">
+                          Acehnese
+                         </option>
+                         <option value="ach">
+                          Acholi
+                         </option>
+                         <option value="aa">
+                          Afar
+                         </option>
+                         <option value="af">
+                          Afrikaans
+                         </option>
+                         <option value="sq">
+                          Albanian
+                         </option>
+                         <option value="alz">
+                          Alur
+                         </option>
+                         <option value="am">
+                          Amharic
+                         </option>
+                         <option value="ar">
+                          Arabic
+                         </option>
+                         <option value="hy">
+                          Armenian
+                         </option>
+                         <option value="as">
+                          Assamese
+                         </option>
+                         <option value="av">
+                          Avar
+                         </option>
+                         <option value="awa">
+                          Awadhi
+                         </option>
+                         <option value="ay">
+                          Aymara
+                         </option>
+                         <option value="az">
+                          Azerbaijani
+                         </option>
+                         <option value="ban">
+                          Balinese
+                         </option>
+                         <option value="bal">
+                          Baluchi
+                         </option>
+                         <option value="bm">
+                          Bambara
+                         </option>
+                         <option value="bci">
+                          Baoulé
+                         </option>
+                         <option value="ba">
+                          Bashkir
+                         </option>
+                         <option value="eu">
+                          Basque
+                         </option>
+                         <option value="btx">
+                          Batak Karo
+                         </option>
+                         <option value="bts">
+                          Batak Simalungun
+                         </option>
+                         <option value="bbc">
+                          Batak Toba
+                         </option>
+                         <option value="be">
+                          Belarusian
+                         </option>
+                         <option value="bem">
+                          Bemba
+                         </option>
+                         <option value="bn">
+                          Bengali
+                         </option>
+                         <option value="bew">
+                          Betawi
+                         </option>
+                         <option value="bho">
+                          Bhojpuri
+                         </option>
+                         <option value="bik">
+                          Bikol
+                         </option>
+                         <option value="bs">
+                          Bosnian
+                         </option>
+                         <option value="br">
+                          Breton
+                         </option>
+                         <option value="bg">
+                          Bulgarian
+                         </option>
+                         <option value="bua">
+                          Buryat
+                         </option>
+                         <option value="yue">
+                          Cantonese
+                         </option>
+                         <option value="ca">
+                          Catalan
+                         </option>
+                         <option value="ceb">
+                          Cebuano
+                         </option>
+                         <option value="ch">
+                          Chamorro
+                         </option>
+                         <option value="ce">
+                          Chechen
+                         </option>
+                         <option value="ny">
+                          Chichewa
+                         </option>
+                         <option value="zh-CN">
+                          Chinese (Simplified)
+                         </option>
+                         <option value="zh-TW">
+                          Chinese (Traditional)
+                         </option>
+                         <option value="chk">
+                          Chuukese
+                         </option>
+                         <option value="cv">
+                          Chuvash
+                         </option>
+                         <option value="co">
+                          Corsican
+                         </option>
+                         <option value="crh">
+                          Crimean Tatar (Cyrillic)
+                         </option>
+                         <option value="crh-Latn">
+                          Crimean Tatar (Latin)
+                         </option>
+                         <option value="hr">
+                          Croatian
+                         </option>
+                         <option value="cs">
+                          Czech
+                         </option>
+                         <option value="da">
+                          Danish
+                         </option>
+                         <option value="fa-AF">
+                          Dari
+                         </option>
+                         <option value="dv">
+                          Dhivehi
+                         </option>
+                         <option value="din">
+                          Dinka
+                         </option>
+                         <option value="doi">
+                          Dogri
+                         </option>
+                         <option value="dov">
+                          Dombe
+                         </option>
+                         <option value="nl">
+                          Dutch
+                         </option>
+                         <option value="dyu">
+                          Dyula
+                         </option>
+                         <option value="dz">
+                          Dzongkha
+                         </option>
+                         <option value="eo">
+                          Esperanto
+                         </option>
+                         <option value="et">
+                          Estonian
+                         </option>
+                         <option value="ee">
+                          Ewe
+                         </option>
+                         <option value="fo">
+                          Faroese
+                         </option>
+                         <option value="fj">
+                          Fijian
+                         </option>
+                         <option value="tl">
+                          Filipino
+                         </option>
+                         <option value="fi">
+                          Finnish
+                         </option>
+                         <option value="fon">
+                          Fon
+                         </option>
+                         <option value="fr">
+                          French
+                         </option>
+                         <option value="fr-CA">
+                          French (Canada)
+                         </option>
+                         <option value="fy">
+                          Frisian
+                         </option>
+                         <option value="fur">
+                          Friulian
+                         </option>
+                         <option value="ff">
+                          Fulani
+                         </option>
+                         <option value="gaa">
+                          Ga
+                         </option>
+                         <option value="gl">
+                          Galician
+                         </option>
+                         <option value="ka">
+                          Georgian
+                         </option>
+                         <option value="de">
+                          German
+                         </option>
+                         <option value="el">
+                          Greek
+                         </option>
+                         <option value="gn">
+                          Guarani
+                         </option>
+                         <option value="gu">
+                          Gujarati
+                         </option>
+                         <option value="ht">
+                          Haitian Creole
+                         </option>
+                         <option value="cnh">
+                          Hakha Chin
+                         </option>
+                         <option value="ha">
+                          Hausa
+                         </option>
+                         <option value="haw">
+                          Hawaiian
+                         </option>
+                         <option value="iw">
+                          Hebrew
+                         </option>
+                         <option value="hil">
+                          Hiligaynon
+                         </option>
+                         <option value="hi">
+                          Hindi
+                         </option>
+                         <option value="hmn">
+                          Hmong
+                         </option>
+                         <option value="hu">
+                          Hungarian
+                         </option>
+                         <option value="hrx">
+                          Hunsrik
+                         </option>
+                         <option value="iba">
+                          Iban
+                         </option>
+                         <option value="is">
+                          Icelandic
+                         </option>
+                         <option value="ig">
+                          Igbo
+                         </option>
+                         <option value="ilo">
+                          Ilocano
+                         </option>
+                         <option value="id">
+                          Indonesian
+                         </option>
+                         <option value="iu-Latn">
+                          Inuktut (Latin)
+                         </option>
+                         <option value="iu">
+                          Inuktut (Syllabics)
+                         </option>
+                         <option value="ga">
+                          Irish
+                         </option>
+                         <option value="it">
+                          Italian
+                         </option>
+                         <option value="jam">
+                          Jamaican Patois
+                         </option>
+                         <option value="ja">
+                          Japanese
+                         </option>
+                         <option value="jw">
+                          Javanese
+                         </option>
+                         <option value="kac">
+                          Jingpo
+                         </option>
+                         <option value="kl">
+                          Kalaallisut
+                         </option>
+                         <option value="kn">
+                          Kannada
+                         </option>
+                         <option value="kr">
+                          Kanuri
+                         </option>
+                         <option value="pam">
+                          Kapampangan
+                         </option>
+                         <option value="kk">
+                          Kazakh
+                         </option>
+                         <option value="kha">
+                          Khasi
+                         </option>
+                         <option value="km">
+                          Khmer
+                         </option>
+                         <option value="cgg">
+                          Kiga
+                         </option>
+                         <option value="kg">
+                          Kikongo
+                         </option>
+                         <option value="rw">
+                          Kinyarwanda
+                         </option>
+                         <option value="ktu">
+                          Kituba
+                         </option>
+                         <option value="trp">
+                          Kokborok
+                         </option>
+                         <option value="kv">
+                          Komi
+                         </option>
+                         <option value="gom">
+                          Konkani
+                         </option>
+                         <option value="ko">
+                          Korean
+                         </option>
+                         <option value="kri">
+                          Krio
+                         </option>
+                         <option value="ku">
+                          Kurdish (Kurmanji)
+                         </option>
+                         <option value="ckb">
+                          Kurdish (Sorani)
+                         </option>
+                         <option value="ky">
+                          Kyrgyz
+                         </option>
+                         <option value="lo">
+                          Lao
+                         </option>
+                         <option value="ltg">
+                          Latgalian
+                         </option>
+                         <option value="la">
+                          Latin
+                         </option>
+                         <option value="lv">
+                          Latvian
+                         </option>
+                         <option value="lij">
+                          Ligurian
+                         </option>
+                         <option value="li">
+                          Limburgish
+                         </option>
+                         <option value="ln">
+                          Lingala
+                         </option>
+                         <option value="lt">
+                          Lithuanian
+                         </option>
+                         <option value="lmo">
+                          Lombard
+                         </option>
+                         <option value="lg">
+                          Luganda
+                         </option>
+                         <option value="luo">
+                          Luo
+                         </option>
+                         <option value="lb">
+                          Luxembourgish
+                         </option>
+                         <option value="mk">
+                          Macedonian
+                         </option>
+                         <option value="mad">
+                          Madurese
+                         </option>
+                         <option value="mai">
+                          Maithili
+                         </option>
+                         <option value="mak">
+                          Makassar
+                         </option>
+                         <option value="mg">
+                          Malagasy
+                         </option>
+                         <option value="ms">
+                          Malay
+                         </option>
+                         <option value="ms-Arab">
+                          Malay (Jawi)
+                         </option>
+                         <option value="ml">
+                          Malayalam
+                         </option>
+                         <option value="mt">
+                          Maltese
+                         </option>
+                         <option value="mam">
+                          Mam
+                         </option>
+                         <option value="gv">
+                          Manx
+                         </option>
+                         <option value="mi">
+                          Maori
+                         </option>
+                         <option value="mr">
+                          Marathi
+                         </option>
+                         <option value="mh">
+                          Marshallese
+                         </option>
+                         <option value="mwr">
+                          Marwadi
+                         </option>
+                         <option value="mfe">
+                          Mauritian Creole
+                         </option>
+                         <option value="chm">
+                          Meadow Mari
+                         </option>
+                         <option value="mni-Mtei">
+                          Meiteilon (Manipuri)
+                         </option>
+                         <option value="min">
+                          Minang
+                         </option>
+                         <option value="lus">
+                          Mizo
+                         </option>
+                         <option value="mn">
+                          Mongolian
+                         </option>
+                         <option value="my">
+                          Myanmar (Burmese)
+                         </option>
+                         <option value="nhe">
+                          Nahuatl (Eastern Huasteca)
+                         </option>
+                         <option value="ndc-ZW">
+                          Ndau
+                         </option>
+                         <option value="nr">
+                          Ndebele (South)
+                         </option>
+                         <option value="new">
+                          Nepalbhasa (Newari)
+                         </option>
+                         <option value="ne">
+                          Nepali
+                         </option>
+                         <option value="bm-Nkoo">
+                          NKo
+                         </option>
+                         <option value="no">
+                          Norwegian
+                         </option>
+                         <option value="nus">
+                          Nuer
+                         </option>
+                         <option value="oc">
+                          Occitan
+                         </option>
+                         <option value="or">
+                          Odia (Oriya)
+                         </option>
+                         <option value="om">
+                          Oromo
+                         </option>
+                         <option value="os">
+                          Ossetian
+                         </option>
+                         <option value="pag">
+                          Pangasinan
+                         </option>
+                         <option value="pap">
+                          Papiamento
+                         </option>
+                         <option value="ps">
+                          Pashto
+                         </option>
+                         <option value="fa">
+                          Persian
+                         </option>
+                         <option value="pl">
+                          Polish
+                         </option>
+                         <option value="pt">
+                          Portuguese (Brazil)
+                         </option>
+                         <option value="pt-PT">
+                          Portuguese (Portugal)
+                         </option>
+                         <option value="pa">
+                          Punjabi (Gurmukhi)
+                         </option>
+                         <option value="pa-Arab">
+                          Punjabi (Shahmukhi)
+                         </option>
+                         <option value="qu">
+                          Quechua
+                         </option>
+                         <option value="kek">
+                          Qʼeqchiʼ
+                         </option>
+                         <option value="rom">
+                          Romani
+                         </option>
+                         <option value="ro">
+                          Romanian
+                         </option>
+                         <option value="rn">
+                          Rundi
+                         </option>
+                         <option value="ru">
+                          Russian
+                         </option>
+                         <option value="se">
+                          Sami (North)
+                         </option>
+                         <option value="sm">
+                          Samoan
+                         </option>
+                         <option value="sg">
+                          Sango
+                         </option>
+                         <option value="sa">
+                          Sanskrit
+                         </option>
+                         <option value="sat-Latn">
+                          Santali (Latin)
+                         </option>
+                         <option value="sat">
+                          Santali (Ol Chiki)
+                         </option>
+                         <option value="gd">
+                          Scots Gaelic
+                         </option>
+                         <option value="nso">
+                          Sepedi
+                         </option>
+                         <option value="sr">
+                          Serbian
+                         </option>
+                         <option value="st">
+                          Sesotho
+                         </option>
+                         <option value="crs">
+                          Seychellois Creole
+                         </option>
+                         <option value="shn">
+                          Shan
+                         </option>
+                         <option value="sn">
+                          Shona
+                         </option>
+                         <option value="scn">
+                          Sicilian
+                         </option>
+                         <option value="szl">
+                          Silesian
+                         </option>
+                         <option value="sd">
+                          Sindhi
+                         </option>
+                         <option value="si">
+                          Sinhala
+                         </option>
+                         <option value="sk">
+                          Slovak
+                         </option>
+                         <option value="sl">
+                          Slovenian
+                         </option>
+                         <option value="so">
+                          Somali
+                         </option>
+                         <option value="es">
+                          Spanish
+                         </option>
+                         <option value="su">
+                          Sundanese
+                         </option>
+                         <option value="sus">
+                          Susu
+                         </option>
+                         <option value="sw">
+                          Swahili
+                         </option>
+                         <option value="ss">
+                          Swati
+                         </option>
+                         <option value="sv">
+                          Swedish
+                         </option>
+                         <option value="ty">
+                          Tahitian
+                         </option>
+                         <option value="tg">
+                          Tajik
+                         </option>
+                         <option value="ber-Latn">
+                          Tamazight
+                         </option>
+                         <option value="ber">
+                          Tamazight (Tifinagh)
+                         </option>
+                         <option value="ta">
+                          Tamil
+                         </option>
+                         <option value="tt">
+                          Tatar
+                         </option>
+                         <option value="te">
+                          Telugu
+                         </option>
+                         <option value="tet">
+                          Tetum
+                         </option>
+                         <option value="th">
+                          Thai
+                         </option>
+                         <option value="bo">
+                          Tibetan
+                         </option>
+                         <option value="ti">
+                          Tigrinya
+                         </option>
+                         <option value="tiv">
+                          Tiv
+                         </option>
+                         <option value="tpi">
+                          Tok Pisin
+                         </option>
+                         <option value="to">
+                          Tongan
+                         </option>
+                         <option value="lua">
+                          Tshiluba
+                         </option>
+                         <option value="ts">
+                          Tsonga
+                         </option>
+                         <option value="tn">
+                          Tswana
+                         </option>
+                         <option value="tcy">
+                          Tulu
+                         </option>
+                         <option value="tum">
+                          Tumbuka
+                         </option>
+                         <option value="tr">
+                          Turkish
+                         </option>
+                         <option value="tk">
+                          Turkmen
+                         </option>
+                         <option value="tyv">
+                          Tuvan
+                         </option>
+                         <option value="ak">
+                          Twi
+                         </option>
+                         <option value="udm">
+                          Udmurt
+                         </option>
+                         <option value="uk">
+                          Ukrainian
+                         </option>
+                         <option value="ur">
+                          Urdu
+                         </option>
+                         <option value="ug">
+                          Uyghur
+                         </option>
+                         <option value="uz">
+                          Uzbek
+                         </option>
+                         <option value="ve">
+                          Venda
+                         </option>
+                         <option value="vec">
+                          Venetian
+                         </option>
+                         <option value="vi">
+                          Vietnamese
+                         </option>
+                         <option value="war">
+                          Waray
+                         </option>
+                         <option value="cy">
+                          Welsh
+                         </option>
+                         <option value="wo">
+                          Wolof
+                         </option>
+                         <option value="xh">
+                          Xhosa
+                         </option>
+                         <option value="sah">
+                          Yakut
+                         </option>
+                         <option value="yi">
+                          Yiddish
+                         </option>
+                         <option value="yo">
+                          Yoruba
+                         </option>
+                         <option value="yua">
+                          Yucatec Maya
+                         </option>
+                         <option value="zap">
+                          Zapotec
+                         </option>
+                         <option value="zu">
+                          Zulu
+                         </option>
+                        </select>
+                       </div>
+                       Powered by
+                       <span>
+                        <a aria-describedby="audioeye_new_window_message" class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" rel="noopener" target="_blank">
+                         <img alt="Google Translate" height="14px" src="https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png" width="37px"/>
+                         Translate
+                        </a>
+                       </span>
+                      </div>
                      </div>
                     </div>
                    </div>
@@ -98,10 +875,10 @@
               <div class="row nest first last">
                <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                 <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
-                 <section aria-label="Search" class="widget widgetSearch skin43 widgetOptionSet15" id="widgetPreviewSearch">
+                 <section class="widget widgetSearch skin43 widgetOptionSet15" id="widgetPreviewSearch">
                   <div class="widgetBody buttonRightInside">
-                   <input class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
-                   <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon" role="button">
+                   <input aria-label="Search Site" autocomplete="off" class="widgetSearchBox widgetSearchBoxGUID ui-autocomplete-input" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
+                   <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon">
                     <img alt="Search" class="imageHover" data-hover="/ImageRepository/Document?documentID=96" data-image="/ImageRepository/Document?documentID=97" src="/ImageRepository/Document?documentID=97"/>
                    </a>
                    <label aria-hidden="true" class="searchLabel" for="searchFieldGUID">
@@ -120,11 +897,8 @@
         </header>
         <div class="hidden" id="bannerImagesJSON2">
         </div>
-        <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
-         <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
-         </a>
-         <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
-         </a>
+        <div class="bannerObject external fixedBanner" data-image-scale="true" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" data-is-delayed="false" src="/ImageRepository/Document?documentID=89" width="1280px"/>
         </div>
        </div>
       </div>
@@ -145,6 +919,7 @@
                     <p class="data">
                      Active Registered Voters:
                      <span class="dateValue dataValue">
+                      9/20/26
                      </span>
                     </p>
                    </div>
@@ -152,6 +927,7 @@
                     <p class="data">
                      Democrats:
                      <span class="demValue dataValue">
+                      107,909
                      </span>
                     </p>
                    </div>
@@ -159,6 +935,7 @@
                     <p class="data">
                      Republicans:
                      <span class="repValue dataValue">
+                      248,896
                      </span>
                     </p>
                    </div>
@@ -166,6 +943,7 @@
                     <p class="data">
                      Other:
                      <span class="othValue dataValue">
+                      144,448
                      </span>
                     </p>
                    </div>
@@ -173,6 +951,7 @@
                     <p class="data">
                      Total:
                      <span class="totValue dataValue">
+                      501,253
                      </span>
                     </p>
                    </div>
@@ -204,10 +983,10 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid3">
-                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
+                 <nav class="widgetGraphicLinksNav">
                   <div class="row">
                    <div class="col col1 first">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton69" href="/" target="_self">
@@ -224,7 +1003,7 @@
                     </ul>
                    </div>
                    <div class="col col1">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton46" href="/290" target="_self">
@@ -241,7 +1020,7 @@
                     </ul>
                    </div>
                    <div class="col col1 last">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton47" href="/277" target="_self">
@@ -277,10 +1056,10 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid3">
-                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
+                 <nav class="widgetGraphicLinksNav">
                   <div class="row">
                    <div class="col col1 first">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton70" href="/284" target="_self">
@@ -297,7 +1076,7 @@
                     </ul>
                    </div>
                    <div class="col col1">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton71" href="/291" target="_self">
@@ -314,7 +1093,7 @@
                     </ul>
                    </div>
                    <div class="col col1 last">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton75" href="/291" target="_self">
@@ -353,14 +1132,14 @@
            <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
            </div>
           </aside>
-          <nav class="siteNav secondaryNav" data-cprole="nav" id="secondaryNav">
-           <ol class="rootNavMenu accordionNav" data-parent="4" id="secondaryMenusecondaryNav" role="menu">
+          <nav aria-label="Secondary" class="siteNav secondaryNav" data-cprole="nav" id="secondaryNav">
+           <ol class="rootNavMenu accordionNav" data-parent="4" id="secondaryMenusecondaryNav">
             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="180" id="SideItem180">
              <div class="accordionNavItem">
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/180/Campaign-Reports" target="_self">
                Campaign Reports
               </a>
-              <a aria-controls="submenu-lvl1-180" aria-expanded="false" aria-label="Campaign Reports Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+              <a aria-controls="submenu-lvl1-180" aria-expanded="false" aria-label="Campaign Reports submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
               </a>
              </div>
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="180" id="submenu-lvl1-180">
@@ -398,7 +1177,7 @@
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/179/Candidates" target="_self">
                Candidates
               </a>
-              <a aria-controls="submenu-lvl1-179" aria-expanded="false" aria-label="Candidates Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+              <a aria-controls="submenu-lvl1-179" aria-expanded="false" aria-label="Candidates submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
               </a>
              </div>
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="179" id="submenu-lvl1-179">
@@ -418,7 +1197,7 @@
                   Candidate Online Packets
                  </span>
                 </a>
-                <a aria-controls="submenu-lvl2-186" aria-expanded="false" aria-label="Candidate Online Packets Submenu" class="openAccordionNav accordionNavMenuItem" href="#" role="button">
+                <a aria-controls="submenu-lvl2-186" aria-expanded="false" aria-label="Candidate Online Packets submenu" class="openAccordionNav accordionNavMenuItem" href="#" role="button" tabindex="0">
                 </a>
                </div>
                <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" data-parent="186" id="submenu-lvl2-186">
@@ -512,7 +1291,7 @@
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/178/Committees-and-Parties" target="_self">
                Committees and Parties
               </a>
-              <a aria-controls="submenu-lvl1-178" aria-expanded="false" aria-label="Committees and Parties Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+              <a aria-controls="submenu-lvl1-178" aria-expanded="false" aria-label="Committees and Parties submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
               </a>
              </div>
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="178" id="submenu-lvl1-178">
@@ -550,7 +1329,7 @@
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/177/Community-RANDOM-RANDOM" target="_self">
                Community Education Services
               </a>
-              <a aria-controls="submenu-lvl1-177" aria-expanded="false" aria-label="Community Education Services Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+              <a aria-controls="submenu-lvl1-177" aria-expanded="false" aria-label="Community Education Services submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
               </a>
              </div>
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="177" id="submenu-lvl1-177">
@@ -646,7 +1425,7 @@
             </li>
             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="175" id="SideItem175">
              <div class="accordionNavItem">
-              <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="https://www.google.com/maps/d/u/0/viewer?mid=1FjtBs8SVp4PQjLmY09QUr9z-Pks&amp;z=10" target="_blank">
+              <a aria-label="District Maps Opens in new window" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="https://www.google.com/maps/d/u/0/viewer?mid=1FjtBs8SVp4PQjLmY09QUr9z-Pks&amp;z=10" rel="noopener" target="_blank">
                District Maps
               </a>
              </div>
@@ -656,7 +1435,7 @@
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/174/Early-Voting-RANDOM" target="_self">
                Early Voting Information
               </a>
-              <a aria-controls="submenu-lvl1-174" aria-expanded="false" aria-label="Early Voting Information Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+              <a aria-controls="submenu-lvl1-174" aria-expanded="false" aria-label="Early Voting Information submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
               </a>
              </div>
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="174" id="submenu-lvl1-174">
@@ -671,7 +1450,7 @@
               </li>
               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="348" id="SideItem348">
                <div class="accordionNavItem">
-                <a class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="https://www.google.com/maps/d/u/0/edit?mid=1hEV3_pg_lGYn2y9-0Tu8FXkt7_Ls2Os&amp;z=19" target="_blank">
+                <a aria-label="Early Voting Locations Map Opens in new window" class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="https://www.google.com/maps/d/u/0/edit?mid=1hEV3_pg_lGYn2y9-0Tu8FXkt7_Ls2Os&amp;z=19" rel="noopener" target="_blank">
                  <span lang="en">
                   Early Voting Locations Map
                  </span>
@@ -701,7 +1480,7 @@
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/172/Election-RANDOM" target="_self">
                Election Information
               </a>
-              <a aria-controls="submenu-lvl1-172" aria-expanded="false" aria-label="Election Information Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+              <a aria-controls="submenu-lvl1-172" aria-expanded="false" aria-label="Election Information submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
               </a>
              </div>
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="172" id="submenu-lvl1-172">
@@ -721,10 +1500,10 @@
                   Election Dates and Deadlines
                  </span>
                 </a>
-                <a aria-controls="submenu-lvl2-250" aria-expanded="false" aria-label="Election Dates and Deadlines Submenu" class="openAccordionNav accordionNavMenuItem" href="#" role="button">
+                <a aria-controls="submenu-lvl2-250" aria-expanded="false" aria-label="Election Dates and Deadlines submenu" class="openAccordionNav accordionNavMenuItem" href="#" role="button" tabindex="0">
                 </a>
                </div>
-               <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" data-parent="250" id="submenu-lvl2-250">
+               <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" data-parent="250" id="submenu-lvl2-250" role="presentation">
                 <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="254" id="SideItem254">
                  <div class="accordionNavItem">
                   <a class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="/254/November-3-2026" target="_self">
@@ -831,7 +1610,7 @@
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/256/Election-RANDOM" target="_self">
                Election Security
               </a>
-              <a aria-controls="submenu-lvl1-256" aria-expanded="false" aria-label="Election Security  Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+              <a aria-controls="submenu-lvl1-256" aria-expanded="false" aria-label="Election Security submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
               </a>
              </div>
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="256" id="submenu-lvl1-256">
@@ -883,7 +1662,7 @@
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/298/Meet-the-RANDOM" target="_self">
                Meet the Supervisor
               </a>
-              <a aria-controls="submenu-lvl1-298" aria-expanded="false" aria-label="Meet the Supervisor Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+              <a aria-controls="submenu-lvl1-298" aria-expanded="false" aria-label="Meet the Supervisor submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
               </a>
              </div>
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="298" id="submenu-lvl1-298">
@@ -912,7 +1691,7 @@
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/167/Military-and-RANDOM-Voters" target="_self">
                Military and Overseas Voters
               </a>
-              <a aria-controls="submenu-lvl1-167" aria-expanded="false" aria-label="Military and Overseas Voters Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+              <a aria-controls="submenu-lvl1-167" aria-expanded="false" aria-label="Military and Overseas Voters submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
               </a>
              </div>
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="167" id="submenu-lvl1-167">
@@ -941,7 +1720,7 @@
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/166/Newsroom" target="_self">
                Newsroom
               </a>
-              <a aria-controls="submenu-lvl1-166" aria-expanded="false" aria-label="Newsroom Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+              <a aria-controls="submenu-lvl1-166" aria-expanded="false" aria-label="Newsroom submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
               </a>
              </div>
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="166" id="submenu-lvl1-166">
@@ -988,7 +1767,7 @@
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/165/Notices-and-RANDOM" target="_self">
                Notices and Mailings
               </a>
-              <a aria-controls="submenu-lvl1-165" aria-expanded="false" aria-label="Notices and Mailings Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+              <a aria-controls="submenu-lvl1-165" aria-expanded="false" aria-label="Notices and Mailings submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
               </a>
              </div>
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="165" id="submenu-lvl1-165">
@@ -1044,7 +1823,7 @@
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/164/Poll-Worker-RANDOM" target="_self">
                Poll Worker Information
               </a>
-              <a aria-controls="submenu-lvl1-164" aria-expanded="false" aria-label="Poll Worker Information Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+              <a aria-controls="submenu-lvl1-164" aria-expanded="false" aria-label="Poll Worker Information submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
               </a>
              </div>
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="164" id="submenu-lvl1-164">
@@ -1073,7 +1852,7 @@
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/163/Provisional-Ballot-RANDOM" target="_self">
                Provisional Ballot Information
               </a>
-              <a aria-controls="submenu-lvl1-163" aria-expanded="false" aria-label="Provisional Ballot Information Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+              <a aria-controls="submenu-lvl1-163" aria-expanded="false" aria-label="Provisional Ballot Information submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
               </a>
              </div>
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="163" id="submenu-lvl1-163">
@@ -1109,13 +1888,13 @@
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/161/Vote-by-Mail" target="_self">
                Vote-by-Mail
               </a>
-              <a aria-controls="submenu-lvl1-161" aria-expanded="false" aria-label="Vote-by-Mail Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+              <a aria-controls="submenu-lvl1-161" aria-expanded="false" aria-label="Vote-by-Mail submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
               </a>
              </div>
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="161" id="submenu-lvl1-161">
               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="306" id="SideItem306">
                <div class="accordionNavItem">
-                <a class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="/291/Check-My-Voter-RANDOM-Status" target="_blank">
+                <a aria-label="Check My Vote-by-Mail Status Opens in new window" class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="/291/Check-My-Voter-RANDOM-Status" rel="noopener" target="_blank">
                  <span lang="en">
                   Check My Vote-by-Mail Status
                  </span>
@@ -1183,7 +1962,7 @@
                   Vote-by-Mail Information
                  </span>
                 </a>
-                <a aria-controls="submenu-lvl2-273" aria-expanded="false" aria-label="Vote-by-Mail Information Submenu" class="openAccordionNav accordionNavMenuItem" href="#" role="button">
+                <a aria-controls="submenu-lvl2-273" aria-expanded="false" aria-label="Vote-by-Mail Information submenu" class="openAccordionNav accordionNavMenuItem" href="#" role="button" tabindex="0">
                 </a>
                </div>
                <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl2" data-parent="273" id="submenu-lvl2-273">
@@ -1241,7 +2020,7 @@
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/160/Voter-RANDOM" target="_self">
                Voter Resources
               </a>
-              <a aria-controls="submenu-lvl1-160" aria-expanded="false" aria-label="Voter Resources Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+              <a aria-controls="submenu-lvl1-160" aria-expanded="false" aria-label="Voter Resources submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
               </a>
              </div>
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="160" id="submenu-lvl1-160">
@@ -1337,7 +2116,7 @@
          </div>
          <div class="outerContentWrap" data-cprole="structuralContainer" id="outerContentWrapTS">
           <div class="contentWrap" data-cprole="structuralContainer" id="contentWrapTS">
-           <div class="breadCrumbContainer" data-cprole="breadCrumbs" id="breadCrumbs">
+           <div aria-label="Breadcrumb" class="breadCrumbContainer" data-cprole="breadCrumbs" id="breadCrumbs" role="navigation">
             <ol class="semanticList breadCrumbs">
              <li>
               <a class="breadCrumb" href="/4/Home">
@@ -1345,7 +2124,7 @@
               </a>
              </li>
              <li data-pageid="171" id="currentBCPage">
-              <a aria-current="page" class="breadCrumb" href="">
+              <a aria-current="page" class="breadCrumb" href="" role="button" tabindex="0">
                Election Results
               </a>
              </li>
@@ -1386,7 +2165,7 @@
                      <br/>
                     </p>
                     <p>
-                     <a aria-describedby="audioeye_new_window_message" href="https://enr.electionsfl.org/LEE/4025/Summary/" rel="noopener" target="_blank">
+                     <a aria-describedby="audioeye_new_window_message" aria-label="View Real-Time Election Results Opens in new window" href="https://enr.electionsfl.org/LEE/4025/Summary/" rel="noopener" target="_blank">
                       <span>
                        <strong>
                         View Real-Time Election Results
@@ -1406,16 +2185,16 @@
                  <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                   <div class="widget widgetTabbed skin43 accordionTabs" data-widgetid="GUID" id="divTabbedGUID">
                    <div class="cpTabPanels">
-                    <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion">
+                    <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion" role="presentation">
                      <li class="" role="presentation">
-                      <a aria-controls="tabGUID_0" aria-expanded="false" class="tabButton" href="#tabGUID_0" id="tabBtnNarrowGUID_0" role="button">
+                      <a aria-controls="tabGUID_0" aria-expanded="false" class="tabButton" href="#tabGUID_0" id="tabBtnNarrowGUID_0" role="button" tabindex="0">
                        <span class="tabName editable" contenteditable="false" data-sequence="0" data-tabname="Archived Election Results">
                         Archived Election Results
                        </span>
                       </a>
                      </li>
                     </ol>
-                    <div aria-labelledby="tabBtnGUID_0" class="tabbedWidget cpTabPanel" id="tabGUID_0" role="region">
+                    <div class="tabbedWidget cpTabPanel" id="tabGUID_0" role="region">
                      <div class="widget editor pageStyles" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' id="divEditorGUID">
                       <div class="fr-view">
                        <p data-pasted="true">
@@ -1427,7 +2206,7 @@
                         <br/>
                        </p>
                        <p>
-                        <a aria-describedby="audioeye_new_window_message" href="https://fl-leecountyelections.civicplus.com/343/Archived-RANDOM-Results" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label="View Archived Election Results Opens in new window" href="https://fl-leecountyelections.civicplus.com/343/Archived-RANDOM-Results" rel="noopener" target="_blank">
                          <span>
                           <strong>
                            View Archived Election Results
@@ -1438,16 +2217,16 @@
                       </div>
                      </div>
                     </div>
-                    <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion">
+                    <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion" role="presentation">
                      <li class="" role="presentation">
-                      <a aria-controls="tabGUID_1" aria-expanded="false" class="tabButton" href="#tabGUID_1" id="tabBtnNarrowGUID_1" role="button">
+                      <a aria-controls="tabGUID_1" aria-expanded="false" class="tabButton" href="#tabGUID_1" id="tabBtnNarrowGUID_1" role="button" tabindex="0">
                        <span class="tabName editable" contenteditable="false" data-sequence="1" data-tabname="Election Results Categories">
                         Election Results Categories
                        </span>
                       </a>
                      </li>
                     </ol>
-                    <div aria-labelledby="tabBtnGUID_1" class="tabbedWidget cpTabPanel" id="tabGUID_1" role="region">
+                    <div class="tabbedWidget cpTabPanel" id="tabGUID_1" role="region">
                      <div class="widget editor pageStyles" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' id="divEditorGUID">
                       <div class="fr-view">
                        <h2 data-pasted="true">
@@ -1502,26 +2281,26 @@
                       </div>
                      </div>
                     </div>
-                    <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion">
+                    <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion" role="presentation">
                      <li class="" role="presentation">
-                      <a aria-controls="tabGUID_2" aria-expanded="false" class="tabButton" href="#tabGUID_2" id="tabBtnNarrowGUID_2" role="button">
+                      <a aria-controls="tabGUID_2" aria-expanded="false" class="tabButton" href="#tabGUID_2" id="tabBtnNarrowGUID_2" role="button" tabindex="0">
                        <span class="tabName editable" contenteditable="false" data-sequence="2" data-tabname="Statewide Election Results">
                         Statewide Election Results
                        </span>
                       </a>
                      </li>
                     </ol>
-                    <div aria-labelledby="tabBtnGUID_2" class="tabbedWidget cpTabPanel" id="tabGUID_2" role="region">
+                    <div class="tabbedWidget cpTabPanel" id="tabGUID_2" role="region">
                      <div class="widget editor pageStyles" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' id="divEditorGUID">
                       <div class="fr-view">
                        <p data-pasted="true">
                         <span>
                          On election night, visitors to the main
-                         <a aria-describedby="audioeye_new_window_message" href="http://dos.myflorida.com/elections/" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Division of Elections website Opens in new window" href="http://dos.myflorida.com/elections/" rel="noopener" target="_blank">
                           Division of Elections website
                          </a>
                          will be automatically sent to the
-                         <a aria-describedby="audioeye_new_window_message" href="https://floridaelectionwatch.gov/" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Florida Election Watch site Opens in new window" href="https://floridaelectionwatch.gov/" rel="noopener" target="_blank">
                           Florida Election Watch site
                          </a>
                          . However, they can return to the regular Division of Elections website via a link in the top banner. Election results will begin posting after 8 pm. EDT (Eastern Daylight Time) to accommodate voting in the central time zone counties.
@@ -1530,7 +2309,7 @@
                        <p>
                         <span>
                          To view archived federal, statewide, district, and multi-county election data, visit the
-                         <a aria-describedby="audioeye_new_window_message" href="http://dos.myflorida.com/elections/data-statistics/elections-data/" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Elections Data Opens in new window" href="http://dos.myflorida.com/elections/data-statistics/elections-data/" rel="noopener" target="_blank">
                           Elections Data
                          </a>
                          section of the Division of Elections website.
@@ -1551,7 +2330,7 @@
             </div>
            </div>
           </div>
-          <aside class="secondaryContent" data-cprole="contentContainer" id="featureColumn">
+          <aside class="secondaryContent" data-cprole="contentContainer" id="featureColumn" role="presentation">
            <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" data-contentcontainerbreakpoint="40" id="ccGUID">
            </div>
           </aside>
@@ -1569,15 +2348,15 @@
              <div class="row nest first last">
               <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
-                <section aria-label="Info Advanced" class="widget widgetInfoAdvanced skin37 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                 <header class="widgetHeader" id="headerGUID">
+                <section class="widget widgetInfoAdvanced skin37 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
+                 <header class="widgetHeader" id="headerGUID" role="presentation">
                   <div class="">
                   </div>
                  </header>
                  <div class="widgetBody cpGrid cpGrid2">
                   <div class="row">
                    <div class="col col1 first">
-                    <ol class="pageStyles semanticList">
+                    <ol class="pageStyles semanticList" role="presentation">
                      <li class="InfoAdvanced widgetItem fr-view">
                       <p id="isPasted">
                        Mailing Address: P.O. Box 2545, Fort Myers, FL 33902-2545
@@ -1589,18 +2368,15 @@
                        <br/>
                        Hours (all offices): M - F, 8:30 am - 5:00 pm
                        <br/>
-                       Email:
-                       <a class="__cf_email__" href="/cdn-cgi/l/email-protection">
-                        [email protected]
-                       </a>
+                       Email: elections@lee.vote
                       </p>
                      </li>
                     </ol>
                    </div>
                    <div class="col col1 last">
-                    <ol class="pageStyles semanticList">
+                    <ol class="pageStyles semanticList" role="presentation">
                      <li class="InfoAdvanced widgetItem fr-view">
-                      <h1 class="headline">
+                      <h1 aria-level="2" class="headline" role="heading">
                        <strong>
                         Main Office
                        </strong>
@@ -1639,9 +2415,9 @@
               <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
                 <section aria-labelledby="headerGUID" class="widget widgetInfoAdvanced skin37 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                 <header class="widgetHeader" id="headerGUID">
+                 <header class="widgetHeader" id="headerGUID" role="presentation">
                   <div class="">
-                   <h3>
+                   <h3 aria-level="2" role="heading">
                     Branch Offices
                    </h3>
                   </div>
@@ -1649,9 +2425,9 @@
                  <div class="widgetBody cpGrid cpGrid4">
                   <div class="row">
                    <div class="col col1 first">
-                    <ol class="pageStyles semanticList">
+                    <ol class="pageStyles semanticList" role="presentation">
                      <li class="InfoAdvanced widgetItem fr-view">
-                      <h1 class="headline" id="isPasted">
+                      <h1 aria-level="2" class="headline" id="isPasted" role="heading">
                        <strong>
                         <span>
                          Bonita Springs
@@ -1669,9 +2445,9 @@
                     </ol>
                    </div>
                    <div class="col col1">
-                    <ol class="pageStyles semanticList">
+                    <ol class="pageStyles semanticList" role="presentation">
                      <li class="InfoAdvanced widgetItem fr-view">
-                      <h1 class="headline" id="isPasted">
+                      <h1 aria-level="2" class="headline" id="isPasted" role="heading">
                        <strong>
                         Cape Coral
                        </strong>
@@ -1689,9 +2465,9 @@
                     </ol>
                    </div>
                    <div class="col col1">
-                    <ol class="pageStyles semanticList">
+                    <ol class="pageStyles semanticList" role="presentation">
                      <li class="InfoAdvanced widgetItem fr-view">
-                      <h1 class="headline" id="isPasted">
+                      <h1 aria-level="2" class="headline" id="isPasted" role="heading">
                        <strong>
                         Lee County Elections Center
                        </strong>
@@ -1707,9 +2483,9 @@
                     </ol>
                    </div>
                    <div class="col col1 last">
-                    <ol class="pageStyles semanticList">
+                    <ol class="pageStyles semanticList" role="presentation">
                      <li class="InfoAdvanced widgetItem fr-view">
-                      <h1 class="headline" id="isPasted">
+                      <h1 aria-level="2" class="headline" id="isPasted" role="heading">
                        <strong>
                         Lehigh Acres
                        </strong>
@@ -1750,15 +2526,15 @@
             <div class="row nest first last">
              <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
               <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
-               <section aria-label="Info Advanced" class="widget widgetInfoAdvanced skin37 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                <header class="widgetHeader" id="headerGUID">
+               <section class="widget widgetInfoAdvanced skin37 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
+                <header class="widgetHeader" id="headerGUID" role="presentation">
                  <div class="">
                  </div>
                 </header>
                 <div class="widgetBody cpGrid cpGrid1">
                  <div class="row">
                   <div class="col col1 first last">
-                   <ol class="pageStyles semanticList">
+                   <ol class="pageStyles semanticList" role="presentation">
                     <li class="InfoAdvanced widgetItem fr-view">
                      <p>
                       Under Florida law, s. 668.6076, F.S., e-mail addresses are public records. If you do not want your e-mail address released in response to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing.
@@ -1834,12 +2610,103 @@
   </div>
   <div>
   </div>
-  <div class="hidden activeWidgetSkinComponentsOnPageJson">
-   []
-  </div>
   <div>
   </div>
   <div id="root-picker-outlet">
+  </div>
+  <ul class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" id="ui-id-1" role="presentation" tabindex="0">
+  </ul>
+  <div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status">
+  </div>
+  <div class="VIpgJd-yAWNEb-L7lbkb skiptranslate" data-id="" id="goog-gt-tt">
+   <div class="VIpgJd-yAWNEb-hvhgNd" id="goog-gt-vt">
+    <div class="VIpgJd-yAWNEb-hvhgNd-Ud7fr">
+     <img alt="" height="24" src="https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg" width="24"/>
+     <div class="VIpgJd-yAWNEb-hvhgNd-IuizWc-i3jM8c" dir="ltr">
+      Original text
+     </div>
+    </div>
+    <div class="VIpgJd-yAWNEb-hvhgNd-k77Iif">
+     <div class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1" id="goog-gt-original-text">
+     </div>
+    </div>
+    <div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr">
+     <div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr">
+      <div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">
+       Rate this translation
+      </div>
+      <div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">
+       Your feedback will be used to help improve Google Translate
+      </div>
+     </div>
+     <div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr">
+      <button aria-label="Good translation" aria-pressed="false" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" id="goog-gt-RANDOM" title="Good translation" type="button">
+       <span id="goog-gt-RANDOM">
+       </span>
+       <span id="goog-gt-RANDOM">
+       </span>
+      </button>
+      <button aria-label="Poor translation" aria-pressed="false" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" id="goog-gt-RANDOM" title="Poor translation" type="button">
+       <span id="goog-gt-RANDOM">
+       </span>
+       <span id="goog-gt-RANDOM">
+       </span>
+      </button>
+     </div>
+    </div>
+    <div class="VIpgJd-yAWNEb-hvhgNd-aXYTce" id="goog-gt-RANDOM">
+     <form action="//translate.googleapis.com/translate_voting?client=te" class="VIpgJd-yAWNEb-hvhgNd-aXYTce" id="goog-gt-RANDOM" method="post" target="votingFrame">
+      <input id="goog-gt-RANDOM" name="sl" type="text"/>
+      <input id="goog-gt-RANDOM" name="tl" type="text"/>
+      <input id="goog-gt-RANDOM" name="query" type="text"/>
+      <input id="goog-gt-RANDOM" name="gtrans" type="text"/>
+      <input id="goog-gt-RANDOM" name="vote" type="text"/>
+     </form>
+    </div>
+   </div>
+  </div>
+  <div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf">
+   <div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO">
+   </div>
+  </div>
+  <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
+   <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
+   </a>
+   <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
+   </a>
+  </div>
+  <div data-nosnippet="" id="ae_app">
+   <div class="ae-module" id="ae_helpers">
+   </div>
+   <div class="ae-module" id="ae_compliance">
+   </div>
+   <aside aria-label="Accessibility options" class="ae-module ae-active ae-cta-position-preset-right-lower" dir="ltr" id="ae_launcher">
+    <button aria-label="Explore your accessibility options">
+     <div class="ae-left">
+      <span>
+       Explore your accessibility options
+      </span>
+     </div>
+     <div class="ae-right">
+      <span class="icomoon-wrapper">
+       <div>
+        <span class="icomoon-cta ae-icon-launcher-universalaccess ae-initial-cta">
+         <span class="icomoon-cta path1 a11y-icon-figure-and-border">
+         </span>
+         <span class="icomoon-cta path2 a11y-icon-background">
+         </span>
+        </span>
+       </div>
+      </span>
+     </div>
+    </button>
+   </aside>
+   <span aria-hidden="true" id="ae_placeholder_toolbar">
+   </span>
+   <span aria-hidden="true" id="ae_placeholder_site-menu">
+   </span>
+   <div aria-live="assertive" aria-relevant="additions" class="ae-blurb-noaudio" id="ae_enabled_messages">
+   </div>
   </div>
  </body>
 </html>

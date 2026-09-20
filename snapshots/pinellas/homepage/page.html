@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="removeSetHeights no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-muli-n3-active wf-muli-n4-active wf-muli-i4-active wf-muli-n7-active" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -13,7 +13,17 @@
   <meta content="The official source of election information for Pinellas County, Florida. Register to vote. Request a mail ballot. Check your status. Get Election Ready today!" name="description"/>
   <meta content="Home" name="keywords"/>
  </head>
- <body class="wide hideContent">
+ <body class="wide withFeatureColumn cpTextResizeOn doneLoading">
+  <div id="divAjaxProgress">
+   <div id="divAjaxShade">
+   </div>
+   <div class="loading" id="divAjaxImgProgress">
+    <img alt="Loading" src="/Common/images/ajax-loader.gif" title="Loading"/>
+    <p>
+     Loading
+    </p>
+   </div>
+  </div>
   <div class="cp-PopOver cp-PopOver--modal" id="popoverModal">
    <div class="cp-PopOver-header">
     <h3 class="cp-PopOver-title">
@@ -102,26 +112,6 @@
              <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu">
               <input id="megaMenuPopupDirection" type="hidden"/>
               <input id="megaMenuWidthReference" type="hidden"/>
-              <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_295 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu295" role="menu">
-               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-               </div>
-              </aside>
-              <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_163 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu163" role="menu">
-               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-               </div>
-              </aside>
-              <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_296 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu296" role="menu">
-               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-               </div>
-              </aside>
-              <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_297 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu297" role="menu">
-               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-               </div>
-              </aside>
-              <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_298 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu298" role="menu">
-               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-               </div>
-              </aside>
              </aside>
             </nav>
            </div>
@@ -145,7 +135,7 @@
                   <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
                    <section aria-label="Search" class="widget widgetSearch skin39 widgetOptionSet15" id="widgetPreviewSearch">
                     <div class="widgetBody buttonRightInside">
-                     <input class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
+                     <input autocomplete="off" class="widgetSearchBox widgetSearchBoxGUID ui-autocomplete-input" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
                      <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon" role="button">
                       <img alt="Search 3" class="imageHover" data-hover="/ImageRepository/Document?documentID=98" data-image="/ImageRepository/Document?documentID=99" src="/ImageRepository/Document?documentID=99"/>
                      </a>
@@ -167,11 +157,8 @@
         </div>
         <div class="hidden" id="bannerImagesJSON56">
         </div>
-        <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
-         <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
-         </a>
-         <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
-         </a>
+        <div class="bannerObject external fixedBanner" data-image-scale="true" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" data-is-delayed="false" src="/ImageRepository/Document?documentID=122" width="1280px"/>
         </div>
        </div>
       </div>
@@ -505,7 +492,7 @@
                       </div>
                       <input data-month="09" data-year="2026" name="monthToRender" type="hidden"/>
                       <h3 class="miniCalendarHeader" role="presentation">
-                       <button aria-label="Previous Month, current month September 2026, go to August 2026" class="cp-RANDOM-arrow cp-RANDOM-arrow--left">
+                       <button aria-label="Previous Month, current month September 2026, go to August 2026" class="cp-RANDOM-arrow cp-RANDOM-arrow--left" disabled="">
                        </button>
                        <span aria-level="3" class="cp-RANDOM-title" id="miniCalendarHeaderGUID" role="heading">
                         September 2026
@@ -713,7 +700,7 @@ Saturday
                            </time>
                           </span>
                          </td>
-                         <td class="today">
+                         <td>
                           <span>
                            <time datetime="2026-09-19">
                             19
@@ -722,7 +709,7 @@ Saturday
                          </td>
                         </tr>
                         <tr>
-                         <td>
+                         <td class="today">
                           <span>
                            <time datetime="2026-09-20">
                             20
@@ -854,7 +841,8 @@ Saturday
            </div>
           </div>
          </div>
-         <div id="banner2-58">
+         <div class="bannerObject external" data-image-scale="false" id="bannerDivbanner2">
+          <img alt="" class="bannerObject" src="/ImageRepository/Document?documentID=683" width="2197px"/>
          </div>
         </div>
        </div>
@@ -903,6 +891,7 @@ Saturday
                       <p class="data">
                        As of:
                        <span class="dateValue dataValue">
+                        9/20/26
                        </span>
                       </p>
                      </div>
@@ -910,6 +899,7 @@ Saturday
                       <p class="data">
                        Democrats:
                        <span class="demValue dataValue">
+                        192,162
                        </span>
                       </p>
                      </div>
@@ -917,6 +907,7 @@ Saturday
                       <p class="data">
                        Republicans:
                        <span class="repValue dataValue">
+                        243,057
                        </span>
                       </p>
                      </div>
@@ -924,6 +915,7 @@ Saturday
                       <p class="data">
                        No Party Affiliation:
                        <span class="npaValue dataValue">
+                        152,187
                        </span>
                       </p>
                      </div>
@@ -931,6 +923,7 @@ Saturday
                       <p class="data">
                        Other:
                        <span class="othValue dataValue">
+                        23,660
                        </span>
                       </p>
                      </div>
@@ -938,6 +931,7 @@ Saturday
                       <p class="data">
                        Total:
                        <span class="totValue dataValue">
+                        611,066
                        </span>
                       </p>
                      </div>
@@ -1149,12 +1143,12 @@ Saturday
                  <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
                   <ul class="semanticList">
                    <li class="widgetItem GraphicLinks">
-                    <a aria-label="Facebook" class="widgetDesc widgetGraphicLinksLink" href="https://www.facebook.com/PinellasCountySOE " target="_self">
+                    <a class="widgetDesc widgetGraphicLinksLink" href="https://www.facebook.com/PinellasCountySOE " target="_self">
                      <img alt="Facebook" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=48'" onfocus="this.src='/ImageRepository/Document?documentID=48'" onmouseout="this.src='/ImageRepository/Document?documentID=48'" onmouseover="this.src='/ImageRepository/Document?documentID=48'" src="/ImageRepository/Document?documentID=48"/>
                     </a>
                    </li>
                    <li class="widgetItem GraphicLinks">
-                    <a aria-label="X" class="widgetDesc widgetGraphicLinksLink" href="https://x.com/VotePinellas " target="_self">
+                    <a class="widgetDesc widgetGraphicLinksLink" href="https://x.com/VotePinellas " target="_self">
                      <img alt="X" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=65'" onfocus="this.src='/ImageRepository/Document?documentID=65'" onmouseout="this.src='/ImageRepository/Document?documentID=65'" onmouseover="this.src='/ImageRepository/Document?documentID=65'" src="/ImageRepository/Document?documentID=65"/>
                     </a>
                    </li>
@@ -1323,14 +1317,23 @@ Saturday
    <div aria-describedby="editorContentDesc" aria-labelledby="cp-Splash-title" aria-modal="true" class="hidden cp-Splash cp-Splash--modal is-open" id="SplashMessage" role="dialog" tabindex="-1">
     <div class="cp-Splash-header">
      <h2 class="cp-Splash-title" id="cp-Splash-title">
-      Loading
+      Welcome
      </h2>
      <button aria-label="Close this modal" class="cp-Splash-Btn cp-Splash-close" title="Close this window">
      </button>
     </div>
     <div class="cp-Splash-body">
      <div class="cp-Splash-Prose editorContent fr-view" id="editorContentDesc">
-      Loading
+      <h2 class="subhead1" data-pasted="true">
+       Thank you for visiting the new Pinellas County Supervisor of Elections website!
+      </h2>
+      <p>
+       This is the official government site for election information in Pinellas County, built to give voters clear, reliable access to resources they need. If you have questions about the new site, please call us at 727-464-VOTE (8683) or email
+       <a href="mailto:Election@VotePinellas.gov">
+        Election@VotePinellas.gov
+       </a>
+       .
+      </p>
      </div>
     </div>
     <div class="cp-Splash-footer">
@@ -1349,12 +1352,39 @@ Saturday
   </div>
   <div>
   </div>
-  <div class="hidden activeWidgetSkinComponentsOnPageJson">
-   []
-  </div>
   <div>
   </div>
   <div id="root-picker-outlet">
+  </div>
+  <ul class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" id="ui-id-1" tabindex="0">
+  </ul>
+  <div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status">
+  </div>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_295 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu295" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_163 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu163" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_296 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu296" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_297 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu297" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_298 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu298" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
+   <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
+   </a>
+   <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
+   </a>
   </div>
  </body>
 </html>

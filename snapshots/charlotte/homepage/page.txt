@@ -1,4 +1,5 @@
 Charlotte County Elections, FL | Official Website
+Loading
 Skip to Main Content
 About
 Election Information
@@ -8,10 +9,15 @@ How-To Videos
 Search
 [rotating image slideshow removed for determinism]
 Active Registered Voters:
+9/20/26
 Democrats:
+29,681
 Republicans:
+85,257
 Other:
+40,208
 Total:
+155,146
 Register to Vote
 Vote-By-Mail
 Where Do I Vote?
@@ -25,8 +31,6 @@ Election Calendar
 2026 General Election Dates
 2026 General Election Dates
 2026 General Election Dates
-Sat, Sep. 19
-Vote-By-Mail Sent to UOCAVA Voters
 Thu, Sep. 24 - Thu, Oct. 1
 Vote-By-Mail Sent to Domestic Voters
 Mon, Oct. 5
@@ -78,4 +82,3 @@ Loading
 Loading
 Do Not Show Again
 Close
-[]

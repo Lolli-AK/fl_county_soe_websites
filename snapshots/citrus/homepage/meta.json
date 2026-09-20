@@ -2,23 +2,24 @@
   "county": "Citrus",
   "page_type": "homepage",
   "requested_url": "https://www.votecitrus.gov",
-  "final_url": "https://www.votecitrus.gov",
+  "final_url": "https://www.votecitrus.gov/",
   "redirect_chain": [
-    "https://www.votecitrus.gov"
+    "https://www.votecitrus.gov",
+    "https://www.votecitrus.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-19T12:08:40Z",
-  "html_sha256": "915b878f49d6eadc3cabd52bbccc444c18eb779bd41535d3800da186969f0e2c",
-  "text_sha256": "7970a73fad65d9ba9348884a0e0144e409d5dfb2375962f18d2da893dbe7033e",
-  "byte_size": 122209,
-  "title": "Citrus County Elections, FL | Official Website",
+  "fetched_at": "2026-09-20T12:44:11Z",
+  "html_sha256": "753f8b5a58835297f81257cb89994a570a916d7ceed5df2cb45122000f5ec41a",
+  "text_sha256": "76b52b3471b72753d59fe0636a31f35399ea11353ca7ef8a23c0b1d13eed5919",
+  "byte_size": 2853,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
