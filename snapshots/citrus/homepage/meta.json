@@ -7,19 +7,19 @@
     "https://www.votecitrus.gov",
     "https://www.votecitrus.gov/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-20T12:44:11Z",
-  "html_sha256": "753f8b5a58835297f81257cb89994a570a916d7ceed5df2cb45122000f5ec41a",
-  "text_sha256": "76b52b3471b72753d59fe0636a31f35399ea11353ca7ef8a23c0b1d13eed5919",
-  "byte_size": 2853,
-  "title": "Just a moment...",
+  "fetched_at": "2026-09-21T14:40:16Z",
+  "html_sha256": "4e0cda6961f04001f49d16e4f12a078afbc2758bbaae423cc0bb657e08f7da1d",
+  "text_sha256": "a96047f8623d1d192229db900bc852a281fc1a11af680cdeb35a54dbdf1bc875",
+  "byte_size": 162696,
+  "title": "Citrus County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

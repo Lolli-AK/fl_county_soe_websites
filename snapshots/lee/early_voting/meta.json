@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-20T12:44:11Z",
-  "html_sha256": "1e4ce6576dfaced73800202acbfa127915973ce8bc8c7d93fec09fd15083dfd7",
-  "text_sha256": "32e71fc704b979a1b75e32245dd75791b2bd4758af4b287fd891cdd93c83fc30",
+  "fetched_at": "2026-09-21T14:40:16Z",
+  "html_sha256": "029513c1a215023a2f23ec9a2e7debecc9e4e4d2a2b3feea10c47dee0233f99e",
+  "text_sha256": "2ad52e741d241e8d2c17bee61480e985e28a56c5cb52a90078f8c7496a354f8f",
   "byte_size": 89287,
   "title": "Early Voting Dates and Locations | Lee County Elections, FL",
   "noncitizen_voting": {

@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-20T12:44:11Z",
-  "html_sha256": "ffe294400e1d2267827c2a2d6f0b6d5b8d2198532cf03e7095f7579f4bd1a510",
-  "text_sha256": "27d12c5180ecf99d00f29c8eaaef3d682f67563601d4776e8e098aade6457fad",
+  "fetched_at": "2026-09-21T14:40:16Z",
+  "html_sha256": "c028ebb40b4a232a5442031fd5aa94aeb46055aed3e21c84b5b77c52db12ae1a",
+  "text_sha256": "82253f849d93f0517c2a143bd2f57756f2edb55449a649ab01e882a943634f71",
   "byte_size": 150688,
   "title": "Precinct Locations | Citrus County Elections, FL",
   "noncitizen_voting": {

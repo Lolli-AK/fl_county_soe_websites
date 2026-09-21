@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-20T12:44:11Z",
-  "html_sha256": "deac288d86a85b656e5bde920433de3649c48d663c38871376f7b5d0f0a5b931",
+  "fetched_at": "2026-09-21T14:40:16Z",
+  "html_sha256": "0f31c1fea7be42aec3387eb2016f40c4c4f0fc565f14895b9a220bbf4217b500",
   "text_sha256": "7c38c0b7d6cee7f78ab93574852aa099936fa74c79a62eeb9b18296386226baf",
-  "byte_size": 210917,
+  "byte_size": 211088,
   "title": "Election Info | Highlands County Supervisor of Elections | Sebring, FL",
   "noncitizen_voting": {
     "present": false,

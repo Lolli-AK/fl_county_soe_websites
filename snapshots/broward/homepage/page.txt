@@ -382,14 +382,14 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-9/20/26
-1,362,578
+9/21/26
+1,362,597
 Eligible Voters
-591,471
+591,476
 Democrat
-316,428
+316,429
 Republican
-418,019
+418,032
 NPA
 36,660
 Other

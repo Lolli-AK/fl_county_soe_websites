@@ -40,6 +40,7 @@ Voter Initiative Petition Process
 Canvassing Board
 Polling Place and Early Voting Site Regulations
 Resource Allocation Report
+Unofficial Voter Turnout
 Ballots by Mail
 Request a Mail Ballot
 Mail Ballot Signature Cure Affidavit Instructions and Form
@@ -119,19 +120,23 @@ Welcome to the Brevard County
 Supervisor of Elections
 Tim Bobanic
 Active Registered Voters as of:
-09/20/2026
+09/21/2026
 Republican
-207,269
+207,272
 Democratic
-111,852
+111,853
 Non-Partisan
-106,703
+106,705
 Others
 19,002
 Total
-444,826
+444,832
 2026 General Election Sample Ballots
 View Your 2026 General Election Sample Ballot
+Track Your Mail Ballot
+Check Your Mail Ballot Status
+2026 General Election Unofficial Turnout
+View Unofficial Turnout
 View Announced and Qualified Candidates for the 2026 Election Cycle
 View More Information
 Request a Mail Ballot Online
@@ -160,10 +165,6 @@ Facebook
 X
 Brevard County Supervisor of Elections
 Upcoming Events
-September 18, 2026
-All day
-Mass mail of Military/Overseas (UOCAVA) Mail Ballots - 2026 General Election
-Read More
 September 30, 2026
 All day
 Mass mail of Domestic Mail Ballots - 2026 General Election
@@ -177,6 +178,11 @@ All day
 Book Closing - 2026 General Election
 Read More
 October 19, 2026
+8:00 AM -
+6:00 PM
+Early Voting - 2026 General Election
+Read More
+October 20, 2026
 8:00 AM -
 6:00 PM
 Early Voting - 2026 General Election

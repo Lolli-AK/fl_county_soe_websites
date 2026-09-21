@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-20T12:44:11Z",
-  "html_sha256": "73205693b3f0ff8967963b4728bc7e56befc4d758050f10bccd0e6088e9e7dcf",
+  "fetched_at": "2026-09-21T14:40:16Z",
+  "html_sha256": "c6b62790fdd59a71a252e50ede01d719f846c82bf6faab70bf129091d2bc3f54",
   "text_sha256": "6ff8f56eae99248576f7612880c2c6efc3f86e5cb3c72e65a71d9f5b5a72e964",
-  "byte_size": 79398,
+  "byte_size": 79400,
   "title": "Election Results Archive by Year – voteseminole.gov",
   "noncitizen_voting": {
     "present": false,

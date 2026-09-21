@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-20T12:44:11Z",
-  "html_sha256": "be61c9216fd39985fa42d318ac514bdb235a5622d6b130e34e6c83734e84606e",
+  "fetched_at": "2026-09-21T14:40:16Z",
+  "html_sha256": "7563adf7aedc178ba56ae4f590292d5d498dd5a23f0c5aaf81794f631dd87794",
   "text_sha256": "51af4ee6082fafd0e4c1ab878054e44be67cca2044669cb854d320888ff73b3a",
-  "byte_size": 103607,
+  "byte_size": 103609,
   "title": "voteseminole.gov",
   "noncitizen_voting": {
     "present": false,

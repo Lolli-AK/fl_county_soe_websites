@@ -6,19 +6,19 @@
   "redirect_chain": [
     "https://www.votecitrus.gov/238/2026-Early-Voting-Sites-Schedule"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-20T12:44:11Z",
-  "html_sha256": "ae3640e431d871f32b2e440539bd66d7b0005c784dcdd83a10e4ae6013daf360",
-  "text_sha256": "1c49874593e7a8cec1064bc19da7053a94a695f698853eb3c77584f74d213d82",
-  "byte_size": 142572,
-  "title": "2026 Early Voting Sites & Schedule | Citrus County Elections, FL",
+  "fetched_at": "2026-09-21T14:40:16Z",
+  "html_sha256": "3690c816c8c4146c935c4f68f812337f262cdd0f9e85146168a611940aa8f00a",
+  "text_sha256": "d3685ab202b1d64d3cf8f70170d6ccd85c41c2885097014dd16d0cd119fcffc7",
+  "byte_size": 2853,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-20T12:44:11Z",
-  "html_sha256": "5b27354ea0535c7264506fa3fef98bbec4310de7927af260bd5ffb6ffff89a6e",
-  "text_sha256": "5d268748cf937dd472ca19ee5925a38a3553d6d0592e1cca2f1e091c2c727d16",
+  "fetched_at": "2026-09-21T14:40:16Z",
+  "html_sha256": "9613f6e6d5c4887b931aafce163fca73caaa22b37d4ace92575a67f8dedbd851",
+  "text_sha256": "12db9c289388d2cefea53221464a1078b73c9d033393cb5272ef5f3eda92c9b6",
   "byte_size": 128895,
   "title": "Election Results | Lee County Elections, FL",
   "noncitizen_voting": {
