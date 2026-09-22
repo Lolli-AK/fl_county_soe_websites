@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-21T14:40:16Z",
-  "html_sha256": "dbb94d03bd353da2311a15ade92416ffe792987101e88c060784e268aff7fa88",
+  "fetched_at": "2026-09-22T12:55:24Z",
+  "html_sha256": "90f49f9b959967cb6096c459b604f8936fcca92f2687cf20929465e4592b9339",
   "text_sha256": "52c6b9b2c05c4e634db48e9026104e2e4911eb41184d98e5741bb5991be35dc5",
-  "byte_size": 71293,
+  "byte_size": 71295,
   "title": "Register to Vote – DeSoto, FL",
   "noncitizen_voting": {
     "present": false,

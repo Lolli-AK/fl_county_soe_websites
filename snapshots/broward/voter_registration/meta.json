@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-21T14:40:16Z",
-  "html_sha256": "701d7b4d3571d82fc6483676ef0266e76ad337b9d6a47de25f270314a01ed3d0",
+  "fetched_at": "2026-09-22T12:55:24Z",
+  "html_sha256": "e38553fc241f99062071617a30d2202075e9b4862eed8d4a1ea5cb72e648a1f3",
   "text_sha256": "09b75fe265fb5f23d03041f686dafa5d10cb9f26410f615a9f6c3cda581232dd",
-  "byte_size": 112934,
+  "byte_size": 112929,
   "title": "How to Register",
   "noncitizen_voting": {
     "present": false,

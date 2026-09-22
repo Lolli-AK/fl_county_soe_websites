@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-21T14:40:16Z",
-  "html_sha256": "ad84a62ddcdb93ce2cbfddc2aae1039da11f42da4cdab15fcb7387ccead260f3",
+  "fetched_at": "2026-09-22T12:55:24Z",
+  "html_sha256": "13b181de0df7e0ee191790b9373a533a2da601a89afd5880701064a74e6bbfcc",
   "text_sha256": "92c7a86cde0c00f0f762a8572e8ac6f7208a3fb00afcb85dafe415a34404b17d",
-  "byte_size": 94570,
+  "byte_size": 94476,
   "title": "Register to Vote / Update Voter Information – Santa Rosa, FL",
   "noncitizen_voting": {
     "present": false,

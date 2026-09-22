@@ -324,24 +324,19 @@ Vote in Honor of a Veteran
 Connect with us
 Facebook
 Where Do I Vote?
-Early Voting Locations
-Election Day Polling Places
-City Election Day Polling Places
+Find an Early or Election Day Polling Place By Address
 Early Voting (In-Person) Locations
 Early Voting Locations, Dates, & Times
-Early Voting provides a more convenient alternative to traditional Election Day voting. Early Voting allows you to cast your ballot in person just as you would on Election Day, but at a time, day, or location that may be more convenient. Early Voting locations may also be less busy than an Election Day polling place and help reduce traffic on Election Day. Any Walton County voter can vote at any Early Voting location in the county. Use the following link to find the closest location and voting times.
+Any Walton County voter can vote at any Early Voting location. Choose the day, time, and location that works best for you.
 Election Day (In-Person) Polling Places
 Find My Election Day Polling Place
+NEW! - Interactive Map Tool (Precincts, Voting Locations, & Districts)
 Find the Election Day Polling Place for an Address
 List of All Election Day Polling Places
-Voting Precinct Map - 8.5 x 11 inch Format (PDF)
-Voting Precinct Map - Large Format (PDF)
-Current Voting Precinct GIS Shapefile for ESRI Map Software
-If you choose to cast your ballot on Election Day, you must go to your home precinct’s polling place to do so. It is against the law to vote in a precinct other than the one you currently live in. Be sure your address is correct and
-update
-it, if needed, before voting. Use these links to find your correct Election Day polling place. You may also find your polling place listed on your current
-voter information card
-.
+On Election Day, you must vote at your assigned home precinct. Be sure your address is current before voting.
+Additional precinct and polling place maps can be found on the
+Maps
+page.
 City (Municipal) Election Polling Places:
 For each respective city’s election, all eligible voters will vote at the designated location for that city listed below:
 DeFuniak Springs

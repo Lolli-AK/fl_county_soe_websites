@@ -23,15 +23,15 @@ Track your Vote By Mail ballot
 Find out where you vote on Election Day
 Find a personalized sample ballot
 Active Voter Registration in Hillsborough County:
-817,513
+817,802
 As of:
-9/21/26
+9/22/26
 Democrats:
-274,280
+274,416
 Republicans:
-297,065
+297,120
 Other:
-246,168
+246,266
 News
 First 2026 General Election Ballots in the Mail
 Today, Hillsborough County Supervisor of Elections Craig Latimer sent 2,721 General Election ballots to absent military and overseas voters, and his office is preparing to send out more than 146,000 ballots to domestic voters on October 1.

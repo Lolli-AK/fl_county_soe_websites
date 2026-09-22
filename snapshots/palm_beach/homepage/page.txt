@@ -2,9 +2,6 @@ Palm Beach County Elections, FL | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Loading
 Skip to Main Content
-Holiday Closure
-All Palm Beach County Supervisor of Elections Offices are Closed September 21, 2026, in Observance of Yom Kippur
-Read On...
 Voters
 Candidates
 Elections
@@ -59,8 +56,6 @@ Notices
 Full Calendar
 Election Dates and Deadlines
 Full Calendar
-Mon, Sep. 21
-Offices Closed - Yom Kippur
 Mon, Oct. 5
 Deadline to Register to Vote - 2026 General Election
 Wed, Oct. 7
@@ -69,6 +64,8 @@ Thu, Oct. 8
 Public Viewing
 Thu, Oct. 8
 Opening/Tabulation/Duplication and Audit Scanning (as needed)
+Fri, Oct. 9
+Public Viewing
 View All Events
 /Calendar.aspx
 Election Dates and Deadlines
@@ -84,11 +81,17 @@ View All Events
 /Calendar.aspx
 Active Registered Voters
 As of:
+9/22/26
 Democrats:
+311,956
 Republicans:
+304,217
 No Party Affiliation:
+232,693
 Minor Parties:
+35,629
 Total:
+884,495
 Contact Us
 Main Office
 4301 Cherry Road, West Palm Beach, FL 33409

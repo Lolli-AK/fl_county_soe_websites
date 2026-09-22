@@ -255,15 +255,15 @@ Zulu
 Powered by
 Translate
 Active Registered Voters:
-9/21/26
+9/22/26
 Democrats:
-20,820
+20,840
 Republicans:
-72,075
+72,091
 Other:
-27,930
+27,948
 Total:
-120,825
+120,879
 Register to Vote
 Address Change Request
 Request a Vote by Mail

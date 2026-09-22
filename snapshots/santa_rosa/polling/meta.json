@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-21T14:40:16Z",
-  "html_sha256": "8857f45c0230e1f109b7cebc46aafad62fee1505e6db75fc45da38ced150c93e",
+  "fetched_at": "2026-09-22T12:55:24Z",
+  "html_sha256": "9ebcda93e5a597c676a625316bc7c7892d2b3ffbb004866095f9a92024043022",
   "text_sha256": "745d463ef8cb326075b92e844ab3dc7ed30a3b82b943ef736d17cc57add3179e",
-  "byte_size": 76695,
+  "byte_size": 76601,
   "title": "List of Precincts – Santa Rosa, FL",
   "noncitizen_voting": {
     "present": false,

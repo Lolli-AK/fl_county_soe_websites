@@ -96,7 +96,7 @@ Election Night Results
 Click Here
 2026 Election Night Results
 Active Registered Voters
-As of 09/17/2026
+As of 09/21/2026
 Democrats
 0
 Republicans
@@ -111,6 +111,7 @@ View Voter Turnout
 2026 Mail Ballot
 All Vote by Mail request expire after each General Election. Please be sure to request your Vote By Mail Ballot for the 2026 Election Cycle.
 Request Mail Ballot
+Download Sample Ballot
 General Election
 0
 Days Until Next Election

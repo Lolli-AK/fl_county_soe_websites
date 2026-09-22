@@ -362,6 +362,7 @@ Secure Ballot Intake Stations for the November 3, 2026 Election
 Early Voting Flyer (Locations, Dates, and Hours)
 For Voter Information Lookup -
 Click Here
+List of Polling Places
 Election Preparation Report for the 2026 General Election
 Important Information about the 2026 November Election, including registration deadline and other important dates.
 Legally Required Notices
@@ -382,16 +383,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-9/21/26
-1,362,597
+9/22/26
+1,362,644
 Eligible Voters
-591,476
+591,481
 Democrat
-316,429
+316,444
 Republican
-418,032
+418,052
 NPA
-36,660
+36,667
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.
