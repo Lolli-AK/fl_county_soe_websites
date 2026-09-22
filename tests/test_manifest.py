@@ -24,8 +24,11 @@ SNAPSHOTS = ROOT / "snapshots"
 FLORIDA_COUNTY_COUNT = 67
 # voter_registration was added after the other five were already snapshotting;
 # it is where citizenship language lives, which the other five never carry.
+# uocava was added seventh on the same argument: military-and-overseas material
+# lives on its own page, and the counties that publish one are mostly not the
+# ones whose other six pages mention it.
 PAGE_TYPES = ["homepage", "elections", "voter_registration", "polling",
-              "early_voting", "results"]
+              "early_voting", "results", "uocava"]
 # Batch records where the SOE homepage came from:
 #   1 = the Florida DOS Supervisor of Elections directory, verified as published
 #   2 = the directory URL was stale; the live domain was resolved and verified

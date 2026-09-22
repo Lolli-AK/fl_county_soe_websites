@@ -4,10 +4,16 @@
 Drives fetch -> normalize -> write 3 artifacts (page.html, page.txt, meta.json)
 for every row in manifest/targets.csv, then makes ONE git commit per run.
 
-meta.json also carries a `noncitizen_voting` flag (see noncitizen.py): a
-binary yes/no for whether the page references non-citizen voting, plus the
-terms that matched. It is derived from page.txt, so it never affects the
-fetch and can be recomputed over history.
+meta.json also carries two content flags, both derived from page.txt, so
+neither affects the fetch and both can be recomputed over history:
+
+  `noncitizen_voting`  (noncitizen.py)  does the page reference non-citizen
+                       voting? A tripwire -- expected false everywhere.
+  `uocava`             (uocava.py)      does the page carry information for
+                       military and overseas voters? A measurement -- true on
+                       about a third of captured pages.
+
+Each records a binary yes/no plus the terms that matched.
 
 Fetch strategy is plain-first, escalate-on-empty:
   1. plain HTTP via httpx (realistic UA, follow redirects)
@@ -45,6 +51,7 @@ import httpx
 
 import noncitizen
 import normalize
+import uocava
 
 ROOT = Path(__file__).resolve().parent.parent
 MANIFEST = ROOT / "manifest" / "targets.csv"
@@ -462,9 +469,11 @@ def process_target(row: dict, fetched_at: str, allow_headless: bool) -> dict:
         "text_sha256": _sha256(cleaned_text),
         "byte_size": byte_size,
         "title": title,
-        # Derived from cleaned_text, so it is reproducible from page.txt alone
-        # and can be recomputed for any past commit (scripts/scan_noncitizen.py).
+        # Both derived from cleaned_text, so they are reproducible from
+        # page.txt alone and can be recomputed for any past commit
+        # (scripts/scan_noncitizen.py, scripts/scan_uocava.py).
         "noncitizen_voting": noncitizen.scan(cleaned_text),
+        "uocava": uocava.scan(cleaned_text),
         "error": result["error"],
     }
 

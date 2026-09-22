@@ -113,7 +113,7 @@ Three text artifacts per page, under `snapshots/<county>/<page_type>/`:
 |---|---|
 | **`page.html`** | cleaned, normalized HTML — the structural-diff artifact |
 | **`page.txt`** | visible text only — the primary, lowest-noise human-readable diff |
-| **`meta.json`** | metadata sidecar: requested/final URL, redirect chain, HTTP status, content type, render mode, `external` flag, `fetched_at`, `html_sha256`, `text_sha256`, byte size, title, error |
+| **`meta.json`** | metadata sidecar: requested/final URL, redirect chain, HTTP status, content type, render mode, `external` flag, `fetched_at`, `html_sha256`, `text_sha256`, byte size, title, `noncitizen_voting`, `uocava`, error |
 
 `meta.json` is what catches "page moved / went down / changed vendor" — changes that
 leave no trace in the body.
@@ -165,6 +165,52 @@ Because each page type is its own directory, `git log -p -- 'snapshots/*/early_v
 gives you every early-voting change across all 67 counties in one stream.
 
 ---
+
+## The UOCAVA flag
+
+Every `meta.json` carries:
+
+```json
+"uocava": { "present": true, "terms": ["uocava_form", "military_overseas_voter"], "count": 7 }
+```
+
+`present` is a binary yes/no for whether the page carries information for
+military and overseas voters — the audience covered by the Uniformed and
+Overseas Citizens Absentee Voting Act. `terms` names which families matched,
+because a bare `true` that can't be explained six months later is barely
+better than no flag.
+
+**Florida is the high-coverage state: 60% of captured pages match, against 28%
+in Texas.** So this is a measurement, not a tripwire — the question is
+comparative. A county matching only `military_overseas_voter` has *mentioned*
+these voters; one matching `uocava_form` is telling them how to actually cast
+a ballot.
+
+What is matched, and what deliberately isn't, is in `scripts/uocava.py`.
+Matching is **adjacency, not proximity**, because three false-positive
+families all sit within a clause of a voting word: *military ID* as an
+accepted photo-ID document, *DD-214 Military Discharge Records* (a clerk
+recording service), and **Overseas Highway** — US-1 through the Keys, which
+appears as a Monroe County *polling place address*. Note also that these
+counties write the act's name with an **ampersand** ("Uniformed & Overseas
+Citizens Absentee Voting Act"); matching only *and* finds it zero times.
+
+```bash
+python scripts/scan_uocava.py                        # working tree
+python scripts/scan_uocava.py --history              # every snapshot commit
+python scripts/scan_uocava.py --history --csv manifest/uocava-panel.csv
+```
+
+A `false` means the captured page types carry nothing, not that the county
+publishes nothing — Pinellas, Palm Beach and Miami-Dade each read `false` on
+all five original page types and each runs a dedicated Military & Overseas
+Voters page that nothing in the manifest pointed at.
+`scripts/discover_uocava.py` finds that page and adds it as a `uocava` target:
+
+```bash
+python scripts/discover_uocava.py            # crawl -> manifest/uocava_draft.csv
+python scripts/discover_uocava.py --append   # draft -> targets.csv
+```
 
 ## Install
 
