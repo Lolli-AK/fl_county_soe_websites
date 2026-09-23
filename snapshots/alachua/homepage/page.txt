@@ -1,5 +1,4 @@
 Alachua County Elections, FL | Official Website
-Loading
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
@@ -19,14 +18,13 @@ Early Voting
 Where Do I Vote?
 Upcoming Elections
 News & Announcements
+Constitutional Amendments for the 2026 General Election
+Proposed Constitutional Amendments for the General Election. (November 3, 2026)
 2026 General Election Preparation Report
 F.S. 100.032 Election Preparation Report
 Read on...
 Keep in Touch
 Stay in touch with us by following us on Twitter, becoming our friend on Facebook, or subscribing to one of our RSS Feeds.
-Stay connected!
-Subscribe to Notify Me to receive updates and information about community news and happenings.
-Read on...
 View All News
 /CivicAlerts.aspx
 Upcoming Events
@@ -41,17 +39,11 @@ Veterans Day
 View All Events
 /Calendar.aspx
 As of:
-9/22/26
 Democrats:
-74,059
 Republicans:
-48,864
 No Party Affiliation:
-37,454
 Other:
-5,857
 Total:
-166,234
 Kim A. Barton, Supervisor of Elections, Alachua County
 Josiah T. Walls Building • 515 North Main Street, Suite 300 • Gainesville, FL 32601
 Hours
@@ -88,3 +80,4 @@ Loading
 Loading
 Do Not Show Again
 Close
+[]

@@ -1,6 +1,4 @@
 Early Voting Locations | Hernando County SOE, FL
-This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
-Loading
 Skip to Main Content
 Election Information
 Voter Information
@@ -43,7 +41,7 @@ Monday to Friday: 8:00 a.m. to 4:30 p.m.
 Phone:
 352-754-4125
 Fax: 352-754-4425
-elections@hernandovotes.gov
+[email protected]
 "It is the mission of the Supervisor of Elections office to ensure the integrity of the
 electoral process and empower each voter through continuous education."
 Home
@@ -58,4 +56,4 @@ Loading
 Loading
 Do Not Show Again
 Close
-Explore your accessibility options
+[]

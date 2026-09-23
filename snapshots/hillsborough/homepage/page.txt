@@ -1,6 +1,4 @@
 Hillsborough County Elections, FL | Official Website
-This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
-Loading
 Skip to Main Content
 Voting
 Elections
@@ -23,32 +21,23 @@ Track your Vote By Mail ballot
 Find out where you vote on Election Day
 Find a personalized sample ballot
 Active Voter Registration in Hillsborough County:
-817,802
 As of:
-9/22/26
 Democrats:
-274,416
 Republicans:
-297,120
 Other:
-246,266
 News
 First 2026 General Election Ballots in the Mail
 Today, Hillsborough County Supervisor of Elections Craig Latimer sent 2,721 General Election ballots to absent military and overseas voters, and his office is preparing to send out more than 146,000 ballots to domestic voters on October 1.
 Read on...
-about
 Official Results Certified for the Primary Election
 Hillsborough County Supervisor of Elections Craig Latimer announces that the Canvassing Board met today and certified the official results of the 2026 Primary Election.
 Read on...
-about
 2026 Primary Unofficial Election Night Results
 Hillsborough County Supervisor of Elections Craig Latimer posted unofficial Election Night results for the 2026 Primary at VoteHillsborough.gov this evening.
 Read on...
-about
 Hillsborough County Primary Election Update — Last Weekend of Early Voting
 The Hillsborough County Supervisor of Elections is getting ready for the last weekend of Early Voting for the Primary Election. Here’s what voters should know...
 Read on...
-about
 /CivicAlerts.aspx
 Check out our monthly newsletter (and subscribe!)
 English
@@ -100,258 +89,4 @@ Loading
 Loading
 Do Not Show Again
 Close
-Select Language
-Abkhaz
-Acehnese
-Acholi
-Afar
-Afrikaans
-Albanian
-Alur
-Amharic
-Arabic
-Armenian
-Assamese
-Avar
-Awadhi
-Aymara
-Azerbaijani
-Balinese
-Baluchi
-Bambara
-Baoulé
-Bashkir
-Basque
-Batak Karo
-Batak Simalungun
-Batak Toba
-Belarusian
-Bemba
-Bengali
-Betawi
-Bhojpuri
-Bikol
-Bosnian
-Breton
-Bulgarian
-Buryat
-Cantonese
-Catalan
-Cebuano
-Chamorro
-Chechen
-Chichewa
-Chinese (Simplified)
-Chinese (Traditional)
-Chuukese
-Chuvash
-Corsican
-Crimean Tatar (Cyrillic)
-Crimean Tatar (Latin)
-Croatian
-Czech
-Danish
-Dari
-Dhivehi
-Dinka
-Dogri
-Dombe
-Dutch
-Dyula
-Dzongkha
-Esperanto
-Estonian
-Ewe
-Faroese
-Fijian
-Filipino
-Finnish
-Fon
-French
-French (Canada)
-Frisian
-Friulian
-Fulani
-Ga
-Galician
-Georgian
-German
-Greek
-Guarani
-Gujarati
-Haitian Creole
-Hakha Chin
-Hausa
-Hawaiian
-Hebrew
-Hiligaynon
-Hindi
-Hmong
-Hungarian
-Hunsrik
-Iban
-Icelandic
-Igbo
-Ilocano
-Indonesian
-Inuktut (Latin)
-Inuktut (Syllabics)
-Irish
-Italian
-Jamaican Patois
-Japanese
-Javanese
-Jingpo
-Kalaallisut
-Kannada
-Kanuri
-Kapampangan
-Kazakh
-Khasi
-Khmer
-Kiga
-Kikongo
-Kinyarwanda
-Kituba
-Kokborok
-Komi
-Konkani
-Korean
-Krio
-Kurdish (Kurmanji)
-Kurdish (Sorani)
-Kyrgyz
-Lao
-Latgalian
-Latin
-Latvian
-Ligurian
-Limburgish
-Lingala
-Lithuanian
-Lombard
-Luganda
-Luo
-Luxembourgish
-Macedonian
-Madurese
-Maithili
-Makassar
-Malagasy
-Malay
-Malay (Jawi)
-Malayalam
-Maltese
-Mam
-Manx
-Maori
-Marathi
-Marshallese
-Marwadi
-Mauritian Creole
-Meadow Mari
-Meiteilon (Manipuri)
-Minang
-Mizo
-Mongolian
-Myanmar (Burmese)
-Nahuatl (Eastern Huasteca)
-Ndau
-Ndebele (South)
-Nepalbhasa (Newari)
-Nepali
-NKo
-Norwegian
-Nuer
-Occitan
-Odia (Oriya)
-Oromo
-Ossetian
-Pangasinan
-Papiamento
-Pashto
-Persian
-Polish
-Portuguese (Brazil)
-Portuguese (Portugal)
-Punjabi (Gurmukhi)
-Punjabi (Shahmukhi)
-Quechua
-Qʼeqchiʼ
-Romani
-Romanian
-Rundi
-Russian
-Sami (North)
-Samoan
-Sango
-Sanskrit
-Santali (Latin)
-Santali (Ol Chiki)
-Scots Gaelic
-Sepedi
-Serbian
-Sesotho
-Seychellois Creole
-Shan
-Shona
-Sicilian
-Silesian
-Sindhi
-Sinhala
-Slovak
-Slovenian
-Somali
-Spanish
-Sundanese
-Susu
-Swahili
-Swati
-Swedish
-Tahitian
-Tajik
-Tamazight
-Tamazight (Tifinagh)
-Tamil
-Tatar
-Telugu
-Tetum
-Thai
-Tibetan
-Tigrinya
-Tiv
-Tok Pisin
-Tongan
-Tshiluba
-Tsonga
-Tswana
-Tulu
-Tumbuka
-Turkish
-Turkmen
-Tuvan
-Twi
-Udmurt
-Ukrainian
-Urdu
-Uyghur
-Uzbek
-Venda
-Venetian
-Vietnamese
-Waray
-Welsh
-Wolof
-Xhosa
-Yakut
-Yiddish
-Yoruba
-Yucatec Maya
-Zapotec
-Zulu
-Powered by
-Translate
-Original text
-Rate this translation
-Your feedback will be used to help improve Google Translate
-Explore your accessibility options
+[]

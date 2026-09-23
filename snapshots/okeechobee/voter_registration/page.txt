@@ -1,11 +1,11 @@
 Student Services – Okeechobee County, FL
 Skip to content
-Active Registered Voters as of 09/22/2026:
-Dem: 4,312
-Rep: 12,503
+Active Registered Voters as of 09/23/2026:
+Dem: 4,311
+Rep: 12,508
 Oth: 888
-NPA: 3,094
-Total: 20,797
+NPA: 3,095
+Total: 20,802
 Home
 Voter Information
 Update Your Voter Registration Information
@@ -210,11 +210,11 @@ elections@voteokeechobee.gov
 Contact Us Form
 Site powered by
 SOE Software
-Active Registered Voters as of 09/22/2026:
-Dem: 4,312
-Rep: 12,503
+Active Registered Voters as of 09/23/2026:
+Dem: 4,311
+Rep: 12,508
 Oth: 888
-NPA: 3,094
-Total: 20,797
+NPA: 3,095
+Total: 20,802
 ×
 Search

@@ -125,15 +125,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 09/22/2026
+Voter Totals as of: 09/23/2026
 Democrats
 3,828
 Republicans
-4,779
+4,783
 Other
-1,404
+1,403
 Total
-10,011
+10,014
 Upcoming Elections
 Nov 3, 2026
 General Election
@@ -154,6 +154,10 @@ Early Voting: General Election
 All Upcoming Dates
 Election News
 View all News & Announcements
+September 22, 2026
+VOTER ELIGIBILITY NOTICE
+Lorenzo Sheffield Sr. 925 Branch St Monticello, FL 3244 You are hereby notified that…
+Read Full Announcement
 September 14, 2026
 VOTER ELIGIBILITY NOTICE
 Notice hereby given: Jaclyn L Baldwin 380 S Waukeenah st. Monticello, FL 32344 You…
@@ -162,14 +166,10 @@ September 3, 2026
 Voting System Post-Election Audit Report
 Voting System Post-Election Audit Report - 2026 Primary
 Read Full Announcement
-September 3, 2026
-VOTER ELIGIBILITY NOTICE
-Breon M Randell 1035 King St. Monticello, FL 3244 You are hereby notified that your…
-Read Full Announcement
 View all News & Announcements
 Latest News
 Jefferson County Supervisor of Elections - Michelle Milligan
-posted 3 days ago
+posted 4 days ago
 This shared content must be viewed on Facebook.
 View Facebook Post
 (opens in a new tab)

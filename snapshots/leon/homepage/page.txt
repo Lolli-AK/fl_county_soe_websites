@@ -128,15 +128,15 @@ Mark S. Earley
 Supervisor of Elections
 Leon County
 Active Registered Voters as of:
-2026-09-22
+2026-09-23
 Democratic
-87,607
+87,623
 Republican
-54,606
+54,604
 Others
-41,396
+41,411
 Total
-183,609
+183,638
 Leon County Supervisor of Elections
 Election Resources for the November 3 General Election
 The deadline to register to vote for the General Election is October 5. Learn more about how you can

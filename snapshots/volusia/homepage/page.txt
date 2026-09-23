@@ -112,32 +112,32 @@ Learn More
 Register to Vote
 Registering to vote is only a few clicks away!
 Learn More
-Registered Voters as of September 16, 2026
+Registered Voters as of September 22, 2026
 (Includes Active and Inactive Voters)
 Political Affiliation
 Active
 Inactive
 Total
 Democrats
-106,410
-19,633
-126,043
+106,559
+19,587
+126,146
 Republicans
-173,974
-17,471
-191,445
+174,221
+17,430
+191,651
 No Party Affiliation
-101,672
-24,273
-125,945
+101,708
+24,228
+125,936
 Other
-17,559
-1,704
-19,263
+17,656
+1,697
+19,353
 Totals
-399,615
-63,081
-462,696
+400,144
+62,942
+463,086
 Ready. Set. VOTE
 Vote-by-Mail
 Precinct Locator

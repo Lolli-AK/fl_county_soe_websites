@@ -2,19 +2,18 @@
   "county": "Marion",
   "page_type": "homepage",
   "requested_url": "https://www.votemarion.gov",
-  "final_url": "https://www.votemarion.gov/",
+  "final_url": "https://www.votemarion.gov",
   "redirect_chain": [
-    "https://www.votemarion.gov",
-    "https://www.votemarion.gov/"
+    "https://www.votemarion.gov"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-22T12:55:24Z",
-  "html_sha256": "e3839dd9e51c5e6f700e5d099678247602bdb5951520c9e02696ab4efedfff0d",
-  "text_sha256": "c5af6a8225585b3b86ec30ca549a32e362bba1afc0f77adbc7291977d643d185",
-  "byte_size": 70885,
+  "fetched_at": "2026-09-23T13:06:50Z",
+  "html_sha256": "bf0d9d088b1c6516927e81c178ca5b2904c4bc0a79eb2cdd0b17412913b6ac3f",
+  "text_sha256": "4dd1637f9267f9548e34064e177d562d458d2835650e89e977579861528d0415",
+  "byte_size": 66116,
   "title": "Marion County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,

@@ -120,12 +120,16 @@ Sample Ballots
 Election Mail
 Submit A Public Records Request
 ‹
-2026 general
-election center
-Orange County’s Election Center has everything you need for the
-2026 General Election
-, all in one place! Access your voter information, turnout updates, follow results on election night, and find resources to help you stay informed.
-Visit our election center
+Karen Castor Dentel
+GEneral election
+quick reference
+2026 General Election Center
+What’s On My Ballot
+Early Voting
+Request a Vote-by-Mail Ballot
+Sign up for BallotTrax
+Secure Ballot Intake Stations
+Find Your Election Day Polling Place
 HOW CAN WE HELP YOU?
 WHAT’S ON MY BALLOT?
 MEET KAREN CASTOR DENTEL
@@ -166,57 +170,57 @@ Read More
 View Calendar
 VOTER STATISTICS
 Registered Active Voters
-as of 09/21/2026
+as of 09/22/2026
 Switch to details
 Switch to summary
 Party
 Count
 Percentage
 Dem.
-317,405
+317,551
 38.94%
 Rep.
-227,303
-27.89%
+227,379
+27.88%
 Other
-32,568
+32,608
 4.00%
 NPA
-237,812
+237,930
 29.18%
 Total
-815,088
+815,468
 100%
 Party Name
 Count
 Florida Democratic Party
-317,405
+317,551
 NO PARTY AFFILIATION
-237,812
+237,930
 Republican Party Of Florida
-227,303
+227,379
 Independent Party of Florida
-18,335
+18,341
 Boricua Party
-3,003
+3,013
 Conservative Party of Florida
-2,462
+2,459
 America First Party of Florida
-2,374
+2,391
 Libertarian Party of Florida
-2,099
+2,098
 Constitution Party of Florida
-1,085
+1,086
 Coalition With A Purpose Party
-902
+903
 American Solidarity Party of Florida
-759
+762
 Green Party of Florida
-713
+715
 Ecology Party of Florida
-338
+341
 Party for Socialism and Liberation – Florida
-234
+235
 Florida Forward Party
 225
 We the People Florida
@@ -226,15 +230,15 @@ MGTOW Party
 Jeffersonian Party of Florida
 5
 Total
-815,088
+815,468
 Vote By Mail Standing Request Totals
-as of 09/21/2026
+as of 09/22/2026
 Election Name
 Count
 2026 General Election
-105,190
+105,502
 Permanent VBM requests 2025-2026
-101,557
+101,785
 BY THE NUMBERS
 Get a quick snapshot of elections in Orange County. We highlight key statistics that capture the scale, accuracy, and impact of our election operations.
 8

@@ -163,15 +163,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(09/21/2026)
+(09/22/2026)
 Democrats
-23,808
+23,816
 Republicans
-75,116
+75,127
 Other
-29,008
+29,020
 Total
-127,932
+127,963
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -194,7 +194,7 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 5 days ago
+posted 1 week ago
 🗳️ The 2026 General Election will be here before we know it!
 Being Election Ready starts with knowing the important dates and deadlines. Mark your calendar, share this information with friends and family, and make your plan to vote!
 🗓️ Important General Election Dates:
