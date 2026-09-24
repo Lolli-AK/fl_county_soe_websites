@@ -337,14 +337,14 @@ Supervisor of Elections
 Monroe County
 Active Registered Voters
 Democratic
-14,768
+14,771
 Republican
-25,261
+25,263
 Others
-14,841
+14,844
 Total
-54,870
-Last updated 2026-09-23
+54,878
+Last updated 2026-09-24
 Election Night Results
 August 18, 2026 - Primary Election
 View Official Results
@@ -398,8 +398,6 @@ Vote-by-Mail Ballots can be hand-delivered inside the office or to the Secure Ba
 Upcoming Elections
 View Upcoming Elections
 Dates to Remember
-Labor Day - All Offices Closed
-9/5/2026 - 9/7/2026
 Columbus Day - All Offices Closed
 10/12/2026
 Logic & Accuracy (L&A) Testing
@@ -422,6 +420,8 @@ Pull Race & Precinct
 11/13/2026
 Manual Audit
 11/18/2026
+Thanksgiving - All Offices Closed
+11/26/2026 - 11/29/2026
 View All
 The Honorable Sherri Hodies
 Supervisor of Elections,

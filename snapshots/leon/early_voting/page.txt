@@ -45,6 +45,8 @@ Resources and information for the General Election
 General Election Ballot Questions
 Canvassing Board
 Information about the Election Board
+Student Voters
+Resources for students
 Registration
 Check Your Info
 Registration status and other info
@@ -151,6 +153,7 @@ Election Integrity
 Election Ready
 General Election Ballot Questions
 Canvassing Board
+Student Voters
 Mark S. Earley
 Leon County Supervisor of Elections
 Office Address:
