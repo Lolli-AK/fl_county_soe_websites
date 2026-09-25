@@ -130,17 +130,17 @@ Track My Ballot
 Early Voting
 Voting Locations
 Active Registered Voters
-(09/23/2026)
+(09/24/2026)
 Democrats
 2,234
 Republicans
-7,288
+7,287
 No Party Affiliation
 1,268
 Other
 390
 Total
-11,180
+11,179
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -169,11 +169,11 @@ View Facebook Post
 2
 Public Notices
 All Public Notices
+Voter Eligibility Notice
+September 24, 2026
+Read Full Notice
 Logic and Accuracy Test Notice
 September 11, 2026
-Read Full Notice
-Voter Eligibility Notice
-May 5, 2026
 Read Full Notice
 All Mail Ballot Requests Expired
 December 31, 2024

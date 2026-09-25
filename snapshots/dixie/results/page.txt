@@ -252,7 +252,7 @@ Yucatec Maya
 Zapotec
 Zulu
 Active Registered Voters
-As of 08/25/2026
+As of 09/24/2026
 Democrats
 0
 Republicans
@@ -316,7 +316,7 @@ Maps
 About Us
 Your Elections Office
 Your Elected Officials
-County Canvassing Board
+2026 General Election County Canvassing Board
 Vote in Honor of a Veteran
 Scholarship
 Dixie Supervisor of Elections History
@@ -372,7 +372,7 @@ Maps
 About Us
 Your Elections Office
 Your Elected Officials
-County Canvassing Board
+2026 General Election County Canvassing Board
 Vote in Honor of a Veteran
 Scholarship
 Dixie Supervisor of Elections History
@@ -426,7 +426,7 @@ Maps
 About Us
 Your Elections Office
 Your Elected Officials
-County Canvassing Board
+2026 General Election County Canvassing Board
 Vote in Honor of a Veteran
 Scholarship
 Dixie Supervisor of Elections History
@@ -486,7 +486,7 @@ Maps
 About Us
 Your Elections Office
 Your Elected Officials
-County Canvassing Board
+2026 General Election County Canvassing Board
 Vote in Honor of a Veteran
 Scholarship
 Dixie Supervisor of Elections History

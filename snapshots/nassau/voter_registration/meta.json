@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-24T13:00:27Z",
-  "html_sha256": "79226de65c68740b5e871e6b2cbb7d5fe85263ae1346bedfdc83c6de6cad09f4",
+  "fetched_at": "2026-09-25T13:05:56Z",
+  "html_sha256": "cb6a2434544786eca7dcec1950b032baf5fb6c98c8b37e18390fb6c387cc3554",
   "text_sha256": "407da5ddc5df0eae172742b5df66a5ea45182c7bc171847fd8a4883041f27fcb",
-  "byte_size": 116990,
+  "byte_size": 117084,
   "title": "Register to Vote | Nassau County - Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

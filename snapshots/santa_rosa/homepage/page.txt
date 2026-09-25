@@ -152,11 +152,11 @@ FL Association of SOE
 FL Commission on Ethics
 Santa Rosa County
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 09/24/2026:
-Dem: 20,873
-Rep: 91,881
-Oth: 30,942
-Total: 143,696
+Active Registered Voters as of 09/25/2026:
+Dem: 20,885
+Rep: 91,905
+Oth: 30,946
+Total: 143,736
 Register to Vote/Update Voter Information
 My Status/Sample Ballots
 Vote By Mail
@@ -176,6 +176,7 @@ Notice of General Election
 Voter Status Checklist
 2026 General Election Book Closing
 Canvassing Board Calendar
+General Election Sample Ballot
 EVENTS
 «
 »

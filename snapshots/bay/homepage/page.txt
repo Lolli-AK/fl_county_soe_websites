@@ -163,15 +163,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(09/23/2026)
+(09/24/2026)
 Democrats
-23,825
+23,840
 Republicans
-75,141
+75,170
 Other
-29,036
+29,048
 Total
-128,002
+128,058
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -194,18 +194,10 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 1 week ago
-🗳️ The 2026 General Election will be here before we know it!
-Being Election Ready starts with knowing the important dates and deadlines. Mark your calendar, share this information with friends and family, and make your plan to vote!
-🗓️ Important General Election Dates:
-• October 5 — Voter Registration Deadline
-• October 19–31 — Early Voting
-• October 22 at 5:00 PM — Deadline to Request a Vote-by-Mail Ballot to Be Mailed
-• November 3 — Election Day
-Whether you plan to Vote Early, Vote by Mail, or Vote on Election Day, make sure you’re prepared and know your options.
-For complete election information, voting locations, sample ballots, important dates, and more, visit:
-https://www.bayvotesfl.gov/
-🗳️ Be informed. Be prepared. Be Election Ready!
+posted 23 hours ago
+Vote by Mail Ballots for the 2026 General Election are being mailed out today, September 24, 2026. 📪📪📪
+Track your ballot by clicking the link below:
+https://www.bayvotesfl.gov/voters/track-my-ballot/
 View Facebook Post
 (opens in a new tab)
 Public Notices

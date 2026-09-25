@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-24T13:00:27Z",
-  "html_sha256": "25bf646269b6bc22448ec341e6eff85f96a8a01b1a3a4f355a2d3aa00e5e7aed",
+  "fetched_at": "2026-09-25T13:05:56Z",
+  "html_sha256": "10b784ee7be9a42c116b488fc07a5b71c8e8f41e00d5e57acf851bbb09c773b9",
   "text_sha256": "51162c453e03bc64cf4d3e90203222c05db20fa36d63f8aee03e76f0129adf77",
-  "byte_size": 75791,
+  "byte_size": 75845,
   "title": "Precinct Finder",
   "noncitizen_voting": {
     "present": false,

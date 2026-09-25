@@ -51,6 +51,7 @@ Cancel My Mail Ballot Request
 How to Return Your Voted Mail Ballot
 Mail Ballots for Military and Overseas Voters
 Federal Voting Assistance Program
+Notice of Access to Mail Ballot Material
 Candidate Information
 2026 Candidates
 Running for Office
@@ -120,17 +121,17 @@ Welcome to the Brevard County
 Supervisor of Elections
 Tim Bobanic
 Active Registered Voters as of:
-09/24/2026
+09/25/2026
 Republican
-207,431
+207,484
 Democratic
-111,949
+111,996
 Non-Partisan
-106,728
+106,756
 Others
-19,065
+19,084
 Total
-445,173
+445,320
 2026 General Election Sample Ballots
 View Your 2026 General Election Sample Ballot
 Track Your Mail Ballot
@@ -169,6 +170,11 @@ September 30, 2026
 All day
 Mass mail of Domestic Mail Ballots - 2026 General Election
 Read More
+September 30, 2026
+11:00 AM -
+1:00 PM
+Voter Registration Drive - Buena Vida Estates
+Read More
 October 2, 2026
 9:00 AM -
 Public Logic & Accuracy Test for 2026 General Election
@@ -178,11 +184,6 @@ All day
 Book Closing - 2026 General Election
 Read More
 October 19, 2026
-8:00 AM -
-6:00 PM
-Early Voting - 2026 General Election
-Read More
-October 20, 2026
 8:00 AM -
 6:00 PM
 Early Voting - 2026 General Election

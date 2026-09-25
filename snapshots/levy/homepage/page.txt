@@ -133,15 +133,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 09/23/2026
+Voter Totals as of: 09/24/2026
 Democrats
-6,128
+6,133
 Republicans
-18,898
+18,902
 Other
-5,312
+5,315
 Total
-30,338
+30,350
 Voter Turnout
 Upcoming Elections
 Nov 3, 2026
@@ -163,13 +163,13 @@ Early Voting: General Election
 All Upcoming Dates
 Announcements
 View all News & Announcements
+September 24, 2026
+2026 General Election Ballots Mailed to Levy County Voters
+Read Full Announcement
 September 1, 2026
 2026 General Election Sample Ballots Now Available
 Read Full Announcement
 August 26, 2026
-Voter Ineligibility Notice
-Read Full Announcement
-August 25, 2026
 Voter Ineligibility Notice
 Read Full Announcement
 View all News & Announcements

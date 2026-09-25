@@ -1,5 +1,8 @@
 Orange County Supervisor of Elections | Karen Castor Dentel | Florida
 Skip to content
+EN
+|
+ES
 Register to Vote
 Search
 Search
@@ -116,6 +119,7 @@ Maps
 Sample Ballots
 Election Mail
 Submit A Public Records Request
+‹
 Karen Castor Dentel
 GEneral election
 quick reference
@@ -166,59 +170,59 @@ Read More
 View Calendar
 VOTER STATISTICS
 Registered Active Voters
-as of 09/23/2026
+as of 09/24/2026
 Switch to details
 Switch to summary
 Party
 Count
 Percentage
 Dem.
-317,677
+317,792
 38.95%
 Rep.
-227,400
+227,433
 27.88%
 Other
-32,639
+32,651
 4.00%
 NPA
-237,977
+238,020
 29.17%
 Total
-815,693
+815,896
 100%
 Party Name
 Count
 Florida Democratic Party
-317,677
+317,792
 NO PARTY AFFILIATION
-237,977
+238,020
 Republican Party Of Florida
-227,400
+227,433
 Independent Party of Florida
-18,353
+18,357
 Boricua Party
-3,019
+3,021
 Conservative Party of Florida
-2,456
+2,454
 America First Party of Florida
-2,399
+2,404
 Libertarian Party of Florida
-2,099
+2,097
 Constitution Party of Florida
 1,087
 Coalition With A Purpose Party
-905
+908
 American Solidarity Party of Florida
 762
 Green Party of Florida
 717
 Ecology Party of Florida
-341
+342
 Party for Socialism and Liberation – Florida
 235
 Florida Forward Party
-227
+228
 We the People Florida
 28
 MGTOW Party
@@ -226,15 +230,15 @@ MGTOW Party
 Jeffersonian Party of Florida
 5
 Total
-815,693
+815,896
 Vote By Mail Standing Request Totals
-as of 09/23/2026
+as of 09/24/2026
 Election Name
 Count
 2026 General Election
-105,821
+106,086
 Permanent VBM requests 2025-2026
-102,021
+102,200
 BY THE NUMBERS
 Get a quick snapshot of elections in Orange County. We highlight key statistics that capture the scale, accuracy, and impact of our election operations.
 8
