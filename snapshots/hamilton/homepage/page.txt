@@ -144,15 +144,15 @@ Early Voting
 Sample Ballot
 Candidate Financial Reporting Login
 2026 Filed Candidates
-Voter Totals as of: 09/24/2026
+Voter Totals as of: 09/25/2026
 Democrats
 2,300
 Republicans
-3,778
+3,777
 Other
 1,045
 Total
-7,123
+7,122
 Upcoming Elections
 Nov 3, 2026 7:00am
 2026 General Election

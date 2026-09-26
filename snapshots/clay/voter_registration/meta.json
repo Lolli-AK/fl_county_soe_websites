@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-25T13:05:56Z",
-  "html_sha256": "79d0ab85b5eb13cf0d4e988d82f2b35b9219b9a68f864289cfc728ae797aaf1a",
+  "fetched_at": "2026-09-26T12:33:14Z",
+  "html_sha256": "1b663bc16ea4397e20ae00055272075173bc2f6ce567c9481dbb5588a3727064",
   "text_sha256": "97272e373d5923b0b5140f9c857075735278645945ab578ce9db18d4b553a99c",
-  "byte_size": 95483,
+  "byte_size": 95503,
   "title": "Register to Vote/Update Your Information - Clay County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

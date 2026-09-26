@@ -146,15 +146,15 @@ Early Voting
 Voting Locations
 Military & Overseas
 active registered voters
-(09/24/2026)
+(09/25/2026)
 Democrats
-24,506
+24,508
 Republicans
-86,588
+86,604
 Other
-36,761
+36,769
 Total
-147,855
+147,881
 Upcoming Elections
 November 3, 2026
 General Election
@@ -175,8 +175,8 @@ Early Voting for the General Election will be held every day 7AM – 7PM; Octobe
 All Upcoming Dates
 Public Notices
 View All Public Notices
-September 15, 2026
-Notice of Public Test for Voting Equipment and Early Voting
+September 25, 2026
+Notice of Potential Removal from Voter Registration Records
 View the PDF for more information.
 Read Full Announcement
 September 14, 2026

@@ -350,8 +350,6 @@ View Unofficial Turnout Statistics
 Unofficial Turnout Statistics for the November 3, 2026 Election.
 VBM Stats
 Announcements
-Neighborhood Partnership Committee Meeting- Thursday, September 24, 2026
-Join us for our quarterly Neighborhood Partnership Committee Meeting on Thursday, September 24, 2026 at 6:00 p.m.
 November 3, 2026 Election – Canvassing Board
 Canvassing Meeting Notice/Agenda 9/30/2026 (
 English
@@ -396,16 +394,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-9/25/26
-1,363,365
+9/26/26
+1,363,323
 Eligible Voters
-591,791
+591,777
 Democrat
-316,641
+316,628
 Republican
-418,193
+418,175
 NPA
-36,740
+36,743
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.

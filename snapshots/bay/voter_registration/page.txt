@@ -11,7 +11,7 @@ Vote-by-Mail
 Voting Services
 Check Voter Status
 Register to Vote
-Update My Info
+Update My Registration Information
 Where to Vote in Person
 Track My Ballot
 Vote-by-Mail Cure Affidavit
@@ -79,7 +79,7 @@ Vote-by-Mail
 Voting Services
 Check Voter Status
 Register to Vote
-Update My Info
+Update My Registration Information
 Where to Vote in Person
 Track My Ballot
 Vote-by-Mail Cure Affidavit
