@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-26T12:33:14Z",
-  "html_sha256": "49fd8cbc888d0783ba62a95cb342a021ab4b48222fe7ae371384b8f47002d7fd",
+  "fetched_at": "2026-09-27T13:23:47Z",
+  "html_sha256": "151950ce765e41305ed3ce052e61177622dbbcfc0e31001726c6678f7e78d69e",
   "text_sha256": "db32d80d7398bc94097e0c016be55fc17208e17676a6e7b81a5775207ad7a066",
-  "byte_size": 56205,
+  "byte_size": 55781,
   "title": "Office of the Supervisor of Elections of Miami-Dade County",
   "noncitizen_voting": {
     "present": false,

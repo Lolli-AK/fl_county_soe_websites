@@ -125,15 +125,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 09/26/2026
+Voter Totals as of: 09/27/2026
 Democrats
 3,827
 Republicans
-4,783
+4,785
 Other
-1,404
+1,407
 Total
-10,014
+10,019
 Upcoming Elections
 Nov 3, 2026
 General Election
@@ -169,7 +169,7 @@ Read Full Announcement
 View all News & Announcements
 Latest News
 Jefferson County Supervisor of Elections - Michelle Milligan
-posted 16 hours ago
+posted 1 day ago
 📬 **CHECK YOUR MAILBOX!**
 The initial mailing of **Vote-by-Mail ballots for the 2026 General Election** went out on **September 24!** 🇺🇸🗳️
 If you’ve already requested a Vote-by-Mail ballot, **be on the lookout — it should be arriving soon!**

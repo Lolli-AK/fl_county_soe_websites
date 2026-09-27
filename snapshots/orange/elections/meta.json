@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-26T12:33:14Z",
-  "html_sha256": "925dd1836d165680591a595f9c7355f1ae00e73c87d4303e689552f9ec032f72",
+  "fetched_at": "2026-09-27T13:23:47Z",
+  "html_sha256": "7a8feb3326fd77084c4015f758d3cdeb2357cd14cba74d03478319e484ca8b75",
   "text_sha256": "5d777bb10055b80e33c2508c19d5c9b3ca26a314f004b8839d1e3348a4d9ec9d",
-  "byte_size": 80352,
+  "byte_size": 80353,
   "title": "Upcoming Elections in Orange County Florida | 2025-2026 Schedule",
   "noncitizen_voting": {
     "present": false,
