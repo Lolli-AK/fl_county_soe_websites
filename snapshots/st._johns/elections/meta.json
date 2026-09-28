@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-27T13:23:47Z",
-  "html_sha256": "c65500d6c01dedd2e86f11d2985069722b9633e88763198fed1f8a6d56b0d0c7",
+  "fetched_at": "2026-09-28T16:13:22Z",
+  "html_sha256": "bf98f45161fb90d91df7401a327da0706e1f0221f609cf70d93a7fcde91c3cd4",
   "text_sha256": "7da75c17fd62a42851a793950f698650de427918a06b624a336180fda08de89a",
-  "byte_size": 150408,
+  "byte_size": 150468,
   "title": "Election Dates",
   "noncitizen_voting": {
     "present": false,
