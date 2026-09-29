@@ -121,17 +121,17 @@ Welcome to the Brevard County
 Supervisor of Elections
 Tim Bobanic
 Active Registered Voters as of:
-09/28/2026
+09/29/2026
 Republican
-207,497
+207,548
 Democratic
-112,028
+112,095
 Non-Partisan
-106,776
+106,823
 Others
-19,105
+19,117
 Total
-445,406
+445,583
 2026 General Election Sample Ballots
 View Your 2026 General Election Sample Ballot
 Track Your Mail Ballot
@@ -179,14 +179,14 @@ October 2, 2026
 9:00 AM -
 Public Logic & Accuracy Test for 2026 General Election
 Read More
+October 2, 2026
+2:00 PM -
+4:00 PM
+Voter Registration Drive - Avita at Palm Bay
+Read More
 October 5, 2026
 All day
 Book Closing - 2026 General Election
-Read More
-October 19, 2026
-8:00 AM -
-6:00 PM
-Early Voting - 2026 General Election
 Read More
 Brevard County Supervisor of Elections
 Election Public Notices

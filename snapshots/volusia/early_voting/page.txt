@@ -82,11 +82,9 @@ Home
 Elections
 |
 Early Voting
-2026 Early Voting Information
-Primary Election
-August 8 - August 15
-8:00am - 6:00pm
-General Election
+2026 General Election
+Early Voting Information
+Dates and Hours
 October 19 - October 31
 8:00am - 6:00pm
 Interactive Early Voting Site Map
@@ -120,6 +118,7 @@ New Smyrna Beach Regional Library
 1001 S Dixie Fwy, New Smyrna Beach, FL 32168 -
 Map It
 * Voters may vote at any Early Voting site
+A secure ballot intake station is available at all sites during Early Voting hours of operation.
 Elections
 Calendar
 Clemency

@@ -103,7 +103,7 @@ Civil Rights
 Political Parties
 Forms
 Voter Registration Form
-VBM Request Form
+Vote-By-Mail Request Form
 Voter Request for Removal
 Election Information
 Upcoming Elections
@@ -118,7 +118,7 @@ Manual Audit Reports
 Election Results Archive
 Ballot Material Inspection
 Election Workers
-VBM Signature Affidavit
+Vote-By-Mail Signature Affidavit
 Voting Equipment
 Provisional Ballot Status
 Candidate Information
@@ -167,7 +167,7 @@ Manual Audit Reports
 Election Results Archive
 Ballot Material Inspection
 Election Workers
-VBM Signature Affidavit
+Vote-By-Mail Signature Affidavit
 Voting Equipment
 Provisional Ballot Status
 Contact Us

@@ -1,5 +1,8 @@
 Find Your Polling Place | Orange County Florida Voter Lookup
 Skip to content
+EN
+|
+ES
 Register to Vote
 Search
 Search
@@ -116,6 +119,7 @@ Maps
 Sample Ballots
 Election Mail
 Submit A Public Records Request
+‹
 Home
 /
 Find Your Polling Place

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-28T16:13:22Z",
-  "html_sha256": "22e89027a2ff9533ffd741f32bc242bc2b6c1ae154bbc32e01fdaff79e6ac648",
+  "fetched_at": "2026-09-29T14:27:02Z",
+  "html_sha256": "122e178a52979c98d4dd7078f2dca43774a33334d0451f6a2a73d7e666aa315f",
   "text_sha256": "2d58ef1b01e5ee0b520d94f22c682a8585d31f4c6590103299be4e236d3df28e",
-  "byte_size": 55921,
+  "byte_size": 55894,
   "title": "Early Voting & Election Dates",
   "noncitizen_voting": {
     "present": false,

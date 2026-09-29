@@ -121,6 +121,7 @@ Precincts And Polling Locations
 2026 Notice of General Election_English
 2026 Notice of General Election_Spanish
 Election Preparation Reports
+TurnOut Quick View
 Candidates & Committees
 2026 Candidate Contact List
 2026 Qualifications and Fees
@@ -178,6 +179,7 @@ Register to Vote
 My Status
 Election Calendar
 Vote by Mail
+2026 General Turnout Quick View
 Find my Precinct
 news & updates
 View All Articles
