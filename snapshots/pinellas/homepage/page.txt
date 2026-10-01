@@ -19,7 +19,7 @@ View All News
 /CivicAlerts.aspx
 Calendar of Events
 Know What's Next. Get Election Ready.
-September 2026
+October 2026
 S
 M
 T
@@ -27,8 +27,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -59,11 +61,13 @@ S
 28
 29
 30
-1
-2
-3
-Tue, Sep. 29
-Domestic Ballot Mailing
+31
+Sat, Oct. 3
+Offices Open for Voter Registration
+Mon, Oct. 5
+Voter registration deadline for the November 3, 2026 General Election - Extended Office Hours
+Mon, Oct. 12
+Pre-Election Logic & Accuracy Test
 View All
 /Calendar.aspx
 By The Numbers

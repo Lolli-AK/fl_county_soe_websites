@@ -61,6 +61,14 @@ Elected Officials
 Federal, State, & Local Officials
 Job Descriptions of Elected Officials
 Local Party Executive Committees
+Payment Portal
+Public Records Request
+Candidate Petitions
+Initiative Petitions
+Recall Petitions
+Charter Amendment Petitions
+Vote-By-Mail File
+Voter List or TXT File
 Contact Us
 Recursos en Español
 Search Website
@@ -119,6 +127,14 @@ Elected Officials
 Federal, State, & Local Officials
 Job Descriptions of Elected Officials
 Local Party Executive Committees
+Payment Portal
+Public Records Request
+Candidate Petitions
+Initiative Petitions
+Recall Petitions
+Charter Amendment Petitions
+Vote-By-Mail File
+Voter List or TXT File
 Contact Us
 Recursos en Español
 Search Website
@@ -133,15 +149,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 09/28/2026
+Voter Totals as of: 09/30/2026
 Democrats
-6,134
+6,140
 Republicans
-18,899
+18,906
 Other
-5,316
+5,317
 Total
-30,349
+30,363
 Voter Turnout
 Upcoming Elections
 Nov 3, 2026

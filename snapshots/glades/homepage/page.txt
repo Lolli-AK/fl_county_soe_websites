@@ -99,11 +99,11 @@ Precinct District Assignments
 Public Notices
 Voting System Post-Election Audit Report
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 09/29/2026:
-Dem: 1,408
-Rep: 4,106
+Active Registered Voters as of 10/01/2026:
+Dem: 1,414
+Rep: 4,107
 Oth: 1,320
-Total: 6,834
+Total: 6,841
 Register to Vote
 Election Dates
 Polling Location
@@ -133,7 +133,7 @@ Test
 «
 »
 MONTH OF
-SEPTEMBER
+OCTOBER
 2026
 Sunday
 Monday
@@ -147,80 +147,166 @@ Saturday
 3
 4
 5
-6
-7
 1
+6
+1
+7
 8
 1
 9
+1
 10
-1
-11
-1
-12
-Labor Day-Office Closed
-9/7/2026 - 9/7/2026
-Lakeport Community Assoc. Mtg. & Potluck
-09/08/2026 - 09/08/2026
-6:00 PM
-1239 Red Barn Rd. Moore Haven, FL 33471
+Voter Registration and Party Change Deadline
+10/05/2026 - 10/05/2026
+PUBLIC LOGIC & ACCURACY TEST
+10/06/2026 - 10/06/2026
+10:00 AM - 12:00 PM
+998 S US HWY 27 MOORE HAVEN, FL 33471
 Muse Community Association Mtg.
-09/10/2026 - 09/10/2026
+10/08/2026 - 10/08/2026
 6:00 PM
 3897 LOBLOLLY BAY RD, LABELLE, FL 33935
-G2 Candidate Report Due
-9/11/2026 - 9/11/2026
+G4 Candidate Report Due
+10/09/2026 - 10/09/2026
+11
+12
 13
+1
 14
 15
 16
 17
+Lakeport Community Assoc. Mtg. & Potluck
+10/13/2026 - 10/13/2026
+6:00 PM
+1239 Red Barn Rd. Moore Haven, FL 33471
 18
 19
 20
 21
 22
-1
 23
+1
 24
+1
+G5 Candidate Report Due
+10/23/2026 - 10/23/2026
+Early Voting (General Election)
+10/24/2026 - 10/31/2026
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
 25
 1
 26
+1
+27
+2
+28
+1
+29
+1
+30
+3
+31
+1
+Early Voting (General Election)
+10/24/2026 - 10/31/2026
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
+Early Voting (General Election)
+10/24/2026 - 10/31/2026
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
+Early Voting (General Election)
+10/24/2026 - 10/31/2026
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
 BHR Community Meeting & Potluck
-09/22/2026 - 09/22/2026
+10/27/2026 - 10/27/2026
 6:00 PM
 30076 E SR 78 Okeechobee, FL 34974
-G3 Candidate Report Due
-9/25/2026 - 9/25/2026
-27
-28
-29
-30
+Early Voting (General Election)
+10/24/2026 - 10/31/2026
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
+Early Voting (General Election)
+10/24/2026 - 10/31/2026
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
+Early Voting (General Election)
+10/24/2026 - 10/31/2026
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
+G6 Candidate Report Due
+10/30/2026 - 10/30/2026
+G6 Political Committee Report Due
+10/30/2026 - 10/30/2026
+Early Voting (General Election)
+10/24/2026 - 10/31/2026
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
 Event Type:
 All Events
 Test
 «
 »
-September
+October
 2026
-September 7, 2026
-Labor Day-Office Closed
-September 8, 2026
-Lakeport Community Assoc. Mtg. & Potluck
-6:00 PM
-1239 Red Barn Rd. Moore Haven, FL 33471
-September 10, 2026
+October 5, 2026
+Voter Registration and Party Change Deadline
+October 6, 2026
+PUBLIC LOGIC & ACCURACY TEST
+10:00 AM - 12:00 PM
+998 S US HWY 27 MOORE HAVEN, FL 33471
+October 8, 2026
 Muse Community Association Mtg.
 6:00 PM
 3897 LOBLOLLY BAY RD, LABELLE, FL 33935
-September 11, 2026
-G2 Candidate Report Due
-September 22, 2026
+October 9, 2026
+G4 Candidate Report Due
+October 13, 2026
+Lakeport Community Assoc. Mtg. & Potluck
+6:00 PM
+1239 Red Barn Rd. Moore Haven, FL 33471
+October 23, 2026
+G5 Candidate Report Due
+October 24, 2026
+Early Voting (General Election)
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
+October 25, 2026
+Early Voting (General Election)
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
+October 26, 2026
+Early Voting (General Election)
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
+October 27, 2026
+Early Voting (General Election)
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
 BHR Community Meeting & Potluck
 6:00 PM
 30076 E SR 78 Okeechobee, FL 34974
-September 25, 2026
-G3 Candidate Report Due
+October 28, 2026
+Early Voting (General Election)
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
+October 29, 2026
+Early Voting (General Election)
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
+October 30, 2026
+Early Voting (General Election)
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
+G6 Candidate Report Due
+G6 Political Committee Report Due
+October 31, 2026
+Early Voting (General Election)
+8:30 AM - 4:30 PM
+998 S US HWY 27 Moore Haven, FL 33471
 View All
 CONNECT WITH US!
 Glades County, FL Elections

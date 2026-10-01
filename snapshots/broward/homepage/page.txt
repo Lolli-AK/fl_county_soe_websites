@@ -258,6 +258,7 @@ Voter Info
 Vote By Mail Information
 Early Voting & Ballot Return
 Election Day Precinct
+Sample Ballot
 Ballot Status Notifications
 Voter Resources
 How to Register
@@ -346,11 +347,24 @@ Request Ballot
 Find Your Early Voting Site
 Plan ahead - find the early voting location nearest your home or workplace.
 Find Location
-View Unofficial Turnout Statistics
-Unofficial Turnout Statistics for the November 3, 2026 Election.
-VBM Stats
+View Your Sample Ballot
+Click the link below to view your personalized sample ballot.
+View Sample Ballot
 Announcements
-November 3, 2026 Election – Canvassing Board
+11/3/2026 Election - Early Voting and Secure Ballot Intake Stations Schedules
+Secure Ballot Intake Stations Flyer
+Early Voting Flyer (Locations, Dates, and Hours)
+Turnout Statistics for the 11/3/2026 Election and Maps
+Unofficial Vote-by-Mail Statistics for the 11/3/2026 General Election
+View the 2026 Congressional Redistricting Interactive Map
+11/3/2026 Election – Important Information
+For Voter Information Lookup -
+Click Here
+List of Polling Places for the 11/3/2026 General Election
+Election Preparation Report for the 11/3/2026 General Election
+Registration Deadline and Other Important Dates for the 11/3/2026 General Election
+List of Candidates for the 11/3/2026 General Election
+11/3/2026 Election – Canvassing Board
 Canvassing Meeting Notice/Agenda 9/30/2026 (
 English
 /
@@ -361,31 +375,23 @@ English
 /
 Spanish
 )
-Guidelines and Procedures for Observers and Meeting for the 2026 November Election (
+Guidelines and Procedures for Observers and Meeting for the 11/3/2026 General Election (
 English
 /
 Spanish
 )
-Administrative Order for the 2026 November Election
+Administrative Order for the 11/3/2026 General Election
 Important Forms for Elections | Broward County Supervisor of Elections
-November 3, 2026 Election – Important Information
-Secure Ballot Intake Stations for the November 3, 2026 Election
-Early Voting Flyer (Locations, Dates, and Hours)
-For Voter Information Lookup -
-Click Here
-List of Polling Places for the November Election
-Election Preparation Report for the 2026 General Election
-Important Information about the 2026 November Election, including registration deadline and other important dates.
+11/3/2026 General Election Canvassing Board Meetings
 Legally Required Notices
 Potential Ineligibility Notices - Public Notice- 09/03/2026
 Notice of General Election in
 English
 /
 Spanish
-Notice of Book Closing for General Election to be held on November 3, 2026
-Important Information to Voters
+Notice of Book Closing for the 11/3/2026 General Election
+Important Notices to Voters
 Voter Participation Center (VPC) or Center for Voter Information (CVI) Mailers
-View the 2026 Congressional Redistricting Interactive Map
 Three Ways to Vote
 There are three safe and convenient ways to vote in Broward County
 this election. If you are a resident of Broward County, a U.S. Citizen
@@ -394,16 +400,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-9/29/26
-1,363,532
+10/1/26
+1,363,820
 Eligible Voters
-591,859
+592,047
 Democrat
-316,693
+316,793
 Republican
-418,203
+418,204
 NPA
-36,777
+36,776
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.

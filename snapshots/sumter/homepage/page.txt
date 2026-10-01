@@ -42,7 +42,7 @@ View All News
 /CivicAlerts.aspx
 Upcoming Events
 Mark your calendars
-September 2026
+October 2026
 S
 M
 T
@@ -50,8 +50,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -82,11 +84,15 @@ S
 28
 29
 30
-1
-2
-3
-Tue, Sep. 29
-General Logic & Accuracy Testing
+31
+Thu, Oct. 15
+General Canvassing Day
+Sat, Oct. 24 - Sat, Oct. 31
+General Early Voting
+Mon, Oct. 26
+General Canvassing Day
+Sat, Oct. 31
+Halloween
 View All Events
 /Calendar.aspx
 Contact Us

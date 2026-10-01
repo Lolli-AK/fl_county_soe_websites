@@ -156,7 +156,7 @@ View All News
 /CivicAlerts.aspx
 Follow Us on Facebook
 Calendar
-September 2026
+October 2026
 S
 M
 T
@@ -164,8 +164,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -196,10 +198,15 @@ S
 28
 29
 30
-1
-2
-3
-There are no published events in current month.
+31
+Thu, Oct. 1
+Voter Outreach @ West Citrus Community Center
+Sat, Oct. 3
+Voter Outreach @ Goodwill Thrift Store and Donation Center
+Sat, Oct. 3
+Voter Education @ Women's Democratic Club
+Mon, Oct. 5
+Last Day to Register or Change your Party for General Election
 View All Events
 /Calendar.aspx
 Election Dates

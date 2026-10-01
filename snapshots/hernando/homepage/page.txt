@@ -56,12 +56,12 @@ Press Release - 2026 General Election - Sample Ballot
 Read on...
 Press Release - 2026 General Election
 Read on...
-2026 Primary Election - Post Election Audit
+2026 General Election Canvassing Board Schedule
 Read on...
 View All News
 /CivicAlerts.aspx
 Election Calendar
-September 2026
+October 2026
 S
 M
 T
@@ -69,8 +69,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -101,11 +103,15 @@ S
 28
 29
 30
-1
-2
-3
+31
 Thu, Sep. 24 - Thu, Oct. 1
 Deadline to send Vote-by-Mail ballots to domestic voters - 2026 General Election
+Mon, Oct. 5
+Voter Registration and Party Change Deadline - 2026 General Election
+Thu, Oct. 8
+General Election - Public Logic & Accuracy Test
+Thu, Oct. 15
+General Election - Canvass of Vote-By-Mail Ballots
 View All Events
 /Calendar.aspx
 2026 Elections Information

@@ -114,9 +114,6 @@ Meet Your Supervisor
 Government Links
 Contact Us
 Search Website
-Election Results
-2026 Primary Election (08/18/2026)
-View Official Results
 Check Voter Status
 Register to Vote
 Update My Info
@@ -125,15 +122,16 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 09/29/2026
+Voter Totals as of: 10/01/2026
 Democrats
 3,827
 Republicans
-4,785
+4,782
 Other
-1,407
+1,408
 Total
-10,019
+10,017
+Voter Turnout
 Upcoming Elections
 Nov 3, 2026
 General Election
@@ -145,8 +143,6 @@ extended hours during elections
 Toll Free
 +1 (866) 308-6739
 Dates to Remember
-Sep 24, 2026
-Mail Ballot ‘Send’ Deadline (40-day deadline before election) for domestic voters for the General Election.
 Oct 5, 2026
 Book Closing Date for the General Election.
 Oct 19, 2026 8:00am
@@ -169,7 +165,7 @@ Read Full Announcement
 View all News & Announcements
 Latest News
 Jefferson County Supervisor of Elections - Michelle Milligan
-posted 3 days ago
+posted 5 days ago
 📬 **CHECK YOUR MAILBOX!**
 The initial mailing of **Vote-by-Mail ballots for the 2026 General Election** went out on **September 24!** 🇺🇸🗳️
 If you’ve already requested a Vote-by-Mail ballot, **be on the lookout — it should be arriving soon!**

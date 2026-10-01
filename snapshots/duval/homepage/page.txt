@@ -51,7 +51,7 @@ Polling Place Changes
 View All News
 /CivicAlerts.aspx
 Calendar
-September 2026
+October 2026
 Sun
 Mon
 Tue
@@ -59,8 +59,10 @@ Wed
 Thu
 Fri
 Sat
+27
+28
+29
 30
-31
 1
 2
 3
@@ -91,12 +93,22 @@ Sat
 28
 29
 30
-1
-2
-3
-Wed, Sep. 30
-Election Center Tour for NextUp Jax (Jax Chamber's Young Professionals)
-Election Center Tour for NextUp Jax (Jax Chamber's Young Professionals)
+31
+Thu, Oct. 1
+Public Logic and Accuracy Test
+Public Logic and Accuracy Test
+Read on...
+Mon, Oct. 5
+Speaking Engagement for Boys & Girls Club (Citi Teen Center)
+Speaking Engagement for Boys & Girls Club (Citi Teen Center)
+Read on...
+Tue, Oct. 6
+General Early Voting Poll Watchers Submission Deadline
+General Early Voting Poll Watchers Submission Deadline
+Read on...
+Thu, Oct. 15
+Naturalization
+Naturalization
 Read on...
 /Calendar.aspx
 Contact Us

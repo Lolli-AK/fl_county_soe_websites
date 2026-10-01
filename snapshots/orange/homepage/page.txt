@@ -66,7 +66,7 @@ Know Your Rights
 Learn about your rights as a voter and how to protect them.
 Upcoming Elections
 Election Center
-Your One-Stop Shop for the 2026 Primary Election
+Your One-Stop Shop for the 2026 General Election
 Election Calendar
 View key election dates and deadlines in one place.
 What’s On My Ballot?
@@ -141,13 +141,6 @@ Election Calendar
 Stay in the know.
 Here you’ll find all of the important dates for upcoming elections in Orange County, including registration deadlines, early voting windows, public meeting schedules, and more.
 Upcoming Events
-Sep
-28
-September 28 @ 10:00 am
-–
-September 30 @ 12:00 pm
-Signature Observation (General Election)
-Read More
 Oct
 5
 October 5 @ 10:00 am
@@ -169,78 +162,85 @@ October 12 @ 10:00 am
 October 14 @ 12:00 pm
 Signature Observation (General Election)
 Read More
+Oct
+16
+8:00 am
+–
+9:00 am
+Public Viewing (General Election)
+Read More
 View Calendar
 VOTER STATISTICS
 Registered Active Voters
-as of 09/28/2026
+as of 09/30/2026
 Switch to details
 Switch to summary
 Party
 Count
 Percentage
 Dem.
-318,008
-38.96%
+318,374
+38.97%
 Rep.
-227,470
-27.87%
+227,582
+27.85%
 Other
-32,707
+32,770
 4.01%
 NPA
-238,093
+238,301
 29.17%
 Total
-816,278
+817,027
 100%
 Party Name
 Count
 Florida Democratic Party
-318,008
+318,374
 NO PARTY AFFILIATION
-238,093
+238,301
 Republican Party Of Florida
-227,470
+227,582
 Independent Party of Florida
-18,377
+18,390
 Boricua Party
-3,036
+3,056
 Conservative Party of Florida
-2,456
+2,458
 America First Party of Florida
-2,415
+2,429
 Libertarian Party of Florida
-2,099
+2,100
 Constitution Party of Florida
-1,087
+1,088
 Coalition With A Purpose Party
-911
+915
 American Solidarity Party of Florida
-763
+764
 Green Party of Florida
-716
+715
 Ecology Party of Florida
-345
+347
 Party for Socialism and Liberation – Florida
-235
+238
 Florida Forward Party
-228
+230
 We the People Florida
-28
+29
 MGTOW Party
 6
 Jeffersonian Party of Florida
 5
 Total
-816,278
+817,027
 Vote By Mail Standing Request Totals
-as of 09/28/2026
+as of 09/30/2026
 Election Name
 Count
 2026 General Election
-107,347
+108,670
 Permanent VBM requests 2025-2026
-103,154
+104,118
 BY THE NUMBERS
 Get a quick snapshot of elections in Orange County. We highlight key statistics that capture the scale, accuracy, and impact of our election operations.
 8

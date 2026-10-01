@@ -156,15 +156,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 09/29/2026
+Voter Totals as of: 10/01/2026
 Democrats
-3,853
+3,855
 Republicans
-5,308
+5,310
 Other
 1,349
 Total
-10,510
+10,514
 Upcoming Elections
 Nov 3, 2026 7:00am
 General Election
@@ -176,8 +176,6 @@ extended hours during elections
 Toll Free:
 +1 (866) 308-6739
 Dates to Remember
-September 24, 2026
-Mail Ballot ‘Send’ Deadline (40-day deadline before election) for domestic voters for the General Election.
 October 5, 2026
 Book Closing Date for the General Election.
 October 24, 2026

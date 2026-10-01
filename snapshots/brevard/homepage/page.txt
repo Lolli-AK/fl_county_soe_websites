@@ -121,19 +121,21 @@ Welcome to the Brevard County
 Supervisor of Elections
 Tim Bobanic
 Active Registered Voters as of:
-09/29/2026
+10/01/2026
 Republican
-207,548
+207,677
 Democratic
-112,095
+112,216
 Non-Partisan
-106,823
+106,877
 Others
-19,117
+19,162
 Total
-445,583
+445,932
 2026 General Election Sample Ballots
 View Your 2026 General Election Sample Ballot
+Secure Ballot Intake Station Locations & Hours
+View Locations and Hours
 Track Your Mail Ballot
 Check Your Mail Ballot Status
 2026 General Election Unofficial Turnout
@@ -170,10 +172,10 @@ September 30, 2026
 All day
 Mass mail of Domestic Mail Ballots - 2026 General Election
 Read More
-September 30, 2026
-11:00 AM -
-1:00 PM
-Voter Registration Drive - Buena Vida Estates
+October 1, 2026
+2:00 PM -
+4:00 PM
+Voter Registration Drive - Rockledge Health and Rehab
 Read More
 October 2, 2026
 9:00 AM -

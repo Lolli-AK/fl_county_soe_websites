@@ -204,15 +204,15 @@ Everything you need to vote in Seminole County, from registration requirements t
 Active Registered Voters
 Updated: 09/01
 Democrat:
-107,609
+108,241
 Republican:
-121,619
+121,972
 NPA:
-98,232
+98,382
 Other:
-13,690
+13,857
 Total:
-341,150
+342,452
 Your Vote.
 Your Voice.
 Your County.

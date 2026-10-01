@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-29T14:27:02Z",
-  "html_sha256": "3c5f120a80c480cdc3e755404aecfe9c14af62ec70889ef67eeb18c8b8f8701e",
+  "fetched_at": "2026-10-01T14:54:55Z",
+  "html_sha256": "2acf96243b0bb022d696f383c6d0ec4c342fe4db33e54ce331d33997c747b15d",
   "text_sha256": "70618d144c6394dc7097b736007a411e435295a27f6834cc9384cec2c9eade1f",
-  "byte_size": 34580,
+  "byte_size": 34722,
   "title": "Voter Information",
   "noncitizen_voting": {
     "present": false,

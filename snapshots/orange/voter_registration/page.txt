@@ -66,7 +66,7 @@ Know Your Rights
 Learn about your rights as a voter and how to protect them.
 Upcoming Elections
 Election Center
-Your One-Stop Shop for the 2026 Primary Election
+Your One-Stop Shop for the 2026 General Election
 Election Calendar
 View key election dates and deadlines in one place.
 What’s On My Ballot?
@@ -193,9 +193,19 @@ If all candidates for an office share the same party and the winner will be elec
 may vote in that race. This is called a universal primary.
 In general elections, all voters may vote for any candidate on the ballot.
 Removing Yourself from the Voter Rolls
-If you need to cancel your Florida voter registration, download and submit the
+If you need to cancel your Florida voter registration, please download, sign, and submit the
 Voter Registration Cancellation Form (English/Spanish)
-.
+. Once our office receives your completed form, we will promptly remove your name from the Florida Voter Registration System. You can return your signed form to our office using any of the following convenient methods:
+By Email
+–
+voter@voteorangefl.gov
+By Mail
+– PO Box 562001 Orlando FL 32856-2001
+In Person
+–
+119 W Kaley St. Orlando FL 32806
+By Fax
+– 407-254-6598
 If you are moving within Florida, you do not need to cancel your registration, just update your address online or through your new county’s elections office.
 List Maintenance (Keeping Voter Records Up to Date)
 Florida law requires all Supervisors of Elections to regularly update voter registration records. These updates help keep the voter rolls accurate. By law, our office can:

@@ -17,6 +17,7 @@ Elections Integrity
 FAQs
 Election Information
 Scheduled Elections
+2026 General Unofficial Voter Turnout
 Petitions
 Voting Assistance
 Voting System
@@ -65,6 +66,7 @@ Elections Integrity
 FAQs
 Election Information
 Scheduled Elections
+2026 General Unofficial Voter Turnout
 Petitions
 Voting Assistance
 Voting System
@@ -113,6 +115,7 @@ Elections Integrity
 FAQs
 Election Information
 Scheduled Elections
+2026 General Unofficial Voter Turnout
 Petitions
 Voting Assistance
 Voting System
@@ -152,11 +155,11 @@ FL Association of SOE
 FL Commission on Ethics
 Santa Rosa County
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 09/29/2026:
-Dem: 20,881
-Rep: 91,945
-Oth: 30,965
-Total: 143,791
+Active Registered Voters as of 10/01/2026:
+Dem: 20,890
+Rep: 91,975
+Oth: 30,977
+Total: 143,842
 Register to Vote/Update Voter Information
 My Status/Sample Ballots
 Vote By Mail
@@ -173,11 +176,12 @@ Notice of General Election
 2026 General Election Book Closing
 Canvassing Board Calendar
 General Election Sample Ballot
+General Election Unofficial Voter Turnout
 EVENTS
 «
 »
 MONTH OF
-SEPTEMBER
+OCTOBER
 2026
 Sunday
 Monday
@@ -191,11 +195,14 @@ Saturday
 3
 4
 5
+1
 6
 7
 8
 9
 10
+General Election Book Closing
+10/5/2026 - 10/5/2026
 11
 12
 13
@@ -205,22 +212,115 @@ Saturday
 17
 18
 19
+1
 20
+1
 21
+1
 22
+1
 23
+1
 24
+1
+General Election Early Voting
+10/19/2026 - 10/31/2026
+8:00am - 6:00pm
+General Election Early Voting
+10/19/2026 - 10/31/2026
+8:00am - 6:00pm
+General Election Early Voting
+10/19/2026 - 10/31/2026
+8:00am - 6:00pm
+General Election Early Voting
+10/19/2026 - 10/31/2026
+8:00am - 6:00pm
+General Election Early Voting
+10/19/2026 - 10/31/2026
+8:00am - 6:00pm
+General Election Early Voting
+10/19/2026 - 10/31/2026
+8:00am - 6:00pm
 25
+1
 26
+1
 27
+1
 28
+1
 29
+1
 30
+1
+31
+1
+General Election Early Voting
+10/19/2026 - 10/31/2026
+8:00am - 6:00pm
+General Election Early Voting
+10/19/2026 - 10/31/2026
+8:00am - 6:00pm
+General Election Early Voting
+10/19/2026 - 10/31/2026
+8:00am - 6:00pm
+General Election Early Voting
+10/19/2026 - 10/31/2026
+8:00am - 6:00pm
+General Election Early Voting
+10/19/2026 - 10/31/2026
+8:00am - 6:00pm
+General Election Early Voting
+10/19/2026 - 10/31/2026
+8:00am - 6:00pm
+General Election Early Voting
+10/19/2026 - 10/31/2026
+8:00am - 6:00pm
 «
 »
-September
+October
 2026
-Sorry, no events this month!
+October 5, 2026
+General Election Book Closing
+October 19, 2026
+General Election Early Voting
+8:00am - 6:00pm
+October 20, 2026
+General Election Early Voting
+8:00am - 6:00pm
+October 21, 2026
+General Election Early Voting
+8:00am - 6:00pm
+October 22, 2026
+General Election Early Voting
+8:00am - 6:00pm
+October 23, 2026
+General Election Early Voting
+8:00am - 6:00pm
+October 24, 2026
+General Election Early Voting
+8:00am - 6:00pm
+October 25, 2026
+General Election Early Voting
+8:00am - 6:00pm
+October 26, 2026
+General Election Early Voting
+8:00am - 6:00pm
+October 27, 2026
+General Election Early Voting
+8:00am - 6:00pm
+October 28, 2026
+General Election Early Voting
+8:00am - 6:00pm
+October 29, 2026
+General Election Early Voting
+8:00am - 6:00pm
+October 30, 2026
+General Election Early Voting
+8:00am - 6:00pm
+October 31, 2026
+General Election Early Voting
+8:00am - 6:00pm
 View All
 The Santa Rosa County Supervisor of Elections is committed to ensuring accessibility of its website to individuals with disabilities. To report an ADA accessibility issue, request accessibility assistance regarding our website content, or to request a specific electronic format, please contact (850) 983-1900,  Federal Information Relay Service at 1-800-877-8339 for TTY/Voice communication. or email
 villane@santarosa.fl.gov

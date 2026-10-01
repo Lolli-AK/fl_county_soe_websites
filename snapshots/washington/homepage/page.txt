@@ -96,7 +96,7 @@ Election Night Results
 Click Here
 2026 Election Night Results
 Active Registered Voters
-As of 09/29/2026
+As of 10/01/2026
 Democrats
 0
 Republicans
@@ -121,8 +121,8 @@ Last day to Register to Vote or make Party Changes for the General Election
 Monday, October 5, 2026, is the last day to Register to Vote or make Party Changes for the General Election
 2026-10-05
 Logic and Accuracy Testing for General Election
-Logic and Accuracy Testing for General Election on Tuesday, October 6, 2026, at 10 am.
-2026-10-06
+Logic and Accuracy Testing for the General Election has been rescheduled for October 13, 2026, at 10:00 am.
+2026-10-13
 Last day to request Vote-by-Mail (Absentee Ballot) to be mailed for the General Election
 Thursday, October 22, 2026, is the last day to Request Vote-by-Mail (Absentee Ballot) to be mailed for the General Election
 2026-10-22
