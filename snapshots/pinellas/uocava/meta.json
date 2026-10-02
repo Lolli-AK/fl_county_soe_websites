@@ -1,0 +1,34 @@
+{
+  "county": "Pinellas",
+  "page_type": "uocava",
+  "requested_url": "https://www.votepinellas.gov/191/Military-Overseas-Voters",
+  "final_url": "https://www.votepinellas.gov/191/Military-Overseas-Voters",
+  "redirect_chain": [
+    "https://www.votepinellas.gov/191/Military-Overseas-Voters"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "c6cf856b2ca952ff6f7158673a156c1833133d439284ce7493b3b0e6235f2d85",
+  "text_sha256": "461ea2a588e9a4557c238dc80f4beda984da83bb4734f19db24dac368fd1d370",
+  "byte_size": 63147,
+  "title": "Military & Overseas Voters | Pinellas County Election, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 35
+  },
+  "error": null
+}

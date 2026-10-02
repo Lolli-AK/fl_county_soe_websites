@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
-  "html_sha256": "6fe60209982b6dd0c1c0a93112a631f4b5ea7c9c34cd7a07ea41591fc6f78cc8",
-  "text_sha256": "778642f81d449d0c4855faf83b2774db7db6a53fe5c36e557158f1dd5704e3c0",
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "097a408d6e79a9907b788eef70b80f6142c6092172f42e452b785999ad672bda",
+  "text_sha256": "6d5a3ca3ee4e220d260a7a43da76655651dde624df1658fe0c2229cefcbe56f1",
   "byte_size": 92879,
   "title": "Gulf County Supervisor of Elections | Rhonda Pierce",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

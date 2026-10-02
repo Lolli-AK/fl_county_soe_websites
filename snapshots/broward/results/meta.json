@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
-  "html_sha256": "67ba6660b411746fce8f09ebfe66130290cc321ffba34376eb1a4ce0d43f8095",
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "49fd594404be9d12c0df54dad1d26030aa5ddb9a5d04d507d4af74f1f670fce1",
   "text_sha256": "028a99b80afce0735bf8759a8c960fc649b01260955ce910bed7373fb7d11cac",
-  "byte_size": 83214,
+  "byte_size": 83217,
   "title": "Election Results Information | Broward County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
   "error": null
 }

@@ -165,13 +165,13 @@ Request a Mail Ballot
 Get Started
 Mary Jane Arrington
 Learn More
-83,689
+83,769
 Democrats
-71,420
+71,497
 Republicans
-81,536
+81,626
 Other Parties
-236,645
+236,892
 Total Registered
 Active Registered Voters
 Active Registered Voters as of 10/5/25
@@ -201,4 +201,3 @@ TDD: 1-800-955-8771
 E: soe@voteosceola.gov
 Copyright Ⓒ Osceola County Supervisor of Elections. All Rights reserved.
 Website by Vast
-Notifications

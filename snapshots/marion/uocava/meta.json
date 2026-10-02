@@ -1,0 +1,35 @@
+{
+  "county": "Marion",
+  "page_type": "uocava",
+  "requested_url": "https://www.votemarion.gov/318/Military-Overseas",
+  "final_url": "https://www.votemarion.gov/318/Military-Overseas",
+  "redirect_chain": [
+    "https://www.votemarion.gov/318/Military-Overseas"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "68ad0492ab1ed766c2be05d0c5df36bcd79b3d9019225694f96b32a3f5e15502",
+  "text_sha256": "717263a58bd06a6ccabb5f16b56fad6dc03337c30684e01b80e348b1d5bbf56d",
+  "byte_size": 57917,
+  "title": "Military / Overseas | Marion County Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 38
+  },
+  "error": null
+}

@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
-  "html_sha256": "5169f9ec182289401a22dab6b86ea2113c019f1ffd3cd582c8ab368404e76483",
-  "text_sha256": "73f06a30965bb223cd9dba13d4dd8fb4128a9f2cf0777cb1a43882ccba16fe23",
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "de58af4f1f885b8845a809c93e9b26ac1c349c3cd4c6d51fc70e7fc87715e880",
+  "text_sha256": "b134d93a0e8a1ee049b2311d3195c5858f214024e80863d64c869379572daa5b",
   "byte_size": 93252,
   "title": "Student Services – Okeechobee County, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 4
   },
   "error": null
 }

@@ -1,0 +1,34 @@
+{
+  "county": "Bay",
+  "page_type": "uocava",
+  "requested_url": "https://www.bayvotesfl.gov/voters/military-overseas/",
+  "final_url": "https://www.bayvotesfl.gov/voters/military-overseas/",
+  "redirect_chain": [
+    "https://www.bayvotesfl.gov/voters/military-overseas/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "1f966fbda44cf55d90eeb4cb5150c88ee5acc7ade9564847791af5d977d678c1",
+  "text_sha256": "ae97ab0f01d301116b0c22cfd3eb0d24007e4204339e84eed8c33ec2b3ed579e",
+  "byte_size": 60715,
+  "title": "Military & Overseas Voters | Bay County Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 29
+  },
+  "error": null
+}

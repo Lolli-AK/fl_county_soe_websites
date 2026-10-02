@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
-  "html_sha256": "7953ed06fa15813b26e2cd51a209f2ca819f3d7af03698518c8320d384f2163c",
-  "text_sha256": "e276e16e0983b1c8fa93fb0c2db78130c5e178f290ec160f675bddb3a93cb129",
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "61b24fcf5de2a520939e8192237eb7abb617ac4615c11d72e36fe2d0dd95bbb6",
+  "text_sha256": "c6e7b2f64dcba438a94dd90c6666379e9123c489dcca0b42e605af3056113178",
   "byte_size": 133454,
   "title": "Home",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 5
   },
   "error": null
 }

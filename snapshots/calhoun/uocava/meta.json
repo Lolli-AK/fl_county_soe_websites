@@ -1,0 +1,32 @@
+{
+  "county": "Calhoun",
+  "page_type": "uocava",
+  "requested_url": "https://votecalhounfl.gov/military-overseas/",
+  "final_url": "https://votecalhounfl.gov/military-overseas/",
+  "redirect_chain": [
+    "https://votecalhounfl.gov/military-overseas/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "d0f013f220c2bd258afa07351750d1e6500dd8c19653cace5d0db340c8be2251",
+  "text_sha256": "e23bb078da6913c50630b7fba2c290911c70422aea2945c88f64da08af5f79ba",
+  "byte_size": 178111,
+  "title": "Military & Overseas – Calhoun County – Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 18
+  },
+  "error": null
+}

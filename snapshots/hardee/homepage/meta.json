@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
-  "html_sha256": "47582581c4762abd284f9424c9baf14e8b5655640952733b54e87190ed4245cc",
-  "text_sha256": "7676a9da6ea4e26003beb2877449d1f7f9fe58607c77c8a5cedcfa13e6ac09c2",
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "67d9d89917a8a058e1b12dfd2de0a85bca663fc7ac0ca0f15228af18e568e25f",
+  "text_sha256": "4a86149e0a47959ec7c74e544eae27003fd7b96a40b99e1b3ba7ce509aa6eaa1",
   "byte_size": 108678,
   "title": "Hardee, FL Elections Website – Hardee, FL Elections Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

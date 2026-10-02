@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
-  "html_sha256": "9689a2830996c63ff65ba149d80942b304e1d51dba0842e61aad41519401aed9",
-  "text_sha256": "0c8c726e49f0caffba3641c21b812af7aeaf20b34566538522858b36f353ae92",
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "398c70e07d5c6cc147c63834a0950f77aab678c5623dfccffbc146f290d55284",
+  "text_sha256": "b980a556ecf5c8a1eb0cf90ca6fb16a837f3ac770d981c9f5f1fdf67d282c874",
   "byte_size": 80121,
   "title": "Early Voting – Okeechobee County, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 3
   },
   "error": null
 }

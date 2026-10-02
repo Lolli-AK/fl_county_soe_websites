@@ -10,8 +10,8 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
-  "html_sha256": "f9ef9514ceb77b1da9b1ba71c94a7e6d6c2cffc6d85b3479365c6254775ce548",
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "cceeaf6077f2aee984552c7d29512dd09199452f5a6ef2460283a014290f6000",
   "text_sha256": "f7630ab5a621033282658349a3ce34429341ebf06aa38921ed8f678c15014bfa",
   "byte_size": 97089,
   "title": "Early Voting Locations - Vote Manatee",
@@ -19,6 +19,13 @@
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "fvap"
+    ],
+    "count": 2
   },
   "error": null
 }

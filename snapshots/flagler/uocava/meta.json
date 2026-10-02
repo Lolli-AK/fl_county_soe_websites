@@ -1,0 +1,35 @@
+{
+  "county": "Flagler",
+  "page_type": "uocava",
+  "requested_url": "https://www.flaglerelections.gov/Elections/Military-Overseas-Voting",
+  "final_url": "https://www.flaglerelections.gov/Elections/Military-Overseas-Voting",
+  "redirect_chain": [
+    "https://www.flaglerelections.gov/Elections/Military-Overseas-Voting"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "8164da9e5cb81ecab2c2c55bce3f1a4e4eb02b3531579bc7533889dcafd2395c",
+  "text_sha256": "c16e38b9ba1d826cef651da2eab1c706ee04b1327ba39f0b394f448247eae04b",
+  "byte_size": 61804,
+  "title": "Military Overseas Voting | Flagler County Elections Office",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 44
+  },
+  "error": null
+}

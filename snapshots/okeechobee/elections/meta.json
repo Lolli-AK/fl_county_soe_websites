@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
-  "html_sha256": "ac0d0412abdb58b9f026f9b4962dbb8a2ce1ded3015525c917a0ac32f45edc17",
-  "text_sha256": "7718a16980a6b29157cac9d8dd5ee53fe7e6dc6d1d5a952f8855e2f7b077db45",
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "9806b9e2383de220b3209e577565b79fa5389a71780c129a09e4d6f2fd13bfff",
+  "text_sha256": "d9c0ea5780ec103dffb8779b17ba3373b683dc64e2ee56a7f80912b46d9d5bbf",
   "byte_size": 83763,
   "title": "Election Information – Okeechobee County, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 3
   },
   "error": null
 }

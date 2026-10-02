@@ -345,7 +345,7 @@ View All Elections
 Notices:
 Polling Place and Precinct Change Notice
 Learn More
-Notice of Potential Ineligibility – 9/9/2026
+Notice of Potential Ineligibility – 10/1/2026
 Learn More
 Previous
 Page
@@ -354,6 +354,8 @@ Page
 2
 Page
 3
+Page
+4
 Next
 View All Notices
 Active Registered Voters:

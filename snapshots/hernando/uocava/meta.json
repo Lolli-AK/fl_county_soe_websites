@@ -1,0 +1,35 @@
+{
+  "county": "Hernando",
+  "page_type": "uocava",
+  "requested_url": "https://www.hernandovotes.gov/1232/Military-Overseas-Voters",
+  "final_url": "https://www.hernandovotes.gov/1232/Military-Overseas-Voters",
+  "redirect_chain": [
+    "https://www.hernandovotes.gov/1232/Military-Overseas-Voters"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "68528fb0dc4362d641984f912c0cea529969380ab21060cfac3e3523927fb71e",
+  "text_sha256": "a25fbbe0e738d89689d80ebab5db6fa2fbb58f46140a98aee7e482abaaf008d2",
+  "byte_size": 51371,
+  "title": "Military & Overseas Voters | Hernando County SOE, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 33
+  },
+  "error": null
+}

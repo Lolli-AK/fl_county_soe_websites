@@ -1,0 +1,35 @@
+{
+  "county": "Monroe",
+  "page_type": "uocava",
+  "requested_url": "https://www.votemonroeflkeys.gov/Voter-Information/Military-Overseas-Voters",
+  "final_url": "https://www.votemonroeflkeys.gov/Voter-Information/Military-Overseas-Voters",
+  "redirect_chain": [
+    "https://www.votemonroeflkeys.gov/Voter-Information/Military-Overseas-Voters"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "d8277f124d4cbdef6fafab08163ba5279fd1837f59dfa654b69557b398155da7",
+  "text_sha256": "93dc63c273cf006b920b27d725a369fd283453c2a677aa256a2cad9105aebab2",
+  "byte_size": 128144,
+  "title": "Monroe County FL Supervisor of Elections > Voter Information > Military & Overseas Voters",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 42
+  },
+  "error": null
+}

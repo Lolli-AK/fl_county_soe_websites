@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
-  "html_sha256": "1ae9a34db112112ab6a08851303efb6254fd623fe1d3b63be37f3ce3ba756454",
-  "text_sha256": "1f6a3c9ccc1e12a8559a9a08bcc36b26dd27b3a2a2bf9ff0743d928afd9967d7",
-  "byte_size": 93918,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "1d80222789367bdd10649908790783d05424531f5d0cee00a25b33a1b912195a",
+  "text_sha256": "5c58bd68bcfd0fa671802a48e40b16564fb5486fc9bd1ac9deab8b3f89f7a347",
+  "byte_size": 93942,
   "title": "Supervisor of Elections | Taylor County, Florida",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
   "error": null
 }

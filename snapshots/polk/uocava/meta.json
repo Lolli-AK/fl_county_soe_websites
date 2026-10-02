@@ -1,0 +1,35 @@
+{
+  "county": "Polk",
+  "page_type": "uocava",
+  "requested_url": "https://www.polkelections.gov/236/Military-Overseas-Voting",
+  "final_url": "https://www.polkelections.gov/236/Military-Overseas-Voting",
+  "redirect_chain": [
+    "https://www.polkelections.gov/236/Military-Overseas-Voting"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "cc05629e99b0843b78ca63d8671efb27fc10d9abb3861a392cb6730f388c22f6",
+  "text_sha256": "4aaceef59fe35d99ecc2e5fd01968eca0271a3e0d51297653ccc62ae214c672d",
+  "byte_size": 48147,
+  "title": "Military & Overseas Voting | Polk County SOE, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 44
+  },
+  "error": null
+}

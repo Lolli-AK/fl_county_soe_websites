@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
-  "html_sha256": "47c4be11ff25d99901a70781a472ca932ba3f182dc052906b157ef71eb06c093",
-  "text_sha256": "36d84c351eae3a51e60a8d5caf0307a11ce3ca10d9a6b9bb2a111bc342f77d4e",
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "972035ee098029e2b0da19b4f8efa7315c9fff06e4eff0fe206bb7137b40fc0f",
+  "text_sha256": "a1293ab522afc7bdd11412468d9e9d5f5ceb8d0aeb0f62bd6cc711c3b9309306",
   "byte_size": 119424,
   "title": "Lafayette County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava"
+    ],
+    "count": 1
   },
   "error": null
 }

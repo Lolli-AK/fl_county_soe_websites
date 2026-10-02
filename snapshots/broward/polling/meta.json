@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
-  "html_sha256": "4589768bfd60256fcd95b9f8336b85b2e2e1dec70ad58c91dc988affb6273495",
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "79b450bd345fafe1e66f067831c5601b8491f9722c699795d3ab83f7de892828",
   "text_sha256": "1583d2003e69ee2918225da87a0d9939719653e9adefb1c9366329eeb8ee8b02",
-  "byte_size": 76257,
+  "byte_size": 76352,
   "title": "Precinct Finder",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
   "error": null
 }

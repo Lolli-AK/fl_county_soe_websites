@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
+  "fetched_at": "2026-10-02T14:17:49Z",
   "html_sha256": "93f7ca317f0316c6715a429676c98276eaa747b82d61999661bcbfd50f19f33f",
   "text_sha256": "3387ffbb7078137b75573b047d6778a60ccd2e0237151d0bce9c910d646253c3",
   "byte_size": 142068,
   "title": "Registration Form Locations | Polk County SOE, FL",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

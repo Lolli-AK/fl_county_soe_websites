@@ -1,0 +1,34 @@
+{
+  "county": "Seminole",
+  "page_type": "uocava",
+  "requested_url": "https://voteseminole.gov/how-to-vote/military-overseas-voters/",
+  "final_url": "https://voteseminole.gov/how-to-vote/military-overseas-voters/",
+  "redirect_chain": [
+    "https://voteseminole.gov/how-to-vote/military-overseas-voters/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "b3933c05c0da1d3744e3532beaa6607f915e15fb4267c033ef85b0dbb720c9c1",
+  "text_sha256": "b0564592007307b2d23ab345784699b3c0634eac26314b51d1d818b3d1b469cc",
+  "byte_size": 69788,
+  "title": "Military / Overseas Voters – voteseminole.gov",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 16
+  },
+  "error": null
+}

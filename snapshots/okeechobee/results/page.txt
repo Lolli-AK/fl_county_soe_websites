@@ -1,11 +1,11 @@
 Election Archives – Okeechobee County, FL
 Skip to content
-Active Registered Voters as of 10/01/2026:
-Dem: 4,310
-Rep: 12,508
+Active Registered Voters as of 10/02/2026:
+Dem: 4,315
+Rep: 12,510
 Oth: 889
-NPA: 3,101
-Total: 20,808
+NPA: 3,099
+Total: 20,813
 Home
 Voter Information
 Update Your Voter Registration Information
@@ -157,6 +157,14 @@ Election Archives
 Select an election year to view and download official results. Graphical election results can be found by selecting an election from the
 Select Election drop-down
 .
+2026 Official Election Results
+General
+November 3, 2026
+Not Yet Available
+Primary
+August 18, 2026
+Precinct Official Results
+Election Summary Official Results
 2024 Official Election Results
 General
 November 5, 2024
@@ -375,11 +383,11 @@ elections@voteokeechobee.gov
 Contact Us Form
 Site powered by
 SOE Software
-Active Registered Voters as of 10/01/2026:
-Dem: 4,310
-Rep: 12,508
+Active Registered Voters as of 10/02/2026:
+Dem: 4,315
+Rep: 12,510
 Oth: 889
-NPA: 3,101
-Total: 20,808
+NPA: 3,099
+Total: 20,813
 ×
 Search

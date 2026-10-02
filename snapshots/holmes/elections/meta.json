@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
+  "fetched_at": "2026-10-02T14:17:49Z",
   "html_sha256": "6b96f3ec3cf4afe4a409e8665bfde46965c9b92d87e462af1d3f29597cf9c36f",
   "text_sha256": "d2bdb27b40c6ce3dd4f2a3d7f6cf9e987f970aa71dd696bf4118b453e321e7d3",
   "byte_size": 99225,
   "title": "Voter Information – Holmes County Supervisor of Elections",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

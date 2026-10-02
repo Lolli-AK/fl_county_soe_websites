@@ -10,7 +10,7 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
+  "fetched_at": "2026-10-02T14:17:49Z",
   "html_sha256": "17ffe64a417624190333b5d07118023d12d3e254528c01301aa6c5df7537d006",
   "text_sha256": "c1a28b402d1c60311e4caaedbc7b4f118fb528732cf344582908079e5a972a62",
   "byte_size": 92642,
@@ -19,6 +19,13 @@
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

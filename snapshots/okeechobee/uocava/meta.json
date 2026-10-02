@@ -1,0 +1,35 @@
+{
+  "county": "Okeechobee",
+  "page_type": "uocava",
+  "requested_url": "https://voteokeechobee.gov/voter-information/military-overseas-citizens/",
+  "final_url": "https://voteokeechobee.gov/voter-information/military-overseas-citizens/",
+  "redirect_chain": [
+    "https://voteokeechobee.gov/voter-information/military-overseas-citizens/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "8b25d4037fa0be43501f198bd507b1c116b61457aaa68ef46f7011217d6d1f90",
+  "text_sha256": "534cb0eff577c177c4d857ec7d7b49aabc48ef1b39004e6ebb20fcc3af59b506",
+  "byte_size": 96312,
+  "title": "Military & Overseas Citizens – Okeechobee County, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 39
+  },
+  "error": null
+}

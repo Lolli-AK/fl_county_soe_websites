@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
+  "fetched_at": "2026-10-02T14:17:49Z",
   "html_sha256": "edbf11c90a76f7dfba983efa8356d9859ed7245a7691f314f4ee356066f837b5",
   "text_sha256": "b96b5458a5c7355cca71045debaa2391df83b4196d6b8b613f3fe94a0da7540f",
   "byte_size": 42281,
   "title": "Bradford County - Supervisor of Elections",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

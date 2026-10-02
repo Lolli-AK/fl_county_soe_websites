@@ -1,0 +1,35 @@
+{
+  "county": "Nassau",
+  "page_type": "uocava",
+  "requested_url": "https://www.votenassaufl.gov/military-overseas-voters",
+  "final_url": "https://www.votenassaufl.gov/military-overseas-voters",
+  "redirect_chain": [
+    "https://www.votenassaufl.gov/military-overseas-voters"
+  ],
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "54381e4966d1ae4020cd4bf81084fa58c57ffbfea96a8e4c0b1a89c313537ea2",
+  "text_sha256": "b4c33b31271e5cba069b0591ebb4fde47d23fef23ba9164c6e78c39aebe3eadd",
+  "byte_size": 97379,
+  "title": "Military Overseas Voters Resources | Nassau County Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 38
+  },
+  "error": null
+}

@@ -172,57 +172,57 @@ Read More
 View Calendar
 VOTER STATISTICS
 Registered Active Voters
-as of 09/30/2026
+as of 10/01/2026
 Switch to details
 Switch to summary
 Party
 Count
 Percentage
 Dem.
-318,374
+318,506
 38.97%
 Rep.
-227,582
+227,637
 27.85%
 Other
-32,770
+32,795
 4.01%
 NPA
-238,301
-29.17%
+238,367
+29.16%
 Total
-817,027
+817,305
 100%
 Party Name
 Count
 Florida Democratic Party
-318,374
+318,506
 NO PARTY AFFILIATION
-238,301
+238,367
 Republican Party Of Florida
-227,582
+227,637
 Independent Party of Florida
-18,390
+18,398
 Boricua Party
-3,056
+3,058
 Conservative Party of Florida
-2,458
+2,456
 America First Party of Florida
-2,429
+2,441
 Libertarian Party of Florida
 2,100
 Constitution Party of Florida
-1,088
+1,087
 Coalition With A Purpose Party
-915
+917
 American Solidarity Party of Florida
-764
+765
 Green Party of Florida
-715
+716
 Ecology Party of Florida
 347
 Party for Socialism and Liberation – Florida
-238
+240
 Florida Forward Party
 230
 We the People Florida
@@ -232,15 +232,15 @@ MGTOW Party
 Jeffersonian Party of Florida
 5
 Total
-817,027
+817,305
 Vote By Mail Standing Request Totals
-as of 09/30/2026
+as of 10/01/2026
 Election Name
 Count
 2026 General Election
-108,670
+109,270
 Permanent VBM requests 2025-2026
-104,118
+104,577
 BY THE NUMBERS
 Get a quick snapshot of elections in Orange County. We highlight key statistics that capture the scale, accuracy, and impact of our election operations.
 8

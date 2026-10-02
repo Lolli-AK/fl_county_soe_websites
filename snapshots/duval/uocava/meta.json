@@ -1,0 +1,33 @@
+{
+  "county": "Duval",
+  "page_type": "uocava",
+  "requested_url": "https://www.duvalelections.gov/212/Request-a-Ballot",
+  "final_url": "https://www.duvalelections.gov/212/Request-a-Ballot",
+  "redirect_chain": [
+    "https://www.duvalelections.gov/212/Request-a-Ballot"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "9382e403bc105deca878f7e6385d8a46b53ec33c39689644634dd0da526cf1b5",
+  "text_sha256": "371b6b031e4cfd5805cd517505c9957638cdf1611fcf08dcc32a94c451846937",
+  "byte_size": 61704,
+  "title": "Request a Ballot  | Duval County Elections, FL Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "military_overseas_voter"
+    ],
+    "count": 39
+  },
+  "error": null
+}

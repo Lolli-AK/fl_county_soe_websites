@@ -112,32 +112,32 @@ Learn More
 Vote-by-Mail Request
 Request your vote by mail ballot for the November 3 Election
 Learn More
-Registered Voters as of September 29, 2026
+Registered Voters as of October 2, 2026
 (Includes Active and Inactive Voters)
 Political Affiliation
 Active
 Inactive
 Total
 Democrats
-106,708
-19,534
-126,242
+106,806
+19,501
+126,307
 Republicans
-174,394
-17,399
-191,793
+174,503
+17,379
+191,882
 No Party Affiliation
-101,846
-24,189
-126,035
+101,887
+24,140
+126,027
 Other
-17,732
-1,693
-19,425
+17,765
+1,686
+19,451
 Totals
-400,680
-62,815
-463,495
+400,961
+62,706
+463,667
 Ready. Set. VOTE
 Vote-by-Mail
 Precinct Locator

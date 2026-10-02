@@ -1,0 +1,35 @@
+{
+  "county": "Broward",
+  "page_type": "uocava",
+  "requested_url": "https://browardvotes.gov/voter-resources/militaryoverseas-voting",
+  "final_url": "https://browardvotes.gov/voter-resources/militaryoverseas-voting",
+  "redirect_chain": [
+    "https://browardvotes.gov/voter-resources/militaryoverseas-voting"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "4420a8d747c82262bfd91661a364da84ece42d233015b563094f7a99a86e1ef3",
+  "text_sha256": "c8570ed49bfb43bb442dae275d31d863812fb1822caf31d5aa79f8cd7603b823",
+  "byte_size": 83158,
+  "title": "Military and Overseas Citizens Voting | Broward County Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 40
+  },
+  "error": null
+}

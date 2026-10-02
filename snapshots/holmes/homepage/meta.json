@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
-  "html_sha256": "0d55267183c41c041a8a668149db36900c306cb25f8315e0eaf0c2bdaada1e78",
-  "text_sha256": "1dd8d80d039f269f7323add774b1ee3d47c71a0194dfe42c74041e76cd0592cf",
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "eea3aceec5e9a6f3116f123d0e9f19749e1716d35b7005622af828b0437ab0ae",
+  "text_sha256": "b37a83c144cd229773e65c498936d09538d8d71b4d615e0a4a81cd6a9802c35c",
   "byte_size": 116527,
   "title": "Holmes County Supervisor of Elections – H. Russell 'Rusty' Williams",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

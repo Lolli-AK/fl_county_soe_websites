@@ -1,0 +1,34 @@
+{
+  "county": "Orange",
+  "page_type": "uocava",
+  "requested_url": "https://voteorangefl.gov/military-overseas-voters/",
+  "final_url": "https://voteorangefl.gov/military-overseas-voters/",
+  "redirect_chain": [
+    "https://voteorangefl.gov/military-overseas-voters/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "ca1d65fbb4e8daab88ea70edcad604383cf6a224e5da3e153883045beb6da9b4",
+  "text_sha256": "1e36da638bd84c731da2735949e7d036b0f5521a39453ab311ec75ae67d93214",
+  "byte_size": 94756,
+  "title": "Military & Overseas Voter Registration | Orange County Florida | UOCAVA",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 26
+  },
+  "error": null
+}

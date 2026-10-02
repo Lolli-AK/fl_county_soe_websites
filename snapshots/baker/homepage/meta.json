@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
-  "html_sha256": "4d561b6a8c4c721abb3aa2929d46c338775595087d73f6cf3ed95767ce150ed2",
-  "text_sha256": "feea060db521ee6e2b02c27d9948fbc2bc2a5311684da92bf6b830964743e554",
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "12822ebed8b201c6cf2225baab93a0586cc07b9042406658b87a00e94355af02",
+  "text_sha256": "8d09f4944ef9d78836a8f880bbc37fdb0414ce8ca65357e879c42180f46d668c",
   "byte_size": 23256,
   "title": "Baker County Supervisor of Elections � Civic Template",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

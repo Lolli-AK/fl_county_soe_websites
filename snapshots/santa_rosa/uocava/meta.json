@@ -1,0 +1,35 @@
+{
+  "county": "Santa Rosa",
+  "page_type": "uocava",
+  "requested_url": "https://votesantarosa.gov/voter-information/military-overseas-voters/",
+  "final_url": "https://votesantarosa.gov/voter-information/military-overseas-voters/",
+  "redirect_chain": [
+    "https://votesantarosa.gov/voter-information/military-overseas-voters/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "1c05666ec40a63941f793ce053f457c163dd9c09f60005f71f0d09dac19f1eb5",
+  "text_sha256": "3d94e2dfe1f4f2a9be243f89eb65f8cfe85b8174614babc359079d30f31cd0a2",
+  "byte_size": 88680,
+  "title": "Military & Overseas Voters – Santa Rosa, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 25
+  },
+  "error": null
+}

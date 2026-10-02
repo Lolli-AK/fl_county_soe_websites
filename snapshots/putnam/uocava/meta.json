@@ -1,0 +1,35 @@
+{
+  "county": "Putnam",
+  "page_type": "uocava",
+  "requested_url": "https://www.voteputnamflorida.gov/voter_information/vote_by_mail/military_overseas_voting.php",
+  "final_url": "https://www.voteputnamflorida.gov/voter_information/vote_by_mail/military_overseas_voting.php",
+  "redirect_chain": [
+    "https://www.voteputnamflorida.gov/voter_information/vote_by_mail/military_overseas_voting.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "44f93aed9a7cca5691f2fb522f149aabfe996a204b36eb65046842d59018fe96",
+  "text_sha256": "11c114406f52496c5fb955cc721251cee1c1d04f19b3e866350dd39cbbc1038d",
+  "byte_size": 60221,
+  "title": "Putnam County, Florida - Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 36
+  },
+  "error": null
+}

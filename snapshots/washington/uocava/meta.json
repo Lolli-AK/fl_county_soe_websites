@@ -1,0 +1,34 @@
+{
+  "county": "Washington",
+  "page_type": "uocava",
+  "requested_url": "https://wcsoe.gov/military-overseas-voting/",
+  "final_url": "https://wcsoe.gov/military-overseas-voting/",
+  "redirect_chain": [
+    "https://wcsoe.gov/military-overseas-voting/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "ba0b35de16949bf1871e1f29a66db721cfd334df82f771a99159ba74e1e0c423",
+  "text_sha256": "8d1ae3bc5217feb4ffa5d0d609d98b5d2e05945dc3793fc2e161a0a6c9068ae8",
+  "byte_size": 65926,
+  "title": "Military & Overseas Voting – Washington County (FL) Supervisor of Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 20
+  },
+  "error": null
+}

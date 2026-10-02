@@ -1,0 +1,35 @@
+{
+  "county": "Sarasota",
+  "page_type": "uocava",
+  "requested_url": "https://www.sarasotavotes.gov/167/Military-Overseas-Voters",
+  "final_url": "https://www.sarasotavotes.gov/167/Military-Overseas-Voters",
+  "redirect_chain": [
+    "https://www.sarasotavotes.gov/167/Military-Overseas-Voters"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "ae4c8a7b5e1c1a4ff29c99f19557693fd1a3da613e92adbf56a6090ea38f1eaf",
+  "text_sha256": "95ecb3070a165321bd90c9a568025a1d015b59f294fdbbaa6849be409b721c71",
+  "byte_size": 58546,
+  "title": "Military & Overseas Voters | Sarasota County Supervisor of Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 44
+  },
+  "error": null
+}

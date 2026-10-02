@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-01T14:54:55Z",
+  "fetched_at": "2026-10-02T14:17:49Z",
   "html_sha256": "68bc73f5fb412058d8a9a3568f26086369555e29414a604cf786abe74891d4a6",
   "text_sha256": "5121e653a32dbb9a41cd6063752d8251c285f817ea73d27fcc91be389192d306",
   "byte_size": 73278,
   "title": "Sarasota County Supervisor of Elections, FL | Official Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

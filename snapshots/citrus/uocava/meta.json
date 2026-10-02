@@ -1,0 +1,35 @@
+{
+  "county": "Citrus",
+  "page_type": "uocava",
+  "requested_url": "https://www.votecitrus.gov/215/Uniformed-Overseas-Citizens-Absentee-Vot",
+  "final_url": "https://www.votecitrus.gov/215/Uniformed-Overseas-Citizens-Absentee-Vot",
+  "redirect_chain": [
+    "https://www.votecitrus.gov/215/Uniformed-Overseas-Citizens-Absentee-Vot"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:17:49Z",
+  "html_sha256": "61557bc80369ae03447ba0fb824841dcb6e8baae939693ad3eea32e836f1bf60",
+  "text_sha256": "08b9278ae9610581c7fb46e5dc2d39a8cbb825fc13a7ef8f59f99fb60420f12e",
+  "byte_size": 98139,
+  "title": "Uniformed & Overseas Citizens Absentee Voting Act (UOCAVA) | Citrus County Elections, FL",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 29
+  },
+  "error": null
+}
