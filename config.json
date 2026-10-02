@@ -20,6 +20,8 @@
     "interstitial_max_wait_ms": 45000,
     "workers": 8,
     "request_delay_ms": 250,
-    "request_jitter_ms": 250
+    "request_jitter_ms": 250,
+    "headless_hard_timeout_seconds": 180,
+    "run_deadline_minutes": 35
   }
 }

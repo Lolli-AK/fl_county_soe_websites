@@ -39,7 +39,9 @@ import csv
 import hashlib
 import json
 import logging
+import os
 import random
+import signal
 import subprocess
 import sys
 import threading
@@ -75,6 +77,8 @@ def _load_config() -> dict:
         "workers": 8,
         "request_delay_ms": 250,
         "request_jitter_ms": 250,
+        "headless_hard_timeout_seconds": 180,
+        "run_deadline_minutes": 35,
     }
     try:
         cfg = json.loads(CONFIG_PATH.read_text(encoding="utf-8")).get("fetch", {})
@@ -121,6 +125,16 @@ HEADERS = {
 # about being a standards-normal client, not about evading anything.
 PLAIN_TIMEOUT = float(CONFIG["plain_timeout_seconds"])
 HEADLESS_TIMEOUT_MS = int(CONFIG["headless_timeout_ms"])
+# Wall-clock ceiling on one whole headless render, enforced from outside it.
+# Playwright's own timeouts bound individual calls, but a wedged driver can
+# hang page.content() or browser.close() forever, and because renders are
+# serialized that one hang stalls the run. Under Playwright 1.63 it stalled
+# most Texas daily runs from 2026-09-16 until GitHub cancelled them at 120
+# minutes, discarding everything they had captured.
+HEADLESS_HARD_TIMEOUT = float(CONFIG["headless_hard_timeout_seconds"])
+# Past this, a run stops starting targets, commits what it has, and exits
+# non-zero: a red run that sends mail rather than a silent cancellation.
+RUN_DEADLINE_S = float(CONFIG["run_deadline_minutes"]) * 60
 PLAIN_RETRIES = int(CONFIG["plain_retries"])  # total plain attempts on transient errors
 HYDRATION_SETTLE_MS = int(CONFIG["hydration_settle_ms"])
 # Upper bound on the post-networkidle wait (see _wait_for_dom_quiescence).
@@ -371,6 +385,28 @@ def fetch_headless(url: str) -> dict:
         }
 
 
+def fetch_headless_bounded(url: str) -> dict:
+    """fetch_headless in a child process, killed along with its browser on overrun."""
+    proc = subprocess.Popen(
+        [sys.executable, str(Path(__file__).resolve()), "--render-one", url],
+        stdout=subprocess.PIPE, text=True, start_new_session=True)
+    try:
+        out, _ = proc.communicate(timeout=HEADLESS_HARD_TIMEOUT)
+    except subprocess.TimeoutExpired:
+        os.killpg(proc.pid, signal.SIGKILL)
+        proc.communicate()
+        error = f"headless_hard_timeout: killed after {HEADLESS_HARD_TIMEOUT:.0f}s"
+    else:
+        try:
+            return json.loads(out.strip().splitlines()[-1])
+        except (IndexError, json.JSONDecodeError):
+            error = f"headless_child_failed: exit {proc.returncode}"
+    return {
+        "ok": False, "html": "", "final_url": url, "redirect_chain": [url],
+        "http_status": None, "content_type": None, "error": error,
+    }
+
+
 # --------------------------------------------------------------------------- #
 # Per-target processing
 # --------------------------------------------------------------------------- #
@@ -430,7 +466,7 @@ def process_target(row: dict, fetched_at: str, allow_headless: bool) -> dict:
     if should_escalate:
         log.info("escalating to headless: %s/%s (%s)", county, page_type, url)
         with _HEADLESS_LOCK:
-            h_result = fetch_headless(url)
+            h_result = fetch_headless_bounded(url)
         if h_result["ok"]:
             result = h_result
             render_mode = "headless"
@@ -638,8 +674,14 @@ def main() -> None:
     # is exactly the non-determinism this project spent so long eliminating.
     completed: list[str] = list(done)
     lock = threading.Lock()
+    deadline = time.monotonic() + RUN_DEADLINE_S
+    skipped: list[str] = []
 
     def run_one(row: dict) -> None:
+        if time.monotonic() > deadline:
+            with lock:
+                skipped.append(_target_key(row))
+            return
         try:
             process_target(row, fetched_at, allow_headless=not args.no_headless)
             with lock:
@@ -659,14 +701,26 @@ def main() -> None:
         with cf.ThreadPoolExecutor(max_workers=args.workers) as pool:
             list(pool.map(run_one, targets))
 
+    if skipped:
+        log.error("run deadline of %.0f min reached: %d of %d targets not fetched "
+                  "and keep their previous snapshot", RUN_DEADLINE_S / 60,
+                  len(skipped), len(targets))
+
     if not args.no_commit:
-        git_commit(fetched_at, len(targets))
+        git_commit(fetched_at, len(targets) - len(skipped))
     else:
         log.info("--no-commit: skipping git commit")
 
-    # A clean finish invalidates the checkpoint; a crash leaves it for --resume.
+    # A clean finish invalidates the checkpoint; a crash or a deadline leaves it
+    # for --resume.
+    if skipped:
+        sys.exit(3)
     CHECKPOINT.unlink(missing_ok=True)
 
 
 if __name__ == "__main__":
-    main()
+    if sys.argv[1:2] == ["--render-one"]:
+        # Child side of fetch_headless_bounded: one render, result as JSON on stdout.
+        print(json.dumps(fetch_headless(sys.argv[2])))
+    else:
+        main()

@@ -1,0 +1,59 @@
+name: freshness
+
+# Fails, and so emails, when no snapshot run has captured anything in the last
+# MAX_AGE_HOURS. A run that hits its job timeout ends "cancelled", which GitHub
+# does not report, and the short gated runs every 3 hours keep the run list
+# green, so the snapshot workflow alone can be broken for weeks unnoticed:
+# Texas captured nothing from 2026-09-19 to 2026-10-01.
+#
+# "Captured" means the snapshot step, or the resume step after it, succeeded.
+# Commits are the wrong signal: a zero-diff run commits nothing by design.
+#
+# Scheduled at 22:00 UTC because GitHub starts the 08:00 daily cron hours late
+# (12:00-16:00 is typical), and 30h back from here always reaches the previous
+# day's run. One missed day trips it.
+
+on:
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  actions: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Fail unless every snapshot workflow captured recently
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          WORKFLOWS: snapshot.yml
+          MAX_AGE_HOURS: 30
+        run: |
+          set -euo pipefail
+          since=$(date -u -d "-${MAX_AGE_HOURS} hours" +%Y-%m-%dT%H:%M:%SZ)
+          stale=0
+          for wf in $WORKFLOWS; do
+            last=""
+            for id in $(gh api -X GET "repos/$REPO/actions/workflows/$wf/runs" \
+                           -f created=">=$since" -F per_page=100 --jq '.workflow_runs[].id'); do
+              last=$(gh api "repos/$REPO/actions/runs/$id/jobs" --jq '
+                [.jobs[].steps[]
+                 | select((.name | startswith("Run snapshot") or startswith("Resume once"))
+                          and .conclusion == "success")
+                 | .completed_at] | max // empty')
+              [ -n "$last" ] && break
+            done
+            if [ -n "$last" ]; then
+              echo "$wf: last capture $last"
+              echo "- \`$wf\`: last capture $last" >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "::error::$wf has no successful capture since $since"
+              echo "- \`$wf\`: **no capture in ${MAX_AGE_HOURS}h**" >> "$GITHUB_STEP_SUMMARY"
+              stale=1
+            fi
+          done
+          exit $stale

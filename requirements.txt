@@ -2,7 +2,9 @@
 httpx[http2]>=0.27
 beautifulsoup4>=4.12
 lxml>=5.0
-playwright>=1.44
+# Pinned: 1.63 hangs renders past their own timeouts (Texas daily runs from
+# 2026-09-16). Raise only after a full run completes on the new version.
+playwright==1.62.0
 # brotli: required because we advertise `br` in Accept-Encoding
 brotli>=1.1
 # openpyxl: scripts/export_xlsx.py generates the review workbook from targets.csv

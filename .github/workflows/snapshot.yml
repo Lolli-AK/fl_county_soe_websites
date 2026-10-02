@@ -107,6 +107,9 @@ jobs:
         if: failure() && steps.gate.outputs.go == 'true'
         run: python scripts/snapshot.py --resume
 
+      # Push even after a failed step: a run that hit its deadline has still
+      # committed what it captured. (Without !cancelled() this step was skipped
+      # after any failure, so a successful --resume never reached the remote.)
       - name: Push snapshot commit
-        if: steps.gate.outputs.go == 'true'
+        if: ${{ !cancelled() && steps.gate.outputs.go == 'true' }}
         run: git push
