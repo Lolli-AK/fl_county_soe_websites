@@ -2,8 +2,8 @@
 httpx[http2]>=0.27
 beautifulsoup4>=4.12
 lxml>=5.0
-# Pinned: 1.63 hangs renders past their own timeouts (Texas daily runs from
-# 2026-09-16). Raise only after a full run completes on the new version.
+# Pinned: Texas daily runs began hanging in headless renders when 1.63 arrived
+# (2026-09-16), though 1.62 still hangs on a few sites. Change deliberately.
 playwright==1.62.0
 # brotli: required because we advertise `br` in Accept-Encoding
 brotli>=1.1

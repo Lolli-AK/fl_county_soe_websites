@@ -128,9 +128,9 @@ HEADLESS_TIMEOUT_MS = int(CONFIG["headless_timeout_ms"])
 # Wall-clock ceiling on one whole headless render, enforced from outside it.
 # Playwright's own timeouts bound individual calls, but a wedged driver can
 # hang page.content() or browser.close() forever, and because renders are
-# serialized that one hang stalls the run. Under Playwright 1.63 it stalled
-# most Texas daily runs from 2026-09-16 until GitHub cancelled them at 120
-# minutes, discarding everything they had captured.
+# serialized that one hang stalls the run. It stalled most Texas daily runs
+# from 2026-09-16 until GitHub cancelled them at 120 minutes, discarding
+# everything they had captured.
 HEADLESS_HARD_TIMEOUT = float(CONFIG["headless_hard_timeout_seconds"])
 # Past this, a run stops starting targets, commits what it has, and exits
 # non-zero: a red run that sends mail rather than a silent cancellation.
