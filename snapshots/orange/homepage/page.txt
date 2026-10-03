@@ -120,6 +120,7 @@ Sample Ballots
 Election Mail
 Submit A Public Records Request
 ‹
+The deadline to register to vote for the General Election is Monday, October 5.
 Karen Castor Dentel
 GEneral election
 quick reference
@@ -172,75 +173,75 @@ Read More
 View Calendar
 VOTER STATISTICS
 Registered Active Voters
-as of 10/01/2026
+as of 10/02/2026
 Switch to details
 Switch to summary
 Party
 Count
 Percentage
 Dem.
-318,506
+318,636
 38.97%
 Rep.
-227,637
+227,659
 27.85%
 Other
-32,795
+32,809
 4.01%
 NPA
-238,367
-29.16%
+238,461
+29.17%
 Total
-817,305
+817,565
 100%
 Party Name
 Count
 Florida Democratic Party
-318,506
+318,636
 NO PARTY AFFILIATION
-238,367
+238,461
 Republican Party Of Florida
-227,637
+227,659
 Independent Party of Florida
-18,398
+18,410
 Boricua Party
-3,058
+3,060
 Conservative Party of Florida
-2,456
+2,457
 America First Party of Florida
-2,441
+2,442
 Libertarian Party of Florida
 2,100
 Constitution Party of Florida
-1,087
+1,086
 Coalition With A Purpose Party
-917
+916
 American Solidarity Party of Florida
-765
+764
 Green Party of Florida
-716
+715
 Ecology Party of Florida
 347
 Party for Socialism and Liberation – Florida
 240
 Florida Forward Party
-230
+231
 We the People Florida
-29
+30
 MGTOW Party
 6
 Jeffersonian Party of Florida
 5
 Total
-817,305
+817,565
 Vote By Mail Standing Request Totals
-as of 10/01/2026
+as of 10/02/2026
 Election Name
 Count
 2026 General Election
-109,270
+109,958
 Permanent VBM requests 2025-2026
-104,577
+105,093
 BY THE NUMBERS
 Get a quick snapshot of elections in Orange County. We highlight key statistics that capture the scale, accuracy, and impact of our election operations.
 8

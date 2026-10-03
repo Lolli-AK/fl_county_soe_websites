@@ -14,7 +14,6 @@ Voting Tools & Resources
 Check Voter Status
 Provisional Ballot Information
 Register to Vote
-Update My Address
 Update My Info
 Where to Vote in Person
 Voter Education & Assistance
@@ -81,7 +80,6 @@ Voting Tools & Resources
 Check Voter Status
 Provisional Ballot Information
 Register to Vote
-Update My Address
 Update My Info
 Where to Vote in Person
 Voter Education & Assistance

@@ -82,9 +82,6 @@ FAQs
 Florida Division of Elections
 Contact Us
 Search Website
-Election Results
-2026 Primary Election Results (8/18/2026)
-View Results
 Check Voter Status
 Register to Vote
 Update My Info
@@ -94,15 +91,16 @@ Track My Ballot
 Early Voting
 Voting Locations
 Voter Totals
-as of: 10/02/2026
+as of: 10/03/2026
 Democrats
-5,126
+5,127
 Republicans
-17,348
+17,349
 Other
-4,489
+4,487
 Total
 26,963
+Voter Turnout
 Upcoming Elections
 Nov 3, 2026
 General Election

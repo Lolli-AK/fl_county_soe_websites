@@ -130,17 +130,17 @@ Track My Ballot
 Early Voting
 Voting Locations
 Active Registered Voters
-(10/01/2026)
+(10/02/2026)
 Democrats
 2,237
 Republicans
-7,295
+7,298
 No Party Affiliation
 1,269
 Other
-391
+389
 Total
-11,192
+11,193
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -158,13 +158,9 @@ Early Voting - General Election
 All Upcoming Dates
 Stay Up to Date
 Gulf County Supervisor of Elections
-posted 3 days ago
-The initial Vote By Mail (VBM) requests on file have been processed and mailed. Be sure to check your mail box! If you would like to request a vote by mail, It's not too late! The last day to request a VBM ballot is October 22, 2026.
-You can request your VBM by contacting our office at 850-229-6117 or you can visit our web page at
-votegulf.gov
+posted 11 hours ago
 View Facebook Post
 (opens in a new tab)
-2
 Public Notices
 All Public Notices
 Voter Eligibility Notice

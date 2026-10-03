@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-02T14:17:49Z",
-  "html_sha256": "772456e5c20cf01a0f7e103fdbc0e77132654830cd4ca22a9040d2eba2bf1030",
+  "fetched_at": "2026-10-03T12:50:24Z",
+  "html_sha256": "2e2cfbbf9228c5ac53b683b26cb4f969a64d8e9aaa36bc39aa8998962ec840de",
   "text_sha256": "2aa203cca0fb5dfd3381ec9a78896d4871c612704f32cf76d1b42370c7aab9b7",
-  "byte_size": 157089,
+  "byte_size": 157094,
   "title": "Elections Information | Vicky Oakes | St. Johns",
   "noncitizen_voting": {
     "present": false,

@@ -610,24 +610,7 @@
      </section>
      <div class="bg-[#F2F0EA]">
       <div class="relative lg:-mt-56 pb-12 max-w-[1600px] mx-auto px-4">
-       <div class="mx-8 mb-2 md:mb-6 p-8 md:px-16 xl:px-20 lg:py-12 bg-primary-dark relative z-10">
-        <div class="flex flex-col md:flex-row justify-between items-center gap-4 text-white relative z-10">
-         <div class="text-center md:text-left" tabindex="0">
-          <h2 class="text-3xl md:text-6xl font-heading pb-2 subpixel-antialiased italic">
-           Election Results
-          </h2>
-          <span class="text-white font-extrabold tracking-wide md:text-xl uppercase" role="heading">
-           2026 Primary Election Results (8/18/2026)
-          </span>
-         </div>
-         <div class="flex items-center gap-4">
-          <a class="btn btn-accent-outlined border-accent-yellow bg-white" href="https://enr.electionsfl.org/suw/4050/summary">
-           View Results
-          </a>
-         </div>
-        </div>
-        <div class="bg-cover absolute z-0 inset-0">
-        </div>
+       <div class="h-12 md:h-20">
        </div>
        <div class="relative z-30 border-gray-200 border-4 lg:border-[10px] p-2 sm:p-8 bg-secondary-light xl:mx-8">
         <div class="grid md:grid-cols-2 gap-2 md:gap-4 lg:gap-6 xl:grid-cols-4">
@@ -702,7 +685,7 @@
          <img alt="" class="mx-auto" role="presentation" v-lazy="'/images/yellow-stars.svg'"/>
          <span class="text-gray-700 uppercase leading-tight text-xl md:text-2xl font-heading tracking-wider mt-2 antialiased" tabindex="0">
           Voter Totals
- as of: 10/02/2026
+ as of: 10/03/2026
          </span>
          <span class="block h-3 border-b border-accent-yellow max-w-[140px] mx-auto">
          </span>
@@ -713,7 +696,7 @@
            Democrats
           </span>
           <div class="voter-total">
-           5,126
+           5,127
           </div>
          </div>
          <div tabindex="0">
@@ -721,7 +704,7 @@
            Republicans
           </span>
           <div class="voter-total">
-           17,348
+           17,349
           </div>
          </div>
          <div tabindex="0">
@@ -729,7 +712,7 @@
            Other
           </span>
           <div class="voter-total">
-           4,489
+           4,487
           </div>
          </div>
          <div tabindex="0">
@@ -744,8 +727,16 @@
        </div>
       </div>
      </div>
-     <div class="h-4 bg-primary-dark">
-     </div>
+     <section class="w-full bg-primary-dark px-4 py-8 md:p-8 xl:px-16 xl:py-24 relative z-10 bg-cover" v-lazy:background-image="'/images/voter-turnout-bg.webp'">
+      <h2 class="text-white uppercase leading-tight text-3xl md:text-5xl font-heading tracking-wider text-center" tabindex="0">
+       <img alt="" class="mx-auto mb-2" role="presentation" v-lazy="'/images/yellow-stars.svg'"/>
+       Voter Turnout
+       <span class="block h-4 border-b border-accent-yellow max-w-[140px] mx-auto">
+       </span>
+      </h2>
+      <div class="w-full max-w-7xl mx-auto text-center md:p-8 my-8 h-[650px] lg:h-[670px] border-8 border-primary bg-white lg:p-8 xl:py-12 xl:px-16">
+      </div>
+     </section>
      <section class="bg-white relative pb-6 bg-cover bg-blend-multiply" v-lazy:background-image="'/images/line-texture.svg'">
       <div class="relative z-10 mx-auto p-6 lg:py-12 max-w-[1700px]">
        <div class="w-full grid lg:grid-cols-2 gap-8 xl:gap-12 2xl:gap-20">

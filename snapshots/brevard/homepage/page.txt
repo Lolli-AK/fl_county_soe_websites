@@ -121,17 +121,17 @@ Welcome to the Brevard County
 Supervisor of Elections
 Tim Bobanic
 Active Registered Voters as of:
-10/02/2026
+10/03/2026
 Republican
-207,731
+207,781
 Democratic
-112,237
+112,291
 Non-Partisan
-106,900
+106,941
 Others
-19,182
+19,189
 Total
-446,050
+446,202
 2026 General Election Sample Ballots
 View Your 2026 General Election Sample Ballot
 Secure Ballot Intake Station Locations & Hours
@@ -168,15 +168,6 @@ Facebook
 X
 Brevard County Supervisor of Elections
 Upcoming Events
-September 30, 2026
-All day
-Mass mail of Domestic Mail Ballots - 2026 General Election
-Read More
-October 1, 2026
-2:00 PM -
-4:00 PM
-Voter Registration Drive - Rockledge Health and Rehab
-Read More
 October 2, 2026
 9:00 AM -
 Public Logic & Accuracy Test for 2026 General Election
@@ -189,6 +180,16 @@ Read More
 October 5, 2026
 All day
 Book Closing - 2026 General Election
+Read More
+October 5, 2026
+9:00 AM -
+11:00 AM
+Voter Registration Drive - Brookdale West Melbourne
+Read More
+October 5, 2026
+2:00 PM -
+4:00 PM
+Voter Registration Drive - Hampton Manor of Merritt Island
 Read More
 Brevard County Supervisor of Elections
 Election Public Notices

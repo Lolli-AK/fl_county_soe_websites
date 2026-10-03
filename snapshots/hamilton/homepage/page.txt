@@ -14,7 +14,6 @@ Voting Tools & Resources
 Check Voter Status
 Provisional Ballot Information
 Register to Vote
-Update My Address
 Update My Info
 Where to Vote in Person
 Voter Education & Assistance
@@ -81,7 +80,6 @@ Voting Tools & Resources
 Check Voter Status
 Provisional Ballot Information
 Register to Vote
-Update My Address
 Update My Info
 Where to Vote in Person
 Voter Education & Assistance
@@ -144,15 +142,15 @@ Early Voting
 Sample Ballot
 Candidate Financial Reporting Login
 2026 Filed Candidates
-Voter Totals as of: 10/01/2026
+Voter Totals as of: 10/02/2026
 Democrats
-2,306
+2,310
 Republicans
-3,784
+3,781
 Other
-1,048
+1,051
 Total
-7,138
+7,142
 Upcoming Elections
 Nov 3, 2026 7:00am
 2026 General Election
