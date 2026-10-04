@@ -163,15 +163,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(10/02/2026)
+(10/03/2026)
 Democrats
-23,917
+23,929
 Republicans
-75,327
+75,355
 Other
-29,123
+29,134
 Total
-128,367
+128,418
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -194,7 +194,7 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 1 day ago
+posted 2 days ago
 The Voter Registration Deadline for the 2026 General Election is Monday October 5.
 To register to vote by the deadline,
 ⭐️Stop by the Supervisor of Elections office OR

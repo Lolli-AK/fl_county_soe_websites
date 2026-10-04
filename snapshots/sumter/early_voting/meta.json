@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:50:24Z",
-  "html_sha256": "ddfdb8bb535f4169520268066adb85a8e7d6b51e286684c16568ce12329a5ad8",
+  "fetched_at": "2026-10-04T13:33:11Z",
+  "html_sha256": "e19362f5faf777f9311bbc7e6af71ecd1df600e1f841214b04a75ed276c2a1f8",
   "text_sha256": "b8abb87f59c7a3343b0c89c658d127d24cd61d996cc8ed671b5a85e49a235007",
-  "byte_size": 40653,
+  "byte_size": 41341,
   "title": "Early Voting | Sumter County Elections, FL",
   "noncitizen_voting": {
     "present": false,

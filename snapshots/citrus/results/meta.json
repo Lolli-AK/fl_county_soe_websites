@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:50:24Z",
-  "html_sha256": "b3ee0185919945e07d0a85a4143e0055a63924f434cdfdb704db56c78dab386d",
+  "fetched_at": "2026-10-04T13:33:11Z",
+  "html_sha256": "37c729f4019ce3690f76b0e7a65c5ccd59dd90acec1c99b1a922ce947b94e24f",
   "text_sha256": "cd060740d409e9f8d65a8e6ad3d9cd72743b3f028ec0a4c5e0d7cbdbc6dd8e13",
-  "byte_size": 194705,
+  "byte_size": 198698,
   "title": "Election Results 1992 to 2026 | Citrus County Elections, FL",
   "noncitizen_voting": {
     "present": false,

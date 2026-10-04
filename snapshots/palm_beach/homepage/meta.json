@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:50:24Z",
-  "html_sha256": "828a2472457e26f5521c921053d5906227894da7f60c70c9a43df6d1872b75c3",
+  "fetched_at": "2026-10-04T13:33:11Z",
+  "html_sha256": "5a7f7773cc026b94d3b74c19d4c2e14cccb8d15c6224b5b6a7da2dd6dba87344",
   "text_sha256": "4396fd9e3c67af681b2f9227dd081c75df0464af9882c28e896001720f4edbcd",
-  "byte_size": 66886,
+  "byte_size": 67398,
   "title": "Palm Beach County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,

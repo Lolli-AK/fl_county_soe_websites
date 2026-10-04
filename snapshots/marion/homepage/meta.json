@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:50:24Z",
-  "html_sha256": "5025e7edbb6fa29aff815d1f9677111b84a06517b2ec96f3fab926fbe5128193",
+  "fetched_at": "2026-10-04T13:33:11Z",
+  "html_sha256": "e6e69408f17852fde57d9eeb95d4092e0ef65354237f1316379679e291dad9b6",
   "text_sha256": "e245981b8c5f002d043d079c9234c18e650fc11be5fbe562c1fc83da933221ea",
-  "byte_size": 67659,
+  "byte_size": 68577,
   "title": "Marion County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,

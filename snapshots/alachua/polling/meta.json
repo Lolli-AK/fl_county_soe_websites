@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:50:24Z",
-  "html_sha256": "49e46e40d3cc4ea48f08ee998db6ac73f37660a6af1f2cae03213bc0dce0938b",
+  "fetched_at": "2026-10-04T13:33:11Z",
+  "html_sha256": "16d91f11bffc39e673631c846d38fd3ba5c3a79fc5ad883a34d6b94b2e5301f2",
   "text_sha256": "5c8235a2f0b4ed6cf10043827a86bc9d0ce3ef08dff91ffd156886856536335f",
-  "byte_size": 42588,
+  "byte_size": 43059,
   "title": "Precinct Voting | Alachua County Elections, FL",
   "noncitizen_voting": {
     "present": false,

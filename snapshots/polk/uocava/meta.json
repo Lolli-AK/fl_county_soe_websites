@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:50:24Z",
-  "html_sha256": "cc05629e99b0843b78ca63d8671efb27fc10d9abb3861a392cb6730f388c22f6",
+  "fetched_at": "2026-10-04T13:33:11Z",
+  "html_sha256": "bc27243f45e180c37318c2e0237929450e71a0a7c93ac1f705fde4928bb69488",
   "text_sha256": "4aaceef59fe35d99ecc2e5fd01968eca0271a3e0d51297653ccc62ae214c672d",
-  "byte_size": 48147,
+  "byte_size": 48694,
   "title": "Military & Overseas Voting | Polk County SOE, FL",
   "noncitizen_voting": {
     "present": false,

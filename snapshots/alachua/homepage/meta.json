@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:50:24Z",
-  "html_sha256": "ede1cf0d49401ca9469bda009d5caadff340e40113eb56e1ee11d2dc2ff897fc",
+  "fetched_at": "2026-10-04T13:33:11Z",
+  "html_sha256": "6d11755aa3db5c03ae5478a9c3d41c88b4fc24377603211bd44b3f0c3cc3f0b6",
   "text_sha256": "34a9c112c511a7fc6e174fe2689e4849d36a0deced5b5dbeb0e0d5e38e9d9641",
-  "byte_size": 48890,
+  "byte_size": 49332,
   "title": "Alachua County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,

@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:50:24Z",
-  "html_sha256": "bfd7298e91f7dd57a5a14935ba7eb77b3b1b9dab686085f4db76b58462a32a38",
-  "text_sha256": "20b29c9d99ca6d8c568314fc540808e9450e15037402801b0d6d18e5ccab5d7e",
+  "fetched_at": "2026-10-04T13:33:11Z",
+  "html_sha256": "495749e1df4cf2dff3866ebfb7d1cac53c9dca00d09ce5ab745327af0713d53d",
+  "text_sha256": "5db6fbb58cdf6a776e6e851be3f9fbac461243c7d3d4c9f6015da95a82172d0b",
   "byte_size": 101942,
   "title": "Register to Vote - Vote Manatee",
   "noncitizen_voting": {

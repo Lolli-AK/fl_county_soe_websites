@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:50:24Z",
-  "html_sha256": "62f0357b179dd5da8a56ea49192dcbc58ffcaa44360e2b8fd91dd6e768688433",
+  "fetched_at": "2026-10-04T13:33:11Z",
+  "html_sha256": "f11482ddaaf5c8627866b00c70152541ad212bec6a6d974ef25b328d406709c9",
   "text_sha256": "93c0f37fbd63e1fc64977ab1fc66b4bc0773381a070ba0bc0518e743e1e63f7f",
-  "byte_size": 50241,
+  "byte_size": 51361,
   "title": "Where Do I Vote | Polk County SOE, FL",
   "noncitizen_voting": {
     "present": false,

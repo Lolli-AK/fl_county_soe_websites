@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:50:24Z",
-  "html_sha256": "81ec9758bce40e046250bb9dc6cb1748c5c75966e07218381ec1fdafb469c389",
+  "fetched_at": "2026-10-04T13:33:11Z",
+  "html_sha256": "cdcc45c9d64ee447bbdd8f0089c453f69d50f006e7812527b9707ac6d8d423de",
   "text_sha256": "3bd0b9d15340edcde4c713b4fa354a746f5f0cd98096a4da992116b271049a05",
-  "byte_size": 65303,
+  "byte_size": 66475,
   "title": "Register to Vote | Marion County Elections, FL",
   "noncitizen_voting": {
     "present": false,

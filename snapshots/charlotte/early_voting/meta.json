@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:50:24Z",
-  "html_sha256": "66f34e40f29da9d3398711bc4b803c2ebcd6264236e1b954437023bd69b81361",
+  "fetched_at": "2026-10-04T13:33:11Z",
+  "html_sha256": "a0d3af5044fcf272baad462fb32148e9e7c99c9b1d51715288f5339271eba300",
   "text_sha256": "fed50046e903ec8b6f0bf02f7eb48647ca832dd9483a163d0e01cd9f25464db8",
-  "byte_size": 55466,
+  "byte_size": 56545,
   "title": "Early Voting Locations | Charlotte County Elections, FL",
   "noncitizen_voting": {
     "present": false,

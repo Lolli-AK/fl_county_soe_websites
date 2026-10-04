@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:50:24Z",
-  "html_sha256": "51ed40b770a2307a2586d847e11ba6eafd6c27db831133f7d7279a649ab24b80",
+  "fetched_at": "2026-10-04T13:33:11Z",
+  "html_sha256": "a7977203a1ba0a53b26695530ee4048b7288996993e5aaaeeed23517a1d4e761",
   "text_sha256": "41b7e0592bec6262b7154ed8bdc70b1a8d589ca23f806b7ccd4738cfd00ab46b",
-  "byte_size": 45138,
+  "byte_size": 45999,
   "title": "Voter Registration | Lake County Elections, FL",
   "noncitizen_voting": {
     "present": false,

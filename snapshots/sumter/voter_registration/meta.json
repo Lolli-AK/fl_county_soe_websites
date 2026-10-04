@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:50:24Z",
-  "html_sha256": "459559d606c07505c204e7b30d3fb36222935b30b37ae71ed0f8db145ecbf0fb",
+  "fetched_at": "2026-10-04T13:33:11Z",
+  "html_sha256": "8531c9f922030e318f5d83dab1810aab916602cbc7bde22590d94b656fc1b837",
   "text_sha256": "35d8f80e0494f1e7d3808c038b924a63da9c4b03e8de041ebd4d50b1df8f11a6",
-  "byte_size": 48424,
+  "byte_size": 49524,
   "title": "How to Register to Vote | Sumter County Elections, FL",
   "noncitizen_voting": {
     "present": false,
