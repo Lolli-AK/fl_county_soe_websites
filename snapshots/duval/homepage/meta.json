@@ -2,30 +2,29 @@
   "county": "Duval",
   "page_type": "homepage",
   "requested_url": "https://www.duvalelections.gov",
-  "final_url": "https://www.duvalelections.gov",
+  "final_url": "https://www.duvalelections.gov/",
   "redirect_chain": [
-    "https://www.duvalelections.gov"
+    "https://www.duvalelections.gov",
+    "https://www.duvalelections.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-04T13:33:11Z",
-  "html_sha256": "5698c8f00b9a0a5d27bfb1f0d62c200bcf2b7ffbeb4aa82450c5deb25233b2cc",
-  "text_sha256": "f18b54d643b697c73ded7bcf5d0b5f482689efd6be9efd9d16da51d63f76de4c",
-  "byte_size": 75790,
-  "title": "Duval County Elections, FL Official Website | Official Website",
+  "fetched_at": "2026-10-05T16:34:07Z",
+  "html_sha256": "0591eece4d0f8e219a1c1a2aaa77f6bd4b1c406c2b0382e7a3659b34ffb07118",
+  "text_sha256": "bbf7fccfd901a41dd9f5958c1ef0041d22bc9ea20dc6490b45e4a755476db2b4",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

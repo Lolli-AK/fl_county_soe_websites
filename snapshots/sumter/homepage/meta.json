@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://elections.sumtercountyfl.gov"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-04T13:33:11Z",
-  "html_sha256": "a9f717e2d78677df2a843de1e3a1f1b876bcd97ee4daf689cfb6dd99888e02fe",
-  "text_sha256": "0f286b367599a58322cfc66df29b24127430268fb8e8bc7b3395729b2e91018f",
-  "byte_size": 69221,
-  "title": "Sumter County Elections, FL | Official Website",
+  "fetched_at": "2026-10-05T16:34:07Z",
+  "html_sha256": "1b6148d2aac0adb4899efc15d463d0778c134fc604f427eba560d8cfbbe9ec78",
+  "text_sha256": "d092eddc4d4cb05e5fba55d3bce788d84fff9cf5eb896194fe8044d46a9fff49",
+  "byte_size": 3338,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content; headless_error: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://elections.sumtercountyfl.gov/\", waiting until \"domcontentloaded\"\n"
 }

@@ -2,19 +2,20 @@
   "county": "Alachua",
   "page_type": "homepage",
   "requested_url": "https://www.votealachua.gov",
-  "final_url": "https://www.votealachua.gov",
+  "final_url": "https://www.votealachua.gov/",
   "redirect_chain": [
-    "https://www.votealachua.gov"
+    "https://www.votealachua.gov",
+    "https://www.votealachua.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-04T13:33:11Z",
-  "html_sha256": "6d11755aa3db5c03ae5478a9c3d41c88b4fc24377603211bd44b3f0c3cc3f0b6",
-  "text_sha256": "34a9c112c511a7fc6e174fe2689e4849d36a0deced5b5dbeb0e0d5e38e9d9641",
-  "byte_size": 49332,
-  "title": "Alachua County Elections, FL | Official Website",
+  "fetched_at": "2026-10-05T16:34:07Z",
+  "html_sha256": "8e7153f63210b5988d5a4535cc14a4d19a456fa74838696999efbacf2b9e1465",
+  "text_sha256": "68c626b0833e0bec49899efa739dfb2d8acb44a1650119dd3c1f9caeead5c8ef",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

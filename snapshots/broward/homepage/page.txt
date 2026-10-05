@@ -339,7 +339,7 @@ Become an Election Worker
 Election Worker Portal
 Broward County
 Register to Vote NOW!
-Deadline is approaching! October 5, 2026, is the last day to register to vote for the November Election.  Don't miss your chance to vote.
+Today is the Last Day to Register! October 5, 2026, is the deadline to register to vote for the November Election.  Don't miss your chance to vote.
 REGISTER TODAY
 Request Your Vote-By-Mail Ballot
 Convenient voting option for all registered voters. Vote on your schedule.
@@ -396,16 +396,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-10/4/26
-1,364,590
+10/5/26
+1,365,920
 Eligible Voters
-592,561
+593,074
 Democrat
-317,090
+317,357
 Republican
-418,111
+418,572
 NPA
-36,828
+36,917
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.

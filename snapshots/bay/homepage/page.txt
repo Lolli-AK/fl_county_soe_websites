@@ -163,15 +163,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(10/03/2026)
+(10/05/2026)
 Democrats
-23,929
+23,928
 Republicans
-75,355
+75,353
 Other
-29,134
+29,135
 Total
-128,418
+128,416
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -182,23 +182,22 @@ Info & Dates
 All Upcoming Elections
 Dates to Remember
 All Upcoming Dates
-Oct 5, 2026
-Deadline to register to vote in the General Election.
 Oct 14, 2026 8:30am
 Canvassing Board Orientation Meeting followed by Public Logic and Accuracy Testing of the Voting and Tabulating Equipment to be used…
 Oct 21, 2026 8:30am
 Canvassing Board Meeting to begin canvass of vote by mail ballots, scan into audit system, and ballot duplication (as needed)
 Oct 22, 2026 5:00pm
 The deadline to request a vote-by-mail ballot for the General Election
+Oct 29, 2026 8:30am
+Canvassing Board Meeting to continue canvass of vote by mail ballots, scan into audit system, and ballot duplication (as needed)
 All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 2 days ago
-The Voter Registration Deadline for the 2026 General Election is Monday October 5.
-To register to vote by the deadline,
-⭐️Stop by the Supervisor of Elections office OR
-⭐️Register Online at:
+posted 2 hours ago
+Today October 5th is the deadline to Register to Vote in the upcoming General Election!
+⭐️ Stop by our office before 5pm OR
+⭐️ Register online no later than midnight tonight!
 https://registertovoteflorida.gov/home
 View Facebook Post
 (opens in a new tab)

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-04T13:33:11Z",
-  "html_sha256": "dada2426bbf0d5e7daa8a1909046f55f64d0a22ea6795b98c777a86abc1d700d",
+  "fetched_at": "2026-10-05T16:34:07Z",
+  "html_sha256": "79727f1eec20026dd46eab230d0d5ddb12c8f1fa75ff1f92735f2793b349df3c",
   "text_sha256": "c8570ed49bfb43bb442dae275d31d863812fb1822caf31d5aa79f8cd7603b823",
-  "byte_size": 83230,
+  "byte_size": 83212,
   "title": "Military and Overseas Citizens Voting | Broward County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

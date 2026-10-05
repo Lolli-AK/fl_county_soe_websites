@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-04T13:33:11Z",
-  "html_sha256": "777417941c51d29469ae1f995662e5fd782b966a2054e5a99bddd45c41788a72",
-  "text_sha256": "95ecb3070a165321bd90c9a568025a1d015b59f294fdbbaa6849be409b721c71",
-  "byte_size": 59168,
+  "fetched_at": "2026-10-05T16:34:07Z",
+  "html_sha256": "2104173e600d0ea81f0e73419c6f3cd0475fd0bdef8fc59f04f46c741887531d",
+  "text_sha256": "0836e4bea65df411805f585dbe28f3c4cc8a39759735915ec93c1e91754c3169",
+  "byte_size": 81527,
   "title": "Military & Overseas Voters | Sarasota County Supervisor of Elections, FL",
   "noncitizen_voting": {
     "present": false,
@@ -29,7 +29,7 @@
       "military_overseas_voter",
       "citizen_abroad"
     ],
-    "count": 44
+    "count": 45
   },
   "error": null
 }
