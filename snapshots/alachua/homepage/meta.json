@@ -11,9 +11,9 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-05T16:34:07Z",
-  "html_sha256": "8e7153f63210b5988d5a4535cc14a4d19a456fa74838696999efbacf2b9e1465",
-  "text_sha256": "68c626b0833e0bec49899efa739dfb2d8acb44a1650119dd3c1f9caeead5c8ef",
+  "fetched_at": "2026-10-06T14:34:46Z",
+  "html_sha256": "61ea0b7f2c6e8013be315b3b5361c410be39cee16723ebb64b30f084af7517c6",
+  "text_sha256": "b00c589264e474735570ad9c87906374584b812eb8eb5e46922a958d1ba98aba",
   "byte_size": 3331,
   "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {

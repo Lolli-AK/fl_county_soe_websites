@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votealachua.gov/205/Register-to-Vote-or-Update-Registration"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-05T16:34:07Z",
-  "html_sha256": "1fe4e09fa8e5317b231b616a94483401ec3a0f544402c190887ab21c44da8b68",
-  "text_sha256": "6405b06469b5790bb1f98c1558d61814dbedcc9657883c5160d4e75abf653e73",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-06T14:34:46Z",
+  "html_sha256": "9238864c6b12e1840a41185d986d748a9328a75998f10d91999861ff0d4b17fb",
+  "text_sha256": "f899d93055d0cb6f6c4a401fca7932da52b404fddd8906c6990d61d3dffe36b3",
+  "byte_size": 47905,
+  "title": "Register to Vote or Update Registration | Alachua County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

@@ -338,15 +338,15 @@ What is an Election Worker?
 Become an Election Worker
 Election Worker Portal
 Broward County
-Register to Vote NOW!
-Today is the Last Day to Register! October 5, 2026, is the deadline to register to vote for the November Election.  Don't miss your chance to vote.
-REGISTER TODAY
 Request Your Vote-By-Mail Ballot
-Convenient voting option for all registered voters. Vote on your schedule.
+It’s not too late! Request your ballot and vote from home.
 Request Ballot
-Find Your Early Voting Site
-Plan ahead - find the early voting location nearest your home or workplace.
+Find an Early Voting Location
+Vote at a location convenient to your home or job - multiple sites available.
 Find Location
+Find Your Election Day Polling Place
+Locate your assigned neighborhood polling place for Election Day.
+Find my Precinct
 View Your Sample Ballot
 Click the link below to view your personalized sample ballot.
 View Sample Ballot
@@ -396,16 +396,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-10/5/26
-1,365,920
+10/6/26
+1,365,888
 Eligible Voters
-593,074
+593,100
 Democrat
-317,357
+317,350
 Republican
-418,572
+418,517
 NPA
-36,917
+36,921
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.

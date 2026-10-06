@@ -258,15 +258,15 @@ Powered by
 Translate
 Search
 Active Registered Voters:
-10/5/26
+10/6/26
 Democrats:
-108,509
+108,834
 Republicans:
-249,712
+249,851
 Other:
-144,883
+145,076
 Total:
-503,104
+503,761
 Back to Home
 Register to Vote
 Vote By Mail
@@ -452,9 +452,6 @@ Current Press Releases
 Lee County Supervisor of Elections mails ballots for the 2026 general election
 Read on...
 about Lee County Supervisor of Elections mails ballots for the 2026 general election
-Oct. 5 is the voter registration deadline for the 2026 general election
-Read on...
-about Oct. 5 is the voter registration deadline for the 2026 general election
 /CivicAlerts.aspx
 Mailing Address: P.O. Box 2545, Fort Myers, FL 33902-2545
 Phone (all offices):

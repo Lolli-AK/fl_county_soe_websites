@@ -337,14 +337,14 @@ Supervisor of Elections
 Monroe County
 Active Registered Voters
 Democratic
-14,736
+14,753
 Republican
-25,161
+25,179
 Others
-14,799
+14,821
 Total
-54,696
-Last updated 2026-10-05
+54,753
+Last updated 2026-10-06
 Monroe County Supervisor of Elections
 The Official Website of Monroe Co FL Supervisor of Elections
 The General Election is approaching quickly
@@ -400,12 +400,19 @@ Stay Tuned
 View Unofficial Results
 Monroe County Supervisor of Elections
 Important Information
+Remembering the Honorable Harry L. Sawyer, Jr.
+May 29, 1950 - September 18, 2026:
+"Harry took great pride in his responsibilities to teach the public and run fair elections no matter what political party."
 Hours
-The Elections Office is open
+The Elections Office is open:
 Monday – Friday: 8:30am – 5:00pm
+Early Voting
+: Monday, October 19 - Saturday, October 31, 2026
+8:30am - 5:00pm
 Vote-by-Mail Ballots can be hand-delivered inside each of our three offices (or to one the Secure Ballot Intake Station (drop box) located at each of our
 Early Voting locations
-during the Early Voting period: 10/19 - 10/31/2026). Your Vote-by-Mail ballot must be received by, but not later than, 7:00pm on Election Day.
+during the Early Voting period: 10/19 - 10/31/2026).
+Your Vote-by-Mail ballot must be received by, but not later than, 7:00pm on Election Day.
 Upcoming Elections
 View Upcoming Elections
 Dates to Remember

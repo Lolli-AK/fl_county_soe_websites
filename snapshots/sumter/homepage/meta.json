@@ -2,28 +2,31 @@
   "county": "Sumter",
   "page_type": "homepage",
   "requested_url": "https://elections.sumtercountyfl.gov",
-  "final_url": "https://elections.sumtercountyfl.gov",
+  "final_url": "https://elections.sumtercountyfl.gov/",
   "redirect_chain": [
-    "https://elections.sumtercountyfl.gov"
+    "https://elections.sumtercountyfl.gov",
+    "https://elections.sumtercountyfl.gov/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-05T16:34:07Z",
-  "html_sha256": "1b6148d2aac0adb4899efc15d463d0778c134fc604f427eba560d8cfbbe9ec78",
-  "text_sha256": "d092eddc4d4cb05e5fba55d3bce788d84fff9cf5eb896194fe8044d46a9fff49",
-  "byte_size": 3338,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-06T14:34:46Z",
+  "html_sha256": "b5727e44a556fbdde4d23eebe7fce238ca19efe61323d613a1e317f489558a59",
+  "text_sha256": "26c02d710691a36ef23045afb16bf936aba75b53ade36fc88a71021063fff564",
+  "byte_size": 95757,
+  "title": "Sumter County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content; headless_error: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://elections.sumtercountyfl.gov/\", waiting until \"domcontentloaded\"\n"
+  "error": null
 }

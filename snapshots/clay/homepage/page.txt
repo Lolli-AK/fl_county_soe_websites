@@ -124,6 +124,11 @@ Oct
 09,
 2026
 Logic and Accuracy (L&A) Test
+Thu,
+Oct
+22,
+2026
+Last day to request a Vote by Mail Ballot
 Fri,
 Oct
 23,
@@ -134,22 +139,17 @@ Oct
 24,
 2026
 Early Voting for the General Election
-Sun,
-Oct
-25,
-2026
-Early Voting for the General Election
 View All Events
 Clay County Voter Totals
-October 5, 2026
+October 6, 2026
 Republicans:
-88844
+88876
 Democrats:
-31475
+31524
 NPA:
-29108
+29123
 Others:
-6451
+6463
 Total:
 Loading...
 Subscribe to Alerts

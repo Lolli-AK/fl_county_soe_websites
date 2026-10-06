@@ -1,4 +1,5 @@
 Palm Beach County Elections, FL | Official Website
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Loading
 Skip to Main Content
 Voters
@@ -20,16 +21,21 @@ News
 Subscribe to Notify Me to Receive Notifications from Us!
 Subscribe to Notify Me to receive election updates...
 Read on...
+about Subscribe to Notify Me to Receive Notifications from Us!
+PRESS RELEASE: PBC Canvassing Board to Conduct Logic and Accuracy Testing for 2026 General Election
+Click to Read the Logic and Accuracy Press Release...
+Additional Info...
+about PRESS RELEASE: PBC Canvassing Board to Conduct Logic and Accuracy Testing for 2026 General Election
 PRESS RELEASE: Voter Registration Deadline for the 2026 General Election is Monday, October 5th
 Click to Read the Voter Registration Deadline Pres...
 Additional Info...
+about PRESS RELEASE: Voter Registration Deadline for the 2026 General Election is Monday, October 5th
 PRESS RELEASE: PBCSOE Mails Ballots to Voters Who Requested to Vote by Mail in the General Election
 Click to Read the Vote-by-Mail Press Release.
 Additional Info...
-PRESS RELEASE: PBC Conducts Voter Registration Drives Around National Voter Registration Day
-Click to Read the National Voter Registration Day ...
-Additional Info...
+about PRESS RELEASE: PBCSOE Mails Ballots to Voters Who Requested to Vote by Mail in the General Election
 View All News
+News
 /CivicAlerts.aspx
 Notices
 Potentially Ineligible Notices
@@ -45,12 +51,11 @@ Notice of Special Election, State Representative, District 87
 The Florida Governor has called for a Special Elec...
 Read on...
 View All Notices
+Notices
 /CivicAlerts.aspx
 Full Calendar
 Election Dates and Deadlines
 Full Calendar
-Mon, Oct. 5
-Deadline to Register to Vote - 2026 General Election
 Wed, Oct. 7
 Logic and Accuracy Test and Canvassing Board Meeting
 Thu, Oct. 8
@@ -59,32 +64,28 @@ Thu, Oct. 8
 Opening/Tabulation/Duplication and Audit Scanning (as needed)
 Fri, Oct. 9
 Public Viewing
+Fri, Oct. 9
+Opening/Tabulation/Duplication and Audit Scanning (as needed)
 View All Events
 /Calendar.aspx
 Election Dates and Deadlines
-Mon, Oct. 5
-Deadline to Register to Vote - 2026 General Election
 Mon, Oct. 19 - Sun, Nov. 1
 Early Voting - 2026 General Election
 Thu, Oct. 22
 Deadline to Request a Ballot to Be Mailed to You - 2026 General Election
 Tue, Nov. 3
 Election Day - 2026 General Election
+Tue, Nov. 3
+Deadline to Return Your Vote-by-Mail Ballot - 2026 General Election
 View All Events
 /Calendar.aspx
 Active Registered Voters
 As of:
-10/5/26
 Democrats:
-313,006
 Republicans:
-305,108
 No Party Affiliation:
-233,296
 Minor Parties:
-35,818
 Total:
-887,228
 Contact Us
 Main Office
 4301 Cherry Road, West Palm Beach, FL 33409
@@ -373,3 +374,4 @@ Translate
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate
+Explore your accessibility options

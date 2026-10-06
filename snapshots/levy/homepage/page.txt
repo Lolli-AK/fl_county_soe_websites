@@ -149,15 +149,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 10/04/2026
+Voter Totals as of: 10/05/2026
 Democrats
 6,131
 Republicans
 18,915
 Other
-5,321
+5,323
 Total
-30,367
+30,369
 Voter Turnout
 Upcoming Elections
 Nov 3, 2026
@@ -170,8 +170,6 @@ extended hours during elections
 English & Spanish
 +1 (833) 917-4357
 Dates to Remember
-Oct 5, 2026
-Book Closing: General Election
 Oct 22, 2026
 Early Voting: General Election
 All Upcoming Dates

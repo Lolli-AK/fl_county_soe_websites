@@ -1,7 +1,7 @@
 Brevard County Supervisor of Elections
 Skip Navigation
-The deadline to register to vote or update your registration for the 2026 General Election is Monday, October 5.
-Check your voter registration status or update your voter registration information here.
+The last day to request a mail ballot to be sent for the 2026 General Election is Thursday, October 22 by 5:00 p.m.
+Request a mail ballot online using the Mail Ballot Request Service here.
 321-290-VOTE (8683)
 1-833-803-0613 (Spanish - Toll Free)
 Official government website
@@ -121,17 +121,17 @@ Welcome to the Brevard County
 Supervisor of Elections
 Tim Bobanic
 Active Registered Voters as of:
-10/05/2026
+10/06/2026
 Republican
-207,787
+207,901
 Democratic
-112,295
+112,445
 Non-Partisan
-106,945
+107,029
 Others
-19,189
+19,206
 Total
-446,216
+446,581
 2026 General Election Sample Ballots
 View Your 2026 General Election Sample Ballot
 Secure Ballot Intake Station Locations & Hours
@@ -140,6 +140,9 @@ Track Your Mail Ballot
 Check Your Mail Ballot Status
 2026 General Election Unofficial Turnout
 View Unofficial Turnout
+Precinct and Polling Place Change Notice
+Your Election Day precinct or polling place may have changed.
+View Details
 View Announced and Qualified Candidates for the 2026 Election Cycle
 View More Information
 Request a Mail Ballot Online
@@ -172,22 +175,22 @@ October 5, 2026
 All day
 Book Closing - 2026 General Election
 Read More
-October 5, 2026
-9:00 AM -
-11:00 AM
-Voter Registration Drive - Brookdale West Melbourne
-Read More
-October 5, 2026
-2:00 PM -
-4:00 PM
-Voter Registration Drive - Hampton Manor of Merritt Island
-Read More
 October 19, 2026
 8:00 AM -
 6:00 PM
 Early Voting - 2026 General Election
 Read More
 October 20, 2026
+8:00 AM -
+6:00 PM
+Early Voting - 2026 General Election
+Read More
+October 21, 2026
+8:00 AM -
+6:00 PM
+Early Voting - 2026 General Election
+Read More
+October 22, 2026
 8:00 AM -
 6:00 PM
 Early Voting - 2026 General Election

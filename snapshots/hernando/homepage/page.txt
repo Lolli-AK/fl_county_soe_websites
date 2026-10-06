@@ -17,15 +17,10 @@ Select Language
 ​
 ▼
 Active Registered Voters:
-10/5/26
 Democrats:
-30,581
 Republicans:
-71,414
 Other:
-35,810
 Total:
-137,805
 Sample Ballots Now Available!
 Sample ballots for the 2026 General Election are now available.
 Check the
@@ -120,14 +115,14 @@ S
 29
 30
 31
-Mon, Oct. 5
-Voter Registration and Party Change Deadline - 2026 General Election
 Thu, Oct. 8
 General Election - Public Logic & Accuracy Test
 Thu, Oct. 15
 General Election - Canvass of Vote-By-Mail Ballots
 Thu, Oct. 22 - Sat, Oct. 31
 Early Voting Period - 2026 General Election
+Thu, Oct. 22
+General Election - Canvass of Vote-By-Mail Ballots
 View All Events
 Election Calendar
 /Calendar.aspx

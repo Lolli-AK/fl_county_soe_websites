@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-05T17:12:08Z",
-  "html_sha256": "e2c2f431290a69baac8a87bfcc136d9c14e24f18440b002eee92ae3b549a84fd",
+  "fetched_at": "2026-10-06T14:34:46Z",
+  "html_sha256": "7dad678d3d072c9b94c8976fe8b24f8fe231fc2a0f8b099599ed45c139031dcc",
   "text_sha256": "f81dfffa7644cdf2f41796fcd0c70f405dc3f260eae1624681facb2e85753ed7",
-  "byte_size": 42834,
+  "byte_size": 42774,
   "title": "Early Voting | Suwannee County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

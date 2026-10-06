@@ -14,12 +14,19 @@
   <meta content="" name="description"/>
   <meta content="Home" name="keywords"/>
  </head>
- <body class="wide withFeatureColumn cpTextResizeOn">
+ <body class="wide withFeatureColumn cpTextResizeOn doneLoading ae-homepage" data-audioeye-device-desktop="" data-audioeye-launcher="" data-mon-page-fix="done">
+  <div aria-live="polite" class="ae-blurb-noaudio" data-nosnippet="" id="ae_enabled_site" role="status">
+   <div>
+    <p data-modulename="launcher">
+     This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+    </p>
+   </div>
+  </div>
   <div id="divAjaxProgress">
    <div id="divAjaxShade">
    </div>
    <div class="loading" id="divAjaxImgProgress">
-    <img alt="Loading" src="/Common/images/ajax-loader.gif" title="Loading"/>
+    <img alt="" src="/Common/images/ajax-loader.gif" title="Loading"/>
     <p>
      Loading
     </p>
@@ -27,7 +34,7 @@
   </div>
   <div class="cp-PopOver cp-PopOver--modal" id="popoverModal">
    <div class="cp-PopOver-header">
-    <h3 class="cp-PopOver-title">
+    <h3 aria-hidden="true" class="cp-PopOver-title" role="presentation" tabindex="-1">
     </h3>
     <button class="cp-Btn cp-PopOver-close" onclick="closePopOverModal(event)">
     </button>
@@ -43,12 +50,12 @@
   </div>
   <div id="fb-root">
   </div>
-  <div id="skipToContentLinks">
-   <a class="skipToContentLink" href="#ccGUID" target="_self">
+  <div aria-hidden="true" class="ae-exclude" id="skipToContentLinks" role="presentation" tabindex="-1">
+   <a aria-hidden="true" class="skipToContentLink ae-exclude" href="#ccGUID" role="presentation" tabindex="-1" target="_self">
     Skip to Main Content
    </a>
   </div>
-  <form id="frmReferenceFormForTelerikEditorDialogs">
+  <form id="frmReferenceFormForTelerikEditorDialogs" role="presentation">
   </form>
   <input id="GoogleMapsKey" type="hidden"/>
   <input id="cpcDomain" type="hidden"/>
@@ -78,7 +85,7 @@
           </a>
          </div>
         </div>
-        <nav class="siteNav mainNav" data-cprole="nav" id="mainNav" role="navigation">
+        <nav aria-label="Main" class="siteNav mainNav" data-cprole="nav" id="mainNav" role="navigation">
          <ol class="rootNavMenu" data-parent="1" id="mainNavMenu" role="menu">
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="27" id="MainItem27" role="none">
            <a aria-controls="mainNavMegaMenu27" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem1" href="/27/Voters" id="mainNavVoters" role="menuitem" target="_self">
@@ -106,7 +113,7 @@
            </a>
           </li>
          </ol>
-         <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu">
+         <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu" role="presentation">
           <input id="megaMenuPopupDirection" type="hidden"/>
           <input id="megaMenuWidthReference" type="hidden"/>
          </aside>
@@ -118,10 +125,10 @@
             <div class="row nest first last">
              <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
               <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
-               <section aria-label="Search" class="widget widgetSearch skin39 widgetOptionSet15" id="widgetPreviewSearch">
+               <section class="widget widgetSearch skin39 widgetOptionSet15" id="widgetPreviewSearch">
                 <div class="widgetBody buttonRightInside">
-                 <input autocomplete="off" class="widgetSearchBox widgetSearchBoxGUID ui-autocomplete-input" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
-                 <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon" role="button">
+                 <input aria-label="Search Site" autocomplete="off" class="widgetSearchBox widgetSearchBoxGUID ui-autocomplete-input" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
+                 <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon">
                   <img alt="Search-1" class="imageHover" data-hover="/ImageRepository/Document?documentID=106" data-image="/ImageRepository/Document?documentID=105" src="/ImageRepository/Document?documentID=105"/>
                  </a>
                  <label aria-hidden="true" class="searchLabel" for="searchFieldGUID">
@@ -150,7 +157,7 @@
                <div class="row nest first last">
                 <div class="inner col col11 first last idGUID" data-widgetcontainerid="GUID">
                  <div data-widget-controller-path="/NewsFlash/Widget" data-widget-id="GUID">
-                  <section aria-label="News Flash" class="widget widgetNewsFlash skin60 widgetOptionSet47" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="newsFlash" id="widgetNewsFlashGUID">
+                  <section class="widget widgetNewsFlash skin60 widgetOptionSet47" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="newsFlash" id="widgetNewsFlashGUID">
                    <div class="widgetBody cpGrid cpGrid1">
                     <div class="cpCarousel cpCarouselGUID">
                      [rotating image slideshow removed for determinism]
@@ -184,11 +191,11 @@
         </div>
         <div class="hidden" id="bannerImagesJSON60">
         </div>
-        <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
-         <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
-         </a>
-         <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
-         </a>
+        <div class="bannerObject external fixedBanner" data-image-scale="true" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" data-is-delayed="false" src="/ImageRepository/Document?documentID=99" width="1280px"/>
+         <img alt="" class="bannerObject" data-delayed-image="/ImageRepository/Document?documentID=98" data-is-delayed="true" src="/ImageRepository/Document?documentID=98" width="1280px"/>
+         <img alt="" class="bannerObject" data-delayed-image="/ImageRepository/Document?documentID=97" data-is-delayed="true" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1280px"/>
+         <img alt="" class="bannerObject" data-delayed-image="/ImageRepository/Document?documentID=1838" data-is-delayed="true" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1280px"/>
         </div>
        </div>
       </div>
@@ -201,17 +208,17 @@
             <div class="row nest first last">
              <div class="inner col col8 first last idGUID" data-widgetcontainerid="GUID">
               <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
-               <section aria-label="Info Advanced" class="widget widgetInfoAdvanced skin56 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                <header class="widgetHeader" id="headerGUID">
+               <section class="widget widgetInfoAdvanced skin56 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
+                <header class="widgetHeader" id="headerGUID" role="presentation">
                  <div class="">
                  </div>
                 </header>
                 <div class="widgetBody cpGrid cpGrid1">
                  <div class="row">
                   <div class="col col1 first last">
-                   <ol class="pageStyles semanticList">
+                   <ol class="pageStyles semanticList" role="presentation">
                     <li class="InfoAdvanced widgetItem fr-view">
-                     <h1 class="headline">
+                     <h1 aria-hidden="true" class="headline" role="presentation" tabindex="-1">
                       <br/>
                      </h1>
                      <h1 class="headline">
@@ -247,10 +254,10 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid3">
-                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
+                 <nav class="widgetGraphicLinksNav">
                   <div class="row">
                    <div class="col col1 first">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton73" href="/162" target="_self">
@@ -267,7 +274,7 @@
                     </ul>
                    </div>
                    <div class="col col1">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton74" href="/169" target="_self">
@@ -284,7 +291,7 @@
                     </ul>
                    </div>
                    <div class="col col1 last">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton72" href="/191" target="_self">
@@ -318,10 +325,10 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid3">
-                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
+                 <nav class="widgetGraphicLinksNav">
                   <div class="row">
                    <div class="col col1 first">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton76" href="/200" target="_self">
@@ -338,7 +345,7 @@
                     </ul>
                    </div>
                    <div class="col col1">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton75" href="/166" target="_self">
@@ -355,7 +362,7 @@
                     </ul>
                    </div>
                    <div class="col col1 last">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton223" href="/256" target="_self">
@@ -392,7 +399,7 @@
          <div class="mainWrap" data-cprole="structuralContainer" id="mainWrapTS" role="main">
           <div class="outerContentWrap" data-cprole="structuralContainer" id="outerContentWrapTS">
            <div class="contentWrap" data-cprole="structuralContainer" id="contentWrapTS">
-            <div class="breadCrumbContainer" data-cprole="breadCrumbs" id="breadCrumbs">
+            <div aria-label="Breadcrumb" class="breadCrumbContainer" data-cprole="breadCrumbs" id="breadCrumbs" role="navigation">
             </div>
             <div data-cprole="mainContentContainer" id="moduleContent">
              <div class="moduleContentNew" id="page">
@@ -425,7 +432,7 @@
              <div class="inner col col8 first last idGUID" data-widgetcontainerid="GUID">
               <div data-widget-controller-path="/NewsFlash/Widget" data-widget-id="GUID">
                <section aria-labelledby="newsFlashHeaderGUID" class="widget widgetNewsFlash skin57 widgetOptionSet28" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="newsFlash" id="widgetNewsFlashGUID">
-                <header class="widgetHeader" id="newsFlashHeaderGUID">
+                <header class="widgetHeader" id="newsFlashHeaderGUID" role="presentation">
                  <div class="">
                   <h3>
                    <a href="/CivicAlerts.aspx?CID=1">
@@ -448,45 +455,57 @@
                       Subscribe to Notify Me to receive election updates...
                       <a aria-label="Read on...: Subscribe to Notify Me to Receive Notifications from Us!" class="readOn" href="/CivicAlerts.aspx?AID=13" id="newsFlashReadOn13" target="_self">
                        Read on...
+                       <span class="ae-compliance-indent">
+                        about Subscribe to Notify Me to Receive Notifications from Us!
+                       </span>
+                      </a>
+                     </div>
+                    </li>
+                    <li class="widgetItem" data-news-i-d="109">
+                     <h4 class="widgetTitle" id="newsFlashItemHeader109">
+                      <a aria-label="PRESS RELEASE: PBC Canvassing Board to Conduct Logic and Accuracy Testing for 2026 General Election  Opens in new window" href="https://fl-palmbeachcountyelections.civicplus.com/CivicSend/ViewMessage/Message/302587" rel="noopener" target="_blank">
+                       PRESS RELEASE: PBC Canvassing Board to Conduct Logic and Accuracy Testing for 2026 General Election
+                      </a>
+                     </h4>
+                     <div class="widgetDesc">
+                      Click to Read the Logic and Accuracy Press Release...
+                      <a aria-label="Additional Info... Opens in new window" class="readOn" href="https://fl-palmbeachcountyelections.civicplus.com/CivicSend/ViewMessage/Message/302587" id="newsFlashReadOn109" rel="noopener" target="_blank">
+                       Additional Info...
+                       <span class="ae-compliance-indent">
+                        about PRESS RELEASE: PBC Canvassing Board to Conduct Logic and Accuracy Testing for 2026 General Election
+                       </span>
                       </a>
                      </div>
                     </li>
                     <li class="widgetItem" data-news-i-d="108">
                      <h4 class="widgetTitle" id="newsFlashItemHeader108">
-                      <a aria-label="PRESS RELEASE: Voter Registration Deadline for the 2026 General Election is Monday, October 5th  Opens in new window" href="https://fl-palmbeachcountyelections.civicplus.com/CivicSend/ViewMessage/Message/302145" target="_blank">
+                      <a aria-label="PRESS RELEASE: Voter Registration Deadline for the 2026 General Election is Monday, October 5th  Opens in new window" href="https://fl-palmbeachcountyelections.civicplus.com/CivicSend/ViewMessage/Message/302145" rel="noopener" target="_blank">
                        PRESS RELEASE: Voter Registration Deadline for the 2026 General Election is Monday, October 5th
                       </a>
                      </h4>
                      <div class="widgetDesc">
                       Click to Read the Voter Registration Deadline Pres...
-                      <a aria-label="Additional Info... Opens in new window" class="readOn" href="https://fl-palmbeachcountyelections.civicplus.com/CivicSend/ViewMessage/Message/302145" id="newsFlashReadOn108" target="_blank">
+                      <a aria-label="Additional Info... Opens in new window" class="readOn" href="https://fl-palmbeachcountyelections.civicplus.com/CivicSend/ViewMessage/Message/302145" id="newsFlashReadOn108" rel="noopener" target="_blank">
                        Additional Info...
+                       <span class="ae-compliance-indent">
+                        about PRESS RELEASE: Voter Registration Deadline for the 2026 General Election is Monday, October 5th
+                       </span>
                       </a>
                      </div>
                     </li>
                     <li class="widgetItem" data-news-i-d="107">
                      <h4 class="widgetTitle" id="newsFlashItemHeader107">
-                      <a aria-label="PRESS RELEASE: PBCSOE Mails Ballots to Voters Who Requested to Vote by Mail in the General Election  Opens in new window" href="https://fl-palmbeachcountyelections.civicplus.com/CivicSend/ViewMessage/Message/301627" target="_blank">
+                      <a aria-label="PRESS RELEASE: PBCSOE Mails Ballots to Voters Who Requested to Vote by Mail in the General Election  Opens in new window" href="https://fl-palmbeachcountyelections.civicplus.com/CivicSend/ViewMessage/Message/301627" rel="noopener" target="_blank">
                        PRESS RELEASE: PBCSOE Mails Ballots to Voters Who Requested to Vote by Mail in the General Election
                       </a>
                      </h4>
                      <div class="widgetDesc">
                       Click to Read the Vote-by-Mail Press Release.
-                      <a aria-label="Additional Info... Opens in new window" class="readOn" href="https://fl-palmbeachcountyelections.civicplus.com/CivicSend/ViewMessage/Message/301627" id="newsFlashReadOn107" target="_blank">
+                      <a aria-label="Additional Info... Opens in new window" class="readOn" href="https://fl-palmbeachcountyelections.civicplus.com/CivicSend/ViewMessage/Message/301627" id="newsFlashReadOn107" rel="noopener" target="_blank">
                        Additional Info...
-                      </a>
-                     </div>
-                    </li>
-                    <li class="widgetItem" data-news-i-d="106">
-                     <h4 class="widgetTitle" id="newsFlashItemHeader106">
-                      <a aria-label="PRESS RELEASE: PBC Conducts Voter Registration Drives Around National Voter Registration Day  Opens in new window" href="https://fl-palmbeachcountyelections.civicplus.com/CivicSend/ViewMessage/Message/300842" target="_blank">
-                       PRESS RELEASE: PBC Conducts Voter Registration Drives Around National Voter Registration Day
-                      </a>
-                     </h4>
-                     <div class="widgetDesc">
-                      Click to Read the National Voter Registration Day ...
-                      <a aria-label="Additional Info... Opens in new window" class="readOn" href="https://fl-palmbeachcountyelections.civicplus.com/CivicSend/ViewMessage/Message/300842" id="newsFlashReadOn106" target="_blank">
-                       Additional Info...
+                       <span class="ae-compliance-indent">
+                        about PRESS RELEASE: PBCSOE Mails Ballots to Voters Who Requested to Vote by Mail in the General Election
+                       </span>
                       </a>
                      </div>
                     </li>
@@ -495,6 +514,9 @@
                  </div>
                  <a class="widgetViewAll" href="/CivicAlerts.aspx?CID=1" id="newsFlashViewAllGUID">
                   View All News
+                  <span class="ae-compliance-indent">
+                   News
+                  </span>
                  </a>
                 </div>
                 <div class="widgetFooter">
@@ -514,7 +536,7 @@
              <div class="inner col col8 first last idGUID" data-widgetcontainerid="GUID">
               <div data-widget-controller-path="/NewsFlash/Widget" data-widget-id="GUID">
                <section aria-labelledby="newsFlashHeaderGUID" class="widget widgetNewsFlash skin58 widgetOptionSet28" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="newsFlash" id="widgetNewsFlashGUID">
-                <header class="widgetHeader" id="newsFlashHeaderGUID">
+                <header class="widgetHeader" id="newsFlashHeaderGUID" role="presentation">
                  <div class="">
                   <h3>
                    <a href="/CivicAlerts.aspx?CID=7">
@@ -584,6 +606,9 @@
                  </div>
                  <a class="widgetViewAll" href="/CivicAlerts.aspx?CID=7" id="newsFlashViewAllGUID">
                   View All Notices
+                  <span class="ae-compliance-indent">
+                   Notices
+                  </span>
                  </a>
                 </div>
                 <div class="widgetFooter">
@@ -619,7 +644,7 @@
                 </li>
                </ol>
                <div class="cpTabPanels">
-                <ol aria-hidden="false" class="tabbedWidgetNarrow cpTabs" role="tablist">
+                <ol aria-hidden="false" class="tabbedWidgetNarrow cpTabs" role="presentation">
                  <li class="active" role="presentation">
                   <a aria-controls="tabGUID_0" aria-selected="true" class="tabButton" href="#tabGUID_0" id="tabBtnNarrowGUID_0" role="tab" tabindex="0">
                    <span class="tabName editable" contenteditable="false" data-sequence="0" data-tabname="Full Calendar">
@@ -637,18 +662,6 @@
                       <input name="day-list" type="hidden"/>
                       <div class="col col1 first last">
                        <ol class="semanticList">
-                        <li class="widgetItem" data-event-i-d="689">
-                         <h4 class="widgetTitle">
-                          Mon, Oct. 5
-                         </h4>
-                         <div class="widgetDesc">
-                          <strong>
-                           <a href="/Calendar.aspx?EID=689">
-                            Deadline to Register to Vote - 2026 General Election
-                           </a>
-                          </strong>
-                         </div>
-                        </li>
                         <li class="widgetItem" data-event-i-d="843">
                          <h4 class="widgetTitle">
                           Wed, Oct. 7
@@ -697,6 +710,18 @@
                           </strong>
                          </div>
                         </li>
+                        <li class="widgetItem" data-event-i-d="847">
+                         <h4 class="widgetTitle">
+                          Fri, Oct. 9
+                         </h4>
+                         <div class="widgetDesc">
+                          <strong>
+                           <a href="/Calendar.aspx?EID=847">
+                            Opening/Tabulation/Duplication and Audit Scanning (as needed)
+                           </a>
+                          </strong>
+                         </div>
+                        </li>
                        </ol>
                       </div>
                      </div>
@@ -715,7 +740,7 @@
                   </div>
                  </div>
                 </div>
-                <ol aria-hidden="false" class="tabbedWidgetNarrow cpTabs" role="tablist">
+                <ol aria-hidden="false" class="tabbedWidgetNarrow cpTabs" role="presentation">
                  <li class="" role="presentation">
                   <a aria-controls="tabGUID_1" aria-selected="false" class="tabButton" href="#tabGUID_1" id="tabBtnNarrowGUID_1" role="tab" tabindex="-1">
                    <span class="tabName editable" contenteditable="false" data-sequence="1" data-tabname="Election Dates and Deadlines">
@@ -733,18 +758,6 @@
                       <input name="day-list" type="hidden"/>
                       <div class="col col1 first last">
                        <ol class="semanticList">
-                        <li class="widgetItem" data-event-i-d="689">
-                         <h4 class="widgetTitle">
-                          Mon, Oct. 5
-                         </h4>
-                         <div class="widgetDesc">
-                          <strong>
-                           <a href="/Calendar.aspx?EID=689">
-                            Deadline to Register to Vote - 2026 General Election
-                           </a>
-                          </strong>
-                         </div>
-                        </li>
                         <li class="widgetItem" data-event-i-d="897">
                          <h4 class="widgetTitle">
                           Mon, Oct. 19 - Sun, Nov. 1
@@ -777,6 +790,18 @@
                           <strong>
                            <a href="/Calendar.aspx?EID=674">
                             Election Day - 2026 General Election
+                           </a>
+                          </strong>
+                         </div>
+                        </li>
+                        <li class="widgetItem" data-event-i-d="691">
+                         <h4 class="widgetTitle">
+                          Tue, Nov. 3
+                         </h4>
+                         <div class="widgetDesc">
+                          <strong>
+                           <a href="/Calendar.aspx?EID=691">
+                            Deadline to Return Your Vote-by-Mail Ballot - 2026 General Election
                            </a>
                           </strong>
                          </div>
@@ -829,7 +854,6 @@
                     <p class="data">
                      As of:
                      <span class="dateValue dataValue">
-                      10/5/26
                      </span>
                     </p>
                    </div>
@@ -837,7 +861,6 @@
                     <p class="data">
                      Democrats:
                      <span class="demValue dataValue">
-                      313,006
                      </span>
                     </p>
                    </div>
@@ -845,7 +868,6 @@
                     <p class="data">
                      Republicans:
                      <span class="repValue dataValue">
-                      305,108
                      </span>
                     </p>
                    </div>
@@ -853,7 +875,6 @@
                     <p class="data">
                      No Party Affiliation:
                      <span class="npaValue dataValue">
-                      233,296
                      </span>
                     </p>
                    </div>
@@ -861,7 +882,6 @@
                     <p class="data">
                      Minor Parties:
                      <span class="othValue dataValue">
-                      35,818
                      </span>
                     </p>
                    </div>
@@ -869,7 +889,6 @@
                     <p class="data">
                      Total:
                      <span class="totValue dataValue">
-                      887,228
                      </span>
                     </p>
                    </div>
@@ -902,10 +921,10 @@
                   </div>
                  </div>
                  <div class="widgetBody cpGrid cpGrid6">
-                  <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
+                  <nav class="widgetGraphicLinksNav">
                    <div class="row autoWidths center">
                     <div class="col col1 first">
-                     <ul class="semanticList">
+                     <ul class="semanticList" role="presentation">
                       <li class="widgetItem GraphicLinks">
                        <a class="widgetDesc widgetGraphicLinksLink" href="/facebook" target="_self">
                         <img alt="Facebook" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=40'" onfocus="this.src='/ImageRepository/Document?documentID=40'" onmouseout="this.src='/ImageRepository/Document?documentID=40'" onmouseover="this.src='/ImageRepository/Document?documentID=40'" src="/ImageRepository/Document?documentID=40"/>
@@ -914,7 +933,7 @@
                      </ul>
                     </div>
                     <div class="col col1">
-                     <ul class="semanticList">
+                     <ul class="semanticList" role="presentation">
                       <li class="widgetItem GraphicLinks">
                        <a class="widgetDesc widgetGraphicLinksLink" href="/twitter" target="_self">
                         <img alt="X" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=63'" onfocus="this.src='/ImageRepository/Document?documentID=63'" onmouseout="this.src='/ImageRepository/Document?documentID=63'" onmouseover="this.src='/ImageRepository/Document?documentID=63'" src="/ImageRepository/Document?documentID=63"/>
@@ -923,7 +942,7 @@
                      </ul>
                     </div>
                     <div class="col col1">
-                     <ul class="semanticList">
+                     <ul class="semanticList" role="presentation">
                       <li class="widgetItem GraphicLinks">
                        <a class="widgetDesc widgetGraphicLinksLink" href="/instagram" target="_self">
                         <img alt="Instagram" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=41'" onfocus="this.src='/ImageRepository/Document?documentID=41'" onmouseout="this.src='/ImageRepository/Document?documentID=41'" onmouseover="this.src='/ImageRepository/Document?documentID=41'" src="/ImageRepository/Document?documentID=41"/>
@@ -932,7 +951,7 @@
                      </ul>
                     </div>
                     <div class="col col1">
-                     <ul class="semanticList">
+                     <ul class="semanticList" role="presentation">
                       <li class="widgetItem GraphicLinks">
                        <a class="widgetDesc widgetGraphicLinksLink" href="/youtube" target="_self">
                         <img alt="YouTube" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=43'" onfocus="this.src='/ImageRepository/Document?documentID=43'" onmouseout="this.src='/ImageRepository/Document?documentID=43'" onmouseover="this.src='/ImageRepository/Document?documentID=43'" src="/ImageRepository/Document?documentID=43"/>
@@ -941,7 +960,7 @@
                      </ul>
                     </div>
                     <div class="col col1">
-                     <ul class="semanticList">
+                     <ul class="semanticList" role="presentation">
                       <li class="widgetItem GraphicLinks">
                        <a class="widgetDesc widgetGraphicLinksLink" href="https://www.linkedin.com/company/votepalmbeach" target="_self">
                         <img alt="LinkedIn" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=44'" onfocus="this.src='/ImageRepository/Document?documentID=44'" onmouseout="this.src='/ImageRepository/Document?documentID=44'" onmouseover="this.src='/ImageRepository/Document?documentID=44'" src="/ImageRepository/Document?documentID=44"/>
@@ -950,7 +969,7 @@
                      </ul>
                     </div>
                     <div class="col col1 last">
-                     <ul class="semanticList">
+                     <ul class="semanticList" role="presentation">
                       <li class="widgetItem GraphicLinks">
                        <a class="widgetDesc widgetGraphicLinksLink" href="https://nextdoor.com/agency-detail/fl/palm-beach-county/palm-beach-county-supervisor-of-elections/" target="_self">
                         <img alt="Nextdoor" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=61'" onfocus="this.src='/ImageRepository/Document?documentID=61'" onmouseout="this.src='/ImageRepository/Document?documentID=61'" onmouseover="this.src='/ImageRepository/Document?documentID=61'" src="/ImageRepository/Document?documentID=61"/>
@@ -986,15 +1005,15 @@
              <div class="row nest first last">
               <div class="inner col col4 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
-                <section aria-label="Info Advanced" class="widget widgetInfoAdvanced skin45 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                 <header class="widgetHeader" id="headerGUID">
+                <section class="widget widgetInfoAdvanced skin45 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
+                 <header class="widgetHeader" id="headerGUID" role="presentation">
                   <div class="">
                   </div>
                  </header>
                  <div class="widgetBody cpGrid cpGrid1">
                   <div class="row">
                    <div class="col col1 first last">
-                    <ol class="pageStyles semanticList">
+                    <ol class="pageStyles semanticList" role="presentation">
                      <li class="InfoAdvanced widgetItem fr-view">
                       <p>
                        <a href="/">
@@ -1026,9 +1045,9 @@
               <div class="inner col col9 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
                 <section aria-labelledby="headerGUID" class="widget widgetInfoAdvanced skin37 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                 <header class="widgetHeader" id="headerGUID">
+                 <header class="widgetHeader" id="headerGUID" role="presentation">
                   <div class="">
-                   <h3>
+                   <h3 aria-level="2" role="heading">
                     Contact Us
                    </h3>
                   </div>
@@ -1112,9 +1131,9 @@
               <div class="inner col col5 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/QuickLinks/Widget" data-widget-id="GUID">
                 <section aria-labelledby="quickLinksHeaderGUID" class="widget widgetQuickLinks skin37 widgetOptionSet33" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="quickLinks" id="widgetQuicklinkGUID">
-                 <header class="widgetHeader" id="quickLinksHeaderGUID">
+                 <header class="widgetHeader" id="quickLinksHeaderGUID" role="presentation">
                   <div class="">
-                   <h3>
+                   <h3 aria-level="2" role="heading">
                     <a href="/QuickLinks.aspx?CID=15">
                      Popular Links
                     </a>
@@ -1181,9 +1200,9 @@
               <div class="inner col col4 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/QuickLinks/Widget" data-widget-id="GUID">
                 <section aria-labelledby="quickLinksHeaderGUID" class="widget widgetQuickLinks skin37 widgetOptionSet33" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="quickLinks" id="widgetQuicklinkGUID">
-                 <header class="widgetHeader" id="quickLinksHeaderGUID">
+                 <header class="widgetHeader" id="quickLinksHeaderGUID" role="presentation">
                   <div class="">
-                   <h3>
+                   <h3 aria-level="2" role="heading">
                     <a href="/QuickLinks.aspx?CID=16">
                      Site Links
                     </a>
@@ -1260,15 +1279,15 @@
             <div class="row nest first last">
              <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
               <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
-               <section aria-label="Info Advanced" class="widget widgetInfoAdvanced skin39 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                <header class="widgetHeader" id="headerGUID">
+               <section class="widget widgetInfoAdvanced skin39 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
+                <header class="widgetHeader" id="headerGUID" role="presentation">
                  <div class="">
                  </div>
                 </header>
                 <div class="widgetBody cpGrid cpGrid1">
                  <div class="row">
                   <div class="col col1 first last">
-                   <ol class="pageStyles semanticList">
+                   <ol class="pageStyles semanticList" role="presentation">
                     <li class="InfoAdvanced widgetItem fr-view">
                      <p>
                       <strong>
@@ -1323,9 +1342,9 @@
   </div>
   <div id="google-translate-container">
    <div id="google_translate_element">
-    <div class="skiptranslate goog-te-gadget" dir="ltr">
+    <div aria-label="Website Translation by Google Translate" class="skiptranslate goog-te-gadget" dir="ltr" role="region">
      <div id=":0.targetLanguage">
-      <select aria-label="google translate languages" class="goog-te-combo">
+      <select aria-label="Select Language" class="goog-te-combo">
        <option value="">
         Select Language
        </option>
@@ -2077,7 +2096,7 @@
      </div>
      Powered by
      <span>
-      <a class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" target="_blank">
+      <a aria-describedby="audioeye_new_window_message" class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" rel="noopener" target="_blank">
        <img alt="Google Translate" height="14px" src="https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png" width="37px"/>
        Translate
       </a>
@@ -2095,23 +2114,27 @@
    <div id="frase-wrapper">
    </div>
   </div>
-  <ul class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" id="ui-id-1" tabindex="0">
+  <ul class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" id="ui-id-1" role="presentation" tabindex="0">
   </ul>
   <div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status">
   </div>
-  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="menu">
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="presentation">
    <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
    </div>
   </aside>
-  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101" role="menu">
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101" role="presentation">
    <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
    </div>
   </aside>
-  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31" role="menu">
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31" role="presentation">
    <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
    </div>
   </aside>
-  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="menu">
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="presentation">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="presentation">
    <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
    </div>
   </aside>
@@ -2162,12 +2185,47 @@
     </div>
    </div>
   </div>
-  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="menu">
-   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-   </div>
-  </aside>
   <div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf">
    <div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO">
+   </div>
+  </div>
+  <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
+   <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
+   </a>
+   <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
+   </a>
+  </div>
+  <div data-nosnippet="" id="ae_app">
+   <div class="ae-module" id="ae_helpers">
+   </div>
+   <div class="ae-module" id="ae_compliance">
+   </div>
+   <aside aria-label="Accessibility options" class="ae-module ae-active ae-cta-position-preset-right-lower" dir="ltr" id="ae_launcher">
+    <button aria-label="Explore your accessibility options">
+     <div class="ae-left">
+      <span>
+       Explore your accessibility options
+      </span>
+     </div>
+     <div class="ae-right">
+      <span class="icomoon-wrapper">
+       <div>
+        <span class="icomoon-cta ae-icon-launcher-universalaccess ae-initial-cta">
+         <span class="icomoon-cta path1 a11y-icon-figure-and-border">
+         </span>
+         <span class="icomoon-cta path2 a11y-icon-background">
+         </span>
+        </span>
+       </div>
+      </span>
+     </div>
+    </button>
+   </aside>
+   <span aria-hidden="true" id="ae_placeholder_toolbar">
+   </span>
+   <span aria-hidden="true" id="ae_placeholder_site-menu">
+   </span>
+   <div aria-live="assertive" aria-relevant="additions" class="ae-blurb-noaudio" id="ae_enabled_messages">
    </div>
   </div>
  </body>
