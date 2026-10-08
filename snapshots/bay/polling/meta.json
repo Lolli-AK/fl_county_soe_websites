@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-06T14:34:46Z",
-  "html_sha256": "f70fea48776837ac3e8739f265984fa5c5e7e79951f55e874f78702cf4a76e3f",
+  "fetched_at": "2026-10-08T15:03:15Z",
+  "html_sha256": "439a58d90da6751047d24615a090d0017a06f38f0c75b22cbf05c915178e54d0",
   "text_sha256": "3f8821eec1a9e9d32f0b50c94819ba5926fba977a6c84ca45da551051fab076b",
-  "byte_size": 54510,
+  "byte_size": 54374,
   "title": "Where to Vote in Person | Bay County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

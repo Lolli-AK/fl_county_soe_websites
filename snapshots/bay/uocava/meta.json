@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-06T14:34:46Z",
-  "html_sha256": "1f966fbda44cf55d90eeb4cb5150c88ee5acc7ade9564847791af5d977d678c1",
+  "fetched_at": "2026-10-08T15:03:15Z",
+  "html_sha256": "ec59d26fb7d9fb164b52941f1d4139fb412d515795f82272e691517bf2fbb663",
   "text_sha256": "ae97ab0f01d301116b0c22cfd3eb0d24007e4204339e84eed8c33ec2b3ed579e",
-  "byte_size": 60715,
+  "byte_size": 60591,
   "title": "Military & Overseas Voters | Bay County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

@@ -156,15 +156,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 10/06/2026
+Voter Totals as of: 10/08/2026
 Democrats
-3,862
+3,879
 Republicans
 5,307
 Other
-1,350
+1,351
 Total
-10,519
+10,537
 Voter Turnout
 Upcoming Elections
 Nov 3, 2026 7:00am
@@ -192,7 +192,7 @@ Florida Statute 100.032 requires every county supervisor of elections to post an
 Read Full Announcement
 July 6, 2026
 DEADLINE -
-The last day to register to vote for the November General Election is Monday, October…
+The last day to request a Vote-by-Mail ballot to be mailed for the November General…
 Read Full Announcement
 March 30, 2026
 Active Petition Signature Verification Report

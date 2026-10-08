@@ -28,11 +28,17 @@ Hours
 25
 Minutes
 As of:
+10/8/26
 Democrats:
+247,224
 Republicans:
+239,453
 No Party Affiliation:
+143,190
 Other:
+24,848
 Total:
+654,715
 News & Notices
 Press Releases
 Today is the final day to register to vote for the 2026 General Election
@@ -99,10 +105,6 @@ Sat
 29
 30
 31
-Tue, Oct. 6
-General Early Voting Poll Watchers Submission Deadline
-General Early Voting Poll Watchers Submission Deadline
-Read on...
 Thu, Oct. 15
 Naturalization
 Naturalization
@@ -110,6 +112,10 @@ Read on...
 Thu, Oct. 15
 Election Center Tour for Jacksonville Junior League
 Election Center Tour for Jacksonville Junior League
+Read on...
+Mon, Oct. 19
+Speaking Engagement for All Voting is Local
+Speaking Engagement for All Voting is Local
 Read on...
 Tue, Oct. 20
 General Election Day Poll Watchers Submission Deadline

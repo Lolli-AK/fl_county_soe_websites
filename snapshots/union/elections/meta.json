@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-06T14:34:46Z",
-  "html_sha256": "78351c9940237019f47c4165e232f9a4e064124b2a9a1005586272a2997f46d6",
+  "fetched_at": "2026-10-08T15:03:15Z",
+  "html_sha256": "cef64c752f9861ec1319b45cf73f263ffcc418180b2d8133e09a19bb79b3e41f",
   "text_sha256": "9ed8c3e69d23cb560c8348c510ae683ebf670fa54989d0bf0423baaa75957c26",
-  "byte_size": 73595,
+  "byte_size": 73591,
   "title": "Upcoming Elections | Union County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

@@ -9,15 +9,15 @@ How-To Videos
 Search
 [rotating image slideshow removed for determinism]
 Active Registered Voters:
-10/6/26
+10/8/26
 Democrats:
-29,812
+29,822
 Republicans:
-85,625
+85,689
 Other:
-40,375
+40,395
 Total:
-155,812
+155,906
 Register to Vote
 Vote-By-Mail
 Where Do I Vote?
@@ -39,6 +39,7 @@ Election Day
 View All Events
 /Calendar.aspx
 Sample Ballot
+Ballot Drop Off Locations
 Early Voting Locations
 Important Dates
 Legal Notices

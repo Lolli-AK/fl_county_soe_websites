@@ -18,11 +18,17 @@ Contact Us
 Voter Stats
 Voter statistics in Collier County
 As of:
+10/8/26
 Democrats:
+51,542
 Republicans:
+147,090
 No Party Affiliation:
+58,333
 Other:
+8,684
 Total:
+265,649
 Vote by Mail
 Request My Vote-by-Mail Ballot
 Track My Vote-by-Mail Ballot
@@ -43,16 +49,16 @@ stay up-to-date
 News
 Upcoming Events
 News
+Supervisor of Elections Office Begins Mailing Sample Ballots for the 2026 General Election
+Collier County, Fla. — October 8, 2026: The Collier County Supervisor of Elections office began mailing sample ballots today to all eligible registered voters who have not requested a Vote-by-Mail ballot for the upcoming General Election.
+Read on...
+about
 The Voter Registration Deadline for the 2026 General Election is Today
 Collier County, Fla. — October 5, 2026: The deadline to register to vote for the 2026 General Election is today, October 5.
 Read on...
 about
 Voter Turnout Figures are Online for the 2026 General Election
 Collier County, Fla. — October 2, 2026: The Collier County Supervisor of Elections office has posted the voter turnout-tracking feature on their website for the General Election.
-Read on...
-about
-Collier County Supervisor of Elections Launches Art for Democracy Contest
-Collier County, Fla.— October 1, 2026: The Collier County Supervisor of Elections office is excited to announce their partnership with Collier County Public Schools and Champions For Learning for the 2026 Art for Democracy contest.
 Read on...
 about
 /CivicAlerts.aspx
@@ -101,10 +107,6 @@ S
 29
 30
 31
-Wed, Oct 7
-Outreach - Estates Library
-Outreach - Estates Library
-Read On
 Thu, Oct 8
 Outreach - East Naples Civic & Commerce Candidate Forum
 Outreach - East Naples Civic & Commerce Candidate Forum
@@ -116,6 +118,10 @@ Read On
 Mon, Oct 12
 Outreach - South Regional Library
 Outreach - South Regional Library
+Read On
+Tue, Oct 13
+Outreach - East Naples Library
+Outreach - East Naples Library
 Read On
 View All Events
 /Calendar.aspx

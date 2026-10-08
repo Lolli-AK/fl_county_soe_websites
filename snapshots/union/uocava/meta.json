@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-06T14:34:46Z",
-  "html_sha256": "978e284d48c8e90744bc12338e015fbf946bc1fd1656fddfd66a67154aab8700",
+  "fetched_at": "2026-10-08T15:03:15Z",
+  "html_sha256": "e3af1887c4f04856727a9637f3749b9dffe09daa0155906c45806eabba35b264",
   "text_sha256": "483701efa145c91dfe7bd4ee41a5de0e9e4cabde9e089b031e68a3e4da72f634",
-  "byte_size": 73786,
+  "byte_size": 73782,
   "title": "Military & Overseas Voting | Union County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

@@ -258,15 +258,15 @@ Powered by
 Translate
 Search
 Active Registered Voters:
-10/6/26
+10/8/26
 Democrats:
-108,834
+109,091
 Republicans:
-249,851
+250,035
 Other:
-145,076
+145,253
 Total:
-503,761
+504,379
 Back to Home
 Register to Vote
 Vote By Mail
@@ -379,11 +379,6 @@ Third Party Voter Registration
 Update My Voter Registration Information
 Voter's Guide
 Important Information
-Voter Registration Deadline
-The deadline to register to vote for the November 3, 2026, General Election is Monday, October 5.
-For more information on registering to vote,
-visit our Voter Registration Information page
-.
 Vote-by-Mail Request Renewal Required
 The deadline to request a Vote-by-Mail ballot for the November 3, 2026, General Election is 5:00 pm, Thursday, October 22.
 Under Florida law, all previous Vote-by-Mail requests have expired. You must
@@ -396,6 +391,9 @@ View the all-inclusive Sample Ballot
 Important Note
 Town of Fort Myers Beach Town Council candidate John McLean has withdrawn from the race. Due to the late withdrawal, his name will still appear on the ballot. Any votes for balloted, withdrawn candidates will be tallied but will not count.
 Gateway Services Community Development District Seat 4 candidate Paul LeoGrande has withdrawn from the race. Due to the late withdrawal, the candidate's name and contest will still appear on the ballot. A vote cast in the Gateway Services Community Development District Seat 4 race will not change the outcome, as the remaining candidate is deemed by law to be unopposed and elected for that race. All votes cast in this race will be tallied but will not count.
+Current Election Statistics
+View a breakdown of ballots cast for an upcoming election.
+On election night, Tuesday, November 3, we will release and post preliminary, unofficial local election results shortly after 7:00 p.m. The 1st unofficial results, 2nd unofficial results (only for recounts), and official results will be compiled on the dates designated by the Canvassing Board Meetings and Logic and Accuracy Testing Schedule
 Updating your Florida Driver's License or ID Card Number
 Have you recently updated or been issued a new Florida driver's license or ID card? Due to changes implemented to the numbering system
 by the Department of Highway Safety and Motor Vehicles (DHSMV)
@@ -410,6 +408,11 @@ Complete and submit a Florida Voter Registration Application
 Florida Voter Registration Application (English PDF)
 Florida Voter Registration Application (Spanish PDF)
 Update your registration when you update your driver’s license or ID card at the DMV.
+Voter Registration Deadline
+The deadline to register to vote for the November 3, 2026, General Election was Monday, October 5.
+For more information on registering to vote,
+visit our Voter Registration Information page
+.
 Congressional Redistricting
 In 2026, the Florida Legislature passed House Bill 1D, which establishes new or revised congressional districts in several counties across the state. While Lee County’s voters remain in either Congressional District 17 or 19, your congressional district may have changed from 17 to 19 or vice versa under the new legislative map. Some voters will not experience a change in their congressional district.
 View your personalized voting information, including your Congressional District, here.
@@ -449,6 +452,9 @@ City of Cape Coral General Election
 City of Fort Myers General Election
 Town of Fort Myers Beach Regular Election
 Current Press Releases
+Lee County Elections to conduct testing of voting equipment for the 2026 general election
+Read on...
+about Lee County Elections to conduct testing of voting equipment for the 2026 general election
 Lee County Supervisor of Elections mails ballots for the 2026 general election
 Read on...
 about Lee County Supervisor of Elections mails ballots for the 2026 general election

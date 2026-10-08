@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-06T14:34:46Z",
-  "html_sha256": "ff94093ba29bcb928effe7076fefa4353a3ea3a0d8356167f522c584253cdbba",
+  "fetched_at": "2026-10-08T15:03:15Z",
+  "html_sha256": "61cc8a057593e2ea9250f17489686ca23a78832b196debb842e63ea2067d2d31",
   "text_sha256": "070c3f5b47bae51c92aa519aedea9eb1ba3d11c3a59fc27b2ebf23eb07292391",
-  "byte_size": 62260,
+  "byte_size": 62240,
   "title": "Where to Vote | Gulf County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

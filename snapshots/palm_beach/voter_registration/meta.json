@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votepalmbeach.gov/161/Voter-Registration"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-06T14:34:46Z",
-  "html_sha256": "792804a92668e787fd4b40b60fc62fae99d8976fabea8e9b228ef514061c185c",
-  "text_sha256": "59395b8b7ea0db2ccbd03afb56004c682f4fe68e691a637ee6a88bdcea01a0dc",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-08T15:03:15Z",
+  "html_sha256": "535db7b40f480a58eeb86274873dbdc06ef4f2bc5daac3ffdbd9e8df70373fab",
+  "text_sha256": "71f95d4465b182fa3ae918d4270d6fdaee613c3aa8630d46d299c1bbba5a726b",
+  "byte_size": 68484,
+  "title": "Voter Registration | Palm Beach County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

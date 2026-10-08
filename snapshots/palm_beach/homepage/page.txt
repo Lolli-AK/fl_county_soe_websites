@@ -56,16 +56,16 @@ Notices
 Full Calendar
 Election Dates and Deadlines
 Full Calendar
-Wed, Oct. 7
-Logic and Accuracy Test and Canvassing Board Meeting
-Thu, Oct. 8
-Public Viewing
 Thu, Oct. 8
 Opening/Tabulation/Duplication and Audit Scanning (as needed)
 Fri, Oct. 9
 Public Viewing
 Fri, Oct. 9
 Opening/Tabulation/Duplication and Audit Scanning (as needed)
+Mon, Oct. 12
+Offices Closed - Columbus Day
+Tue, Oct. 13
+Public Viewing
 View All Events
 /Calendar.aspx
 Election Dates and Deadlines
@@ -81,11 +81,17 @@ View All Events
 /Calendar.aspx
 Active Registered Voters
 As of:
+10/8/26
 Democrats:
+314,000
 Republicans:
+305,487
 No Party Affiliation:
+233,645
 Minor Parties:
+35,918
 Total:
+889,050
 Contact Us
 Main Office
 4301 Cherry Road, West Palm Beach, FL 33409

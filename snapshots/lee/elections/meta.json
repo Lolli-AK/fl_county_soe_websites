@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.lee.vote/172/Election-Information"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-06T14:34:46Z",
-  "html_sha256": "162e56ce6e3826d1df0dfcd60983dcf9e715656083fc8fa2bd75e724e4d8d036",
-  "text_sha256": "e81d8a69761a5a2beaff451f432cbc0447dd1e88e9cd81afa8efc75d414973d3",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-08T15:03:15Z",
+  "html_sha256": "b8f2adf186e86e30756de822ec160cd326d2e3f096971e13bc4c32ce3c142e76",
+  "text_sha256": "86387f11185ddaa8c6a21d15fa57f2ae9d846e5f0f31f2ae3c918d97884c5e1e",
+  "byte_size": 76029,
+  "title": "Election Information | Lee County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

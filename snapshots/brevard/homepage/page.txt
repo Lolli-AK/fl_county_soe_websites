@@ -121,17 +121,17 @@ Welcome to the Brevard County
 Supervisor of Elections
 Tim Bobanic
 Active Registered Voters as of:
-10/06/2026
+10/08/2026
 Republican
-207,901
+208,008
 Democratic
-112,445
+112,572
 Non-Partisan
-107,029
+107,171
 Others
-19,206
+19,232
 Total
-446,581
+446,983
 2026 General Election Sample Ballots
 View Your 2026 General Election Sample Ballot
 Secure Ballot Intake Station Locations & Hours
@@ -171,10 +171,6 @@ Facebook
 X
 Brevard County Supervisor of Elections
 Upcoming Events
-October 5, 2026
-All day
-Book Closing - 2026 General Election
-Read More
 October 19, 2026
 8:00 AM -
 6:00 PM
@@ -195,11 +191,15 @@ October 22, 2026
 6:00 PM
 Early Voting - 2026 General Election
 Read More
+October 22, 2026
+5:00 PM -
+Last Day to Request a Mail Ballot to be sent - 2026 General Election
+Read More
 Brevard County Supervisor of Elections
 Election Public Notices
 Tuesday, May 19, 2026
 Notice of 2026 General Election Canvassing Board Schedule
-Updated 8/31/2026
+Updated 10/07/2026
 Read More
 Friday, March 13, 2026
 Notice of 2026 Primary Election Canvassing Board Schedule

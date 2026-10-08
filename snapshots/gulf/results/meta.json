@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-06T14:34:46Z",
-  "html_sha256": "426ce2d3fc70de21b5507ba7483a7e38f8e76d88f44f3c67c25283a69536d624",
+  "fetched_at": "2026-10-08T15:03:15Z",
+  "html_sha256": "9ff8755a9ebb249ec5d292d016b6f85cfcdeb6995d089a21161aa118c6207e63",
   "text_sha256": "5b0cae7cda9b0b231c95b084faab7f197271c7dd1c5fd1fefe9673f75d9cee71",
-  "byte_size": 55582,
+  "byte_size": 55562,
   "title": "Election Results | Gulf County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

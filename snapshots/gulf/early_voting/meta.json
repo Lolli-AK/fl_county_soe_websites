@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-06T14:34:46Z",
-  "html_sha256": "96338dda56e4c64e6b569fb54771d473124ca13d8b866187798c64abb4797a98",
+  "fetched_at": "2026-10-08T15:03:15Z",
+  "html_sha256": "091fb4dad1a82b04d0ce0f2e35be801d18f5f75cfc2cec02e9fd58d8870c716f",
   "text_sha256": "f8a10ec14050d8bb803d7783ea79f62baa6694f90a15e43575d732004c27bf6a",
-  "byte_size": 58404,
+  "byte_size": 58384,
   "title": "Vote Early | Gulf County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

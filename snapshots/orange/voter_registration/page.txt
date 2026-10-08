@@ -1,8 +1,5 @@
 How to Register to Vote | Orange County Florida | OCSOE
 Skip to content
-EN
-|
-ES
 Register to Vote
 Search
 Search
@@ -119,7 +116,6 @@ Maps
 Sample Ballots
 Election Mail
 Submit A Public Records Request
-‹
 Home
 /
 Register to Vote
@@ -198,7 +194,7 @@ Voter Registration Cancellation Form (English/Spanish)
 . Once our office receives your completed form, we will promptly remove your name from the Florida Voter Registration System. You can return your signed form to our office using any of the following convenient methods:
 By Email
 –
-voter@voteorangefl.gov
+[email protected]
 By Mail
 – PO Box 562001 Orlando FL 32856-2001
 In Person

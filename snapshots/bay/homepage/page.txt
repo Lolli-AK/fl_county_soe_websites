@@ -163,15 +163,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(10/05/2026)
+(10/08/2026)
 Democrats
-23,928
+24,022
 Republicans
-75,353
+75,455
 Other
-29,135
+29,160
 Total
-128,416
+128,637
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -194,15 +194,20 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 14 minutes ago
-Know Before You Go! 🚗 🚙 🚕
-Are you ready to vote? Take a moment to check your voting status and ensure you are set for the upcoming General Election.
-Check your status at the link below:
-https://www.bayvotesfl.gov/voters/check-voter-status/
+posted 1 hour ago
+🗳️ DON’T FORGET TO RETURN YOUR VOTE-BY-MAIL BALLOT!
+Haven’t returned your Vote-by-Mail ballot yet? Don’t wait!
+Return your ballot as soon as possible by mail or drop it off at the Bay County Supervisor of Elections Office.
+⏰ Important: Your Vote-by-Mail ballot must be received by the Supervisor of Elections Office no later than 7:00 p.m. on Election Night in order to be counted.
+Make your voice heard. Return your ballot today!
 View Facebook Post
 (opens in a new tab)
 Public Notices
 All Public Notices
+Office Closure
+October 10, 2026
+Read
+Full Notice
 Notice of Election - General
 November 3, 2026
 Read
