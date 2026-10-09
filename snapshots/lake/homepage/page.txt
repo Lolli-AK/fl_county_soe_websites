@@ -41,17 +41,17 @@ Public Notices
 View All News
 /CivicAlerts.aspx
 As of:
-10/8/26
+10/9/26
 Democrats:
-70,331
+70,351
 Republicans:
-135,775
+135,812
 No Party Affiliation:
-66,545
+66,563
 Other:
-10,923
+10,934
 Total:
-283,574
+283,660
 Calendar
 Stay up to date
 Important Dates

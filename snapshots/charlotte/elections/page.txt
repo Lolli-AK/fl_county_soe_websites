@@ -1,5 +1,4 @@
 Election Information | Charlotte County Elections, FL
-Loading
 Skip to Main Content
 About
 Election Information
@@ -31,6 +30,8 @@ ExpressVote
 DS850
 VerifyNow Pro
 What to Expect at the Polls
+Find Your Polling Location
+Identification Requirements at the Polls
 Home
 Election Information
 Election Information
@@ -94,3 +95,4 @@ Loading
 Loading
 Do Not Show Again
 Close
+[]

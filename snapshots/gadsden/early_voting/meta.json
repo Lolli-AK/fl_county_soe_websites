@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-08T15:03:15Z",
-  "html_sha256": "cfd91e9c31c336f2aa2e8221b77182c7ec04cf976e46e8408b11a0e98477575f",
+  "fetched_at": "2026-10-09T14:46:52Z",
+  "html_sha256": "eb5465fe72fd7e1c420db04a6d20b6565bc74fa4f428f9ec5451def26a6897a5",
   "text_sha256": "aeceacac3464f96905a2319582778554cc71a34b1152548c5f9b91ccd4df7eb3",
-  "byte_size": 65942,
+  "byte_size": 67350,
   "title": "Early Voting – Gadsden County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

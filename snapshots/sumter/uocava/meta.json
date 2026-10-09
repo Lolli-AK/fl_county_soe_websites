@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-08T15:03:15Z",
-  "html_sha256": "ee81560520a14d0db015356b7ec0639b1dfc0dfe259013ee46bc0f42f76c9c2e",
+  "fetched_at": "2026-10-09T14:46:52Z",
+  "html_sha256": "7bcdfef924330cbad1615b11ecdc31967e5fc5ef8a88f42deedb9e40592b2ac0",
   "text_sha256": "c0c1459368a24eb342469e2deeab81aeaff86f7792ee2183387bde43c5b24944",
-  "byte_size": 70474,
+  "byte_size": 70473,
   "title": "Military & Overseas Voters OR Residency Questions | Sumter County Elections, FL",
   "noncitizen_voting": {
     "present": false,

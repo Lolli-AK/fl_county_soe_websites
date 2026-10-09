@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="removeSetHeights" lang="en">
+<html class="removeSetHeights no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-muli-n4-active wf-muli-i4-active wf-muli-n7-active wf-muli-n3-active" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -15,7 +15,17 @@
   </title>
   <meta content="See current and upcoming election registration deadlines.  " name="description"/>
  </head>
- <body class="wide doneLoading">
+ <body class="wide cpTextResizeOn doneLoading">
+  <div id="divAjaxProgress">
+   <div id="divAjaxShade">
+   </div>
+   <div class="loading" id="divAjaxImgProgress">
+    <img alt="Loading" src="/Common/images/ajax-loader.gif" title="Loading"/>
+    <p>
+     Loading
+    </p>
+   </div>
+  </div>
   <div class="cp-PopOver cp-PopOver--modal" id="popoverModal">
    <div class="cp-PopOver-header">
     <h3 class="cp-PopOver-title">
@@ -77,53 +87,43 @@
              <ol class="rootNavMenu" data-parent="1" id="mainNavMenu" role="menu">
               <li class="topMenuItem" data-displaymegamenu="True" data-pageid="295" id="MainItem295" role="none">
                <a aria-controls="mainNavMegaMenu295" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem1" href="/295/Voters" id="mainNavVoters" role="menuitem" target="_self">
-                Voters
+                <span>
+                 Voters
+                </span>
                </a>
               </li>
               <li class="topMenuItem" data-displaymegamenu="True" data-pageid="163" id="MainItem163" role="none">
                <a aria-controls="mainNavMegaMenu163" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem2" href="/163/Candidates" id="mainNavCandidates" role="menuitem" target="_self">
-                Candidates
+                <span>
+                 Candidates
+                </span>
                </a>
               </li>
               <li class="topMenuItem" data-displaymegamenu="True" data-pageid="296" id="MainItem296" role="none">
                <a aria-controls="mainNavMegaMenu296" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem3" href="/296/Results-Data" id="mainNavResultsData" role="menuitem" target="_self">
-                Results &amp; Data
+                <span>
+                 Results &amp; Data
+                </span>
                </a>
               </li>
               <li class="topMenuItem" data-displaymegamenu="True" data-pageid="297" id="MainItem297" role="none">
                <a aria-controls="mainNavMegaMenu297" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem4" href="/297/Get-RANDOM" id="mainNavGetInvolved" role="menuitem" target="_self">
-                Get Involved
+                <span>
+                 Get Involved
+                </span>
                </a>
               </li>
               <li class="topMenuItem" data-displaymegamenu="True" data-pageid="298" id="MainItem298" role="none">
                <a aria-controls="mainNavMegaMenu298" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem5" href="/298/News-RANDOM" id="mainNavNewsInformation" role="menuitem" target="_self">
-                News &amp; Information
+                <span>
+                 News &amp; Information
+                </span>
                </a>
               </li>
              </ol>
              <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu">
               <input id="megaMenuPopupDirection" type="hidden"/>
               <input id="megaMenuWidthReference" type="hidden"/>
-              <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_295 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu295" role="menu">
-               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-               </div>
-              </aside>
-              <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_163 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu163" role="menu">
-               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-               </div>
-              </aside>
-              <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_296 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu296" role="menu">
-               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-               </div>
-              </aside>
-              <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_297 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu297" role="menu">
-               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-               </div>
-              </aside>
-              <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_298 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu298" role="menu">
-               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-               </div>
-              </aside>
              </aside>
             </nav>
            </div>
@@ -169,11 +169,8 @@
         </div>
         <div class="hidden" id="bannerImagesJSON49">
         </div>
-        <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
-         <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
-         </a>
-         <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
-         </a>
+        <div class="bannerObject external fixedBanner" data-image-scale="true" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" data-is-delayed="false" src="/ImageRepository/Document?documentID=1490" width="1280px"/>
         </div>
        </div>
       </div>
@@ -1691,7 +1688,7 @@
      </div>
      Powered by
      <span>
-      <a class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" target="_blank">
+      <a class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" rel="noopener" target="_blank">
        <img alt="Google Translate" height="14px" src="https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png" width="37px"/>
        Translate
       </a>
@@ -1701,9 +1698,6 @@
   </div>
   <div>
   </div>
-  <div class="hidden activeWidgetSkinComponentsOnPageJson">
-   []
-  </div>
   <div>
   </div>
   <div id="root-picker-outlet">
@@ -1712,6 +1706,26 @@
   </ul>
   <div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status">
   </div>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_295 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu295" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_163 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu163" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_296 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu296" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_297 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu297" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_298 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu298" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
   <div class="VIpgJd-yAWNEb-L7lbkb skiptranslate" data-id="" id="goog-gt-tt">
    <div class="VIpgJd-yAWNEb-hvhgNd" id="goog-gt-vt">
     <div class="VIpgJd-yAWNEb-hvhgNd-Ud7fr">
@@ -1762,6 +1776,12 @@
   <div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf">
    <div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO">
    </div>
+  </div>
+  <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
+   <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
+   </a>
+   <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
+   </a>
   </div>
  </body>
 </html>

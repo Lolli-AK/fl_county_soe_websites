@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-08T15:03:15Z",
-  "html_sha256": "abefd1d9781537ffd6caed4061b7008629b581375f149d3d95539099119425cb",
+  "fetched_at": "2026-10-09T14:46:52Z",
+  "html_sha256": "d186d9da513b9cb011b71c05574dcc032ecc95f7a5abc9c2fb406dcfb623c190",
   "text_sha256": "17917f5280a9b614906ff8f45651d0049e6279f690a17e45edf24e7abe6a9b98",
-  "byte_size": 55476,
+  "byte_size": 55399,
   "title": "November Election Early Voting Sites/Secure Ballot Intake Station Locator | Broward County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

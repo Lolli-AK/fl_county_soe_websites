@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-08T15:03:15Z",
-  "html_sha256": "6edc47b6ba13ab1bcd0d09509692492001c7aa38c66443fe1a586d4e8d69898d",
+  "fetched_at": "2026-10-09T14:46:52Z",
+  "html_sha256": "e34d2551915f9b0b362d8e31a7c3159f2c8641676157f22be445b8e0e1a3fedb",
   "text_sha256": "f78f646b312aed4c5a045aaeebe9192d9355714a4e6fc24ef63d2834716b1d85",
-  "byte_size": 43678,
+  "byte_size": 43544,
   "title": "Where to Vote in Person | Suwannee County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

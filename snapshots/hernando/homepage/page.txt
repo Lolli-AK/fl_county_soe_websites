@@ -2,9 +2,6 @@ Hernando County SOE, FL | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Loading
 Skip to Main Content
-Canvassing Board
-The Canvassing Board is in session! Location - 7443 Forest Oaks Blvd. | Spring Hill, FL 34606
-Read On...
 Election Information
 Voter Information
 Candidates
@@ -124,14 +121,14 @@ S
 29
 30
 31
-Thu, Oct. 8
-General Election - Public Logic & Accuracy Test
 Thu, Oct. 15
 General Election - Canvass of Vote-By-Mail Ballots
 Thu, Oct. 22 - Sat, Oct. 31
 Early Voting Period - 2026 General Election
 Thu, Oct. 22
 General Election - Canvass of Vote-By-Mail Ballots
+Thu, Oct. 22
+Deadline to request a Vote-by-Mail ballot - 2026 General Election
 View All Events
 Election Calendar
 /Calendar.aspx

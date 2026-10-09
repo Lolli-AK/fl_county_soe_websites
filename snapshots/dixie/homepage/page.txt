@@ -252,7 +252,7 @@ Yucatec Maya
 Zapotec
 Zulu
 Active Registered Voters
-As of 09/30/2026
+As of 10/08/2026
 Democrats
 0
 Republicans
@@ -535,6 +535,12 @@ See sample ballots for the
 2026 November General Election
 Sample Ballots
 Dates to Remember
+Public Logic & Accuracy Test
+10/15/2026
+1st Day of Early Voting
+10/22/2026
+Last Day to Pick up Mail in Ballot
+10/24/2026
 View Full Calendar
 Notice Of Potential Ineligible Voters
 With the recent passing of Senate Bill 7050, notices of potential ineligibility will now be posted on the Supervisor website.
@@ -557,8 +563,8 @@ or just stop by our office and we will be happy to assist you.
 Darbi Chaires
 Supervisor of Elections
 Dixie County
-229 NE 351 Hwy,
-Cross City, FL 32628
+Physical Address: 229 NE 351 Hwy, Suite A, Cross City, FL
+Mailing Address: PO Box 2057, Cross City, FL 32628
 M-F 8:30 AM to 5 PM
 (352) 498-1216
 [email protected]

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-08T15:03:15Z",
-  "html_sha256": "832730a6a6d334f6497bca62502b9e0cde53d44a7adde4bc1409998bc4bc7e24",
+  "fetched_at": "2026-10-09T14:46:52Z",
+  "html_sha256": "6cc9e333e9d02fe1bbb74eaef2e5e87c7482a276b887b187a346f4fd85bec9fd",
   "text_sha256": "e2086ad425ad401c3b2d39d8021b655b41f1547627ca4903c1b656eeb1c86708",
-  "byte_size": 54438,
+  "byte_size": 54596,
   "title": "Military & Overseas Voters | Hernando County SOE, FL",
   "noncitizen_voting": {
     "present": false,

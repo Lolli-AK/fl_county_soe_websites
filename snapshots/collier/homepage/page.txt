@@ -18,17 +18,17 @@ Contact Us
 Voter Stats
 Voter statistics in Collier County
 As of:
-10/8/26
+10/9/26
 Democrats:
-51,542
+51,587
 Republicans:
-147,090
+147,126
 No Party Affiliation:
-58,333
+58,302
 Other:
 8,684
 Total:
-265,649
+265,699
 Vote by Mail
 Request My Vote-by-Mail Ballot
 Track My Vote-by-Mail Ballot
@@ -107,10 +107,6 @@ S
 29
 30
 31
-Thu, Oct 8
-Outreach - East Naples Civic & Commerce Candidate Forum
-Outreach - East Naples Civic & Commerce Candidate Forum
-Read On
 Fri, Oct 9
 Outreach - Collier County Tax Collector (Government Center)
 Outreach - Collier County Tax Collector (Government Center)
@@ -122,6 +118,10 @@ Read On
 Tue, Oct 13
 Outreach - East Naples Library
 Outreach - East Naples Library
+Read On
+Wed, Oct 14
+Outreach - Golden Gate Library
+Outreach - Golden Gate Library
 Read On
 View All Events
 /Calendar.aspx

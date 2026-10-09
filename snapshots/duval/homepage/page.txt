@@ -28,17 +28,17 @@ Hours
 25
 Minutes
 As of:
-10/8/26
+10/9/26
 Democrats:
-247,224
+247,532
 Republicans:
-239,453
+239,542
 No Party Affiliation:
-143,190
+143,285
 Other:
-24,848
+24,902
 Total:
-654,715
+655,261
 News & Notices
 Press Releases
 Today is the final day to register to vote for the 2026 General Election

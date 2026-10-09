@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-08T15:03:15Z",
-  "html_sha256": "bfec4b8bab0231be7fc374c9c8003a8a8ff639d100c98443ec6ffd0fb1c535a9",
+  "fetched_at": "2026-10-09T14:46:52Z",
+  "html_sha256": "841313f8574efd32ca9b62f43dc897f58859bc83d2a8996b51a3969366746600",
   "text_sha256": "63118096457f69e3a3f8d766cbccbb218fad633637fe983b12034f4e4b87a227",
-  "byte_size": 53226,
+  "byte_size": 53090,
   "title": "Vote Early | Levy County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

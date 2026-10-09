@@ -28,15 +28,15 @@ Track your Vote By Mail ballot
 Find out where you vote on Election Day
 Find a personalized sample ballot
 Active Voter Registration in Hillsborough County:
-822,997
+823,205
 As of:
-10/8/26
+10/9/26
 Democrats:
-276,813
+276,914
 Republicans:
-298,125
+298,185
 Other:
-248,059
+248,106
 News
 2026 General Election Registration Deadline on Monday
 Supervisor of Elections Craig Latimer has some important reminders about the 2026 General Election.

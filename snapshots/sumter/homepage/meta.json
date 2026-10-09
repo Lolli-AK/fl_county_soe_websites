@@ -11,9 +11,9 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-08T15:03:15Z",
-  "html_sha256": "ff3157d911fe257bafb86755e4ca43603fa553c4c33d897f180de68d73da067d",
-  "text_sha256": "43b2ec8c4ee51dc411c5fd01890c98cfa2a42bb0221414b5b166ee89521fd2db",
+  "fetched_at": "2026-10-09T14:46:52Z",
+  "html_sha256": "994c84ad0ca583f28087affefc6eaf6f9128f6c8a7f4452954e48ea489c204fe",
+  "text_sha256": "5d266e618dd7f5b3ae0194eaa51870eb7dea4b184ce073c8ff1de1a93fcd3906",
   "byte_size": 96685,
   "title": "Sumter County Elections, FL | Official Website",
   "noncitizen_voting": {
