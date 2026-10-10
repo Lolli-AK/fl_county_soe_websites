@@ -385,7 +385,6 @@ Important Forms for Elections | Broward County Supervisor of Elections
 11/3/2026 General Election Canvassing Board Meetings
 Legally Required Notices
 Potential Ineligibility Notices - Public Notice- 10/01/2026
-Potential Ineligibility Notices - Public Notice- 09/03/2026
 Notice of General Election in
 English
 /
@@ -401,16 +400,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-10/9/26
-1,366,526
+10/10/26
+1,366,770
 Eligible Voters
-593,521
+593,671
 Democrat
-317,462
+317,524
 Republican
-418,578
+418,595
 NPA
-36,965
+36,980
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-09T14:46:52Z",
-  "html_sha256": "dfbfdd11faa03dd8173b0beeaa82da4ef91f17e9c25c9de8eafc0f7b63bdf4bb",
+  "fetched_at": "2026-10-10T14:04:54Z",
+  "html_sha256": "c3df366b7adfa04ab35ba5906edc9d8deaca8d884b2be0de6ddd336c7d28ee73",
   "text_sha256": "60bcfbdb71158534bee9bcba8f4d8ba1e49b322d29e7c1a2be942096b9a2d94e",
-  "byte_size": 65584,
+  "byte_size": 65727,
   "title": "Notice of Polling Place Change | Okaloosa County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

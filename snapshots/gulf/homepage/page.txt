@@ -130,17 +130,17 @@ Track My Ballot
 Early Voting
 Voting Locations
 Active Registered Voters
-(10/08/2026)
+(10/09/2026)
 Democrats
-2,241
+2,244
 Republicans
 7,294
 No Party Affiliation
-1,269
+1,270
 Other
 394
 Total
-11,198
+11,202
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -156,7 +156,7 @@ Early Voting - General Election
 All Upcoming Dates
 Stay Up to Date
 Gulf County Supervisor of Elections
-posted 7 days ago
+posted 1 week ago
 Know someone that hasn't registered to vote yet? Is it you? A family member? Co-worker? There's still time. Register online or stop by our office Monday...we would love to assist you!
 View Facebook Post
 (opens in a new tab)

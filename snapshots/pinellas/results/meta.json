@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-09T14:46:52Z",
-  "html_sha256": "05fda7752a20b407740b51f0685494a6a10fe415c20cfdf61dbb1cd181735306",
+  "fetched_at": "2026-10-10T14:04:54Z",
+  "html_sha256": "77e6721302693da8301258c031c54b3bed09cd7ac5a9a1354e0316afa033ef58",
   "text_sha256": "11326ae1cb2c77a361b5f1f3e5a535d195de5cb1fb9caf00f6ad1d5633cd6c6a",
-  "byte_size": 127981,
+  "byte_size": 127979,
   "title": "Election Results | Pinellas County Election, FL",
   "noncitizen_voting": {
     "present": false,

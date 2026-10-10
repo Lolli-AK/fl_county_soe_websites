@@ -163,15 +163,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(10/08/2026)
+(10/09/2026)
 Democrats
-24,022
+24,031
 Republicans
-75,455
+75,471
 Other
-29,160
+29,172
 Total
-128,637
+128,674
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -194,7 +194,7 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 16 hours ago
+posted 1 day ago
 ⚠️ OFFICE CLOSURE NOTICE
 Due to the potential impacts of the approaching hurricane, the Bay County Supervisor of Elections Office will be closed Friday, October 9.
 Stay Safe, Bay County!!

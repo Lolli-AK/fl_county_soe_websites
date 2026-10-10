@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-09T14:46:52Z",
-  "html_sha256": "fc2adbd9deee7ab3594752be22de33da9e4935fbed83640df28419d4c2c79071",
+  "fetched_at": "2026-10-10T14:04:54Z",
+  "html_sha256": "2566001446ff4fa4594a06cbb38b89443493c5bee352d671d57e2bce6db480f1",
   "text_sha256": "7de84fc1ef3ed735e73e6aff6f249f57220e32b3a582f60d59587c1ebc56d976",
-  "byte_size": 59387,
+  "byte_size": 59263,
   "title": "Election Results | Madison County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

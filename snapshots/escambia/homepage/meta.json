@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-09T14:46:52Z",
-  "html_sha256": "8f899040ee01694dad870258c378fac4d31a7dd7117e01b00952831cc54dd357",
+  "fetched_at": "2026-10-10T14:04:54Z",
+  "html_sha256": "9866b06c7b83b9cb0b79c74f1ae043d7f26168d28718fee1565f3ba31ec97b7f",
   "text_sha256": "5da2b40386435ea1a3e7d7fb8a0f6a45b075da9f3db97fdf966adf9994f69439",
-  "byte_size": 44863,
+  "byte_size": 44944,
   "title": "EscambiaVotes.gov",
   "noncitizen_voting": {
     "present": false,

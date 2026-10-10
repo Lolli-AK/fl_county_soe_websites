@@ -18,17 +18,17 @@ Contact Us
 Voter Stats
 Voter statistics in Collier County
 As of:
-10/9/26
+10/10/26
 Democrats:
-51,587
+51,605
 Republicans:
-147,126
+147,149
 No Party Affiliation:
-58,302
+58,311
 Other:
-8,684
+8,686
 Total:
-265,699
+265,751
 Vote by Mail
 Request My Vote-by-Mail Ballot
 Track My Vote-by-Mail Ballot
@@ -107,10 +107,6 @@ S
 29
 30
 31
-Fri, Oct 9
-Outreach - Collier County Tax Collector (Government Center)
-Outreach - Collier County Tax Collector (Government Center)
-Read On
 Mon, Oct 12
 Outreach - South Regional Library
 Outreach - South Regional Library
@@ -122,6 +118,10 @@ Read On
 Wed, Oct 14
 Outreach - Golden Gate Library
 Outreach - Golden Gate Library
+Read On
+Thu, Oct 15
+Outreach - Vanderbilt Beach Library
+Outreach - Vanderbilt Beach Library
 Read On
 View All Events
 /Calendar.aspx

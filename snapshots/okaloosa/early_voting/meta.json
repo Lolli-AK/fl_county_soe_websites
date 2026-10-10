@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-09T14:46:52Z",
-  "html_sha256": "f9db3c4b50b1b06733fbfd39a1b36a231e68827b00541df8105dd961a5036d46",
+  "fetched_at": "2026-10-10T14:04:54Z",
+  "html_sha256": "c1d120855dc863bb4a16088259f0fa59de51748b7a79a723702ed36da85f8284",
   "text_sha256": "e7280dcc8e35bcb9fac47474bea73f21af68cce173dba05aff58bac3405600b0",
-  "byte_size": 64395,
+  "byte_size": 64414,
   "title": "Vote Early | Okaloosa County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

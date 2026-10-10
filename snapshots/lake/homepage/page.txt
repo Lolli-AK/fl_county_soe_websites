@@ -41,17 +41,17 @@ Public Notices
 View All News
 /CivicAlerts.aspx
 As of:
-10/9/26
+10/10/26
 Democrats:
-70,351
+70,364
 Republicans:
-135,812
+135,846
 No Party Affiliation:
-66,563
+66,570
 Other:
-10,934
+10,944
 Total:
-283,660
+283,724
 Calendar
 Stay up to date
 Important Dates
@@ -102,21 +102,21 @@ Sat
 29
 30
 31
-Mon, Oct. 5 - Fri, Oct. 9
-2026 General Election--vote-by-mail counter pickups continue
-2026 General Election--vote-by-mail counter pickups continue
-Read on...
-Mon, Oct. 5 - Fri, Oct. 9
-2026 General Election--vote-by-mail mailouts continue to civilian voters
-2026 General Election--vote-by-mail mailouts continue to civilian voters
-Read on...
-Mon, Oct. 5 - Fri, Oct. 9
-2026 General Election--Vote-by-mail mailouts continue to military and overseas voters
-2026 General Election--Vote-by-mail mailouts continue to military and overseas voters
-Read on...
 Mon, Oct. 12 - Fri, Oct. 16
 2026 General Election--vote-by-mail counter pickups continue
 2026 General Election--vote-by-mail counter pickups continue
+Read on...
+Mon, Oct. 12 - Fri, Oct. 16
+2026 General Election--vote-by-mail mailouts continue to civilian voters
+2026 General Election--vote-by-mail mailouts continue to civilian voters
+Read on...
+Mon, Oct. 12 - Fri, Oct. 16
+2026 General Election--Vote-by-mail mailouts continue to military and overseas voters
+2026 General Election--Vote-by-mail mailouts continue to military and overseas voters
+Read on...
+Wed, Oct. 14
+2026 General Election Canvassing Board Meeting & Logic & Accuracy (Public) Test
+2026 General Election Canvassing Board Meeting & Logic & Accuracy (Public) Test
 Read on...
 View All Events
 /Calendar.aspx

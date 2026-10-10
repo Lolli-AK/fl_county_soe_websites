@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="removeSetHeights no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" lang="en">
+<html class="removeSetHeights no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-muli-n3-active wf-muli-n4-active wf-muli-i4-active wf-muli-n7-active" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -15,11 +15,21 @@
   </title>
   <meta content="Military personnel and overseas voters may apply for voter registration and/or request vote by mail ballots with a Federal Postcard Application (FPCA)." name="description"/>
  </head>
- <body class="wide ae-military-overseas-voters-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
+ <body class="wide cpTextResizeOn doneLoading ae-military-overseas-voters-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
   <div aria-live="polite" class="ae-blurb-noaudio" data-nosnippet="" id="ae_enabled_site" role="status">
    <div>
     <p data-modulename="launcher">
      This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+    </p>
+   </div>
+  </div>
+  <div id="divAjaxProgress">
+   <div id="divAjaxShade">
+   </div>
+   <div class="loading" id="divAjaxImgProgress">
+    <img alt="" src="/Common/images/ajax-loader.gif" title="Loading"/>
+    <p>
+     Loading
     </p>
    </div>
   </div>
@@ -78,44 +88,36 @@
          <ol class="rootNavMenu" data-parent="1" id="mainNavMenu" role="menu">
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="27" id="MainItem27" role="none">
            <a aria-controls="mainNavMegaMenu27" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem1" href="/27/Election-RANDOM" id="mainNavElectionInformation" role="menuitem" target="_self">
-            Election Information
+            <span>
+             Election Information
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="31" id="MainItem31" role="none">
            <a aria-controls="mainNavMegaMenu31" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem2" href="/31/Voter-RANDOM" id="mainNavVoterInformation" role="menuitem" target="_self">
-            Voter Information
+            <span>
+             Voter Information
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="35" id="MainItem35" role="none">
            <a aria-controls="mainNavMegaMenu35" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem3" href="/35/Candidates" id="mainNavCandidates" role="menuitem" target="_self">
-            Candidates
+            <span>
+             Candidates
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="9" id="MainItem9" role="none">
            <a aria-controls="mainNavMegaMenu9" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem4" href="/9/Resources" id="mainNavResources" role="menuitem" target="_self">
-            Resources
+            <span>
+             Resources
+            </span>
            </a>
           </li>
          </ol>
          <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu" role="presentation">
           <input id="megaMenuPopupDirection" type="hidden"/>
           <input id="megaMenuWidthReference" type="hidden"/>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="presentation">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31" role="presentation">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="presentation">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="presentation">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
          </aside>
         </nav>
        </div>
@@ -132,7 +134,8 @@
           </div>
          </div>
         </div>
-        <div id="banner1-65">
+        <div class="bannerObject external" data-image-scale="false" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" src="/ImageRepository/Document?documentID=510" width="2200px"/>
         </div>
        </div>
       </div>
@@ -331,12 +334,12 @@
                        <div class="first last">
                         <ol class="semanticList bullets">
                          <li class="widgetItem" data-documentid="304">
-                          <a aria-label="Florida FPCA Information (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/304/Florida-FPCA-RANDOM-PDF">
+                          <a aria-label="Florida FPCA Information (PDF) Opens in new window" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/304/Florida-FPCA-RANDOM-PDF">
                            Florida FPCA Information (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="303">
-                          <a aria-label="Voter Residency in Florida (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/303/Voter-RANDOM-in-Florida-PDF">
+                          <a aria-label="Voter Residency in Florida (PDF) Opens in new window" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/303/Voter-RANDOM-in-Florida-PDF">
                            Voter Residency in Florida (PDF)
                           </a>
                          </li>
@@ -644,7 +647,7 @@
               <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
                <section class="widget widgetSearch skin64 widgetOptionSet37" id="widgetPreviewSearch">
                 <div class="widgetBody buttonRightInside">
-                 <input aria-label="Search Site" class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
+                 <input aria-label="Search Site" autocomplete="off" class="widgetSearchBox widgetSearchBoxGUID ui-autocomplete-input" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
                  <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon">
                   <img alt="Go to Site Search" class="imageHover" data-hover="/ImageRepository/Document?documentID=119" data-image="/ImageRepository/Document?documentID=118" src="/ImageRepository/Document?documentID=118"/>
                  </a>
@@ -1022,13 +1025,30 @@
   </div>
   <div>
   </div>
-  <div class="hidden activeWidgetSkinComponentsOnPageJson">
-   []
-  </div>
   <div>
   </div>
   <div id="root-picker-outlet">
   </div>
+  <ul class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" id="ui-id-1" role="presentation" tabindex="0">
+  </ul>
+  <div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status">
+  </div>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="presentation">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31" role="presentation">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="presentation">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="presentation">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
   <div data-nosnippet="" id="ae_app">
    <div class="ae-module" id="ae_helpers">
    </div>
