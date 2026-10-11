@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-10T14:04:54Z",
-  "html_sha256": "2195ae432e24c1cbe70a880f7bef2962617a36dfeb2ed77bb589eb804a540800",
+  "fetched_at": "2026-10-11T14:28:52Z",
+  "html_sha256": "83fc1ce9801e80d962c764a379251f4ee2fc2facdb860c0993f20093b5538e2d",
   "text_sha256": "525c7cf4ca2c0ef35c6f3d3472c537c4ea8c84dcf88d93a78cd1d0d09849c036",
-  "byte_size": 39651,
+  "byte_size": 41790,
   "title": "Franklin County, FL SOE",
   "noncitizen_voting": {
     "present": false,

@@ -122,7 +122,7 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 10/10/2026
+Voter Totals as of: 10/11/2026
 Democrats
 3,840
 Republicans
@@ -163,7 +163,7 @@ Read Full Announcement
 View all News & Announcements
 Latest News
 Jefferson County Supervisor of Elections - Michelle Milligan
-posted 22 hours ago
+posted 1 day ago
 ⚠️ **OFFICE CLOSURE NOTICE**
 Due to the hurricane, the Jefferson County Supervisor of Elections Office will **close today at noon**.
 We anticipate reopening on **Monday for regular business hours**.

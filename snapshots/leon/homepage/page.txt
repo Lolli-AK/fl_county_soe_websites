@@ -129,13 +129,13 @@ Mark S. Earley
 Supervisor of Elections
 Leon County
 Active Registered Voters as of:
-2026-10-10
+2026-10-11
 Democratic
-88,253
+88,252
 Republican
 54,676
 Others
-41,691
+41,692
 Total
 184,620
 Leon County Supervisor of Elections

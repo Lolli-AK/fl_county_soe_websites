@@ -81,17 +81,11 @@ View All Events
 /Calendar.aspx
 Active Registered Voters
 As of:
-10/10/26
 Democrats:
-314,122
 Republicans:
-305,598
 No Party Affiliation:
-233,715
 Minor Parties:
-35,976
 Total:
-889,411
 Contact Us
 Main Office
 4301 Cherry Road, West Palm Beach, FL 33409

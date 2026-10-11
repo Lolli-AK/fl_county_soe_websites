@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-10T14:04:54Z",
-  "html_sha256": "68ab1f61bfba522f817fee80bce8ff278ea3cbd6471ee5f5b5bcec9259ccee12",
+  "fetched_at": "2026-10-11T14:28:52Z",
+  "html_sha256": "173d29e48ce6b4ea5d88f0d74516e0e9dac9b6d5bf9c28751494bb2a77ac05c8",
   "text_sha256": "9d09077cd1542787ec80e571157c1a6ad18cbc43b418834f778b76c26c13695b",
-  "byte_size": 35601,
+  "byte_size": 37771,
   "title": "Columbia County Supervisor of Elections, FL",
   "noncitizen_voting": {
     "present": false,
