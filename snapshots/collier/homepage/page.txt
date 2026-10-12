@@ -18,11 +18,17 @@ Contact Us
 Voter Stats
 Voter statistics in Collier County
 As of:
+10/12/26
 Democrats:
+51,605
 Republicans:
+147,155
 No Party Affiliation:
+58,315
 Other:
+8,687
 Total:
+265,762
 Vote by Mail
 Request My Vote-by-Mail Ballot
 Track My Vote-by-Mail Ballot
@@ -101,10 +107,6 @@ S
 29
 30
 31
-Mon, Oct 12
-Outreach - South Regional Library
-Outreach - South Regional Library
-Read On
 Tue, Oct 13
 Outreach - East Naples Library
 Outreach - East Naples Library
@@ -116,6 +118,10 @@ Read On
 Thu, Oct 15
 Outreach - Vanderbilt Beach Library
 Outreach - Vanderbilt Beach Library
+Read On
+Tue, Oct 20
+Outreach - Naples Regional Library
+Outreach - Naples Regional Library
 Read On
 View All Events
 /Calendar.aspx

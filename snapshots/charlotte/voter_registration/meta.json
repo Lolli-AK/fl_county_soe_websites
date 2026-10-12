@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-11T14:28:52Z",
-  "html_sha256": "afc2ab5fa9654bfb7932be9a00fd7680970f0aac59330c8f3c1ae87b1bdfbfea",
+  "fetched_at": "2026-10-12T17:07:17Z",
+  "html_sha256": "be8eb6bed1b411876dc9176c482f4dd1df2d5144e2cc511c3fa5ff00f3f563f9",
   "text_sha256": "f98fa28fe02f8a1b046b2e0352e2a6f229d0dd51316438e16f9b8fc8e336730c",
-  "byte_size": 52445,
+  "byte_size": 52373,
   "title": "How To Register to Vote | Charlotte County Elections, FL",
   "noncitizen_voting": {
     "present": false,

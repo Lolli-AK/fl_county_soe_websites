@@ -1,7 +1,9 @@
 Palm Beach County Elections, FL | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
-Loading
 Skip to Main Content
+Holiday Closure
+All Palm Beach County Supervisor of Elections Offices are Closed October 12, 2026, in Observance of Columbus Day/Indigenous Peoples' Day
+Read On...
 Voters
 Candidates
 Elections
@@ -81,11 +83,17 @@ View All Events
 /Calendar.aspx
 Active Registered Voters
 As of:
+10/12/26
 Democrats:
+314,132
 Republicans:
+305,605
 No Party Affiliation:
+233,727
 Minor Parties:
+35,978
 Total:
+889,442
 Contact Us
 Main Office
 4301 Cherry Road, West Palm Beach, FL 33409
@@ -371,6 +379,7 @@ Zapotec
 Zulu
 Powered by
 Translate
+[]
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate
