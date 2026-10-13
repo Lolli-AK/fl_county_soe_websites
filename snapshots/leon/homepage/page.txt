@@ -127,23 +127,20 @@ Mark S. Earley
 Supervisor of Elections
 Leon County
 Active Registered Voters as of:
-2026-10-12
+2026-10-13
 Democratic
-88,252
+88,266
 Republican
-54,676
+54,677
 Others
-41,692
+41,691
 Total
-184,620
+184,634
 Leon County Supervisor of Elections
 Election Resources for the November 3 General Election
-The deadline to register to vote for the General Election is October 5. Learn more about how you can
-register to vote
-or
-update your registration
-.
-Already registered? Use the
+Read the Election Guide for the 2026 General Election (PDF).
+It's full of information about when, where, and how you can vote in the November 3 Election. It also has a generic sample ballot showing all the races and candidates in Leon County.
+Use the
 Check Your Voter Info tool
 to see your sample ballot for the General Election as well as check on your voter registration record.
 You can view all the sample ballots for the 2026 General Election on our
@@ -163,6 +160,7 @@ turnout page
 to see how many ballots have been cast in the election.
 Get Election Ready!
 Turnout QuickView
+Election Guide
 Leon County Supervisor of Elections
 Mark S. Earley
 Leon County Supervisor of Elections

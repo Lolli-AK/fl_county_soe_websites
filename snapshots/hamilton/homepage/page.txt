@@ -142,7 +142,7 @@ Early Voting
 Sample Ballot
 Candidate Financial Reporting Login
 2026 Filed Candidates
-Voter Totals as of: 10/12/2026
+Voter Totals as of: 10/13/2026
 Democrats
 2,318
 Republicans
@@ -162,14 +162,16 @@ extended hours during elections
 English & Spanish
 +1 (866) 308-6739
 Dates to Remember
+Oct 24, 2026
+Early Voting: General Election
+Nov 3, 2026
+Election Day
 Nov 11, 2026
 Office Closed in Observance of Veterans Day
 Nov 26, 2026
 Office Closed in Observance of Thanksgiving
 Dec 24, 2026
 Office Closed in Observance of Christmas
-Dec 31, 2026
-Office Closed in Observance of the New Year
 All Upcoming Dates
 Announcements & Notices
 View all News & Announcements
@@ -208,4 +210,3 @@ Accessibility Policy
 |
 Sitemap
 Site by KMA
-Secret Link

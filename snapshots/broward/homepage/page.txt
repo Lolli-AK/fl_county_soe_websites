@@ -351,10 +351,6 @@ View Your Sample Ballot
 Click the link below to view your personalized sample ballot.
 View Sample Ballot
 Announcements
-E Pat Larkins Branch Office is Closed Today
-The Supervisor of Elections Branch Office located at E. Pat Larkins is closed today. For election-related services, please call
-954-357-VOTE (8683)
-or visit any of our other available branch offices.  Thank you.
 11/3/2026 Election - Early Voting and Secure Ballot Intake Stations Schedules
 Secure Ballot Intake Stations Flyer
 Early Voting Flyer (Locations, Dates, and Hours)
@@ -404,16 +400,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-10/12/26
-1,367,063
+10/13/26
+1,367,250
 Eligible Voters
-593,815
+593,906
 Democrat
-317,603
+317,651
 Republican
-418,647
+418,668
 NPA
-36,998
+37,025
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.

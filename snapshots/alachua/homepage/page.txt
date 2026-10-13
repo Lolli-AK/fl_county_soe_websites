@@ -1,5 +1,4 @@
 Alachua County Elections, FL | Official Website
-Loading
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
@@ -40,17 +39,17 @@ Veterans Day
 View All Events
 /Calendar.aspx
 As of:
-10/12/26
+10/13/26
 Democrats:
-74,553
+74,585
 Republicans:
-48,968
+48,992
 No Party Affiliation:
-37,664
+37,660
 Other:
-5,940
+5,955
 Total:
-167,125
+167,192
 Kim A. Barton, Supervisor of Elections, Alachua County
 Josiah T. Walls Building • 515 North Main Street, Suite 300 • Gainesville, FL 32601
 Hours
@@ -87,3 +86,4 @@ Loading
 Loading
 Do Not Show Again
 Close
+[]

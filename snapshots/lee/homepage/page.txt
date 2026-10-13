@@ -258,15 +258,15 @@ Powered by
 Translate
 Search
 Active Registered Voters:
-10/12/26
+10/13/26
 Democrats:
-109,162
+109,236
 Republicans:
-250,201
+250,313
 Other:
-145,317
+145,374
 Total:
-504,680
+504,923
 Back to Home
 Register to Vote
 Vote By Mail
