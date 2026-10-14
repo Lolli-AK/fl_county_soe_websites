@@ -106,11 +106,11 @@ City and County Candidates
 Campaign Finance Login
 Contact Us
 Helpful Links
-Active Registered Voters as of 10/13/2026:
-Dem: 4,117
-Rep: 8,358
-Oth: 3,594
-Total: 16,069
+Active Registered Voters as of 10/14/2026:
+Dem: 4,121
+Rep: 8,359
+Oth: 3,598
+Total: 16,078
 Register to Vote
 Check My Status
 Vote by Mail

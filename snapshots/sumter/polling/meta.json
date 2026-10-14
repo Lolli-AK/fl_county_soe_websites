@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-13T15:23:23Z",
-  "html_sha256": "6116828f6b359466c16e3d5c5533c1586ce7ace51bf3fdda75c2fb1e8416dcae",
+  "fetched_at": "2026-10-14T13:10:24Z",
+  "html_sha256": "1546016efef24c18f97148be0c01497a3ba0027a313dbe8d2a66b2505d21024c",
   "text_sha256": "bbfb52262cdc53ba8c2781ca9fd6044b094ed7e4cde812adc8d43507958e23de",
-  "byte_size": 82084,
+  "byte_size": 82085,
   "title": "Election Day | Sumter County Elections, FL",
   "noncitizen_voting": {
     "present": false,

@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-13T15:23:23Z",
-  "html_sha256": "2da3eaeb052030fac73747ee6d80d6576fc5b0835072a0f422ecd648b0c78305",
+  "fetched_at": "2026-10-14T13:10:24Z",
+  "html_sha256": "0c4e4d6a7234e9abe4cba593945318f46c0c2c81bf407223afa38bb9f42e6bc9",
   "text_sha256": "386862d3502151bf1f891e832ed07a5c144dc59e135c716423bd7e263dadc6c3",
-  "byte_size": 121394,
+  "byte_size": 121389,
   "title": "Polling Place Info | Highlands County Supervisor of Elections | Sebring, FL",
   "noncitizen_voting": {
     "present": false,

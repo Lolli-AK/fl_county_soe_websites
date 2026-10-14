@@ -164,11 +164,11 @@ If you’d like an application mailed to you, or if you have questions, call us 
 What Happens After You Register?
 Once we receive your application:
 We enter your information into the Florida Voter Registration System.
-We verify your information to make sure it meets legal requirements.
-If something is missing or needs clarification, our office will contact you.
+The State of Florida will verify the authenticity or nonexistence of the driver license number, the Florida identification card number, or the last four digits of the social security number provided by the applicant.
+If any of the required information on the application is missing or the State is unable to verify the identification numbers provided you will be notified by our office
 After you’re registered, you can use our
 Check Your Voter Information
-tool at any time to see your registration status, Election Day polling place, party affiliation, and more. We will also mail you a voter information card with your voting districts and polling place. Review it carefully and contact us if anything looks incorrect. Note: This card cannot be used as identification at the polls.
+tool at any time to see your registration status, Election Day polling place, party affiliation, and more. We will also mail you a voter information card with your voting districts and polling place. Review it carefully and contact us if anything is incorrect or if you have any questions. Note: This card cannot be used as identification at the polls.
 Updating Your Signature
 Your signature must match the one on your voter record, this is particularly important if you
 Vote-by Mail

@@ -1,6 +1,5 @@
 Election Info | Polk County SOE, FL
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
-Loading
 Skip to Main Content
 Voter Services
 Election Info
@@ -13,6 +12,7 @@ Upcoming Elections
 Live Turnout Information
 2026 Primary Election
 2026 General Election
+2026 General Election Early Voting Locations
 Vote by Mail
 Military & Overseas Voting
 Early Voting & Secure Ballot Intake Station Locations
@@ -316,6 +316,7 @@ Zapotec
 Zulu
 Powered by
 Translate
+[]
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate

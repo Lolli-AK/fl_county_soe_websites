@@ -36,6 +36,7 @@ Show Archived
 Categories
 All Categories
 Election Info
+Live Edit
 Register to Vote or Update Info
 Request and Track Vote By Mail
 Plan Your Vote
@@ -333,7 +334,7 @@ Zapotec
 Zulu
 Powered by
 Translate
-Live Edit
+[]
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate

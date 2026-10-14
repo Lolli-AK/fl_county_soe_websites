@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-13T15:23:23Z",
-  "html_sha256": "232ca30b1cb2549edc5f8c477ffb891e297e9b004090ad113239b3e01255476c",
+  "fetched_at": "2026-10-14T13:10:24Z",
+  "html_sha256": "97f5bc44c213495cd19e4546fdcc3c714b3605af6314bd687b93531c350698f7",
   "text_sha256": "35b1726431c9d6f3acc5836b086edd95739d3ed37092f67967b989ec4b0cd8ce",
-  "byte_size": 53286,
+  "byte_size": 53282,
   "title": "Book Closing: General Election | Bay County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

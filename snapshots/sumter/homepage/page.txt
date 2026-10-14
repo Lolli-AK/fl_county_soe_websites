@@ -19,17 +19,17 @@ Ways to Vote
 Moving?
 My Precinct/Elected Officials?
 As of:
-10/13/26
+10/14/26
 Democrats:
-23,699
+23,707
 Republicans:
-78,768
+78,794
 No Party Affiliation:
-23,488
+23,499
 Other:
-4,336
+4,339
 Total:
-130,291
+130,339
 Resources
 Find what you're looking for
 Upcoming Election Info
@@ -140,8 +140,10 @@ Welcome to Sumter County Supervisor of Elections!!
 You can see
 YOUR BALLOT
 based on your residential location
-STATE BOOKLET:
-Proposed Constitutional Amendments for the General Election
+STATE PROVIDED BOOKLET-2026 Constitutional Amendments for General Election Ballot :
+ENGLISH
+(OR)
+SPANISH
 Directions to the new Bushnell Annex Warehouse
 For your convenience, you may check your Vote-by-Mail status by clicking on
 "MY VOTER STATUS."
