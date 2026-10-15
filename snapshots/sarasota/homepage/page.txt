@@ -23,10 +23,10 @@ Coming Elections
 Latest News & Events
 Stay up to date with Sarasota County Elections
 News Flash
-New North Port service location
+New North Port Service Location
 Sarasota County Supervisor of Elections Ron Turner announces the opening of a new customer service office in North Port.
 Read on...
-about New North Port service location
+about New North Port Service Location
 Nov. 3 Sample Ballots Now Available Online
 Online sample ballots are now available for the November 3, 2026 General Election.
 Read on...
@@ -35,10 +35,10 @@ Vote-by-Mail Requests are Currently Being Accepted
 Vote-by-mail (absentee) requests for the 2024 General Election cycle have expired. Requesting mail ballots through the end of 2026 only takes a few moments.
 Read on...
 about Vote-by-Mail Requests are Currently Being Accepted
-Poll Workers Needed for 2026
-If you have an interest in elections and are looking for a way to give back to your community, consider becoming a poll worker.
+How to Vote by Mail
+Take a few moments to review the How to Vote by Mail instructions page to have a smooth mail ballot voting experience.
 Read on...
-about Poll Workers Needed for 2026
+about How to Vote by Mail
 View All News
 News Flash
 /CivicAlerts.aspx
@@ -83,17 +83,17 @@ View All Office Dates
 Registered Voters
 SARASOTA COUNTY, FL
 As of:
-10/14/26
+10/15/26
 Democrats:
-81,955
+81,988
 Republicans:
-165,906
+165,974
 No Party Affiliation:
-73,993
+74,010
 Other:
-12,697
+12,715
 Total:
-334,551
+334,687
 Stay Connected
 READ AND SUBSCRIBE TO OUR ELECTION CONNECTION NEWSLETTER
 Election Connection

@@ -1,5 +1,6 @@
 Duval County Elections, FL Official Website | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Voter Information
 Election Information
@@ -27,17 +28,18 @@ Hours
 25
 Minutes
 As of:
-10/14/26
+10/05/26
 Democrats:
-247,518
+247,563
 Republicans:
-239,657
+239,513
 No Party Affiliation:
-143,377
+143,217
 Other:
-24,973
+24,926
 Total:
-655,525
+655,219
+NOTE: Election Books are closed. Totals are as of Book Closing
 News & Notices
 Press Releases
 Sample ballots being delivered to 612,814 voters in Duval County
@@ -171,8 +173,12 @@ Contact Us
 Accessibility
 Site Map
 Copyright Notices
-Loading
-Loading
+Request your Vote-by-Mail Ballot Today
+If you need to request your Vote-by-Mail Ballot to be mailed for the 2026 General Election
+you have until October 22, 2026 at 5 p.m.
+Electronic Ballot Request | Duval County Elections, FL Official Website
+To review the status of your vote-by-mail ballot please visit
+Voter Dashboard | Duval County Elections, FL Official Website
 Do Not Show Again
 Close
 Select Language
@@ -426,7 +432,6 @@ Zapotec
 Zulu
 Powered by
 Translate
-[]
 Hi, how can I help?
 Original text
 Rate this translation

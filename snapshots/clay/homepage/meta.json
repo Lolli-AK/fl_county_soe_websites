@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-14T13:10:24Z",
-  "html_sha256": "4c119742d422319963d4803fed4bed3142007b6fc531f817d7405a7ab453c95d",
-  "text_sha256": "0a593c2a689d0d96c92a2b7f4141cb58d90a12055754ee707a018d7e1bde0a3c",
-  "byte_size": 146066,
+  "fetched_at": "2026-10-15T12:56:39Z",
+  "html_sha256": "5b846726aa16212267ff43c159698502b0c024400dcf7c18824eac7cf43008a7",
+  "text_sha256": "1c9f33ae23169ac059e89daddc17fb3d16626aa147f2f430a2353f8fa08c54c8",
+  "byte_size": 125744,
   "title": "Clay County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
@@ -25,7 +25,7 @@
     "terms": [
       "military_overseas_voter"
     ],
-    "count": 3
+    "count": 2
   },
   "error": null
 }

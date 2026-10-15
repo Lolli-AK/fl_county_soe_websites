@@ -33,17 +33,17 @@ Financial Reports
 /QuickLinks.aspx
 Voter Demographics
 As of:
-10/14/26
+10/15/26
 Democrats:
-68,186
+68,197
 Republicans:
-140,659
+140,704
 No Party Affiliation:
-51,423
+51,455
 Other:
-11,268
+11,277
 Total:
-271,536
+271,633
 News & Events
 News Flash
 2026 General Election Sample Ballot

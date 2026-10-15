@@ -163,15 +163,16 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(10/13/2026)
+(10/14/2026)
 Democrats
-24,046
+24,048
 Republicans
-75,471
+75,470
 Other
-29,197
+29,200
 Total
-128,714
+128,718
+Voter Turnout
 Upcoming Elections
 All Upcoming Elections
 General Election
@@ -181,23 +182,23 @@ Info & Dates
 All Upcoming Elections
 Dates to Remember
 All Upcoming Dates
-Oct 14, 2026 8:30am
-Canvassing Board Orientation Meeting followed by Public Logic and Accuracy Testing of the Voting and Tabulating Equipment to be used…
 Oct 21, 2026 8:30am
 Canvassing Board Meeting to begin canvass of vote by mail ballots, scan into audit system, and ballot duplication (as needed)
 Oct 22, 2026 5:00pm
 The deadline to request a vote-by-mail ballot for the General Election
 Oct 29, 2026 8:30am
 Canvassing Board Meeting to continue canvass of vote by mail ballots, scan into audit system, and ballot duplication (as needed)
+Oct 19, 2026
+Early Voting Hours: SOE Office 8:30 AM-6PM, All other locations 10AM-6PM Early Voting Locations
 All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 16 hours ago
-🗳Sample ballots for the November 3, 2026, General Election are on their way to Bay County voters. Voters should look for their sample ballot in their mail box this week. 📪📪📪
-🗳Sample ballots allow voters to review candidates, races, and ballot questions before voting. Voters are encouraged to bring their completed sample ballots to the polls and use them as a guide when marking their official ballots.
-🗳Voters can also view their sample ballots online at:
-https://www.bayvotesfl.gov/elections/sample-ballot/
+posted 14 hours ago
+🗳Early Voting is right around the corner!!
+📣Early Voting for the 2026 General Election begins Monday, October 19th -31st, 10:00am-6:00pm daily.
+📣The Supervisor of Elections Office voting hours will be 8:30am – 6:00pm daily during Early Voting.
+📣Bay County voters can vote or drop off their vote-by-mail ballot at any of the eight Early Voting sites.
 View Facebook Post
 (opens in a new tab)
 Public Notices
