@@ -11,15 +11,15 @@ Info
 Search
 [rotating image slideshow removed for determinism]
 Voter Statistics
-134,626
+134,676
 Democrats
-194,180
+194,234
 Republicans
-112,545
+112,592
 No Party Affiliation
-19,272
+19,281
 Other
-460,623
+460,783
 Total
 Become a Poll Worker
 Learn More

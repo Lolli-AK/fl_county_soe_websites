@@ -1,6 +1,5 @@
 Calhoun County – Supervisor of Elections – Sharon Chason
 Skip to content
-Next Election: 2026 Primary Election – August 18th
 An official government site.
 Search
 Languages
@@ -253,7 +252,6 @@ Yoruba
 Yucatec Maya
 Zapotec
 Zulu
-Next Election: 2026 Primary Election – August 18th
 Search
 Languages
 English
@@ -855,7 +853,7 @@ Track My Mail Ballot
 Division of Elections
 Where Do I Vote?
 Active Registered Voters
-As of 10/08/2026
+As of 10/15/2026
 Democrats
 0
 Republicans

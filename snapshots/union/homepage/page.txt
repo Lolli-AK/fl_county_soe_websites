@@ -166,16 +166,15 @@ Early Voting
 (opens in a new tab)
 Voting Locations
 (opens in a new tab)
-Active Registered Voters (10/14/2026)
+Active Registered Voters (10/15/2026)
 Democrats
 1,483
 Republicans
-5,009
+5,006
 Other
-834
+832
 Total
-7,326
-Voter Turnout
+7,321
 Upcoming Elections
 All Upcoming Elections
 November 3, 2026

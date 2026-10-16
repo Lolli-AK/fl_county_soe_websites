@@ -158,13 +158,13 @@ Early Voting
 Voting Locations
 Voter Totals as of: 10/15/2026
 Democrats
-3,877
+3,878
 Republicans
-5,317
+5,315
 Other
 1,354
 Total
-10,548
+10,547
 Voter Turnout
 Upcoming Elections
 Nov 3, 2026 7:00am
