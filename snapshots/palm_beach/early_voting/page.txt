@@ -1,6 +1,5 @@
 Early Voting | Palm Beach County Elections, FL
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
-Loading
 Skip to Main Content
 Voters
 Candidates
@@ -86,11 +85,8 @@ Privacy Policy
 /QuickLinks.aspx
 PLEASE NOTE:
 Under Florida law, email addresses are public records. If you do not want your email address released in response to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing. Florida Statute 668.6076.
-Early Voting Appointments Available
-Planning to vote early? Make your voting experience even easier by scheduling an optional Early Voting appointment at any of the 28 Early Voting locations.  Locations will be open from 7:00 am to 7:00 pm from October 19 through November 1.
-Appointments are not required to vote early. Walk-in voters are always welcome.
-Click here to schedule an optional Early Voting appointment
-.
+Loading
+Loading
 Do Not Show Again
 Close
 Select Language
@@ -344,6 +340,7 @@ Zapotec
 Zulu
 Powered by
 Translate
+[]
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate

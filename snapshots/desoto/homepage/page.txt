@@ -106,11 +106,11 @@ City and County Candidates
 Campaign Finance Login
 Contact Us
 Helpful Links
-Active Registered Voters as of 10/16/2026:
+Active Registered Voters as of 10/17/2026:
 Dem: 4,127
-Rep: 8,354
+Rep: 8,357
 Oth: 3,600
-Total: 16,081
+Total: 16,084
 Register to Vote
 Check My Status
 Vote by Mail
@@ -121,6 +121,7 @@ Important Election Dates
 2026 General Turnout Quickview
 2026 General Election Canvassing Schedule
 2026 General Election Sample Ballot
+2026 General Election Results
 Mission Statement
 Our office is dedicated to running secure and transparent elections, building trust in the process, and encouraging every eligible citizen in our community to make their voice heard.
 WHAT's NEW

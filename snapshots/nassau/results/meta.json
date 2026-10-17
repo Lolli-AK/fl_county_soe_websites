@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-16T12:49:19Z",
-  "html_sha256": "6e784fa18fd50958127b4c90a5c4696ddd21dc28d986775ee5dbc242923e673d",
+  "fetched_at": "2026-10-17T11:49:29Z",
+  "html_sha256": "91b01789696300720a97c69e34f613d112fcf233f2506924da98542f5199c8c6",
   "text_sha256": "9e6bab4db70412e27daf1cb47b57c42d67ba7398ac9f279e2523740618e164b2",
-  "byte_size": 77767,
+  "byte_size": 77879,
   "title": "Election Night Results | Nassau County Supervisor",
   "noncitizen_voting": {
     "present": false,

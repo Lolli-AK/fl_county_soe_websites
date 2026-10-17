@@ -1,4 +1,5 @@
 Charlotte County Elections, FL | Official Website
+Loading
 Skip to Main Content
 About
 Election Information
@@ -8,10 +9,15 @@ How-To Videos
 Search
 [rotating image slideshow removed for determinism]
 Active Registered Voters:
+10/17/26
 Democrats:
+29,880
 Republicans:
+85,866
 Other:
+40,438
 Total:
+156,184
 Register to Vote
 Vote-By-Mail
 Where Do I Vote?
@@ -68,4 +74,3 @@ Loading
 Loading
 Do Not Show Again
 Close
-[]

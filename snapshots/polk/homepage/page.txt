@@ -1,6 +1,5 @@
 Polk County SOE, FL | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
-Loading
 Skip to Main Content
 Voter Services
 Election Info
@@ -11,15 +10,15 @@ Info
 Search
 [rotating image slideshow removed for determinism]
 Voter Statistics
-134,676
+134,709
 Democrats
-194,234
+194,273
 Republicans
-112,592
+112,629
 No Party Affiliation
-19,281
+19,295
 Other
-460,783
+460,906
 Total
 Become a Poll Worker
 Learn More
@@ -387,6 +386,7 @@ Zapotec
 Zulu
 Powered by
 Translate
+[]
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate

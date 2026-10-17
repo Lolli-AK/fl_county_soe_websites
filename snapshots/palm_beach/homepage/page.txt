@@ -22,6 +22,10 @@ Subscribe to Notify Me to Receive Notifications from Us!
 Subscribe to Notify Me to receive election updates...
 Read on...
 about Subscribe to Notify Me to Receive Notifications from Us!
+PRESS RELEASE: PBCSOE Launches New Mobile App Ahead of the 2026 General Election
+Click to Read the Mobile App Press Release.
+Additional Info...
+about PRESS RELEASE: PBCSOE Launches New Mobile App Ahead of the 2026 General Election
 PRESS RELEASE: Early Voting in the 2026 General Election
 Click to Read the Early Voting Press Release.
 Additional Info...
@@ -30,10 +34,6 @@ PRESS RELEASE: PBC Canvassing Board to Conduct Logic and Accuracy Testing for 20
 Click to Read the Logic and Accuracy Press Release...
 Additional Info...
 about PRESS RELEASE: PBC Canvassing Board to Conduct Logic and Accuracy Testing for 2026 General Election
-PRESS RELEASE: Voter Registration Deadline for the 2026 General Election is Monday, October 5th
-Click to Read the Voter Registration Deadline Pres...
-Additional Info...
-about PRESS RELEASE: Voter Registration Deadline for the 2026 General Election is Monday, October 5th
 View All News
 News
 /CivicAlerts.aspx
@@ -56,16 +56,16 @@ Notices
 Full Calendar
 Election Dates and Deadlines
 Full Calendar
-Fri, Oct. 16
-Opening/Tabulation/Duplication and Audit Scanning (as needed)
-Fri, Oct. 16
-Canvassing Board Meeting
 Mon, Oct. 19 - Sun, Nov. 1
 Early Voting - 2026 General Election
 Mon, Oct. 19
 Public Viewing
 Mon, Oct. 19
 Opening/Tabulation/Duplication and Audit Scanning (as needed)
+Mon, Oct. 19
+Canvassing Board Meeting
+Tue, Oct. 20
+Ballot Audit Scanning
 View All Events
 /Calendar.aspx
 Election Dates and Deadlines
@@ -81,17 +81,17 @@ View All Events
 /Calendar.aspx
 Active Registered Voters
 As of:
-10/16/26
+10/17/26
 Democrats:
-314,460
+314,536
 Republicans:
-305,863
+305,953
 No Party Affiliation:
-233,925
+233,985
 Minor Parties:
-36,062
+36,092
 Total:
-890,310
+890,566
 Contact Us
 Main Office
 4301 Cherry Road, West Palm Beach, FL 33409

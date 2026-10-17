@@ -353,7 +353,12 @@ View Sample Ballot
 Announcements
 11/3/2026 Election - Early Voting and Secure Ballot Intake Stations Schedules
 Secure Ballot Intake Stations Flyer
-Early Voting Flyer (Locations, Dates, and Hours)
+Early Voting Flyer (Locations, Dates, and Hours):
+English
+|
+Spanish
+|
+Creole
 Turnout Statistics for the 11/3/2026 Election and Maps
 Unofficial Vote-by-Mail Statistics for the 11/3/2026 General Election
 View the 2026 Congressional Redistricting Interactive Map
@@ -365,19 +370,19 @@ Election Preparation Report for the 11/3/2026 General Election
 Registration Deadline and Other Important Dates for the 11/3/2026 General Election
 List of Candidates for the 11/3/2026 General Election
 11/3/2026 Election – Canvassing Board
-Canvassing Board Meeting Notice/ Agenda 10/14/2026 (
+Canvassing Board Meeting Notice/Agenda -10/21/2026 (
 English
-/
+|
 Spanish
 )
 Canvassing Board Master Schedule (
 English
-/
+|
 Spanish
 )
 Guidelines and Procedures for Observers and Meeting for the 11/3/2026 General Election (
 English
-/
+|
 Spanish
 )
 Administrative Order for the 11/3/2026 General Election
@@ -387,7 +392,7 @@ Legally Required Notices
 Potential Ineligibility Notices - Public Notice- 10/01/2026
 Notice of General Election in
 English
-/
+|
 Spanish
 Notice of Book Closing for the 11/3/2026 General Election
 Important Notices to Voters
@@ -400,16 +405,16 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-10/16/26
-1,367,801
+10/17/26
+1,367,840
 Eligible Voters
-594,099
+594,110
 Democrat
-317,805
+317,832
 Republican
-418,812
+418,810
 NPA
-37,085
+37,088
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.
@@ -423,7 +428,7 @@ Municipalities
 Returning Citizens
 We’re here to help you navigate the path back to the ballot box.
 Citizens
-How to Video
+How to Videos
 A series of short “how-to” videos from the Broward County Supervisor of Elections that guide voters through registering, voting by mail, completing ballots, and locating polling places to make elections easier and more accessible.
 Videos
 Public Records

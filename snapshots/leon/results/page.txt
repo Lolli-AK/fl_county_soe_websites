@@ -196,6 +196,23 @@ Excel
 Category
 Report
 Download
+Bookclosing Reports
+District Demographics
+PDF
+|
+Excel
+District Totals
+PDF
+|
+Excel
+Precinct Demographics
+PDF
+|
+Excel
+Precinct Totals
+PDF
+|
+Excel
 Miscellaneous
 Sample Ballot Repository
 English
