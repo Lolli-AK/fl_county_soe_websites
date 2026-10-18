@@ -141,13 +141,13 @@ Oct
 Early Voting for the General Election
 View All Events
 Clay County Voter Totals
-October 17, 2026
+October 18, 2026
 Republicans:
-88980
+88999
 Democrats:
-31646
+31661
 NPA:
-29171
+29179
 Others:
 6525
 Total:

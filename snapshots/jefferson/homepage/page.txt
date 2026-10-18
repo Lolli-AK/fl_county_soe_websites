@@ -122,13 +122,13 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 10/17/2026
+Voter Totals as of: 10/18/2026
 Democrats
 3,840
 Republicans
-4,781
+4,780
 Other
-1,411
+1,412
 Total
 10,032
 Voter Turnout
@@ -163,7 +163,7 @@ Read Full Announcement
 View all News & Announcements
 Latest News
 Jefferson County Supervisor of Elections - Michelle Milligan
-posted 23 hours ago
+posted 2 days ago
 🇺🇸 **JEFFERSON COUNTY — ARE YOU ELECTION READY?**
 We're giving Jefferson County voters **13 DAYS of Early Voting** for the 2026 General Election! 🗳️
 That's **5 EXTRA DAYS** beyond Florida's mandatory Early Voting period!

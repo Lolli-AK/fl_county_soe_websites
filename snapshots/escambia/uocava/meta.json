@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-17T11:49:29Z",
-  "html_sha256": "9e79470cede6d37f351a4e6d58cdc5affb2a8cc9598c50e4130c7f47b6d8345d",
+  "fetched_at": "2026-10-18T12:15:09Z",
+  "html_sha256": "4decf47c75ce3afd0f5e853d96dd2593d1460f0b39f2ecb415ae4130b2d9efd1",
   "text_sha256": "29cd4f5f6de9dd866073f1ffc9f30e1ec026ee715c30bd030ec4b83d24a701e0",
-  "byte_size": 44265,
+  "byte_size": 44242,
   "title": "Absentee Voting and Registration",
   "noncitizen_voting": {
     "present": false,

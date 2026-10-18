@@ -1,5 +1,6 @@
 Precincts and Polling Places | Lee County Elections, FL
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Select Language
 Abkhaz
@@ -254,15 +255,15 @@ Powered by
 Translate
 Search
 Active Registered Voters:
-10/17/26
+10/18/26
 Democrats:
-109,455
+109,456
 Republicans:
-250,640
+250,642
 Other:
-145,564
+145,565
 Total:
-505,659
+505,663
 Back to Home
 Register to Vote
 Vote By Mail
@@ -402,7 +403,6 @@ Loading
 Loading
 Do Not Show Again
 Close
-[]
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate

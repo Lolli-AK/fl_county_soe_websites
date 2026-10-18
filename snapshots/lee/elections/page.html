@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-muli-n3-active wf-muli-n4-active wf-muli-i4-active wf-muli-n7-active" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -13,11 +13,21 @@
   </title>
   <meta content="Find election information like schedules, dates and deadlines, proposed ballot measures, and more." name="description"/>
  </head>
- <body class="wide doneLoading ae-election-information-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
+ <body class="wide cpTextResizeOn doneLoading ae-election-information-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
   <div aria-live="polite" class="ae-blurb-noaudio" data-nosnippet="" id="ae_enabled_site" role="status">
    <div>
     <p data-modulename="launcher">
      This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+    </p>
+   </div>
+  </div>
+  <div id="divAjaxProgress">
+   <div id="divAjaxShade">
+   </div>
+   <div class="loading" id="divAjaxImgProgress">
+    <img alt="" src="/Common/images/ajax-loader.gif" title="Loading"/>
+    <p>
+     Loading
     </p>
    </div>
   </div>
@@ -835,7 +845,7 @@
                        </div>
                        Powered by
                        <span>
-                        <a aria-describedby="audioeye_new_window_message" class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" rel="noopener" target="_blank">
                          <img alt="Google Translate" height="14px" src="https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png" width="37px"/>
                          Translate
                         </a>
@@ -887,11 +897,8 @@
         </header>
         <div class="hidden" id="bannerImagesJSON2">
         </div>
-        <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
-         <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
-         </a>
-         <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
-         </a>
+        <div class="bannerObject external fixedBanner" data-image-scale="true" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" data-is-delayed="false" src="/ImageRepository/Document?documentID=89" width="1280px"/>
         </div>
        </div>
       </div>
@@ -912,7 +919,7 @@
                     <p class="data">
                      Active Registered Voters:
                      <span class="dateValue dataValue">
-                      10/17/26
+                      10/18/26
                      </span>
                     </p>
                    </div>
@@ -920,7 +927,7 @@
                     <p class="data">
                      Democrats:
                      <span class="demValue dataValue">
-                      109,455
+                      109,456
                      </span>
                     </p>
                    </div>
@@ -928,7 +935,7 @@
                     <p class="data">
                      Republicans:
                      <span class="repValue dataValue">
-                      250,640
+                      250,642
                      </span>
                     </p>
                    </div>
@@ -936,7 +943,7 @@
                     <p class="data">
                      Other:
                      <span class="othValue dataValue">
-                      145,564
+                      145,565
                      </span>
                     </p>
                    </div>
@@ -944,7 +951,7 @@
                     <p class="data">
                      Total:
                      <span class="totValue dataValue">
-                      505,659
+                      505,663
                      </span>
                     </p>
                    </div>
@@ -1368,7 +1375,7 @@
             </div>
            </div>
           </div>
-          <aside class="secondaryContent" data-cprole="contentContainer" id="featureColumn">
+          <aside class="secondaryContent" data-cprole="contentContainer" id="featureColumn" role="presentation">
            <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" data-contentcontainerbreakpoint="40" id="ccGUID">
            </div>
           </aside>
@@ -1648,15 +1655,14 @@
   </div>
   <div>
   </div>
-  <div class="hidden activeWidgetSkinComponentsOnPageJson">
-   []
-  </div>
   <div>
   </div>
   <div id="root-picker-outlet">
   </div>
   <ul class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" id="ui-id-1" role="presentation" tabindex="0">
   </ul>
+  <div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status">
+  </div>
   <div class="VIpgJd-yAWNEb-L7lbkb skiptranslate" data-id="" id="goog-gt-tt">
    <div class="VIpgJd-yAWNEb-hvhgNd" id="goog-gt-vt">
     <div class="VIpgJd-yAWNEb-hvhgNd-Ud7fr">
@@ -1704,11 +1710,15 @@
     </div>
    </div>
   </div>
-  <div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status">
-  </div>
   <div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf">
    <div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO">
    </div>
+  </div>
+  <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
+   <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
+   </a>
+   <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
+   </a>
   </div>
   <div data-nosnippet="" id="ae_app">
    <div class="ae-module" id="ae_helpers">
