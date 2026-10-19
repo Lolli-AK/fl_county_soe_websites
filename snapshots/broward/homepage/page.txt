@@ -338,19 +338,24 @@ What is an Election Worker?
 Become an Election Worker
 Election Worker Portal
 Broward County
-Request Your Vote-By-Mail Ballot
-It’s not too late! Request your ballot and vote from home.
-Request Ballot
-Find an Early Voting Location
-Vote at a location convenient to your home or job - multiple sites available.
-Find Location
+Early Voting Opens Today!
+Vote early from 7 a.m. to 7 p.m. at any Early Voting Site. No need to go to your assigned precinct.
+Find Early Voting
 Find Your Election Day Polling Place
-Locate your assigned neighborhood polling place for Election Day.
+Prefer to vote on Election Day? Find your assigned polling location.
 Find my Precinct
+Request Your Vote-By-Mail Ballot
+The deadline to request a Vote-By-Mail ballot is Thursday, October 22 at 5 p.m. Already requested a mail ballot? Track its status online.
+Request Vote-By-Mail
+Check Status
 View Your Sample Ballot
 Click the link below to view your personalized sample ballot.
 View Sample Ballot
 Announcements
+Turnout Statistics for the 11/3/2026 Election and Maps
+Unofficial Voter Turnout Statistics for the 11/3/2026 General Election
+Unofficial Vote-by-Mail Statistics for the 11/3/2026 General Election
+View the 2026 Congressional Redistricting Interactive Map
 11/3/2026 Election - Early Voting and Secure Ballot Intake Stations Schedules
 Secure Ballot Intake Stations Flyer
 Early Voting Flyer (Locations, Dates, and Hours):
@@ -359,9 +364,6 @@ English
 Spanish
 |
 Creole
-Turnout Statistics for the 11/3/2026 Election and Maps
-Unofficial Vote-by-Mail Statistics for the 11/3/2026 General Election
-View the 2026 Congressional Redistricting Interactive Map
 11/3/2026 Election – Important Information
 For Voter Information Lookup -
 Click Here
@@ -405,7 +407,7 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-10/18/26
+10/19/26
 1,367,840
 Eligible Voters
 594,110

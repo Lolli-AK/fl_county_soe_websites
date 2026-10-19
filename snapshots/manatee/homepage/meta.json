@@ -2,20 +2,19 @@
   "county": "Manatee",
   "page_type": "homepage",
   "requested_url": "https://www.votemanatee.gov",
-  "final_url": "https://www.votemanatee.gov/election-dates/",
+  "final_url": "https://www.votemanatee.gov",
   "redirect_chain": [
-    "https://www.votemanatee.gov",
-    "https://www.votemanatee.gov/election-dates/"
+    "https://www.votemanatee.gov"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-18T12:15:09Z",
-  "html_sha256": "2be36b12d0b7ce67df30be01a23cc95d244b6c749e095618038eb5db6ace8815",
-  "text_sha256": "01992af5185d1aa256b7a278376d08e78fa7981ad16b10b6a95510a8551d57c6",
-  "byte_size": 105533,
-  "title": "Election Dates - Vote Manatee",
+  "fetched_at": "2026-10-19T15:06:41Z",
+  "html_sha256": "a888c6078216c0ee60e10693b3a9979c6c65a98956755fdb66d38f3316eba9fd",
+  "text_sha256": "8b4bd00b30b52e46fbd625f380106da7c04c809fc9e4c9d77d459c6ca9e2bfe7",
+  "byte_size": 152470,
+  "title": "Home - Vote Manatee",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

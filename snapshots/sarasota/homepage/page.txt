@@ -2,6 +2,9 @@ Sarasota County Supervisor of Elections, FL | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Loading
 Skip to Main Content
+Unofficial Turnout
+November 3 General Election
+See more
 About Us
 Voters
 Elections
@@ -23,6 +26,10 @@ Coming Elections
 Latest News & Events
 Stay up to date with Sarasota County Elections
 News Flash
+In-person Early Voting Underway
+In-person early voting for the November 3 General Election began Monday, October 19 and runs through Sunday, November 1.
+Read on...
+about In-person Early Voting Underway
 New North Port Service Location
 Sarasota County Supervisor of Elections Ron Turner announces the opening of a new customer service office in North Port.
 Read on...
@@ -35,10 +42,6 @@ Vote-by-Mail Requests are Currently Being Accepted
 Vote-by-mail (absentee) requests for the 2024 General Election cycle have expired. Requesting mail ballots through the end of 2026 only takes a few moments.
 Read on...
 about Vote-by-Mail Requests are Currently Being Accepted
-How to Vote by Mail
-Take a few moments to review the How to Vote by Mail instructions page to have a smooth mail ballot voting experience.
-Read on...
-about How to Vote by Mail
 View All News
 News Flash
 /CivicAlerts.aspx
@@ -83,7 +86,7 @@ View All Office Dates
 Registered Voters
 SARASOTA COUNTY, FL
 As of:
-10/18/26
+10/19/26
 Democrats:
 82,026
 Republicans:

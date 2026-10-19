@@ -2,9 +2,9 @@ Lee County Elections, FL | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Loading
 Skip to Main Content
-Important Notice
-Vote-by-Mail Request Renewal Required
-Read More...
+EARLY VOTING
+Early Voting for the 2026 General Election is underway!
+Read On...
 Select Language
 Abkhaz
 Acehnese
@@ -258,7 +258,7 @@ Powered by
 Translate
 Search
 Active Registered Voters:
-10/18/26
+10/19/26
 Democrats:
 109,456
 Republicans:
@@ -379,15 +379,16 @@ Third Party Voter Registration
 Update My Voter Registration Information
 Voter's Guide
 Important Information
+Early Voting Information
+Early Voting begins today!
+For early voting information, including hours, locations, and wait times,
+visit our Early Voting Information page
+.
 Vote-by-Mail Request Renewal Required
 The deadline to request a Vote-by-Mail ballot for the November 3, 2026, General Election is 5:00 pm, Thursday, October 22.
 Under Florida law, all previous Vote-by-Mail requests have expired. You must
 submit a new request
 to vote by mail in the 2026 election cycle.
-Early Voting Information
-For early voting information, including hours, locations, and wait times,
-visit our Early Voting Information page
-.
 Sample Ballots for the 2026 General Election
 Sample ballots for the November 3, 2026, General Election are now available.
 Find your voter-specific Sample Ballot

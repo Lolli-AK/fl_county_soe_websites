@@ -120,16 +120,16 @@ Sample Ballots
 Election Mail
 Submit A Public Records Request
 ‹
-Request a Vote-by-Mail ballot for the 2026 General Election by October 22!
+Early Voting is now open through Sun., Nov. 1 from 8:00 AM to 8:00 PM.
 Karen Castor Dentel
 GEneral election
-quick reference
-2026 General Election Center
+November 3, 2026
+General Election Center
 What’s On My Ballot
 Unofficial Voter Turnout
 Request a Vote-by-Mail Ballot
 Sign up for BallotTrax
-Secure Ballot Intake Stations
+Early Voting Wait Times
 Find Your Election Day Polling Place
 HOW CAN WE HELP YOU?
 WHAT’S ON MY BALLOT?
@@ -173,7 +173,7 @@ Read More
 View Calendar
 VOTER STATISTICS
 Registered Active Voters
-as of 10/17/2026
+as of 10/18/2026
 Switch to details
 Switch to summary
 Party
@@ -237,7 +237,7 @@ UNKNOWN PARTY
 Total
 821,519
 Vote By Mail Standing Request Totals
-as of 10/17/2026
+as of 10/18/2026
 Election Name
 Count
 2026 General Election
