@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.lakevotes.gov/101/Election-Information"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-20T14:09:52Z",
-  "html_sha256": "d96e14f12fb7ed82a16f406226ac109c158801b3492600d596c339413eaafb47",
-  "text_sha256": "820b024ee885f1f7b7d6c9d12fc4aabd5dcd630b4e75711d3d4d0a884605d0cf",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-20T18:59:32Z",
+  "html_sha256": "5133df387ff4bc5b014d031adedd287644f8fcb88eac35280cd2b3b8da5d5fe6",
+  "text_sha256": "c2f49c8807ba618aea926a45393484e58823e3572c176fa2682d91a80106cc12",
+  "byte_size": 73781,
+  "title": "Election Information | Lake County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

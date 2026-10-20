@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-20T14:09:52Z",
-  "html_sha256": "7e4a60ffe6a01ae7b7115c07b8809e6041b570dd56a9f9c0fb3cb26ab6ef8166",
+  "fetched_at": "2026-10-20T18:59:32Z",
+  "html_sha256": "274b52ded302c93e54c7b3d5a09fcf39896582fd3b4df19ce05f76cb754e6e48",
   "text_sha256": "5a3a7c3ee8c7998b116745f020557702b43ae06731406e9209cdc8a45cabca2c",
-  "byte_size": 53491,
+  "byte_size": 53582,
   "title": "Find My Voting Location | Marion County Elections, FL",
   "noncitizen_voting": {
     "present": false,

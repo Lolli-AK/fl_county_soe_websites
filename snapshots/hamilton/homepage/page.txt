@@ -142,15 +142,15 @@ Early Voting
 Sample Ballot
 Candidate Financial Reporting Login
 2026 Filed Candidates
-Voter Totals as of: 10/19/2026
+Voter Totals as of: 10/05/2026
 Democrats
-2,336
+2,323
 Republicans
-3,794
+3,793
 Other
-1,054
+1,052
 Total
-7,174
+7,168
 Dates to Remember
 Oct 24, 2026
 Early Voting: General Election

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-20T14:09:52Z",
-  "html_sha256": "cbe52063500d7748ab2577af8c633928fc572ca8961ab47f9eaa554b14a840f4",
+  "fetched_at": "2026-10-20T18:59:32Z",
+  "html_sha256": "132e614419cd97ba88592f9d6553cac1944c133ed34b00aaaa70956fda46d300",
   "text_sha256": "1ee6f12e70b6b5e5706d1def7565deb9e9350b4598165c877a620d0a5353aceb",
-  "byte_size": 43764,
+  "byte_size": 43767,
   "title": "Military/Overseas Voters - Martin County",
   "noncitizen_voting": {
     "present": false,

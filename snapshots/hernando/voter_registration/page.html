@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="removeSetHeights" lang="en">
+<html class="removeSetHeights no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-muli-n3-active wf-muli-n4-active wf-muli-i4-active wf-muli-n7-active" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -14,11 +14,21 @@
   </title>
   <meta content="Get information about registering to vote online." name="description"/>
  </head>
- <body class="wide ae-online-voter-registration-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
+ <body class="wide cpTextResizeOn doneLoading ae-online-voter-registration-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
   <div aria-live="polite" class="ae-blurb-noaudio" data-nosnippet="" id="ae_enabled_site" role="status">
    <div>
     <p data-modulename="launcher">
      This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+    </p>
+   </div>
+  </div>
+  <div id="divAjaxProgress">
+   <div id="divAjaxShade">
+   </div>
+   <div class="loading" id="divAjaxImgProgress">
+    <img alt="" src="/Common/images/ajax-loader.gif" title="Loading"/>
+    <p>
+     Loading
     </p>
    </div>
   </div>
@@ -77,44 +87,36 @@
          <ol class="rootNavMenu" data-parent="1" id="mainNavMenu" role="menu">
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="27" id="MainItem27" role="none">
            <a aria-controls="mainNavMegaMenu27" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem1" href="/27/Election-RANDOM" id="mainNavElectionInformation" role="menuitem" target="_self">
-            Election Information
+            <span>
+             Election Information
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="31" id="MainItem31" role="none">
            <a aria-controls="mainNavMegaMenu31" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem2" href="/31/Voter-RANDOM" id="mainNavVoterInformation" role="menuitem" target="_self">
-            Voter Information
+            <span>
+             Voter Information
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="35" id="MainItem35" role="none">
            <a aria-controls="mainNavMegaMenu35" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem3" href="/35/Candidates" id="mainNavCandidates" role="menuitem" target="_self">
-            Candidates
+            <span>
+             Candidates
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="9" id="MainItem9" role="none">
            <a aria-controls="mainNavMegaMenu9" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem4" href="/9/Resources" id="mainNavResources" role="menuitem" target="_self">
-            Resources
+            <span>
+             Resources
+            </span>
            </a>
           </li>
          </ol>
          <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu" role="presentation">
           <input id="megaMenuPopupDirection" type="hidden"/>
           <input id="megaMenuWidthReference" type="hidden"/>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="presentation">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31" role="presentation">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="presentation">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="presentation">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
          </aside>
         </nav>
        </div>
@@ -131,7 +133,8 @@
           </div>
          </div>
         </div>
-        <div id="banner1-65">
+        <div class="bannerObject external" data-image-scale="false" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" src="/ImageRepository/Document?documentID=510" width="2200px"/>
         </div>
        </div>
       </div>
@@ -189,7 +192,7 @@
             </li>
             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1267" id="SideItem1267" tabindex="-1">
              <div class="accordionNavItem">
-              <a aria-describedby="audioeye_new_window_message" class="navMainItem secondaryNavItem cpComponent docaccess-activated docaccess-status-disabled" data-type="SecondaryMainItem" href="https://files.floridados.gov/media/709592/address-confidentiality-exemption-form-07-2025.pdf" target="_blank">
+              <a aria-label="Public Records Exemption (PDF) Opens in new window" class="navMainItem secondaryNavItem cpComponent docaccess-activated docaccess-status-disabled" data-type="SecondaryMainItem" href="https://files.floridados.gov/media/709592/address-confidentiality-exemption-form-07-2025.pdf" rel="noopener" target="_blank">
                Public Records Exemption (PDF)
               </a>
              </div>
@@ -210,7 +213,7 @@
             </li>
             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1268" id="SideItem1268" tabindex="-1">
              <div class="accordionNavItem">
-              <a aria-describedby="audioeye_new_window_message" class="navMainItem secondaryNavItem cpComponent docaccess-activated docaccess-status-disabled" data-type="SecondaryMainItem" href="/DocumentCenter/View/291/Remove-by-Request-PDF" target="_blank">
+              <a aria-label="Remove by Request (PDF) Opens in new window" class="navMainItem secondaryNavItem cpComponent docaccess-activated docaccess-status-disabled" data-type="SecondaryMainItem" href="/DocumentCenter/View/291/Remove-by-Request-PDF" rel="noopener" target="_blank">
                Remove by Request (PDF)
               </a>
              </div>
@@ -646,22 +649,22 @@
                        <div class="first last">
                         <ol class="semanticList bullets">
                          <li class="widgetItem" data-documentid="276">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="Voter FAQ - English (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/276/Voter-FAQ--RANDOM" target="_blank">
+                          <a aria-label="Voter FAQ - English (PDF) Opens in new window" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/276/Voter-FAQ--RANDOM" rel="noopener" target="_blank">
                            Voter FAQ - English (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="278">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="Voter FAQ - Spanish (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/278/Voter-FAQ--RANDOM" target="_blank">
+                          <a aria-label="Voter FAQ - Spanish (PDF) Opens in new window" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/278/Voter-FAQ--RANDOM" rel="noopener" target="_blank">
                            Voter FAQ - Spanish (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="279">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="Voter Quick Facts - English (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/279/Voter-Quick-Facts--RANDOM" target="_blank">
+                          <a aria-label="Voter Quick Facts - English (PDF) Opens in new window" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/279/Voter-Quick-Facts--RANDOM" rel="noopener" target="_blank">
                            Voter Quick Facts - English (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="277">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="Voter Quick Facts - Spanish (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/277/Voter-Quick-Facts--RANDOM" target="_blank">
+                          <a aria-label="Voter Quick Facts - Spanish (PDF) Opens in new window" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/277/Voter-Quick-Facts--RANDOM" rel="noopener" target="_blank">
                            Voter Quick Facts - Spanish (PDF)
                           </a>
                          </li>
@@ -683,7 +686,7 @@
                   <div class="widget editor pageStyles" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' id="divEditorGUID">
                    <div class="fr-view">
                     <h2 class="subhead1">
-                     <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-disabled" href="/DocumentCenter/View/290" rel="noopener" target="_blank">
+                     <a aria-label="Voter Registration Application Form - English (PDF) Opens in new window" class="docaccess-activated docaccess-status-disabled" href="/DocumentCenter/View/290" rel="noopener" target="_blank">
                       Voter Registration Application Form - English (PDF)
                      </a>
                     </h2>
@@ -691,7 +694,7 @@
                      <br/>
                     </h2>
                     <h2 class="subhead1">
-                     <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-disabled" href="/DocumentCenter/View/289" rel="noopener" target="_blank">
+                     <a aria-label="Formulario de Inscripción para Votar - Español (PDF) Opens in new window" class="docaccess-activated docaccess-status-disabled" href="/DocumentCenter/View/289" rel="noopener" target="_blank">
                       Formulario de Inscripción para Votar - Español (PDF)
                      </a>
                     </h2>
@@ -892,7 +895,7 @@
               <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
                <section class="widget widgetSearch skin64 widgetOptionSet37" id="widgetPreviewSearch">
                 <div class="widgetBody buttonRightInside">
-                 <input aria-label="Search Site" class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
+                 <input aria-label="Search Site" autocomplete="off" class="widgetSearchBox widgetSearchBoxGUID ui-autocomplete-input" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
                  <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon">
                   <img alt="Go to Site Search" class="imageHover" data-hover="/ImageRepository/Document?documentID=119" data-image="/ImageRepository/Document?documentID=118" src="/ImageRepository/Document?documentID=118"/>
                  </a>
@@ -1270,13 +1273,30 @@
   </div>
   <div>
   </div>
-  <div class="hidden activeWidgetSkinComponentsOnPageJson">
-   []
-  </div>
   <div>
   </div>
   <div id="root-picker-outlet">
   </div>
+  <ul class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" id="ui-id-1" role="presentation" tabindex="0">
+  </ul>
+  <div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status">
+  </div>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="presentation">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31" role="presentation">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="presentation">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="presentation">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
   <div data-nosnippet="" id="ae_app">
    <div class="ae-module" id="ae_helpers">
    </div>

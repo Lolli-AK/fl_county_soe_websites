@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.soecharlottecountyfl.gov/31/Election-Information"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-20T14:09:52Z",
-  "html_sha256": "d15212ca3ea16e34fe785665e981c76cd1831aa1dfd873665b0497934dd74bef",
-  "text_sha256": "7cac9e504cb49cc04bf9c7a95898f12d1dab35214b449519f091961600a91ceb",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-20T18:59:32Z",
+  "html_sha256": "ec6adfeab5ad9fd95e9f63cecd0853f25d937be5973448d003de2a576eb43f07",
+  "text_sha256": "ee164b2a98b2a1f11669d6834278c75a6b411bd7b346da57ae9a8ccd923604e5",
+  "byte_size": 65679,
+  "title": "Election Information | Charlotte County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

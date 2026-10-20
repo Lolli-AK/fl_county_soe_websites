@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-20T14:09:52Z",
-  "html_sha256": "8455ad2aebcf0b1a27d1e35d9a99f60dcfc08706296787acc92940c89933963e",
+  "fetched_at": "2026-10-20T18:59:32Z",
+  "html_sha256": "6243111cc4cac0bc12ea38ac244f04efd68f5db7a16cc17715e12f607e972328",
   "text_sha256": "c096163d02152f11acdd388a0f77ccd413b511387a103108571b48929fc4f246",
-  "byte_size": 38057,
+  "byte_size": 38060,
   "title": "2026 Early Voting and <br>Secure Ballot Intake Station Locations - Martin County",
   "noncitizen_voting": {
     "present": false,
