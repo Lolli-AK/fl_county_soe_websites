@@ -163,15 +163,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(10/19/2026)
+(Book Closed on 10/05/2026)
 Democrats
-24,078
+24,029
 Republicans
-75,519
+75,461
 Other
-29,221
+29,178
 Total
-128,818
+128,668
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -194,7 +194,7 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 2 hours ago
+posted 11 hours ago
 📣 Early Voting for the 2026 General Election begins today, Monday, October 19th and runs through Saturday, October 31st, 10AM-6PM (Supervisor of Elections Office Only, 8:30AM-6PM)
 📍8 Convenient Locations
 https://www.bayvotesfl.gov/voters/vote-early/

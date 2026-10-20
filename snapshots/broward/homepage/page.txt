@@ -338,8 +338,8 @@ What is an Election Worker?
 Become an Election Worker
 Election Worker Portal
 Broward County
-Early Voting Opens Today!
-Vote early from 7 a.m. to 7 p.m. at any Early Voting Site. No need to go to your assigned precinct.
+Vote Early Now!
+Vote at any Early Voting Site from 7 a.m. to 7 p.m. No need to go to your assigned precinct.
 Find Early Voting
 Find Your Election Day Polling Place
 Prefer to vote on Election Day? Find your assigned polling location.
@@ -353,6 +353,7 @@ Click the link below to view your personalized sample ballot.
 View Sample Ballot
 Announcements
 Turnout Statistics for the 11/3/2026 Election and Maps
+Early Voting Totals by Date and Location
 Unofficial Voter Turnout Statistics for the 11/3/2026 General Election
 Unofficial Vote-by-Mail Statistics for the 11/3/2026 General Election
 View the 2026 Congressional Redistricting Interactive Map
@@ -407,7 +408,7 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-10/19/26
+10/20/26
 1,367,840
 Eligible Voters
 594,110

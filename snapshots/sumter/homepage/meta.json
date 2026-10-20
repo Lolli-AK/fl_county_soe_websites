@@ -2,31 +2,28 @@
   "county": "Sumter",
   "page_type": "homepage",
   "requested_url": "https://elections.sumtercountyfl.gov",
-  "final_url": "https://elections.sumtercountyfl.gov/",
+  "final_url": "https://elections.sumtercountyfl.gov",
   "redirect_chain": [
-    "https://elections.sumtercountyfl.gov",
-    "https://elections.sumtercountyfl.gov/"
+    "https://elections.sumtercountyfl.gov"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "http_status": null,
+  "content_type": null,
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-19T15:06:41Z",
-  "html_sha256": "113e678c83af281fdca62404555e4b1904aadb8ff7bdaf72bc3933d9d2734b9f",
-  "text_sha256": "2b57aebeffe6bdaa75ca3a5f5aa26cebf990bc075404b21b1a3086fb8d5593db",
-  "byte_size": 96872,
-  "title": "Sumter County Elections, FL | Official Website",
+  "fetched_at": "2026-10-20T00:08:44Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectError: [Errno -3] Temporary failure in name resolution"
 }

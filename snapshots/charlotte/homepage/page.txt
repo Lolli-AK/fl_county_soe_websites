@@ -9,7 +9,7 @@ How-To Videos
 Search
 [rotating image slideshow removed for determinism]
 Active Registered Voters:
-10/19/26
+10/20/26
 Democrats:
 29,880
 Republicans:
@@ -74,3 +74,4 @@ Loading
 Loading
 Do Not Show Again
 Close
+[]

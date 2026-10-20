@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-19T15:06:41Z",
-  "html_sha256": "a3252aa1711e2e979484c63d5ac19fc348368a57bb0b065c4fdbe9a471c24b4b",
+  "fetched_at": "2026-10-20T00:08:44Z",
+  "html_sha256": "5645b5c21da8b85e2e02b14f3069854be2a14f8d9de797e364fc8a405cd538d2",
   "text_sha256": "0a1d56e81cbdf6fb753d1e2bdae69fd611646d157fd6bd76ccba43cd5a1dfbae",
-  "byte_size": 126105,
+  "byte_size": 126528,
   "title": "Brevard County Supervisor of Elections > Ballots by Mail > Mail Ballots for Military and Overseas Voters",
   "noncitizen_voting": {
     "present": false,

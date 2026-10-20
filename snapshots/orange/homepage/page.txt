@@ -48,7 +48,7 @@ Request A Mail Ballot
 Easily request a Vote-by-Mail ballot.
 Track Your Mail Ballot
 Check the status of your Vote-by-Mail ballot from request to acceptance.
-Vote Early
+Early Voting
 Learn when and where to vote before Election Day.
 Election Day Voting
 Find everything you need to vote on Election Day.
@@ -129,8 +129,8 @@ What’s On My Ballot
 Unofficial Voter Turnout
 Request a Vote-by-Mail Ballot
 Sign up for BallotTrax
-Early Voting Wait Times
-Find Your Election Day Polling Place
+Early Voting Locations & Wait Times
+Sample Ballots
 HOW CAN WE HELP YOU?
 WHAT’S ON MY BALLOT?
 MEET KAREN CASTOR DENTEL
@@ -164,11 +164,11 @@ October 21 @ 12:00 pm
 Signature Observation (General Election)
 Read More
 Oct
-19
-2:00 pm
+23
+8:00 am
 –
-7:00 pm
-Canvassing of Vote-by-Mail Ballots (General Election)
+9:00 am
+Public Viewing (General Election)
 Read More
 View Calendar
 VOTER STATISTICS

@@ -730,6 +730,13 @@
      </div>
     </div>
     <main class="bg-white static" id="content">
+     <div :class="{
+  'pt-28 sm:pt-28 md:pt-32 lg:pt-32': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+  'pt-28 sm:pt-20 md:pt-28 lg:pt-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+}" class="w-full relative lg:absolute z-20 border-b-4 border-white" v-cloak="">
+      <alerts>
+      </alerts>
+     </div>
      <section class="w-full h-[47vh] lg:h-[87vh] relative z-10 transition-all duration-1000 grow bg-gray-100">
       <div class="absolute w-full h-[500px] md:h-[60vh] lg:h-screen top-0 z-0 transition-all duration-500">
        <div alt="building" aria-label="building" class="w-full h-full lg:hidden bg-cover bg-center z-0 bg-gray-800" role="img">
@@ -972,6 +979,24 @@
         </div>
        </div>
        <div class="not-prose">
+        <a aria-label="Read full announcement, DEADLINE" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://jeffersonvotesfl.gov/announcements/deadline/" role="link" tabindex="0">
+         <div class="relative z-10 xl:pr-12">
+          <span class="text-accent text-lg font-extrabold uppercase">
+           October 19, 2026
+          </span>
+          <p class="text-primary-dark font-heading text-3xl md:text-4xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
+           DEADLINE
+          </p>
+          <p class="font-semibold text-gray-800 text-pretty mt-2">
+           The last day to request a Vote-by-Mail ballot to be mailed for the November General…
+          </p>
+         </div>
+         <span class="flex-none whitespace-nowrap btn-simple border-primary-dark bg-primary-dark group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
+          Read Full Announcement
+         </span>
+         <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300">
+         </div>
+        </a>
         <a aria-label="Read full announcement, Office Closure – Hurricane" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://jeffersonvotesfl.gov/announcements/office-closure-hurricane/" role="link" tabindex="0">
          <div class="relative z-10 xl:pr-12">
           <span class="text-accent text-lg font-extrabold uppercase">
@@ -1000,24 +1025,6 @@
           </p>
           <p class="font-semibold text-gray-800 text-pretty mt-2">
            2026 Constitutional Amendments Florida voters will consider proposed amendments to the Florida Constitution during the…
-          </p>
-         </div>
-         <span class="flex-none whitespace-nowrap btn-simple border-primary-dark bg-primary-dark group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
-          Read Full Announcement
-         </span>
-         <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300">
-         </div>
-        </a>
-        <a aria-label="Read full announcement, PUBLIC NOTICE" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://jeffersonvotesfl.gov/announcements/public-notice/" role="link" tabindex="0">
-         <div class="relative z-10 xl:pr-12">
-          <span class="text-accent text-lg font-extrabold uppercase">
-           September 25, 2026
-          </span>
-          <p class="text-primary-dark font-heading text-3xl md:text-4xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
-           PUBLIC NOTICE
-          </p>
-          <p class="font-semibold text-gray-800 text-pretty mt-2">
-           PUBLIC LOGIC &amp; ACCURACY TEST The Jefferson County Supervisor of Elections Office will conduct the…
           </p>
          </div>
          <span class="flex-none whitespace-nowrap btn-simple border-primary-dark bg-primary-dark group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
@@ -1056,36 +1063,55 @@
               Jefferson County Supervisor of Elections - Michelle Milligan
              </p>
              <p class="font-semibold text-primary-dark/50">
-              posted 3 days ago
+              posted 1 hour ago
              </p>
             </div>
            </div>
            <div class="relative grow overflow-hidden w-full">
             <div class="w-full py-6 prose md:prose-lg dark:prose-invert max-w-none text-pretty prose-a:break-words" tabindex="0">
              <p>
-              🇺🇸 **JEFFERSON COUNTY — ARE YOU ELECTION READY?**
+              🗳️ **ELECTION FACT CHECK – KNOW THE FACTS!** 🇺🇸
               <br/>
               <br/>
-              We're giving Jefferson County voters **13 DAYS of Early Voting** for the 2026 General Election! 🗳️
+              We've been made aware of misinformation circulating on social media regarding poll workers marking ballots and claims that additional marks will automatically cause a ballot to be disqualified.
               <br/>
               <br/>
-              That's **5 EXTRA DAYS** beyond Florida's mandatory Early Voting period!
+              **Let's set the record straight!**
               <br/>
               <br/>
-              📅 October 19–31, 2026
-              <br/>
-              🕗 8:00 a.m. – 5:00 p.m. DAILY, including weekends!
-              <br/>
-              📍 Jefferson County Supervisor of Elections Office
+              ✅ Poll workers do not routinely place marks on voters' ballots.
               <br/>
               <br/>
-              Whether you're an early bird or prefer voting on the weekend, we've got you covered!
+              ✅ Stray or additional marks do NOT automatically invalidate your ballot.
               <br/>
               <br/>
-              **Be Informed. Be Prepared. Be Election Ready!**
+              ✅ If you make a mistake while marking your ballot, simply notify an election worker BEFORE casting it so you can receive a replacement ballot.
               <br/>
               <br/>
-              ❤️🤍💙 Your Vote. Our Priority.
+              Our election workers are trained to follow Florida election laws and procedures to ensure ballots are handled properly and votes are accurately counted.
+              <br/>
+              <br/>
+              We encourage all voters to be cautious about election-related information shared on social media. If you ever have questions or concerns, please contact our office directly.
+              <br/>
+              <br/>
+              🇺🇸 **Your trusted source for accurate election information is your local Supervisor of Elections Office!**
+              <br/>
+              <br/>
+              🌐
+              <a href="http://www.jeffersonvotesfl.gov" target="_blank" title="www.jeffersonvotesfl.gov">
+               www.jeffersonvotesfl.gov
+              </a>
+              <br/>
+              <br/>
+              <a class="content-link" href="https://facebook.com/hashtag/JeffersonVotes" target="_blank">
+               #JeffersonVotes
+              </a>
+              <a class="content-link" href="https://facebook.com/hashtag/ElectionFacts" target="_blank">
+               #ElectionFacts
+              </a>
+              <a class="content-link" href="https://facebook.com/hashtag/BeElectionReady" target="_blank">
+               #BeElectionReady
+              </a>
              </p>
             </div>
            </div>
@@ -1104,7 +1130,7 @@
          <div class="w-full lg:w-1/2">
           <div class="h-full flex flex-wrap">
            <a aria-label="View link on Facebook" class="block min-w-full max-w-3xl" href="https://www.facebook.com/photo.php" rel="noopener noreferrer" target="_blank">
-            <img alt="Photos shared on Facebook" class="w-full" height="418" v-lazy="'https://scontent.xx.fbcdn.net/v/t39.30808-6/854458070_1090838623944987_4821973017659719736_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=d6BURUdHzzQQ7kNvwGJUp6u&amp;_nc_oc=AdoDOaq66jwvYlfr5zCl-3oEXP16VLrg5jdsjVO2W1Fe7whfK6m5WfaRfQvdZQhIYdc&amp;_nc_zt=23&amp;_nc_ht=scontent.xx&amp;edm=AKIiGfEEAAAA&amp;_nc_gid=1IEQz93SuVrOel7wtr8-bg&amp;_nc_tpa=Q5bMBQIYbXjqUccsy1rVeK-NFzQ0gNGmBnyJ8KrF4rW_ShRElvsaYq2gUJt6Cmq_H18wUzL1PN6D-x_C&amp;oh=00_AQNCM7KqJV7nyJuzNSpw2YuzMlLMwVf7oeQ98-sY1FtjhA&amp;oe=6ADC0162'" width="418"/>
+            <img alt="Photos shared on Facebook" class="w-full" height="720" v-lazy="'https://scontent.xx.fbcdn.net/v/t39.30808-6/857939472_1094169550278561_4766584216168331439_n.jpg?stp=dst-jpg_s720x720_tt6&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=mkw8yuJBmFIQ7kNvwGO5asY&amp;_nc_oc=AdqcE3-H5LHBEQLQL0m-8aU4jNofkBMhNpODUL5Tw4lwhl_m1mzxXmCB1U5CAwvg0qM&amp;_nc_zt=23&amp;_nc_ht=scontent.xx&amp;edm=AKIiGfEEAAAA&amp;_nc_gid=BXtdxihqCdnQY7q15Xgckw&amp;_nc_tpa=Q5bMBQJzW-3Dmqcza6PS76KQxjfwgEucykpis61xmoJIZpNmuBH0NAThete_CaxFrYMwlvDjOIVKya2S&amp;oh=00_AQMnF8L0tDqV8_gCeklwExw5iZDcrwuiFnoZY6NFPAzNZw&amp;oe=6ADC9D5A'" width="720"/>
            </a>
           </div>
          </div>

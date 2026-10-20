@@ -1,5 +1,4 @@
 Alachua County Elections, FL | Official Website
-Loading
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
@@ -23,9 +22,8 @@ Sample Ballot Now Available!
 Sample Ballot for the 2026 General Election is now available!
 Constitutional Amendments for the 2026 General Election (English)
 Proposed Constitutional Amendments for the General Election. (November 3, 2026)
-2026 General Election Preparation Report
-F.S. 100.032 Election Preparation Report
-Read on...
+Constitutional Amendments for the 2026 General Election (Spanish)
+Proposed Constitutional Amendments for the General Election. (November 3, 2026)
 View All News
 /CivicAlerts.aspx
 Upcoming Events
@@ -40,17 +38,11 @@ Veterans Day
 View All Events
 /Calendar.aspx
 As of:
-10/19/26
 Democrats:
-74,680
 Republicans:
-49,003
 No Party Affiliation:
-37,692
 Other:
-5,986
 Total:
-167,361
 Kim A. Barton, Supervisor of Elections, Alachua County
 Josiah T. Walls Building • 515 North Main Street, Suite 300 • Gainesville, FL 32601
 Hours
@@ -87,3 +79,4 @@ Loading
 Loading
 Do Not Show Again
 Close
+[]

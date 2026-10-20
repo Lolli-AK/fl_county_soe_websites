@@ -48,7 +48,7 @@ Request A Mail Ballot
 Easily request a Vote-by-Mail ballot.
 Track Your Mail Ballot
 Check the status of your Vote-by-Mail ballot from request to acceptance.
-Vote Early
+Early Voting
 Learn when and where to vote before Election Day.
 Election Day Voting
 Find everything you need to vote on Election Day.

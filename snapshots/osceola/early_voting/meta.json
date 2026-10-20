@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.voteosceola.gov/en-us/how-to-vote/vote-early/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-19T15:06:41Z",
-  "html_sha256": "fa68986d1a57c12e1439ca85b72c6902dcfed749c7fe918ef15bbaabc284fa7e",
-  "text_sha256": "ce2565bb43f46a8688a35b1da313494699792fe94baec89b85cb5b3f1875b140",
-  "byte_size": 58425,
-  "title": "Vote Early – Vote Osceola",
+  "fetched_at": "2026-10-20T00:08:44Z",
+  "html_sha256": "a33c7ae1e185ae208028648bfaf7e8e294d93f77047f819f1727ad9c520f3f9a",
+  "text_sha256": "f1c17e91222233f32948af7b7ed489508fad5a058ab18af07b9001c2ecad3cea",
+  "byte_size": 2855,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

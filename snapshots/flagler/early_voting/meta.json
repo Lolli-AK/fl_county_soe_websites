@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-19T15:06:41Z",
-  "html_sha256": "8ffaff7ccc1231ff7ae7c776e907555e824fd5dabe764183c150e4fc01e8dd76",
+  "fetched_at": "2026-10-20T00:08:44Z",
+  "html_sha256": "dafdd42e5d73dbd9b5f7fc3caa756c42515ea3fd9c190fca71f94593395374cb",
   "text_sha256": "61e07a2140e02b5119e07b88192b838def0ba31f62c1002a9c2c066ff3c25aa5",
-  "byte_size": 59513,
+  "byte_size": 59616,
   "title": "Early Voting | Flagler County Elections Office",
   "noncitizen_voting": {
     "present": false,
