@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.voteosceola.gov/en-us/election-results/2024-election-results/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-20T08:15:58Z",
-  "html_sha256": "850c99925f62dda44af4c6554d9daefbb9297669d792ac95efb4d21c93790a3c",
-  "text_sha256": "c6b7a13e706f8af01c8cd932a2bc68fafa4a20eeebdcd38dc18e7a185d7f42c6",
-  "byte_size": 53219,
-  "title": "2024 Election Results – Vote Osceola",
+  "fetched_at": "2026-10-20T13:07:57Z",
+  "html_sha256": "111f4eac2c4b902026e953be860d1227fd7ddbc2c93ab9871396158925b6c9c8",
+  "text_sha256": "1bee36fa5e8a0ea52d7f1c8004cad8b84a8fe22edcb066fde7d7ed2a63547b60",
+  "byte_size": 2855,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

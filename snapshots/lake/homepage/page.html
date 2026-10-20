@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" lang="en">
+<html class="no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-muli-n4-active wf-muli-i4-active wf-muli-n7-active wf-muli-n3-active" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -18,6 +18,16 @@
    <div>
     <p data-modulename="launcher">
      This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+    </p>
+   </div>
+  </div>
+  <div id="divAjaxProgress">
+   <div id="divAjaxShade">
+   </div>
+   <div class="loading" id="divAjaxImgProgress">
+    <img alt="" src="/Common/images/ajax-loader.gif" title="Loading"/>
+    <p>
+     Loading
     </p>
    </div>
   </div>
@@ -257,11 +267,8 @@
         </div>
         <div class="hidden" id="bannerImagesJSON56">
         </div>
-        <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
-         <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
-         </a>
-         <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
-         </a>
+        <div class="bannerObject external fixedBanner" data-image-scale="true" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" data-is-delayed="false" src="/ImageRepository/Document?documentID=1515" width="1280px"/>
         </div>
        </div>
       </div>
@@ -596,7 +603,7 @@
             <div class="row nest last">
              <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
               <div class="widget widgetTabbed skin59" data-widgetid="GUID" id="divTabbedGUID">
-               <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidget cpTabs" role="tablist">
+               <ol aria-hidden="false" class="tabbedWidget cpTabs" role="tablist">
                 <li class="active" role="presentation">
                  <a aria-controls="tabGUID_0" aria-selected="true" class="tabButton" href="#tabGUID_0" id="tabBtnGUID_0" role="tab" tabindex="0">
                   <span class="tabName editable" contenteditable="false" data-sequence="0" data-tabname="Voter News">
@@ -613,7 +620,7 @@
                 </li>
                </ol>
                <div class="cpTabPanels">
-                <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs" role="presentation">
+                <ol aria-hidden="true" class="tabbedWidgetNarrow cpTabs" role="presentation">
                  <li class="active" role="presentation">
                   <a aria-controls="tabGUID_0" aria-selected="true" class="tabButton" href="#tabGUID_0" id="tabBtnNarrowGUID_0" role="tab" tabindex="0">
                    <span class="tabName editable" contenteditable="false" data-sequence="0" data-tabname="Voter News">
@@ -643,7 +650,7 @@
                   </section>
                  </div>
                 </div>
-                <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs" role="presentation">
+                <ol aria-hidden="true" class="tabbedWidgetNarrow cpTabs" role="presentation">
                  <li class="" role="presentation">
                   <a aria-controls="tabGUID_1" aria-selected="false" class="tabButton" href="#tabGUID_1" id="tabBtnNarrowGUID_1" role="tab" tabindex="-1">
                    <span class="tabName editable" contenteditable="false" data-sequence="1" data-tabname="Public Notices">
@@ -696,7 +703,6 @@
                     <p class="data">
                      As of:
                      <span class="dateValue dataValue">
-                      10/20/26
                      </span>
                     </p>
                    </div>
@@ -704,7 +710,6 @@
                     <p class="data">
                      Democrats:
                      <span class="demValue dataValue">
-                      70,474
                      </span>
                     </p>
                    </div>
@@ -712,7 +717,6 @@
                     <p class="data">
                      Republicans:
                      <span class="repValue dataValue">
-                      136,008
                      </span>
                     </p>
                    </div>
@@ -720,7 +724,6 @@
                     <p class="data">
                      No Party Affiliation:
                      <span class="npaValue dataValue">
-                      66,676
                      </span>
                     </p>
                    </div>
@@ -728,7 +731,6 @@
                     <p class="data">
                      Other:
                      <span class="othValue dataValue">
-                      10,977
                      </span>
                     </p>
                    </div>
@@ -736,7 +738,6 @@
                     <p class="data">
                      Total:
                      <span class="totValue dataValue">
-                      284,135
                      </span>
                     </p>
                    </div>
@@ -794,7 +795,7 @@
               <div class="row nest last">
                <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                 <div class="widget widgetTabbed skin43" data-widgetid="GUID" id="divTabbedGUID">
-                 <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidget cpTabs" role="tablist">
+                 <ol aria-hidden="false" class="tabbedWidget cpTabs" role="tablist">
                   <li class="active" role="presentation">
                    <a aria-controls="tabGUID_0" aria-selected="true" class="tabButton" href="#tabGUID_0" id="tabBtnGUID_0" role="tab" tabindex="0">
                     <span class="tabName editable" contenteditable="false" data-sequence="0" data-tabname="Important Dates">
@@ -818,7 +819,7 @@
                   </li>
                  </ol>
                  <div class="cpTabPanels">
-                  <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs" role="presentation">
+                  <ol aria-hidden="true" class="tabbedWidgetNarrow cpTabs" role="presentation">
                    <li class="active" role="presentation">
                     <a aria-controls="tabGUID_0" aria-selected="true" class="tabButton" href="#tabGUID_0" id="tabBtnNarrowGUID_0" role="tab" tabindex="0">
                      <span class="tabName editable" contenteditable="false" data-sequence="0" data-tabname="Important Dates">
@@ -837,7 +838,7 @@
                         </div>
                         <input data-month="10" data-year="2026" name="monthToRender" type="hidden"/>
                         <h3 class="miniCalendarHeader" role="presentation">
-                         <button aria-label="Previous Month, current month October 2026, go to September 2026" class="cp-RANDOM-arrow cp-RANDOM-arrow--left">
+                         <button aria-label="Previous Month, current month October 2026, go to September 2026" class="cp-RANDOM-arrow cp-RANDOM-arrow--left" disabled="">
                          </button>
                          <span aria-level="3" class="cp-RANDOM-title" id="miniCalendarHeaderGUID" role="heading">
                           October 2026
@@ -1293,7 +1294,7 @@ Saturday
                     </div>
                    </div>
                   </div>
-                  <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs" role="presentation">
+                  <ol aria-hidden="true" class="tabbedWidgetNarrow cpTabs" role="presentation">
                    <li class="" role="presentation">
                     <a aria-controls="tabGUID_1" aria-selected="false" class="tabButton" href="#tabGUID_1" id="tabBtnNarrowGUID_1" role="tab" tabindex="-1">
                      <span class="tabName editable" contenteditable="false" data-sequence="1" data-tabname="Events">
@@ -1312,7 +1313,7 @@ Saturday
                         </div>
                         <input data-month="10" data-year="2026" name="monthToRender" type="hidden"/>
                         <h3 class="miniCalendarHeader" role="presentation">
-                         <button aria-label="Previous Month, current month October 2026, go to September 2026" class="cp-RANDOM-arrow cp-RANDOM-arrow--left">
+                         <button aria-label="Previous Month, current month October 2026, go to September 2026" class="cp-RANDOM-arrow cp-RANDOM-arrow--left" disabled="">
                          </button>
                          <span aria-level="3" class="cp-RANDOM-title" id="miniCalendarHeaderGUID" role="heading">
                           October 2026
@@ -1657,7 +1658,7 @@ Saturday
                     </div>
                    </div>
                   </div>
-                  <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs" role="presentation">
+                  <ol aria-hidden="true" class="tabbedWidgetNarrow cpTabs" role="presentation">
                    <li class="" role="presentation">
                     <a aria-controls="tabGUID_2" aria-selected="false" class="tabButton" href="#tabGUID_2" id="tabBtnNarrowGUID_2" role="tab" tabindex="-1">
                      <span class="tabName editable" contenteditable="false" data-sequence="2" data-tabname="Canvassing Board">
@@ -1676,7 +1677,7 @@ Saturday
                         </div>
                         <input data-month="10" data-year="2026" name="monthToRender" type="hidden"/>
                         <h3 class="miniCalendarHeader" role="presentation">
-                         <button aria-label="Previous Month, current month October 2026, go to September 2026" class="cp-RANDOM-arrow cp-RANDOM-arrow--left">
+                         <button aria-label="Previous Month, current month October 2026, go to September 2026" class="cp-RANDOM-arrow cp-RANDOM-arrow--left" disabled="">
                          </button>
                          <span aria-level="3" class="cp-RANDOM-title" id="miniCalendarHeaderGUID" role="heading">
                           October 2026
@@ -2102,7 +2103,8 @@ Friday
           </div>
          </div>
         </div>
-        <div id="banner2-57">
+        <div class="bannerObject external" data-image-scale="true" id="bannerDivbanner2">
+         <img alt="" class="bannerObject" src="/ImageRepository/Document?documentID=91" width="4705.9375px"/>
         </div>
        </div>
       </div>
@@ -3315,6 +3317,12 @@ Friday
   <div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf">
    <div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO">
    </div>
+  </div>
+  <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
+   <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
+   </a>
+   <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
+   </a>
   </div>
   <div data-nosnippet="" id="ae_app">
    <div class="ae-module" id="ae_helpers">

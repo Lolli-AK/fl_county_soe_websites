@@ -106,32 +106,32 @@ Learn More
 View Your Sample Ballot
 View your Sample Ballot for the General Election
 Learn More
-Registered Voters as of October 9, 2026
+Registered Voters as of October 20, 2026
 (Includes Active and Inactive Voters)
 Political Affiliation
 Active
 Inactive
 Total
 Democrats
-107,080
-19,409
-126,489
+107,181
+19,333
+126,514
 Republicans
-174,752
-17,322
-192,074
+175,039
+17,260
+192,299
 No Party Affiliation
-102,011
-24,050
-126,061
+102,093
+23,971
+126,064
 Other
-17,833
-1,679
-19,512
+17,952
+1,671
+19,623
 Totals
-401,676
-62,460
-464,136
+402,265
+62,235
+464,500
 Ready. Set. VOTE
 Vote-by-Mail
 Precinct Locator

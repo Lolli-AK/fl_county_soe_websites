@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-20T08:15:58Z",
-  "html_sha256": "caabf1fa3e5187d6ff5e50378227a7641fa2b22b697cc806572438f510f89ef0",
+  "fetched_at": "2026-10-20T13:07:57Z",
+  "html_sha256": "9deb3d20f8e2ed526e25b1eb149783350d65d0f3c1933591b0b014619c8d4bcd",
   "text_sha256": "e11a5a5b3ced3709976e70c98525106473190dede5184655af9af3ea6a58cf7a",
-  "byte_size": 76653,
+  "byte_size": 76667,
   "title": "Find Your Precinct | Nassau County Supervisor",
   "noncitizen_voting": {
     "present": false,
