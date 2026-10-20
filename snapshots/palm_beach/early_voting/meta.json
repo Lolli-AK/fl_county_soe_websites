@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-20T13:07:57Z",
-  "html_sha256": "5bb273f85a983382aef6a45ed33d10864cd4f7c9aa85b2db7ea05255d875942e",
+  "fetched_at": "2026-10-20T14:09:52Z",
+  "html_sha256": "bc71f8ed4780de5dc3c07acad13327adc45ef4bdb628b128d044597fe1dddff1",
   "text_sha256": "1f8db0ce9b902e5fee98c9012c3056fc139bc76c45cd58fbfb02d49f83138142",
-  "byte_size": 54364,
+  "byte_size": 53880,
   "title": "Early Voting | Palm Beach County Elections, FL",
   "noncitizen_voting": {
     "present": false,

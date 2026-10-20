@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-20T13:07:57Z",
-  "html_sha256": "d4375e9bc60a73229d16d14a956f6951b0a05b5576194a3a9d4426b05148dda4",
+  "fetched_at": "2026-10-20T14:09:52Z",
+  "html_sha256": "922dc07aab9baffd98e4b42da538b7c6410a2eab20de35644ba8a5cd0cf538ea",
   "text_sha256": "1431e7c730b95abfb17a1f45501513decd908fa964dca49cd742f313f5e67cb3",
-  "byte_size": 66701,
+  "byte_size": 66644,
   "title": "Military & Overseas Voters | Hillsborough County Elections, FL",
   "noncitizen_voting": {
     "present": false,

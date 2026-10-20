@@ -10,11 +10,11 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-20T13:07:57Z",
-  "html_sha256": "aa486b19d4a0c463c6cbcde48971b4834040134ee1a726d99d6455348643f737",
-  "text_sha256": "4fc57077eb30b24766f47723312962a3dbb682cabd4ab97d1fbcf9f2f427a7f8",
-  "byte_size": 59549,
-  "title": "Vote Osceola",
+  "fetched_at": "2026-10-20T14:09:52Z",
+  "html_sha256": "67079c238ff1795be3b062ea6c5275442283e20551b4b6cb5887abea66e5f18a",
+  "text_sha256": "972939390e0d3be504c9e17a81195a86debf0496d95d72a69354e71593941bae",
+  "byte_size": 2855,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

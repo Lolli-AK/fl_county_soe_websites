@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-20T13:07:57Z",
-  "html_sha256": "37f0fcb27cdf64e4977a424c1f91129b1015f4905d4e3ec1911e2d8845c908ce",
+  "fetched_at": "2026-10-20T14:09:52Z",
+  "html_sha256": "0c70f9771e5b557a2284b67fe09808bb785b5aa777ed90b46a6142a4e53ff68c",
   "text_sha256": "c23e47469fb5621a4da4581f69df23c212d5c64d3a43db137104359c473f0855",
-  "byte_size": 149380,
+  "byte_size": 149376,
   "title": "Register to Vote | St. Augustine, FL",
   "noncitizen_voting": {
     "present": false,

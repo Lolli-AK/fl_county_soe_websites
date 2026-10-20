@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-20T13:07:57Z",
-  "html_sha256": "1f7f99bf975054d1da75711d711a6822db5458d7446419291f41b7387cc5ccaf",
+  "fetched_at": "2026-10-20T14:09:52Z",
+  "html_sha256": "355eded27b09ecb095b823363643ec68770067a70566b2620bb43a9eeebae74e",
   "text_sha256": "c283836483073ab26e81bf625c1e2d6404d73b42d168f3934222cb0743837024",
-  "byte_size": 47334,
+  "byte_size": 46878,
   "title": "Early Voting Locations | Hernando County SOE, FL",
   "noncitizen_voting": {
     "present": false,

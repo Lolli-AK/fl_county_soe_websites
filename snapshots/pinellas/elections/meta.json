@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-20T13:07:57Z",
-  "html_sha256": "cd23ee9c6303af9226a65decccdc0ee089244a86da48f12073d3ae7b4814d036",
+  "fetched_at": "2026-10-20T14:09:52Z",
+  "html_sha256": "a65fcaaf3dd29a5ebfff36682700420efee8050d2e65957284f530c1e4735443",
   "text_sha256": "919a15c396bdc6566051aba1435796db8140d322236df72708951a4c76bb5434",
-  "byte_size": 65490,
+  "byte_size": 65488,
   "title": "Current & Upcoming Elections | Pinellas County Election, FL",
   "noncitizen_voting": {
     "present": false,
