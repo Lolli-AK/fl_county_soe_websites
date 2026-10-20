@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://elections.sumtercountyfl.gov/163/Upcoming-Election-Information"
   ],
-  "http_status": null,
-  "content_type": null,
-  "render_mode": "plain",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-20T00:08:44Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-20T08:15:58Z",
+  "html_sha256": "4b00d4a6870e3df57238125a441333ec469bceaf8e8681b832a06f142b6793d4",
+  "text_sha256": "bdefcf929f1a1881ef061e9d5e66d2fec01de7da3127ec1fe7c4bfc661737c59",
+  "byte_size": 75797,
+  "title": "Upcoming Election Information | Sumter County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectError: [Errno -3] Temporary failure in name resolution"
+  "error": null
 }

@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://elections.sumtercountyfl.gov/172/How-to-Register-to-Vote"
   ],
-  "http_status": null,
-  "content_type": null,
-  "render_mode": "plain",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-20T00:08:44Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-20T08:15:58Z",
+  "html_sha256": "9a752e6dea1c4dacc8a0f30fc6573141275f6004ceb26738779a86036e59e183",
+  "text_sha256": "f619ccf6046f81c28486efb3a6e73803fee4914e550fd23326277020aa2943e9",
+  "byte_size": 71615,
+  "title": "How to Register to Vote | Sumter County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "plain_fetch_error: ConnectError: [Errno -3] Temporary failure in name resolution"
+  "error": null
 }

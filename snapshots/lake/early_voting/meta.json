@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.lakevotes.gov/200/Early-Voting-Locations-Status"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-20T00:08:44Z",
-  "html_sha256": "15dec93764406f0e64025e785f3f97e0b5ffa86c1ba8d7be622401e642d88dc6",
-  "text_sha256": "4d942d4741575cae2c1fc701b766a21ab59d6b9525357ff97d18f6ad3150972b",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-20T08:15:58Z",
+  "html_sha256": "d7c5947d5d48fbfa47ed19a04c7ba1fbb22c00fd729ebc81b75b390c4a252ca3",
+  "text_sha256": "ff101629a74ad62148f13f68bdbc39b6d42cfbacc9d7a2296ae0acca5bc06b87",
+  "byte_size": 73277,
+  "title": "Early Voting Locations & Status | Lake County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

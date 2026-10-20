@@ -2,28 +2,35 @@
   "county": "Sumter",
   "page_type": "uocava",
   "requested_url": "https://elections.sumtercountyfl.gov/191/Military-Overseas-Voters",
-  "final_url": "https://elections.sumtercountyfl.gov/191/Military-Overseas-Voters",
+  "final_url": "https://elections.sumtercountyfl.gov/191/Military-Overseas-Voters-OR-Residency-Qu",
   "redirect_chain": [
-    "https://elections.sumtercountyfl.gov/191/Military-Overseas-Voters"
+    "https://elections.sumtercountyfl.gov/191/Military-Overseas-Voters",
+    "https://elections.sumtercountyfl.gov/191/Military-Overseas-Voters-OR-Residency-Qu"
   ],
-  "http_status": null,
-  "content_type": null,
-  "render_mode": "plain",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-20T00:08:44Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-20T08:15:58Z",
+  "html_sha256": "a590e0d9be23bb9644cce04657632c75ccd880d3152ca902580b28a021e26d65",
+  "text_sha256": "c0c1459368a24eb342469e2deeab81aeaff86f7792ee2183387bde43c5b24944",
+  "byte_size": 70521,
+  "title": "Military & Overseas Voters OR Residency Questions | Sumter County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 30
   },
-  "error": "plain_fetch_error: ConnectError: [Errno -3] Temporary failure in name resolution"
+  "error": null
 }
