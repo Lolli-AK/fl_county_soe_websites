@@ -1,5 +1,9 @@
 Bay County Supervisor of Elections | Nina Ward
 Skip to content
+Notice: Temporary Website Service Unavailability
+Website services including sample ballot viewing and precinct lookup are currently unavailable. We are working to restore these services as soon as possible. In the meantime, please contact our office at
+(850) 784-6100
+for assistance. We apologize for the inconvenience.
 (850) 784-6100
 Search Website
 MENU
@@ -163,15 +167,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(10/20/2026)
+(10/21/2026)
 Democrats
-24,109
+24,137
 Republicans
-75,550
+75,579
 Other
-29,242
+29,255
 Total
-128,901
+128,971
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -183,7 +187,7 @@ All Upcoming Elections
 Dates to Remember
 All Upcoming Dates
 Oct 21, 2026 8:30am
-Canvassing Board Meeting to begin canvass of vote by mail ballots, scan into audit system, and ballot duplication (as needed)
+IN SESSION- Canvassing Board Meeting to begin canvass of vote by mail ballots, scan into audit system, and ballot duplication…
 Oct 22, 2026 5:00pm
 The deadline to request a vote-by-mail ballot for the General Election
 Oct 29, 2026 8:30am
@@ -194,9 +198,9 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 1 day ago
-📣 📣 2,265 voters showed up for the 1st day of Early Voting. Remember you can view live voter turnout on our website at
-https://www.bayvotesfl.gov/
+posted 3 hours ago
+🗳🗳Haven't returned your Vote-by-Mail ballot yet? Don't wait, drop it off today at one of our 8 convenient Early Voting Sites!
+🗓️Remember, for your vote by mail ballot to count, it must be received by the Supervisor of Elections office no later than 7PM Election Night.
 View Facebook Post
 (opens in a new tab)
 Public Notices

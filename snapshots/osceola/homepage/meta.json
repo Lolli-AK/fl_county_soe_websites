@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-21T13:18:26Z",
-  "html_sha256": "cb37e172e607108ca2092a594b448c13dd1ec83c0761e9a069c1130c4889aa60",
-  "text_sha256": "4fc57077eb30b24766f47723312962a3dbb682cabd4ab97d1fbcf9f2f427a7f8",
+  "fetched_at": "2026-10-21T16:46:17Z",
+  "html_sha256": "713168fec634222496fdab8fe0f5a00420b97bd617e3c8b49ba3d8d5080ad38a",
+  "text_sha256": "098af08a4de6665ad68a8fff7e233cc456e21e41c6f4489eebd43d31d6d564ec",
   "byte_size": 59534,
   "title": "Vote Osceola",
   "noncitizen_voting": {

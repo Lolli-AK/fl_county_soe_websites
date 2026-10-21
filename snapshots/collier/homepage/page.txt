@@ -107,10 +107,6 @@ S
 29
 30
 31
-Wed, Oct 21
-Outreach - Marco Island Library
-Outreach - Marco Island Library
-Read On
 Thu, Oct 22 - Sat, Oct 31
 Early Voting - General Election
 Early Voting - General Election
@@ -151,8 +147,13 @@ public records request portal
 .
 Government Websites by
 CivicPlus®
-Early Voting Begins October 22!
-Polls will be open 9 a.m.-6 p.m.
+Service Interruption Notice
+Some services offered on our website are currently unavailable due to security updates being made.
+The ability to request a Vote-by-Mail Ballot is NOT one of the services affected and voters can request their ballot at
+CollierVotes.gov/RequestBallot
+.
+Services affected include our Precinct Finder, Voter Information Look-up, Sample Ballots, Office Holders, Campaign Finance, and Registration Totals.
+Our office will post updates as we learn more about the status of these interrupted services. If you have any questions, please contact our office at 239-252-8683.
 Do Not Show Again
 Close
 Select Language
