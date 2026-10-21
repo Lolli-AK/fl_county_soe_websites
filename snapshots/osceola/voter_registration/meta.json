@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-20T18:59:32Z",
-  "html_sha256": "c4e635313536d57a9146cc2620830018491ec45ac4047cf5edd0740574a1e01e",
+  "fetched_at": "2026-10-20T23:39:58Z",
+  "html_sha256": "e5bbbfcb86d0d40e02a722f8023062e2b5a38a88c737018eba07b8c60199d773",
   "text_sha256": "4c322fa35961a102a3dab20c7dc9d4f6601a02cc97a06c79782acb782fe90df1",
-  "byte_size": 56412,
+  "byte_size": 56366,
   "title": "How to Register to Vote – Vote Osceola",
   "noncitizen_voting": {
     "present": false,
