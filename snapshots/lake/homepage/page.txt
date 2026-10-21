@@ -41,17 +41,11 @@ Public Notices
 View All News
 /CivicAlerts.aspx
 As of:
-10/20/26
 Democrats:
-70,534
 Republicans:
-136,030
 No Party Affiliation:
-66,709
 Other:
-10,990
 Total:
-284,263
 Calendar
 Stay up to date
 Important Dates
@@ -506,6 +500,7 @@ Zapotec
 Zulu
 Powered by
 Translate
+[]
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate
