@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-21T16:46:17Z",
-  "html_sha256": "18b273ed5e02d852d255dcd19d1a243b26354e34f46caffe2c76387638fa46fa",
+  "fetched_at": "2026-10-21T21:21:54Z",
+  "html_sha256": "7e71a218f9008c592970e599166ccf811383375384c3355f160268be61fe86d0",
   "text_sha256": "879ca8f6d6a954b6b47ef56833137784afa0ff181a23f279c89cff404e3fa87f",
-  "byte_size": 37397,
+  "byte_size": 37369,
   "title": "Military/Overseas Info | Volusia County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

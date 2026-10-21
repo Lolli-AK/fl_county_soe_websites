@@ -149,406 +149,411 @@ Document Center
 The Document Center provides easy access to public documents. Click on one of the categories below to see related documents or use the search function.
 Search for file name:
 Categories always sorted by seq (sub-categories sorted within each category)
-Documents sorted by HEADER in Ascending Order within category
+Documents sorted by SEQ in Descending Order within category
 RESET
+2026
+2 documents
+2026 General
+document seq
+0.20
+2026 Primary
+document seq
+0.00
 2024
 6 documents
 2024 General
-document Header
+document seq
+0.60
 2024 General
-Official Results
-2024 General
-document Header
-2024 General
-Sample Ballot
-2024 Presidential Primary
-document Header
-2024 Presidential Primary
-Official Results
-2024 Presidential Primary
-document Header
-2024 Presidential Primary
+document seq
+0.50
 Sample Ballot
 2024 Primary
-document Header
+document seq
+0.40
 2024 Primary
-Official Results
-2024 Primary
-document Header
-2024 Primary
+document seq
+0.30
+Sample Ballot
+2024 Presidential Primary
+document seq
+0.20
+2024 Presidential Primary
+document seq
+0.10
 Sample Ballot
 2022
 4 documents
 Primary
 2 documents
 Official Primary Results
-document Header
-Official Primary Results
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 General
 2 documents
 Official General Results
-document Header
-Official General Results
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2021
 2 documents
 Official Precinct Results
-document Header
-Official Precinct Results
+document seq
+0.00
 Official Summary Results
-document Header
-Official Summary Results
+document seq
+0.00
 2020
 6 documents
 Presidential Preference Primary
 2 documents
 Official Presidential Preference Primary Results
-document Header
-Official Presidential Preference Primary Results
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 Primary
 2 documents
 Official Primary Results
-document Header
-Official Primary Results
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 General
 2 documents
 Official General Results
-document Header
-Official General Results
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2019
 3 documents
 Precinct Results
-document Header
-Precinct Results
-Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 Summary Results
-document Header
-Summary Results
+document seq
+0.00
+Sample Ballot
+document seq
+0.00
 2018
 11 documents
 City of LaBelle
-document Header
-City of LaBelle
+document seq
+0.00
 Primary
 3 documents
-Precinct Results
-document Header
-Precinct Results
-Sample Ballot
-document Header
-Sample Ballot
 Summary Results
-document Header
-Summary Results
+document seq
+0.00
+Precinct Results
+document seq
+0.00
+Sample Ballot
+document seq
+0.00
 General
 7 documents
-Official Precinct Results
-document Header
-Official Precinct Results
-Official Summary Results
-document Header
-Official Summary Results
-Precinct Recount Results
-document Header
-Precinct Recount Results
-Precinct Results
-document Header
-Precinct Results
-Unofficial
-Sample Ballot
-document Header
-Sample Ballot
-Summary Recount Results
-document Header
-Summary Recount Results
 Summary Results
-document Header
-Summary Results
+document seq
+0.00
 Unofficial
+Precinct Results
+document seq
+0.00
+Unofficial
+Summary Recount Results
+document seq
+0.00
+Precinct Recount Results
+document seq
+0.00
+Official Summary Results
+document seq
+0.00
+Official Precinct Results
+document seq
+0.00
+Sample Ballot
+document seq
+0.00
 2016
 11 documents
 Presidential Preference Primary
 3 documents
-Precinct Results
-document Header
-Precinct Results
-Sample Ballot
-document Header
-Sample Ballot
 Summary Results
-document Header
-Summary Results
+document seq
+0.00
+Precinct Results
+document seq
+0.00
+Sample Ballot
+document seq
+0.00
 Primary
 4 documents
-Precinct Results 1 - 5
-document Header
-Precinct Results 1 - 5
-Precinct Results 6 - 10
-document Header
-Precinct Results 6 - 10
-Sample Ballot
-document Header
-Sample Ballot
 Summary Results
-document Header
-Summary Results
+document seq
+0.00
+Precinct Results 1 - 5
+document seq
+0.00
+Precinct Results 6 - 10
+document seq
+0.00
+Sample Ballot
+document seq
+0.00
 General
 4 documents
-Precinct Results 1 - 5
-document Header
-Precinct Results 1 - 5
-Precinct Results 6 - 10
-document Header
-Precinct Results 6 - 10
-Sample Ballot
-document Header
-Sample Ballot
 Summary Results
-document Header
-Summary Results
+document seq
+0.00
+Precinct Results 1 - 5
+document seq
+0.00
+Precinct Results 6 - 10
+document seq
+0.00
+Sample Ballot
+document seq
+0.00
 2015
 2 documents
 City of LaBelle
 2 documents
-Sample Ballot
-document Header
-Sample Ballot
 Summary Official Results
-document Header
-Summary Official Results
+document seq
+0.00
+Sample Ballot
+document seq
+0.00
 2014
 6 documents
 2014 Primary Election
 3 documents
 2014 Precinct Results
-document Header
-2014 Precinct Results
+document seq
+0.00
 2014 Summary Results
-document Header
-2014 Summary Results
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2014 General Election
 3 documents
 2014 Precinct Results
-document Header
-2014 Precinct Results
+document seq
+0.00
 2014 Summary Results
-document Header
-2014 Summary Results
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2013
 3 documents
 City of LaBelle 2013
-document Header
-City of LaBelle 2013
+document seq
+0.00
 City of LaBelle Precinct Totals 2013
-document Header
-City of LaBelle Precinct Totals 2013
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2012
 8 documents
 2012 Presidential Preference Primary Election
 2 documents
-2012 Presidential Preference Primary
-document Header
-2012 Presidential Preference Primary
 2012 Presidential Preference Primary Precinct
-document Header
-2012 Presidential Preference Primary Precinct
+document seq
+0.00
+2012 Presidential Preference Primary
+document seq
+0.00
 2012 Primary Election
 3 documents
-2012 Primary Election
-document Header
-2012 Primary Election
 2012 Primary Precinct Totals
-document Header
-2012 Primary Precinct Totals
+document seq
+0.00
+2012 Primary Election
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2012 General Election
 3 documents
-2012 General Election
-document Header
-2012 General Election
 2012 General Election Precinct Totals
-document Header
-2012 General Election Precinct Totals
+document seq
+0.00
+2012 General Election
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2010
 8 documents
 2010 Referendum Election
 2 documents
 2010 Referendum Results
-document Header
-2010 Referendum Results
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2010 Primary Election
 3 documents
 2010 Primary Precinct Results
-document Header
-2010 Primary Precinct Results
+document seq
+0.00
 2010 Primary Result Totals
-document Header
-2010 Primary Result Totals
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2010 General Election
 3 documents
 2010 General Precinct Results
-document Header
-2010 General Precinct Results
+document seq
+0.00
 2010 General Result Totals
-document Header
-2010 General Result Totals
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2008
 9 documents
 2008 Presidential Preference Primary
 3 documents
 2008 Presidential Preference Primary Precinct Results
-document Header
-2008 Presidential Preference Primary Precinct Results
+document seq
+0.00
 2008 Presidential Preference Primary Result Totals
-document Header
-2008 Presidential Preference Primary Result Totals
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2008 Primary Election
 3 documents
 2008 Primary Precinct Results
-document Header
-2008 Primary Precinct Results
+document seq
+0.00
 2008 Primary Result Totals
-document Header
-2008 Primary Result Totals
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2008 General Election
 3 documents
 2008 General Precinct Results
-document Header
-2008 General Precinct Results
+document seq
+0.00
 2008 General Result Totals
-document Header
-2008 General Result Totals
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2007
 1 document
 2007 Central County Water Control District Election
-document Header
-2007 Central County Water Control District Election
+document seq
+0.00
 Central County Water Control Election
 2006
 4 documents
 2006 Primary Election
 2 documents
 2006 Primary Results
-document Header
-2006 Primary Results
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2006 General Election
 2 documents
 2006 General Election Results
-document Header
-2006 General Election Results
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2004
 5 documents
 2004 Presidential Preference Primary
 1 document
 2004 Presidential Preference Primary Results
-document Header
-2004 Presidential Preference Primary Results
+document seq
+0.00
 2004 Primary Election
 2 documents
 2004 Primary Election Results
-document Header
-2004 Primary Election Results
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2004 General Election
 2 documents
 2004 General Election Results
-document Header
-2004 General Election Results
+document seq
+0.00
 Sample Ballot
-document Header
-Sample Ballot
+document seq
+0.00
 2002
 4 documents
 2002 Primary Election
 1 document
 2002 Primary Election Results
-document Header
-2002 Primary Election Results
+document seq
+0.00
 2002 General Election
 3 documents
-2002 General Election Precinct Results
-document Header
-2002 General Election Precinct Results
-2002 General Election Recount
-document Header
-2002 General Election Recount
 2002 General Election Results
-document Header
-2002 General Election Results
+document seq
+0.00
+2002 General Election Precinct Results
+document seq
+0.00
+2002 General Election Recount
+document seq
+0.00
 2000
 4 documents
-2000 First Primary
-document Header
-2000 First Primary
-2000 First Primary Election
-2000 General Election Results
-document Header
-2000 General Election Results
-2000 General Election Results
 2000 PPP
-document Header
-2000 PPP
+document seq
+0.00
 2000 Presidential Preference Primary
+2000 First Primary
+document seq
+0.00
+2000 First Primary Election
 2000 Second Primary Results
-document Header
-2000 Second Primary Results
+document seq
+0.00
 2000 Second Primary Election
+2000 General Election Results
+document seq
+0.00
+2000 General Election Results
 LaBelle Office
 25 E. Hickpochee Ave., LaBelle, FL 33935
 Clewiston Office:

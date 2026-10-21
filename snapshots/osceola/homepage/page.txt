@@ -156,7 +156,7 @@ Español
 Empowering Voters.
 Strengthening Democracy.
 Supervisor of Elections Mary Jane Arrington
-Register to Vote
+View My Sample Ballot
 Request A Mail Ballot
 Search Our Website
 Register to Vote Online
@@ -165,17 +165,6 @@ Request a Mail Ballot
 Get Started
 Mary Jane Arrington
 Learn More
-84,561
-Democrats
-71,855
-Republicans
-82,224
-Other Parties
-238,640
-Total Registered
-Active Registered Voters
-Active Registered Voters as of 10/5/25
-Make a Public Records Request
 First Name
 Last Name
 Email

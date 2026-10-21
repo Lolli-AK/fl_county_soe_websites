@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-21T16:46:17Z",
-  "html_sha256": "cefe16e1a49d06972b9d8c2eaa7eed7b2ff04a70ba8ca2387613520dacc64126",
+  "fetched_at": "2026-10-21T21:21:54Z",
+  "html_sha256": "1f9328e79f423dca36bb629d8355b2b228e1b0cc676ae3e1bc9da382baf21c65",
   "text_sha256": "27774c2134210881343636c602052657f19e3b66f463e49621ff48fbb04fb524",
-  "byte_size": 36487,
+  "byte_size": 36459,
   "title": "Early Voting | Volusia County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
