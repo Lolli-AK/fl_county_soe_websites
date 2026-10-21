@@ -159,7 +159,7 @@ VOTE-BY-MAIL
 2026 General Election
 Received
 To Be Counted
-4012
+4139
 0
 ★
 Essential Services for Highlands County Voters
@@ -193,6 +193,17 @@ Precinct & Maps
 Explore Maps
 Contact & Feedback
 Contact Us
+Active Voters
+as of
+10/05/2026
+Democrats
+13,671
+Republicans
+35,241
+Others
+14,467
+Total
+63,379
 Active Voters
 as of
 8/20/26

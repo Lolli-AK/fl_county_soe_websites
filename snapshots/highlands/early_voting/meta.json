@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-21T11:20:15Z",
-  "html_sha256": "2726f225d23bd8d308acd8a955e36d7d81bd2c9606eb2d7f4b513045f0782f88",
+  "fetched_at": "2026-10-21T13:18:26Z",
+  "html_sha256": "11bd6a27ea9ee73713e102b618a5d048faa364ebccc95e4a4bc58c1a94d5e71f",
   "text_sha256": "a501a33aae51647866d1219af9aaaee06847e5edbfd3fd69ce84e9bdde4115b9",
-  "byte_size": 122323,
+  "byte_size": 122267,
   "title": "Early Voting Information | Highlands County Supervisor of Elections | Sebring, FL",
   "noncitizen_voting": {
     "present": false,
