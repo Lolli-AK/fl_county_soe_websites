@@ -107,10 +107,10 @@ Campaign Finance Login
 Contact Us
 Helpful Links
 Active Registered Voters as of 10/21/2026:
-Dem: 4,125
-Rep: 8,358
-Oth: 3,601
-Total: 16,084
+Dem: 4,130
+Rep: 8,363
+Oth: 3,602
+Total: 16,095
 Register to Vote
 Check My Status
 Vote by Mail

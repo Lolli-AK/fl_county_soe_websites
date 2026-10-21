@@ -7,25 +7,23 @@
     "https://votejacksonfl.gov/voter-education/register-to-vote-or-update-your-registration/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-21T03:41:17Z",
-  "html_sha256": "d7170dc88cf8e355c7c152ae1d1b468847f7a037e968e1d02f894fc78b3c72cb",
-  "text_sha256": "2f527f1cafed71d2ec2c395989c6ae93593a39ba420af67705fa959208057f0e",
-  "byte_size": 80341,
-  "title": "Update Your Registration – Jackson County (FL) Supervisor of Elections",
+  "fetched_at": "2026-10-21T11:20:15Z",
+  "html_sha256": "3a8e26c3d8239eef36fa1ed2d548f42d2ae326d5bca94c231253ea9964205ada",
+  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
+  "byte_size": 488,
+  "title": "One moment, please...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }
