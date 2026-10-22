@@ -105,17 +105,17 @@ Carol A. Dunaway
 SUPERVISOR OF ELECTIONS
 JACKSON COUNTY
 Active Registered Voters
-as of 10/21/2026
+as of 10/22/2026
 Republicans
-0
+16,341
 Democrats
-0
+7,846
 NPA
-0
+2,662
 Others
-0
+694
 Total
-0
+27,543
 Voter Registration
 Ways to Vote
 Where do I Vote?
@@ -162,7 +162,7 @@ Spanish
 October 2026 Newsletter-
 CLICK HERE
 Countdown
-0
+13
 Days Until Next
 County-Wide Election
 Click to Sign Up for our Newsletter

@@ -7,23 +7,25 @@
     "https://wcsoe.gov/polling-sites/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-21T21:21:54Z",
-  "html_sha256": "3a8e26c3d8239eef36fa1ed2d548f42d2ae326d5bca94c231253ea9964205ada",
-  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
-  "byte_size": 488,
-  "title": "One moment, please...",
+  "fetched_at": "2026-10-22T03:40:59Z",
+  "html_sha256": "2e2e0776020adfb6da87534f1d392e779f9defad4ee889e8fe88a397cf6f93aa",
+  "text_sha256": "f6db5fdaddd67a2b7356173b1ea4e33ac095eb8f7fed843067a77d0987e2b156",
+  "byte_size": 85276,
+  "title": "Precinct Numbers and Polling Locations – Washington County (FL) Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
   "error": null
 }

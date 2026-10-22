@@ -7,25 +7,23 @@
     "https://wakullavotes.gov/current-upcoming-elections/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-21T21:21:54Z",
-  "html_sha256": "19ffa881699e668f3f9784ffc1a8ae5d614e97007768a9ff835e8452a1c545ff",
-  "text_sha256": "a7e6ce295069ad040aeafd165f0cfb37695bcf9fe69eff2f2e1916556705d994",
-  "byte_size": 71996,
-  "title": "Current/Upcoming Elections – Wakulla County Supervisor of Elections",
+  "fetched_at": "2026-10-22T03:40:59Z",
+  "html_sha256": "3a8e26c3d8239eef36fa1ed2d548f42d2ae326d5bca94c231253ea9964205ada",
+  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
+  "byte_size": 488,
+  "title": "One moment, please...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

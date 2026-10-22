@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-21T21:21:54Z",
-  "html_sha256": "f0a611151c8a1bc0a2572bd497670eed8399ef5cedd280d46943c5559408fb1b",
+  "fetched_at": "2026-10-22T03:40:59Z",
+  "html_sha256": "0da2307ba0efa7993465924e9073cd3e87afdd84a78be7441a4371fc4832915d",
   "text_sha256": "58ba5fc9eb9b1eca21e19877fe0753d2497700f74bf66924a3ca54a729df6dbb",
-  "byte_size": 127450,
+  "byte_size": 127459,
   "title": "Brevard County Supervisor of Elections > Voter Information > Register to Vote",
   "noncitizen_voting": {
     "present": false,

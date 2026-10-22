@@ -7,23 +7,25 @@
     "https://wakullavotes.gov/past-election-results/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-21T21:21:54Z",
-  "html_sha256": "3a8e26c3d8239eef36fa1ed2d548f42d2ae326d5bca94c231253ea9964205ada",
-  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
-  "byte_size": 488,
-  "title": "One moment, please...",
+  "fetched_at": "2026-10-22T03:40:59Z",
+  "html_sha256": "c00ef0193a33ff44574d1b8526d3dc33ea5a39cc0a9a46854c40e76466faf60d",
+  "text_sha256": "eac3542c694edd2efd43fcd6ba9fcc3041986baf05ed8f0d7cc51c835efc8126",
+  "byte_size": 67867,
+  "title": "Past Election Results – Wakulla County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
   "error": null
 }

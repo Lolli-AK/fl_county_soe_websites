@@ -18,7 +18,7 @@ Contact Us
 Voter Stats
 Voter statistics in Collier County
 As of:
-10/21/26
+10/22/26
 Democrats:
 51,719
 Republicans:
@@ -152,7 +152,7 @@ Some services offered on our website are currently unavailable due to security u
 The ability to request a Vote-by-Mail Ballot is NOT one of the services affected and voters can request their ballot at
 CollierVotes.gov/RequestBallot
 .
-Services affected include our Precinct Finder, Voter Information Look-up, Sample Ballots, Office Holders, Campaign Finance, and Registration Totals.
+Services affected include: Provisional Ballot Status, Office Holders, Campaign Finance, and Registration Totals.
 Our office will post updates as we learn more about the status of these interrupted services. If you have any questions, please contact our office at 239-252-8683.
 Do Not Show Again
 Close

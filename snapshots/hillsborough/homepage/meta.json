@@ -11,9 +11,9 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-21T21:21:54Z",
-  "html_sha256": "3d2916c4cb7fd2f19d2a0146b0b80a3e464076e2b39c5db62cce4137f32d4ad8",
-  "text_sha256": "97ad0c7b10d2b29a7b5af9029bc2a378d87834d1a3de34a8274747a41836851f",
+  "fetched_at": "2026-10-22T03:40:59Z",
+  "html_sha256": "1e0f8b3ae240f1bc178ca61b2c1b6e63b70c06c848253ad58643443f641fcbd3",
+  "text_sha256": "5f7d4962db7772059d03fd533a81654cc5180dcd3da6b4c3ab0aeea9b7600601",
   "byte_size": 77698,
   "title": "Hillsborough County Elections, FL | Official Website",
   "noncitizen_voting": {

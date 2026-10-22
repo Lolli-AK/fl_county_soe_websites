@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-21T21:21:54Z",
-  "html_sha256": "5419373f393e753f4f54419d86f661c3c8ff0ad05c9429bf25de7bfa4e930281",
+  "fetched_at": "2026-10-22T03:40:59Z",
+  "html_sha256": "dfae2536cd5ef0c04ff3d7ebf57031a85566a819f64a637d7dd225305cd807b6",
   "text_sha256": "a8518d3323f5b7eb83dbf2a519f7a57b52632990575ccd38f2334b3b53fd24f5",
-  "byte_size": 94809,
+  "byte_size": 94793,
   "title": "Military & Overseas Voter Registration | Orange County Florida | UOCAVA",
   "noncitizen_voting": {
     "present": false,
