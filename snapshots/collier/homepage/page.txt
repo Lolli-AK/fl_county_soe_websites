@@ -147,13 +147,8 @@ public records request portal
 .
 Government Websites by
 CivicPlus®
-Service Interruption Notice
-Some services offered on our website are currently unavailable due to security updates being made.
-The ability to request a Vote-by-Mail Ballot is NOT one of the services affected and voters can request their ballot at
-CollierVotes.gov/RequestBallot
-.
-Services affected include: Provisional Ballot Status, Office Holders, Campaign Finance, and Registration Totals.
-Our office will post updates as we learn more about the status of these interrupted services. If you have any questions, please contact our office at 239-252-8683.
+Loading
+Loading
 Do Not Show Again
 Close
 Select Language
