@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-22T11:27:15Z",
-  "html_sha256": "41957ffcb90abdea8a4cda2ac6a5f76d84ce08121371dccab7159e1564eb66b9",
+  "fetched_at": "2026-10-22T13:17:03Z",
+  "html_sha256": "0c4fb1332295b1a3cafe867137fdfdb8412c97b52650b26e537546c29565f185",
   "text_sha256": "c58ece2ce7b5fe51749195f5d831f4e84e99ea8fe5503036dc9632739a8b7e14",
-  "byte_size": 65247,
+  "byte_size": 65249,
   "title": "Find Precinct & Polling Place | Pinellas County Election, FL",
   "noncitizen_voting": {
     "present": false,

@@ -1,6 +1,5 @@
 Polling Location – Calhoun County – Supervisor of Elections
 Skip to content
-Next Election: 2026 Primary Election – August 18th
 An official government site.
 Search
 Languages
@@ -253,7 +252,6 @@ Yoruba
 Yucatec Maya
 Zapotec
 Zulu
-Next Election: 2026 Primary Election – August 18th
 Search
 Languages
 English
@@ -845,58 +843,41 @@ Contact Us
 Calhoun County has 10 precincts and 7 polling places. To view a photograph of each polling place, click the link shown for each polling place below. To locate the precinct that you are assigned to, including a photograph and driving directions, plus information about your voter registration record,
 click here
 and follow the on-screen instructions.
-Precinct
-Location
-101, 101C
-202
-501 & 501C
+PRECINCTS & POLLING LOCATIONS
 W.T. Neal Civic Center
-17773 NE Pear Street
-Blountstown, FL 32424
-102
-Westside Volunteer Fire
-18212 SR 20 W.
-Blountstown, FL 32424
-201 & 201C
-Altha Old Gym
-25793 N. Main Street
-Altha, FL 32421
-301
-Shelton Park Library
-25008 NW SR 73
-Altha, FL 32421
-302 & 502
-Carr-Clarksville Volunteer Fire Dept.
-19024 NW SR 73
-Clarksville, FL 32430
-401 & 401C
-Scout House
-20692 SE Azalea Dr.
-Blountstown, FL 32424
-503
-Kinard Public Library
-5416 SW SR 73
-Kinard, FL 32449
-Photos of Precincts
-W.T. Neal Civic Center
+------
+101, 101C, 202,
+501, 501C
 17773 NE Pear Street
 Blountstown, FL 32424
 Altha Old Gymnasium
+------
+201, 201C
 25793 N. Main St.
 Altha, FL 32421
-Shelton Park Library
+Shelton Park
+------
+301
 25008 NW SR 73
 Altha, FL 32421
 Carr-Clarksville VFD
+------
+302, 502
 19024 NW SR 73
 Clarksville, FL 32430
 Westside VFD
+------
+102
 18212 SR 20 W.
 Blountstown, FL 32424
 Kinard Public Library
+------
+503
 5416 SW SR 73
 Kinard, FL 32449
 Scout House
+------
+401, 401C
 20692 SE Azalea Dr.
 Blountstown, FL 32424
 Special Note
