@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-22T16:46:58Z",
-  "html_sha256": "1e79325b925a4ade4fcb849fe273a3a37d820656a2ddaf5774893069d0e6f313",
+  "fetched_at": "2026-10-22T21:26:44Z",
+  "html_sha256": "8d4599851a2661b9b8baaa801ed35a7e60c3deb94e167edc218f15fd2edca1d8",
   "text_sha256": "ae1d2bc4c3eaf7d3893f521f66c66419319b9dbcd3f71c4d910784ed0103d378",
-  "byte_size": 111198,
+  "byte_size": 111199,
   "title": "How to Register to Vote | Orange County Florida | OCSOE",
   "noncitizen_voting": {
     "present": false,

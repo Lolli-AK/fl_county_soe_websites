@@ -14,10 +14,15 @@ Info
 Search
 [rotating image slideshow removed for determinism]
 Voter Statistics
+135,008
 Democrats
+194,422
 Republicans
+112,862
 No Party Affiliation
+19,330
 Other
+461,622
 Total
 2026 Primary Election Results
 Image does not exist

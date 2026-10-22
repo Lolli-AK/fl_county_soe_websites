@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-22T16:46:58Z",
-  "html_sha256": "40f07cecb3d87526f1589f338d5726b85b856a70a503b193f9ca331c5e9e6eec",
-  "text_sha256": "ffee4d4e09b000fb0239b0608ad7c0123fde7ba75eeda6c4cff14768bcfb37ac",
+  "fetched_at": "2026-10-22T21:26:44Z",
+  "html_sha256": "b5454fdc8c812af33ffda59e251caeee2f7c1c10eb2c3dd3016a6b0410d9c81f",
+  "text_sha256": "cc8116c800168bcf31023d0f7ddbd7dc0fa2e1ada1a3f5cf44b27bc97935cafb",
   "byte_size": 68289,
   "title": "Military and Overseas Voters | Lee County Elections, FL",
   "noncitizen_voting": {

@@ -14,13 +14,13 @@ Search
 Active Registered Voters:
 10/22/26
 Democrats:
-29,898
+29,899
 Republicans:
-85,919
+85,970
 Other:
-40,470
+40,486
 Total:
-156,287
+156,355
 Register to Vote
 Vote-By-Mail
 Where Do I Vote?
@@ -33,8 +33,6 @@ Election Calendar
 2026 General Election Dates
 Mon, Oct. 19 - Sat, Oct. 31
 Early Voting
-Thu, Oct. 22
-Last Day to Request Vote-By-Mail
 Tue, Nov. 3
 Election Day
 View All Events
