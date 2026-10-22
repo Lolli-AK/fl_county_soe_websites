@@ -175,11 +175,6 @@ S
 30
 31
 All Events
-Thu,
-Oct
-22,
-2026
-Last day to request a Vote by Mail Ballot
 Fri,
 Oct
 23,
@@ -193,6 +188,11 @@ Early Voting for the General Election
 Sun,
 Oct
 25,
+2026
+Early Voting for the General Election
+Mon,
+Oct
+26,
 2026
 Early Voting for the General Election
 View All Events
@@ -293,9 +293,3 @@ DISCLAIMER
 ADA DISCLAIMER
 © 2026 Clay County Supervisor of Elections. All Rights Reserved
 Notifications
-Announcement
-Our website vendor is currently installing security patches.
-Services will resume shortly.
-For any election related services please call our offices at
-(904) 269-6350
-Continue to Website

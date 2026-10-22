@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-22T13:17:03Z",
-  "html_sha256": "d83a2caf91d9fe3c01c7727da1aaaa0070f10977e4d05f81c293e99c00a92442",
+  "fetched_at": "2026-10-22T16:46:58Z",
+  "html_sha256": "db480a91cd690282a8f3ab4a344a9f60c8a90ad203dd024d423093e7d0ce2f10",
   "text_sha256": "7425485ca43db2ab21c5311d3d8ee46d5a22172f7c473b4cfe5e74ccd400b692",
-  "byte_size": 40190,
+  "byte_size": 40241,
   "title": "Register to Vote | Volusia County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

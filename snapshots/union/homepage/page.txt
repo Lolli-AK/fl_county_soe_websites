@@ -166,11 +166,11 @@ Early Voting
 (opens in a new tab)
 Voting Locations
 (opens in a new tab)
-Active Registered Voters (10/21/2026)
+Active Registered Voters (10/22/2026)
 Democrats
-1,483
+1,482
 Republicans
-5,003
+5,004
 Other
 828
 Total
@@ -196,6 +196,10 @@ Early voting for the General Election.
 All Upcoming Dates
 Election News
 All News & Announcements
+Oct. 22, 2026
+Temporary Website Service Unavailability
+Some website services are currently unavailable. We are working to restore these services as soon…
+Read Full Announcement
 Jul. 28, 2025
 Expired Vote-by-Mail Requests
 Due to recent legislation, all previous Vote-by-Mail requests expired on Dec 31st, 2023. Any voter…
