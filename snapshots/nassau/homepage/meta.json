@@ -2,29 +2,30 @@
   "county": "Nassau",
   "page_type": "homepage",
   "requested_url": "https://www.votenassaufl.gov",
-  "final_url": "https://www.votenassaufl.gov/",
+  "final_url": "https://www.votenassaufl.gov",
   "redirect_chain": [
-    "https://www.votenassaufl.gov",
-    "https://www.votenassaufl.gov/"
+    "https://www.votenassaufl.gov"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-23T03:56:09Z",
-  "html_sha256": "a146b463cf8376e58aeeb84e6ab324b9f2c9430a293c3249b398acd5a3b665c8",
-  "text_sha256": "1656b0fce17419931655f7414e8699064f7059675935986c0cf6b6613f9ebf70",
-  "byte_size": 188,
-  "title": "403 Forbidden",
+  "fetched_at": "2026-10-23T11:20:42Z",
+  "html_sha256": "9ab5416b59117168de7194c5f7410775c94d8c5672ef4927783573285e79b013",
+  "text_sha256": "c8987e5d19b4d308611816c815a8ca4e4f2c89b2dc7a07534ca2e1a138cfc851",
+  "byte_size": 152069,
+  "title": "Vote in Nassau County - Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
   "error": null
 }

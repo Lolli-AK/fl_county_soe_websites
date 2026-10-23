@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.votenassaufl.gov/early-voting"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-23T03:56:09Z",
-  "html_sha256": "a146b463cf8376e58aeeb84e6ab324b9f2c9430a293c3249b398acd5a3b665c8",
-  "text_sha256": "1656b0fce17419931655f7414e8699064f7059675935986c0cf6b6613f9ebf70",
-  "byte_size": 188,
-  "title": "403 Forbidden",
+  "fetched_at": "2026-10-23T11:20:42Z",
+  "html_sha256": "ba3eeddfa4912d9ff541ff2d51cc33fe4616ac9133c6d639c3670add2b97cfcc",
+  "text_sha256": "b4f11a09f5277fd6b07dbac7f2010e868cdb52aeed47853e7efb897c8b9a9af3",
+  "byte_size": 79921,
+  "title": "Early Voting Info | Nassau County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }
