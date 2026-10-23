@@ -264,7 +264,7 @@ Signature Update
 Address Change
 Party Change
 Name Change
-Registration Status
+Registration & Vote-by-Mail Status
 Request to be Removed
 Military & Overseas Voters
 Public Records Exemption Request

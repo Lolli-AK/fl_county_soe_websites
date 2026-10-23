@@ -31,13 +31,13 @@ Uniformed and Overseas Citizens Absentee Voting Act
 Registering & Requesting Vote by Mail (Absentee) Ballots
 The
 Federal Post Card Application (PDF)
-is the form that permits uniformed and overseas citizens to simultaneously register and request Vote By Mail ballots in the state or territory where they last resided immediately prior to departing the United States, even if they no longer maintain a residence in that state. If you reside outside the U.S., or you are an absent uniformed services voter, your ballot will be mailed at least 45 days before an election.
+is the form that permits uniformed and overseas citizens to simultaneously register and request Vote By Mail ballots in the state or territory where they last resided immediately prior to departing the United States, even if they no longer maintain a residence in that state. If you reside outside the U.S., or you are an absent uniformed services voter, your ballot will be mailed at least 45 days before an election.
 To register and request an absentee ballot in the State of Florida:
 Send a completed FPCA to the Supervisor of Elections office so that it arrives no later than 29 days before the election.
 If you maintain a Florida residence, you will receive a ballot containing all local, state, and Federal races for which you are eligible to vote.
 If you are or were a registered voter and no longer maintain a Florida residence but you intend to return, you will receive a ballot with all state and Federal races.
 If you were never registered in Florida and no longer maintain a Florida residence but this is the last place you lived, you will receive a ballot for Federal races only.
-If you are already registered in Hillsborough County and you wish to request absentee ballots, send the completed FPCA to the Supervisor of Elections office so that it arrives not later than the Friday before the election. Alternatively, you can use any of our
+If you are already registered in Hillsborough County and you wish to request absentee ballots, send the completed FPCA to the Supervisor of Elections office or use any of our
 regular methods for requesting Vote By Mail
 .
 An FPCA application for an absentee ballot is effective for all elections through the next regularly scheduled general election.
@@ -56,7 +56,7 @@ One of the following:
 A return fax number, if the ballot is to be faxed
 An APO / FPO or other deliverable overseas address, if the ballot is to be mailed
 An email address if the ballot is to be emailed
-Your signature (faxed request only)
+Your signature (faxed request only)
 If you want your ballot to be faxed, your request is valid only for the upcoming election or the one election you specify.
 State Write-in Ballot
 Overseas voters who cannot be reached to deliver an absentee ballot in time for the General Election may request a state write-in ballot not earlier than 180 days before an election. Your request must state that due to military or other contingencies that preclude normal mail delivery, you cannot vote an absentee ballot during the normal absentee period. State write-in ballots will be mailed between 90 and 180 days prior to the General Election.

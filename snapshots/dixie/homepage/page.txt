@@ -252,7 +252,7 @@ Yucatec Maya
 Zapotec
 Zulu
 Active Registered Voters
-As of 10/16/2026
+As of 10/23/2026
 Democrats
 0
 Republicans
@@ -535,12 +535,12 @@ See sample ballots for the
 2026 November General Election
 Sample Ballots
 Dates to Remember
-1st Day of Early Voting
-10/22/2026
 Last Day to Pick up Mail in Ballot
 10/24/2026
 Last Day of Early Voting
 10/31/2026
+General Election Day
+11/03/2026
 View Full Calendar
 Notice Of Potential Ineligible Voters
 With the recent passing of Senate Bill 7050, notices of potential ineligibility will now be posted on the Supervisor website.

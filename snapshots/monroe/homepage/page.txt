@@ -264,7 +264,7 @@ Signature Update
 Address Change
 Party Change
 Name Change
-Registration Status
+Registration & Vote-by-Mail Status
 Request to be Removed
 Military & Overseas Voters
 Public Records Exemption Request
@@ -347,8 +347,6 @@ Total
 Last updated 2026-10-23
 Monroe County Supervisor of Elections
 The Official Website of Monroe Co FL Supervisor of Elections
-Important Information about Website - some features are temporarily down
-We are currently working with our vendor to patch several tools on our website, including the Voter Information Lookup and Precinct Voter. We expect service to be restored later this morning. If you cannot find or access something you are looking for on our website, please call us directly at (305) 292-3416.
 The General Election is approaching quickly
 ... but you don't have to wait! Make sure you vote in the upcoming General Election.
 Vote-by-Mail
