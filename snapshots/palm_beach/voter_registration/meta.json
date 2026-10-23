@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T11:20:42Z",
-  "html_sha256": "ec09d30527196e4c2af0481dd24b016ad7354e8c333fc7d4883fe5ab7e900f10",
+  "fetched_at": "2026-10-23T13:00:11Z",
+  "html_sha256": "2afc2b667ccb017bc4c94a1cc3ae4379edec66d0826879b4c8c16875f0026aaf",
   "text_sha256": "c58c02370b3b262c4f718ef8deb0a9dfb2a9c5d9ddac39ba21d463ed9481c95e",
-  "byte_size": 69374,
+  "byte_size": 69372,
   "title": "Voter Registration | Palm Beach County Elections, FL",
   "noncitizen_voting": {
     "present": false,
