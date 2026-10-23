@@ -163,15 +163,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(10/22/2026)
+(10/23/2026)
 Democrats
-24,137
+24,169
 Republicans
-75,579
+75,647
 Other
-29,255
+29,289
 Total
-128,971
+129,105
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -194,12 +194,9 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 1 day ago
-📪📪📪 Today October 22nd is the last day to request a Mail Ballot!
-⭐️Request Online at:
-https://www.bayvotesfl.gov/voters/vote-by-mail/
-⭐️Call 850-784-6100 OR
-⭐️Stop by the Supervisor of Elections Office
+posted 2 hours ago
+Don't miss the opportunity to receive your commemorative America 250 "I Voted" sticker while supplies last.
+Let's celebrate!! 🎉🎉 Get out and vote!!
 View Facebook Post
 (opens in a new tab)
 Public Notices

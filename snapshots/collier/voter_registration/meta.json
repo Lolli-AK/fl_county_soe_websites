@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T13:00:11Z",
-  "html_sha256": "9d75811255a1904cef75550f1099696429f18aa1609c78f3010cee41a9a90403",
+  "fetched_at": "2026-10-23T16:37:56Z",
+  "html_sha256": "55f198e46456952e22d32c6c898a32413d2297fb5d3c35a426eb2296922f0063",
   "text_sha256": "d1b326e6a1267bdbea729a4030e959230b79f14593eba5b0c703b333df011d69",
-  "byte_size": 72703,
+  "byte_size": 72417,
   "title": "Register to Vote / Update Voter Registration | Collier County Elections, FL",
   "noncitizen_voting": {
     "present": false,

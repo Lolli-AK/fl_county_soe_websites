@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-23T13:00:11Z",
-  "html_sha256": "3635d97d412e4b74d3a65444951aa6c75534b9d6b4b6235af53df3f2ccd6b59a",
+  "fetched_at": "2026-10-23T16:37:56Z",
+  "html_sha256": "27dba9c27a7e8d01db807e13a42539560a00276e473cb0f81bcba53cd709fb19",
   "text_sha256": "05bfdf4e8771d7f9540aa43c5410145b7f85d64af9b5c818bca34dcfed65359d",
-  "byte_size": 64614,
+  "byte_size": 64620,
   "title": "Election Dates – Glades, FL",
   "noncitizen_voting": {
     "present": false,

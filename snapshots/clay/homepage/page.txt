@@ -175,11 +175,6 @@ S
 30
 31
 All Events
-Fri,
-Oct
-23,
-2026
-Early Voting for the General Election
 Sat,
 Oct
 24,
@@ -195,6 +190,11 @@ Oct
 26,
 2026
 Early Voting for the General Election
+Tue,
+Oct
+27,
+2026
+Early Voting for the General Election
 View All Events
 Clay County Voter Totals
 October 23, 2026
@@ -207,7 +207,7 @@ NPA:
 Others:
 6,541
 Total:
-Error
+156,552
 Subscribe to Alerts
 Email (required)
 *
