@@ -11,9 +11,9 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-22T21:26:44Z",
-  "html_sha256": "76eb6d6b8d29050fbf910f7f9aa5977671c08dafdb117d4db9d051e3bf56a7dc",
-  "text_sha256": "68ab8c340b7fe93d3ef252202f7313e89c4c71d9c747d9ffc7d2a015cceb0aae",
+  "fetched_at": "2026-10-23T03:56:09Z",
+  "html_sha256": "953e5edd32bcd71ae4803fa8f3e303efeb7bc32627cc2ffd9d6e78b521d64443",
+  "text_sha256": "c3bce49f51f1ff02b211b582204cdc94673684e5c4f589b0016da96ba963fe44",
   "byte_size": 55058,
   "title": "Charlotte County Elections, FL | Official Website",
   "noncitizen_voting": {

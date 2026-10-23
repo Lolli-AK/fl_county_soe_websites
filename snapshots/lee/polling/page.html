@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-muli-n3-active wf-muli-n4-active wf-muli-i4-active wf-muli-n7-active" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -16,11 +16,21 @@
 
 " name="description"/>
  </head>
- <body class="wide doneLoading ae-precincts-and-polling-places-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
+ <body class="wide cpTextResizeOn doneLoading ae-precincts-and-polling-places-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
   <div aria-live="polite" class="ae-blurb-noaudio" data-nosnippet="" id="ae_enabled_site" role="status">
    <div>
     <p data-modulename="launcher">
      This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+    </p>
+   </div>
+  </div>
+  <div id="divAjaxProgress">
+   <div id="divAjaxShade">
+   </div>
+   <div class="loading" id="divAjaxImgProgress">
+    <img alt="" src="/Common/images/ajax-loader.gif" title="Loading"/>
+    <p>
+     Loading
     </p>
    </div>
   </div>
@@ -838,7 +848,7 @@
                        </div>
                        Powered by
                        <span>
-                        <a aria-describedby="audioeye_new_window_message" class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" rel="noopener" target="_blank">
                          <img alt="Google Translate" height="14px" src="https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png" width="37px"/>
                          Translate
                         </a>
@@ -890,11 +900,8 @@
         </header>
         <div class="hidden" id="bannerImagesJSON2">
         </div>
-        <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
-         <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
-         </a>
-         <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
-         </a>
+        <div class="bannerObject external fixedBanner" data-image-scale="true" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" data-is-delayed="false" src="/ImageRepository/Document?documentID=89" width="1280px"/>
         </div>
        </div>
       </div>
@@ -915,7 +922,7 @@
                     <p class="data">
                      Active Registered Voters:
                      <span class="dateValue dataValue">
-                      10/22/26
+                      10/23/26
                      </span>
                     </p>
                    </div>
@@ -1282,7 +1289,7 @@
                        <p data-pasted="true">
                         <span>
                          If you need to update your address and find your new Polling Place, visit
-                         <a aria-describedby="audioeye_new_window_message" href="/284" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Update my Voter Registration Information Opens in new window" href="/284" rel="noopener" target="_blank">
                           Update my Voter Registration Information
                          </a>
                          .
@@ -1291,7 +1298,7 @@
                        <p>
                         <span>
                          View a map of
-                         <a aria-describedby="audioeye_new_window_message" href="http://google.com/maps/d/viewer?mid=1FjtBs8SVp4PQjLmY09QUr9z-Pks" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="all Lee County Precincts and Polling Places Opens in new window" href="http://google.com/maps/d/viewer?mid=1FjtBs8SVp4PQjLmY09QUr9z-Pks" rel="noopener" target="_blank">
                           all Lee County Precincts and Polling Places
                          </a>
                          .
@@ -1328,23 +1335,23 @@
                         </span>
                         <br/>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Gulf+Coast+Village/@26.6278416,-81.9720794,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db46dce70f7d8b:0x9c533e820c3bf6da!8m2!3d26.6278416!4d-81.9720794!16s%2Fg%2F11bcf47fq4?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Gulf Coast Village Opens in new window" href="https://www.google.com/maps/place/Gulf+Coast+Village/@26.6278416,-81.9720794,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db46dce70f7d8b:0x9c533e820c3bf6da!8m2!3d26.6278416!4d-81.9720794!16s%2Fg%2F11bcf47fq4?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           Gulf Coast Village
                          </a>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Gulf+Coast+Village/@26.6278416,-81.9720794,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db46dce70f7d8b:0x9c533e820c3bf6da!8m2!3d26.6278416!4d-81.9720794!16s%2Fg%2F11bcf47fq4?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Gulf+Coast+Village/@26.6278416,-81.9720794,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db46dce70f7d8b:0x9c533e820c3bf6da!8m2!3d26.6278416!4d-81.9720794!16s%2Fg%2F11bcf47fq4?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Gulf+Coast+Village/@26.6278416,-81.9720794,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db46dce70f7d8b:0x9c533e820c3bf6da!8m2!3d26.6278416!4d-81.9720794!16s%2Fg%2F11bcf47fq4?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="1333 Santa Barbara Blvd Opens in new window" href="https://www.google.com/maps/place/Gulf+Coast+Village/@26.6278416,-81.9720794,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db46dce70f7d8b:0x9c533e820c3bf6da!8m2!3d26.6278416!4d-81.9720794!16s%2Fg%2F11bcf47fq4?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           1333 Santa Barbara Blvd
                          </a>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Gulf+Coast+Village/@26.6278416,-81.9720794,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db46dce70f7d8b:0x9c533e820c3bf6da!8m2!3d26.6278416!4d-81.9720794!16s%2Fg%2F11bcf47fq4?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Gulf+Coast+Village/@26.6278416,-81.9720794,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db46dce70f7d8b:0x9c533e820c3bf6da!8m2!3d26.6278416!4d-81.9720794!16s%2Fg%2F11bcf47fq4?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Gulf+Coast+Village/@26.6278416,-81.9720794,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db46dce70f7d8b:0x9c533e820c3bf6da!8m2!3d26.6278416!4d-81.9720794!16s%2Fg%2F11bcf47fq4?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Cape Coral, FL 33991 Opens in new window" href="https://www.google.com/maps/place/Gulf+Coast+Village/@26.6278416,-81.9720794,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db46dce70f7d8b:0x9c533e820c3bf6da!8m2!3d26.6278416!4d-81.9720794!16s%2Fg%2F11bcf47fq4?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           Cape Coral, FL 33991
                          </a>
                         </span>
@@ -1359,22 +1366,22 @@
                          <br/>
                         </span>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Louise+du+Pont+Crowninshield+Community+House/@26.7470136,-82.2628454,17.75z/data=!4m10!1m2!2m1!1sCrowninshield+Community+House!3m6!1s0x88c4b3fabeaebe89:0xb6fe43634649896!8m2!3d26.7474769!4d-82.2613043!15sCh1Dcm93bmluc2hpZWxkIENvbW11bml0eSBIb3VzZVofIh1jcm93bmluc2hpZWxkIGNvbW11bml0eSBob3VzZZIBE2hpc3RvcmljYWxfbGFuZG1hcmuaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTnNiSFZxYkVoQkVBReABAPoBBAgAECQ!16s%2Fg%2F11vhr_4120?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Crowninshield Community House240 Banyan St Opens in new window" href="https://www.google.com/maps/place/Louise+du+Pont+Crowninshield+Community+House/@26.7470136,-82.2628454,17.75z/data=!4m10!1m2!2m1!1sCrowninshield+Community+House!3m6!1s0x88c4b3fabeaebe89:0xb6fe43634649896!8m2!3d26.7474769!4d-82.2613043!15sCh1Dcm93bmluc2hpZWxkIENvbW11bml0eSBIb3VzZVofIh1jcm93bmluc2hpZWxkIGNvbW11bml0eSBob3VzZZIBE2hpc3RvcmljYWxfbGFuZG1hcmuaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTnNiSFZxYkVoQkVBReABAPoBBAgAECQ!16s%2Fg%2F11vhr_4120?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           Crowninshield Community House
                           <br/>
                           240 Banyan St
                          </a>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Louise+du+Pont+Crowninshield+Community+House/@26.7470136,-82.2628454,17.75z/data=!4m10!1m2!2m1!1sCrowninshield+Community+House!3m6!1s0x88c4b3fabeaebe89:0xb6fe43634649896!8m2!3d26.7474769!4d-82.2613043!15sCh1Dcm93bmluc2hpZWxkIENvbW11bml0eSBIb3VzZVofIh1jcm93bmluc2hpZWxkIGNvbW11bml0eSBob3VzZZIBE2hpc3RvcmljYWxfbGFuZG1hcmuaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTnNiSFZxYkVoQkVBReABAPoBBAgAECQ!16s%2Fg%2F11vhr_4120?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Louise+du+Pont+Crowninshield+Community+House/@26.7470136,-82.2628454,17.75z/data=!4m10!1m2!2m1!1sCrowninshield+Community+House!3m6!1s0x88c4b3fabeaebe89:0xb6fe43634649896!8m2!3d26.7474769!4d-82.2613043!15sCh1Dcm93bmluc2hpZWxkIENvbW11bml0eSBIb3VzZVofIh1jcm93bmluc2hpZWxkIGNvbW11bml0eSBob3VzZZIBE2hpc3RvcmljYWxfbGFuZG1hcmuaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTnNiSFZxYkVoQkVBReABAPoBBAgAECQ!16s%2Fg%2F11vhr_4120?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Louise+du+Pont+Crowninshield+Community+House/@26.7470136,-82.2628454,17.75z/data=!4m10!1m2!2m1!1sCrowninshield+Community+House!3m6!1s0x88c4b3fabeaebe89:0xb6fe43634649896!8m2!3d26.7474769!4d-82.2613043!15sCh1Dcm93bmluc2hpZWxkIENvbW11bml0eSBIb3VzZVofIh1jcm93bmluc2hpZWxkIGNvbW11bml0eSBob3VzZZIBE2hpc3RvcmljYWxfbGFuZG1hcmuaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTnNiSFZxYkVoQkVBReABAPoBBAgAECQ!16s%2Fg%2F11vhr_4120?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Boca Grande, FL 33921 Opens in new window" href="https://www.google.com/maps/place/Louise+du+Pont+Crowninshield+Community+House/@26.7470136,-82.2628454,17.75z/data=!4m10!1m2!2m1!1sCrowninshield+Community+House!3m6!1s0x88c4b3fabeaebe89:0xb6fe43634649896!8m2!3d26.7474769!4d-82.2613043!15sCh1Dcm93bmluc2hpZWxkIENvbW11bml0eSBIb3VzZVofIh1jcm93bmluc2hpZWxkIGNvbW11bml0eSBob3VzZZIBE2hpc3RvcmljYWxfbGFuZG1hcmuaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTnNiSFZxYkVoQkVBReABAPoBBAgAECQ!16s%2Fg%2F11vhr_4120?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           Boca Grande, FL 33921
                          </a>
                         </span>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Gulf+Coast+Village/@26.6278416,-81.9720794,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db46dce70f7d8b:0x9c533e820c3bf6da!8m2!3d26.6278416!4d-81.9720794!16s%2Fg%2F11bcf47fq4?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Gulf+Coast+Village/@26.6278416,-81.9720794,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db46dce70f7d8b:0x9c533e820c3bf6da!8m2!3d26.6278416!4d-81.9720794!16s%2Fg%2F11bcf47fq4?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           <br/>
                          </a>
                         </span>
@@ -1390,27 +1397,27 @@
                         <br/>
                         <span>
                          <span data-pasted="true">
-                          <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Lee+County+Election+Center/@26.5503153,-81.8764951,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3fe455eab1e3:0xa12f5da562b7c1f7!8m2!3d26.5503105!4d-81.8739202!16s%2Fg%2F11clsfs6pr?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" aria-label="Lee County Elections Center Opens in new window" href="https://www.google.com/maps/place/Lee+County+Election+Center/@26.5503153,-81.8764951,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3fe455eab1e3:0xa12f5da562b7c1f7!8m2!3d26.5503105!4d-81.8739202!16s%2Fg%2F11clsfs6pr?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                            Lee County Elections Center
                           </a>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Lee+County+Election+Center/@26.5503153,-81.8764951,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3fe455eab1e3:0xa12f5da562b7c1f7!8m2!3d26.5503105!4d-81.8739202!16s%2Fg%2F11clsfs6pr?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Lee+County+Election+Center/@26.5503153,-81.8764951,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3fe455eab1e3:0xa12f5da562b7c1f7!8m2!3d26.5503105!4d-81.8739202!16s%2Fg%2F11clsfs6pr?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
                          <span data-pasted="true">
-                          <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Lee+County+Election+Center/@26.5503153,-81.8764951,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3fe455eab1e3:0xa12f5da562b7c1f7!8m2!3d26.5503105!4d-81.8739202!16s%2Fg%2F11clsfs6pr?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" aria-label="13180 S Cleveland Ave Opens in new window" href="https://www.google.com/maps/place/Lee+County+Election+Center/@26.5503153,-81.8764951,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3fe455eab1e3:0xa12f5da562b7c1f7!8m2!3d26.5503105!4d-81.8739202!16s%2Fg%2F11clsfs6pr?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                            13180 S Cleveland Ave
                           </a>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Lee+County+Election+Center/@26.5503153,-81.8764951,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3fe455eab1e3:0xa12f5da562b7c1f7!8m2!3d26.5503105!4d-81.8739202!16s%2Fg%2F11clsfs6pr?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Lee+County+Election+Center/@26.5503153,-81.8764951,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3fe455eab1e3:0xa12f5da562b7c1f7!8m2!3d26.5503105!4d-81.8739202!16s%2Fg%2F11clsfs6pr?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
                          <span data-pasted="true">
-                          <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Lee+County+Election+Center/@26.5503153,-81.8764951,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3fe455eab1e3:0xa12f5da562b7c1f7!8m2!3d26.5503105!4d-81.8739202!16s%2Fg%2F11clsfs6pr?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" aria-label="Fort Myers, FL 33907 Opens in new window" href="https://www.google.com/maps/place/Lee+County+Election+Center/@26.5503153,-81.8764951,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3fe455eab1e3:0xa12f5da562b7c1f7!8m2!3d26.5503105!4d-81.8739202!16s%2Fg%2F11clsfs6pr?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                            Fort Myers, FL 33907
                           </a>
                          </span>
@@ -1430,31 +1437,31 @@
                         <span>
                          <span data-pasted="true">
                           <span data-pasted="true">
-                           <a href="https://www.google.com/maps/place/New+Apostolic+Church/@26.5923375,-81.839609,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db6aeed9fe5bbb:0xf1d02a39b0e9f422!8m2!3d26.5923327!4d-81.8370341!16s%2Fg%2F1th87ycf?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                           <a aria-label="New Apostolic Church Opens in new window" href="https://www.google.com/maps/place/New+Apostolic+Church/@26.5923375,-81.839609,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db6aeed9fe5bbb:0xf1d02a39b0e9f422!8m2!3d26.5923327!4d-81.8370341!16s%2Fg%2F1th87ycf?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                             New Apostolic Church
                            </a>
                           </span>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/New+Apostolic+Church/@26.5923375,-81.839609,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db6aeed9fe5bbb:0xf1d02a39b0e9f422!8m2!3d26.5923327!4d-81.8370341!16s%2Fg%2F1th87ycf?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/New+Apostolic+Church/@26.5923375,-81.839609,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db6aeed9fe5bbb:0xf1d02a39b0e9f422!8m2!3d26.5923327!4d-81.8370341!16s%2Fg%2F1th87ycf?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
                          <span data-pasted="true">
                           <span data-pasted="true">
-                           <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/New+Apostolic+Church/@26.5923375,-81.839609,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db6aeed9fe5bbb:0xf1d02a39b0e9f422!8m2!3d26.5923327!4d-81.8370341!16s%2Fg%2F1th87ycf?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                           <a aria-describedby="audioeye_new_window_message" aria-label="10331 Deer Run Farms Rd Opens in new window" href="https://www.google.com/maps/place/New+Apostolic+Church/@26.5923375,-81.839609,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db6aeed9fe5bbb:0xf1d02a39b0e9f422!8m2!3d26.5923327!4d-81.8370341!16s%2Fg%2F1th87ycf?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                             10331 Deer Run Farms Rd
                            </a>
                           </span>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/New+Apostolic+Church/@26.5923375,-81.839609,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db6aeed9fe5bbb:0xf1d02a39b0e9f422!8m2!3d26.5923327!4d-81.8370341!16s%2Fg%2F1th87ycf?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/New+Apostolic+Church/@26.5923375,-81.839609,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db6aeed9fe5bbb:0xf1d02a39b0e9f422!8m2!3d26.5923327!4d-81.8370341!16s%2Fg%2F1th87ycf?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
                          <span data-pasted="true">
                           <span data-pasted="true">
-                           <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/New+Apostolic+Church/@26.5923375,-81.839609,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db6aeed9fe5bbb:0xf1d02a39b0e9f422!8m2!3d26.5923327!4d-81.8370341!16s%2Fg%2F1th87ycf?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                           <a aria-describedby="audioeye_new_window_message" aria-label="Fort Myers, FL 33966 Opens in new window" href="https://www.google.com/maps/place/New+Apostolic+Church/@26.5923375,-81.839609,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db6aeed9fe5bbb:0xf1d02a39b0e9f422!8m2!3d26.5923327!4d-81.8370341!16s%2Fg%2F1th87ycf?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                             Fort Myers, FL 33966
                            </a>
                           </span>
@@ -1478,35 +1485,35 @@
                          <span data-pasted="true">
                           <span data-pasted="true">
                            <span data-pasted="true">
-                            <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Annunciation+Greek+Orthodox+Church/@26.5465807,-81.8932391,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f94893db5ef:0x758b07629ebb0c3a!8m2!3d26.5465759!4d-81.8906642!16s%2Fg%2F1thfg7mb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                            <a aria-describedby="audioeye_new_window_message" aria-label="Annunciation Greek Orthodox Church Opens in new window" href="https://www.google.com/maps/place/Annunciation+Greek+Orthodox+Church/@26.5465807,-81.8932391,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f94893db5ef:0x758b07629ebb0c3a!8m2!3d26.5465759!4d-81.8906642!16s%2Fg%2F1thfg7mb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                              Annunciation Greek Orthodox Church
                             </a>
                            </span>
                           </span>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Annunciation+Greek+Orthodox+Church/@26.5465807,-81.8932391,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f94893db5ef:0x758b07629ebb0c3a!8m2!3d26.5465759!4d-81.8906642!16s%2Fg%2F1thfg7mb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Annunciation+Greek+Orthodox+Church/@26.5465807,-81.8932391,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f94893db5ef:0x758b07629ebb0c3a!8m2!3d26.5465759!4d-81.8906642!16s%2Fg%2F1thfg7mb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
                          <span data-pasted="true">
                           <span data-pasted="true">
                            <span data-pasted="true">
-                            <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Annunciation+Greek+Orthodox+Church/@26.5465807,-81.8932391,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f94893db5ef:0x758b07629ebb0c3a!8m2!3d26.5465759!4d-81.8906642!16s%2Fg%2F1thfg7mb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                            <a aria-describedby="audioeye_new_window_message" aria-label="8210 Cypress Lake Dr Opens in new window" href="https://www.google.com/maps/place/Annunciation+Greek+Orthodox+Church/@26.5465807,-81.8932391,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f94893db5ef:0x758b07629ebb0c3a!8m2!3d26.5465759!4d-81.8906642!16s%2Fg%2F1thfg7mb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                              8210 Cypress Lake Dr
                             </a>
                            </span>
                           </span>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Annunciation+Greek+Orthodox+Church/@26.5465807,-81.8932391,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f94893db5ef:0x758b07629ebb0c3a!8m2!3d26.5465759!4d-81.8906642!16s%2Fg%2F1thfg7mb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Annunciation+Greek+Orthodox+Church/@26.5465807,-81.8932391,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f94893db5ef:0x758b07629ebb0c3a!8m2!3d26.5465759!4d-81.8906642!16s%2Fg%2F1thfg7mb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
                          <span data-pasted="true">
                           <span data-pasted="true">
                            <span data-pasted="true">
-                            <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Annunciation+Greek+Orthodox+Church/@26.5465807,-81.8932391,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f94893db5ef:0x758b07629ebb0c3a!8m2!3d26.5465759!4d-81.8906642!16s%2Fg%2F1thfg7mb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                            <a aria-describedby="audioeye_new_window_message" aria-label="Fort Myers, FL 33919 Opens in new window" href="https://www.google.com/maps/place/Annunciation+Greek+Orthodox+Church/@26.5465807,-81.8932391,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f94893db5ef:0x758b07629ebb0c3a!8m2!3d26.5465759!4d-81.8906642!16s%2Fg%2F1thfg7mb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                              Fort Myers, FL 33919
                             </a>
                            </span>
@@ -1534,7 +1541,7 @@
                           <span data-pasted="true">
                            <span data-pasted="true">
                             <span data-pasted="true">
-                             <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Lakes+Regional+Library/@26.5221484,-81.9150358,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f004c226a1f:0x38232751cd8604fd!8m2!3d26.5221436!4d-81.9124609!16s%2Fm%2F0q2l6bb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                             <a aria-describedby="audioeye_new_window_message" aria-label="Lakes Regional Library Opens in new window" href="https://www.google.com/maps/place/Lakes+Regional+Library/@26.5221484,-81.9150358,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f004c226a1f:0x38232751cd8604fd!8m2!3d26.5221436!4d-81.9124609!16s%2Fm%2F0q2l6bb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                               Lakes Regional Library
                              </a>
                             </span>
@@ -1542,7 +1549,7 @@
                           </span>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Lakes+Regional+Library/@26.5221484,-81.9150358,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f004c226a1f:0x38232751cd8604fd!8m2!3d26.5221436!4d-81.9124609!16s%2Fm%2F0q2l6bb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Lakes+Regional+Library/@26.5221484,-81.9150358,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f004c226a1f:0x38232751cd8604fd!8m2!3d26.5221436!4d-81.9124609!16s%2Fm%2F0q2l6bb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
@@ -1550,7 +1557,7 @@
                           <span data-pasted="true">
                            <span data-pasted="true">
                             <span data-pasted="true">
-                             <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Lakes+Regional+Library/@26.5221484,-81.9150358,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f004c226a1f:0x38232751cd8604fd!8m2!3d26.5221436!4d-81.9124609!16s%2Fm%2F0q2l6bb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                             <a aria-describedby="audioeye_new_window_message" aria-label="15290 Bass Rd Opens in new window" href="https://www.google.com/maps/place/Lakes+Regional+Library/@26.5221484,-81.9150358,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f004c226a1f:0x38232751cd8604fd!8m2!3d26.5221436!4d-81.9124609!16s%2Fm%2F0q2l6bb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                               15290 Bass Rd
                              </a>
                             </span>
@@ -1558,7 +1565,7 @@
                           </span>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Lakes+Regional+Library/@26.5221484,-81.9150358,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f004c226a1f:0x38232751cd8604fd!8m2!3d26.5221436!4d-81.9124609!16s%2Fm%2F0q2l6bb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Lakes+Regional+Library/@26.5221484,-81.9150358,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f004c226a1f:0x38232751cd8604fd!8m2!3d26.5221436!4d-81.9124609!16s%2Fm%2F0q2l6bb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
@@ -1566,7 +1573,7 @@
                           <span data-pasted="true">
                            <span data-pasted="true">
                             <span data-pasted="true">
-                             <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Lakes+Regional+Library/@26.5221484,-81.9150358,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f004c226a1f:0x38232751cd8604fd!8m2!3d26.5221436!4d-81.9124609!16s%2Fm%2F0q2l6bb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                             <a aria-describedby="audioeye_new_window_message" aria-label="Fort Myers, FL 33919 Opens in new window" href="https://www.google.com/maps/place/Lakes+Regional+Library/@26.5221484,-81.9150358,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db3f004c226a1f:0x38232751cd8604fd!8m2!3d26.5221436!4d-81.9124609!16s%2Fm%2F0q2l6bb?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                               Fort Myers, FL 33919
                              </a>
                             </span>
@@ -1598,7 +1605,7 @@
                            <span data-pasted="true">
                             <span data-pasted="true">
                              <span data-pasted="true">
-                              <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Fort+Myers+Beach+New+Town+Hall/@26.4235879,-81.9073144,794m/data=!3m3!1e3!4b1!5s0x88db3d05adecf807:0x7c5a814dbfe1a83a!4m6!3m5!1s0x88db3d0021a724fb:0xc7b91d8b47337cd7!8m2!3d26.4235831!4d-81.9047395!16s%2Fg%2F11ydhmpbcq?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                              <a aria-describedby="audioeye_new_window_message" aria-label="Fort Myers Beach Town Hall Opens in new window" href="https://www.google.com/maps/place/Fort+Myers+Beach+New+Town+Hall/@26.4235879,-81.9073144,794m/data=!3m3!1e3!4b1!5s0x88db3d05adecf807:0x7c5a814dbfe1a83a!4m6!3m5!1s0x88db3d0021a724fb:0xc7b91d8b47337cd7!8m2!3d26.4235831!4d-81.9047395!16s%2Fg%2F11ydhmpbcq?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                                Fort Myers Beach Town Hall
                               </a>
                              </span>
@@ -1607,7 +1614,7 @@
                           </span>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Fort+Myers+Beach+New+Town+Hall/@26.4235879,-81.9073144,794m/data=!3m3!1e3!4b1!5s0x88db3d05adecf807:0x7c5a814dbfe1a83a!4m6!3m5!1s0x88db3d0021a724fb:0xc7b91d8b47337cd7!8m2!3d26.4235831!4d-81.9047395!16s%2Fg%2F11ydhmpbcq?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Fort+Myers+Beach+New+Town+Hall/@26.4235879,-81.9073144,794m/data=!3m3!1e3!4b1!5s0x88db3d05adecf807:0x7c5a814dbfe1a83a!4m6!3m5!1s0x88db3d0021a724fb:0xc7b91d8b47337cd7!8m2!3d26.4235831!4d-81.9047395!16s%2Fg%2F11ydhmpbcq?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
@@ -1616,7 +1623,7 @@
                            <span data-pasted="true">
                             <span data-pasted="true">
                              <span data-pasted="true">
-                              <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Fort+Myers+Beach+New+Town+Hall/@26.4235879,-81.9073144,794m/data=!3m3!1e3!4b1!5s0x88db3d05adecf807:0x7c5a814dbfe1a83a!4m6!3m5!1s0x88db3d0021a724fb:0xc7b91d8b47337cd7!8m2!3d26.4235831!4d-81.9047395!16s%2Fg%2F11ydhmpbcq?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                              <a aria-describedby="audioeye_new_window_message" aria-label="6231 Estero Blvd Opens in new window" href="https://www.google.com/maps/place/Fort+Myers+Beach+New+Town+Hall/@26.4235879,-81.9073144,794m/data=!3m3!1e3!4b1!5s0x88db3d05adecf807:0x7c5a814dbfe1a83a!4m6!3m5!1s0x88db3d0021a724fb:0xc7b91d8b47337cd7!8m2!3d26.4235831!4d-81.9047395!16s%2Fg%2F11ydhmpbcq?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                                6231 Estero Blvd
                               </a>
                              </span>
@@ -1625,7 +1632,7 @@
                           </span>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Fort+Myers+Beach+New+Town+Hall/@26.4235879,-81.9073144,794m/data=!3m3!1e3!4b1!5s0x88db3d05adecf807:0x7c5a814dbfe1a83a!4m6!3m5!1s0x88db3d0021a724fb:0xc7b91d8b47337cd7!8m2!3d26.4235831!4d-81.9047395!16s%2Fg%2F11ydhmpbcq?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Fort+Myers+Beach+New+Town+Hall/@26.4235879,-81.9073144,794m/data=!3m3!1e3!4b1!5s0x88db3d05adecf807:0x7c5a814dbfe1a83a!4m6!3m5!1s0x88db3d0021a724fb:0xc7b91d8b47337cd7!8m2!3d26.4235831!4d-81.9047395!16s%2Fg%2F11ydhmpbcq?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
@@ -1634,7 +1641,7 @@
                            <span data-pasted="true">
                             <span data-pasted="true">
                              <span data-pasted="true">
-                              <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Fort+Myers+Beach+New+Town+Hall/@26.4235879,-81.9073144,794m/data=!3m3!1e3!4b1!5s0x88db3d05adecf807:0x7c5a814dbfe1a83a!4m6!3m5!1s0x88db3d0021a724fb:0xc7b91d8b47337cd7!8m2!3d26.4235831!4d-81.9047395!16s%2Fg%2F11ydhmpbcq?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                              <a aria-describedby="audioeye_new_window_message" aria-label="Fort Myers Beach, FL 33931 Opens in new window" href="https://www.google.com/maps/place/Fort+Myers+Beach+New+Town+Hall/@26.4235879,-81.9073144,794m/data=!3m3!1e3!4b1!5s0x88db3d05adecf807:0x7c5a814dbfe1a83a!4m6!3m5!1s0x88db3d0021a724fb:0xc7b91d8b47337cd7!8m2!3d26.4235831!4d-81.9047395!16s%2Fg%2F11ydhmpbcq?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                                Fort Myers Beach, FL 33931
                               </a>
                              </span>
@@ -1670,7 +1677,7 @@
                             <span data-pasted="true">
                              <span data-pasted="true">
                               <span data-pasted="true">
-                               <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Water's+Edge+Church/@26.6100821,-81.9584928,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db472c84e7f27d:0xb41c277940900219!8m2!3d26.6100773!4d-81.9559179!16s%2Fg%2F1tp8_vv3?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                               <a aria-describedby="audioeye_new_window_message" aria-label="Water's Edge Church Opens in new window" href="https://www.google.com/maps/place/Water's+Edge+Church/@26.6100821,-81.9584928,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db472c84e7f27d:0xb41c277940900219!8m2!3d26.6100773!4d-81.9559179!16s%2Fg%2F1tp8_vv3?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                                 Water's Edge Church
                                </a>
                               </span>
@@ -1680,7 +1687,7 @@
                           </span>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Water's+Edge+Church/@26.6100821,-81.9584928,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db472c84e7f27d:0xb41c277940900219!8m2!3d26.6100773!4d-81.9559179!16s%2Fg%2F1tp8_vv3?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Water's+Edge+Church/@26.6100821,-81.9584928,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db472c84e7f27d:0xb41c277940900219!8m2!3d26.6100773!4d-81.9559179!16s%2Fg%2F1tp8_vv3?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
@@ -1690,7 +1697,7 @@
                             <span data-pasted="true">
                              <span data-pasted="true">
                               <span data-pasted="true">
-                               <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Water's+Edge+Church/@26.6100821,-81.9584928,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db472c84e7f27d:0xb41c277940900219!8m2!3d26.6100773!4d-81.9559179!16s%2Fg%2F1tp8_vv3?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                               <a aria-describedby="audioeye_new_window_message" aria-label="2213 Country Club Blvd Opens in new window" href="https://www.google.com/maps/place/Water's+Edge+Church/@26.6100821,-81.9584928,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db472c84e7f27d:0xb41c277940900219!8m2!3d26.6100773!4d-81.9559179!16s%2Fg%2F1tp8_vv3?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                                 2213 Country Club Blvd
                                </a>
                               </span>
@@ -1700,7 +1707,7 @@
                           </span>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Water's+Edge+Church/@26.6100821,-81.9584928,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db472c84e7f27d:0xb41c277940900219!8m2!3d26.6100773!4d-81.9559179!16s%2Fg%2F1tp8_vv3?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Water's+Edge+Church/@26.6100821,-81.9584928,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db472c84e7f27d:0xb41c277940900219!8m2!3d26.6100773!4d-81.9559179!16s%2Fg%2F1tp8_vv3?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
@@ -1710,7 +1717,7 @@
                             <span data-pasted="true">
                              <span data-pasted="true">
                               <span data-pasted="true">
-                               <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Water's+Edge+Church/@26.6100821,-81.9584928,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db472c84e7f27d:0xb41c277940900219!8m2!3d26.6100773!4d-81.9559179!16s%2Fg%2F1tp8_vv3?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                               <a aria-describedby="audioeye_new_window_message" aria-label="Cape Coral, FL 33990 Opens in new window" href="https://www.google.com/maps/place/Water's+Edge+Church/@26.6100821,-81.9584928,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db472c84e7f27d:0xb41c277940900219!8m2!3d26.6100773!4d-81.9559179!16s%2Fg%2F1tp8_vv3?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                                 Cape Coral, FL 33990
                                </a>
                               </span>
@@ -1743,25 +1750,25 @@
                         </span>
                         <br/>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Dr.+Carrie+D.+Robinson+Center/@26.6334597,-81.8513286,881m/data=!3m1!1e3!4m6!3m5!1s0x88db6a6cd189d00f:0x4db019cd56d0d1e6!8m2!3d26.6335695!4d-81.8520066!16s%2Fg%2F11bz_1wj8l?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Dr. Carrie D. Robinson Center Opens in new window" href="https://www.google.com/maps/place/Dr.+Carrie+D.+Robinson+Center/@26.6334597,-81.8513286,881m/data=!3m1!1e3!4m6!3m5!1s0x88db6a6cd189d00f:0x4db019cd56d0d1e6!8m2!3d26.6335695!4d-81.8520066!16s%2Fg%2F11bz_1wj8l?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           Dr. Carrie D. Robinson Center
                          </a>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Dr.+Carrie+D.+Robinson+Center/@26.6334597,-81.8513286,881m/data=!3m1!1e3!4m6!3m5!1s0x88db6a6cd189d00f:0x4db019cd56d0d1e6!8m2!3d26.6335695!4d-81.8520066!16s%2Fg%2F11bz_1wj8l?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Dr.+Carrie+D.+Robinson+Center/@26.6334597,-81.8513286,881m/data=!3m1!1e3!4m6!3m5!1s0x88db6a6cd189d00f:0x4db019cd56d0d1e6!8m2!3d26.6335695!4d-81.8520066!16s%2Fg%2F11bz_1wj8l?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span data-pasted="true">
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Dr.+Carrie+D.+Robinson+Center/@26.6334597,-81.8513286,881m/data=!3m1!1e3!4m6!3m5!1s0x88db6a6cd189d00f:0x4db019cd56d0d1e6!8m2!3d26.6335695!4d-81.8520066!16s%2Fg%2F11bz_1wj8l?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="2990 Edison Ave Opens in new window" href="https://www.google.com/maps/place/Dr.+Carrie+D.+Robinson+Center/@26.6334597,-81.8513286,881m/data=!3m1!1e3!4m6!3m5!1s0x88db6a6cd189d00f:0x4db019cd56d0d1e6!8m2!3d26.6335695!4d-81.8520066!16s%2Fg%2F11bz_1wj8l?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           2990 Edison Ave
                          </a>
                         </span>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Dr.+Carrie+D.+Robinson+Center/@26.6334597,-81.8513286,881m/data=!3m1!1e3!4m6!3m5!1s0x88db6a6cd189d00f:0x4db019cd56d0d1e6!8m2!3d26.6335695!4d-81.8520066!16s%2Fg%2F11bz_1wj8l?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Dr.+Carrie+D.+Robinson+Center/@26.6334597,-81.8513286,881m/data=!3m1!1e3!4m6!3m5!1s0x88db6a6cd189d00f:0x4db019cd56d0d1e6!8m2!3d26.6335695!4d-81.8520066!16s%2Fg%2F11bz_1wj8l?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           <br/>
                          </a>
                         </span>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Dr.+Carrie+D.+Robinson+Center/@26.6334597,-81.8513286,881m/data=!3m1!1e3!4m6!3m5!1s0x88db6a6cd189d00f:0x4db019cd56d0d1e6!8m2!3d26.6335695!4d-81.8520066!16s%2Fg%2F11bz_1wj8l?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Fort Myers, FL 33916 Opens in new window" href="https://www.google.com/maps/place/Dr.+Carrie+D.+Robinson+Center/@26.6334597,-81.8513286,881m/data=!3m1!1e3!4m6!3m5!1s0x88db6a6cd189d00f:0x4db019cd56d0d1e6!8m2!3d26.6335695!4d-81.8520066!16s%2Fg%2F11bz_1wj8l?entry=ttu&amp;g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           Fort Myers, FL 33916
                          </a>
                         </span>
@@ -1798,7 +1805,7 @@
                               <span data-pasted="true">
                                <span data-pasted="true">
                                 <span data-pasted="true">
-                                 <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Quality+Inn+%26+Suites+Lehigh+Acres+Fort+Myers/@26.6078224,-81.656381,793m/data=!3m1!1e3!4m9!3m8!1s0x88db736c860c3241:0x604b83ef0ac1a74e!5m2!4m1!1i2!8m2!3d26.6078176!4d-81.6538061!16s%2Fg%2F11f9wfm42n?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                                 <a aria-describedby="audioeye_new_window_message" aria-label="Quality Inn and Suites Opens in new window" href="https://www.google.com/maps/place/Quality+Inn+%26+Suites+Lehigh+Acres+Fort+Myers/@26.6078224,-81.656381,793m/data=!3m1!1e3!4m9!3m8!1s0x88db736c860c3241:0x604b83ef0ac1a74e!5m2!4m1!1i2!8m2!3d26.6078176!4d-81.6538061!16s%2Fg%2F11f9wfm42n?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                                   Quality Inn and Suites
                                  </a>
                                 </span>
@@ -1810,7 +1817,7 @@
                           </span>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Quality+Inn+%26+Suites+Lehigh+Acres+Fort+Myers/@26.6078224,-81.656381,793m/data=!3m1!1e3!4m9!3m8!1s0x88db736c860c3241:0x604b83ef0ac1a74e!5m2!4m1!1i2!8m2!3d26.6078176!4d-81.6538061!16s%2Fg%2F11f9wfm42n?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Quality+Inn+%26+Suites+Lehigh+Acres+Fort+Myers/@26.6078224,-81.656381,793m/data=!3m1!1e3!4m9!3m8!1s0x88db736c860c3241:0x604b83ef0ac1a74e!5m2!4m1!1i2!8m2!3d26.6078176!4d-81.6538061!16s%2Fg%2F11f9wfm42n?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
@@ -1822,7 +1829,7 @@
                               <span data-pasted="true">
                                <span data-pasted="true">
                                 <span data-pasted="true">
-                                 <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Quality+Inn+%26+Suites+Lehigh+Acres+Fort+Myers/@26.6078224,-81.656381,793m/data=!3m1!1e3!4m9!3m8!1s0x88db736c860c3241:0x604b83ef0ac1a74e!5m2!4m1!1i2!8m2!3d26.6078176!4d-81.6538061!16s%2Fg%2F11f9wfm42n?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                                 <a aria-describedby="audioeye_new_window_message" aria-label="1320 Business Way Opens in new window" href="https://www.google.com/maps/place/Quality+Inn+%26+Suites+Lehigh+Acres+Fort+Myers/@26.6078224,-81.656381,793m/data=!3m1!1e3!4m9!3m8!1s0x88db736c860c3241:0x604b83ef0ac1a74e!5m2!4m1!1i2!8m2!3d26.6078176!4d-81.6538061!16s%2Fg%2F11f9wfm42n?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                                   1320 Business Way
                                  </a>
                                 </span>
@@ -1834,7 +1841,7 @@
                           </span>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Quality+Inn+%26+Suites+Lehigh+Acres+Fort+Myers/@26.6078224,-81.656381,793m/data=!3m1!1e3!4m9!3m8!1s0x88db736c860c3241:0x604b83ef0ac1a74e!5m2!4m1!1i2!8m2!3d26.6078176!4d-81.6538061!16s%2Fg%2F11f9wfm42n?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Quality+Inn+%26+Suites+Lehigh+Acres+Fort+Myers/@26.6078224,-81.656381,793m/data=!3m1!1e3!4m9!3m8!1s0x88db736c860c3241:0x604b83ef0ac1a74e!5m2!4m1!1i2!8m2!3d26.6078176!4d-81.6538061!16s%2Fg%2F11f9wfm42n?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
@@ -1846,7 +1853,7 @@
                               <span data-pasted="true">
                                <span data-pasted="true">
                                 <span data-pasted="true">
-                                 <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Quality+Inn+%26+Suites+Lehigh+Acres+Fort+Myers/@26.6078224,-81.656381,793m/data=!3m1!1e3!4m9!3m8!1s0x88db736c860c3241:0x604b83ef0ac1a74e!5m2!4m1!1i2!8m2!3d26.6078176!4d-81.6538061!16s%2Fg%2F11f9wfm42n?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                                 <a aria-describedby="audioeye_new_window_message" aria-label="Lehigh Acres, FL 33936 Opens in new window" href="https://www.google.com/maps/place/Quality+Inn+%26+Suites+Lehigh+Acres+Fort+Myers/@26.6078224,-81.656381,793m/data=!3m1!1e3!4m9!3m8!1s0x88db736c860c3241:0x604b83ef0ac1a74e!5m2!4m1!1i2!8m2!3d26.6078176!4d-81.6538061!16s%2Fg%2F11f9wfm42n?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                                   Lehigh Acres, FL 33936
                                  </a>
                                 </span>
@@ -1891,28 +1898,28 @@
                        </p>
                        <p>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/East+County+Regional+Library/data=!4m2!3m1!1s0x0:0xe95a5916f6060519?sa=X&amp;ved=1t%3A2428&amp;ictx=111" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="East County Regional Library Opens in new window" href="https://www.google.com/maps/place/East+County+Regional+Library/data=!4m2!3m1!1s0x0:0xe95a5916f6060519?sa=X&amp;ved=1t%3A2428&amp;ictx=111" rel="noopener" target="_blank">
                           East County Regional Library
                          </a>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/East+County+Regional+Library/data=!4m2!3m1!1s0x0:0xe95a5916f6060519?sa=X&amp;ved=1t%3A2428&amp;ictx=111" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/East+County+Regional+Library/data=!4m2!3m1!1s0x0:0xe95a5916f6060519?sa=X&amp;ved=1t%3A2428&amp;ictx=111" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
                          <span data-pasted="true">
-                          <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/East+County+Regional+Library/data=!4m2!3m1!1s0x0:0xe95a5916f6060519?sa=X&amp;ved=1t%3A2428&amp;ictx=111" rel="noopener" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" aria-label="881 Gunnery Rd N Opens in new window" href="https://www.google.com/maps/place/East+County+Regional+Library/data=!4m2!3m1!1s0x0:0xe95a5916f6060519?sa=X&amp;ved=1t%3A2428&amp;ictx=111" rel="noopener" target="_blank">
                            881 Gunnery Rd N
                           </a>
                          </span>
                         </span>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/East+County+Regional+Library/data=!4m2!3m1!1s0x0:0xe95a5916f6060519?sa=X&amp;ved=1t%3A2428&amp;ictx=111" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/East+County+Regional+Library/data=!4m2!3m1!1s0x0:0xe95a5916f6060519?sa=X&amp;ved=1t%3A2428&amp;ictx=111" rel="noopener" target="_blank">
                           <br/>
                          </a>
                         </span>
                         <span>
                          <span>
-                          <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/East+County+Regional+Library/data=!4m2!3m1!1s0x0:0xe95a5916f6060519?sa=X&amp;ved=1t%3A2428&amp;ictx=111" rel="noopener" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" aria-label="Lehigh Acres, FL 33971 Opens in new window" href="https://www.google.com/maps/place/East+County+Regional+Library/data=!4m2!3m1!1s0x0:0xe95a5916f6060519?sa=X&amp;ved=1t%3A2428&amp;ictx=111" rel="noopener" target="_blank">
                            Lehigh Acres, FL 33971
                           </a>
                          </span>
@@ -1960,23 +1967,23 @@
                          <br/>
                         </strong>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Splendor+Event+Banquet+Hall/@26.6422568,-81.9754192,198m/data=!3m1!1e3!4m6!3m5!1s0x88db478a70fa16e7:0xd209cf3092c66ad7!8m2!3d26.6431662!4d-81.9751735!16s%2Fg%2F11gh67wjm0?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Splendor Event Rentals, Inc. Opens in new window" href="https://www.google.com/maps/place/Splendor+Event+Banquet+Hall/@26.6422568,-81.9754192,198m/data=!3m1!1e3!4m6!3m5!1s0x88db478a70fa16e7:0xd209cf3092c66ad7!8m2!3d26.6431662!4d-81.9751735!16s%2Fg%2F11gh67wjm0?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           Splendor Event Rentals, Inc.
                          </a>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Splendor+Event+Banquet+Hall/@26.6422568,-81.9754192,198m/data=!3m1!1e3!4m6!3m5!1s0x88db478a70fa16e7:0xd209cf3092c66ad7!8m2!3d26.6431662!4d-81.9751735!16s%2Fg%2F11gh67wjm0?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Splendor+Event+Banquet+Hall/@26.6422568,-81.9754192,198m/data=!3m1!1e3!4m6!3m5!1s0x88db478a70fa16e7:0xd209cf3092c66ad7!8m2!3d26.6431662!4d-81.9751735!16s%2Fg%2F11gh67wjm0?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Splendor+Event+Banquet+Hall/@26.6422568,-81.9754192,198m/data=!3m1!1e3!4m6!3m5!1s0x88db478a70fa16e7:0xd209cf3092c66ad7!8m2!3d26.6431662!4d-81.9751735!16s%2Fg%2F11gh67wjm0?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="360 Santa Barbara Blvd S Opens in new window" href="https://www.google.com/maps/place/Splendor+Event+Banquet+Hall/@26.6422568,-81.9754192,198m/data=!3m1!1e3!4m6!3m5!1s0x88db478a70fa16e7:0xd209cf3092c66ad7!8m2!3d26.6431662!4d-81.9751735!16s%2Fg%2F11gh67wjm0?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           360 Santa Barbara Blvd S
                          </a>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Splendor+Event+Banquet+Hall/@26.6422568,-81.9754192,198m/data=!3m1!1e3!4m6!3m5!1s0x88db478a70fa16e7:0xd209cf3092c66ad7!8m2!3d26.6431662!4d-81.9751735!16s%2Fg%2F11gh67wjm0?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Splendor+Event+Banquet+Hall/@26.6422568,-81.9754192,198m/data=!3m1!1e3!4m6!3m5!1s0x88db478a70fa16e7:0xd209cf3092c66ad7!8m2!3d26.6431662!4d-81.9751735!16s%2Fg%2F11gh67wjm0?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Splendor+Event+Banquet+Hall/@26.6422568,-81.9754192,198m/data=!3m1!1e3!4m6!3m5!1s0x88db478a70fa16e7:0xd209cf3092c66ad7!8m2!3d26.6431662!4d-81.9751735!16s%2Fg%2F11gh67wjm0?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Cape Coral, FL 33991 Opens in new window" href="https://www.google.com/maps/place/Splendor+Event+Banquet+Hall/@26.6422568,-81.9754192,198m/data=!3m1!1e3!4m6!3m5!1s0x88db478a70fa16e7:0xd209cf3092c66ad7!8m2!3d26.6431662!4d-81.9751735!16s%2Fg%2F11gh67wjm0?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           Cape Coral, FL 33991
                          </a>
                         </span>
@@ -1995,27 +2002,27 @@
                          </span>
                         </span>
                         <br/>
-                        <a aria-describedby="audioeye_new_window_message" data-pasted="true" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label="Estero Church Opens in new window" data-pasted="true" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <span>
                           Estero Church
                          </span>
                         </a>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
                          <span>
-                          <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" aria-label="8088 Lord's Way St Opens in new window" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                            8088 Lord's Way St
                           </a>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
                          <span>
-                          <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" aria-label="Estero, FL 33928 Opens in new window" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                            Estero, FL 33928
                           </a>
                          </span>
@@ -2043,27 +2050,27 @@
                          </span>
                          <br/>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label="Estero Church Opens in new window" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <span>
                           Estero Church
                          </span>
                         </a>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
                          <span>
-                          <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" aria-label="8088 Lord's Way St Opens in new window" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                            8088 Lord's Way St
                           </a>
                          </span>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
                          <span>
-                          <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" aria-label="Estero, FL 33928 Opens in new window" href="https://www.google.com/maps/place/Estero+Church/@26.4408454,-81.8125434,794m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db16ed75e0ae79:0xf624f805002a69df!8m2!3d26.4408406!4d-81.8099685!16s%2Fg%2F1tdygfkj?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                            Estero, FL 33928
                           </a>
                          </span>
@@ -2090,23 +2097,23 @@
                         </span>
                         <br/>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/The+Breeze+Church/@26.7098979,-81.8431874,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db684ab8b74c95:0x5ff3f469d718a4e9!8m2!3d26.7098931!4d-81.8406125!16s%2Fg%2F1tf08gjh?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="The Breeze Church - North Campus Opens in new window" href="https://www.google.com/maps/place/The+Breeze+Church/@26.7098979,-81.8431874,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db684ab8b74c95:0x5ff3f469d718a4e9!8m2!3d26.7098931!4d-81.8406125!16s%2Fg%2F1tf08gjh?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           The Breeze Church - North Campus
                          </a>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/The+Breeze+Church/@26.7098979,-81.8431874,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db684ab8b74c95:0x5ff3f469d718a4e9!8m2!3d26.7098931!4d-81.8406125!16s%2Fg%2F1tf08gjh?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/The+Breeze+Church/@26.7098979,-81.8431874,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db684ab8b74c95:0x5ff3f469d718a4e9!8m2!3d26.7098931!4d-81.8406125!16s%2Fg%2F1tf08gjh?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/The+Breeze+Church/@26.7098979,-81.8431874,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db684ab8b74c95:0x5ff3f469d718a4e9!8m2!3d26.7098931!4d-81.8406125!16s%2Fg%2F1tf08gjh?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="7101 Bayshore Rd Opens in new window" href="https://www.google.com/maps/place/The+Breeze+Church/@26.7098979,-81.8431874,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db684ab8b74c95:0x5ff3f469d718a4e9!8m2!3d26.7098931!4d-81.8406125!16s%2Fg%2F1tf08gjh?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           7101 Bayshore Rd
                          </a>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/The+Breeze+Church/@26.7098979,-81.8431874,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db684ab8b74c95:0x5ff3f469d718a4e9!8m2!3d26.7098931!4d-81.8406125!16s%2Fg%2F1tf08gjh?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/The+Breeze+Church/@26.7098979,-81.8431874,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db684ab8b74c95:0x5ff3f469d718a4e9!8m2!3d26.7098931!4d-81.8406125!16s%2Fg%2F1tf08gjh?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/The+Breeze+Church/@26.7098979,-81.8431874,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db684ab8b74c95:0x5ff3f469d718a4e9!8m2!3d26.7098931!4d-81.8406125!16s%2Fg%2F1tf08gjh?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="North Fort Myers, FL 33917 Opens in new window" href="https://www.google.com/maps/place/The+Breeze+Church/@26.7098979,-81.8431874,792m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88db684ab8b74c95:0x5ff3f469d718a4e9!8m2!3d26.7098931!4d-81.8406125!16s%2Fg%2F1tf08gjh?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           North Fort Myers, FL 33917
                          </a>
                         </span>
@@ -2132,23 +2139,23 @@
                         </span>
                         <br/>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Mike+Greenwell+Regional+Park/@26.7224813,-81.7665526,396m/data=!3m1!1e3!4m6!3m5!1s0x88db6f006689d729:0xa383273ffb1c127c!8m2!3d26.7196726!4d-81.7643141!16s%2Fg%2F11ms79srsm?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Mike GreenWell Regional Park - Davidson House Opens in new window" href="https://www.google.com/maps/place/Mike+Greenwell+Regional+Park/@26.7224813,-81.7665526,396m/data=!3m1!1e3!4m6!3m5!1s0x88db6f006689d729:0xa383273ffb1c127c!8m2!3d26.7196726!4d-81.7643141!16s%2Fg%2F11ms79srsm?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           Mike GreenWell Regional Park - Davidson House
                          </a>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Mike+Greenwell+Regional+Park/@26.7224813,-81.7665526,396m/data=!3m1!1e3!4m6!3m5!1s0x88db6f006689d729:0xa383273ffb1c127c!8m2!3d26.7196726!4d-81.7643141!16s%2Fg%2F11ms79srsm?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Mike+Greenwell+Regional+Park/@26.7224813,-81.7665526,396m/data=!3m1!1e3!4m6!3m5!1s0x88db6f006689d729:0xa383273ffb1c127c!8m2!3d26.7196726!4d-81.7643141!16s%2Fg%2F11ms79srsm?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Mike+Greenwell+Regional+Park/@26.7224813,-81.7665526,396m/data=!3m1!1e3!4m6!3m5!1s0x88db6f006689d729:0xa383273ffb1c127c!8m2!3d26.7196726!4d-81.7643141!16s%2Fg%2F11ms79srsm?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="11831 Bayshore Rd N Opens in new window" href="https://www.google.com/maps/place/Mike+Greenwell+Regional+Park/@26.7224813,-81.7665526,396m/data=!3m1!1e3!4m6!3m5!1s0x88db6f006689d729:0xa383273ffb1c127c!8m2!3d26.7196726!4d-81.7643141!16s%2Fg%2F11ms79srsm?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           11831 Bayshore Rd N
                          </a>
                         </span>
-                        <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Mike+Greenwell+Regional+Park/@26.7224813,-81.7665526,396m/data=!3m1!1e3!4m6!3m5!1s0x88db6f006689d729:0xa383273ffb1c127c!8m2!3d26.7196726!4d-81.7643141!16s%2Fg%2F11ms79srsm?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label=" Opens in new window" href="https://www.google.com/maps/place/Mike+Greenwell+Regional+Park/@26.7224813,-81.7665526,396m/data=!3m1!1e3!4m6!3m5!1s0x88db6f006689d729:0xa383273ffb1c127c!8m2!3d26.7196726!4d-81.7643141!16s%2Fg%2F11ms79srsm?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                          <br/>
                         </a>
                         <span>
-                         <a aria-describedby="audioeye_new_window_message" href="https://www.google.com/maps/place/Mike+Greenwell+Regional+Park/@26.7224813,-81.7665526,396m/data=!3m1!1e3!4m6!3m5!1s0x88db6f006689d729:0xa383273ffb1c127c!8m2!3d26.7196726!4d-81.7643141!16s%2Fg%2F11ms79srsm?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="North Fort Myers, FL 33917 Opens in new window" href="https://www.google.com/maps/place/Mike+Greenwell+Regional+Park/@26.7224813,-81.7665526,396m/data=!3m1!1e3!4m6!3m5!1s0x88db6f006689d729:0xa383273ffb1c127c!8m2!3d26.7196726!4d-81.7643141!16s%2Fg%2F11ms79srsm?entry=ttu&amp;g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D" rel="noopener" target="_blank">
                           North Fort Myers, FL 33917
                          </a>
                          <br/>
@@ -2449,9 +2456,6 @@
   </div>
   <div>
   </div>
-  <div class="hidden activeWidgetSkinComponentsOnPageJson">
-   []
-  </div>
   <div>
   </div>
   <div id="root-picker-outlet">
@@ -2510,6 +2514,12 @@
   <div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf">
    <div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO">
    </div>
+  </div>
+  <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
+   <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
+   </a>
+   <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
+   </a>
   </div>
   <div data-nosnippet="" id="ae_app">
    <div class="ae-module" id="ae_helpers">

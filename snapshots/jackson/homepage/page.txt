@@ -105,7 +105,7 @@ Carol A. Dunaway
 SUPERVISOR OF ELECTIONS
 JACKSON COUNTY
 Active Registered Voters
-as of 10/22/2026
+as of 10/23/2026
 Republicans
 0
 Democrats
@@ -130,13 +130,6 @@ Keep your Voter Registration up to date!
 Calendar
 Oct
 22
-8:00 am
--
-5:00 pm
-2026
-Last Day to Request Vote-By-Mail (General)
-Oct
-22
 October 22 @ 8:00 am
 -
 October 31 @ 5:30 pm
@@ -148,7 +141,6 @@ All day, 2026
 General Election- November 3, 2026
 View Calendar
 View full calendar
-We are currently patching several tools on our website, including the voter information lookup. We expect service to be restored later today. For immediate assistance, please call us at (850) 482-9652.
 2026 General Election-Turnout
 2026 General Election Sample Ballot
 2026 Canvassing Board Schedule

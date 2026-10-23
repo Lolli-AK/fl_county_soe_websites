@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.votesjc.gov/election-dates"
   ],
-  "http_status": 200,
-  "content_type": "text/html;charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-22T21:26:44Z",
-  "html_sha256": "63d582eb4d44118b5f47867e26000213e8226173e4d1b1f58cdb598365521b99",
-  "text_sha256": "7da75c17fd62a42851a793950f698650de427918a06b624a336180fda08de89a",
-  "byte_size": 150525,
-  "title": "Election Dates",
+  "fetched_at": "2026-10-23T03:56:09Z",
+  "html_sha256": "a146b463cf8376e58aeeb84e6ab324b9f2c9430a293c3249b398acd5a3b665c8",
+  "text_sha256": "1656b0fce17419931655f7414e8699064f7059675935986c0cf6b6613f9ebf70",
+  "byte_size": 188,
+  "title": "403 Forbidden",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 4
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

@@ -152,6 +152,8 @@ TEMPORARY CHANGES FOR 2026:
 Voters will be mailed a notice of Temporary Polling Location Change at least 14 days before each election for the following locations:
 Precinct 14 (Permanent Location - Fricker Resource Center):
 Temporary Location - Pensacola Main Library, 239 North Spring St, Pensacola
+Precinct 35 (Permanent Location - East Pensacola Heights Community Center):
+Temporary Location - Heights Baptist Church, 600 Pickens Ave, Pensacola
 Precinct 70 (Permanent Location - Burgess Road Baptist Church):
 Temporary Location - The Gathering Place at Pensacola Christian College, 115 St. John St, Pensacola
 CHANGES FROM 2025 SPECIAL ELECTION:

@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.votenassaufl.gov/where-do-i-vote"
   ],
-  "http_status": 200,
-  "content_type": "text/html;charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-22T21:26:44Z",
-  "html_sha256": "a4b73f041aa338d6f0039aef7efa406bfaf6cc8b3330a9cb8aa0ff232068bccc",
-  "text_sha256": "e11a5a5b3ced3709976e70c98525106473190dede5184655af9af3ea6a58cf7a",
-  "byte_size": 76657,
-  "title": "Find Your Precinct | Nassau County Supervisor",
+  "fetched_at": "2026-10-23T03:56:09Z",
+  "html_sha256": "a146b463cf8376e58aeeb84e6ab324b9f2c9430a293c3249b398acd5a3b665c8",
+  "text_sha256": "1656b0fce17419931655f7414e8699064f7059675935986c0cf6b6613f9ebf70",
+  "byte_size": 188,
+  "title": "403 Forbidden",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

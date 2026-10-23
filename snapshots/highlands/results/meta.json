@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.votehighlands.gov/elections-results"
   ],
-  "http_status": 200,
-  "content_type": "text/html;charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-22T21:26:44Z",
-  "html_sha256": "d20f5304e0187582c943a0b2ee697899a77219bda5eac9a7409ec01f7942bace",
-  "text_sha256": "c5b14bb7f00a900806c1145808d6a2307fa59c761d68c7e8d6245d82cf008374",
-  "byte_size": 140381,
-  "title": "Elections Results | Highlands County Supervisor of Elections | Sebring, FL",
+  "fetched_at": "2026-10-23T03:56:09Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)"
 }
