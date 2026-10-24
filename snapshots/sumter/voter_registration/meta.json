@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://elections.sumtercountyfl.gov/172/How-to-Register-to-Vote"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T04:21:11Z",
-  "html_sha256": "dce8a2a6cef619a8f811c63442e22f9bc2ed2e614eb0126e338d02065a246723",
-  "text_sha256": "c14f36ef1cf8da5be332d3acca3ffab783a15531b695f3fbdb2550a47c611a46",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-24T10:27:33Z",
+  "html_sha256": "ae8c8af043191fa70e73a743420fd4552d361ecbf03348156a9f4911b1c7f81e",
+  "text_sha256": "f619ccf6046f81c28486efb3a6e73803fee4914e550fd23326277020aa2943e9",
+  "byte_size": 71615,
+  "title": "How to Register to Vote | Sumter County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

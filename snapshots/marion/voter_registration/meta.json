@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.votemarion.gov/307/Register-to-Vote"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T04:21:11Z",
-  "html_sha256": "4aa75617588b99c723c0a73deb4fbfa4d426a0ce4399a28a82ab929f49c88826",
-  "text_sha256": "3b46fba67107208453d1ff87401cb72bc6616d037073318bb5a4ee1dfb79f339",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-24T10:27:33Z",
+  "html_sha256": "fecfa997764ec7049b7d7b66eae516600771c1e0fe30b784e9adf6bb2eea7b16",
+  "text_sha256": "72b521b3b007a04ef96b3125b773dba06fa69a06a7276e16354c608a9db50d6b",
+  "byte_size": 70008,
+  "title": "Register to Vote | Marion County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 4
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

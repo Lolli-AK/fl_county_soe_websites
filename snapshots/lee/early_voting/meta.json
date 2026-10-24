@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.lee.vote/229/Early-Voting-Dates-and-Locations"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T03:39:56Z",
-  "html_sha256": "a1e577fb1d8bf25905c50e7df565c7121a043d82e794da39f71a7c851d998878",
-  "text_sha256": "dfb9126810bc8b16b6192d8d7943f1c2b20b5b0fc1bfc34e7ded829a0b1ca0a9",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-24T10:27:33Z",
+  "html_sha256": "663dc342f39e173e2bce6afd90d1e646d1ba6ea442faa8e9a6df75b9577f511c",
+  "text_sha256": "c10976cfca6ccd35056a543bd87322c480d2e914be0a8ee83777bec3df26e8b5",
+  "byte_size": 89329,
+  "title": "Early Voting Dates and Locations | Lee County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

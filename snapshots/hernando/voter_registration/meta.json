@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.hernandovotes.gov/1213/Online-Voter-Registration"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T03:39:56Z",
-  "html_sha256": "266056f80670d0d854564a30a4d1051f6df3b724e0483abbae28f26b98d9753f",
-  "text_sha256": "70f8705c8f4742d2a8819df2ab0d1ff17b0d9c45438374b3d27366b2760a7dac",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-24T10:27:33Z",
+  "html_sha256": "527a6123c2b73b6deae0a33f2adc1b00065f414ba77cd5d100450a429dd5b2bd",
+  "text_sha256": "6c20515a0c72143e62dacbfaac5c8c1219a42a6a691ce0acbb413ecc2fd0c92b",
+  "byte_size": 69512,
+  "title": "Online Voter Registration | Hernando County SOE, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 3
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

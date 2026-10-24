@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.votemarion.gov/317/Vote-Early"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T04:21:11Z",
-  "html_sha256": "d79aadb0edac4ae26b8b78a9051269ab45ec218021eec08b084d58f1262048d1",
-  "text_sha256": "23a4bb84a78109d409c6bf6133bad20794596217776b7f948636a85dd0501d97",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-24T10:27:33Z",
+  "html_sha256": "19524f9cf80bcdc5d8fa67211f7314266f594942b6e39261b0ace690bc0d00ae",
+  "text_sha256": "a647745cf9ea865867be60a1e0e298bed1c03b7c8db95148475e6340eba65e7e",
+  "byte_size": 49324,
+  "title": "Vote Early | Marion County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

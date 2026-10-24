@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.lee.vote/171/Election-Results"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T03:39:56Z",
-  "html_sha256": "a495432495047c209c52c6c97b4e502ce03c13993ab18e5d53b9e483edbb2adc",
-  "text_sha256": "cff0ab4255e83cb514ee3abd43f68ce36d92735d77396c2201e4af2844e9a3d5",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-24T10:27:33Z",
+  "html_sha256": "6feae25f9fd5acfb23e3101b55b3f07d235c1a926c79659c05be5d80774e667c",
+  "text_sha256": "4f87a2bf64301c79b332890d92984102502e40c749ca6ff8adb65140f13148c4",
+  "byte_size": 130347,
+  "title": "Election Results | Lee County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

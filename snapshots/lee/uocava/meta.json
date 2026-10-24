@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.lee.vote/167/Military-and-Overseas-Voters"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T03:39:56Z",
-  "html_sha256": "b7c2366fb37ecad8e61cc2b6b89837fad0ab6684a4a5056a9d2baf2ab540dccf",
-  "text_sha256": "007e94dcaf0d33eb15e4097a36ec14e5d11708407341a45d2a8537b3809e1f46",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-24T10:27:33Z",
+  "html_sha256": "caafdd2de4e7bcb70a875f691b5ae91f7c283e4731fae2bedc16f75b0a878c22",
+  "text_sha256": "e77073dd31d7da4de276e424d37361ce2741289a57858724a66f1f104dce8680",
+  "byte_size": 68289,
+  "title": "Military and Overseas Voters | Lee County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 3
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

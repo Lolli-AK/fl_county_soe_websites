@@ -6,24 +6,29 @@
   "redirect_chain": [
     "https://www.lakevotes.gov/237/Military-and-Overseas-Voting"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T03:39:56Z",
-  "html_sha256": "c5bd55e3af9f089bd83fb7147963e842364034d9e12bb0487c3d3b0f930d8340",
-  "text_sha256": "0ad12df594b23682e077bf960ce08e3915336b83d3a7a801bd9bdd5b1fa36573",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-24T10:27:33Z",
+  "html_sha256": "5f5c8893d93bb0bdce704ddfab7dff2466560a467748d3413b4d4bb371b313df",
+  "text_sha256": "80379b5697613a7c3b0d6551c08503af466adbd897ac4f82e6a02b4fe861bd16",
+  "byte_size": 76422,
+  "title": "Military and Overseas Voting | Lake County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 35
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

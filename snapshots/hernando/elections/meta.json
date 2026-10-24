@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.hernandovotes.gov/27/Election-Information"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T03:39:56Z",
-  "html_sha256": "547c1a6a1c102518be8c6e6e3ddeaa08fa4847a036e9e6e0aace511bc6f18362",
-  "text_sha256": "b858b3b9df68d7ecc3c01f5a901c01187dc71eee3428933d273920ce9328da52",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-24T10:27:33Z",
+  "html_sha256": "96764888e1a08a999d1836a491c0d00e2a0ee21c91dd2d34983be1de4e562f5e",
+  "text_sha256": "8bb1345a995be03ddffa71c1a94aa930ca549501b902c95041722000adfecc0d",
+  "byte_size": 53816,
+  "title": "Election Information | Hernando County SOE, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

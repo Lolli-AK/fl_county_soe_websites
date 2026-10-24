@@ -6,24 +6,30 @@
   "redirect_chain": [
     "https://www.sarasotavotes.gov/167/Military-Overseas-Voters"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T04:21:11Z",
-  "html_sha256": "14dfdaaf9c85340f498fcbdf220ace5da3800dde2f827579256f1c499999870f",
-  "text_sha256": "53900ec6252c38b927f59582dfefcce938c7c32868663c5512ba28879041ef6b",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-24T10:27:33Z",
+  "html_sha256": "99c3491d67b4d099d9d07715513e13214cbcdb18cd3e6deca0d4633b7d2ef629",
+  "text_sha256": "8d8a50cdc455e7bd5dbc199ee42f9869a4a2c6b5b891abe1600745972b53e347",
+  "byte_size": 82529,
+  "title": "Military & Overseas Voters | Sarasota County Supervisor of Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 45
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

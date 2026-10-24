@@ -7,24 +7,26 @@
     "https://www.lakevotes.gov",
     "https://www.lakevotes.gov/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T03:39:56Z",
-  "html_sha256": "c4b89dee2603434874e12a27e9a5c5ba49fa65769a46199a9f2f42774f494386",
-  "text_sha256": "94fa0a6f11d410cb8c51dcfa7e65f7b92b73a03ffaaa9a814c0589b7985c13a8",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-24T10:27:33Z",
+  "html_sha256": "d9626fc4902a8887e3e3da7990c920b80c1e83eb67b7a53763f95a013d2a7133",
+  "text_sha256": "6cff08397280ce9db511b4769f99535439c79a80cc0e50fa52ce1c60aca77486",
+  "byte_size": 134986,
+  "title": "Lake County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

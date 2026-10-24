@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votemarion.gov/199/Election-Results"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T04:21:11Z",
-  "html_sha256": "cc53494f8213b047c8cbfc20b424757bd8465d361b6986250359d961b57fe8c3",
-  "text_sha256": "84db27aec143d7a6cbb1f4411518a2633d2447d709ac0901d1a2ac6579baf814",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-24T10:27:33Z",
+  "html_sha256": "d9db059595d16e5c182ef55c708adc978ee4e8c9c56ac7c1226d390a14f0296d",
+  "text_sha256": "f919715b43ed93353bc093c5877b89ec3d163a37c467d90bddffbb6ce0e03f94",
+  "byte_size": 42359,
+  "title": "Election Results | Marion County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

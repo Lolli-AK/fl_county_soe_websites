@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.hernandovotes.gov/1197/Past-Election-Results"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T03:39:56Z",
-  "html_sha256": "23ab101987c9c355c640b85fee5ee1d839cdcb9892eeb5c83194a104b0806d42",
-  "text_sha256": "cbbff9ccb62e47ef17be41e5db289edde3916b2048e9903a455d16e40b46c490",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-24T10:27:33Z",
+  "html_sha256": "463285b74ee7eb6f247173dbd8ec3c6eb528eedd0bc8048d84071242553ca809",
+  "text_sha256": "186c908b60780841fe7b9e68e2cf52b7e71a7243d31f6b6bf8002965eb87dec2",
+  "byte_size": 72050,
+  "title": "Past Election Results | Hernando County SOE, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

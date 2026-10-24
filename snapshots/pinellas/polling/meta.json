@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votepinellas.gov/198/Find-Precinct-Polling-Place"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T04:21:11Z",
-  "html_sha256": "d664fe075acac60483e3410cd1b73f264d657166c3c4a3238f10017b32229251",
-  "text_sha256": "b3bfc1172acad7bf385e8c38921a2a6c989de9fe677a1d6b4d36fbd11656d31d",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-24T10:27:33Z",
+  "html_sha256": "82fe32759abe0de900159e4f24827449a765501386c23b29c95429b1db8682b9",
+  "text_sha256": "c58ece2ce7b5fe51749195f5d831f4e84e99ea8fe5503036dc9632739a8b7e14",
+  "byte_size": 65249,
+  "title": "Find Precinct & Polling Place | Pinellas County Election, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

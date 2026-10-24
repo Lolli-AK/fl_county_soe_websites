@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votemarion.gov/335/Find-My-Voting-Location"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T04:21:11Z",
-  "html_sha256": "685b30364468f7bb29c1702962dd1b70256587cf5859026432a5fe75bbf048e5",
-  "text_sha256": "8fdd88348695beed29fc784702abf8442fda540596e2cbdbef9355683795612f",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-24T10:27:33Z",
+  "html_sha256": "274b52ded302c93e54c7b3d5a09fcf39896582fd3b4df19ce05f76cb754e6e48",
+  "text_sha256": "5a3a7c3ee8c7998b116745f020557702b43ae06731406e9209cdc8a45cabca2c",
+  "byte_size": 53582,
+  "title": "Find My Voting Location | Marion County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
