@@ -1,5 +1,6 @@
 Duval County Elections, FL Official Website | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Voter Information
 Election Information
@@ -41,11 +42,11 @@ Total:
 NOTE: Election Books are closed. Totals are as of Book Closing
 News & Notices
 Press Releases
+Duval County early voting nightly update for Oct. 24, 2026
+October 24, 2026
 Celebrate Vote Early Day by casting a ballot at one of the 24 early voting sites in Duval County
 October 24, 2026
 Duval County early voting nightly update for Oct. 23, 2026
-October 23, 2026
-Final vote-by-mail ballots for the General Election mailed out
 October 23, 2026
 View All News
 Press Releases
@@ -168,8 +169,12 @@ Contact Us
 Accessibility
 Site Map
 Copyright Notices
-Loading
-Loading
+Important Vote-by-Mail Information
+The deadline to request a vote-by-mail ballot be mailed for the 2026 General Election has passed.
+If you need a vote-by-mail ballot, you can visit 105 E. Monroe St., Jacksonville, FL 32202, to pick up in person.
+To track the status of your vote-by-mail ballot, please visit
+My Voter Status
+.
 Do Not Show Again
 Close
 Select Language
