@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T15:32:11Z",
-  "html_sha256": "39d7f29029fb2e17573eb90ca5c4ce216cc76d7b85ab1a33de8c2fd9f7a789b6",
+  "fetched_at": "2026-10-24T20:23:41Z",
+  "html_sha256": "850c99925f62dda44af4c6554d9daefbb9297669d792ac95efb4d21c93790a3c",
   "text_sha256": "c6b7a13e706f8af01c8cd932a2bc68fafa4a20eeebdcd38dc18e7a185d7f42c6",
-  "byte_size": 53265,
+  "byte_size": 53219,
   "title": "2024 Election Results – Vote Osceola",
   "noncitizen_voting": {
     "present": false,

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T15:32:11Z",
-  "html_sha256": "89e4c68b31d5d0ecb90724d24f5d9b1a5c47b7b536094d5242f11e49bbe91ee3",
+  "fetched_at": "2026-10-24T20:23:41Z",
+  "html_sha256": "4a57701f715b61c13d3f41c298e285177a59736878a59def6750b919c0983493",
   "text_sha256": "bc298197bcde52aa277dd6ae48c2fcf4ff2111e988719f60f185edd0806711e3",
-  "byte_size": 105015,
+  "byte_size": 105017,
   "title": "Election Results | Palm Beach County Elections, FL",
   "noncitizen_voting": {
     "present": false,
