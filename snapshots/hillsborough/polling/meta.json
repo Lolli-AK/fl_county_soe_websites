@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.votehillsborough.gov/159/Voting-Precincts"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T21:06:16Z",
-  "html_sha256": "2ec535b66544fbdac2109a1943c2c141f9ba572adf8722f25d4a60e25c3f9d33",
-  "text_sha256": "e9aa6da9155d6b947487bfbaf6b79237fe87dff42b312f3e5ea04a7adfb63d95",
-  "byte_size": 71995,
-  "title": "Voting Precincts | Hillsborough County Elections, FL",
+  "fetched_at": "2026-10-24T03:39:56Z",
+  "html_sha256": "d9e43cdac914e163f52e0530ea1ce933af2b199b0b6400c3501861a11c67429c",
+  "text_sha256": "e6706e9ba7bcba78ddc44f8318b5ea388a8aab5f258996f1acecc2e68f16fc35",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

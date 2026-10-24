@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.duvalelections.gov/204/Polling-Location-Finder"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T21:06:16Z",
-  "html_sha256": "bbcb283f62ede38c5da5ecd3ec74a4f98f26272f1ec76a15c33444013b8c1330",
-  "text_sha256": "44d3ca9feafdc1f6a6fe7a81a04456886412b0c293095d0721a33698279a5110",
-  "byte_size": 99507,
-  "title": "Polling Location Finder | Duval County Elections, FL Official Website",
+  "fetched_at": "2026-10-24T03:39:56Z",
+  "html_sha256": "d937590666048f45e73940d6c8f57d96bc5c13887b92f70ca1769ff5a0974772",
+  "text_sha256": "8da64f4973276d5f2d50d2a471e5f6d931eb54f6f87282015b9ce8fff357b0de",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 5
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

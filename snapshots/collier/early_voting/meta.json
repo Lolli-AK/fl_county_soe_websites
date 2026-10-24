@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.colliervotes.gov/202/Vote-Early"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T21:06:16Z",
-  "html_sha256": "420a50d25a810c5e52321219a3513370a72ec748dbe521d32c15b40e5b158164",
-  "text_sha256": "369a286513ff4b78022ccf47a36e09208cf21c5562a6506e5ff4864619c21826",
-  "byte_size": 70850,
-  "title": "Vote Early | Collier County Elections, FL",
+  "fetched_at": "2026-10-24T03:39:56Z",
+  "html_sha256": "9f61e488f87a9375f8cd7f469eb0f08d485b90713ed7c06829c036e8895c62e6",
+  "text_sha256": "6f4d4c8e8dd674991db9df30e54d4dee5bee13e7b4eebb047c7fe9e6cf794474",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

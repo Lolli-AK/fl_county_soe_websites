@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.colliervotes.gov/165/Find-My-Precinct"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T21:06:16Z",
-  "html_sha256": "369180e754316b5a72ace71fd2bc48a66402a25445fcba9b8bc58c920428cfb6",
-  "text_sha256": "dab25ad0828957e23f8294129f984731489b01b7395a6edc0f358a1bc3efb782",
-  "byte_size": 83610,
-  "title": "Find My Precinct | Collier County Elections, FL",
+  "fetched_at": "2026-10-24T03:39:56Z",
+  "html_sha256": "1dd2539e67f5b8a9f24d3b958b87ab4d41b222dbccbb2f6457e302a790cf2123",
+  "text_sha256": "0631169624e37f7e6f3c26fb55a7862cddbe673e5477846327cb766770126096",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

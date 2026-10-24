@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votealachua.gov/Calendar.aspx?EID=359"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T21:06:16Z",
-  "html_sha256": "6c3cbcb26cf25010ec61b18975c2d2c129b62f10311b5dc63034fa079169a51b",
-  "text_sha256": "ca0845c01beee2bc96d06c4a24297a8a45724efb5fd27b2867603fbf55e6dd90",
-  "byte_size": 96769,
-  "title": "Calendar • 2026 Primary Election Early Voting Dates",
+  "fetched_at": "2026-10-24T03:39:56Z",
+  "html_sha256": "0ee3f329ff67f28a058e42facb5bce78f52127862bdde8c87f6b6a280908f9eb",
+  "text_sha256": "021a040132cdc95349faa88e8b3a6d43654605e4cdaa6ec153a341fd531f8589",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

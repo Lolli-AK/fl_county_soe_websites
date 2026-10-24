@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votealachua.gov/207/Precinct-Voting"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T21:06:16Z",
-  "html_sha256": "830f6a0293097699a00d2f350d6fa9f8abaaa8b6167e2f775f2dfe79a04e711f",
-  "text_sha256": "f40d20a8566c81e9e125a52cfd7cc045ea66efaff6803a42a964475db3ce00dd",
-  "byte_size": 44367,
-  "title": "Precinct Voting | Alachua County Elections, FL",
+  "fetched_at": "2026-10-24T03:39:56Z",
+  "html_sha256": "5223b13b7aaf2163b61af301d9ad1e32026f0728fbe0d8a9f5c631c59b2a4c4a",
+  "text_sha256": "c9f8edacfd7c0cc0d62e3d3819f49789bbc424ae197af9f26666b50e47f94de8",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

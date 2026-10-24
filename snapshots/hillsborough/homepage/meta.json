@@ -7,15 +7,15 @@
     "https://www.votehillsborough.gov",
     "https://www.votehillsborough.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T21:06:16Z",
-  "html_sha256": "0ebb9da4f3a2dfc6f820eabc2042fa09a1e4e3e79f3a48b515b56c19731683b0",
-  "text_sha256": "9859992ae048dcda326306efcf6f153190ed27e9f63eb2480599282f9b751e8c",
-  "byte_size": 59049,
-  "title": "Hillsborough County Elections, FL | Official Website",
+  "fetched_at": "2026-10-24T03:39:56Z",
+  "html_sha256": "1f35fe3cd5aa727308a5c42c25dac3ec445ef6bd63ef1987ff22ada6743b8d2a",
+  "text_sha256": "237d663ac0bc112228016a1e5608b503980a31eed0ad44f392baf6713837f286",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

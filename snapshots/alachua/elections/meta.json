@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votealachua.gov/258/Upcoming-Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T21:06:16Z",
-  "html_sha256": "e14a8b3fb01e80b8886eca552b32273d714f7618090e6acc796af081f16cf061",
-  "text_sha256": "5c0a09213a69b4628caf0e5f7dd8bd916ac34c569276237fbbaf9a51b102a94a",
-  "byte_size": 44047,
-  "title": "Upcoming Elections | Alachua County Elections, FL",
+  "fetched_at": "2026-10-24T03:39:56Z",
+  "html_sha256": "f3490f586e10b9fdc03fec19fde577766469b6ec0efa5c2fd366c535ab69810e",
+  "text_sha256": "237ecffa8b9551c6b7d753ce42511f85ca36c58bf0c48e8a10d0e06324e798c1",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
