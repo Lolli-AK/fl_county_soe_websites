@@ -7,15 +7,15 @@
     "https://www.polkelections.gov",
     "https://www.polkelections.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T21:06:16Z",
-  "html_sha256": "095da7fea6e89a3a1d4c823be8e16190e1973d5dcca716cb2f7a10e70522205d",
-  "text_sha256": "9cf6f694614b49f74a6bcb0e9dd92f661dfd10a3233a748ce99a593563758a26",
-  "byte_size": 108314,
-  "title": "Polk County SOE, FL | Official Website",
+  "fetched_at": "2026-10-24T04:21:11Z",
+  "html_sha256": "89f678d3597d60238e7def6e7e20d54837b63d3b107407607bcac2600fb40e5e",
+  "text_sha256": "0986580e0d4b1f8af6f7f9f9d968cf6c340d71e4891dad0755cc3095808d6d50",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

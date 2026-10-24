@@ -7,25 +7,23 @@
     "https://wcsoe.gov/early-voting/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T21:06:16Z",
-  "html_sha256": "6f4baf3bffb1551e0386a12dc98302d66fa888d45ddbca9250b70e3c48431958",
-  "text_sha256": "e5f2f3505550da8e7b192e3de05b618cfbb543839df474cc4fa8f8c63d036c24",
-  "byte_size": 61206,
-  "title": "Early Voting – Washington County (FL) Supervisor of Elections",
+  "fetched_at": "2026-10-24T04:21:11Z",
+  "html_sha256": "3a8e26c3d8239eef36fa1ed2d548f42d2ae326d5bca94c231253ea9964205ada",
+  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
+  "byte_size": 488,
+  "title": "One moment, please...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

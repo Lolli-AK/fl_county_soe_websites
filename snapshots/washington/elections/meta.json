@@ -7,23 +7,25 @@
     "https://wcsoe.gov/election-information/dates-and-deadline/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-23T21:06:16Z",
-  "html_sha256": "3a8e26c3d8239eef36fa1ed2d548f42d2ae326d5bca94c231253ea9964205ada",
-  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
-  "byte_size": 488,
-  "title": "One moment, please...",
+  "fetched_at": "2026-10-24T04:21:11Z",
+  "html_sha256": "05d77b1e0a3f4a2b392271e21d198b13024a5c7210493b55b2b94c7d23c16c28",
+  "text_sha256": "b5691f153b1056e8cee1c93b3920251c8d340467a408e1f646552d31a0f47102",
+  "byte_size": 66690,
+  "title": "Dates and Deadline – Washington County (FL) Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 6
   },
   "error": null
 }

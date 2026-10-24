@@ -7,26 +7,24 @@
     "https://elections.sumtercountyfl.gov",
     "https://elections.sumtercountyfl.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T21:06:16Z",
-  "html_sha256": "d104e0d7a9a41427ee8132593fb5e38f0fecf8d69ce119084603302bf40f7282",
-  "text_sha256": "e1af3594fe9a0de04813b7a6ceebdbb6c42aeb0b22d9e86a76fbc843a2a15e78",
-  "byte_size": 97014,
-  "title": "Sumter County Elections, FL | Official Website",
+  "fetched_at": "2026-10-24T04:21:11Z",
+  "html_sha256": "d43f794d11ebee93af59c1f64810321acdd65fb10e3c745532bbdecb41f89c86",
+  "text_sha256": "9392aacc0944f9faac0ff491a8dec070b9dcb73dffcede26fe37e698d89e06a2",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

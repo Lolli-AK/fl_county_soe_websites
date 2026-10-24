@@ -6,30 +6,24 @@
   "redirect_chain": [
     "https://www.votepalmbeach.gov/179/Military-Overseas-Voters"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T21:06:16Z",
-  "html_sha256": "810d58e1b96268841867798668484f1397c558f4dea414e7aa3d01ca0485bd84",
-  "text_sha256": "49d2f3446e5860b83e17d59229be0b197440b968c2e8202da73e70f5c774b60f",
-  "byte_size": 84636,
-  "title": "Military & Overseas Voters | Palm Beach County Elections, FL",
+  "fetched_at": "2026-10-24T04:21:11Z",
+  "html_sha256": "ebc690e7a50262ff22a67206e732a1471713c0834dd00e316de704e335fcafbb",
+  "text_sha256": "c9fcf69c2e00e9fb05706af13f9bda1c50530f0cf2876219675170aad3b6d34c",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava",
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 29
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

@@ -7,15 +7,15 @@
     "https://www.sarasotavotes.gov",
     "https://www.sarasotavotes.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T21:06:16Z",
-  "html_sha256": "36b23e029a8d2eca3945c544a68f8f18b04e0019fd8fa4ac00e8a64b2afcc7dc",
-  "text_sha256": "9841504b2e3fbaa7e936d7ab0538bae5c4b8aaad1ac60ff54a95de1b6665f0c9",
-  "byte_size": 95135,
-  "title": "Sarasota County Supervisor of Elections, FL | Official Website",
+  "fetched_at": "2026-10-24T04:21:11Z",
+  "html_sha256": "1e4640075edc7ef2a662ceca5aefe00a329306cfcdce1e59fbe7f274180e9804",
+  "text_sha256": "b1d7c19030302042d327264f2e5423ca647a26d51cff130c03b090d8ad5c6782",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

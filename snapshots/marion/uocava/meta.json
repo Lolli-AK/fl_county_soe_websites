@@ -6,30 +6,24 @@
   "redirect_chain": [
     "https://www.votemarion.gov/318/Military-Overseas"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T21:06:16Z",
-  "html_sha256": "ba8ee9f34af0c1effd1fe86fc0d062798ba28f7ab49ea6c8bb4d28ef42f427bd",
-  "text_sha256": "fe4890d810601597cf90cf8d5274da9c6984b46059ca45fcb6eb6c56f9a1503e",
-  "byte_size": 61474,
-  "title": "Military / Overseas | Marion County Elections, FL",
+  "fetched_at": "2026-10-24T04:21:11Z",
+  "html_sha256": "a3dec68861198b5b1f8acd58163e96708a3b8b7403932d16f77e5826549005a0",
+  "text_sha256": "2a328946cc8a6e02f8bc4237b37697c1540b84f609a2cb216f45c2a2827b6e32",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava",
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 38
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
