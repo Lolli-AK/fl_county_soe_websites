@@ -1,5 +1,6 @@
 Hernando County SOE, FL | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Election Information
 Voter Information
@@ -16,10 +17,16 @@ Select Language
 ​
 ▼
 Active Registered Voters:
+10/05/26
 Democrats:
+30,673
 Republicans:
+71,539
 Other:
+35,873
 Total:
+138,085
+NOTE: Election Books are closed. Totals are as of Book Closing
 Sample Ballots Now Available!
 Sample ballots for the 2026 General Election are now available.
 Check the
@@ -167,11 +174,11 @@ Privacy Policy
 /QuickLinks.aspx
 Government Websites by
 CivicPlus®
-Loading
-Loading
+Early Voting in Hernando County
+Early Vo
+ting in Hernando County begins October 22nd through October 31st, 8:00 A.M. to 6:00 P.M.
 Do Not Show Again
 Close
-[]
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate

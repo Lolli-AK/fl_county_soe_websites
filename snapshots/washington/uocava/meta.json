@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-24T10:27:33Z",
-  "html_sha256": "7ad049094488507ea3e2afd69dd1d80e2dff8b9b77add49b361057c6c4187308",
-  "text_sha256": "0d676badc75cc4e4b552a3eead3a72be0603bb2ae705b1a375f02390b81909ad",
-  "byte_size": 67803,
+  "fetched_at": "2026-10-24T12:19:13Z",
+  "html_sha256": "d70fb6051b61bae8c8df5bfd0d37bd229f8123b3a85888e75649915f31283333",
+  "text_sha256": "8d1ae3bc5217feb4ffa5d0d609d98b5d2e05945dc3793fc2e161a0a6c9068ae8",
+  "byte_size": 65926,
   "title": "Military & Overseas Voting – Washington County (FL) Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
@@ -28,7 +28,7 @@
       "military_overseas_voter",
       "citizen_abroad"
     ],
-    "count": 21
+    "count": 20
   },
   "error": null
 }
