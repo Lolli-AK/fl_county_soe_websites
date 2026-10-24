@@ -119,11 +119,6 @@ Track
 My Ballot
 Calendar
 All Events
-Sat,
-Oct
-24,
-2026
-Early Voting for the General Election
 Sun,
 Oct
 25,
@@ -137,6 +132,11 @@ Early Voting for the General Election
 Tue,
 Oct
 27,
+2026
+Early Voting for the General Election
+Wed,
+Oct
+28,
 2026
 Early Voting for the General Election
 View All Events

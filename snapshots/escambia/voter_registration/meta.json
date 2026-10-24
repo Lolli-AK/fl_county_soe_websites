@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-24T12:19:13Z",
-  "html_sha256": "ced7a10c617ff708ae8d0d50fac6b6470953f02cf6bd767926e2d9cbb2737aec",
+  "fetched_at": "2026-10-24T15:32:11Z",
+  "html_sha256": "feb0f98efe63c7b70cd16eeb4f384984cf54addea4f27e7f8c7dd6bc85a40ac6",
   "text_sha256": "ae63fc1dbd80b1adc464406bbf05509c7c68390f9fdeb97b5b7e9d3a9a8374db",
-  "byte_size": 43360,
+  "byte_size": 43279,
   "title": "Register to Vote",
   "noncitizen_voting": {
     "present": false,

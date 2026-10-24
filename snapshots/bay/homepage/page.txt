@@ -163,15 +163,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(10/23/2026)
+(10/24/2026)
 Democrats
-24,169
+24,181
 Republicans
-75,647
+75,671
 Other
-29,289
+29,302
 Total
-129,105
+129,154
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -194,9 +194,10 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 22 hours ago
-Don't miss the opportunity to receive your commemorative America 250 "I Voted" sticker while supplies last.
-Let's celebrate!! 🎉🎉 Get out and vote!!
+posted 1 hour ago
+💪💪Start your weekend strong!! Early Voting continues through the weekend including Sunday! You can drop off your mail ballot or vote in person at any Early Voting site until October 31st.
+🗳Early Voting Hours: Supervisor of Elections Office 8:30AM-6PM, All other locations 10AM-6PM.
+🗳Bay County voters can vote at any of the eight Early Voting sites.
 View Facebook Post
 (opens in a new tab)
 Public Notices
