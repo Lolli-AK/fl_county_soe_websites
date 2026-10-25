@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-25T12:50:51Z",
-  "html_sha256": "83b99b753f9b7b17f66aed7b8b9307c82919e904e657dbacc1b3935830bafa7b",
+  "fetched_at": "2026-10-25T15:41:56Z",
+  "html_sha256": "c99ec7d8efee13880b115a8b0a94ceb833380a56f6deccf5627d986611a5b1ae",
   "text_sha256": "5c0a09213a69b4628caf0e5f7dd8bd916ac34c569276237fbbaf9a51b102a94a",
-  "byte_size": 44503,
+  "byte_size": 44059,
   "title": "Upcoming Elections | Alachua County Elections, FL",
   "noncitizen_voting": {
     "present": false,

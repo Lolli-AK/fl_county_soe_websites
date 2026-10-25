@@ -175,11 +175,6 @@ S
 30
 31
 All Events
-Sun,
-Oct
-25,
-2026
-Early Voting for the General Election
 Mon,
 Oct
 26,
@@ -193,6 +188,11 @@ Early Voting for the General Election
 Wed,
 Oct
 28,
+2026
+Early Voting for the General Election
+Thu,
+Oct
+29,
 2026
 Early Voting for the General Election
 View All Events
