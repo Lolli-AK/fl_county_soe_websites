@@ -129,15 +129,15 @@ Tim Bobanic
 Active Registered Voters as of:
 10/25/2026
 Republican
-208,693
+208,759
 Democratic
-113,084
+113,150
 Non-Partisan
-107,621
+107,669
 Others
-19,407
+19,425
 Total
-448,805
+449,003
 2026 General Election Early Voting
 Early Voting for the 2026 General Election runs through Saturday, October 31. Voters may vote at any Early Voting site.
 View Early Voting Locations and Hours

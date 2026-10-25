@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-25T03:37:26Z",
-  "html_sha256": "7f37f1434a1accc0f462af888a2d15d02fbd18bfc72c671e693bfe11d1a6c172",
+  "fetched_at": "2026-10-25T10:54:52Z",
+  "html_sha256": "f8e0ed787559a540b3d7d2aed6a8fa9662f77ec4b4b37eae74c52018b9d2bd39",
   "text_sha256": "671068b0feeeebbbe7bad11d2df4601253e9561ed705c73e05b651a7cb96a209",
-  "byte_size": 55466,
+  "byte_size": 55447,
   "title": "Elections – Vote Osceola",
   "noncitizen_voting": {
     "present": false,

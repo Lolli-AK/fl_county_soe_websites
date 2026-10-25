@@ -20,15 +20,15 @@ Voter statistics in Collier County
 As of:
 10/25/26
 Democrats:
-51,819
+51,814
 Republicans:
-147,565
+147,564
 No Party Affiliation:
-58,450
+58,452
 Other:
-8,733
+8,731
 Total:
-266,567
+266,561
 Vote by Mail
 Request My Vote-by-Mail Ballot
 Track My Vote-by-Mail Ballot

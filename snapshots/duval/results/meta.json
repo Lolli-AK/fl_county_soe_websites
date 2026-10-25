@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-25T03:37:26Z",
-  "html_sha256": "1eea10a16f3a9fb9ecc492be88ee6a29bf2b086a843618fb30e826c4fe64feb5",
+  "fetched_at": "2026-10-25T10:54:52Z",
+  "html_sha256": "e1ca411e11e731c85806377b96d9dd5bd770db8003a0fed9a1e7eb77738b703c",
   "text_sha256": "cc4b7611f5335ea04be82aec2875ce2d01e75c6d4f9a3b9ba8c30976d3f96103",
-  "byte_size": 69379,
+  "byte_size": 69451,
   "title": "Data/ Maps/ Past Election Results | Duval County Elections, FL Official Website",
   "noncitizen_voting": {
     "present": false,

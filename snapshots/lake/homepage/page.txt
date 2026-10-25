@@ -43,15 +43,15 @@ View All News
 As of:
 10/25/26
 Democrats:
-70,657
+70,690
 Republicans:
-136,161
+136,186
 No Party Affiliation:
-66,728
+66,768
 Other:
-11,033
+11,042
 Total:
-284,579
+284,686
 Calendar
 Stay up to date
 Important Dates

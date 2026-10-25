@@ -337,13 +337,13 @@ Supervisor of Elections
 Monroe County
 Active Registered Voters
 Democratic
-14,831
+14,835
 Republican
-25,281
+25,282
 Others
-14,888
+14,889
 Total
-55,000
+55,006
 Last updated 2026-10-25
 Monroe County Supervisor of Elections
 The Official Website of Monroe Co FL Supervisor of Elections
@@ -413,14 +413,8 @@ Your Vote-by-Mail ballot must be received by, but not later than, 7:00pm on Elec
 Upcoming Elections
 View Upcoming Elections
 Dates to Remember
-Columbus Day - All Offices Closed
-10/12/2026
-Logic & Accuracy (L&A) Testing
-10/13/2026 10:00 AM - 2:00 PM
 Early Voting for General Election
 10/19/2026 - 10/31/2026
-Last Day to Request a Vote-by-Mail Ballot to be mailed
-10/22/2026
 Canvassing the Vote-by-Mail Ballots
 10/26/2026 - 10/30/2026
 General Election
@@ -437,6 +431,8 @@ Manual Audit
 11/18/2026
 Thanksgiving - All Offices Closed
 11/26/2026 - 11/29/2026
+Christmas - All Offices Closed
+12/25/2026 - 12/27/2026
 View All
 The Honorable Sherri Hodies
 Supervisor of Elections,
