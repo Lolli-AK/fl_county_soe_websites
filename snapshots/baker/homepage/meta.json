@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://votebakerfl.gov"
   ],
-  "http_status": 200,
+  "http_status": 522,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-25T20:30:04Z",
-  "html_sha256": "59e4d8cb3d42ff31d3ab25d300cabd08a0775526dda6f5d36a404f60b659b078",
-  "text_sha256": "3e4add6d8527e10f06efd1bf876825569bdd17d40309614dfeba9d2b38a7c291",
-  "byte_size": 23947,
-  "title": "Baker County Supervisor of Elections � Civic Template",
+  "fetched_at": "2026-10-25T23:03:01Z",
+  "html_sha256": "3cd424ce879cff8b57d89fe6d4a23c0f8b417988308bc3d207c6ab30180ce00d",
+  "text_sha256": "e23b9ac4b2d1fc0ef5be89322c0d1f897e731ab4284f3603214526c5387420c1",
+  "byte_size": 6885,
+  "title": "votebakerfl.gov | 522: Connection timed out",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

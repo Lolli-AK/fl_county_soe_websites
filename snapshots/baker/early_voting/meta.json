@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://votebakerfl.gov/early-voting/"
   ],
-  "http_status": 200,
+  "http_status": 522,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-25T20:30:04Z",
-  "html_sha256": "55f14ba70c2b6016d03c707bae458894c13e01b3a26310e73faaa13e5e1ad1db",
-  "text_sha256": "22d53740c2ff997722b644269e4d4ebdc76cfa0ad9c727181a7e855c33c1ee5e",
-  "byte_size": 13950,
-  "title": "Baker County Supervisor of Elections",
+  "fetched_at": "2026-10-25T23:03:01Z",
+  "html_sha256": "81d7b574fd6ebfc477db42156ff8764ed5a75a6f02579ec1c78eadbb2b4181d9",
+  "text_sha256": "0a502c8d46fa8fcc8f0eb084d63e173a9b7b96eedbc0ad19b44ef42530e6abc7",
+  "byte_size": 6885,
+  "title": "votebakerfl.gov | 522: Connection timed out",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

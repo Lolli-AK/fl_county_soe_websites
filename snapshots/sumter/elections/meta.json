@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-25T20:30:04Z",
-  "html_sha256": "c1ac1ba9efde923585d8158de482d5f97397b6c5c8877072e75a6136e5c9e398",
+  "fetched_at": "2026-10-25T23:03:01Z",
+  "html_sha256": "4b00d4a6870e3df57238125a441333ec469bceaf8e8681b832a06f142b6793d4",
   "text_sha256": "bdefcf929f1a1881ef061e9d5e66d2fec01de7da3127ec1fe7c4bfc661737c59",
-  "byte_size": 75796,
+  "byte_size": 75797,
   "title": "Upcoming Election Information | Sumter County Elections, FL",
   "noncitizen_voting": {
     "present": false,
