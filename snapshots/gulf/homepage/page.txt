@@ -127,17 +127,17 @@ Track My Ballot
 Early Voting
 Voting Locations
 Active Registered Voters
-(10/24/2026)
+(10/25/2026)
 Democrats
 2,238
 Republicans
-7,305
+7,303
 No Party Affiliation
-1,266
+1,267
 Other
-396
+398
 Total
-11,205
+11,206
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -153,7 +153,7 @@ Early Voting - General Election
 All Upcoming Dates
 Stay Up to Date
 Gulf County Supervisor of Elections
-posted 16 hours ago
+posted 20 hours ago
 WAY TO GO Gullf county voters! Today was the first day of early voting, and you showed up!
 353 ballots cast at our Port St. Joe early voting
 location
