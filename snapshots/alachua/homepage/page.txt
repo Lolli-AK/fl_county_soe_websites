@@ -1,5 +1,4 @@
 Alachua County Elections, FL | Official Website
-Loading
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
@@ -39,7 +38,7 @@ Christmas Day Office Closure
 View All Events
 /Calendar.aspx
 As of:
-10/24/26
+10/25/26
 Democrats:
 74,920
 Republicans:
@@ -86,3 +85,4 @@ Loading
 Loading
 Do Not Show Again
 Close
+[]

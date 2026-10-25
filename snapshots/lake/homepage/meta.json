@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T22:57:07Z",
-  "html_sha256": "d9626fc4902a8887e3e3da7990c920b80c1e83eb67b7a53763f95a013d2a7133",
-  "text_sha256": "6cff08397280ce9db511b4769f99535439c79a80cc0e50fa52ce1c60aca77486",
-  "byte_size": 134986,
+  "fetched_at": "2026-10-25T03:37:26Z",
+  "html_sha256": "a1dbfb9f9a6366a58c5aa6800c4f4d5479e156d4a9029b6d942dcfea07a1ce22",
+  "text_sha256": "704b1bc470d2e2a5f84eb7eb559717716d756876baf625a60c9c177eede9463c",
+  "byte_size": 132577,
   "title": "Lake County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
@@ -22,11 +22,9 @@
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }
