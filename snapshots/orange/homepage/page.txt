@@ -173,45 +173,45 @@ Read More
 View Calendar
 VOTER STATISTICS
 Registered Active Voters
-as of 10/24/2026
+as of 10/25/2026
 Switch to details
 Switch to summary
 Party
 Count
 Percentage
 Dem.
-322,383
-39.11%
+322,588
+39.12%
 Rep.
-228,526
+228,553
 27.72%
 Other
-33,380
+33,387
 4.05%
 NPA
-239,983
+240,045
 29.11%
 Total
-824,272
+824,573
 100%
 Party Name
 Count
 Florida Democratic Party
-322,383
+322,588
 NO PARTY AFFILIATION
-239,983
+240,045
 Republican Party Of Florida
-228,526
+228,553
 Independent Party of Florida
-18,646
+18,652
 Boricua Party
 3,130
 America First Party of Florida
-2,583
+2,584
 Conservative Party of Florida
-2,471
+2,472
 Libertarian Party of Florida
-2,109
+2,108
 Constitution Party of Florida
 1,080
 Coalition With A Purpose Party
@@ -233,15 +233,15 @@ Jeffersonian Party of Florida
 MGTOW Party
 6
 Total
-824,272
+824,573
 Vote By Mail Standing Request Totals
-as of 10/24/2026
+as of 10/25/2026
 Election Name
 Count
 2026 General Election
-128,154
+128,150
 Permanent VBM requests 2025-2026
-117,992
+117,985
 BY THE NUMBERS
 Get a quick snapshot of elections in Orange County. We highlight key statistics that capture the scale, accuracy, and impact of our election operations.
 8
@@ -253,6 +253,9 @@ Voting precincts ready to serve voters across Orange County.
 50,020
 Voters tracking their Vote-by-Mail ballot using BallotTrax.
 Latest News
+Public Notice – Notice of Change in 2026 Polling Locations
+Click here to download Public Notice – Notice of Change in 2026 Polling Locations.
+READ MORE
 Fact vs. Fiction: What You Need to Know About Ballot Markings
 Misinformation about how ballots are handled is circulating once again on social media, raising questions…
 READ MORE
@@ -267,9 +270,6 @@ The Canvassing Board recessed at 12:40 PM. The Board will resume at 4:45 PM for�
 READ MORE
 Orange County Canvassing Board Machine Recount Notice – CD 11 – Republican Primary – 2026
 NOTICE If a recount is ordered, per § 102.141, F.S., the Orange County Canvassing Board…
-READ MORE
-Public Notice: Canvassing Board Recess – August 18, 2026
-The Canvassing Board Recessed at 4:47 PM. The Board will resume at 6:45 PM for…
 READ MORE
 VIEW MORE NEWS
 SUBMIT A PUBLIC RECORDS REQUEST

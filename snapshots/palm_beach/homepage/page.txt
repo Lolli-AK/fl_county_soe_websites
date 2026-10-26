@@ -62,13 +62,13 @@ Full Calendar
 Mon, Oct. 19 - Sun, Nov. 1
 Early Voting - 2026 General Election
 Mon, Oct. 26
-Public Viewing
-Mon, Oct. 26
 Opening/Tabulation/Duplication and Audit Scanning (as needed)
 Mon, Oct. 26
 Canvassing Board Meeting
 Tue, Oct. 27
 Ballot Audit Scanning
+Wed, Oct. 28
+Public Viewing
 View All Events
 /Calendar.aspx
 Election Dates and Deadlines
@@ -84,15 +84,15 @@ Active Registered Voters
 As of:
 10/26/26
 Democrats:
-315,560
+315,624
 Republicans:
-306,643
+306,665
 No Party Affiliation:
-234,500
+234,518
 Minor Parties:
-36,266
+36,282
 Total:
-892,969
+893,089
 Contact Us
 Main Office
 4301 Cherry Road, West Palm Beach, FL 33409

@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://votebakerfl.gov/precinct-finder/"
   ],
-  "http_status": 522,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-26T03:40:32Z",
-  "html_sha256": "5810ad379db50be786ffe66c8fd0c7b4434253fa13899c5013768a20947667cf",
-  "text_sha256": "8b8f598c7cf59bf920abd52130c467d58612993fc6295479827a743b365129e2",
-  "byte_size": 6883,
-  "title": "votebakerfl.gov | 522: Connection timed out",
+  "fetched_at": "2026-10-26T12:25:40Z",
+  "html_sha256": "2b526761bd348de361c853f0a4dc803d72bd2cad2bc5435c39acf3c13ae2a10a",
+  "text_sha256": "e9748aa7d87265b56d9eee6e0ff0c8ca91b8c0ca9c60546d46dd46f8253410cc",
+  "byte_size": 13206,
+  "title": "Baker County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

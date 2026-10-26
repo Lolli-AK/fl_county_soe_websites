@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://votebakerfl.gov/election-night-archive/"
   ],
-  "http_status": 522,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-26T03:40:32Z",
-  "html_sha256": "52bf93035c5ab78e9cd4eebeddae24599a563fb4f8fadae8483227aa62b690f7",
-  "text_sha256": "65c914adaa2cc749cc27da3450559e2cba87d4f986bb9b799f9e96c59cc35164",
-  "byte_size": 6883,
-  "title": "votebakerfl.gov | 522: Connection timed out",
+  "fetched_at": "2026-10-26T12:25:40Z",
+  "html_sha256": "c5a73fa01885cfd834b1bd4b592bced555b743b4e94632ee14651af1406488ae",
+  "text_sha256": "e60d5aa0b01bf3fdce2548fec6286d391c1d2c054541518312323bf8abc915a8",
+  "byte_size": 13045,
+  "title": "Baker County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
