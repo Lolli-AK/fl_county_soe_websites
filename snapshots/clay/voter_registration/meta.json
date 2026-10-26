@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://clayelections.gov/voter-information/register-to-vote-update-info/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-25T23:03:01Z",
-  "html_sha256": "fd492caf4c81941c231f2e72065dca18862b4a4cbad6d14513ad9d5111ab1b58",
-  "text_sha256": "aceb1d24804440167aeb7d9f4f52cc82802647dcd815cd96adc25d868805eb6a",
-  "byte_size": 73308,
-  "title": "Register to Vote/Update Your Information - Clay County Supervisor of Elections",
+  "fetched_at": "2026-10-26T03:40:32Z",
+  "html_sha256": "95e17e1e2f0b6ebf2c7160dfc0d330c9494d084fc827fa57033945d275267c0b",
+  "text_sha256": "d44c878b16cb238c3c267f979438cd2a940ab62532af72961dde5e9cda9b23a4",
+  "byte_size": 1003,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content; headless_error: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://clayelections.gov/voter-information/register-to-vote-update-info/\", waiting until \"domcontentloaded\"\n"
 }

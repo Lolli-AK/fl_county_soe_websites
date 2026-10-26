@@ -2,20 +2,19 @@
   "county": "Collier",
   "page_type": "homepage",
   "requested_url": "https://www.colliervotes.gov",
-  "final_url": "https://www.colliervotes.gov/",
+  "final_url": "https://www.colliervotes.gov",
   "redirect_chain": [
-    "https://www.colliervotes.gov",
-    "https://www.colliervotes.gov/"
+    "https://www.colliervotes.gov"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-25T23:03:01Z",
-  "html_sha256": "a61ff894a8197e8bcd00e2174998af026cd4594678cc353961de0a499eaf14a4",
-  "text_sha256": "ca86d024ef04acaa9f186b5cd31c0b06ba0fcd7f74af8b81edc94b86cc3c8118",
-  "byte_size": 107215,
-  "title": "Collier County Elections, FL | Official Website",
+  "fetched_at": "2026-10-26T03:40:32Z",
+  "html_sha256": "300fdf68ef7f56e9ee9eaa7f4136b99e253e27cc029559e575209d8227e60a61",
+  "text_sha256": "2d874fc6e54743a424ac190c239db10230f5988f6e75336cd47d9463d52edecc",
+  "byte_size": 3338,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content; headless_error: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.colliervotes.gov/\", waiting until \"domcontentloaded\"\n"
 }

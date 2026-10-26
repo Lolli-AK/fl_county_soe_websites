@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-25T23:03:01Z",
-  "html_sha256": "ba536c2f3ba31d211d6677c584dd1e818fb22405d45111ef5e5219f31b43ea30",
+  "fetched_at": "2026-10-26T03:40:32Z",
+  "html_sha256": "21a212efce892dd062d6b4ed29db0bec32e59b7147408deb1a9597f7fc2f8c8c",
   "text_sha256": "42c8e96083e0d50926679dcca43fc2d5cd2b2047d972671ed2459ecb1e844345",
-  "byte_size": 132867,
+  "byte_size": 132857,
   "title": "Ways to Vote",
   "noncitizen_voting": {
     "present": false,

@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://clayelections.gov/election-information/early-voting-sites/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-25T23:03:01Z",
-  "html_sha256": "c22bcb1116e8140879472005096ac32539c57e03f775f023ca537922cf29a770",
-  "text_sha256": "d755b073882b39a395ba5c8493551a391a5df267b815b5b2c87548fea7087d8c",
-  "byte_size": 68029,
-  "title": "Early Voting Sites - Clay County Supervisor of Elections",
+  "fetched_at": "2026-10-26T03:40:32Z",
+  "html_sha256": "632b12b6723f59a3ee82c99f18b7eb265a35e4f17b26d16a96df2a2d89b5a22b",
+  "text_sha256": "d44c878b16cb238c3c267f979438cd2a940ab62532af72961dde5e9cda9b23a4",
+  "byte_size": 1003,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content; headless_error: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://clayelections.gov/election-information/early-voting-sites/\", waiting until \"domcontentloaded\"\n"
 }

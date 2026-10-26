@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-25T23:03:01Z",
-  "html_sha256": "739b3d94e3c231e031adc501796fd2d9c60e1aa5526f1dafb625b24f21d4f540",
+  "fetched_at": "2026-10-26T03:40:32Z",
+  "html_sha256": "1d7c1625cee333f27ce5806f2025262b15fbf019d5b6d0302c998c1ebf2e264a",
   "text_sha256": "65f14ce5998b7a58614e4e38ea4e1f57fe6a6eb36ed12b9d2629113a23d1f4d9",
-  "byte_size": 48296,
+  "byte_size": 48852,
   "title": "Election Info | Polk County SOE, FL",
   "noncitizen_voting": {
     "present": false,

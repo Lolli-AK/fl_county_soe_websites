@@ -82,7 +82,7 @@ View All Events
 /Calendar.aspx
 Active Registered Voters
 As of:
-10/25/26
+10/26/26
 Democrats:
 315,560
 Republicans:
