@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://clayelections.gov/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-26T12:25:40Z",
-  "html_sha256": "a69866010c8fead627f6e6ff9fc52f984f5058dfe784609d7f47b90c5a85bc61",
-  "text_sha256": "d44c878b16cb238c3c267f979438cd2a940ab62532af72961dde5e9cda9b23a4",
-  "byte_size": 1003,
-  "title": "Just a moment...",
+  "fetched_at": "2026-10-26T14:50:38Z",
+  "html_sha256": "158cc3a80b3e4a03dc6c5ae298d1e4019adaa22f64b7f3fe0d81985f86573147",
+  "text_sha256": "98192761f81c2fe0b221308dcb978a9404f88fb7c66fdf253056cd0ef4bdfb4d",
+  "byte_size": 126417,
+  "title": "Clay County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content; headless_error: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://clayelections.gov/\", waiting until \"domcontentloaded\"\n"
+  "error": null
 }

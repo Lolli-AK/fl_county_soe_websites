@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://clayelections.gov/Election-Information/Precinct-Finder/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-26T12:25:40Z",
-  "html_sha256": "fc6b538ef45eb40ab6a14bca2972f48e5226a4a5182012081e96683074af73ab",
-  "text_sha256": "d44c878b16cb238c3c267f979438cd2a940ab62532af72961dde5e9cda9b23a4",
-  "byte_size": 1003,
-  "title": "Just a moment...",
+  "fetched_at": "2026-10-26T14:50:38Z",
+  "html_sha256": "55cb9eeb8b067d7765eb34d3f053f31a8b4b6aa3003ade0133f4cff6e415c6fa",
+  "text_sha256": "8ca9021298d6b82c87473177744ae3e5fbcc8c40b018e067d5f3d4373e26c4cf",
+  "byte_size": 69413,
+  "title": "Precinct Finder - Clay County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content; headless_error: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://clayelections.gov/Election-Information/Precinct-Finder/\", waiting until \"domcontentloaded\"\n"
+  "error": null
 }

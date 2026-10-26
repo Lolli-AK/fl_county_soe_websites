@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-26T12:25:40Z",
-  "html_sha256": "1213b139e8f082fdb44ef610ddcaefc7c7b9e65a318357d1c01d6c1e841a927e",
+  "fetched_at": "2026-10-26T14:50:38Z",
+  "html_sha256": "e628202a6520af0a9953870becae19581593631c9a3b6b7a606614eef25073e2",
   "text_sha256": "583e1db47133221ce8212d4335b4297ec1d7612d29c5161d8e430e09cc32a9f1",
-  "byte_size": 74946,
+  "byte_size": 74516,
   "title": "Vote Early | Union County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

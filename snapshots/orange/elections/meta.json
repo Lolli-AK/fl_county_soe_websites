@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://voteorangefl.gov/upcoming-elections/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-26T12:25:40Z",
-  "html_sha256": "73a0205554bc658c221361f8d9cc01e91a99e78de093f5609996f609f4c5fc16",
-  "text_sha256": "808b6b7c365c3e2774696672fed22128bae3d5369e4e0ae1028222e6290e5420",
-  "byte_size": 80380,
-  "title": "Upcoming Elections in Orange County Florida | 2025-2026 Schedule",
+  "fetched_at": "2026-10-26T14:50:38Z",
+  "html_sha256": "224ac4b3deca082670a33d775b66d524d0e2cac86de1a0c97edbb7da0250bf14",
+  "text_sha256": "d44c878b16cb238c3c267f979438cd2a940ab62532af72961dde5e9cda9b23a4",
+  "byte_size": 1003,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content; headless_error: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://voteorangefl.gov/upcoming-elections/\", waiting until \"domcontentloaded\"\n"
 }
