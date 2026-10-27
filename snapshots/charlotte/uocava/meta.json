@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-27T15:10:48Z",
-  "html_sha256": "6a970f11f6f681ea7484e84c104cdcabb3ebe1e1f556afea1a920cd587051594",
+  "fetched_at": "2026-10-27T21:54:14Z",
+  "html_sha256": "a934f4a91fdb17eedcb474da1f3f460486d786597c037cc4ddd19b320c80a69d",
   "text_sha256": "f32318b8d0795d1e26598d67ee5377cb5d0addf49a848f64850594d0917d7d90",
-  "byte_size": 58423,
+  "byte_size": 57955,
   "title": "Military & Overseas Citizens Voting | Charlotte County Elections, FL",
   "noncitizen_voting": {
     "present": false,

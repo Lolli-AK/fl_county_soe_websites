@@ -146,7 +146,9 @@ The
 Federal Post Card Application (FPCA)
 is the form that permits UOCAVA citizens to simultaneously register and request absentee ballots in the state or territory where they last resided immediately prior to departing the United States, even if they no longer maintain a residence in that state.
 To register and request an absentee ballot in the State of Florida send a completed FPCA to the Supervisor of Elections office so that it arrives not later than 29 days before the election.
-If you experience any issues or have questions please contact FVAP’s call center at 1-800-438-VOTE (8683), DSN 425-1584, or at vote@fvap.gov.
+If you experience any issues or have questions please contact FVAP’s call center at 1-800-438-VOTE (8683), DSN 425-1584, or at
+[email protected]
+.
 If you maintain a Florida residence, you will receive a ballot containing all local, state, and Federal races for which you are eligible to vote.
 If you are or were a registered voter and no longer maintain a Florida residence but you intend to return, you will receive a ballot with all state and Federal races.
 If you were never registered in Florida and no longer maintain a Florida residence but this is the last place you lived, you will receive a ballot for Federal races only.
@@ -162,9 +164,9 @@ If you or a family member have been discharged or separated from the Uniformed S
 Mailed Ballots
 If you reside outside the U.S., your ballot will be mailed at least 45 days before a Primary or General election.
 Electronic Transmission of Ballots – Questions
-vote@fvap.gov
+[email protected]
 service
-ets@fvap.gov
+[email protected]
 If you are an overseas voter, you may request your ballots by fax or e-mail. Your request must include:
 Your Name
 Your date of birth
@@ -211,7 +213,7 @@ Fax
 Mailing Address
 Supervisor of Elections, P.O. Box 305, Crawfordville, Florida 32326
 Email
-wakullacountysoe@wakullavotes.gov
+[email protected]
 PLEASE NOTE – Under Florida law, email addresses are public records. If you do not want your email address released in response to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing. Florida Statute 668.6076.
 We are committed to keeping our site accessible to everyone and
 welcome feedback on ways to improve the site’s accessibility

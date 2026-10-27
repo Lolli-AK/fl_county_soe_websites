@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.votehighlands.gov/early-voting"
   ],
-  "http_status": 200,
-  "content_type": "text/html;charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-27T15:10:48Z",
-  "html_sha256": "2726f225d23bd8d308acd8a955e36d7d81bd2c9606eb2d7f4b513045f0782f88",
-  "text_sha256": "a501a33aae51647866d1219af9aaaee06847e5edbfd3fd69ce84e9bdde4115b9",
-  "byte_size": 122323,
-  "title": "Early Voting Information | Highlands County Supervisor of Elections | Sebring, FL",
+  "fetched_at": "2026-10-27T21:54:14Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)"
 }
