@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-27T08:43:21Z",
-  "html_sha256": "a36cdbbcab8c488883eaaea65f1d6238d5591f95e85fda636e8ea35bc120958f",
+  "fetched_at": "2026-10-27T13:44:11Z",
+  "html_sha256": "18ca67d752c0b49275c0e73a25f9a878e5c9a24948e49781d3031e719c507ab0",
   "text_sha256": "dab668a7cfd859ac60b762be1b171aed4ffb9cdc3d1bfb6638db5684b3c72176",
-  "byte_size": 128813,
+  "byte_size": 128812,
   "title": "Orange County Supervisor of Elections | Karen Castor Dentel | Florida",
   "noncitizen_voting": {
     "present": false,

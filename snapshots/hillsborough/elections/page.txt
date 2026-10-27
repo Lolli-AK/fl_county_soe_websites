@@ -1,6 +1,5 @@
 Alert Center • Hillsborough County Elections, FL • CivicEnga
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
-Loading
 Skip to Main Content
 Voting
 Elections
@@ -33,6 +32,7 @@ Show Archived
 Categories
 All Categories
 Election Info
+Live Edit
 Register to Vote or Update Info
 Request and Track Vote By Mail
 Plan Your Vote
@@ -79,5 +79,5 @@ Loading
 Loading
 Do Not Show Again
 Close
-Live Edit
+[]
 Explore your accessibility options
