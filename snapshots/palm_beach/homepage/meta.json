@@ -7,15 +7,15 @@
     "https://www.votepalmbeach.gov",
     "https://www.votepalmbeach.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-26T20:20:35Z",
-  "html_sha256": "48a5f692cbb3c3a86ac0094b0f7182cdcead97f5317af2d1fa8115f07e64b0d9",
-  "text_sha256": "d0d94db6242be7b128f0b38933eadef472fd84a369d7634d323054e12cfb6621",
-  "byte_size": 91456,
-  "title": "Palm Beach County Elections, FL | Official Website",
+  "fetched_at": "2026-10-27T00:15:48Z",
+  "html_sha256": "30878cc131d080bf895f8e95276a7f03cd0b2dc9f09c1b1c941cd3d370886f6e",
+  "text_sha256": "7d5802afcdb2b20b3d7c5be93b27bb059da3f8e71b5d6252feff5b3b5e898659",
+  "byte_size": 3332,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
