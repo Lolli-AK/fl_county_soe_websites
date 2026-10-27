@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-27T00:15:48Z",
-  "html_sha256": "fd0305e3929de2d902b845690b471b0794364e06867031f9d1b4d9d00372aff2",
+  "fetched_at": "2026-10-27T08:43:21Z",
+  "html_sha256": "8be5c95660c59783d14386b6e15fe1b4a123451f0103cd31ed7155f34b23fdac",
   "text_sha256": "d906969a6b4bc2c74c094aa71dcb3eea5da210c79ea09506f1838eeca14c97fc",
-  "byte_size": 58230,
+  "byte_size": 57774,
   "title": "Calendar • 2026 Primary Election Early Voting Dates",
   "noncitizen_voting": {
     "present": false,

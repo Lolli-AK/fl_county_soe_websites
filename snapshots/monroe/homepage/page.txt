@@ -337,13 +337,13 @@ Supervisor of Elections
 Monroe County
 Active Registered Voters
 Democratic
-14,839
+14,846
 Republican
-25,280
+25,277
 Others
-14,891
+14,890
 Total
-55,010
+55,013
 Last updated 2026-10-27
 Monroe County Supervisor of Elections
 The Official Website of Monroe Co FL Supervisor of Elections

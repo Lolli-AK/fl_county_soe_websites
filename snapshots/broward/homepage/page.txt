@@ -414,13 +414,13 @@ About Early Voting
 Vote by Mail Information
 As of
 10/27/26
-1,367,580
+1,367,694
 Eligible Voters
-593,696
+593,764
 Democrat
-317,589
+317,613
 Republican
-419,278
+419,300
 NPA
 37,017
 Other
