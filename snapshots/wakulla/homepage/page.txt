@@ -103,7 +103,6 @@ Honor Page
 Outreach
 Calendar of Events
 Links of Interest
-[rotating image slideshow removed for determinism]
 Joe Morgan
 Wakulla County
 Supervisor of Elections
@@ -126,7 +125,6 @@ Others
 Total
 0
 10/05/2026
-07
 Days until the November 3rd General Election
 Check out the current voter turnout for the upcoming November 3rd General Election below.
 Calendar of Events
@@ -137,18 +135,6 @@ October 31, 2026
 Canvassing Board Meeting starts at 1pm
 November 2, 2026
 View All Events
-Sample Ballot For General Election
-Spanish Available upon request.
-Click Here
-Constitutional Amendment Booklet
-From the Secretary of State. Spanish available upon request.
-Click Here
-Sample Ballot For General Election
-Spanish Available upon request.
-Click Here
-Constitutional Amendment Booklet
-From the Secretary of State. Spanish available upon request.
-Click Here
 Sample Ballot For General Election
 Spanish Available upon request.
 Click Here
@@ -209,7 +195,7 @@ Fax
 Mailing Address
 Supervisor of Elections, P.O. Box 305, Crawfordville, Florida 32326
 Email
-wakullacountysoe@wakullavotes.gov
+[email protected]
 PLEASE NOTE – Under Florida law, email addresses are public records. If you do not want your email address released in response to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing. Florida Statute 668.6076.
 We are committed to keeping our site accessible to everyone and
 welcome feedback on ways to improve the site’s accessibility

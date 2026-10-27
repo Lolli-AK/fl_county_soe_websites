@@ -163,15 +163,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(10/26/2026)
+(10/27/2026)
 Democrats
-24,193
+24,205
 Republicans
-75,698
+75,701
 Other
-29,313
+29,323
 Total
-129,204
+129,229
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -194,12 +194,16 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 22 hours ago
-🗳Voter Turnout!!
-Bay County Voters can stay up to date with the 2026 General Election voter turnout at
+posted 2 hours ago
+🗳Election Day is 1 Week Away!
+Know Before You Go!
+4 Ways to Ensure a Smooth Voting Process:
+🪪 Bring Acceptable Photo & Signature ID – Have the proper identification ready when you arrive at the polls.
+🏠 Make Sure Your Address Is Up To Date – You can call 850-784-6100 to update your residence address before heading to the polls.
+🔎 Review Your Sample Ballot – Take time to research the candidates and amendments. You can bring your sample ballot to the polls as a guide!
+📍 Find Your Election Day Polling Place – If you plan to vote on Election Day, verify your assigned polling location now.
+🗳 For voting locations, sample ballots, and additional election information, visit
 https://www.bayvotesfl.gov/
-.
-You’ll find real time Vote-by-Mail & Early Voting stats, & overall turnout throughout Election Day.
 View Facebook Post
 (opens in a new tab)
 Public Notices
