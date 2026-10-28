@@ -236,15 +236,15 @@ Where Do I Vote?
 My Sample Ballot
 Lafayette County
 Supervisor of Elections
-Active Registered Voter: 10/27/2026
+Active Registered Voter: 10/28/2026
 Democrats:
-0
+588
 Republicans:
-0
+3,347
 Others:
-0
+344
 Total:
-0
+4,279
 We acknowledge some content on this page may not be fully accessible. Please
 contact us
 for any help with accessibility.
@@ -317,7 +317,7 @@ HOURS
 : Monday-Friday, 8:00 am – 5:00 pm
 (386) 294-1261
 (386) 294-2164
-[email protected]
+travis@lafayettevotes.com
 ©2026 Copyright Lafayette County SOE |
 Privacy Policy
 |

@@ -1,5 +1,6 @@
 Military and Overseas Voters | Lee County Elections, FL
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Select Language
 Abkhaz
@@ -254,15 +255,15 @@ Powered by
 Translate
 Search
 Active Registered Voters:
-10/27/26
+10/28/26
 Democrats:
-110,082
+110,121
 Republicans:
-251,242
+251,342
 Other:
-146,085
+146,169
 Total:
-507,409
+507,632
 Back to Home
 Register to Vote
 Vote By Mail

@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.votesjc.gov/register-to-vote"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-27T21:54:14Z",
-  "html_sha256": "a146b463cf8376e58aeeb84e6ab324b9f2c9430a293c3249b398acd5a3b665c8",
-  "text_sha256": "1656b0fce17419931655f7414e8699064f7059675935986c0cf6b6613f9ebf70",
-  "byte_size": 188,
-  "title": "403 Forbidden",
+  "fetched_at": "2026-10-28T04:30:48Z",
+  "html_sha256": "62caa1e48d94f9c158b47628bcd6b858f39792fc41127ffab707eeca2aeea922",
+  "text_sha256": "c23e47469fb5621a4da4581f69df23c212d5c64d3a43db137104359c473f0855",
+  "byte_size": 149436,
+  "title": "Register to Vote | St. Augustine, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 4
   },
   "error": null
 }
