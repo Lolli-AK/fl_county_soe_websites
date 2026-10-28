@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-28T14:40:26Z",
-  "html_sha256": "e04cd595a0773fe55e10a5cba6f08ac3f6598324543e5924055c79a2c6f904dc",
+  "fetched_at": "2026-10-28T20:07:01Z",
+  "html_sha256": "e03725ae5a17078b968e2be535df58ec0277da574a603ec7d54e144ef5da0d7b",
   "text_sha256": "812ad27eea45440ccbffb6e6b3bc25e54309ec1e89c827df53959f8bb67d72e5",
-  "byte_size": 96134,
+  "byte_size": 96138,
   "title": "Military Overseas Voters Resources | Nassau County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

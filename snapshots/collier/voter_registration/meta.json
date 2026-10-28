@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.colliervotes.gov/161/Register-to-Vote-Update-Voter-Registrati"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-28T14:40:26Z",
-  "html_sha256": "fc4da135a30e79f8f7a0db9b81340192fc7a04e6a88f9f461958abea752d838d",
-  "text_sha256": "27a413b486f2f27f08828a42381be0b3a23ec01532b112259e77938cec2987f3",
-  "byte_size": 73719,
-  "title": "Register to Vote / Update Voter Registration | Collier County Elections, FL",
+  "fetched_at": "2026-10-28T20:07:01Z",
+  "html_sha256": "4f896d214813c3e725956f66b326184a7b3dbb9c693767c30fae1f6ba669771a",
+  "text_sha256": "13b03736b1ed59958ef6f8231f3ec4b520ca0ee8e2564084e3dea8f1c80a6542",
+  "byte_size": 2858,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

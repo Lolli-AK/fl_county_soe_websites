@@ -163,15 +163,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(10/27/2026)
+(10/28/2026)
 Democrats
-24,205
+24,218
 Republicans
-75,701
+75,724
 Other
-29,323
+29,339
 Total
-129,229
+129,281
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -194,7 +194,7 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 59 minutes ago
+posted 6 hours ago
 📣Haven't returned your Vote-by-Mail ballot yet? Don't wait, drop it off today at one of our 8 conveniently located Early Voting Sites!
 📣Remember, for your vote by mail ballot to count, it must be received by the Supervisor of Elections office no later than 7PM Election Night.
 🗳Make your voice heard. Return your ballot today!!

@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.voteosceola.gov/en-us/elections/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-28T14:40:26Z",
-  "html_sha256": "707946535cc216d98c2d72265d4c2666135361d1323f9817a67e12b01daf24e4",
-  "text_sha256": "671068b0feeeebbbe7bad11d2df4601253e9561ed705c73e05b651a7cb96a209",
-  "byte_size": 55401,
-  "title": "Elections – Vote Osceola",
+  "fetched_at": "2026-10-28T20:07:01Z",
+  "html_sha256": "6bef4f4a2fa0bb555516e2e9c804996f2fd1236d995305113b3a011a7f08bfad",
+  "text_sha256": "17bf4b58c1e7730e2dd991f72d590d16cb2279376de6a2c79ba2a4bab5fb7662",
+  "byte_size": 2848,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

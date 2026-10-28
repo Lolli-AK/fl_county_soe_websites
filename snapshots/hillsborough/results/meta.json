@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-28T14:40:26Z",
-  "html_sha256": "c01bf75054eb90dc6c6bacd1b4ad30790e83a884f8a8656bf4dff363b4fbaf0c",
+  "fetched_at": "2026-10-28T20:07:01Z",
+  "html_sha256": "1ea4149d858d18516f8ab341b7bfec1c67024c8ff6361765ccbf9cc38d899589",
   "text_sha256": "56ac555862ecb82f724ed6cb3b314a134025ba1d96bd46ca85082ffb729e77bb",
-  "byte_size": 125810,
+  "byte_size": 125811,
   "title": "Election Results | Hillsborough County Elections, FL",
   "noncitizen_voting": {
     "present": false,

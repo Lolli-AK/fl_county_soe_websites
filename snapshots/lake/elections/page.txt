@@ -1,6 +1,5 @@
 Election Information | Lake County Elections, FL
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
-Loading
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
@@ -15,6 +14,7 @@ Current Elections
 Notice of General Election
 Election Preparation Report 2026 General
 2026 General Election Canvassing Board Schedule
+2026 General Election Canvassing Board Members
 Current Candidates
 Voter Turnout 2026 General Election
 Information for Voting on Election Day
@@ -327,6 +327,7 @@ Zapotec
 Zulu
 Powered by
 Translate
+[]
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate
