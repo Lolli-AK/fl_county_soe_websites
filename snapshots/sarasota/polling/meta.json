@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-28T04:30:48Z",
-  "html_sha256": "51911e67a0e1b781ed570c99a127319846137ac103cd754ec1a369e20dde637a",
+  "fetched_at": "2026-10-28T12:17:28Z",
+  "html_sha256": "5e799062817ad6e5394437050306ec82a40163137db2eb3ff7f50e8b09871e86",
   "text_sha256": "29e812125b76e5563252afb32fb7de73c0b0a6ab420fc140bc6b7497eb374700",
-  "byte_size": 69322,
+  "byte_size": 68926,
   "title": "Find My Precinct and Polling Place | Sarasota County Supervisor of Elections, FL",
   "noncitizen_voting": {
     "present": false,
