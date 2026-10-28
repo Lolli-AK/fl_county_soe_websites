@@ -33,11 +33,18 @@ Financial Reports
 /QuickLinks.aspx
 Voter Demographics
 As of:
+10/05/26
 Democrats:
+68,109
 Republicans:
+140,554
 No Party Affiliation:
+51,349
 Other:
+11,256
 Total:
+271,268
+NOTE: Election Books are closed. Totals are as of Book Closing
 News & Events
 News Flash
 2026 General - Canvassing Board Cancellation Notice
@@ -46,9 +53,9 @@ about 2026 General - Canvassing Board Cancellation Notice
 2026 General - Canvassing Board Cancellation Notice
 Additional Info...
 about 2026 General - Canvassing Board Cancellation Notice
-2026 General Election Sample Ballot
+2026 General - Canvassing Board Cancellation Notice
 Additional Info...
-about 2026 General Election Sample Ballot
+about 2026 General - Canvassing Board Cancellation Notice
 View All News
 News Flash
 /CivicAlerts.aspx
@@ -96,7 +103,8 @@ S
 29
 30
 31
-There are no published events in current month.
+Fri, Oct. 30
+Canvassing Board Meeting
 View All Events
 /Calendar.aspx
 Marion County Election Center

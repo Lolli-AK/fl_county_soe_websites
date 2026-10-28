@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-28T12:17:28Z",
-  "html_sha256": "0a55dacd7f2ea9fa6fd4d655bcbc2e261d98ff6955f4f84ea84f00be0dbda9fe",
+  "fetched_at": "2026-10-28T14:40:26Z",
+  "html_sha256": "3ecd570f11a0f20272bd9867d0a384924b86f7b6bc3b411954cca0acb1696397",
   "text_sha256": "36f41d737b15805e5ae7458a0a6579d6d5231aa8930d5a84527effc2b5a49576",
-  "byte_size": 78638,
+  "byte_size": 78634,
   "title": "Early Voting Info | Nassau County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

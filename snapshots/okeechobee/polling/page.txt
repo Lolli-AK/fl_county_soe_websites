@@ -149,6 +149,7 @@ DAVID MAY
 SUPERVISOR OF ELECTIONS
 OKEECHOBEE COUNTY
 Select your party affiliation or use the Precinct Finder below to view a sample ballot.
+Sample Ballot
 REPUBLICAN
 DEMOCRATIC
 Precinct Finder
@@ -181,5 +182,8 @@ Rep: 12,535
 Oth: 914
 NPA: 3,112
 Total: 20,926
+General Election Sample Ballots
+ENGLISH
+SPANISH
 ×
 Search
