@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-29T14:44:43Z",
-  "html_sha256": "c3a0a524fe2b21b7a4d2cbd02a43ac7acb394b493665dcc8d5c07f2564f99ff0",
+  "fetched_at": "2026-10-29T18:09:08Z",
+  "html_sha256": "13afb874f5653cb5dd55821acf7ac0093ef465ef24c0fda615e284de1865ec38",
   "text_sha256": "1cab9ce727d578f35867a1224790c812d492fd6b2416f59393a0316b7f52e924",
-  "byte_size": 220457,
+  "byte_size": 220006,
   "title": "Election Results | Alachua County Elections, FL",
   "noncitizen_voting": {
     "present": false,
