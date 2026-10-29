@@ -1,4 +1,5 @@
 Pinellas County Election, FL | Official Website
+Loading
 Skip to Main Content
 Voters
 Candidates
@@ -64,25 +65,25 @@ S
 31
 Mon, Oct. 19 - Sun, Nov. 1
 Early Voting
-Wed, Oct. 28
-Canvassing Board Meeting - Cancelled
 Thu, Oct. 29
 Canvassing Board Meeting - Cancelled
+Fri, Oct. 30
+Canvassing Board Meeting
 View All
 /Calendar.aspx
 By The Numbers
 As of:
 10/29/26
 Democrats:
-194,202
+194,270
 Republicans:
-244,469
+244,498
 No Party Affiliation:
-153,466
+153,514
 Other:
-24,188
+24,195
 Total:
-616,325
+616,477
 Contact Us
 Elections Service Center
 13001 Starkey Road
@@ -108,8 +109,11 @@ Accessibility
 Copyright Notices
 Privacy Policy
 /QuickLinks.aspx
-Loading
-Loading
+Welcome
+Thank you for visiting the new Pinellas County Supervisor of Elections website!
+This is the official government site for election information in Pinellas County, built to give voters clear, reliable access to resources they need. If you have questions about the new site, please call us at 727-464-VOTE (8683) or email
+Election@VotePinellas.gov
+.
 Do Not Show Again
 Close
 Select Language
@@ -363,7 +367,6 @@ Zapotec
 Zulu
 Powered by
 Translate
-[]
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate

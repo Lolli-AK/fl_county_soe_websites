@@ -6,24 +6,28 @@
   "redirect_chain": [
     "https://www.duvalelections.gov/212/Request-a-Ballot"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-29T00:38:54Z",
-  "html_sha256": "29ed30c4e484d103f8ab0831eb3af106a9037cdad682d183b47693de371d0e59",
-  "text_sha256": "6eb09516e73f1f31f4fa191e88cc603f735cd2a69045c28efaa99cb7bd856388",
-  "byte_size": 3332,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-29T09:31:02Z",
+  "html_sha256": "b01d38cc3929e77e5d066df6341a151b365fb59f6b076b86dd60b9ecfa7cda4b",
+  "text_sha256": "0afdccb9607d8e3e54fdb927bd6ac562827fecf8b586bcc5843981e3c7da82db",
+  "byte_size": 85525,
+  "title": "Request a Ballot  | Duval County Elections, FL Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "military_overseas_voter"
+    ],
+    "count": 39
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

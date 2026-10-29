@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-29T00:38:54Z",
-  "html_sha256": "d9db059595d16e5c182ef55c708adc978ee4e8c9c56ac7c1226d390a14f0296d",
+  "fetched_at": "2026-10-29T09:31:02Z",
+  "html_sha256": "dc1e9be3c2344d762da2261e74a0c133a3d3330d5be4570509f8df38bc2964ef",
   "text_sha256": "f919715b43ed93353bc093c5877b89ec3d163a37c467d90bddffbb6ce0e03f94",
-  "byte_size": 42359,
+  "byte_size": 42242,
   "title": "Election Results | Marion County Elections, FL",
   "noncitizen_voting": {
     "present": false,

@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-29T00:38:54Z",
-  "html_sha256": "0f93b508e7a6b3f0a592f424acf9035c274ef93ce200892dfbaef2b706941db4",
-  "text_sha256": "ccf070f048a3b380950fe3e394ba64f55ad419e8579e34ecc846af7d1df414c0",
+  "fetched_at": "2026-10-29T09:31:02Z",
+  "html_sha256": "0aae74545c894c588434a8d2b9badb960a087e23f4ec37d3126eba2674083c08",
+  "text_sha256": "5ae6c064afa2c61f33a13b4f65f625380a2475dae004778b08c5589df4e51b2e",
   "byte_size": 108384,
   "title": "Home | Broward County Supervisor of Elections",
   "noncitizen_voting": {
