@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.hernandovotes.gov/1200/Early-Voting-Locations"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-28T20:07:01Z",
-  "html_sha256": "118511f5f8d2665a68f3dd4f2c4bbf9fbeddc081449e7a42778a6b662263400d",
-  "text_sha256": "122bccca521756e40dbea9e806f4a93e724543d96a94420eeb0b92642903e146",
-  "byte_size": 2854,
-  "title": "Just a moment...",
+  "fetched_at": "2026-10-29T00:38:54Z",
+  "html_sha256": "1a3603adc20f854bb8ba58d35419faa81e23ed03abc41ed9d4665d090810cbdc",
+  "text_sha256": "d372db8688990c4cf4b9bd41220b8521273b47922f30b8de54a41755e03bb3f1",
+  "byte_size": 48013,
+  "title": "Early Voting Locations | Hernando County SOE, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

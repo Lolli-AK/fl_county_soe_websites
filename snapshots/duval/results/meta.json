@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.duvalelections.gov/262/Data-Maps-Past-Election-Results"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-28T20:07:01Z",
-  "html_sha256": "1fd5bcf6ea9e7a0e6be20046602d0896457d5a23f709f8d907515324c58e507c",
-  "text_sha256": "c408fda0e9639fd53d18a37d78fc0bf52d279e256c12932340fc3b4d57f6fb2c",
-  "byte_size": 2857,
-  "title": "Just a moment...",
+  "fetched_at": "2026-10-29T00:38:54Z",
+  "html_sha256": "2156793b0052cecf7ed73a94c4b71d75e764d5e44a5260c67168777ab1cd5f9c",
+  "text_sha256": "41963e9a23f0a0dee5bd11a16d0045da5ea5ac3293a7e9ed52c0ba87934a55ba",
+  "byte_size": 49494,
+  "title": "Data/ Maps/ Past Election Results | Duval County Elections, FL Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
