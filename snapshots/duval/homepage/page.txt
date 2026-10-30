@@ -1,5 +1,6 @@
 Duval County Elections, FL Official Website | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Voter Information
 Election Information
@@ -164,8 +165,12 @@ Contact Us
 Accessibility
 Site Map
 Copyright Notices
-Loading
-Loading
+Important Vote-by-Mail Information
+The deadline to request a vote-by-mail ballot be mailed for the 2026 General Election has passed.
+If you need a vote-by-mail ballot, you can visit 105 E. Monroe St., Jacksonville, FL 32202, to pick up in person.
+To track the status of your vote-by-mail ballot, please visit
+My Voter Status
+.
 Do Not Show Again
 Close
 Select Language
@@ -419,7 +424,6 @@ Zapotec
 Zulu
 Powered by
 Translate
-[]
 Hi, how can I help?
 Original text
 Rate this translation

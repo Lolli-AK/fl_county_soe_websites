@@ -129,15 +129,15 @@ Tim Bobanic
 Active Registered Voters as of:
 10/30/2026
 Republican
-208,970
+209,033
 Democratic
-113,311
+113,352
 Non-Partisan
-107,808
+107,880
 Others
-19,466
+19,499
 Total
-449,555
+449,764
 2026 General Election Early Voting
 Early Voting for the 2026 General Election runs through Saturday, October 31. Voters may vote at any Early Voting site.
 View Early Voting Locations and Hours
@@ -177,11 +177,6 @@ Facebook
 X
 Brevard County Supervisor of Elections
 Upcoming Events
-October 29, 2026
-8:00 AM -
-6:00 PM
-Early Voting - 2026 General Election
-Read More
 October 30, 2026
 8:00 AM -
 6:00 PM
@@ -200,6 +195,10 @@ Read More
 November 5, 2026
 5:00 PM -
 Mail Ballot Signature Cure Deadline for the 2026 General Election
+Read More
+November 5, 2026
+5:00 PM -
+Provisional Ballot Signature Cure Deadline for the 2026 General Election
 Read More
 Brevard County Supervisor of Elections
 Election Public Notices
