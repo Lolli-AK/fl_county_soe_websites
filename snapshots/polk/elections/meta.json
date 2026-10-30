@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.polkelections.gov/101/Election-Info"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T17:47:51Z",
-  "html_sha256": "3653edb118e07ffc8d98d9330041534bb9259a1c99ed847fe181a4db394fcf12",
-  "text_sha256": "34d7e4b1aae23dbfbef4230d7e2a15804faca302ab3d9f8fff660b565a737482",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-30T22:00:21Z",
+  "html_sha256": "7ddfd9717bd39b7144027f1c243b8b9ad5132b0f38940564ef168465c046170a",
+  "text_sha256": "65f14ce5998b7a58614e4e38ea4e1f57fe6a6eb36ed12b9d2629113a23d1f4d9",
+  "byte_size": 48271,
+  "title": "Election Info | Polk County SOE, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

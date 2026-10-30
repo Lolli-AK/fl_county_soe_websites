@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.hernandovotes.gov/27/Election-Information"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T17:47:51Z",
-  "html_sha256": "915550b0329037acc301a30819a80d4c777e6a34fcf4b961e711e948582a1f28",
-  "text_sha256": "8bb1345a995be03ddffa71c1a94aa930ca549501b902c95041722000adfecc0d",
-  "byte_size": 53699,
-  "title": "Election Information | Hernando County SOE, FL",
+  "fetched_at": "2026-10-30T22:00:21Z",
+  "html_sha256": "1be68373c59eac99ebf0ac4f37e7df44bddefa37c67ec6c87c56949de2bbd06e",
+  "text_sha256": "febd759d6ce0f748373f5258fb58485ab5373770ef4e72f73c569a5ee1aabe52",
+  "byte_size": 3333,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

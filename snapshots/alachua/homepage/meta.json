@@ -7,15 +7,15 @@
     "https://www.votealachua.gov",
     "https://www.votealachua.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T17:47:51Z",
-  "html_sha256": "b6542f5e6daa38865d15a457bd601e843b30b8dc73ade31aec44dafadf84433d",
-  "text_sha256": "f43f30ff25b9e9946a92f2c00f9d16bcaeb19ffd96b712b827bb01b12f8dcc29",
-  "byte_size": 50884,
-  "title": "Alachua County Elections, FL | Official Website",
+  "fetched_at": "2026-10-30T22:00:21Z",
+  "html_sha256": "0d29c6ddbe8f87c3b6e20e2a2aa996a4b2d06291779e18d2b57f8b7a5ce39ad3",
+  "text_sha256": "c9db255b410cdf3df483d627737cae36c2adc8fd3c8580d3f0c25361479b231a",
+  "byte_size": 2855,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

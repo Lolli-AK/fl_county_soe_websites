@@ -7,25 +7,23 @@
     "https://votejacksonfl.gov/election-information/election-results/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T17:47:51Z",
-  "html_sha256": "c2167e6f0c813aebe28a636f6c856aee182a8f4370055966da7a1a7ab88eaafe",
-  "text_sha256": "a197acd29c20d592fbabcaaa976ed1e4ea71bd2acd3400f2808c22449b8ea379",
-  "byte_size": 66408,
-  "title": "Election Results – Jackson County (FL) Supervisor of Elections",
+  "fetched_at": "2026-10-30T22:00:21Z",
+  "html_sha256": "3a8e26c3d8239eef36fa1ed2d548f42d2ae326d5bca94c231253ea9964205ada",
+  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
+  "byte_size": 488,
+  "title": "One moment, please...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

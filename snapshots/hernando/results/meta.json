@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T17:47:51Z",
-  "html_sha256": "3f6785b14f92059295edcd061a0fe83e45a9199d291b61e61e4f98ae7a2df3f7",
+  "fetched_at": "2026-10-30T22:00:21Z",
+  "html_sha256": "5995a905d5a9bc3fb57e5c02b6450e42eef4679371c9e74678a0f656d22dbfe1",
   "text_sha256": "186c908b60780841fe7b9e68e2cf52b7e71a7243d31f6b6bf8002965eb87dec2",
-  "byte_size": 71933,
+  "byte_size": 71606,
   "title": "Past Election Results | Hernando County SOE, FL",
   "noncitizen_voting": {
     "present": false,
