@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T14:11:20Z",
-  "html_sha256": "ace3f408e48a39dc65ffd1113efcfb430b7650664906a9e80aaefbafbe9cf06f",
+  "fetched_at": "2026-10-30T14:41:02Z",
+  "html_sha256": "2a8e3361bded567df7c8abbce4b963c5b2949af1378f8647b1ae2c7590c18de0",
   "text_sha256": "48ba1832793a183b845d7551e1e3202a5fcfc7c16eb1ea6b4960a9e33ae8ef1d",
-  "byte_size": 52277,
+  "byte_size": 52296,
   "title": "Polling Locations – Vote Osceola",
   "noncitizen_voting": {
     "present": false,
