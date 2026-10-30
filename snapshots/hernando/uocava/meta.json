@@ -6,30 +6,24 @@
   "redirect_chain": [
     "https://www.hernandovotes.gov/1232/Military-Overseas-Voters"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T09:42:26Z",
-  "html_sha256": "d2b5e7dff650639d301e16a7fcc53ff98e7b5f455d9a51e3041d1958e6a9c43d",
-  "text_sha256": "6f858b2d97673c64c39cbf5274aba74033676b0235e7e8a12e9ad1360fb7ab03",
-  "byte_size": 55339,
-  "title": "Military & Overseas Voters | Hernando County SOE, FL",
+  "fetched_at": "2026-10-30T14:11:20Z",
+  "html_sha256": "4db22a0e7310f56219c814a538ba153069971d366687d612948bdfb997a24f7d",
+  "text_sha256": "6c6c930fc39f84cb10e42cbfd9b5d367262e380aa95f2bf9520ddbdb82c4d561",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava",
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 33
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-30T09:42:26Z",
-  "html_sha256": "22cef4e4ebede7cdc642fe392c12007406087f19f027a85004130693218e3c67",
+  "fetched_at": "2026-10-30T14:11:20Z",
+  "html_sha256": "7842fea25394f7966206375d935b6a6e255294ce04c52b5d704adb7850a685ac",
   "text_sha256": "8e773d4998a227b1693fa05b4dc27bf4997b4bb5b68fd73ef3375d1dfc8d4243",
-  "byte_size": 85950,
+  "byte_size": 85954,
   "title": "Upcoming Elections 2026 | Nassau County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
