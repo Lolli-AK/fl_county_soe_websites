@@ -163,15 +163,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(10/29/2026)
+(10/30/2026)
 Democrats
-24,232
+24,253
 Republicans
-75,741
+75,759
 Other
-29,356
+29,370
 Total
-129,329
+129,382
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -194,7 +194,7 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 1 hour ago
+posted 4 hours ago
 ⏰⏰⏰Time is running out to participate in the 2026 General Election. If you don’t vote at an early voting site by 6PM Saturday October 31st, you must go to your assigned precinct on Election Day.
 Remember, you can also drop your completed vote by mail ballot off at a secure ballot intake station located inside the early voting sites.
 View Facebook Post

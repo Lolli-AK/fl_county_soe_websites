@@ -1,5 +1,4 @@
 Pinellas County Election, FL | Official Website
-Loading
 Skip to Main Content
 Voters
 Candidates
@@ -73,17 +72,11 @@ View All
 /Calendar.aspx
 By The Numbers
 As of:
-10/30/26
 Democrats:
-194,368
 Republicans:
-244,550
 No Party Affiliation:
-153,595
 Other:
-24,216
 Total:
-616,729
 Contact Us
 Elections Service Center
 13001 Starkey Road
@@ -109,10 +102,8 @@ Accessibility
 Copyright Notices
 Privacy Policy
 /QuickLinks.aspx
-Welcome
-Thank you for visiting the new Pinellas County Supervisor of Elections website!
-This is the official government site for election information in Pinellas County, built to give voters clear, reliable access to resources they need. If you have questions about the new site, please call us at 727-464-VOTE (8683) or email
-Election@VotePinellas.gov
-.
+Loading
+Loading
 Do Not Show Again
 Close
+[]

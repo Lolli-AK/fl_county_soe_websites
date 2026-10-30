@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votepinellas.gov/200/Early-Voting"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T14:41:02Z",
-  "html_sha256": "7ab06796886dc2b26416eca7c18675d10355ebe06897b45fbbd69f2b5fea7eb4",
-  "text_sha256": "d3ff3861455d5c3cfb5fb0c02815481c5cb989da0c84c0d7051a0fdd6cdaeff7",
-  "byte_size": 68600,
-  "title": "Early Voting | Pinellas County Election, FL",
+  "fetched_at": "2026-10-30T17:47:51Z",
+  "html_sha256": "b1e5c2b6fb2909e27ea5595d4595bd7ed5b446366d500d607b9780c14aa539e6",
+  "text_sha256": "062d48a183692a67f92dca2a38301db121ee5e7fe3d65c86c6fc364c664b473e",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

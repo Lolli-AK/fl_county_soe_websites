@@ -14,7 +14,7 @@
   </title>
   <meta content="View an interactive map showing locations for early voting." name="description"/>
  </head>
- <body class="wide ae-early-voting-locations-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
+ <body class="wide doneLoading ae-early-voting-locations-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
   <div aria-live="polite" class="ae-blurb-noaudio" data-nosnippet="" id="ae_enabled_site" role="status">
    <div>
     <p data-modulename="launcher">
@@ -352,7 +352,7 @@
             </div>
            </div>
           </div>
-          <aside class="secondaryContent" data-cprole="contentContainer" id="featureColumn" role="presentation">
+          <aside class="secondaryContent" data-cprole="contentContainer" id="featureColumn">
            <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
            </div>
           </aside>
@@ -537,7 +537,7 @@
               <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
                <section class="widget widgetSearch skin64 widgetOptionSet37" id="widgetPreviewSearch">
                 <div class="widgetBody buttonRightInside">
-                 <input aria-label="Search Site" class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
+                 <input aria-label="Search Site" autocomplete="off" class="widgetSearchBox widgetSearchBoxGUID ui-autocomplete-input" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
                  <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon">
                   <img alt="Go to Site Search" class="imageHover" data-hover="/ImageRepository/Document?documentID=119" data-image="/ImageRepository/Document?documentID=118" src="/ImageRepository/Document?documentID=118"/>
                  </a>
@@ -921,6 +921,10 @@
   <div>
   </div>
   <div id="root-picker-outlet">
+  </div>
+  <ul class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" id="ui-id-1" role="presentation" tabindex="0">
+  </ul>
+  <div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status">
   </div>
   <div data-nosnippet="" id="ae_app">
    <div class="ae-module" id="ae_helpers">
