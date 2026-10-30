@@ -18,6 +18,7 @@ on:
   schedule:
     - cron: "0 8 * * *"      # daily baseline, 08:00 UTC
     - cron: "0 */3 * * *"    # election-window cadence, every 3 hours (gated)
+    - cron: "47 * * * *"     # election-night cadence, hourly (gated)
 
 concurrency:
   group: snapshot
@@ -35,12 +36,14 @@ jobs:
     if: >-
       github.event_name == 'workflow_dispatch' ||
       github.event.schedule == '0 8 * * *' ||
-      github.event.schedule == '0 */3 * * *'
+      github.event.schedule == '0 */3 * * *' ||
+      github.event.schedule == '47 * * * *'
     runs-on: ubuntu-latest
     # 67 counties is 314 targets — roughly 40% of the Texas project's volume, so a
     # run lands well inside this cap. The cap exists to stop a hung fetch from
     # burning the 6-hour default (and, on a private repo, billable minutes).
-    timeout-minutes: 90
+    # 120 fits the run plus two resumes at the 35-minute run deadline each.
+    timeout-minutes: 120
     steps:
       - name: Decide whether this run captures
         id: gate
@@ -59,13 +62,31 @@ jobs:
           WINDOW_START=20261020
           WINDOW_END=20261117
 
+          # Election-night window, UTC hours, start inclusive, end exclusive. The
+          # 3-hourly cron fires about 5 times a day in practice (GitHub drops and
+          # delays scheduled runs) and its worst gap is the 04:00-11:00 UTC stretch,
+          # which on Nov 3-4 is results night. The hourly cron only captures inside
+          # this window, from polls opening on Nov 3 to midday Nov 5. It is offset
+          # from the hour because on-the-hour schedules are the ones GitHub sheds.
+          # Overlapping firings queue in the concurrency group; a newer one replaces
+          # an older pending one, so a slow run is followed by exactly one more.
+          NIGHT_START=2026110312
+          NIGHT_END=2026110512
+
           today=$(date -u +%Y%m%d)
+          hour=$(date -u +%Y%m%d%H)
           go=false
 
           if [ "$EVENT" = "workflow_dispatch" ]; then
             go=true; why="manual dispatch"
           elif [ "$SCHEDULE" = "0 8 * * *" ]; then
             go=true; why="daily baseline"
+          elif [ "$SCHEDULE" = "47 * * * *" ]; then
+            if [ "$hour" -ge "$NIGHT_START" ] && [ "$hour" -lt "$NIGHT_END" ]; then
+              go=true; why="inside election-night window ${NIGHT_START}..${NIGHT_END}"
+            else
+              why="skipped: hourly cron outside election-night window ${NIGHT_START}..${NIGHT_END}"
+            fi
           elif [ "${ELECTION_WINDOW:-}" = "true" ]; then
             go=true; why="ELECTION_WINDOW=true (manual override)"
           elif [ "$today" -ge "$WINDOW_START" ] && [ "$today" -le "$WINDOW_END" ]; then
@@ -104,7 +125,16 @@ jobs:
       # If the run died part-way (flaky county, network blip), pick up where it
       # left off rather than refetching everything.
       - name: Resume once if the run failed
+        id: resume1
         if: failure() && steps.gate.outputs.go == 'true'
+        run: python scripts/snapshot.py --resume
+
+      # A resume that also hits the run deadline exits non-zero with its
+      # checkpoint intact, so one more pass finishes the tail. Without it the
+      # slowest targets keep a stale snapshot whenever county sites are slow,
+      # which is exactly when they matter.
+      - name: Resume again if the first resume also hit its deadline
+        if: failure() && steps.resume1.outcome == 'failure' && steps.gate.outputs.go == 'true'
         run: python scripts/snapshot.py --resume
 
       # Push even after a failed step: a run that hit its deadline has still
