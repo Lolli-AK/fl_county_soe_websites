@@ -2,9 +2,6 @@ Hernando County SOE, FL | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Loading
 Skip to Main Content
-Canvassing Board
-The Canvassing Board is in session! Location - 16264 Spring Hill Dr. | Brooksville, FL 34604
-Read On...
 Election Information
 Voter Information
 Candidates
@@ -129,8 +126,6 @@ Thu, Oct. 22 - Sat, Oct. 31
 Early Voting Period - 2026 General Election
 Fri, Oct. 23 - Mon, Nov. 2
 General Election - Scan Early Vote ballots into independent audit system
-Thu, Oct. 29
-General Election - Canvass of Vote-By-Mail Ballots
 View All Events
 Election Calendar
 /Calendar.aspx
