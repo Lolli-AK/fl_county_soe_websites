@@ -1,5 +1,6 @@
 Duval County Elections, FL Official Website | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Voter Information
 Election Information
@@ -160,8 +161,18 @@ Contact Us
 Accessibility
 Site Map
 Copyright Notices
-Loading
-Loading
+Important Vote-by-Mail Information
+2026 General Election Vote-by-Mail Ballot Deadlines
+The deadline for the Supervisor of Elections to receive a voted vote-by-mail ballot is November 3, 2026, at 7 p.m. ET
+The deadline for the Supervisor of Elections to receive a voted vote-by-mail from a domestic uniformed services member or Merchant Marine or dependent of such member is November 3, 2026, at 7 p.m. ET
+The 10-day deadline extension for overseas voted ballots to be returned by mail is November 13, 2026.
+Provisional and Signature Cure Affidavit Deadlines
+The deadline to cure a provisional ballot is November 5, 2026, at 5 p.m. ET
+The deadline to cure a vote-by-mail ballot signature is November 5, 2026, at 5 p.m. ET
+Provisional Cure - English
+Provisional Cure - Spanish
+Vote-by-mail Cure - English
+Vote-by-mail Cure - Spanish
 Do Not Show Again
 Close
 Select Language
@@ -415,7 +426,6 @@ Zapotec
 Zulu
 Powered by
 Translate
-[]
 Hi, how can I help?
 Original text
 Rate this translation

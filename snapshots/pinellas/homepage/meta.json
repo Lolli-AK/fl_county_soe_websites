@@ -7,15 +7,15 @@
     "https://www.votepinellas.gov",
     "https://www.votepinellas.gov/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-31T04:30:39Z",
-  "html_sha256": "0559be0dfa3d535f7641a8711b2da197f2e0995ac2b62b79949da123be72977b",
-  "text_sha256": "ee7c958173a1dff66420052244d7465085f6f86393950d29eacd6b777d701a26",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-31T11:49:32Z",
+  "html_sha256": "3da41ae0ea9910ad8cc387e3c9881736abe599ec35e6080269e9910cf94c9c41",
+  "text_sha256": "c56b9f211bd124a38383a954ca2eaca91288620e0bc93998a4de65b077933204",
+  "byte_size": 82715,
+  "title": "Pinellas County Election, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

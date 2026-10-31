@@ -100,10 +100,10 @@ Public Notices
 Voting System Post-Election Audit Report
 [rotating image slideshow removed for determinism]
 Active Registered Voters as of 10/31/2026:
-Dem: 1,434
+Dem: 1,436
 Rep: 4,140
 Oth: 1,332
-Total: 6,906
+Total: 6,908
 Register to Vote
 Election Dates
 Polling Location

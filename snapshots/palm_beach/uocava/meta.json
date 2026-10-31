@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-31T04:30:39Z",
-  "html_sha256": "455d18ff970d28851da97a6574a2d7d46435b25e8fae1cd611e06cc7f3313195",
+  "fetched_at": "2026-10-31T11:49:32Z",
+  "html_sha256": "e9c27aee35a297a7779c7b705295a139ea854645257a881eba298b47a2144406",
   "text_sha256": "49d2f3446e5860b83e17d59229be0b197440b968c2e8202da73e70f5c774b60f",
-  "byte_size": 84521,
+  "byte_size": 84519,
   "title": "Military & Overseas Voters | Palm Beach County Elections, FL",
   "noncitizen_voting": {
     "present": false,

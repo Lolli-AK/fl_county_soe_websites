@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-31T04:30:39Z",
-  "html_sha256": "2f107471991a17fc9aa0b784bd88663251a1959d674478e0b0aa40b00d8b3068",
+  "fetched_at": "2026-10-31T11:49:32Z",
+  "html_sha256": "b2d7ce6a13772fe9cb2f73ae5453f2e6837ba05bc9244f946cd3998e60a51d95",
   "text_sha256": "ab18eae151896ee6ea444cd7b1351c401f8f510bcca0c0f2f8d51929ac23e2a4",
-  "byte_size": 58963,
+  "byte_size": 58983,
   "title": "Precincts & Polling Locations | Hernando County SOE, FL",
   "noncitizen_voting": {
     "present": false,
