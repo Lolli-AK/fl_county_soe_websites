@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-31T11:49:32Z",
-  "html_sha256": "6fc9fe405d4b4103bb79584da56689e501f955e20bedb5fc445724ebe7d6c906",
+  "fetched_at": "2026-10-31T14:00:01Z",
+  "html_sha256": "b22e6bf3d7c3bc5c20dcbd8c4cd8ac560a70b6f3f6d6645970c8b58aaa381498",
   "text_sha256": "7573a4cff9112468feed7682d860c5717f8cdbf139d79408893269a49ec3b3cf",
-  "byte_size": 98050,
+  "byte_size": 98067,
   "title": "Okeechobee County, FL",
   "noncitizen_voting": {
     "present": false,

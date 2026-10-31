@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-31T11:49:32Z",
-  "html_sha256": "aa1f7ae9473aa85106478521a64ad79412a58ad7590552db1825fff9f461fdfa",
+  "fetched_at": "2026-10-31T14:00:01Z",
+  "html_sha256": "588e1abe473da7f662d7f71f15eaddeb26f8be0db48de9a2e71afde0f9786293",
   "text_sha256": "1fab05674c4ecc92fc3f50b254026e05b4632ce928fb43ff3d1aa4b2b271c192",
-  "byte_size": 58306,
+  "byte_size": 58260,
   "title": "Vote Early – Vote Osceola",
   "noncitizen_voting": {
     "present": false,
