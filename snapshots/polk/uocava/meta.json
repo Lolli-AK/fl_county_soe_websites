@@ -6,24 +6,30 @@
   "redirect_chain": [
     "https://www.polkelections.gov/236/Military-Overseas-Voting"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T22:00:21Z",
-  "html_sha256": "8f06a798b6514028d249dc8a01bc8f02fc935f82ef5d172e1efb2686b52df068",
-  "text_sha256": "4cba60e5832c207ec0d149a68849a5476d3703c20b181f6c7b4bbb792f1d9374",
-  "byte_size": 2861,
-  "title": "Just a moment...",
+  "fetched_at": "2026-10-31T04:30:39Z",
+  "html_sha256": "1f82f98a9d924a9beb1a9372d85ec54aeac60b05c9c53210cc69e750e2dbb00f",
+  "text_sha256": "6aec7ef9d50fa8730fd4a9d931c96cff0323c4339e63d952c58d9a6d7f4d67aa",
+  "byte_size": 50589,
+  "title": "Military & Overseas Voting | Polk County SOE, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 44
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

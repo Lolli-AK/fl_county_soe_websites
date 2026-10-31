@@ -6,24 +6,27 @@
   "redirect_chain": [
     "https://www.duvalelections.gov/207/Forms-Publications"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T22:00:21Z",
-  "html_sha256": "13976d38944b817122d76c52ee7f8e8dbe202ee8da267048ddcc88b2c286220c",
-  "text_sha256": "d4a4b7d0e11b0676b871ae3d078ffb774020656de6ca838ab7e5b5ae045fb7f5",
-  "byte_size": 3333,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-31T04:30:39Z",
+  "html_sha256": "a10584b8569e3317bd04eac9c3b491c76f58b0fb1feb6d11c30ff4a9ecf46df0",
+  "text_sha256": "f23b3a1b8ba7e85db22d0bcdf88ab1e3f91b8a05fd2e338cdd4fcb998108769a",
+  "byte_size": 86745,
+  "title": "Forms & Publications | Duval County Elections, FL Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "military_overseas_voter"
+    ],
+    "count": 15
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

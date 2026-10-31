@@ -7,25 +7,23 @@
     "https://votejacksonfl.gov/early-voting/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T22:00:21Z",
-  "html_sha256": "fb3608f1c7fa3cd47d89bf3aeaf22d99438b986a4496a940d9ef55a12eac8a95",
-  "text_sha256": "d36777b9eb040de102a7768e9feba0953d28dcd6afcb7604bfe5d766b5c218fa",
-  "byte_size": 68127,
-  "title": "Early Voting – Jackson County (FL) Supervisor of Elections",
+  "fetched_at": "2026-10-31T04:30:39Z",
+  "html_sha256": "3a8e26c3d8239eef36fa1ed2d548f42d2ae326d5bca94c231253ea9964205ada",
+  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
+  "byte_size": 488,
+  "title": "One moment, please...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

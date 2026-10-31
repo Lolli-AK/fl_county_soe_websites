@@ -7,15 +7,15 @@
     "https://www.colliervotes.gov",
     "https://www.colliervotes.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T22:00:21Z",
-  "html_sha256": "4bc9d6821939304b4ccf7df08ffb5adeac5b831a96ce0287569fee90be5adbf0",
-  "text_sha256": "c1ead4f4299f2694d87bc3a7f503421cbfad166b4fd4d837847c6dbb531f3dfd",
-  "byte_size": 107264,
-  "title": "Collier County Elections, FL | Official Website",
+  "fetched_at": "2026-10-31T04:30:39Z",
+  "html_sha256": "576a4f096cd2780474f483de71de9c72296025e88bf10c2588068b09ddbf99a0",
+  "text_sha256": "c2ff7cbafb67d781f3a18ef47adb99ef4157d37e91ba4f2ba76c6abe8eee323a",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

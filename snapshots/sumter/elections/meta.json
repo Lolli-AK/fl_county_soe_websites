@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://elections.sumtercountyfl.gov/163/Upcoming-Election-Information"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T22:00:21Z",
-  "html_sha256": "2981f3db82dc58f4dba950dc69b03d033a4c5dea594460fe3cb029f40e43f8a5",
-  "text_sha256": "e1083929675e785d43d2e7fcf31fc0da00623ad5035c110d560131f8e8af5ea1",
-  "byte_size": 3333,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-31T04:30:39Z",
+  "html_sha256": "c65eba6e889d209fed6d10cc3273d2635d865f549869ddd8e210b32df79c8b45",
+  "text_sha256": "771308911f79adb466f4e4aad290658abc4bf13b5528653347f94a856a6eba01",
+  "byte_size": 57478,
+  "title": "Upcoming Election Information | Sumter County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

@@ -7,25 +7,23 @@
     "https://wcsoe.gov/past-election-results/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T22:00:21Z",
-  "html_sha256": "3ec4b037db71988b3a12e99d5d673e61bda6062f4dbcee281425f4a109f8d833",
-  "text_sha256": "91a41f91519192ef998b58c39748d1f79cc986fdb59723ea7b59f4e2b002ae51",
-  "byte_size": 57254,
-  "title": "Past Election Results – Washington County (FL) Supervisor of Elections",
+  "fetched_at": "2026-10-31T04:30:39Z",
+  "html_sha256": "3a8e26c3d8239eef36fa1ed2d548f42d2ae326d5bca94c231253ea9964205ada",
+  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
+  "byte_size": 488,
+  "title": "One moment, please...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

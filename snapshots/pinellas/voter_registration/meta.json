@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votepinellas.gov/196/Voter-Registration"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T22:00:21Z",
-  "html_sha256": "caf25b881dfd3f7b81e63bea0257f6167269fdd9948f107c039cc38f65989667",
-  "text_sha256": "9bc90c1782e7e9b5eabaf3dec53e00210c86bca0ce3d6ea2a0e17a1cab521977",
-  "byte_size": 69736,
-  "title": "Voter Registration | Pinellas County Election, FL",
+  "fetched_at": "2026-10-31T04:30:39Z",
+  "html_sha256": "e545a8eccc1b32711683c3ef7696f27cd9e82a50053740bedbca4dfc370794b2",
+  "text_sha256": "e6bc9e128d6cdef03ca3c6e5665aa2456e1f314d22aa0e2c1f448374ffcfeeb3",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

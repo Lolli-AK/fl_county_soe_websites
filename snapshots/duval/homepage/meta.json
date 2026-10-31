@@ -7,24 +7,26 @@
     "https://www.duvalelections.gov",
     "https://www.duvalelections.gov/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T22:00:21Z",
-  "html_sha256": "c015c5a79606aa1537541f3251a0bb4212846fe4936f3be65639f944cfec9b3d",
-  "text_sha256": "29cd1d65a5484162eaf6b858d59703d190db1d29d055d39d3284db765d46b1fd",
-  "byte_size": 3333,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-31T04:30:39Z",
+  "html_sha256": "f68955389d1d6a11c5c63426146a654a45a82387f2f97618e96a62305f2988f6",
+  "text_sha256": "f9bdb6880ce8f0abfb9b39c1a4b1d0b4d712541a5617bc1a025af3cad1388875",
+  "byte_size": 94684,
+  "title": "Duval County Elections, FL Official Website | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
