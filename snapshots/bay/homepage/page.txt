@@ -163,15 +163,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(10/30/2026)
+(10/31/2026)
 Democrats
-24,253
+24,263
 Republicans
-75,759
+75,779
 Other
-29,370
+29,390
 Total
-129,382
+129,432
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -194,9 +194,13 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 1 day ago
-⏰⏰⏰Time is running out to participate in the 2026 General Election. If you don’t vote at an early voting site by 6PM Saturday October 31st, you must go to your assigned precinct on Election Day.
-Remember, you can also drop your completed vote by mail ballot off at a secure ballot intake station located inside the early voting sites.
+posted 2 hours ago
+🗳️TODAY IS THE LAST DAY OF EARLY VOTING!
+📣Skip the Election Day lines and vote early! Make your voice heard in the 2026 General Election!
+⏰ Early Voting ends today, October 31st, at 6:00 PM!
+📍 Find Early Voting locations and more information at:
+https://www.bayvotesfl.gov/
+🗳Your Vote Matters!
 View Facebook Post
 (opens in a new tab)
 Public Notices
