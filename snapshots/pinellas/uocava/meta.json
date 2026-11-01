@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-01T12:48:48Z",
-  "html_sha256": "e7c6f844e6f0db519ef8710557cee117e98fd6ea4015c26338723522280fc7ac",
+  "fetched_at": "2026-11-01T14:36:20Z",
+  "html_sha256": "caf66cb5d15fe358fa26d0c6eeba74837f3dd02a5357f96062337ae4b9dd2285",
   "text_sha256": "5c4c37cf22e3f8ac653ca47a7ea9af9f989d31664aa3652c6e0cdf3db373e530",
-  "byte_size": 83542,
+  "byte_size": 83544,
   "title": "Military & Overseas Voters | Pinellas County Election, FL",
   "noncitizen_voting": {
     "present": false,
