@@ -13,6 +13,9 @@ Where to Vote
 Ways to Vote
 Election Workers
 Search
+Select Language
+​
+▼
 Active Registered Voters:
 10/05/26
 Democrats:
@@ -75,7 +78,7 @@ View All News
 Latest News
 /CivicAlerts.aspx
 Election Calendar
-October 2026
+November 2026
 Calendar
 S
 M
@@ -84,10 +87,6 @@ W
 T
 F
 S
-27
-28
-29
-30
 1
 2
 3
@@ -118,11 +117,19 @@ S
 28
 29
 30
-31
-Thu, Oct. 22 - Sat, Oct. 31
-Early Voting Period - 2026 General Election
+1
+2
+3
+4
+5
 Fri, Oct. 23 - Mon, Nov. 2
 General Election - Scan Early Vote ballots into independent audit system
+Mon, Nov. 2
+General Election - Canvass of Vote-By-Mail Ballots
+Tue, Nov. 3
+Election Day - 2026 General Election
+Tue, Nov. 3
+General Election - Canvass of Vote-By-Mail Ballots
 View All Events
 Election Calendar
 /Calendar.aspx
@@ -173,4 +180,7 @@ Loading
 Loading
 Do Not Show Again
 Close
+Original text
+Rate this translation
+Your feedback will be used to help improve Google Translate
 Explore your accessibility options

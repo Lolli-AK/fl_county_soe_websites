@@ -153,8 +153,6 @@ Total
 7,168
 Voter Turnout
 Dates to Remember
-Oct 24, 2026
-Early Voting: General Election
 Nov 3, 2026
 Election Day
 Nov 11, 2026
@@ -163,6 +161,8 @@ Nov 26, 2026
 Office Closed in Observance of Thanksgiving
 Dec 24, 2026
 Office Closed in Observance of Christmas
+Dec 31, 2026
+Office Closed in Observance of the New Year
 All Upcoming Dates
 Announcements & Notices
 View all News & Announcements

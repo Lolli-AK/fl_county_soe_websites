@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://votebakerfl.gov"
   ],
-  "http_status": 200,
+  "http_status": 521,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-31T21:07:41Z",
-  "html_sha256": "b579c6fdcc7f481c684eff72514f6b6add869c6cd98e8d82dbacc42b65823bfd",
-  "text_sha256": "2d1f78c1e4a117789a83e00b16ee7557fccf1231953e67655972b44ff0feedbb",
-  "byte_size": 23947,
-  "title": "Baker County Supervisor of Elections � Civic Template",
+  "fetched_at": "2026-11-01T04:51:52Z",
+  "html_sha256": "056a4ce54f8f6b08b58ee50f643de37796d66ea32b834fb72783ad831551a3a2",
+  "text_sha256": "1ee9300daa7a87b27feac9c0e8c182a157f2e6a4ac15a5e8d00ba87c9b00b976",
+  "byte_size": 6642,
+  "title": "votebakerfl.gov | 521: Web server is down",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

@@ -156,7 +156,7 @@ FL Association of SOE
 FL Commission on Ethics
 Santa Rosa County
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 10/31/2026:
+Active Registered Voters as of 11/01/2026:
 Dem: 21,114
 Rep: 92,453
 Oth: 31,254
@@ -182,7 +182,7 @@ EVENTS
 «
 »
 MONTH OF
-OCTOBER
+NOVEMBER
 2026
 Sunday
 Monday
@@ -194,16 +194,16 @@ Saturday
 1
 2
 3
+1
 4
 5
-1
 6
 7
+General Election
+11/03/2026 - 11/03/2026
 8
 9
 10
-General Election Book Closing
-10/5/2026 - 10/5/2026
 11
 12
 13
@@ -213,115 +213,23 @@ General Election Book Closing
 17
 18
 19
-1
 20
-1
 21
-1
 22
-1
 23
-1
 24
-1
-General Election Early Voting
-10/19/2026 - 10/31/2026
-8:00am - 6:00pm
-General Election Early Voting
-10/19/2026 - 10/31/2026
-8:00am - 6:00pm
-General Election Early Voting
-10/19/2026 - 10/31/2026
-8:00am - 6:00pm
-General Election Early Voting
-10/19/2026 - 10/31/2026
-8:00am - 6:00pm
-General Election Early Voting
-10/19/2026 - 10/31/2026
-8:00am - 6:00pm
-General Election Early Voting
-10/19/2026 - 10/31/2026
-8:00am - 6:00pm
 25
-1
 26
-1
 27
-1
 28
-1
 29
-1
 30
-1
-31
-1
-General Election Early Voting
-10/19/2026 - 10/31/2026
-8:00am - 6:00pm
-General Election Early Voting
-10/19/2026 - 10/31/2026
-8:00am - 6:00pm
-General Election Early Voting
-10/19/2026 - 10/31/2026
-8:00am - 6:00pm
-General Election Early Voting
-10/19/2026 - 10/31/2026
-8:00am - 6:00pm
-General Election Early Voting
-10/19/2026 - 10/31/2026
-8:00am - 6:00pm
-General Election Early Voting
-10/19/2026 - 10/31/2026
-8:00am - 6:00pm
-General Election Early Voting
-10/19/2026 - 10/31/2026
-8:00am - 6:00pm
 «
 »
-October
+November
 2026
-October 5, 2026
-General Election Book Closing
-October 19, 2026
-General Election Early Voting
-8:00am - 6:00pm
-October 20, 2026
-General Election Early Voting
-8:00am - 6:00pm
-October 21, 2026
-General Election Early Voting
-8:00am - 6:00pm
-October 22, 2026
-General Election Early Voting
-8:00am - 6:00pm
-October 23, 2026
-General Election Early Voting
-8:00am - 6:00pm
-October 24, 2026
-General Election Early Voting
-8:00am - 6:00pm
-October 25, 2026
-General Election Early Voting
-8:00am - 6:00pm
-October 26, 2026
-General Election Early Voting
-8:00am - 6:00pm
-October 27, 2026
-General Election Early Voting
-8:00am - 6:00pm
-October 28, 2026
-General Election Early Voting
-8:00am - 6:00pm
-October 29, 2026
-General Election Early Voting
-8:00am - 6:00pm
-October 30, 2026
-General Election Early Voting
-8:00am - 6:00pm
-October 31, 2026
-General Election Early Voting
-8:00am - 6:00pm
+November 3, 2026
+General Election
 View All
 The Santa Rosa County Supervisor of Elections is committed to ensuring accessibility of its website to individuals with disabilities. To report an ADA accessibility issue, request accessibility assistance regarding our website content, or to request a specific electronic format, please contact (850) 983-1900,  Federal Information Relay Service at 1-800-877-8339 for TTY/Voice communication. or email
 villane@santarosa.fl.gov

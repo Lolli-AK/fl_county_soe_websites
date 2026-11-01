@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-31T21:07:41Z",
-  "html_sha256": "de344947f48e8aaa8f64969100ab89c579bba35402b755ce7c081e96404baf29",
+  "fetched_at": "2026-11-01T04:51:52Z",
+  "html_sha256": "001df8053938a6c69aa5d8746cd8fbff41c403e3542597ce2cb70ffae4dec45d",
   "text_sha256": "24ceedc7ecd7166e7fda14ef0a57741265cd556bb8d6d7d953cdd213a65057de",
-  "byte_size": 52447,
+  "byte_size": 52935,
   "title": "Election Information | Hernando County SOE, FL",
   "noncitizen_voting": {
     "present": false,

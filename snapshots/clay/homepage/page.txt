@@ -130,7 +130,7 @@ Track
 My Ballot
 Calendar
 previous
-October 2026
+November 2026
 next
 S
 M
@@ -139,10 +139,6 @@ W
 T
 F
 S
-27
-28
-29
-30
 1
 2
 3
@@ -173,7 +169,11 @@ S
 28
 29
 30
-31
+1
+2
+3
+4
+5
 All Events
 Tue,
 Nov
@@ -197,7 +197,7 @@ Nov
 Thanksgiving
 View All Events
 Clay County Voter Totals
-October 31, 2026
+November 1, 2026
 Republicans:
 89,162
 Democrats:

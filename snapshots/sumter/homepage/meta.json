@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-31T21:07:41Z",
-  "html_sha256": "f9ef4c796de3fddb1afa515d45680468a68545f7d2a87269cdd74c226f442e5f",
-  "text_sha256": "b036cdec3c2be99923cda1597cf96e58fdef0e8684a6fa47d147184fc15acec9",
-  "byte_size": 70491,
+  "fetched_at": "2026-11-01T04:51:52Z",
+  "html_sha256": "227534b6b0f2da75a1efdbc5540ff80ca65cdb89845a381060d06ce8891c00dd",
+  "text_sha256": "4400d0f33d2927488ba54320764f62cd70e08079187c237bbb0e13d38e12e8cb",
+  "byte_size": 99041,
   "title": "Sumter County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
@@ -26,7 +26,7 @@
     "terms": [
       "military_overseas_voter"
     ],
-    "count": 1
+    "count": 2
   },
   "error": null
 }

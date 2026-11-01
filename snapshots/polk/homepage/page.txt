@@ -1,5 +1,6 @@
 Polk County SOE, FL | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Election Information
 Early Voting available October 19th to the 31st at 10 locations across the county!
@@ -13,11 +14,17 @@ Info
 Search
 [rotating image slideshow removed for determinism]
 Voter Statistics
+134,366
 Democrats
+193,957
 Republicans
+113,339
 No Party Affiliation
+18,230
 Other
+459,892
 Total
+NOTE: Election Books are closed. Totals are as of Book Closing
 2026 General Election Results - Coming Soon!!
 Image does not exist
 View Results
@@ -55,7 +62,7 @@ Read on...
 about
 View All News
 /CivicAlerts.aspx
-October 2026
+November 2026
 Calendar
 Sun
 Mon
@@ -64,10 +71,6 @@ Wed
 Thu
 Fri
 Sat
-27
-28
-29
-30
 1
 2
 3
@@ -98,14 +101,18 @@ Sat
 28
 29
 30
-31
-Mon, Oct. 19 - Sat, Oct. 31
-Early Voting for 2026 General Election
-Early Voting for 2026 General Election
-Read on...
+1
+2
+3
+4
+5
 Mon, Oct. 19 - Tue, Nov. 3
 Ride Free to Vote with the Citrus Connection!
 Ride Free to Vote with the Citrus Connection!
+Read on...
+Tue, Nov. 3
+Election Day!! 2026 General Election
+Election Day!! 2026 General Election
 Read on...
 View All Events
 /Calendar.aspx
@@ -143,5 +150,4 @@ Loading
 Loading
 Do Not Show Again
 Close
-[]
 Explore your accessibility options
