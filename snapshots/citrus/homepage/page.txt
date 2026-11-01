@@ -198,7 +198,7 @@ View All News
 /CivicAlerts.aspx
 Follow Us on Facebook
 Calendar
-October 2026
+November 2026
 S
 M
 T
@@ -206,10 +206,6 @@ W
 T
 F
 S
-27
-28
-29
-30
 1
 2
 3
@@ -240,8 +236,19 @@ S
 28
 29
 30
-31
-There are no published events in current month.
+1
+2
+3
+4
+5
+Tue, Nov. 3
+2026 General Election Day
+Sat, Nov. 7
+Voter Outreach @ Lake Hernando Dragonboat Festival
+Thu, Nov. 19
+Voter Education @ Crystal River High School
+Fri, Nov. 20
+Voter Education @ Citrus High School
 View All Events
 /Calendar.aspx
 Election Dates

@@ -338,9 +338,8 @@ What is an Election Worker?
 Become an Election Worker
 Election Worker Portal
 Broward County
-Vote Early Now!
-Early Voting: October 19 - November 1
-Only 2 Days Left to Vote Early!
+Last Day to Vote Early!
+Early Voting Ends Today, November 1
 Vote at any Early Voting Site from 7 a.m. to 7 p.m. No need to go to your assigned precinct.
 Find Early Voting
 Find Your Election Day Polling Place
@@ -418,15 +417,15 @@ About Early Voting
 Vote by Mail Information
 As of
 11/1/26
-1,367,897
+1,367,922
 Eligible Voters
-593,809
+593,849
 Democrat
-317,734
+317,722
 Republican
-419,306
+419,301
 NPA
-37,048
+37,050
 Other
 Poll Watcher Information
 Learn who can be a poll watcher and what poll watchers may and may not do. This page explains the rules for observing voting at polling places.

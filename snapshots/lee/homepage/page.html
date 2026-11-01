@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-muli-n3-active wf-muli-n4-active wf-muli-i4-active wf-muli-n7-active" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -13,11 +13,21 @@
   <meta content="" name="description"/>
   <meta content="Home" name="keywords"/>
  </head>
- <body class="wide doneLoading ae-homepage" data-audioeye-device-desktop="" data-audioeye-launcher="">
+ <body class="wide withFeatureColumn cpTextResizeOn doneLoading ae-homepage" data-audioeye-device-desktop="" data-audioeye-launcher="">
   <div aria-live="polite" class="ae-blurb-noaudio" data-nosnippet="" id="ae_enabled_site" role="status">
    <div>
     <p data-modulename="launcher">
      This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+    </p>
+   </div>
+  </div>
+  <div id="divAjaxProgress">
+   <div id="divAjaxShade">
+   </div>
+   <div class="loading" id="divAjaxImgProgress">
+    <img alt="" src="/Common/images/ajax-loader.gif" title="Loading"/>
+    <p>
+     Loading
     </p>
    </div>
   </div>
@@ -855,7 +865,7 @@
                        </div>
                        Powered by
                        <span>
-                        <a aria-describedby="audioeye_new_window_message" class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" rel="noopener" target="_blank">
                          <img alt="Google Translate" height="14px" src="https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png" width="37px"/>
                          Translate
                         </a>
@@ -887,7 +897,7 @@
                 <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
                  <section class="widget widgetSearch skin43 widgetOptionSet15" id="widgetPreviewSearch">
                   <div class="widgetBody buttonRightInside">
-                   <input aria-label="Search Site" class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
+                   <input aria-label="Search Site" autocomplete="off" class="widgetSearchBox widgetSearchBoxGUID ui-autocomplete-input" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
                    <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon">
                     <img alt="Search" class="imageHover" data-hover="/ImageRepository/Document?documentID=96" data-image="/ImageRepository/Document?documentID=97" src="/ImageRepository/Document?documentID=97"/>
                    </a>
@@ -907,11 +917,8 @@
         </header>
         <div class="hidden" id="bannerImagesJSON56">
         </div>
-        <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
-         <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
-         </a>
-         <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
-         </a>
+        <div class="bannerObject external fixedBanner" data-image-scale="true" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" data-is-delayed="false" src="/ImageRepository/Document?documentID=89" width="1280px"/>
         </div>
        </div>
       </div>
@@ -1438,7 +1445,7 @@
             </li>
             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="175" id="SideItem175" tabindex="-1">
              <div class="accordionNavItem">
-              <a aria-describedby="audioeye_new_window_message" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="https://www.google.com/maps/d/u/0/viewer?mid=1FjtBs8SVp4PQjLmY09QUr9z-Pks&amp;z=10" target="_blank">
+              <a aria-label="District Maps Opens in new window" class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="https://www.google.com/maps/d/u/0/viewer?mid=1FjtBs8SVp4PQjLmY09QUr9z-Pks&amp;z=10" rel="noopener" target="_blank">
                District Maps
               </a>
              </div>
@@ -1463,7 +1470,7 @@
               </li>
               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="348" id="SideItem348" tabindex="-1">
                <div class="accordionNavItem">
-                <a aria-describedby="audioeye_new_window_message" class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="https://www.google.com/maps/d/u/0/edit?mid=1hEV3_pg_lGYn2y9-0Tu8FXkt7_Ls2Os&amp;z=19" target="_blank">
+                <a aria-label="Early Voting Locations Map Opens in new window" class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="https://www.google.com/maps/d/u/0/edit?mid=1hEV3_pg_lGYn2y9-0Tu8FXkt7_Ls2Os&amp;z=19" rel="noopener" target="_blank">
                  <span lang="en">
                   Early Voting Locations Map
                  </span>
@@ -1907,7 +1914,7 @@
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="161" id="submenu-lvl1-161">
               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="306" id="SideItem306" tabindex="0">
                <div class="accordionNavItem">
-                <a aria-describedby="audioeye_new_window_message" class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="/291/Check-My-Voter-RANDOM-Status" target="_blank">
+                <a aria-label="Check My Vote-by-Mail Status Opens in new window" class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="/291/Check-My-Voter-RANDOM-Status" rel="noopener" target="_blank">
                  <span lang="en">
                   Check My Vote-by-Mail Status
                  </span>
@@ -2166,7 +2173,7 @@
                          </h1>
                          <p>
                           <span data-pasted="true">
-                           <a aria-describedby="audioeye_new_window_message" href="https://www.lee.vote/176/Current-RANDOM-RANDOM" rel="noopener" target="_blank">
+                           <a aria-label="View a breakdown of ballots cast for an upcoming election. Opens in new window" href="https://www.lee.vote/176/Current-RANDOM-RANDOM" rel="noopener" target="_blank">
                             View a breakdown of ballots cast for an upcoming election.
                            </a>
                           </span>
@@ -2196,7 +2203,7 @@
                          <p>
                           <span>
                            For early voting information, including hours, locations, and wait times,
-                           <a aria-describedby="audioeye_new_window_message" href="https://www.lee.vote/174/Early-Voting-RANDOM" rel="noopener" target="_blank">
+                           <a aria-label="visit our Early Voting Information page Opens in new window" href="https://www.lee.vote/174/Early-Voting-RANDOM" rel="noopener" target="_blank">
                             visit our Early Voting Information page
                            </a>
                            .
@@ -2217,7 +2224,7 @@
                           <br/>
                           <span>
                            <span>
-                            <a aria-describedby="audioeye_new_window_message" href="https://www.lee.vote/291/Check-My-Voter-RANDOM-Status" rel="noopener" target="_blank">
+                            <a aria-label="Find your voter-specific Sample Ballot Opens in new window" href="https://www.lee.vote/291/Check-My-Voter-RANDOM-Status" rel="noopener" target="_blank">
                              Find your voter-specific Sample Ballot
                             </a>
                            </span>
@@ -2225,7 +2232,7 @@
                          </p>
                          <p>
                           <span>
-                           <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/1074" rel="noopener" target="_blank">
+                           <a aria-label="View the all-inclusive Sample Ballot Opens in new window" class="docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/1074" rel="noopener" target="_blank">
                             View the all-inclusive Sample Ballot
                            </a>
                           </span>
@@ -2268,7 +2275,7 @@
                          <p>
                           <span>
                            For more information on registering to vote,
-                           <a aria-describedby="audioeye_new_window_message" href="https://www.lee.vote/290/How-Do-I-RANDOM-to-Vote" rel="noopener" target="_blank">
+                           <a aria-label="visit our Voter Registration Information page Opens in new window" href="https://www.lee.vote/290/How-Do-I-RANDOM-to-Vote" rel="noopener" target="_blank">
                             visit our Voter Registration Information page
                            </a>
                            .
@@ -2305,7 +2312,7 @@
                            </li>
                            <li>
                             Visit
-                            <a aria-describedby="audioeye_new_window_message" data-saferedirecturl="https://www.google.com/url?q=http://www.RegistertoVoteFlorida.gov&amp;source=gmail&amp;ust=HEX&amp;usg=AOvVaw2N83jIQL5D_Hah04bQi-82" href="http://www.registertovoteflorida.gov/" target="_blank">
+                            <a aria-label="RegisterToVoteFlorida.gov Opens in new window" data-saferedirecturl="https://www.google.com/url?q=http://www.RegistertoVoteFlorida.gov&amp;source=gmail&amp;ust=HEX&amp;usg=AOvVaw2N83jIQL5D_Hah04bQi-82" href="http://www.registertovoteflorida.gov/" rel="noopener" target="_blank">
                              RegisterToVoteFlorida.gov
                             </a>
                             to update your record.
@@ -2341,7 +2348,7 @@
                          <p>
                           <span>
                            You can keep up with everything happening at Lee County Elections
-                           <a href="https://www.lee.vote/261/Newsletter" rel="noopener" target="_blank">
+                           <a aria-label="by reading our Quarterly Newsletter Opens in new window" href="https://www.lee.vote/261/Newsletter" rel="noopener" target="_blank">
                             by reading our Quarterly Newsletter
                            </a>
                            .
@@ -2350,7 +2357,7 @@
                          <p>
                           <span>
                            Be sure to
-                           <a href="https://vote.us15.list-manage.com/subscribe" rel="noopener" target="_blank">
+                           <a aria-label="subscribe to our newsletter Opens in new window" href="https://vote.us15.list-manage.com/subscribe" rel="noopener" target="_blank">
                             subscribe to our newsletter
                            </a>
                            so you don't miss anything!
@@ -2366,19 +2373,19 @@
                          <p>
                           <span>
                            If you need assistance, you have the option to use our online service tools, which are available on this site and do not require an in-person visit to our office. On this site, you can
-                           <a aria-describedby="audioeye_new_window_message" href="https://www.lee.vote/290/How-Do-I-RANDOM-to-Vote" rel="noopener" target="_blank">
+                           <a aria-label="register to vote Opens in new window" href="https://www.lee.vote/290/How-Do-I-RANDOM-to-Vote" rel="noopener" target="_blank">
                             register to vote
                            </a>
                            ,
-                           <a aria-describedby="audioeye_new_window_message" href="https://www.lee.vote/284/Update-My-Voter-RANDOM-RANDOM" rel="noopener" target="_blank">
+                           <a aria-label="update your voter registration record Opens in new window" href="https://www.lee.vote/284/Update-My-Voter-RANDOM-RANDOM" rel="noopener" target="_blank">
                             update your voter registration record
                            </a>
                            , make or update a
-                           <a aria-describedby="audioeye_new_window_message" href="https://www.lee.vote/303/Vote-by-Mail-Ballot-Request" rel="noopener" target="_blank">
+                           <a aria-label="Vote-by-Mail ballot request Opens in new window" href="https://www.lee.vote/303/Vote-by-Mail-Ballot-Request" rel="noopener" target="_blank">
                             Vote-by-Mail ballot request
                            </a>
                            , or
-                           <a aria-describedby="audioeye_new_window_message" href="https://www.lee.vote/297/Contact-Us" rel="noopener" target="_blank">
+                           <a aria-label="contact us Opens in new window" href="https://www.lee.vote/297/Contact-Us" rel="noopener" target="_blank">
                             contact us
                            </a>
                            .
@@ -2408,7 +2415,7 @@
             </div>
            </div>
           </div>
-          <aside aria-label="2026 Elections" class="secondaryContent" data-cprole="contentContainer" id="featureColumn" role="presentation">
+          <aside aria-label="2026 Elections" class="secondaryContent" data-cprole="contentContainer" id="featureColumn">
            <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" data-contentcontainerbreakpoint="40" id="ccGUID">
             <div class="row outer">
              <div class="outer col col24 first last" data-widgetcontainerid="GUID">
@@ -2430,7 +2437,7 @@
                       <ul class="semanticList" role="presentation">
                        <li class="widgetItem GraphicLinks">
                         <div>
-                         <a aria-label="Click to edit... Opens in new window" class="fancyButton fancyButton65" href="/facebook" target="_blank">
+                         <a aria-label="Click to edit... Opens in new window" class="fancyButton fancyButton65" href="/facebook" rel="noopener" target="_blank">
                           <span>
                            <span>
                             <span class="text">
@@ -2447,7 +2454,7 @@
                       <ul class="semanticList" role="presentation">
                        <li class="widgetItem GraphicLinks">
                         <div>
-                         <a aria-label="Click to edit... Opens in new window" class="fancyButton fancyButton66" href="/instagram" target="_blank">
+                         <a aria-label="Click to edit... Opens in new window" class="fancyButton fancyButton66" href="/instagram" rel="noopener" target="_blank">
                           <span>
                            <span>
                             <span class="text">
@@ -2464,7 +2471,7 @@
                       <ul class="semanticList" role="presentation">
                        <li class="widgetItem GraphicLinks">
                         <div>
-                         <a aria-label="Click to edit... Opens in new window" class="fancyButton fancyButton67" href="/twitter" target="_blank">
+                         <a aria-label="Click to edit... Opens in new window" class="fancyButton fancyButton67" href="/twitter" rel="noopener" target="_blank">
                           <span>
                            <span>
                             <span class="text">
@@ -2481,7 +2488,7 @@
                       <ul class="semanticList" role="presentation">
                        <li class="widgetItem GraphicLinks">
                         <div>
-                         <a aria-label="Click to edit... Opens in new window" class="fancyButton fancyButton68" href="/youtube" target="_blank">
+                         <a aria-label="Click to edit... Opens in new window" class="fancyButton fancyButton68" href="/youtube" rel="noopener" target="_blank">
                           <span>
                            <span>
                             <span class="text">
@@ -2551,7 +2558,7 @@
                    </span>
                   </h2>
                   <p aria-hidden="true" data-pasted="true" tabindex="-1">
-                   <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/655" rel="noopener" target="_blank">
+                   <a aria-describedby="audioeye_new_window_message" aria-label="Notice of General Election Opens in new window" class="docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/655" rel="noopener" target="_blank">
                     <span>
                      Notice of General Election
                     </span>
@@ -2567,7 +2574,7 @@
                    </span>
                    <br/>
                    <span>
-                    <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/725" rel="noopener" target="_blank">
+                    <a aria-describedby="audioeye_new_window_message" aria-label="Notice of General Election Opens in new window" class="docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/725" rel="noopener" target="_blank">
                      Notice of General Election
                     </a>
                    </span>
@@ -2580,7 +2587,7 @@
                    <br/>
                   </p>
                   <h3>
-                   <a aria-describedby="audioeye_new_window_message" href="http://lee.vote/254/November-3-2026" rel="noopener" target="_blank">
+                   <a aria-describedby="audioeye_new_window_message" aria-label="Tuesday, November 3, 2026 Opens in new window" href="http://lee.vote/254/November-3-2026" rel="noopener" target="_blank">
                     <strong>
                      <span data-pasted="true">
                       Tuesday, November 3, 2026
@@ -2975,12 +2982,13 @@
   </div>
   <div>
   </div>
-  <div class="hidden activeWidgetSkinComponentsOnPageJson">
-   []
-  </div>
   <div>
   </div>
   <div id="root-picker-outlet">
+  </div>
+  <ul class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" id="ui-id-1" role="presentation" tabindex="0">
+  </ul>
+  <div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status">
   </div>
   <div class="VIpgJd-yAWNEb-L7lbkb skiptranslate" data-id="" id="goog-gt-tt">
    <div class="VIpgJd-yAWNEb-hvhgNd" id="goog-gt-vt">
@@ -3032,6 +3040,12 @@
   <div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf">
    <div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO">
    </div>
+  </div>
+  <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
+   <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
+   </a>
+   <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
+   </a>
   </div>
   <div data-nosnippet="" id="ae_app">
    <div class="ae-module" id="ae_helpers">

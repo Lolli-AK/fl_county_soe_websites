@@ -75,15 +75,15 @@ By The Numbers
 As of:
 11/1/26
 Democrats:
-194,433
+194,724
 Republicans:
-244,608
+244,810
 No Party Affiliation:
-153,655
+153,943
 Other:
-24,237
+24,207
 Total:
-616,933
+617,684
 Contact Us
 Elections Service Center
 13001 Starkey Road

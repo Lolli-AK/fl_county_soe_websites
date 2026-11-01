@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votepalmbeach.gov/191/Election-Dates-Deadlines"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-01T04:51:52Z",
-  "html_sha256": "c4caa06117590af844a45c4ec2229b8d9404e4c28c306c7b2df7d850f73fb694",
-  "text_sha256": "a4ab7edc29b262d8b47becaab32bab96a06d829e7356322649353c7a2e955b34",
-  "byte_size": 3332,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-01T12:48:48Z",
+  "html_sha256": "0dd54a916e4a032f019a0b6f3dbe8f0e7545f03c68a1bdd75db3a382d07fabff",
+  "text_sha256": "77d86aaf065dd08a47267765d54def516f7d63dcf1343dbac04cceb50341cdb7",
+  "byte_size": 72619,
+  "title": "Election Dates & Deadlines | Palm Beach County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
