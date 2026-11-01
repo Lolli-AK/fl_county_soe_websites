@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votemarion.gov/31/Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-01T14:36:20Z",
-  "html_sha256": "18d208c7dd3fcf8e49a026a9f56922faac7c952008ac1245128c95ae059d3ad4",
-  "text_sha256": "cf218e210dd525a901efaee608ad924885fd4cab370cea09a25d32be0e7d2fbb",
-  "byte_size": 60477,
-  "title": "Elections | Marion County Elections, FL",
+  "fetched_at": "2026-11-01T19:23:57Z",
+  "html_sha256": "1becb2c840040abe75dd23d3175a09d763b315b6d7f4009a364ee0b77fbbd2de",
+  "text_sha256": "8d817bc10191f173193ed4a60820dc53b58af4f8a43598616fdd826f9110a6f7",
+  "byte_size": 3332,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
