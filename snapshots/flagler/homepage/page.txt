@@ -129,6 +129,10 @@ Tuesday, November 3
 The deadline to return your ballot is 7:00 PM on Election Day.
 Voting In Person With A Mail Ballot:
 If you have requested and received a mail ballot but decide to vote in person, bring your ballot with you to the polls. The mail ballot will be canceled and voided, and you will be issued a new ballot at the polling location. You cannot use your voted mail ballot as a sample ballot in the voting booth. Instead, bring a sample ballot with you to use as a reference or take a photo of your voted ballot before you go vote.
+If you requested a mail ballot but didn't receive it, or don't bring it with you, the election workers will confirm that you have not voted before issuing a ballot at the polling location.
+Do you know where to vote?
+Use our Precinct Finder to find your voting location.
+Find My Precinct
 Vote by Mail
 Early Voting
 My Voter Status
