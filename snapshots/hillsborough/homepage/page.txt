@@ -1,5 +1,6 @@
 Hillsborough County Elections, FL | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Election Info
 Tues, Nov. 3 is Election Day - 2026 General
@@ -25,10 +26,15 @@ Track your Vote By Mail ballot
 Find out where you vote on Election Day
 Find a personalized sample ballot
 Active Voter Registration in Hillsborough County:
+831,708
 As of:
+11/2/26
 Democrats:
+280,946
 Republicans:
+299,781
 Other:
+250,981
 News
 Hillsborough County General Election Update — Last Weekend of Early Voting
 Hillsborough County Supervisor of Elections Craig Latimer is reminding voters they can vote early this weekend. Here’s what they should know ...
@@ -348,7 +354,6 @@ Zapotec
 Zulu
 Powered by
 Translate
-[]
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate

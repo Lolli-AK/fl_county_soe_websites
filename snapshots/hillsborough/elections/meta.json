@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votehillsborough.gov/AlertCenter.aspx"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-02T19:10:07Z",
-  "html_sha256": "ae43ce3de7973a6b2209b1ac12ebd77c8b1b3ad809d88f1f37616f83741ee06f",
-  "text_sha256": "eaafc54fc6b68819ed8038e59e443b2942ed5b4d98599d4c0963086c8522d0cf",
-  "byte_size": 64554,
-  "title": "Alert Center • Hillsborough County Elections, FL • CivicEnga",
+  "fetched_at": "2026-11-02T20:59:11Z",
+  "html_sha256": "d6ad0c0382eba1740e5a067c4a5a350071f8ab90e9ce1dd2919be9d4607343ff",
+  "text_sha256": "e3e938d77c8d82135d7ab62f0715432c2a4499f447b7e95b2d36d585478208a4",
+  "byte_size": 3225,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

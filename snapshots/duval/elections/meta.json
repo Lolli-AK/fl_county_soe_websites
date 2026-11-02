@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.duvalelections.gov/27/Voter-Information"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-02T19:10:07Z",
-  "html_sha256": "2392c91135fb194400e91be793e9726bbcff99994040efe52ae4ef1f5d70f5d1",
-  "text_sha256": "43190496a9d483f7216ece294c7f9e1038dbed8a8850ace1d3a448937b4061e1",
-  "byte_size": 80463,
-  "title": "Voter Information | Duval County Elections, FL Official Website",
+  "fetched_at": "2026-11-02T20:59:11Z",
+  "html_sha256": "2d49aea309330e988f224b08ca82cbd65085c5e1643d88a9f89bc3b115afea30",
+  "text_sha256": "a2a143e96d25ac52627e1c1ba036d789f317594e24c0850bb5c63f2cc552b727",
+  "byte_size": 3193,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 6
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
