@@ -120,7 +120,6 @@ Sample Ballots
 Election Mail
 Submit A Public Records Request
 ‹
-Early Voting is now open through Sun., Nov. 1 from 8:00 AM to 8:00 PM.
 Karen Castor Dentel
 GEneral election
 November 3, 2026
@@ -149,13 +148,6 @@ October 16 @ 9:00 am
 November 2 @ 8:00 pm
 Vote-by-Mail Opening & Processing (General Election)
 Read More
-Oct
-19
-October 19 @ 8:00 am
-–
-November 1 @ 8:00 pm
-Early Voting (General Election)
-Read More
 Nov
 2
 8:00 am
@@ -170,76 +162,83 @@ Nov
 12:00 pm
 Signature Observation (General Election)
 Read More
+Nov
+2
+2:00 pm
+–
+7:00 pm
+Canvassing of Vote-by-Mail Ballots (General Election)
+Read More
 View Calendar
 VOTER STATISTICS
 Registered Active Voters
-as of 10/31/2026
+as of 11/01/2026
 Switch to details
 Switch to summary
 Party
 Count
 Percentage
 Dem.
-325,086
-39.23%
+325,757
+39.25%
 Rep.
-228,961
-27.63%
+229,107
+27.61%
 Other
-33,581
-4.05%
+33,653
+4.06%
 NPA
-241,012
-29.09%
+241,366
+29.08%
 Total
-828,640
+829,883
 100%
 Party Name
 Count
 Florida Democratic Party
-325,086
+325,757
 NO PARTY AFFILIATION
-241,012
+241,366
 Republican Party Of Florida
-228,961
+229,107
 Independent Party of Florida
-18,761
+18,794
 Boricua Party
-3,144
+3,152
 America First Party of Florida
-2,624
+2,636
 Conservative Party of Florida
-2,475
+2,477
 Libertarian Party of Florida
-2,108
+2,110
 Constitution Party of Florida
 1,079
 Coalition With A Purpose Party
-965
+968
 American Solidarity Party of Florida
-784
+788
 Green Party of Florida
-733
+737
 Ecology Party of Florida
 352
 Party for Socialism and Liberation – Florida
 259
 Florida Forward Party
-242
+245
 We the People Florida
-43
+44
 Jeffersonian Party of Florida
 6
 MGTOW Party
 6
 Total
-828,640
+829,883
 Vote By Mail Standing Request Totals
-as of 10/31/2026
+as of 11/01/2026
 Election Name
 Count
 2026 General Election
-128,176
+128,186
 Permanent VBM requests 2025-2026
 117,912
 BY THE NUMBERS

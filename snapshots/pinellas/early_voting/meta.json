@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-02T00:21:54Z",
-  "html_sha256": "9e61298d3f514b4a5b9e039dcd2e8fc222ae241e4c60a2ea3e3dc9322be7b8fd",
+  "fetched_at": "2026-11-02T10:39:28Z",
+  "html_sha256": "566733248ce33da6064dc86d10ac45e1400304e3a1ca8220b7db437afb17ad81",
   "text_sha256": "d3ff3861455d5c3cfb5fb0c02815481c5cb989da0c84c0d7051a0fdd6cdaeff7",
-  "byte_size": 68600,
+  "byte_size": 68598,
   "title": "Early Voting | Pinellas County Election, FL",
   "noncitizen_voting": {
     "present": false,

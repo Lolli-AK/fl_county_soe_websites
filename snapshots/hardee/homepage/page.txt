@@ -100,10 +100,10 @@ Scholarship Information
 [rotating image slideshow removed for determinism]
 Active Registered Voters as of 11/02/2026:
 Dem: 2,536
-Rep: 6,675
+Rep: 6,674
 Oth: 2,420
 NPA: 0
-Total: 11,631
+Total: 11,630
 Register to Vote or Update Voter Information
 Request Absentee Ballot
 Find My Precinct

@@ -26,10 +26,6 @@ Coming Elections
 Latest News & Events
 Stay up to date with Sarasota County Elections
 News Flash
-In-person Early Voting Underway
-In-person early voting for the November 3 General Election began Monday, October 19 and runs through Sunday, November 1.
-Read on...
-about In-person Early Voting Underway
 Canvassing Board Schedule Updated
 The Sarasota County Canvassing Board meeting for Sunday, Nov. 1 has been canceled. The next meeting is scheduled for Monday, Nov. 2.
 Read on...
@@ -42,6 +38,10 @@ How to Vote by Mail
 Take a few moments to review the How to Vote by Mail instructions page to have a smooth mail ballot voting experience.
 Read on...
 about How to Vote by Mail
+New North Port Service Location
+Sarasota County Supervisor of Elections Ron Turner announces the opening of a new customer service office in North Port.
+Read on...
+about New North Port Service Location
 View All News
 News Flash
 /CivicAlerts.aspx
@@ -82,15 +82,15 @@ SARASOTA COUNTY, FL
 As of:
 11/2/26
 Democrats:
-82,164
+82,297
 Republicans:
-166,475
+166,658
 No Party Affiliation:
-74,154
+74,310
 Other:
-12,846
+12,878
 Total:
-335,639
+336,143
 Stay Connected
 READ AND SUBSCRIBE TO OUR ELECTION CONNECTION NEWSLETTER
 Election Connection

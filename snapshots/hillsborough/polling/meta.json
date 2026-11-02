@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-02T00:21:54Z",
-  "html_sha256": "c969c8ea51e227678a8994bc6137197271f367e3f0ee8071893b915e69b95922",
+  "fetched_at": "2026-11-02T10:39:28Z",
+  "html_sha256": "150b22d1d51620b91835fc8eda6627588a67381ab5798bcbd874d49a71d8ab10",
   "text_sha256": "e9aa6da9155d6b947487bfbaf6b79237fe87dff42b312f3e5ea04a7adfb63d95",
-  "byte_size": 71879,
+  "byte_size": 71878,
   "title": "Voting Precincts | Hillsborough County Elections, FL",
   "noncitizen_voting": {
     "present": false,
