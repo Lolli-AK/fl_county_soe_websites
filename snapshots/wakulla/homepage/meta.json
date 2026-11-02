@@ -7,23 +7,25 @@
     "https://wakullavotes.gov/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-01T19:23:57Z",
-  "html_sha256": "09e3f4d4f699898d5140b4633b3fce5c98efe5c3092d221380456dcf4a6f69fb",
-  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
-  "byte_size": 488,
-  "title": "One moment, please...",
+  "fetched_at": "2026-11-02T00:21:54Z",
+  "html_sha256": "7e08c1fea284cab4cbc1f6fe8d55c03b1afcba253810f8420a96428d3e8c8d46",
+  "text_sha256": "3fc10bf42c309a0c95ce1ea5ae596ca816676c2b293cab8f1a155065c285628e",
+  "byte_size": 106036,
+  "title": "Wakulla County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
   "error": null
 }

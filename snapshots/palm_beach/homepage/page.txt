@@ -2,9 +2,6 @@ Palm Beach County Elections, FL | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Loading
 Skip to Main Content
-Election Information
-Early Voting for the 2026 General Election is available from 7:00 am to 7:00 pm each day October 19th through November 1st
-Read On...
 Voters
 Candidates
 Elections
@@ -59,8 +56,6 @@ Notices
 Full Calendar
 Election Dates and Deadlines
 Full Calendar
-Mon, Oct. 19 - Sun, Nov. 1
-Early Voting - 2026 General Election
 Sun, Nov. 1
 Ballot Audit Scanning
 Mon, Nov. 2
@@ -69,11 +64,11 @@ Mon, Nov. 2
 Opening/Tabulation/Duplication and Audit Scanning (as needed)
 Mon, Nov. 2
 Canvassing Board Meeting
+Tue, Nov. 3
+Election Day - 2026 General Election
 View All Events
 /Calendar.aspx
 Election Dates and Deadlines
-Mon, Oct. 19 - Sun, Nov. 1
-Early Voting - 2026 General Election
 Tue, Nov. 3
 Election Day - 2026 General Election
 Tue, Nov. 3
@@ -82,7 +77,7 @@ View All Events
 /Calendar.aspx
 Active Registered Voters
 As of:
-11/1/26
+11/2/26
 Democrats:
 316,233
 Republicans:

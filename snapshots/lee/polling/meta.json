@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.lee.vote/245/Precincts-and-Polling-Places"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-01T19:23:57Z",
-  "html_sha256": "0e87dcfcac921132be1e0f1364ba593ba9d4ddb48fd25e71683b1714a43a1bf7",
-  "text_sha256": "7f7f9b413d9a9b69808ea56d55acaa5ad9e13dc958256bca8eebfdb2b49f1c58",
-  "byte_size": 3332,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-02T00:21:54Z",
+  "html_sha256": "a5ccaf37e2f38c689279c45734a2bda329a53f44ee92b59d0908610e5f91310a",
+  "text_sha256": "d6a30819ff20b0431888417c71aa8743b2ed502c0568f04ebfddabf8a6de5629",
+  "byte_size": 138591,
+  "title": "Precincts and Polling Places | Lee County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

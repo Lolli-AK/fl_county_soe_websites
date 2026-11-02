@@ -338,16 +338,18 @@ What is an Election Worker?
 Become an Election Worker
 Election Worker Portal
 Broward County
-Last Day to Vote Early!
-Early Voting Ends Today, November 1
-Vote at any Early Voting Site from 7 a.m. to 7 p.m. No need to go to your assigned precinct.
-Find Early Voting
-Find Your Election Day Polling Place
-Prefer to vote on Election Day? Find your assigned polling location.
+Vote on Election Day!
+Early Voting has ended.
+Election Day is
+Tuesday, November 3rd
+. Vote at your assigned precinct from 7 a.m. to 7 p.m.
 Find my Precinct
-Check Your Vote-By-Mail Status
-Already requested a mail ballot? Check the status of your ballot online.
+Check Your Ballot Status
+Ensure your vote-by-mail ballot was received and counted.
 Check Status
+Election Results Coming Soon
+Results will be available after 7:00 p.m. on Election Day.
+View Results
 View Your Sample Ballot
 Click the link below to view your personalized sample ballot.
 View Sample Ballot
@@ -416,7 +418,7 @@ Voter ID Requirements
 About Early Voting
 Vote by Mail Information
 As of
-11/1/26
+11/2/26
 1,367,922
 Eligible Voters
 593,849
