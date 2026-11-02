@@ -324,7 +324,7 @@ Poll Worker
 Register or Update
 Voter Info
 Vote by Mail
-Early Voting & Ballot Return
+Ballot Return
 Election Day Precinct
 Ballot Status Notifications
 Announced Candidates
@@ -347,9 +347,9 @@ Find my Precinct
 Check Your Ballot Status
 Ensure your vote-by-mail ballot was received and counted.
 Check Status
-Election Results Coming Soon
-Results will be available after 7:00 p.m. on Election Day.
-View Results
+Ballot Return Locations
+Ballots must arrive at Supervisor of Elections Office by 7:00 PM on Election Day.
+View Locations
 View Your Sample Ballot
 Click the link below to view your personalized sample ballot.
 View Sample Ballot

@@ -2,6 +2,9 @@ Hernando County SOE, FL | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Loading
 Skip to Main Content
+Canvassing Board
+The Canvassing Board is in session! Location - 16264 Spring Hill Dr. | Brooksville, FL 34604
+Read On...
 Election Information
 Voter Information
 Candidates
@@ -17,16 +20,10 @@ Select Language
 ​
 ▼
 Active Registered Voters:
-10/05/26
 Democrats:
-30,673
 Republicans:
-71,539
 Other:
-35,873
 Total:
-138,085
-NOTE: Election Books are closed. Totals are as of Book Closing
 Sample Ballots Now Available!
 Sample ballots for the 2026 General Election are now available.
 Check the
@@ -122,14 +119,14 @@ S
 3
 4
 5
-Fri, Oct. 23 - Mon, Nov. 2
-General Election - Scan Early Vote ballots into independent audit system
 Mon, Nov. 2
 General Election - Canvass of Vote-By-Mail Ballots
 Tue, Nov. 3
 Election Day - 2026 General Election
 Tue, Nov. 3
 General Election - Canvass of Vote-By-Mail Ballots
+Wed, Nov. 4
+General Election - Scan Election Day ballots into independent audit system
 View All Events
 Election Calendar
 /Calendar.aspx

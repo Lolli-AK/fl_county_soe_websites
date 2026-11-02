@@ -184,17 +184,17 @@ Wed,
 Nov
 11,
 2026
-Veteran’s Day
-Wed,
-Nov
-11,
-2026
 Veterans Day
 Thu,
 Nov
 26,
 2026
 Thanksgiving
+Thu,
+Dec
+24,
+2026
+Christmas
 View All Events
 Clay County Voter Totals
 November 2, 2026
@@ -207,7 +207,7 @@ NPA:
 Others:
 6,596
 Total:
-157,061
+Error
 Subscribe to Alerts
 Email (required)
 *

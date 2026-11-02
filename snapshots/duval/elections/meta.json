@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-02T10:39:28Z",
-  "html_sha256": "86828ab246f92c196338e686f36c67dc16c9c57caaae0f2471ac15d731e1a031",
-  "text_sha256": "3a35e6462037901fbc5c6c3f99a24bca7fb58fd61a144b2d96084462a0542954",
-  "byte_size": 106887,
+  "fetched_at": "2026-11-02T17:19:41Z",
+  "html_sha256": "246cb77c9e4faf8ae959ccca54440efe76ed57fda82130a90785dea95ebade1c",
+  "text_sha256": "039b8c8189618daec62cfd2fdce6a92358b2a9d8e144905880c0f8f4d066a446",
+  "byte_size": 100215,
   "title": "Voter Information | Duval County Elections, FL Official Website",
   "noncitizen_voting": {
     "present": false,
@@ -25,7 +25,7 @@
     "terms": [
       "military_overseas_voter"
     ],
-    "count": 7
+    "count": 6
   },
   "error": null
 }

@@ -18,17 +18,11 @@ Contact Us
 Voter Stats
 Voter statistics in Collier County
 As of:
-11/2/26
 Democrats:
-52,041
 Republicans:
-147,854
 No Party Affiliation:
-58,697
 Other:
-8,777
 Total:
-267,369
 Vote by Mail
 Request My Vote-by-Mail Ballot
 Track My Vote-by-Mail Ballot
@@ -49,16 +43,16 @@ stay up-to-date
 News
 Upcoming Events
 News
+Tomorrow is Election Day for the 2026 General Election
+Tomorrow, November 3, is Election Day and is the last opportunity to vote in the General Election. Polls will be open from 7 a.m. until 7 p.m. and voters who vote in person must do so at their assigned precinct.
+Read on...
+about
 Collier County Supervisor of Elections Partners with Collier Area Transit to Offer Free Rides to the
 The Collier County Supervisor of Elections office is partnering with Collier Area Transit (CAT) to offer free transportation to voters on Saturday, October 31, in recognition of the final day of Early Voting for the 2026 General Election.
 Read on...
 about
 Golden Gate High School Wins 13th Annual High School Voter Registration Challenge
 Collier County, Fla. — October 26, 2026: The Collier County Supervisor of Elections office partnered with local Collier County high schools to challenge students to register and pre-register to vote.
-Read on...
-about
-Today is the Last Day of Early Voting for the 2026 General Election
-Collier County, Fla. — October 31, 2026: Today, October 31, is the last day to vote early in the 2026 General Election. Polls will be open from 9 a.m. to 6 p.m., and registered voters can vote at any of the 11 locations across Collier County.
 Read on...
 about
 /CivicAlerts.aspx
@@ -107,10 +101,6 @@ S
 03
 04
 05
-Mon, Nov 2
-Canvassing Board Meeting - General Election
-Canvassing Board Meeting - General Election
-Read On
 Tue, Nov 3
 Canvassing Board Meeting - General Election
 Canvassing Board Meeting - General Election
@@ -122,6 +112,10 @@ Read On
 Fri, Nov 6
 Canvassing Board Meeting - General Election
 Canvassing Board Meeting - General Election
+Read On
+Fri, Nov 6
+Marco Island Library
+Marco Island Library
 Read On
 View All Events
 /Calendar.aspx

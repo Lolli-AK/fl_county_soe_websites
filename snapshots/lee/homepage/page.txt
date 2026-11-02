@@ -3,7 +3,7 @@ This website is AudioEye enabled and is being optimized for accessibility. To op
 Loading
 Skip to Main Content
 Important Notice
-Election Day is Tuesday!
+Election Day is Tomorrow!
 Read More...
 Select Language
 Abkhaz
@@ -258,15 +258,10 @@ Powered by
 Translate
 Search
 Active Registered Voters:
-11/2/26
 Democrats:
-110,710
 Republicans:
-251,906
 Other:
-146,609
 Total:
-509,225
 Back to Home
 Register to Vote
 Vote By Mail
@@ -305,6 +300,8 @@ What We Do
 Who We Are
 Current Election Statistics
 District Maps
+Interactive Precinct Finder
+Lee County Districts Map
 Early Voting Information
 Early Voting Dates and Locations
 Early Voting Locations Map
@@ -379,6 +376,18 @@ Third Party Voter Registration
 Update My Voter Registration Information
 Voter's Guide
 Important Information
+Election Day is Tomorrow!
+Polls will be open from 7:00 a.m. to 7:00 p.m. You MUST be in line by 7 p.m. to cast your ballot.
+Determine your polling location or view a sample of your specific ballot.
+Identification Required for Voting
+Florida law requires voters to present a valid photo and signature identification before voting. Photo identification must not be expired.
+Approved forms of identification.
+Vote-by-Mail Ballots
+Vote-by-Mail ballots may be returned to any Supervisor of Elections office during regular business hours, or
+until 7:00 pm on Election Day
+.
+Office Locations
+You may NOT return your Vote-by-Mail ballot to your polling place on Election Day. However, you MAY surrender your ballot and vote in person.
 Current Election Statistics
 View a breakdown of ballots cast for an upcoming election.
 On election night, Tuesday, November 3, we will release and post preliminary, unofficial local election results shortly after 7:00 p.m. The 1st unofficial results, 2nd unofficial results (only for recounts), and official results will be compiled on the dates designated by the Canvassing Board Meetings and Logic and Accuracy Testing Schedule
