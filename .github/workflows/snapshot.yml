@@ -106,6 +106,13 @@ jobs:
 
       - uses: actions/checkout@v4
         if: steps.gate.outputs.go == 'true'
+        with:
+          # The branch tip, not the commit that triggered the run. A run that
+          # waited in the concurrency queue was triggered before the previous
+          # run's snapshot commit landed, so checking out its trigger commit
+          # made the push a non-fast-forward and lost the capture (five times
+          # between Oct 30 and Nov 3).
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-python@v5
         if: steps.gate.outputs.go == 'true'
@@ -141,12 +148,15 @@ jobs:
         if: failure() && steps.resume1.outcome == 'failure' && steps.gate.outputs.go == 'true'
         run: python scripts/snapshot.py --resume
 
+      # Rebase before pushing in case anything else landed during the run.
       # Push even after a failed step: a run that hit its deadline has still
       # committed what it captured. (Without !cancelled() this step was skipped
       # after any failure, so a successful --resume never reached the remote.)
       - name: Push snapshot commit
         if: ${{ !cancelled() && steps.gate.outputs.go == 'true' }}
-        run: git push
+        run: |
+          git pull --rebase origin "${{ github.ref_name }}"
+          git push origin HEAD:"${{ github.ref_name }}"
 
   # Election-night backup for GitHub's scheduler, which started only 1-2 runs
   # per workflow on Nov 2. After each capture this job waits until an hour
