@@ -2,18 +2,19 @@
   "county": "Hillsborough",
   "page_type": "homepage",
   "requested_url": "https://www.votehillsborough.gov",
-  "final_url": "https://www.votehillsborough.gov",
+  "final_url": "https://www.votehillsborough.gov/",
   "redirect_chain": [
-    "https://www.votehillsborough.gov"
+    "https://www.votehillsborough.gov",
+    "https://www.votehillsborough.gov/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-03T22:07:07Z",
-  "html_sha256": "965ca4ab3cf08ee7b27b63cd218228b1a2842ee87ba1be26c828614fe8799433",
-  "text_sha256": "2f898977493ed74d9de2fa467ba3ef48716126fac05aff3954f61c399471f2c9",
-  "byte_size": 54748,
+  "fetched_at": "2026-11-03T23:05:12Z",
+  "html_sha256": "608650636c3a0fbe8d71694e12f68137180f1dd8bf70dba468baaf6e3588328b",
+  "text_sha256": "1f293d0fe4bfbb3ee53fc4b4522149117a2c89cdc82f28d9aa1a394feb1dc6cd",
+  "byte_size": 56473,
   "title": "Hillsborough County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,

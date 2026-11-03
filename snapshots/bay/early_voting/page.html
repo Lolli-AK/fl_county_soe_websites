@@ -28,7 +28,10 @@
      Skip to content
     </a>
     <header class="transition-all duration-700 flex flex-col lg:flex-wrap w-full fixed z-50 bg-white shadow-[0_3px_36px_#B4BED690]">
-     <div class="prose prose-invert w-full max-w-none bg-accent-dark text-white text-center p-2 leading-tight" tabindex="0">
+     <div :class="{
+          'max-h-40 py-2': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+          'max-h-0 py-0 invisible': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+      }" class="prose prose-invert w-full max-w-none bg-accent-dark text-white text-center px-2 leading-tight overflow-hidden transition-all duration-700" tabindex="0">
       <p>
        Election Day is Tuesday November 3rd, Polls Open 7AM-7PM!
       </p>
@@ -45,10 +48,10 @@
      </div>
      <div class="relative z-20 w-full">
       <div :class="{
-        'h-28 md:h-32 lg:h-32': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
-        'h-16 md:h-28 lg:h-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+          'h-28 md:h-32 lg:h-32': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+          'h-16 md:h-28 lg:h-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
       }" class="transition-all flex flex-col" v-cloak="">
-       <div :class="{ '-mt-12 2xl:-mt-14': scrollPosition &gt; 0 || openMenu == 'mobileMenu' }" class="bg-primary-dark h-12 2xl:h-14 py-2 w-full flex items-center justify-end relative z-20 transition-all">
+       <div :class="{ '-mt-12 2xl:mt-0': scrollPosition &gt; 0 || openMenu == 'mobileMenu' }" class="bg-primary-dark h-12 2xl:h-14 py-2 w-full flex items-center justify-end relative z-20 transition-all">
         <div class="hidden sm:block">
          <div class="flex gap-4 justify-center items-center">
           <a aria-label="follow us on facebook (link opens in a new tab)" href="https://www.facebook.com/bayvotesfl/" rel="noopener" target="_blank">
@@ -81,17 +84,17 @@
        </div>
        <div class="flex md:order-1 gap-4 bg-[#F5F5F5]">
         <a :class="{
-          'h-16 md:h-32 md:-mt-12 lg:h-32 2xl:-mt-14': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
-          'h-16 md:h-28 lg:h-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
-        }" class="flex lg:bg-white lg:relative lg:z-20" href="/">
+              'h-16 md:h-32 md:-mt-12 lg:h-32 2xl:-mt-14': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+              'h-16 md:h-28 lg:h-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+          }" class="flex lg:bg-white lg:relative lg:z-20" href="/">
          <img alt="Nina Ward, Supervisor of Elections" class="block h-full w-auto transition-all duration-500 relative z-20" height="144px" src="/images/bay-soe-headshot.webp" width="126px"/>
          <div :class="{
-            'md:pt-12': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
-            'md:pt-0 lg:py-2': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
-          }" class="my-auto transition-all p-1 lg:pt-0 lg:pr-8">
+                'md:pt-12': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+                'md:pt-0 lg:py-2': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+            }" class="my-auto transition-all p-1 lg:pt-0 lg:pr-8">
           <img :class="{
-                'xl:h-16': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
-                'my-auto xl:h-14': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+                  'xl:h-16': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+                  'my-auto xl:h-14': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
               }" alt="Bay County Supervisor of Elections" class="block mr-auto xl:max-w-xl max-h-full xl:my-auto h-12 md:h-14 lg:h-16 w-auto ml-0 transition-all duration-500" height="48" src="/images/bay-soe-wordmark.svg" width="174"/>
          </div>
         </a>

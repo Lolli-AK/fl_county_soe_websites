@@ -7,25 +7,23 @@
     "https://www.votenassaufl.gov"
   ],
   "http_status": 200,
-  "content_type": "text/html;charset=utf-8",
+  "content_type": "text/html;charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-03T22:07:07Z",
-  "html_sha256": "34bffc3a4171b7d1872af48877581af28a8941be12677e775e7b4869a4b43278",
-  "text_sha256": "49bb126004c885da1c2a698d3ea0d4405caa4ec2fc059e327f000d158929696c",
-  "byte_size": 151110,
-  "title": "Vote in Nassau County - Supervisor of Elections",
+  "fetched_at": "2026-11-03T23:05:12Z",
+  "html_sha256": "c0cbabf8860ffc2fa9de97f24328037c35d862296e4d16cb117c732cad2e5c17",
+  "text_sha256": "c4e5db0482b47525154bd94f7b63d58944a4f0ca699b92a508c6de167ddaec09",
+  "byte_size": 79487,
+  "title": "Help Desk Software for Small Business | Free 30-Day Trial",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

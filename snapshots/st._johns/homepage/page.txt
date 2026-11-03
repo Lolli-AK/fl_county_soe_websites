@@ -163,6 +163,7 @@ Data & Map Requests
 Political Signs
 ﻿
 Voter Turnout Report
+Election Night Results
 Voter Turnout Report
 ACTIVE REGISTERED VOTERS
 Numbers updated as of:
