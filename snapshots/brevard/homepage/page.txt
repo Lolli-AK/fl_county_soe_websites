@@ -135,15 +135,15 @@ Tim Bobanic
 Active Registered Voters as of:
 11/03/2026
 Republican
-209,184
+209,188
 Democratic
-113,533
+113,539
 Non-Partisan
-108,051
+108,053
 Others
 19,549
 Total
-450,317
+450,329
 Brevard County Supervisor of Elections
 Polling Place Changes Due to Severe Weather
 Due to extreme flooding conditions, the Brevard County Supervisor of Elections Office will be temporarily relocating a limited number of
@@ -173,6 +173,11 @@ Front Street Civic Center
 Joseph N. Davis Community Center
 2547 Bruce D. Buggs St.
 Melbourne, FL 32901
+320, 513, 522
+EFSC Palm Bay - Community Dining Rm
+Franklin T. DeGroodt Memorial Library
+6475 Minton Rd SE
+Palm Bay, FL 32909
 517
 Faith Baptist Church of Palm Bay
 Palm Bay City Hall Council Chambers

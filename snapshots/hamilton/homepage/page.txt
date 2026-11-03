@@ -132,6 +132,9 @@ State
 County
 City
 Search Website
+Election Results
+General Election (11/3/2026)
+View Unofficial Results
 Check Voter Status
 Register to Vote
 Update My Info

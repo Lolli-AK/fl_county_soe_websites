@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-03T05:42:35Z",
-  "html_sha256": "12f2d3dd5781110f0130ec386050d0a2b31aed92e45bcba63b370cd0291e1a32",
-  "text_sha256": "c8c80d5a4d1de28455b2f1c6dd2c70598fc2960f2005dab50b68b02dfef93c32",
-  "byte_size": 94977,
+  "fetched_at": "2026-11-03T12:35:51Z",
+  "html_sha256": "4643f85a08304596e56554ed7e5abfee9253aecb022e8b0dc637d3fb399f063e",
+  "text_sha256": "e3b0992df760c92d9f707717b1c63fca77b787a54a13eb6c17ea8fa35f46b08a",
+  "byte_size": 93829,
   "title": "Bay County Supervisor of Elections | Nina Ward",
   "noncitizen_voting": {
     "present": false,
@@ -25,7 +25,7 @@
     "terms": [
       "military_overseas_voter"
     ],
-    "count": 3
+    "count": 4
   },
   "error": null
 }

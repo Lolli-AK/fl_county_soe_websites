@@ -1,4 +1,5 @@
 Lake County Elections, FL | Official Website
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
@@ -12,6 +13,7 @@ Search
 [rotating image slideshow removed for determinism]
 2026 General Election
 November 3, 2026
+HOURLY TURNOUT
 UNOFFICIAL RESULTS
 My Voter Information & Sample Ballot
 Register to Vote
@@ -51,6 +53,7 @@ Events
 Canvassing Board
 Important Dates
 November 2026
+Calendar
 Sun
 Mon
 Tue
@@ -113,6 +116,7 @@ View All Events
 /Calendar.aspx
 Events
 November 2026
+Calendar
 Sun
 Mon
 Tue
@@ -160,6 +164,7 @@ View All Events
 /Calendar.aspx
 Canvassing Board
 November 2026
+Calendar
 Sun
 Mon
 Tue
@@ -249,3 +254,4 @@ Loading
 Do Not Show Again
 Close
 []
+Explore your accessibility options

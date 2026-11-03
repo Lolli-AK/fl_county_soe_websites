@@ -1,11 +1,11 @@
 Okeechobee County, FL
 Skip to content
 Active Registered Voters as of 11/03/2026:
-Dem: 4,388
-Rep: 12,547
-Oth: 905
-NPA: 3,140
-Total: 20,980
+Dem: 4,398
+Rep: 12,552
+Oth: 907
+NPA: 3,146
+Total: 21,003
 Home
 Voter Information
 Update Your Voter Registration Information
@@ -176,11 +176,11 @@ Petition Title
 Ineligibility Notices
 Potentially Ineligible VotersNOTICE OF REMOVAL OF ...
 See All
-General Election
-Early Vote
-Date: October 24th – 31st
-Time: 8:30am – 6:00pm
-Location: 307 NW 5th Avenue
+Polling Location Change
+Precinct 10 Ft. Drum Communnity Church has
+moved to Precinct 01
+Hightpoint Church
+4550 Hwy 441 N, Okeechobee FL 34972
 Election Day
 Date: November 3rd, 2026
 Time: 7:00am – 7:00pm
@@ -225,11 +225,11 @@ Contact Us Form
 Site powered by
 SOE Software
 Active Registered Voters as of 11/03/2026:
-Dem: 4,388
-Rep: 12,547
-Oth: 905
-NPA: 3,140
-Total: 20,980
+Dem: 4,398
+Rep: 12,552
+Oth: 907
+NPA: 3,146
+Total: 21,003
 General Election Sample Ballots
 ENGLISH
 SPANISH

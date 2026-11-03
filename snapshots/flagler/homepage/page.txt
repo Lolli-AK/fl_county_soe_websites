@@ -111,11 +111,10 @@ Election Day: November 3, 2026
 Voter Registration Deadline: October 5, 2026
 2026 General Election Information
 Live Election Turnout
-Early Voting Has Ended
-Early voting ended on Saturday, October 31. You must vote in your assigned precinct voting location on
-Tuesday, November 3, 2026.
 Election Day Voting
-You must vote in your ASSIGNED precinct voting location on Election Day. There are 21 precincts in Flagler County, find yours:
+You must vote in your assigned precinct voting location on
+Tuesday, November 3, 2026. The Elections Office is not a voting precinct.
+There are 21 precincts in Flagler County, find yours:
 Precinct Finder
 Do You Vote By Mail?
 It's too late to mail your ballot. Bring your voted mail ballot to the Elections Office!
@@ -123,17 +122,19 @@ The deadline to request a mail ballot was October 22, 2026. The deadline to requ
 Returning your mail ballot:
 Voted mail ballots cannot be returned to polling places on Election Day. If you still have your ballot, bring it directly to the Elections Office.
 Elections Office Hours
-Monday, November 2
-8:30 AM - 4:30 PM
 Tuesday, November 3
 7:00 AM - 7:00 PM
 The deadline to return your ballot is 7:00 PM on Election Day.
 Voting In Person With A Mail Ballot:
 If you have requested and received a mail ballot but decide to vote in person, bring your ballot with you to the polls. The mail ballot will be canceled and voided, and you will be issued a new ballot at the polling location. You cannot use your voted mail ballot as a sample ballot in the voting booth. Instead, bring a sample ballot with you to use as a reference or take a photo of your voted ballot before you go vote.
 If you requested a mail ballot but didn't receive it, or don't bring it with you, the election workers will confirm that you have not voted before issuing a ballot at the polling location.
-Do you know where to vote?
+Do you want to vote in-person? Do you know where to vote?
 Use our Precinct Finder to find your voting location.
 Find My Precinct
+Election Results
+Election results will be available after 7:00 PM on Election Day. Thank you for voting!
+Flagler County Election Results
+Statewide Election Results
 Vote by Mail
 Early Voting
 My Voter Status
@@ -229,15 +230,15 @@ Contact Us
 Flagler County Active Voter Registration Totals
 11/3/26
 Democrat:
-23,880
+23,894
 Republican:
-52,129
+52,137
 NPA:
-20,789
+20,803
 Other:
-4,511
+4,514
 Total:
-101,309
+101,348
 Accessibility
 |
 Privacy Policy

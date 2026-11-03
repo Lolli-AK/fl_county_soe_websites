@@ -87,11 +87,9 @@ What is an Election Worker?
 Become an Election Worker
 Election Worker Portal
 Broward County
-Vote on Election Day!
-Early Voting has ended.
-Election Day is
-Tuesday, November 3rd
-. Vote at your assigned precinct from 7 a.m. to 7 p.m.
+Today is Election Day!
+Vote at your assigned precinct today.
+Polls are open from 7 a.m. to 7 p.m. You must be in line by 7 p.m. to vote.
 Find my Precinct
 Check Your Ballot Status
 Ensure your vote-by-mail ballot was received and counted.
@@ -103,10 +101,16 @@ View Your Sample Ballot
 Click the link below to view your personalized sample ballot.
 View Sample Ballot
 Announcements
+Precinct Change: T018 has moved to T013
+Due to severe flooding, the polling location for Precinct T018, originally located at Paradise Village Clubhouse (12850 W State Road 84, Davie 33325), has been relocated to Precinct T013 at
+Tree Tops Park, located at: 3900 SW 100th Avenue Davie, FL 33328
+.
+Click here to view notice
+.
 Turnout Statistics for the 11/3/2026 Election and Maps
-Early Voting Totals by Date and Location
 Unofficial Voter Turnout Statistics for the 11/3/2026 General Election
 Unofficial Vote-by-Mail Statistics for the 11/3/2026 General Election
+Early Voting Totals by Date and Location
 Find My Representative & View Broward County Maps
 View the 2026 Congressional Redistricting Interactive Map
 11/3/2026 Election - Early Voting and Secure Ballot Intake Stations Schedules
