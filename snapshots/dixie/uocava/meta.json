@@ -2,33 +2,29 @@
   "county": "Dixie",
   "page_type": "uocava",
   "requested_url": "https://dixievotes.gov/voter-registration/military-overseas-voters/",
-  "final_url": "https://dixievotes.gov/voter-registration/military-overseas-voters/",
+  "final_url": "https://static.dixievotes.gov/voter-registration/military-overseas-voters/",
   "redirect_chain": [
-    "https://dixievotes.gov/voter-registration/military-overseas-voters/"
+    "https://dixievotes.gov/voter-registration/military-overseas-voters/",
+    "https://static.dixievotes.gov/voter-registration/military-overseas-voters/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-03T01:55:17Z",
-  "html_sha256": "c048fb669a012b3d452b6e64c3db1e6c41bf239e8bdb00486cba048f413f6b17",
-  "text_sha256": "2c85ada125fcf5c4385e1077e3c37c8284d248600a326b128d7a2810011d3395",
-  "byte_size": 117679,
-  "title": "Military/Overseas Voters – Dixie County Supervisor of Elections",
+  "fetched_at": "2026-11-03T05:42:35Z",
+  "html_sha256": "b27cb680035d1d4320f90d185c9b5a79cdacd6636819d51abba514e7599231a7",
+  "text_sha256": "24b01526b9ebb91ba525270ac66d2474d83e0204055ce2dfaa335519b597a262",
+  "byte_size": 2484,
+  "title": "Dixie County - Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 18
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

@@ -2,32 +2,29 @@
   "county": "Jackson",
   "page_type": "uocava",
   "requested_url": "https://votejacksonfl.gov/military-and-overseas-voters/",
-  "final_url": "https://votejacksonfl.gov/military-and-overseas-voters/",
+  "final_url": "https://static.votejacksonfl.gov/military-and-overseas-voters/",
   "redirect_chain": [
-    "https://votejacksonfl.gov/military-and-overseas-voters/"
+    "https://votejacksonfl.gov/military-and-overseas-voters/",
+    "https://static.votejacksonfl.gov/military-and-overseas-voters/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-03T01:55:17Z",
-  "html_sha256": "6c411fee7337246b4f6917c10afea812aaa9c2262832943f316a43647e46ce1e",
-  "text_sha256": "e71ac69aec2acab5d22097587d6dd77413821e4aff56d054e029c6489f776f5c",
-  "byte_size": 67771,
-  "title": "Military and Overseas Voters – Jackson County (FL) Supervisor of Elections",
+  "fetched_at": "2026-11-03T05:42:35Z",
+  "html_sha256": "0662b2eeda79089f463bebbecc39cc65288bcad95f341534f5bfb9519508e20f",
+  "text_sha256": "87e8ebf38f05d5b223ef8bb48fb693aaef5ce688d065c37e3803d45425a130be",
+  "byte_size": 2685,
+  "title": "Jackson County - Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter"
-    ],
-    "count": 17
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

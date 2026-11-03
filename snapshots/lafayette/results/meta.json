@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://lafayettevotes.net/election-results/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 404,
+  "content_type": null,
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-03T01:55:17Z",
-  "html_sha256": "b2949029bfa660cbc272185579252fed26e11b83a79ff204ab82feeb4bb212c8",
-  "text_sha256": "bf0d1e69f727f5f1cdb260b5ac97b4bf11e6630081e9d7a5eb9739ab7fe79e35",
-  "byte_size": 97634,
-  "title": "Election Results – Lafayette County Supervisor of Elections",
+  "fetched_at": "2026-11-03T05:42:35Z",
+  "html_sha256": "8e1544a0cf6af6de1f83336f3382198914d875075a95b99022e31967f40b331a",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 49,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],

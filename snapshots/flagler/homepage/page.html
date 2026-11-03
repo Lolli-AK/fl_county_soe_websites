@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html class="t-chrome t-chrome125 no-applicationcache audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a canvas canvastext geolocation hashchange history inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color postmessage postmessage-structuredclones svg video no-video-ogg video-h264 no-video-h265 video-webm video-vp9 video-hls no-video-av1 webgl websockets cssanimations backgroundsize borderimage borderradius boxshadow csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox flexboxlegacy fontface generatedcontent cssgradients hsla multiplebgs opacity cssreflections rgba textshadow csstransforms supports csstransforms3d csstransitions localstorage sessionstorage no-websqldatabase svgclippaths inlinesvg smil webworkers tablesaw-enhanced no-os-high-contrast breakpoint-sc-size-1 indexeddb" lang="en-US">
  <head>
   <meta charset="utf-8"/>
   <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
@@ -32,8 +32,6 @@
    <div>
     <input id="ctl04_seamless_script_manager_TSM" name="ctl04_seamless_script_manager_TSM" type="hidden"/>
    </div>
-   <div class="unsupported-browser-warning js-element">
-   </div>
    <div hidden="">
     <span id="new-window-0">
      opens in new tab or window
@@ -46,7 +44,10 @@
      <header>
       <div class="toolbar-outer-container">
        <div class="toolbar-inner-container clearfix">
-        <div class="toolbar-item toolbar-quicklinks toolbar-display-dropdown">
+        <div class="toolbar-item toolbar-quicklinks loaded toolbar-item-list toolbar-display-links">
+         <div class="toolbar-item-list-heading visuallyhidden">
+          Quick Links:
+         </div>
          <button aria-controls="toolbar-quicklinks-drop-down" aria-expanded="false" class="toolbar-button toolbar-button-quicklinks js-element" type="button">
           <span>
            Quick Links
@@ -54,31 +55,31 @@
           <i aria-hidden="true">
           </i>
          </button>
-         <div class="toolbar-drop-down toolbar-quicklinks-drop-down clearfix" id="toolbar-quicklinks-drop-down">
+         <div class="toolbar-quicklinks-drop-down clearfix toolbar-link-list" id="toolbar-quicklinks-drop-down">
           <ul>
            <li>
-            <a class="oc-icon-b oc-i-facebook link-type-external link-hide-text" href="https://www.facebook.com/FlaglerElections" target="_blank">
+            <a aria-describedby="new-window-0" class="oc-icon-b oc-i-facebook link-type-external link-hide-text opens-in-new-tab" href="https://www.facebook.com/FlaglerElections" target="_blank">
              <span>
               Facebook
              </span>
             </a>
            </li>
            <li>
-            <a class="oc-icon-b oc-i-x link-type-external link-hide-text" href="https://x.com/flaglersoe" target="_blank">
+            <a aria-describedby="new-window-0" class="oc-icon-b oc-i-x link-type-external link-hide-text opens-in-new-tab" href="https://x.com/flaglersoe" target="_blank">
              <span>
               X
              </span>
             </a>
            </li>
            <li>
-            <a class="oc-icon-b oc-i-nextdoor link-type-external link-hide-text" href="https://nextdoor.com/agency-detail/fl/bunnell/flagler-county-supervisor-of-elections/" target="_blank">
+            <a aria-describedby="new-window-0" class="oc-icon-b oc-i-nextdoor link-type-external link-hide-text opens-in-new-tab" href="https://nextdoor.com/agency-detail/fl/bunnell/flagler-county-supervisor-of-elections/" target="_blank">
              <span>
               NextDoor
              </span>
             </a>
            </li>
            <li>
-            <a class="oc-icon-b oc-i-instagram link-type-external link-hide-text" href="https://www.instagram.com/flaglerelections/" target="_blank">
+            <a aria-describedby="new-window-0" class="oc-icon-b oc-i-instagram link-type-external link-hide-text opens-in-new-tab" href="https://www.instagram.com/flaglerelections/" target="_blank">
              <span>
               Instagram
              </span>
@@ -119,21 +120,16 @@
           <span aria-hidden="true" class="toolbar-language-globe-icon">
           </span>
           <span class="current-language" id="toolbar-language-label">
-           Select a language to translate to
+           English
+          </span>
+          <span class="visuallyhidden">
+           is your current preferred language.
           </span>
           <i aria-hidden="true">
           </i>
          </button>
          <div aria-label="Available languages" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix" id="toolbar-language-drop-down" role="listbox">
           <ul role="group">
-           <li role="presentation">
-            <a aria-selected="true" class="lang-item lang-en-us" data-translate-to="en-us" href="https://www.flaglerelections.gov/Home?oc_lang=en-US" id="toolbar-language-option-en-us" lang="en-US" role="option">
-             English
-             <span class="visuallyhidden">
-              Select this as your preferred language
-             </span>
-            </a>
-           </li>
            <li role="presentation">
             <a aria-selected="false" class="lang-item lang-es" data-translate-to="es" href="https://www.flaglerelections.gov/Home?oc_lang=es" id="toolbar-language-option-es" lang="en" role="option">
              Spanish
@@ -154,7 +150,7 @@
          </a>
         </div>
         <div class="mobile-search-btn js-element">
-         <button>
+         <button aria-expanded="false" class="not-pressed">
           <i aria-hidden="true">
           </i>
           <span class="mobile-search-btn-text">
@@ -166,10 +162,10 @@
          </button>
         </div>
         <div class="header-website-settings">
-         <button aria-controls="nav" aria-expanded="false" id="btn-mob-nav" type="button">
+         <button aria-controls="nav" aria-expanded="false" aria-label="Open side Menu" class="not-pressed" id="btn-mob-nav" type="button">
           <i aria-hidden="true">
           </i>
-          <span class="side-menu-btn-text">
+          <span aria-hidden="true" class="side-menu-btn-text">
            Menu
           </span>
          </button>
@@ -178,7 +174,7 @@
          <div aria-label="primary" class="navigation-container navigation-container-option-7" data-menu-type="horizontal" id="nav" role="navigation">
           <div class="grid">
            <div class="col-xs-12">
-            <ul class="sf-menu" id="sc-main-menu">
+            <ul aria-describedby="horizontal-menu-description" class="sf-menu sf-js-enabled sf-arrows level-1 sf-desktop" id="sc-main-menu">
              <li class="nav-section-quarters-1 first-item nav-item-seq-1">
               <a class="nav-level-1" href="https://www.flaglerelections.gov/Register-to-Vote" target="">
                <i aria-hidden="true" class="item-icon">
@@ -189,10 +185,10 @@
               </a>
              </li>
              <li class="nav-section-quarters-1 nav-item-seq-2">
-              <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/My-Voter-Info" target="">
+              <a class="nav-level-1 nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/My-Voter-Info" target="">
                My Voter Info
               </a>
-              <button aria-controls="sc-menu-second-level-nav-item-seq-2" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-2" aria-expanded="false" aria-haspopup="true" aria-label="Expand My Voter Info" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
@@ -235,10 +231,10 @@
               </ul>
              </li>
              <li class="nav-section-quarters-2 nav-item-seq-3">
-              <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/Elections" target="">
+              <a class="nav-level-1 nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Elections" target="">
                Elections
               </a>
-              <button aria-controls="sc-menu-second-level-nav-item-seq-3" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-3" aria-expanded="false" aria-haspopup="true" aria-label="Expand Elections" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
@@ -264,10 +260,10 @@
                 </a>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Elections/How-to-Vote" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Elections/How-to-Vote" target="">
                  How to Vote
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-5" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-5" aria-expanded="false" aria-haspopup="true" aria-label="Expand How to Vote" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -332,10 +328,10 @@
               </ul>
              </li>
              <li class="nav-section-quarters-2 nav-item-seq-4">
-              <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/Candidates" target="">
+              <a class="nav-level-1 nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Candidates" target="">
                Candidates
               </a>
-              <button aria-controls="sc-menu-second-level-nav-item-seq-4" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-4" aria-expanded="false" aria-haspopup="true" aria-label="Expand Candidates" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
@@ -393,19 +389,19 @@
               </ul>
              </li>
              <li class="nav-section-quarters-3 nav-item-seq-5">
-              <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM" target="">
+              <a class="nav-level-1 nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM" target="">
                Get Involved
               </a>
-              <button aria-controls="sc-menu-second-level-nav-item-seq-5" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-5" aria-expanded="false" aria-haspopup="true" aria-label="Expand Get Involved" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
               <ul id="sc-menu-second-level-nav-item-seq-5">
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/About-Us" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/About-Us" target="">
                  About Us
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-1" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-1" aria-expanded="false" aria-haspopup="true" aria-label="Expand About Us" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -438,10 +434,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Election-RANDOM" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Election-RANDOM" target="">
                  Election Security
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-2" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-2" aria-expanded="false" aria-haspopup="true" aria-label="Expand Election Security" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -474,10 +470,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/News" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/News" target="">
                  News
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-3" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-3" aria-expanded="false" aria-haspopup="true" aria-label="Expand News" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -495,10 +491,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Legal-Notices" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Legal-Notices" target="">
                  Legal Notices
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-4" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-4" aria-expanded="false" aria-haspopup="true" aria-label="Expand Legal Notices" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -521,10 +517,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Poll-Workers" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Poll-Workers" target="">
                  Poll Workers
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-5" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-5" aria-expanded="false" aria-haspopup="true" aria-label="Expand Poll Workers" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -537,10 +533,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Programs-and-Events" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Programs-and-Events" target="">
                  Programs and Events
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-6" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-6" aria-expanded="false" aria-haspopup="true" aria-label="Expand Programs and Events" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -578,10 +574,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Research-Data" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Research-Data" target="">
                  Research &amp; Data
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-7" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-7" aria-expanded="false" aria-haspopup="true" aria-label="Expand Research &amp; Data" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -614,10 +610,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Voter-RANDOM" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Voter-RANDOM" target="">
                  Voter Education
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-8" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-8" aria-expanded="false" aria-haspopup="true" aria-label="Expand Voter Education" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -677,17 +673,22 @@
               </ul>
              </li>
             </ul>
+            <div class="visuallyhidden list_help" id="horizontal-menu-description">
+             <p>
+              Select the Escape key to close the menu. Focus will then be set to the first menu item.
+             </p>
+            </div>
            </div>
           </div>
          </div>
         </div>
-        <div class="header-search-control-container" id="header-search">
+        <div aria-label="Sitewide search" class="header-search-control-container" id="header-search" role="search">
          <div class="search-inner-container">
           <div class="sc-search-panel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl08_btnSearch')">
            <label class="sc-search-label" for="ctl08_txtSearch" id="ctl08_lblSearch">
             Search
            </label>
-           <input class="sc-search-text" id="ctl08_txtSearch" name="ctl08$txtSearch" placeholder="What are you looking for?" type="text"/>
+           <input autocomplete="off" class="sc-search-text" id="ctl08_txtSearch" name="ctl08$txtSearch" placeholder="What are you looking for?" type="text"/>
            <input class="sc-search-button" id="ctl08_btnSearch" name="ctl08$btnSearch" type="submit" value="Search"/>
           </div>
           <div id="predictiveResults" role="status">
@@ -709,7 +710,7 @@
          <section class="row-index-1">
           <div class="row-container full-width clearfix">
            <div class="row-content-container full-width clearfix">
-            <div class="slideshow-widget profile-slideshow slideshow-layout-2" data-animation-style="slide" data-source-folder-name="Slider" id="Slider">
+            <div aria-label="Slide carousel: Slider" class="slideshow-widget profile-slideshow slideshow-layout-2" data-animation-style="slide" data-source-folder-name="Slider" id="Slider" role="region">
              [rotating image slideshow removed for determinism]
             </div>
            </div>
@@ -920,20 +921,36 @@
          <section class="row-index-4">
           <div class="row-container full-width clearfix">
            <div class="row-content-container fixed-width clearfix">
-            <div class="tab-group profile-featured-links" data-oc-tabs-name="tabs">
+            <div aria-label="Tabbed content" class="tab-group profile-featured-links" data-oc-tabs-name="tabs" role="region">
+             <div aria-describedby="tabs-header-1-description" aria-label="Tab selection with 2 tabs" aria-orientation="horizontal" class="js-element clearfix tab-group-header" id="tabs-header-1" role="tablist">
+              <a aria-controls="panel-1" aria-label="Events" aria-selected="true" class="tab-header-title for-panel-1 item-1 total-results-unknown notranslate tabs-header tab-type-default events tab-type-homepage-events-listing selected" href="#panel-1" id="panel-1-controller" role="tab" tabindex="0">
+               <i aria-hidden="true" class="item-icon">
+               </i>
+               <span class="item-text translate">
+                Events
+               </span>
+              </a>
+              <a aria-controls="panel-2" aria-label="News" aria-selected="false" class="tab-header-title for-panel-2 item-2 total-results-unknown notranslate tabs-header tab-type-default news tab-type-homepage-news-listing" href="#panel-2" id="panel-2-controller" role="tab" tabindex="-1">
+               <i aria-hidden="true" class="item-icon">
+               </i>
+               <span class="item-text translate">
+                News
+               </span>
+              </a>
+             </div>
              <div class="tab-group-body" id="tabs-body">
               <div class="no-js-element clearfix tabs-header for-panel-1 tab-type-default events tab-type-homepage-events-listing">
                <h1 class="item-text">
                 Events
                </h1>
               </div>
-              <div class="tabs-panel clearfix tab-type-default events tab-type-homepage-events-listing" id="panel-1">
+              <div aria-hidden="false" aria-label="Events Tab Panel" class="tabs-panel clearfix tab-type-default events tab-type-homepage-events-listing total-results-unknown selected" id="panel-1" role="tabpanel">
                <div class="wysiwyg-content body-content">
                 <div>
                  <div class="profile-listing-container profile-events-listing-container profile-events-listing-option-8 clearfix">
-                  <div class="profile-tabbed-listing profile-events-listing clearfix" data-total-results="2">
-                   <div class="grid">
-                    <div class="col-xs-12 col-m-6 col-lg-6">
+                  <div class="profile-tabbed-listing profile-events-listing clearfix" data-total-results="2" role="list">
+                   <div class="grid" role="presentation">
+                    <div class="col-xs-12 col-m-6 col-lg-6" role="listitem">
                      <a class="profile-list item-0 homepage-show" href="https://www.flaglerelections.gov/Events/2026-RANDOM-High-School-Reg-Drive">
                       <picture>
                        <source media="(min-width: 992px)" srcset="/files/assets/elections/v/2/images/event-imgs/matanzas1.png?dimension=homepagelistingwide&amp;w=557&amp;h=189">
@@ -966,38 +983,40 @@
                       </p>
                      </a>
                     </div>
-                    <div class="col-xs-12 col-m-6 col-lg-4">
-                     <a class="profile-list item-1 homepage-show" href="https://www.flaglerelections.gov/Events/The-Florida-RANDOM-of-Student-RANDOM-FASC-2027-RANDOM-RANDOM">
-                      <picture>
-                       <source media="(min-width: 992px)" srcset="/files/assets/elections/v/2/images/event-imgs/school-images/fasclogo.png?dimension=homepagelisting&amp;w=380&amp;h=250">
-                        <source media="(min-width: 768px)" srcset="/files/assets/elections/v/2/images/event-imgs/school-images/fasclogo.png?dimension=homepagelisting&amp;w=496&amp;h=328">
-                         <source srcset="/files/assets/elections/v/2/images/event-imgs/school-images/fasclogo.png?dimension=homepagelisting&amp;w=480&amp;h=316">
-                          <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/2/images/event-imgs/school-images/fasclogo.png?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                    <div class="list-group list-group-size-1">
+                     <div class="col-xs-12 col-m-6 col-lg-4" role="listitem">
+                      <a class="profile-list item-1 homepage-show" href="https://www.flaglerelections.gov/Events/The-Florida-RANDOM-of-Student-RANDOM-FASC-2027-RANDOM-RANDOM">
+                       <picture>
+                        <source media="(min-width: 992px)" srcset="/files/assets/elections/v/2/images/event-imgs/school-images/fasclogo.png?dimension=homepagelisting&amp;w=380&amp;h=250">
+                         <source media="(min-width: 768px)" srcset="/files/assets/elections/v/2/images/event-imgs/school-images/fasclogo.png?dimension=homepagelisting&amp;w=496&amp;h=328">
+                          <source srcset="/files/assets/elections/v/2/images/event-imgs/school-images/fasclogo.png?dimension=homepagelisting&amp;w=480&amp;h=316">
+                           <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/2/images/event-imgs/school-images/fasclogo.png?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                          </source>
                          </source>
                         </source>
-                       </source>
-                      </picture>
-                      <span aria-hidden="true" class="list-item-block-date">
-                       <span class="part-date">
-                        26
+                       </picture>
+                       <span aria-hidden="true" class="list-item-block-date">
+                        <span class="part-date">
+                         26
+                        </span>
+                        <span class="part-month">
+                         Feb
+                        </span>
+                        <span class="part-year">
+                         2027
+                        </span>
                        </span>
-                       <span class="part-month">
-                        Feb
-                       </span>
-                       <span class="part-year">
-                        2027
-                       </span>
-                      </span>
-                      <h2>
-                       2027 Leadership Conference
-                      </h2>
-                      <p class="event-date small-text">
-                       February 26, 2027
-                      </p>
-                      <p>
-                       The conference brings together student council leaders, advisors, and student government representatives from middle and high schools across Florida to foster leadership development, civic engagement, and parliamentary procedure skills
-                      </p>
-                     </a>
+                       <h2>
+                        2027 Leadership Conference
+                       </h2>
+                       <p class="event-date small-text">
+                        February 26, 2027
+                       </p>
+                       <p>
+                        The conference brings together student council leaders, advisors, and student government representatives from middle and high schools across Florida to foster leadership development, civic engagement, and parliamentary procedure skills
+                       </p>
+                      </a>
+                     </div>
                     </div>
                    </div>
                   </div>
@@ -1013,13 +1032,13 @@
                 News
                </h1>
               </div>
-              <div class="tabs-panel clearfix tab-type-default news tab-type-homepage-news-listing" id="panel-2">
+              <div aria-hidden="true" aria-label="News Tab Panel" class="tabs-panel clearfix tab-type-default news tab-type-homepage-news-listing total-results-unknown disabled rs_skip" id="panel-2" role="tabpanel">
                <div class="wysiwyg-content body-content">
                 <div>
                  <div class="profile-listing-container profile-news-listing-container profile-news-listing-option-8 clearfix">
-                  <div class="profile-tabbed-listing profile-news-listing clearfix" data-total-results="9">
-                   <div class="grid">
-                    <div class="col-xs-12 col-m-6 col-lg-6">
+                  <div class="profile-tabbed-listing profile-news-listing clearfix more-than-3-items" data-total-results="9" role="list">
+                   <div class="grid" role="presentation">
+                    <div class="col-xs-12 col-m-6 col-lg-6" role="listitem">
                      <a class="profile-list item-0 homepage-show" href="https://www.flaglerelections.gov/News/Summer-Camp-RANDOM-2026">
                       <picture>
                        <source media="(min-width: 992px)" srcset="/files/assets/elections/v/2/images/outreach/campelectionpic2.jpg?dimension=homepagelistingwide&amp;w=557&amp;h=189">
@@ -1041,117 +1060,119 @@
                       </p>
                      </a>
                     </div>
-                    <div class="col-xs-12 col-m-6 col-lg-6">
-                     <a class="profile-list item-1 homepage-show" href="https://www.flaglerelections.gov/News/Flagler-County-Bring-Your-Kid-To-Work-Day-2026">
-                      <picture>
-                       <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/event-imgs/bring-your-kid-to-work-2026/byktwd264.jpg?dimension=homepagelisting&amp;w=380&amp;h=250">
-                        <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/event-imgs/bring-your-kid-to-work-2026/byktwd264.jpg?dimension=homepagelisting&amp;w=496&amp;h=328">
-                         <source srcset="/files/assets/elections/v/1/images/event-imgs/bring-your-kid-to-work-2026/byktwd264.jpg?dimension=homepagelisting&amp;w=480&amp;h=316">
-                          <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/1/images/event-imgs/bring-your-kid-to-work-2026/byktwd264.jpg?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                    <div class="list-group list-group-size-1">
+                     <div class="col-xs-12 col-m-6 col-lg-6" role="listitem">
+                      <a class="profile-list item-1 homepage-show" href="https://www.flaglerelections.gov/News/Flagler-County-Bring-Your-Kid-To-Work-Day-2026">
+                       <picture>
+                        <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/event-imgs/bring-your-kid-to-work-2026/byktwd264.jpg?dimension=homepagelisting&amp;w=380&amp;h=250">
+                         <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/event-imgs/bring-your-kid-to-work-2026/byktwd264.jpg?dimension=homepagelisting&amp;w=496&amp;h=328">
+                          <source srcset="/files/assets/elections/v/1/images/event-imgs/bring-your-kid-to-work-2026/byktwd264.jpg?dimension=homepagelisting&amp;w=480&amp;h=316">
+                           <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/1/images/event-imgs/bring-your-kid-to-work-2026/byktwd264.jpg?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                          </source>
                          </source>
                         </source>
-                       </source>
-                      </picture>
-                      <h2>
-                       Flagler County Bring Your Kid To Work Day 2026
-                      </h2>
-                      <p class="published-on small-text">
-                       Published on April 28, 2026
-                      </p>
-                      <p>
-                       Flagler County recently opened its doors to a new generation of future public servants during its annual Bring Your Kid to Work Day—and the result was a day full of energy, learning, and hands-on fun.
-                      </p>
-                     </a>
-                    </div>
-                    <div class="col-xs-12 col-m-6 col-lg-6">
-                     <a class="profile-list item-2 homepage-show" href="https://www.flaglerelections.gov/News/2026-Voters-Guide-Cover-Design-Contest">
-                      <picture>
-                       <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/voters-guide-cover-design/contestwinner.jpg?dimension=homepagelisting&amp;w=380&amp;h=250">
-                        <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/voters-guide-cover-design/contestwinner.jpg?dimension=homepagelisting&amp;w=496&amp;h=328">
-                         <source srcset="/files/assets/elections/v/1/images/voters-guide-cover-design/contestwinner.jpg?dimension=homepagelisting&amp;w=480&amp;h=316">
-                          <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/1/images/voters-guide-cover-design/contestwinner.jpg?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                       </picture>
+                       <h2>
+                        Flagler County Bring Your Kid To Work Day 2026
+                       </h2>
+                       <p class="published-on small-text">
+                        Published on April 28, 2026
+                       </p>
+                       <p>
+                        Flagler County recently opened its doors to a new generation of future public servants during its annual Bring Your Kid to Work Day—and the result was a day full of energy, learning, and hands-on fun.
+                       </p>
+                      </a>
+                     </div>
+                     <div class="col-xs-12 col-m-6 col-lg-6" role="listitem">
+                      <a class="profile-list item-2 homepage-show" href="https://www.flaglerelections.gov/News/2026-Voters-Guide-Cover-Design-Contest">
+                       <picture>
+                        <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/voters-guide-cover-design/contestwinner.jpg?dimension=homepagelisting&amp;w=380&amp;h=250">
+                         <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/voters-guide-cover-design/contestwinner.jpg?dimension=homepagelisting&amp;w=496&amp;h=328">
+                          <source srcset="/files/assets/elections/v/1/images/voters-guide-cover-design/contestwinner.jpg?dimension=homepagelisting&amp;w=480&amp;h=316">
+                           <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/1/images/voters-guide-cover-design/contestwinner.jpg?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                          </source>
                          </source>
                         </source>
-                       </source>
-                      </picture>
-                      <h2>
-                       Flagler Honors Winner of 2026 Voter’s Guide Cover Design Contest
-                      </h2>
-                      <p class="published-on small-text">
-                       Published on March 25, 2026
-                      </p>
-                      <p>
-                       The Flagler County Supervisor of Elections Office is proud to announce the winner of the 16th Annual 2026 Voter’s Guide Cover Design Contest: Jacoby Hurry, a talented student from Flagler Palm Coast High School
-                      </p>
-                     </a>
-                    </div>
-                    <div class="col-xs-12 col-m-6 col-lg-6">
-                     <a class="profile-list item-3 homepage-show" href="https://www.flaglerelections.gov/News/2026-RANDOM-Music-Arts-RANDOM">
-                      <picture>
-                       <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/event-imgs/creekside-festival/robsam2.jpg?dimension=homepagelisting&amp;w=380&amp;h=250">
-                        <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/event-imgs/creekside-festival/robsam2.jpg?dimension=homepagelisting&amp;w=496&amp;h=328">
-                         <source srcset="/files/assets/elections/v/1/images/event-imgs/creekside-festival/robsam2.jpg?dimension=homepagelisting&amp;w=480&amp;h=316">
-                          <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/1/images/event-imgs/creekside-festival/robsam2.jpg?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                       </picture>
+                       <h2>
+                        Flagler Honors Winner of 2026 Voter’s Guide Cover Design Contest
+                       </h2>
+                       <p class="published-on small-text">
+                        Published on March 25, 2026
+                       </p>
+                       <p>
+                        The Flagler County Supervisor of Elections Office is proud to announce the winner of the 16th Annual 2026 Voter’s Guide Cover Design Contest: Jacoby Hurry, a talented student from Flagler Palm Coast High School
+                       </p>
+                      </a>
+                     </div>
+                     <div class="col-xs-12 col-m-6 col-lg-6" role="listitem">
+                      <a class="profile-list item-3 homepage-show" href="https://www.flaglerelections.gov/News/2026-RANDOM-Music-Arts-RANDOM">
+                       <picture>
+                        <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/event-imgs/creekside-festival/robsam2.jpg?dimension=homepagelisting&amp;w=380&amp;h=250">
+                         <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/event-imgs/creekside-festival/robsam2.jpg?dimension=homepagelisting&amp;w=496&amp;h=328">
+                          <source srcset="/files/assets/elections/v/1/images/event-imgs/creekside-festival/robsam2.jpg?dimension=homepagelisting&amp;w=480&amp;h=316">
+                           <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/1/images/event-imgs/creekside-festival/robsam2.jpg?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                          </source>
                          </source>
                         </source>
-                       </source>
-                      </picture>
-                      <h2>
-                       Voter Outreach at The 2026 Creekside Music &amp; Arts Festival
-                      </h2>
-                      <p class="published-on small-text">
-                       Published on February 11, 2026
-                      </p>
-                      <p>
-                       The Flagler County Supervisor of Elections Office took part in the 20th Annual Creekside Music and Arts Festival, held February 7–8, 2026 at Princess Place Preserve in Palm Coast.
-                      </p>
-                     </a>
-                    </div>
-                    <div class="col-xs-12 col-m-6 col-lg-6">
-                     <a class="profile-list item-4 homepage-show" href="https://www.flaglerelections.gov/News/2026-Martin-Luther-King-Jr-Parade">
-                      <picture>
-                       <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/outreach/mlk6.jpeg?dimension=homepagelisting&amp;w=380&amp;h=250">
-                        <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/outreach/mlk6.jpeg?dimension=homepagelisting&amp;w=496&amp;h=328">
-                         <source srcset="/files/assets/elections/v/1/images/outreach/mlk6.jpeg?dimension=homepagelisting&amp;w=480&amp;h=316">
-                          <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/1/images/outreach/mlk6.jpeg?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                       </picture>
+                       <h2>
+                        Voter Outreach at The 2026 Creekside Music &amp; Arts Festival
+                       </h2>
+                       <p class="published-on small-text">
+                        Published on February 11, 2026
+                       </p>
+                       <p>
+                        The Flagler County Supervisor of Elections Office took part in the 20th Annual Creekside Music and Arts Festival, held February 7–8, 2026 at Princess Place Preserve in Palm Coast.
+                       </p>
+                      </a>
+                     </div>
+                     <div class="col-xs-12 col-m-6 col-lg-6" role="listitem">
+                      <a class="profile-list item-4 homepage-show" href="https://www.flaglerelections.gov/News/2026-Martin-Luther-King-Jr-Parade">
+                       <picture>
+                        <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/outreach/mlk6.jpeg?dimension=homepagelisting&amp;w=380&amp;h=250">
+                         <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/outreach/mlk6.jpeg?dimension=homepagelisting&amp;w=496&amp;h=328">
+                          <source srcset="/files/assets/elections/v/1/images/outreach/mlk6.jpeg?dimension=homepagelisting&amp;w=480&amp;h=316">
+                           <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/1/images/outreach/mlk6.jpeg?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                          </source>
                          </source>
                         </source>
-                       </source>
-                      </picture>
-                      <h2>
-                       2026 City of Bunnell MLK Dream Keepers Parade
-                      </h2>
-                      <p class="published-on small-text">
-                       Published on January 17, 2026
-                      </p>
-                      <p>
-                       Flagler County Supervisor of Elections Participates in Martin Luther King Jr. Parade Festivities
-                      </p>
-                     </a>
-                    </div>
-                    <div class="col-xs-12 col-m-6 col-lg-6">
-                     <a class="profile-list item-5 homepage-show" href="https://www.flaglerelections.gov/News/Christmas-Movie-RANDOM">
-                      <picture>
-                       <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/event-imgs/img_8776.jpeg?dimension=homepagelisting&amp;w=380&amp;h=250">
-                        <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/event-imgs/img_8776.jpeg?dimension=homepagelisting&amp;w=496&amp;h=328">
-                         <source srcset="/files/assets/elections/v/1/images/event-imgs/img_8776.jpeg?dimension=homepagelisting&amp;w=480&amp;h=316">
-                          <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/1/images/event-imgs/img_8776.jpeg?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                       </picture>
+                       <h2>
+                        2026 City of Bunnell MLK Dream Keepers Parade
+                       </h2>
+                       <p class="published-on small-text">
+                        Published on January 17, 2026
+                       </p>
+                       <p>
+                        Flagler County Supervisor of Elections Participates in Martin Luther King Jr. Parade Festivities
+                       </p>
+                      </a>
+                     </div>
+                     <div class="col-xs-12 col-m-6 col-lg-6" role="listitem">
+                      <a class="profile-list item-5 homepage-show" href="https://www.flaglerelections.gov/News/Christmas-Movie-RANDOM">
+                       <picture>
+                        <source media="(min-width: 992px)" srcset="/files/assets/elections/v/1/images/event-imgs/img_8776.jpeg?dimension=homepagelisting&amp;w=380&amp;h=250">
+                         <source media="(min-width: 768px)" srcset="/files/assets/elections/v/1/images/event-imgs/img_8776.jpeg?dimension=homepagelisting&amp;w=496&amp;h=328">
+                          <source srcset="/files/assets/elections/v/1/images/event-imgs/img_8776.jpeg?dimension=homepagelisting&amp;w=480&amp;h=316">
+                           <img alt="" class="large-thumbnail-image" src="/files/assets/elections/v/1/images/event-imgs/img_8776.jpeg?dimension=homepagelisting&amp;w=496&amp;h=328"/>
+                          </source>
                          </source>
                         </source>
-                       </source>
-                      </picture>
-                      <h2>
-                       2025 Christmas in Bunnell Movie Election Results
-                      </h2>
-                      <p class="published-on small-text">
-                       Published on December 15, 2025
-                      </p>
-                      <p>
-                       The Supervisor of Elections Office was proud to participate in Christmas in Bunnell.
-                       <br/>
-                       As part of our holiday outreach, the Elections Team hosted a Kids Christmas Movie Election, giving our youngest community members a fun and engaging way to experience the voting process.
-                      </p>
-                     </a>
+                       </picture>
+                       <h2>
+                        2025 Christmas in Bunnell Movie Election Results
+                       </h2>
+                       <p class="published-on small-text">
+                        Published on December 15, 2025
+                       </p>
+                       <p>
+                        The Supervisor of Elections Office was proud to participate in Christmas in Bunnell.
+                        <br/>
+                        As part of our holiday outreach, the Elections Team hosted a Kids Christmas Movie Election, giving our youngest community members a fun and engaging way to experience the voting process.
+                       </p>
+                      </a>
+                     </div>
                     </div>
                    </div>
                   </div>
@@ -1162,6 +1183,11 @@
                 </div>
                </div>
               </div>
+             </div>
+             <div aria-hidden="true" class="visuallyhidden list_help" id="tabs-header-1-description">
+              <p>
+               Press left and right keys to move between tabs. Press down to focus tab content.
+              </p>
              </div>
             </div>
            </div>
@@ -1287,7 +1313,7 @@
             <br/>
             Bunnell, FL 32110
             <br/>
-            <a href="https://maps.app.goo.gl/qDDPYdxb9tD4hqzE8" target="_blank">
+            <a aria-describedby="new-window-0" class="opens-in-new-tab" href="https://maps.app.goo.gl/qDDPYdxb9tD4hqzE8" target="_blank">
              View on Map
             </a>
            </span>
@@ -1429,6 +1455,7 @@
                  </strong>
                 </div>
                 <div class="dateValue">
+                 11/3/26
                 </div>
                </div>
               </td>
@@ -1440,6 +1467,7 @@
                  Democrat:
                 </div>
                 <div class="demValue">
+                 23,880
                 </div>
                </div>
               </td>
@@ -1451,6 +1479,7 @@
                  Republican:
                 </div>
                 <div class="repValue">
+                 52,129
                 </div>
                </div>
               </td>
@@ -1462,6 +1491,7 @@
                  NPA:
                 </div>
                 <div class="npaValue">
+                 20,789
                 </div>
                </div>
               </td>
@@ -1473,6 +1503,7 @@
                  Other:
                 </div>
                 <div class="othValue">
+                 4,511
                 </div>
                </div>
               </td>
@@ -1484,6 +1515,7 @@
                  Total:
                 </div>
                 <div class="totValue">
+                 101,309
                 </div>
                </div>
               </td>
@@ -1527,21 +1559,33 @@
          </div>
          <div class="col-xs-12 col-m-5 powered-by">
           <div class="right">
-           © 2026 Flagler County Elections Office |
-           <span class="powered-by">
-            Powered by
-            <a href="https://granicus.com/solution/govaccess/opencities/" target="_blank">
-             Granicus
-            </a>
-           </span>
+           © 2026 Flagler County Elections Office
           </div>
          </div>
         </div>
        </div>
       </div>
+      <div class="visuallyhidden" id="oc-aria-status" role="status">
+      </div>
      </footer>
     </div>
    </div>
   </form>
+  <div>
+   <div class="sr-modal with-modal custom-signup-modal">
+    <span tabindex="0">
+    </span>
+    <div class="sr-modal-dialog" role="dialog" tabindex="-1">
+     <div class="sr-modal-body">
+      <button aria-label="Close" id="overlay-close" type="button">
+      </button>
+     </div>
+    </div>
+    <span tabindex="-1">
+    </span>
+    <span tabindex="0">
+    </span>
+   </div>
+  </div>
  </body>
 </html>

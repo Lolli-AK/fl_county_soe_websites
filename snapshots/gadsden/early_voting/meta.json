@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://votegadsdenfl.gov/election-info/early-voting/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 404,
+  "content_type": null,
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-03T01:55:17Z",
-  "html_sha256": "38e18d9a405759a833684e79b4a84332c5ffa3f0e30998ac0379d474536d0982",
-  "text_sha256": "2f75d9287b3ab202872bb67907e0f23198f6768d1fafe90d1f11175615689903",
-  "byte_size": 65828,
-  "title": "Early Voting – Gadsden County Supervisor of Elections",
+  "fetched_at": "2026-11-03T05:42:35Z",
+  "html_sha256": "8e1544a0cf6af6de1f83336f3382198914d875075a95b99022e31967f40b331a",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 49,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],

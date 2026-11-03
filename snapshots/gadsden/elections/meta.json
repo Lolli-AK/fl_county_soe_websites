@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://votegadsdenfl.gov/calendar/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 404,
+  "content_type": null,
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-03T01:55:17Z",
-  "html_sha256": "ba642705338b0f2a9ab73bc2123cc72d4bb8568020bfb36cd7f51245e0113263",
-  "text_sha256": "7e43ba05e8f7d450aa848cefe0a480de16bfb1617bcb31a54e0da3c4b92aca9f",
-  "byte_size": 64569,
-  "title": "Upcoming Elections – Gadsden County Supervisor of Elections",
+  "fetched_at": "2026-11-03T05:42:35Z",
+  "html_sha256": "8e1544a0cf6af6de1f83336f3382198914d875075a95b99022e31967f40b331a",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 49,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],

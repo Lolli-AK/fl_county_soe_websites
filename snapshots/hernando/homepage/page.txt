@@ -1,6 +1,4 @@
 Hernando County SOE, FL | Official Website
-This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
-Loading
 Skip to Main Content
 Election Information
 Voter Information
@@ -13,20 +11,11 @@ Where to Vote
 Ways to Vote
 Election Workers
 Search
-Select Language
-​
-▼
 Active Registered Voters:
-10/05/26
 Democrats:
-30,673
 Republicans:
-71,539
 Other:
-35,873
 Total:
-138,085
-NOTE: Election Books are closed. Totals are as of Book Closing
 Sample Ballots Now Available!
 Sample ballots for the 2026 General Election are now available.
 Check the
@@ -63,23 +52,17 @@ for all the information and resources your need to be prepared to vote in the 20
 Latest News
 Press Release - 2026 General Election - Sample Ballot
 Read on...
-about Press Release - 2026 General Election - Sample Ballot
 Press Release - 2026 General Election
 Read on...
-about Press Release - 2026 General Election
 2026 General Election Canvassing Board Schedule
 Read on...
-about 2026 General Election Canvassing Board Schedule
 Notice of 2026 General Election
 The 2026 General Election will be held on November 3, 2026.
 Read on...
-about Notice of 2026 General Election
 View All News
-Latest News
 /CivicAlerts.aspx
 Election Calendar
 November 2026
-Calendar
 S
 M
 T
@@ -131,7 +114,6 @@ General Election - Scan Election Day ballots into independent audit system
 Fri, Nov. 6
 General Election - Certify 1st Unofficial Election Results
 View All Events
-Election Calendar
 /Calendar.aspx
 2026 Elections Information
 Canvassing Board Information
@@ -165,7 +147,7 @@ Monday to Friday: 8:00 a.m. to 4:30 p.m.
 Phone:
 352-754-4125
 Fax: 352-754-4425
-elections@hernandovotes.gov
+[email protected]
 "It is the mission of the Supervisor of Elections office to ensure the integrity of the
 electoral process and empower each voter through continuous education."
 Home
@@ -180,7 +162,4 @@ Loading
 Loading
 Do Not Show Again
 Close
-Original text
-Rate this translation
-Your feedback will be used to help improve Google Translate
-Explore your accessibility options
+[]

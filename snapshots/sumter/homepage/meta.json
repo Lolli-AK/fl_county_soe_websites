@@ -2,19 +2,18 @@
   "county": "Sumter",
   "page_type": "homepage",
   "requested_url": "https://elections.sumtercountyfl.gov",
-  "final_url": "https://elections.sumtercountyfl.gov/",
+  "final_url": "https://elections.sumtercountyfl.gov",
   "redirect_chain": [
-    "https://elections.sumtercountyfl.gov",
-    "https://elections.sumtercountyfl.gov/"
+    "https://elections.sumtercountyfl.gov"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-03T01:55:17Z",
-  "html_sha256": "17c60cde447389fef9b977bb6b78079d36a1cd9eff4b06dcbbd1ed4efa413162",
-  "text_sha256": "590a0d0e8fbdb4ec29d2357ce3f327600b6408b3b5b43bea6ba4caa49119d3ff",
-  "byte_size": 103606,
+  "fetched_at": "2026-11-03T05:42:35Z",
+  "html_sha256": "afa4ce50597de822a85298b810b7010cba3c279c0317eacb11c7fc10f66c7c7f",
+  "text_sha256": "5f505cae57ffcda766efa08967c30db9111c615fda2dc234139ea007826bdbe3",
+  "byte_size": 76059,
   "title": "Sumter County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,

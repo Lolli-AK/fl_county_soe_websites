@@ -1,5 +1,4 @@
 Alert Center • Hillsborough County Elections, FL • CivicEnga
-This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to Main Content
 Voting
 Elections
@@ -15,23 +14,17 @@ Notify Me®
 or
 RSS
 .
-Election Info
-1 Alert
-November 1, 2026 2:00 PM
-Tues, Nov. 3 is Election Day - 2026 General
-Election Day is your last chance to vote! Polls will be open 7 AM to 7 PM on Tues, Nov. 3 and you must vote in the polling place assigned to your precinct. Look up your sample ballot, your polling location and the acceptable forms of ID.
+There are no active alerts.
 Module Search
 Enter Search Terms
 Select a Category
 All Categories
-Election Info
 Tools
 RSS
 Notify Me
 Show Archived
 Categories
 All Categories
-Election Info
 Live Edit
 Register to Vote or Update Info
 Request and Track Vote By Mail
@@ -80,4 +73,3 @@ Loading
 Do Not Show Again
 Close
 []
-Explore your accessibility options

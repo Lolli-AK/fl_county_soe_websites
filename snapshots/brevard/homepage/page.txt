@@ -135,15 +135,15 @@ Tim Bobanic
 Active Registered Voters as of:
 11/03/2026
 Republican
-209,160
+209,184
 Democratic
-113,510
+113,533
 Non-Partisan
-108,016
+108,051
 Others
-19,543
+19,549
 Total
-450,229
+450,317
 Brevard County Supervisor of Elections
 Polling Place Changes Due to Severe Weather
 Due to extreme flooding conditions, the Brevard County Supervisor of Elections Office will be temporarily relocating a limited number of

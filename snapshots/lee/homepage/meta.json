@@ -7,26 +7,24 @@
     "https://www.lee.vote",
     "https://www.lee.vote/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-03T01:55:17Z",
-  "html_sha256": "3fdc9ec3a3f0acf53ffaf1f7085df242f9b325f269ea6e448cc7a7056bd9ae7b",
-  "text_sha256": "58f3cb9f541412d69658277f719bd4eb295316a5a09f55af991b8fc529469d39",
-  "byte_size": 117481,
-  "title": "Lee County Elections, FL | Official Website",
+  "fetched_at": "2026-11-03T05:42:35Z",
+  "html_sha256": "4554f0c8be46e2cf81356975cac0f1bec000fe560c2166c4f412d48e790199db",
+  "text_sha256": "62140d987ad6669401775b9c0bafeb540bb280e3bd60fc473218f40c5e06d9a6",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
