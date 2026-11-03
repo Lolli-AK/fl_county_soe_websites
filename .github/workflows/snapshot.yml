@@ -20,12 +20,9 @@ on:
     - cron: "0 */3 * * *"    # election-window cadence, every 3 hours (gated)
     - cron: "47 * * * *"     # election-night cadence, hourly (gated)
 
-concurrency:
-  group: snapshot
-  cancel-in-progress: false
-
 permissions:
   contents: write
+  actions: write
 
 jobs:
   snapshot:
@@ -39,6 +36,13 @@ jobs:
       github.event.schedule == '0 */3 * * *' ||
       github.event.schedule == '47 * * * *'
     runs-on: ubuntu-latest
+    # Set on this job rather than the workflow so the chain job below can wait
+    # without holding the group.
+    concurrency:
+      group: snapshot
+      cancel-in-progress: false
+    outputs:
+      go: ${{ steps.gate.outputs.go }}
     # 67 counties is 314 targets — roughly 40% of the Texas project's volume, so a
     # run lands well inside this cap. The cap exists to stop a hung fetch from
     # burning the 6-hour default (and, on a private repo, billable minutes).
@@ -143,3 +147,57 @@ jobs:
       - name: Push snapshot commit
         if: ${{ !cancelled() && steps.gate.outputs.go == 'true' }}
         run: git push
+
+  # Election-night backup for GitHub's scheduler, which started only 1-2 runs
+  # per workflow on Nov 2. After each capture this job waits until an hour
+  # after the capture began, then starts the next run itself. A run started
+  # with GITHUB_TOKEN through workflow_dispatch does execute, unlike most
+  # token-triggered events, so the chain keeps going without the scheduler.
+  # It stops at CHAIN_END, and starts nothing while another run of this
+  # workflow is queued or going: that run continues the chain instead.
+  chain:
+    needs: snapshot
+    if: ${{ !cancelled() && needs.snapshot.outputs.go == 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 70
+    steps:
+      - name: Start the next run after the spacing interval
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          RUN_ID: ${{ github.run_id }}
+          WORKFLOW_REF: ${{ github.workflow_ref }}
+          REF: ${{ github.ref_name }}
+        run: |
+          set -euo pipefail
+
+          CHAIN_START=2026110313   # UTC hour, inclusive
+          CHAIN_END=2026110512     # UTC hour, exclusive -- same as the hourly gate
+          GAP_MIN=60               # minimum spacing between run starts
+
+          wf=$(basename "${WORKFLOW_REF%@*}")
+          in_window() {
+            h=$(date -u +%Y%m%d%H)
+            [ "$h" -ge "$CHAIN_START" ] && [ "$h" -lt "$CHAIN_END" ]
+          }
+          others_active() {
+            gh run list -R "$REPO" -w "$wf" --limit 20 --json databaseId,status \
+              -q "[.[] | select(.databaseId != $RUN_ID)
+                       | select(.status == \"queued\" or .status == \"in_progress\"
+                                or .status == \"pending\" or .status == \"waiting\")] | length"
+          }
+
+          in_window || { echo "outside ${CHAIN_START}..${CHAIN_END}, chain ends"; exit 0; }
+          [ "$(others_active)" -eq 0 ] || { echo "another run is active and continues the chain"; exit 0; }
+
+          started=$(gh api "repos/$REPO/actions/runs/$RUN_ID" -q .run_started_at)
+          wait_s=$(( $(date -u -d "$started" +%s) + GAP_MIN * 60 - $(date -u +%s) ))
+          if [ "$wait_s" -gt 0 ]; then
+            echo "run started $started; waiting ${wait_s}s"
+            sleep "$wait_s"
+          fi
+
+          in_window || { echo "window closed while waiting, chain ends"; exit 0; }
+          [ "$(others_active)" -eq 0 ] || { echo "another run started while waiting and continues the chain"; exit 0; }
+          gh workflow run "$wf" -R "$REPO" --ref "$REF"
+          echo "started the next $wf run"
