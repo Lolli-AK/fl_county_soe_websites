@@ -58,7 +58,6 @@ Early Voting Schedule
 Early Voting Locations and Wait Times
 Election Day
 Sample Ballots
-Unofficial Voter Turnout
 Precinct Finder
 About Judicial Elections
 About Municipal Elections
@@ -211,7 +210,6 @@ Early Voting Schedule
 Early Voting Locations and Wait Times
 Election Day
 Sample Ballots
-Unofficial Voter Turnout
 Precinct Finder
 About Judicial Elections
 About Municipal Elections

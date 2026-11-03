@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-03T23:05:12Z",
-  "html_sha256": "4161d6329a988828cf6297935e2d2d946a339f67eab48643af5d0e404bda3d64",
+  "fetched_at": "2026-11-03T23:43:33Z",
+  "html_sha256": "09f359195b3e4f260442003e57c608aa7f922e6e4ee4ca05d98d522d24c600f5",
   "text_sha256": "dca0e1f855d7b138174b8f749c9a33ad39e31f3d5d15a553940966aabfdc2029",
-  "byte_size": 51844,
+  "byte_size": 51925,
   "title": "Election Results",
   "noncitizen_voting": {
     "present": false,
