@@ -2,19 +2,18 @@
   "county": "Lake",
   "page_type": "homepage",
   "requested_url": "https://www.lakevotes.gov",
-  "final_url": "https://www.lakevotes.gov/",
+  "final_url": "https://www.lakevotes.gov",
   "redirect_chain": [
-    "https://www.lakevotes.gov",
-    "https://www.lakevotes.gov/"
+    "https://www.lakevotes.gov"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-03T12:35:51Z",
-  "html_sha256": "51b2a85440fce69db5e4e9194396b6150a4cc48894019b33d6686cf7a2b23ca4",
-  "text_sha256": "1753bc57cc5317a4fa8881d4a53513265706f13dc74a8018cf6c4f27fba42363",
-  "byte_size": 117815,
+  "fetched_at": "2026-11-03T13:46:03Z",
+  "html_sha256": "0ad7f6b348027b0365c948b9adaa4a683be797dd03c6d264e2757bc8eb6e17aa",
+  "text_sha256": "acf09b2e24d293afa8f434deb6617369215d8b8b0a8af91dcd425ab589a6e9af",
+  "byte_size": 113110,
   "title": "Lake County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
