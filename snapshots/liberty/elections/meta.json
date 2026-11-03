@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://libertycountyflsoe.gov/voter-information/election-dates/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 404,
+  "content_type": null,
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-02T23:44:57Z",
-  "html_sha256": "063631c172ab1155ca3c418a24017655a3ecec3513f04548248ce4f9fdb2af43",
-  "text_sha256": "3ff700fa6f9c54b7912f82af1ead1671a17d91010af6ecbef05babad5caf74b4",
-  "byte_size": 58203,
-  "title": "Election Dates – Liberty County (FL) Supervisor of Elections",
+  "fetched_at": "2026-11-03T01:55:17Z",
+  "html_sha256": "8e1544a0cf6af6de1f83336f3382198914d875075a95b99022e31967f40b331a",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 49,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],

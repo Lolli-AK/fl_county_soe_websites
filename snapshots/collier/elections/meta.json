@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-02T23:44:57Z",
-  "html_sha256": "905fd7e867232591413bcc729dcf173454d56fc3994009957b3883c2a6c4f2da",
+  "fetched_at": "2026-11-03T01:55:17Z",
+  "html_sha256": "42de7d1037fedf642533b4cea02a46aa35a74aa418cee4d83655db7ed7669038",
   "text_sha256": "5206b7b7a3ce968b4cfaa5bd40f833b098f0b06a079b0e836a1db1913caa1683",
-  "byte_size": 51494,
+  "byte_size": 51514,
   "title": "Upcoming Elections | Collier County Elections, FL",
   "noncitizen_voting": {
     "present": false,

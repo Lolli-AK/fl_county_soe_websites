@@ -2,32 +2,29 @@
   "county": "Washington",
   "page_type": "homepage",
   "requested_url": "https://wcsoe.gov/",
-  "final_url": "https://wcsoe.gov/",
+  "final_url": "https://static.wcsoe.gov/",
   "redirect_chain": [
-    "https://wcsoe.gov/"
+    "https://wcsoe.gov/",
+    "https://static.wcsoe.gov/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-02T23:44:57Z",
-  "html_sha256": "df5c834e147316641bfa3fe781f287e4d0e9dda5fc48c3f5337eda1455c9ec44",
-  "text_sha256": "c807eb37b7c293c8cbfa6e857d75d6451093866bda2d9f5b605c7b2232cbc060",
-  "byte_size": 86329,
-  "title": "Washington County (FL) Supervisor of Elections",
+  "fetched_at": "2026-11-03T01:55:17Z",
+  "html_sha256": "5078295656555306061688ac1abad1b4cdf8fe86660c191f8f3b2ed55df1f696",
+  "text_sha256": "8ddb9eb30d22a3af752260c5fc1a7bdcbcc5a4b8db7ab8e2073329b3597d5dd1",
+  "byte_size": 2411,
+  "title": "Washington County - Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 7
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

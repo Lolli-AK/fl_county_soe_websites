@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-02T23:44:57Z",
-  "html_sha256": "bdcfe7eaa1dd9061f8eadc466337e025cb3d170cd760da8552f9f85da89b64ef",
+  "fetched_at": "2026-11-03T01:55:17Z",
+  "html_sha256": "a4437614d498cdb6959fc4f64842540a91b2364f57564179b4f3d587a5932cde",
   "text_sha256": "32f04fb95a050a8ac740bf0fd99bee54c9c90931a33738092d0c5c3ab66819a0",
-  "byte_size": 48265,
+  "byte_size": 51019,
   "title": "Martin County | Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

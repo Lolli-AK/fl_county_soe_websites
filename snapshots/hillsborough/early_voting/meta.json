@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-02T23:44:57Z",
-  "html_sha256": "b87d2d4fcbe7a357d7b508779049eae46f4c5f715de8527b05325ea4fc0a4b2b",
+  "fetched_at": "2026-11-03T01:55:17Z",
+  "html_sha256": "64d99103e442ae4e957156ea15acf12d0f41371afb29f81c94820c8b29d1fe02",
   "text_sha256": "b1161a869417d8d6392d5fe71d52c91503988565400dfe1acf10ecb657fd3c16",
-  "byte_size": 70598,
+  "byte_size": 70597,
   "title": "Early Voting | Hillsborough County Elections, FL",
   "noncitizen_voting": {
     "present": false,

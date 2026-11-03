@@ -1,6 +1,5 @@
 Early Voting | Sarasota County Supervisor of Elections, FL
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
-Loading
 Skip to Main Content
 Unofficial Turnout
 November 3 General Election
@@ -106,8 +105,8 @@ Contact Us
 Accessibility
 Copyright Notices
 /QuickLinks.aspx
-New Early Voting Sites
-Two new early voting locations for the November 3 General Election: The new North Port elections office and Twin Lakes Park!
+Loading
+Loading
 Do Not Show Again
 Close
 Select Language
@@ -361,6 +360,7 @@ Zapotec
 Zulu
 Powered by
 Translate
+[]
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate
