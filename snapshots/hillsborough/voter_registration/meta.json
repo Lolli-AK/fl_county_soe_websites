@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votehillsborough.gov/168/Register-to-Vote"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-03T21:05:18Z",
-  "html_sha256": "48a3cd981de8da9ab18c44e13d44a31ff82f8a090aa6c4f9e52fbdaae87018da",
-  "text_sha256": "daef4194e5ba77b307fcf1bcec8193566f4509d34971dac4e5c6252804bdb59f",
-  "byte_size": 64738,
-  "title": "Register to Vote | Hillsborough County Elections, FL",
+  "fetched_at": "2026-11-03T22:07:07Z",
+  "html_sha256": "05b4b4c553c8bcf1271d5187bb8e9f06f9fb3197bb29f54646c3b367c89e47a9",
+  "text_sha256": "b5fc0875c4865cda511b740267496fcee8e5054c6578f2bf0f55073c38346602",
+  "byte_size": 3332,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
