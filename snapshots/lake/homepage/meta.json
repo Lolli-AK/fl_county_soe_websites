@@ -7,15 +7,15 @@
     "https://www.lakevotes.gov",
     "https://www.lakevotes.gov/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-02T20:59:11Z",
-  "html_sha256": "847cc3cd7e3affc41ce605c798fcc30114bfd4b8f0afd4cce4b91d77fdc39929",
-  "text_sha256": "e522f29e85166d158bb355e090eafa575503c4c83f6d2fb2700f0886476d6c1c",
-  "byte_size": 3204,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-02T23:44:57Z",
+  "html_sha256": "e573bde908f5bfb19000a406f138ff5fa5a505d284be7489acb3436f9bd82c2f",
+  "text_sha256": "0eafcf1f1fa6589c7826a836b9c615a2c7b10ab81920ba2bd5ce28f4493cb80c",
+  "byte_size": 137504,
+  "title": "Lake County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

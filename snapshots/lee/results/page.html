@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-muli-n3-active wf-muli-n4-active wf-muli-i4-active wf-muli-n7-active" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -13,11 +13,21 @@
   </title>
   <meta content="On election night, we will release and post preliminary, unofficial local election results shortly after 7 pm." name="description"/>
  </head>
- <body class="wide doneLoading ae-election-results-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
+ <body class="wide cpTextResizeOn doneLoading ae-election-results-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
   <div aria-live="polite" class="ae-blurb-noaudio" data-nosnippet="" id="ae_enabled_site" role="status">
    <div>
     <p data-modulename="launcher">
      This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+    </p>
+   </div>
+  </div>
+  <div id="divAjaxProgress">
+   <div id="divAjaxShade">
+   </div>
+   <div class="loading" id="divAjaxImgProgress">
+    <img alt="" src="/Common/images/ajax-loader.gif" title="Loading"/>
+    <p>
+     Loading
     </p>
    </div>
   </div>
@@ -835,7 +845,7 @@
                        </div>
                        Powered by
                        <span>
-                        <a aria-describedby="audioeye_new_window_message" class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" rel="noopener" target="_blank">
                          <img alt="Google Translate" height="14px" src="https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png" width="37px"/>
                          Translate
                         </a>
@@ -867,7 +877,7 @@
                 <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
                  <section class="widget widgetSearch skin43 widgetOptionSet15" id="widgetPreviewSearch">
                   <div class="widgetBody buttonRightInside">
-                   <input aria-label="Search Site" class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
+                   <input aria-label="Search Site" autocomplete="off" class="widgetSearchBox widgetSearchBoxGUID ui-autocomplete-input" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
                    <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon">
                     <img alt="Search" class="imageHover" data-hover="/ImageRepository/Document?documentID=96" data-image="/ImageRepository/Document?documentID=97" src="/ImageRepository/Document?documentID=97"/>
                    </a>
@@ -887,11 +897,8 @@
         </header>
         <div class="hidden" id="bannerImagesJSON2">
         </div>
-        <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
-         <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
-         </a>
-         <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
-         </a>
+        <div class="bannerObject external fixedBanner" data-image-scale="true" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" data-is-delayed="false" src="/ImageRepository/Document?documentID=89" width="1280px"/>
         </div>
        </div>
       </div>
@@ -1427,7 +1434,7 @@
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="175" id="submenu-lvl1-175">
               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="358" id="SideItem358" tabindex="0">
                <div class="accordionNavItem">
-                <a aria-describedby="audioeye_new_window_message" class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="https://leevote.dolphmap.com/" target="_blank">
+                <a aria-label="Interactive Precinct Finder Opens in new window" class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="https://leevote.dolphmap.com/" rel="noopener" target="_blank">
                  <span lang="en">
                   Interactive Precinct Finder
                  </span>
@@ -1436,7 +1443,7 @@
               </li>
               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="359" id="SideItem359" tabindex="-1">
                <div class="accordionNavItem">
-                <a aria-describedby="audioeye_new_window_message" class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="https://www.google.com/maps/d/u/0/viewer?mid=1FjtBs8SVp4PQjLmY09QUr9z-Pks&amp;z=11" target="_blank">
+                <a aria-label="Lee County Districts Map Opens in new window" class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="https://www.google.com/maps/d/u/0/viewer?mid=1FjtBs8SVp4PQjLmY09QUr9z-Pks&amp;z=11" rel="noopener" target="_blank">
                  <span lang="en">
                   Lee County Districts Map
                  </span>
@@ -1465,7 +1472,7 @@
               </li>
               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="348" id="SideItem348" tabindex="-1">
                <div class="accordionNavItem">
-                <a aria-describedby="audioeye_new_window_message" class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="https://www.google.com/maps/d/u/0/edit?mid=1hEV3_pg_lGYn2y9-0Tu8FXkt7_Ls2Os&amp;z=19" target="_blank">
+                <a aria-label="Early Voting Locations Map Opens in new window" class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="https://www.google.com/maps/d/u/0/edit?mid=1hEV3_pg_lGYn2y9-0Tu8FXkt7_Ls2Os&amp;z=19" rel="noopener" target="_blank">
                  <span lang="en">
                   Early Voting Locations Map
                  </span>
@@ -1909,7 +1916,7 @@
              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="161" id="submenu-lvl1-161">
               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="306" id="SideItem306" tabindex="0">
                <div class="accordionNavItem">
-                <a aria-describedby="audioeye_new_window_message" class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="/291/Check-My-Voter-RANDOM-Status" target="_blank">
+                <a aria-label="Check My Vote-by-Mail Status Opens in new window" class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="/291/Check-My-Voter-RANDOM-Status" rel="noopener" target="_blank">
                  <span lang="en">
                   Check My Vote-by-Mail Status
                  </span>
@@ -2180,7 +2187,7 @@
                      <br/>
                     </p>
                     <p>
-                     <a aria-describedby="audioeye_new_window_message" href="http://enr.electionsfl.org/LEE/4111/Summary/" rel="noopener" target="_blank">
+                     <a aria-describedby="audioeye_new_window_message" aria-label="View Real-Time Election Results Opens in new window" href="http://enr.electionsfl.org/LEE/4111/Summary/" rel="noopener" target="_blank">
                       <span>
                        <strong>
                         View Real-Time Election Results
@@ -2221,7 +2228,7 @@
                         <br/>
                        </p>
                        <p>
-                        <a aria-describedby="audioeye_new_window_message" href="https://fl-leecountyelections.civicplus.com/343/Archived-RANDOM-Results" rel="noopener" target="_blank">
+                        <a aria-describedby="audioeye_new_window_message" aria-label="View Archived Election Results Opens in new window" href="https://fl-leecountyelections.civicplus.com/343/Archived-RANDOM-Results" rel="noopener" target="_blank">
                          <span>
                           <strong>
                            View Archived Election Results
@@ -2311,11 +2318,11 @@
                        <p data-pasted="true">
                         <span>
                          On election night, visitors to the main
-                         <a aria-describedby="audioeye_new_window_message" href="http://dos.myflorida.com/elections/" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Division of Elections website Opens in new window" href="http://dos.myflorida.com/elections/" rel="noopener" target="_blank">
                           Division of Elections website
                          </a>
                          will be automatically sent to the
-                         <a aria-describedby="audioeye_new_window_message" href="https://floridaelectionwatch.gov/" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Florida Election Watch site Opens in new window" href="https://floridaelectionwatch.gov/" rel="noopener" target="_blank">
                           Florida Election Watch site
                          </a>
                          . However, they can return to the regular Division of Elections website via a link in the top banner. Election results will begin posting after 8 pm. EDT (Eastern Daylight Time) to accommodate voting in the central time zone counties.
@@ -2324,7 +2331,7 @@
                        <p>
                         <span>
                          To view archived federal, statewide, district, and multi-county election data, visit the
-                         <a aria-describedby="audioeye_new_window_message" href="http://dos.myflorida.com/elections/data-statistics/elections-data/" rel="noopener" target="_blank">
+                         <a aria-describedby="audioeye_new_window_message" aria-label="Elections Data Opens in new window" href="http://dos.myflorida.com/elections/data-statistics/elections-data/" rel="noopener" target="_blank">
                           Elections Data
                          </a>
                          section of the Division of Elections website.
@@ -2625,12 +2632,13 @@
   </div>
   <div>
   </div>
-  <div class="hidden activeWidgetSkinComponentsOnPageJson">
-   []
-  </div>
   <div>
   </div>
   <div id="root-picker-outlet">
+  </div>
+  <ul class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" id="ui-id-1" role="presentation" tabindex="0">
+  </ul>
+  <div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status">
   </div>
   <div class="VIpgJd-yAWNEb-L7lbkb skiptranslate" data-id="" id="goog-gt-tt">
    <div class="VIpgJd-yAWNEb-hvhgNd" id="goog-gt-vt">
@@ -2682,6 +2690,12 @@
   <div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf">
    <div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO">
    </div>
+  </div>
+  <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
+   <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
+   </a>
+   <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
+   </a>
   </div>
   <div data-nosnippet="" id="ae_app">
    <div class="ae-module" id="ae_helpers">

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-02T20:59:11Z",
-  "html_sha256": "493f134bd50413b239a250bd043fc273c3be1fccfb29bda410d20d2762e24851",
+  "fetched_at": "2026-11-02T23:44:57Z",
+  "html_sha256": "c1f500e23c4cd28fea72593ce3da60e01fb17e15265739477549796a8aa6636c",
   "text_sha256": "34ccc308c001d59c2f9e8990660f4e09493f3eb3b3909a5764c9d9f22420ea5f",
-  "byte_size": 49000,
+  "byte_size": 48714,
   "title": "Vote Early | Marion County Elections, FL",
   "noncitizen_voting": {
     "present": false,

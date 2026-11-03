@@ -7,15 +7,15 @@
     "https://www.hernandovotes.gov",
     "https://www.hernandovotes.gov/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-02T20:59:11Z",
-  "html_sha256": "fe1fa8149e522eaaa05f9b28802530d4674ef8b51e00f53bbd99d6e524375a87",
-  "text_sha256": "1b931f374324e701dff8dda3e7006f9a8f968cfa7ff10abdcc5d0921f285477b",
-  "byte_size": 3216,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-02T23:44:57Z",
+  "html_sha256": "aaad595e610238b05e5bc46c80e9dbd438f1586f4d070254b1ef8bb7d4a41864",
+  "text_sha256": "e54cd8e4efaab7ec8078192f719fd594e776480a652bfaaf137b18cfd024d2fd",
+  "byte_size": 79893,
+  "title": "Hernando County SOE, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

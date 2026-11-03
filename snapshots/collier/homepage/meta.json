@@ -7,15 +7,15 @@
     "https://www.colliervotes.gov",
     "https://www.colliervotes.gov/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-02T20:59:11Z",
-  "html_sha256": "dcf5e3d4274d8de9cc4c50472db7d418c9f10f62dbd5f88e64eeeaebd60d47f8",
-  "text_sha256": "0593446c3f82bfe87b44967f46fce8a32ab9d6fea3e3ac8f6a6ee7aeb64c511d",
-  "byte_size": 3213,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-02T23:44:57Z",
+  "html_sha256": "c58b255dc1a8d8d84d8a3e4b07fafa02c98bcceb4474d1f7f2bc46ed05f404fb",
+  "text_sha256": "9c3e34a948b658343463887b63b2e1b152a03ac6d640a3c706e20508ddda97c6",
+  "byte_size": 111110,
+  "title": "Collier County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

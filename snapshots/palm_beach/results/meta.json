@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votepalmbeach.gov/224/Election-Results"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-02T21:39:52Z",
-  "html_sha256": "6b71e731ebaa071038cdc5694fe53f033d3039663ae38cc329ff1cd3417d4801",
-  "text_sha256": "fb1c8e1d00ebf5a7bfadb968bebe983bf549326b224d23eb4bad2e619ad5a2ae",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-02T23:44:57Z",
+  "html_sha256": "59e818dfc1c7aee71a17978e91d5d3ddd03dee80b87dadaff345a022374654e9",
+  "text_sha256": "bc298197bcde52aa277dd6ae48c2fcf4ff2111e988719f60f185edd0806711e3",
+  "byte_size": 104898,
+  "title": "Election Results | Palm Beach County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
