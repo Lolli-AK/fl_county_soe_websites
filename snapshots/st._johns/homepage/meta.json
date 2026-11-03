@@ -7,25 +7,23 @@
     "https://www.votesjc.gov"
   ],
   "http_status": 200,
-  "content_type": "text/html;charset=utf-8",
+  "content_type": "text/html;charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-03T15:35:41Z",
-  "html_sha256": "d69e750bb9d45242ca9edee330e89bfb96615c4a501f781d38248e9083171986",
-  "text_sha256": "70bb08de32e3a8396cae5b4c1068160017961b6177c0fb6b448b1a85caaf59ff",
-  "byte_size": 158698,
-  "title": "Elections Information | Vicky Oakes | St. Johns",
+  "fetched_at": "2026-11-03T16:54:32Z",
+  "html_sha256": "c0cbabf8860ffc2fa9de97f24328037c35d862296e4d16cb117c732cad2e5c17",
+  "text_sha256": "c4e5db0482b47525154bd94f7b63d58944a4f0ca699b92a508c6de167ddaec09",
+  "byte_size": 79487,
+  "title": "Help Desk Software for Small Business | Free 30-Day Trial",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 4
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }
