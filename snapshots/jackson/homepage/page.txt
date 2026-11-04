@@ -107,15 +107,15 @@ JACKSON COUNTY
 Active Registered Voters
 as of 11/04/2026
 Republicans
-0
+16,376
 Democrats
-0
+7,897
 NPA
-0
+2,689
 Others
-0
+697
 Total
-0
+27,659
 Voter Registration
 Ways to Vote
 Where do I Vote?

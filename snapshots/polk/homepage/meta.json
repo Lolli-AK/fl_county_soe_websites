@@ -2,19 +2,18 @@
   "county": "Polk",
   "page_type": "homepage",
   "requested_url": "https://www.polkelections.gov",
-  "final_url": "https://www.polkelections.gov/",
+  "final_url": "https://www.polkelections.gov",
   "redirect_chain": [
-    "https://www.polkelections.gov",
-    "https://www.polkelections.gov/"
+    "https://www.polkelections.gov"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T13:05:00Z",
-  "html_sha256": "20ce7991484e2a694aa7caeed28148d512a2edcc54c8eaf3baf6e647cb36c57d",
-  "text_sha256": "c38fc68dd3db3890dd3e6ec4b131115e10e1988221e36d870e35ca4e4296f158",
-  "byte_size": 102127,
+  "fetched_at": "2026-11-04T14:05:03Z",
+  "html_sha256": "14592cc274d9f1dfc51b36bfcb098bd5a96ea925d57af84c59b6b0b7f871985e",
+  "text_sha256": "8dc7db7e103d9ae772104e13f7cc698870116f595902114e9d59fb32ca39726f",
+  "byte_size": 79447,
   "title": "Polk County SOE, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
