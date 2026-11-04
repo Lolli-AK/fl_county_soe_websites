@@ -6,24 +6,30 @@
   "redirect_chain": [
     "https://www.votehillsborough.gov/178/Military-Overseas-Voters"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T07:04:37Z",
-  "html_sha256": "35cb2cb8a9475c7c7a158c138606c97b1496afcaa29414f7b6d16a8c65c5c31e",
-  "text_sha256": "d0e65829f2356a060125d12f6ec56d8d5706d860ac6145dcfc773833c797ef46",
-  "byte_size": 3333,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-04T08:04:41Z",
+  "html_sha256": "c7e4b16d352b0cdb582a92d17e4bd2a1cb3a4a52ad3057bac90dde5123f87b76",
+  "text_sha256": "4a22a34c3a81af479e34a3b0b536e011a8496463894ad75a05fac715e8fc3c66",
+  "byte_size": 45742,
+  "title": "Military & Overseas Voters | Hillsborough County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 30
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

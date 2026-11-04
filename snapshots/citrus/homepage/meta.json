@@ -2,18 +2,19 @@
   "county": "Citrus",
   "page_type": "homepage",
   "requested_url": "https://www.votecitrus.gov",
-  "final_url": "https://www.votecitrus.gov",
+  "final_url": "https://www.votecitrus.gov/",
   "redirect_chain": [
-    "https://www.votecitrus.gov"
+    "https://www.votecitrus.gov",
+    "https://www.votecitrus.gov/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T07:04:37Z",
-  "html_sha256": "87eb4ffc53da25a7328dfd8e316979cef533e41bdbb7422fecd06659733a33d3",
-  "text_sha256": "94735012c3471bc54acd61a061cd860298ade41016fa76aea20a4da1b0221466",
-  "byte_size": 129857,
+  "fetched_at": "2026-11-04T08:04:41Z",
+  "html_sha256": "7b33040a3fcd00449176549141a68c1377265bfd65f51fda788fb7aee566d7db",
+  "text_sha256": "778801a331e8fae4bf2ee506cf8cb1d4854751ca49a3cf32222534c6ecc202b5",
+  "byte_size": 169102,
   "title": "Citrus County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
