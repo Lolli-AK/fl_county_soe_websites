@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votemarion.gov/335/Find-My-Voting-Location"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T15:05:29Z",
-  "html_sha256": "3c5e5177b9e0e8d409c5971a371ef56d90b35d6be0eccf0746247d5f2462bb9d",
-  "text_sha256": "d44c878b16cb238c3c267f979438cd2a940ab62532af72961dde5e9cda9b23a4",
-  "byte_size": 1003,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-04T15:52:08Z",
+  "html_sha256": "746a452eb2dcc64ece18c30a7dc6058af5c70f198dd5ea39460cbffc0f6c72bb",
+  "text_sha256": "1f17fd3489cfb485ae4c61d2711f19b1bd5a09608f1925029b7efbddc4eef062",
+  "byte_size": 50179,
+  "title": "Find My Voting Location | Marion County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content; headless_error: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.votemarion.gov/335/Find-My-Voting-Location\", waiting until \"domcontentloaded\"\n"
+  "error": null
 }
