@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T18:53:56Z",
-  "html_sha256": "0228b9dd1093df9bd4be2c91c07d2109d71cd67dbfeda81e14e89628e8d471ec",
+  "fetched_at": "2026-11-04T19:34:59Z",
+  "html_sha256": "86cb52ab54af971d60b482bb02a437c2d72bf04e15792ae44ad80a5cbb57783a",
   "text_sha256": "c52c226272927535b21ee721eb136e72202a59d86a2e1d37a1dee2c0837ea77a",
-  "byte_size": 128564,
+  "byte_size": 128574,
   "title": "Find Polling Place",
   "noncitizen_voting": {
     "present": false,
