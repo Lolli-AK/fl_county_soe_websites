@@ -103,6 +103,7 @@ Honor Page
 Outreach
 Calendar of Events
 Links of Interest
+[rotating image slideshow removed for determinism]
 Joe Morgan
 Wakulla County
 Supervisor of Elections
@@ -145,7 +146,7 @@ Fax
 Mailing Address
 Supervisor of Elections, P.O. Box 305, Crawfordville, Florida 32326
 Email
-[email protected]
+wakullacountysoe@wakullavotes.gov
 PLEASE NOTE – Under Florida law, email addresses are public records. If you do not want your email address released in response to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing. Florida Statute 668.6076.
 We are committed to keeping our site accessible to everyone and
 welcome feedback on ways to improve the site’s accessibility
