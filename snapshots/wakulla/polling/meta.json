@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T14:05:03Z",
-  "html_sha256": "7614d78683b206e62f82eb7c9c6e4a040d85558a9662c7d256b70394fc8471c9",
+  "fetched_at": "2026-11-04T15:05:29Z",
+  "html_sha256": "2c95b149cf88f038bb0b1f66adeed1873bb1072a85507f448b928d179a180a15",
   "text_sha256": "a6301f0b89754bc381441f8330a136bd8bf348977d55798f6afe7b9c5fd795ee",
-  "byte_size": 109661,
+  "byte_size": 109643,
   "title": "Polling Sites – Wakulla County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

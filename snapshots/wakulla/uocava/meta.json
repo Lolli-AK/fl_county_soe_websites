@@ -7,23 +7,29 @@
     "https://wakullavotes.gov/military-overseas-voters/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T14:05:03Z",
-  "html_sha256": "3a8e26c3d8239eef36fa1ed2d548f42d2ae326d5bca94c231253ea9964205ada",
-  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
-  "byte_size": 488,
-  "title": "One moment, please...",
+  "fetched_at": "2026-11-04T15:05:29Z",
+  "html_sha256": "ff7cf39bd1e02f7641a4275f4e3cbac5dbe5a64fc09cbc801d868428aca37c56",
+  "text_sha256": "d92814cc163e8caed3e7d4470e28ddb023038abc3d70ac69cc0f52c474332588",
+  "byte_size": 91543,
+  "title": "Military/Overseas Voters – Wakulla County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 37
   },
   "error": null
 }
