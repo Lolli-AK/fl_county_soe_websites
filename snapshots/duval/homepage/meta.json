@@ -2,18 +2,19 @@
   "county": "Duval",
   "page_type": "homepage",
   "requested_url": "https://www.duvalelections.gov",
-  "final_url": "https://www.duvalelections.gov",
+  "final_url": "https://www.duvalelections.gov/",
   "redirect_chain": [
-    "https://www.duvalelections.gov"
+    "https://www.duvalelections.gov",
+    "https://www.duvalelections.gov/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T18:30:13Z",
-  "html_sha256": "8d72bb2a8174b9675efd3d197db3949127b2dbcc4fbbee1b9a0421f08930e795",
-  "text_sha256": "cd141934d22c1dd33ebb1e07fa3a8302a668ef03cdb5d2416af07035a6b5f684",
-  "byte_size": 57961,
+  "fetched_at": "2026-11-04T18:53:56Z",
+  "html_sha256": "d729c3cc5b0aeca4a078c8a65f5dbd9eedbe060f55f74dba1123dd5d8220f6a8",
+  "text_sha256": "adfb10b0be32423cb41f12162740ed11d827b8616f59eb13ba115f4f74a3d4de",
+  "byte_size": 87490,
   "title": "Duval County Elections, FL Official Website | Official Website",
   "noncitizen_voting": {
     "present": false,
