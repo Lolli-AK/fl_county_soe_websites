@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.voteosceola.gov/en-us/voter-information/how-to-register-to-vote/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T02:04:25Z",
-  "html_sha256": "e4a3b450074b223abf977d3ed4118a49443bb93a9688498e693646ae6154042a",
-  "text_sha256": "e0fc8709fb0f27423f03802442312a15d4807860db3ba1e5fcde9af6e59eccf7",
-  "byte_size": 56643,
-  "title": "How to Register to Vote – Vote Osceola",
+  "fetched_at": "2026-11-04T03:04:42Z",
+  "html_sha256": "d359e181b27bc1c3739e5bdf3669fe0f2218bd4fe7029c1a93236713b02e1245",
+  "text_sha256": "2eb5f2072694d00310526aff684966930214ed5294152a263d7ee8d2604e931f",
+  "byte_size": 3184,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

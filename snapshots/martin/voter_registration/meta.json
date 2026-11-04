@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T02:04:25Z",
-  "html_sha256": "7d4871c32b5259c55a0a2a4f4df202a8c9ec82c4cdb66b780eb2e96a81c0bf73",
+  "fetched_at": "2026-11-04T03:04:42Z",
+  "html_sha256": "63780eb09347c9bae74bf3e6a8b6f45e45484e47131132222415c1033d5fcb7f",
   "text_sha256": "53a8a05d17a035e949c4a01e9946f086c676b67c997aa97d9895cc2e8cf68b55",
-  "byte_size": 34213,
+  "byte_size": 34120,
   "title": "Register to Vote - Martin County",
   "noncitizen_voting": {
     "present": false,
