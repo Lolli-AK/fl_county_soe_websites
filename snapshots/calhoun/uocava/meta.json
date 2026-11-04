@@ -6,24 +6,27 @@
   "redirect_chain": [
     "https://votecalhounfl.gov/military-overseas/"
   ],
-  "http_status": 404,
-  "content_type": null,
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T10:34:26Z",
-  "html_sha256": "8e1544a0cf6af6de1f83336f3382198914d875075a95b99022e31967f40b331a",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 49,
-  "title": null,
+  "fetched_at": "2026-11-04T11:37:53Z",
+  "html_sha256": "37f26129fd51bc32d85027b3391113ccb03e04cfaf9a9b5bf0e9bbace900c057",
+  "text_sha256": "89e003d7978addd9ceba218c27e0fd094233791731c6735d30b5597a3507ba04",
+  "byte_size": 177190,
+  "title": "Military & Overseas – Calhoun County – Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 18
   },
   "error": null
 }

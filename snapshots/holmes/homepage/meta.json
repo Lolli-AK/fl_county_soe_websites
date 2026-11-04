@@ -2,20 +2,19 @@
   "county": "Holmes",
   "page_type": "homepage",
   "requested_url": "https://holmeselectionsfl.gov/",
-  "final_url": "https://static.holmeselectionsfl.gov/",
+  "final_url": "https://holmeselectionsfl.gov/",
   "redirect_chain": [
-    "https://holmeselectionsfl.gov/",
-    "https://static.holmeselectionsfl.gov/"
+    "https://holmeselectionsfl.gov/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T10:34:26Z",
-  "html_sha256": "813449278e7493be811105a58ea45f98d9429e673c2b1138f8cbe43f210a3ec0",
-  "text_sha256": "0b5225ae05312fa33d623b06334c0214b17d93eaac090442a906c2d251193158",
-  "byte_size": 2585,
-  "title": "Holmes County - Supervisor of Elections",
+  "fetched_at": "2026-11-04T11:37:53Z",
+  "html_sha256": "548a4b9bf328f46ca0e0e572916bc1ad9c545ca1e4156c61a296d67b668c214b",
+  "text_sha256": "64300540ec9200a8d7633a2df951c29317a147f53dcdf423f0d77358bd38b27e",
+  "byte_size": 118619,
+  "title": "Holmes County Supervisor of Elections – H. Russell 'Rusty' Williams",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

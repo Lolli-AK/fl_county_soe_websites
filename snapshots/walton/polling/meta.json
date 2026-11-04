@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://votewalton.gov/where-do-i-vote/"
   ],
-  "http_status": 404,
-  "content_type": null,
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T10:34:26Z",
-  "html_sha256": "8e1544a0cf6af6de1f83336f3382198914d875075a95b99022e31967f40b331a",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 49,
-  "title": null,
+  "fetched_at": "2026-11-04T11:37:53Z",
+  "html_sha256": "7d9d8c48adc10839d952da92ca69a718f82bcff775b390eb5d77c26e6b98c210",
+  "text_sha256": "96d31627d515cd09b6fbd63a356af7c28e637bc2ce418edc0f32ea51a71f7e1b",
+  "byte_size": 187104,
+  "title": "Where Do I Vote? – Walton County Supervisor of Election",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

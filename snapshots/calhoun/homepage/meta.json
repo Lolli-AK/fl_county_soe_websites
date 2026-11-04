@@ -7,23 +7,26 @@
     "https://votecalhounfl.gov/"
   ],
   "http_status": 200,
-  "content_type": "text/html",
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T10:34:26Z",
-  "html_sha256": "1b90913239c8b3c1f7eac1a69ae58a11f66e6cb26ca0faf5db5b951c6296b919",
-  "text_sha256": "fe7233f2bb1d062597aa71855fb76fd10ec849f710c75e04784624935add5da0",
-  "byte_size": 2310,
-  "title": "Calhoun County - Supervisor of Elections",
+  "fetched_at": "2026-11-04T11:37:53Z",
+  "html_sha256": "4dbe17d813a334b57437fd671034ad8631065b80f9e7d73b7146a4875e7ed698",
+  "text_sha256": "883f3ff5b84a397058918d83f1516f91446f377c98ebe27604bfc4c613e89282",
+  "byte_size": 215865,
+  "title": "Calhoun County – Supervisor of Elections – Sharon Chason",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 15
   },
   "error": null
 }

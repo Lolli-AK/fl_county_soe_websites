@@ -2,29 +2,30 @@
   "county": "Wakulla",
   "page_type": "polling",
   "requested_url": "https://wakullavotes.gov/polling-sites/",
-  "final_url": "https://static.wakullavotes.gov/polling-sites/",
+  "final_url": "https://wakullavotes.gov/polling-sites/",
   "redirect_chain": [
-    "https://wakullavotes.gov/polling-sites/",
-    "https://static.wakullavotes.gov/polling-sites/"
+    "https://wakullavotes.gov/polling-sites/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T10:34:26Z",
-  "html_sha256": "b149f9e07949bc168399faeff1bf75cecd0da50fa7c80accf0553c26f0a012fc",
-  "text_sha256": "27601b7d79e52bd78d15ed6525763561e968e97507a4684fde3910ff8b16bf5f",
-  "byte_size": 2412,
-  "title": "Wakulla County - Supervisor of Elections",
+  "fetched_at": "2026-11-04T11:37:53Z",
+  "html_sha256": "92eb07f5d6a2c16e5999a481c7e77585a174b2435088761156860efb643e2efb",
+  "text_sha256": "bdc94f9933571d2f1a227e6c51f7f366ab72f92b4efaa34630d733823652760f",
+  "byte_size": 106017,
+  "title": "Polling Sites – Wakulla County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
   "error": null
 }

@@ -6,24 +6,27 @@
   "redirect_chain": [
     "https://votecalhounfl.gov/election-information/election-results-archive/"
   ],
-  "http_status": 404,
-  "content_type": null,
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T10:34:26Z",
-  "html_sha256": "8e1544a0cf6af6de1f83336f3382198914d875075a95b99022e31967f40b331a",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 49,
-  "title": null,
+  "fetched_at": "2026-11-04T11:37:53Z",
+  "html_sha256": "0480c465c8edaf50909a7600fbf874a13984e2efd3ea0fbca94ad0aeb83cd1c2",
+  "text_sha256": "3e80bfd36e67a4fddfb54127aa8bc6fb6cdd77f8936d07c154338d7420183448",
+  "byte_size": 175519,
+  "title": "Election Results Archive – Calhoun County – Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 15
   },
   "error": null
 }

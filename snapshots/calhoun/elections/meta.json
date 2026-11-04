@@ -6,24 +6,27 @@
   "redirect_chain": [
     "https://votecalhounfl.gov/election-information/election-dates/"
   ],
-  "http_status": 404,
-  "content_type": null,
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T10:34:26Z",
-  "html_sha256": "8e1544a0cf6af6de1f83336f3382198914d875075a95b99022e31967f40b331a",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 49,
-  "title": null,
+  "fetched_at": "2026-11-04T11:37:53Z",
+  "html_sha256": "2a93acd53278e135fc265969a743b7579d2688d2eb744f79bfb7cc435ad166de",
+  "text_sha256": "4e5e2a1a161334d69404419e7589f4b13d3f993ce62e4d9b12daf8a6256184f8",
+  "byte_size": 175884,
+  "title": "Election Dates – Calhoun County – Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 15
   },
   "error": null
 }

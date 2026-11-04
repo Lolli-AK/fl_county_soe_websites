@@ -2,29 +2,30 @@
   "county": "Jackson",
   "page_type": "voter_registration",
   "requested_url": "https://votejacksonfl.gov/voter-education/register-to-vote-or-update-your-registration/",
-  "final_url": "https://static.votejacksonfl.gov/voter-education/register-to-vote-or-update-your-registration/",
+  "final_url": "https://votejacksonfl.gov/voter-education/register-to-vote-or-update-your-registration/",
   "redirect_chain": [
-    "https://votejacksonfl.gov/voter-education/register-to-vote-or-update-your-registration/",
-    "https://static.votejacksonfl.gov/voter-education/register-to-vote-or-update-your-registration/"
+    "https://votejacksonfl.gov/voter-education/register-to-vote-or-update-your-registration/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T10:34:26Z",
-  "html_sha256": "0662b2eeda79089f463bebbecc39cc65288bcad95f341534f5bfb9519508e20f",
-  "text_sha256": "87e8ebf38f05d5b223ef8bb48fb693aaef5ce688d065c37e3803d45425a130be",
-  "byte_size": 2685,
-  "title": "Jackson County - Supervisor of Elections",
+  "fetched_at": "2026-11-04T11:37:53Z",
+  "html_sha256": "a43fec79838127ee83440a6a19f075bb15df3ca8cbdbb43d86d8468bfc3dd2d1",
+  "text_sha256": "f64feefc9f00848970f938eeba81bff572cbb3c6b01abaee2472c79c318171a0",
+  "byte_size": 80270,
+  "title": "Update Your Registration – Jackson County (FL) Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
   "error": null
 }

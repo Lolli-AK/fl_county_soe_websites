@@ -2,29 +2,30 @@
   "county": "Dixie",
   "page_type": "polling",
   "requested_url": "https://dixievotes.gov/voter-resources/polling-places/",
-  "final_url": "https://static.dixievotes.gov/voter-resources/polling-places/",
+  "final_url": "https://dixievotes.gov/voter-resources/polling-places/",
   "redirect_chain": [
-    "https://dixievotes.gov/voter-resources/polling-places/",
-    "https://static.dixievotes.gov/voter-resources/polling-places/"
+    "https://dixievotes.gov/voter-resources/polling-places/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T10:34:26Z",
-  "html_sha256": "e6d0a092dd7cf2277206e70890526a1b30b213384ec94aae5c9e7009e981872e",
-  "text_sha256": "24b01526b9ebb91ba525270ac66d2474d83e0204055ce2dfaa335519b597a262",
-  "byte_size": 2484,
-  "title": "Dixie County - Supervisor of Elections",
+  "fetched_at": "2026-11-04T11:37:53Z",
+  "html_sha256": "b7f2bcb3b9cc08a3f9f94c7756af9052248935f9643ca6f75d66b28fb4eebe69",
+  "text_sha256": "20192ef1fa03b96495d1de6b3bf5ca0b098a41900535484104c22c410628040d",
+  "byte_size": 130630,
+  "title": "Polling Places – Dixie County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 4
   },
   "error": null
 }
