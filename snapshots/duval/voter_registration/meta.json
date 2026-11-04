@@ -6,27 +6,24 @@
   "redirect_chain": [
     "https://www.duvalelections.gov/207/Forms-Publications"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T20:28:35Z",
-  "html_sha256": "e55036cd8213aab1cb5a01e8ff646dc58359acdf601ffe0d3bc3ccb0da59976c",
-  "text_sha256": "bc77c136b6814cf7c5b8fd853370f9d644744d19306498d4bd02f0214c0b0ae7",
-  "byte_size": 76931,
-  "title": "Forms & Publications | Duval County Elections, FL Official Website",
+  "fetched_at": "2026-11-04T21:28:22Z",
+  "html_sha256": "b0db9684a16e9e4994b02b012f2865579f37a66cbcd39a4cff5f415346c1a76f",
+  "text_sha256": "e21a7f64f3cc92ade84de7811b86a0407f4cd7d5d29a3afadafdc66d452fb403",
+  "byte_size": 3193,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "military_overseas_voter"
-    ],
-    "count": 14
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

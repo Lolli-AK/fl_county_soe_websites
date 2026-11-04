@@ -2,19 +2,20 @@
   "county": "Charlotte",
   "page_type": "homepage",
   "requested_url": "https://www.soecharlottecountyfl.gov",
-  "final_url": "https://www.soecharlottecountyfl.gov",
+  "final_url": "https://www.soecharlottecountyfl.gov/",
   "redirect_chain": [
-    "https://www.soecharlottecountyfl.gov"
+    "https://www.soecharlottecountyfl.gov",
+    "https://www.soecharlottecountyfl.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T20:28:35Z",
-  "html_sha256": "7ba3d01c0b4927ea1cde67ad1cbabd5c28865e0c660104675f29eff27b1cf2b8",
-  "text_sha256": "7941c9108e34e159a416061361504852782b78dea53e0ec296b1cf5169e8827c",
-  "byte_size": 50635,
-  "title": "Charlotte County Elections, FL | Official Website",
+  "fetched_at": "2026-11-04T21:28:22Z",
+  "html_sha256": "1883a9b2a757f275bac402b01fc2c88607ec9c28297c79bcc0ab8e73b967375a",
+  "text_sha256": "83af81b7aaa3a87d930a63b120c6cfa91a558ba4c65a37671aa0f566a8244279",
+  "byte_size": 3237,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

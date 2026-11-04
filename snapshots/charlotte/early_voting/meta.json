@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.soecharlottecountyfl.gov/1315/Early-Voting-Locations"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T20:28:35Z",
-  "html_sha256": "c9099c47fc1834b5e0d8fa131213c6a9bb28d5933b39f595193bb9f115afaa3d",
-  "text_sha256": "fd11128713269a594e3d26baa9dc3ad4da74cd69dad3c17c5e6b3ef20717a61f",
-  "byte_size": 57411,
-  "title": "Early Voting Locations | Charlotte County Elections, FL",
+  "fetched_at": "2026-11-04T21:28:22Z",
+  "html_sha256": "b0bea2c3336e3c01ae8db16b5c68f059a8d6c6c038099f97a62c485612a9f09e",
+  "text_sha256": "3465b35e2e38ebe83083fff4cd54e35656e478104dd4ab93af0083668b84c17a",
+  "byte_size": 3237,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
