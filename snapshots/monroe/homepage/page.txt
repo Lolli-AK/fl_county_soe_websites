@@ -85,13 +85,13 @@ Supervisor of Elections
 Monroe County
 Active Registered Voters
 Democratic
-14,858
+14,868
 Republican
-25,311
+25,343
 Others
-14,906
+14,940
 Total
-55,075
+55,151
 Last updated 2026-11-04
 Election Night Results
 November 3, 2026 - General Election
