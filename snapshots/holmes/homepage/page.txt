@@ -419,9 +419,9 @@ Use the
 Voter Information Search Tool
 to check your information & status.
 Calendar
-2026 General Election Day
-2026-11-03
-Polls will be open from 7:00am – 7:00pm at your voting precinct location.
+Veterans Day
+2026-11-11
+Our office will be closed, Wednesday, November 11th, for the Veterans Day Holiday.
 View All Upcoming Events
 News & Announcements
 Poll Worker Recruitment
@@ -435,7 +435,7 @@ Where can I get a sample ballot?
 Sample ballots are published in the local newspaper before each election. We post sample ballots on our Web site, too, and copies will be available in our office.
 View All FAQs
 Active Registered Voters
-As of 11/02/2026
+As of 11/04/2026
 Democrats
 0
 Republicans
