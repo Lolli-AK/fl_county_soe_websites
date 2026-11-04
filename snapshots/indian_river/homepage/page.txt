@@ -165,9 +165,9 @@ FAQs
 POST 7:00 PM ELECTION DAY VOTE-BY-MAIL REPORTING
 TOTAL
 Unprocessed Vote-By-Mail Ballots as of 7:00 PM
-142
+0
 Referred Vote-By-Mail Ballots as of 7:00 PM
-61
+62
 UPCOMING
 EVENTS
 See All Events
