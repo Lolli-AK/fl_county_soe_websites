@@ -2,19 +2,18 @@
   "county": "Hernando",
   "page_type": "homepage",
   "requested_url": "https://www.hernandovotes.gov",
-  "final_url": "https://www.hernandovotes.gov/",
+  "final_url": "https://www.hernandovotes.gov",
   "redirect_chain": [
-    "https://www.hernandovotes.gov",
-    "https://www.hernandovotes.gov/"
+    "https://www.hernandovotes.gov"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T21:28:22Z",
-  "html_sha256": "9138e56996b01bf490e3335e67d70c8585060b26785f6440cf64e42c943266d7",
-  "text_sha256": "11bd639564c43486a23fa6dded57e24f078ad88571e6a7a1db2a9a875912c56d",
-  "byte_size": 71538,
+  "fetched_at": "2026-11-04T22:28:24Z",
+  "html_sha256": "22dbd45368ebe4c08566da4e3f6ecb1b6deb322ed789a6d6b3dcdf09968ba634",
+  "text_sha256": "2f7ae4dee4256624a96b2806de400ace429c5f4d62b8310d09b4c19034969104",
+  "byte_size": 64760,
   "title": "Hernando County SOE, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
