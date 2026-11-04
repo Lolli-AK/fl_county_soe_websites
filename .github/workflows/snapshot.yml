@@ -163,8 +163,12 @@ jobs:
   # after the capture began, then starts the next run itself. A run started
   # with GITHUB_TOKEN through workflow_dispatch does execute, unlike most
   # token-triggered events, so the chain keeps going without the scheduler.
-  # It stops at CHAIN_END, and starts nothing while another run of this
-  # workflow is queued or going: that run continues the chain instead.
+  # It stops at CHAIN_END, and starts nothing while a newer run of this
+  # workflow is queued or going: that run continues the chain instead. Only
+  # newer runs count. On Nov 4 a scheduled run overlapped a chained one, each
+  # saw the other as active (the older only because its own chain job was
+  # still sleeping), both stood down, and the chain died. Run ids increase
+  # with creation, so exactly one run, the newest, is responsible.
   chain:
     needs: snapshot
     if: ${{ !cancelled() && needs.snapshot.outputs.go == 'true' }}
@@ -190,15 +194,15 @@ jobs:
             h=$(date -u +%Y%m%d%H)
             [ "$h" -ge "$CHAIN_START" ] && [ "$h" -lt "$CHAIN_END" ]
           }
-          others_active() {
+          newer_active() {
             gh run list -R "$REPO" -w "$wf" --limit 20 --json databaseId,status \
-              -q "[.[] | select(.databaseId != $RUN_ID)
+              -q "[.[] | select(.databaseId > $RUN_ID)
                        | select(.status == \"queued\" or .status == \"in_progress\"
                                 or .status == \"pending\" or .status == \"waiting\")] | length"
           }
 
           in_window || { echo "outside ${CHAIN_START}..${CHAIN_END}, chain ends"; exit 0; }
-          [ "$(others_active)" -eq 0 ] || { echo "another run is active and continues the chain"; exit 0; }
+          [ "$(newer_active)" -eq 0 ] || { echo "a newer run is active and continues the chain"; exit 0; }
 
           started=$(gh api "repos/$REPO/actions/runs/$RUN_ID" -q .run_started_at)
           wait_s=$(( $(date -u -d "$started" +%s) + GAP_MIN * 60 - $(date -u +%s) ))
@@ -208,6 +212,6 @@ jobs:
           fi
 
           in_window || { echo "window closed while waiting, chain ends"; exit 0; }
-          [ "$(others_active)" -eq 0 ] || { echo "another run started while waiting and continues the chain"; exit 0; }
+          [ "$(newer_active)" -eq 0 ] || { echo "a newer run started while waiting and continues the chain"; exit 0; }
           gh workflow run "$wf" -R "$REPO" --ref "$REF"
           echo "started the next $wf run"
