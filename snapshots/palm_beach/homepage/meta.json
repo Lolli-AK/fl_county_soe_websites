@@ -2,19 +2,18 @@
   "county": "Palm Beach",
   "page_type": "homepage",
   "requested_url": "https://www.votepalmbeach.gov",
-  "final_url": "https://www.votepalmbeach.gov/",
+  "final_url": "https://www.votepalmbeach.gov",
   "redirect_chain": [
-    "https://www.votepalmbeach.gov",
-    "https://www.votepalmbeach.gov/"
+    "https://www.votepalmbeach.gov"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T03:04:42Z",
-  "html_sha256": "d4b971aa57c5e93ea29417441200dc689a384e23817971aa3340cf90ececcb4a",
-  "text_sha256": "c1f5197a16288c4dd66ac544231d574c5a1e76f46965656167f27eee3f0c0481",
-  "byte_size": 70106,
+  "fetched_at": "2026-11-04T03:21:32Z",
+  "html_sha256": "f0d75345154fc0a3280dc3603783901c89effc374e27a8cedc003cdb67c0cc79",
+  "text_sha256": "d9bf50e9986d297b4f4bf4673a4b18ec7add8e8da5948cc3582f124a9c83c6b8",
+  "byte_size": 66404,
   "title": "Palm Beach County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
