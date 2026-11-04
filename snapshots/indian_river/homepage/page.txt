@@ -162,10 +162,12 @@ No Solicitation Zone
 Election Workers
 Election Worker Information
 FAQs
-Please note a correction to the sample ballot mailing.
-The early voting location at the Sebastian City Council Chambers was inadvertently listed as being in Vero Beach.  The correct city is
-Sebastian, Florida
-.  We apologize for any confusion this error may have caused.
+POST 7:00 PM ELECTION DAY VOTE-BY-MAIL REPORTING
+TOTAL
+Unprocessed Vote-By-Mail Ballots as of 7:00 PM
+144
+Referred Vote-By-Mail Ballots as of 7:00 PM
+61
 UPCOMING
 EVENTS
 See All Events

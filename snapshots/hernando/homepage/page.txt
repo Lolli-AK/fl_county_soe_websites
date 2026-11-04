@@ -19,6 +19,9 @@ Democrats:
 Republicans:
 Other:
 Total:
+2026 General Election
+(11/03/2026)
+UNOFFICIAL RESULTS
 Sample Ballots Now Available!
 Sample ballots for the 2026 General Election are now available.
 Check the
@@ -108,14 +111,12 @@ S
 3
 4
 5
-Tue, Nov. 3
-Election Day - 2026 General Election
-Tue, Nov. 3
-General Election - Canvass of Vote-By-Mail Ballots
 Wed, Nov. 4
 General Election - Scan Election Day ballots into independent audit system
 Fri, Nov. 6
 General Election - Certify 1st Unofficial Election Results
+Fri, Nov. 13
+General Election - Final Certification / Post Election Audit
 View All Events
 /Calendar.aspx
 2026 Elections Information

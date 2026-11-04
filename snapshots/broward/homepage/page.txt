@@ -87,19 +87,19 @@ What is an Election Worker?
 Become an Election Worker
 Election Worker Portal
 Broward County
-Today is Election Day!
-Vote at your assigned precinct today.
-Polls are open from 7 a.m. to 7 p.m. You must be in line by 7 p.m. to vote.
-Find my Precinct
-Check Your Ballot Status
-Ensure your vote-by-mail ballot was received and counted.
+View Unofficial Election Results
+Unofficial election results are available after 7 p.m. See how your community voted.
+See Unofficial Results
+Check Your Provisional Ballot Status
+Voted a provisional ballot? Click below to check its status.
 Check Status
-Ballot Return Locations
-Ballots must arrive at Supervisor of Elections Office by 7:00 PM on Election Day.
-View Locations
-View Your Sample Ballot
-Click the link below to view your personalized sample ballot.
-View Sample Ballot
+View Unofficial Turnout Statistics
+Unofficial Turnout Statistics for the November 3, 2026 General Election.
+All Stats
+VBM Stats
+Become a Poll Worker
+Help strengthen democracy by serving as a poll worker in future elections.
+Join Us
 Announcements
 Supervisor of Elections Statement
 Supervisor of Elections Joe Scott Statement on Morning Voting Delays and Polling Place Changes -

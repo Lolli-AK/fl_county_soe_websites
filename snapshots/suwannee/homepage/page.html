@@ -610,7 +610,24 @@
      </section>
      <div class="bg-[#F2F0EA]">
       <div class="relative lg:-mt-56 pb-12 max-w-[1600px] mx-auto px-4">
-       <div class="h-12 md:h-20">
+       <div class="mx-8 mb-2 md:mb-6 p-8 md:px-16 xl:px-20 lg:py-12 bg-primary-dark relative z-10">
+        <div class="flex flex-col md:flex-row justify-between items-center gap-4 text-white relative z-10">
+         <div class="text-center md:text-left" tabindex="0">
+          <h2 class="text-3xl md:text-6xl font-heading pb-2 subpixel-antialiased italic">
+           Election Results
+          </h2>
+          <span class="text-white font-extrabold tracking-wide md:text-xl uppercase" role="heading">
+           2026 General Election Results (11/03/2026)
+          </span>
+         </div>
+         <div class="flex items-center gap-4">
+          <a aria-label="View Unofficial Results opens in a new tab" class="btn btn-accent-outlined border-accent-yellow bg-white" href="https://enr.electionsfl.org/SUW/4112/Summary/" target="_blank">
+           View Unofficial Results
+          </a>
+         </div>
+        </div>
+        <div class="bg-cover absolute z-0 inset-0">
+        </div>
        </div>
        <div class="relative z-30 border-gray-200 border-4 lg:border-[10px] p-2 sm:p-8 bg-secondary-light xl:mx-8">
         <div class="grid md:grid-cols-2 gap-2 md:gap-4 lg:gap-6 xl:grid-cols-4">
@@ -727,16 +744,8 @@
        </div>
       </div>
      </div>
-     <section class="w-full bg-primary-dark px-4 py-8 md:p-8 xl:px-16 xl:py-24 relative z-10 bg-cover" v-lazy:background-image="'/images/voter-turnout-bg.webp'">
-      <h2 class="text-white uppercase leading-tight text-3xl md:text-5xl font-heading tracking-wider text-center" tabindex="0">
-       <img alt="" class="mx-auto mb-2" role="presentation" v-lazy="'/images/yellow-stars.svg'"/>
-       Voter Turnout
-       <span class="block h-4 border-b border-accent-yellow max-w-[140px] mx-auto">
-       </span>
-      </h2>
-      <div class="w-full max-w-7xl mx-auto text-center md:p-8 my-8 h-[650px] lg:h-[670px] border-8 border-primary bg-white lg:p-8 xl:py-12 xl:px-16">
-      </div>
-     </section>
+     <div class="h-4 bg-primary-dark">
+     </div>
      <section class="bg-white relative pb-6 bg-cover bg-blend-multiply" v-lazy:background-image="'/images/line-texture.svg'">
       <div class="relative z-10 mx-auto p-6 lg:py-12 max-w-[1700px]">
        <div class="w-full grid lg:grid-cols-2 gap-8 xl:gap-12 2xl:gap-20">
@@ -747,21 +756,9 @@
            Upcoming Elections
           </span>
          </div>
-         <div class="border-8 border-primary-light/30 mb-4 hover:border-primary-light/50 transition-all duration-1000">
-          <div class="p-4 md:p-8 bg-gradient-to-b from-20% lg:from-50% lg:bg-gradient-to-r from-secondary-light to-[#95ACD8] flex flex-col gap-4 md:flex-row items-center relative" tabindex="0">
-           <div class="md:pr-4 grow text-center md:text-left" tabindex="0">
-            <p class="text-gray-800 font-bold">
-             Nov 3, 2026
-            </p>
-            <span class="text-accent font-heading italic text-2xl md:text-4xl">
-             General Election
-            </span>
-           </div>
-           <a class="whitespace-nowrap flex-none btn-primary border-white bg-primary hover:scale-105 hover:after:bg-white hover:bg-white hover:text-primary" href="https://www.suwanneevotes.com/events/general-election/" tabindex="0">
-            Election Info &amp; Dates
-           </a>
-          </div>
-         </div>
+         <p class="md:text-lg text-gray-800 mb-8 mt-2 italic p-4 md:p-8 bg-white" tabindex="0">
+          There are currently no upcoming elections.
+         </p>
          <div class="h-4">
          </div>
          <div class="border-8 border-primary-light/30 bg-white flex flex-col md:flex-row">
