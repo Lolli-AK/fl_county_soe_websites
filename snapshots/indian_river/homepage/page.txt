@@ -165,7 +165,7 @@ FAQs
 POST 7:00 PM ELECTION DAY VOTE-BY-MAIL REPORTING
 TOTAL
 Unprocessed Vote-By-Mail Ballots as of 7:00 PM
-144
+142
 Referred Vote-By-Mail Ballots as of 7:00 PM
 61
 UPCOMING
@@ -211,12 +211,6 @@ Email
 Phone
 Message
 *
-Attention Precinct 7 (Sebastian Church of God) and Precinct 26 (Morning Star Church) Voters!
-Due to flooding, Precinct 7 and Precinct 26 are being moved to different locations. Please click the
-Read More
-button below for details.
-READ MORE
-CLOSE
 SHARE
 Share this page
 Close

@@ -148,6 +148,9 @@ Greenville City Government
 Third Circuit Prosecutor & Defender
 Division of Elections
 Search Website
+Election Results
+2026 Madison General Election
+View Official Results
 Check My Status
 Register to Vote
 Update My Info
@@ -165,7 +168,6 @@ Other
 1,354
 Total
 10,547
-Voter Turnout
 Upcoming Elections
 There are currently no upcoming elections.
 Voter Assistance Hotline

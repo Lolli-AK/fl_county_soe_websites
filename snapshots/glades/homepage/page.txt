@@ -99,7 +99,7 @@ Precinct District Assignments
 Public Notices
 Voting System Post-Election Audit Report
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 11/03/2026:
+Active Registered Voters as of 11/04/2026:
 Dem: 1,439
 Rep: 4,145
 Oth: 1,335
@@ -118,7 +118,7 @@ ELECTION RESULTS
 PUBLIC NOTICE:
 Aletris Farnam is the custodian of Public Records. Email:
 [email protected]
-VBM Ballots  699
+VBM Ballots  723
 Uncounted VBM 0
 2026 General Election
 Turnout Quickview
