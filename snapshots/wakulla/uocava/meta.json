@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T15:52:08Z",
-  "html_sha256": "8eaeb617a05738d57507d0e9d88f716d99845b07cc411f539904192615e97e44",
-  "text_sha256": "54700b10caa41852e248e55e3f1a6fb5c4dbb1b570e9007555158875b440875b",
-  "byte_size": 94902,
+  "fetched_at": "2026-11-04T18:30:13Z",
+  "html_sha256": "100f3b1d7fa6af5e26df2df4808c677a075e5a1ff92b1e356ede6280012ac62a",
+  "text_sha256": "52ec15022cf07d9f570a931e54aec3919eba0587ac33431f87f2cf389cb465dc",
+  "byte_size": 91292,
   "title": "Military/Overseas Voters – Wakulla County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
@@ -29,7 +29,7 @@
       "military_overseas_voter",
       "citizen_abroad"
     ],
-    "count": 40
+    "count": 37
   },
   "error": null
 }

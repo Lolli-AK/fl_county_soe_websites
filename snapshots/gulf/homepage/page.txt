@@ -130,17 +130,17 @@ Track My Ballot
 Early Voting
 Voting Locations
 Active Registered Voters
-(11/03/2026)
+(11/04/2026)
 Democrats
-2,234
+2,231
 Republicans
-7,321
+7,322
 No Party Affiliation
-1,274
+1,271
 Other
 397
 Total
-11,226
+11,221
 Voter Turnout
 Upcoming Elections
 All Upcoming Elections
@@ -152,7 +152,7 @@ There are currently no scheduled events or dates.
 All Upcoming Dates
 Stay Up to Date
 Gulf County Supervisor of Elections
-posted 20 hours ago
+posted 22 hours ago
 Our dedicated poll workers at Honeyville community center are waiting for you to come see them.
 Polls close at 7:00 pm eastern (6:00pm central).
 View Facebook Post

@@ -5,9 +5,7 @@ Voters
 Register or Update
 Voter Info
 Vote By Mail Information
-Early Voting & Ballot Return
 Election Day Precinct
-Sample Ballot
 Ballot Status Notifications
 Voter Resources
 How to Register
@@ -101,34 +99,6 @@ Become a Poll Worker
 Help strengthen democracy by serving as a poll worker in future elections.
 Join Us
 Announcements
-Supervisor of Elections Statement
-Supervisor of Elections Joe Scott Statement on Morning Voting Delays and Polling Place Changes -
-English
-|
-Spanish
-Video message from the Supervisor of Elections
-Turnout Statistics for the 11/3/2026 Election and Maps
-Unofficial Voter Turnout Statistics for the 11/3/2026 General Election
-Unofficial Vote-by-Mail Statistics for the 11/3/2026 General Election
-Early Voting Totals by Date and Location
-Find My Representative & View Broward County Maps
-View the 2026 Congressional Redistricting Interactive Map
-11/3/2026 Election - Early Voting and Secure Ballot Intake Stations Schedules
-Secure Ballot Intake Stations Flyer
-Early Voting Flyer (Locations, Dates, and Hours):
-English
-|
-Spanish
-|
-Creole
-11/3/2026 Election – Important Information
-For Voter Information Lookup -
-Click Here
-150-Foot Zone and Other Polling Location Information
-List of Polling Places for the 11/3/2026 General Election
-Election Preparation Report for the 11/3/2026 General Election
-Registration Deadline and Other Important Dates for the 11/3/2026 General Election
-List of Candidates for the 11/3/2026 General Election
 11/3/2026 Election – Canvassing Board
 Canvassing Board Meeting Notice/Agenda - 11/03/2026 (
 English
@@ -148,8 +118,20 @@ Spanish
 Administrative Order for the 11/3/2026 General Election
 Important Forms for Elections | Broward County Supervisor of Elections
 11/3/2026 General Election Canvassing Board Meetings
-11/3/2026 Election – Media
-2026 General Election Media Guide
+Turnout Statistics for the 11/3/2026 Election and Maps
+Unofficial Voter Turnout Statistics for the 11/3/2026 General Election
+Unofficial Vote-by-Mail Statistics for the 11/3/2026 General Election
+Early Voting Totals by Date and Location
+Find My Representative & View Broward County Maps
+View the 2026 Congressional Redistricting Interactive Map
+11/3/2026 Election – Important Information
+For Voter Information Lookup -
+Click Here
+150-Foot Zone and Other Polling Location Information
+List of Polling Places for the 11/3/2026 General Election
+Election Preparation Report for the 11/3/2026 General Election
+Registration Deadline and Other Important Dates for the 11/3/2026 General Election
+List of Candidates for the 11/3/2026 General Election
 Legally Required Notices
 Potential Ineligibility Notices - Public Notice- 11/02/2026
 Notice of General Election in

@@ -1,8 +1,6 @@
 Wakulla County Supervisor of Elections
 Skip to content
-Election Day is November 3rd
-Vote at your precinct.  Not sure where to vote?
-Check your status here.
+Thank you for voting Wakulla!
 Search
 Choose Your Language
 English
@@ -103,7 +101,6 @@ Honor Page
 Outreach
 Calendar of Events
 Links of Interest
-[rotating image slideshow removed for determinism]
 Joe Morgan
 Wakulla County
 Supervisor of Elections
@@ -129,38 +126,16 @@ Total
 2026 General Election
 (11/3/2026)
 UNOFFICIAL RESULTS
+General Election 2026 Quick links:
+**
+Turnout Quick View Results for Wakulla County
+**
+State of Florida Results
 Calendar of Events
 Canvassing Board Meeting starts at 5pm
 November 5, 2026
 View All Events
-Sample Ballot For General Election
-Spanish Available upon request.
-Click Here
-Constitutional Amendment Booklet
-From the Secretary of State. Spanish available upon request.
-Click Here
-Sample Ballot For General Election
-Spanish Available upon request.
-Click Here
-Constitutional Amendment Booklet
-From the Secretary of State. Spanish available upon request.
-Click Here
-Sample Ballot For General Election
-Spanish Available upon request.
-Click Here
-Constitutional Amendment Booklet
-From the Secretary of State. Spanish available upon request.
-Click Here
 News & Announcements
-NOVEMBER 3, 2026
-General Election
-Important Dates
-Nov 3, 2026
-General Election Day
-YOU MUST VOTE AT YOUR NEIGHBORHOOD POLLING LOCATION.
-The Elections Office IS NOT A POLLING LOCATION.
-You will be redirected to your correct polling location.
-CLICK HERE TO SEE WHERE YOU VOTE.
 In Person Voting ID Requirements
 for the 2026 Elections
 Do I need ID to vote?
@@ -204,7 +179,7 @@ Fax
 Mailing Address
 Supervisor of Elections, P.O. Box 305, Crawfordville, Florida 32326
 Email
-wakullacountysoe@wakullavotes.gov
+[email protected]
 PLEASE NOTE – Under Florida law, email addresses are public records. If you do not want your email address released in response to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing. Florida Statute 668.6076.
 We are committed to keeping our site accessible to everyone and
 welcome feedback on ways to improve the site’s accessibility

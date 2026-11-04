@@ -176,24 +176,12 @@ Petition Title
 Ineligibility Notices
 Potentially Ineligible VotersNOTICE OF REMOVAL OF ...
 See All
-Polling Location Change
-Precinct 10 Ft. Drum Communnity Church has
-moved to Precinct 01
-Hightpoint Church
-4550 Hwy 441 N, Okeechobee FL 34972
-Election Day
-Date: November 3rd, 2026
-Time: 7:00am – 7:00pm
-Location: Your Assigned Precinct
 Sample Ballots
 Canvassing Board Schedule
 Election Results
 voter turnout
 ×
 CALENDAR
-NOV
-3
-General Election
 NOV
 11
 Veterans Day – Office Closed
@@ -203,6 +191,9 @@ Thanksgiving – Office Closed
 DEC
 24
 Christmas Eve – Office Closed
+DEC
+25
+Christmas Day – Office Closed
 View Full Calendar
 Vote In Honor of a Veteran!
 [rotating image slideshow removed for determinism]

@@ -5,9 +5,7 @@ Voters
 Register or Update
 Voter Info
 Vote By Mail Information
-Early Voting & Ballot Return
 Election Day Precinct
-Sample Ballot
 Ballot Status Notifications
 Voter Resources
 How to Register
@@ -103,9 +101,7 @@ Voters
 Register or Update
 Voter Info
 Vote By Mail Information
-Early Voting & Ballot Return
 Election Day Precinct
-Sample Ballot
 Ballot Status Notifications
 Voter Resources
 How to Register
