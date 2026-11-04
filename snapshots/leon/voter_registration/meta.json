@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T05:04:36Z",
-  "html_sha256": "df1194ab232ed1887b8176699110acf1e95e7091bcb9122459b42b21aa52c9f4",
+  "fetched_at": "2026-11-04T06:04:37Z",
+  "html_sha256": "093b1510c49eac275a47cc0009970a7115981066648eb8075cc70825cafa5c27",
   "text_sha256": "492aa652cf79fb1030596a15d57a8527c5199e1f95244c281f2ae9360f2908d8",
-  "byte_size": 147791,
+  "byte_size": 147821,
   "title": "Update Your Registration",
   "noncitizen_voting": {
     "present": false,

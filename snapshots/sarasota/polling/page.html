@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="removeSetHeights" lang="en">
+<html lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -14,17 +14,10 @@
   </title>
   <meta content="The precinct you live in determines which contests will be on your ballot and where you vote on election day. Use this search tool to determine your precinct and polling location." name="description"/>
  </head>
- <body class="wide ae-find-my-precinct-and-polling-place-h1" data-audioeye-device-desktop="" data-audioeye-launcher="" data-mon-page-fix="done">
-  <div aria-live="polite" class="ae-blurb-noaudio" data-nosnippet="" id="ae_enabled_site" role="status">
-   <div>
-    <p data-modulename="launcher">
-     This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
-    </p>
-   </div>
-  </div>
+ <body class="wide">
   <div class="cp-PopOver cp-PopOver--modal" id="popoverModal">
    <div class="cp-PopOver-header">
-    <h3 aria-hidden="true" class="cp-PopOver-title" role="presentation" tabindex="-1">
+    <h3 class="cp-PopOver-title">
     </h3>
     <button class="cp-Btn cp-PopOver-close" onclick="closePopOverModal(event)">
     </button>
@@ -40,12 +33,12 @@
   </div>
   <div id="fb-root">
   </div>
-  <div aria-hidden="true" class="ae-exclude" id="skipToContentLinks" role="presentation" tabindex="-1">
-   <a aria-hidden="true" class="skipToContentLink ae-exclude" href="#ccGUID" role="presentation" tabindex="-1" target="_self">
+  <div id="skipToContentLinks">
+   <a class="skipToContentLink" href="#ccGUID" target="_self">
     Skip to Main Content
    </a>
   </div>
-  <form id="frmReferenceFormForTelerikEditorDialogs" role="presentation">
+  <form id="frmReferenceFormForTelerikEditorDialogs">
   </form>
   <input id="GoogleMapsKey" type="hidden"/>
   <input id="cpcDomain" type="hidden"/>
@@ -70,7 +63,7 @@
         </span>
        </a>
        <span class="alertContainer" id="1_spnAlertContainer">
-        <a aria-describedby="audioeye_new_window_message" class="alert" href="https://enr.electionsfl.org/SAR/4105/Summary/" target="_blank">
+        <a class="alert" href="https://enr.electionsfl.org/SAR/4105/Summary/" target="_blank">
          November 3 General Election
          <span>
           See more
@@ -126,26 +119,26 @@
               </a>
              </li>
             </ol>
-            <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu" role="presentation">
+            <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu">
              <input id="megaMenuPopupDirection" type="hidden"/>
              <input id="megaMenuWidthReference" type="hidden"/>
-             <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27">
+             <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="menu">
               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
               </div>
              </aside>
-             <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101">
+             <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101" role="menu">
               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
               </div>
              </aside>
-             <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31">
+             <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31" role="menu">
               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
               </div>
              </aside>
-             <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35">
+             <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="menu">
               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
               </div>
              </aside>
-             <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9">
+             <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="menu">
               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
               </div>
              </aside>
@@ -160,10 +153,10 @@
                <div class="row nest first last">
                 <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                  <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
-                  <section class="widget widgetSearch skin39 widgetOptionSet15" id="widgetPreviewSearch">
+                  <section aria-label="Search" class="widget widgetSearch skin39 widgetOptionSet15" id="widgetPreviewSearch">
                    <div class="widgetBody buttonRightInside">
-                    <input aria-label="Search Site" class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
-                    <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon">
+                    <input class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
+                    <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon" role="button">
                      <img alt="Search 4" class="imageHover" data-hover="/ImageRepository/Document?documentID=93" data-image="/ImageRepository/Document?documentID=94" src="/ImageRepository/Document?documentID=94"/>
                     </a>
                     <label aria-hidden="true" class="searchLabel" for="searchFieldGUID">
@@ -209,80 +202,80 @@
             </div>
            </aside>
            <nav aria-label="Secondary" class="siteNav secondaryNav" data-cprole="nav" id="secondaryNav">
-            <ol class="rootNavMenu accordionNav" data-parent="101" id="secondaryMenusecondaryNav">
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="171" id="SideItem171" tabindex="0">
+            <ol class="rootNavMenu accordionNav" data-parent="101" id="secondaryMenusecondaryNav" role="menu">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="171" id="SideItem171" role="menuitem" tabindex="0">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/171/Early-Voting" target="_self">
                 Early Voting
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="170" id="SideItem170" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="170" id="SideItem170" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/170/Felon-Voting-Rights" target="_self">
                 Felon Voting Rights
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="169" id="SideItem169" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="169" id="SideItem169" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/169/Find-My-RANDOM-and-Polling-Place" target="_self">
                 Find My Precinct and Polling Place
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="168" id="SideItem168" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="168" id="SideItem168" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/168/Initiative-RANDOM" target="_self">
                 Initiative Petitions
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="167" id="SideItem167" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="167" id="SideItem167" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/167/Military-RANDOM-Voters" target="_self">
                 Military &amp; Overseas Voters
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="166" id="SideItem166" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="166" id="SideItem166" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/166/My-Voter-Record" target="_self">
                 My Voter Record
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="165" id="SideItem165" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="165" id="SideItem165" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/165/Register-to-Vote" target="_self">
                 Register to Vote
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="163" id="SideItem163" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="163" id="SideItem163" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/163/Third-Party-Voter-RANDOM" target="_self">
                 Third-Party Voter Registration
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="162" id="SideItem162" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="162" id="SideItem162" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/162/Update-Voter-RANDOM" target="_self">
                 Update Voter Information
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="161" id="SideItem161" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="161" id="SideItem161" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/161/Vote-by-Mail" target="_self">
                 Vote by Mail
                </a>
-               <a aria-controls="submenu-lvl1-161" aria-expanded="false" aria-label="Vote by Mail submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
+               <a aria-controls="submenu-lvl1-161" aria-expanded="false" aria-label="Vote by Mail Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
                </a>
               </div>
-              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="161" id="submenu-lvl1-161" role="presentation">
-               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="172" id="SideItem172" tabindex="0">
+              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="161" id="submenu-lvl1-161" role="menu">
+               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="172" id="SideItem172" role="menuitem" tabindex="0">
                 <div class="accordionNavItem">
                  <a class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="/172/Mail-Ballot-Request-Service" target="_self">
                   <span lang="en">
@@ -293,16 +286,16 @@
                </li>
               </ol>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="160" id="SideItem160" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="160" id="SideItem160" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/160/Voter-Rights-RANDOM" target="_self">
                 Voter Rights &amp; Responsibilities
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="215" id="SideItem215" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="215" id="SideItem215" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
-               <a aria-describedby="audioeye_new_window_message" class="navMainItem secondaryNavItem cpComponent docaccess-activated docaccess-status-enabled" data-type="SecondaryMainItem" href="/DocumentCenter/View/787" target="_blank">
+               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/DocumentCenter/View/787" target="_blank">
                 Voter Guide (PDF)
                </a>
               </div>
@@ -316,7 +309,7 @@
           </div>
           <div class="outerContentWrap flexTS" data-cprole="structuralContainer" id="outerContentWrapTS">
            <div class="contentWrap" data-cprole="structuralContainer" id="contentWrapTS">
-            <div aria-label="Breadcrumb" class="breadCrumbContainer" data-cprole="breadCrumbs" id="breadCrumbs" role="navigation">
+            <div class="breadCrumbContainer" data-cprole="breadCrumbs" id="breadCrumbs">
              <ol class="semanticList breadCrumbs">
               <li>
                <a class="breadCrumb" href="/">
@@ -329,7 +322,7 @@
                </a>
               </li>
               <li data-pageid="169" id="currentBCPage">
-               <a aria-current="page" class="breadCrumb" href="" role="button" tabindex="0">
+               <a aria-current="page" class="breadCrumb" href="">
                 Find My Precinct and Polling Place
                </a>
               </li>
@@ -412,10 +405,10 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid2">
-                 <nav class="widgetGraphicLinksNav">
+                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
                   <div class="row">
                    <div class="col col1 first">
-                    <ul class="semanticList" role="presentation">
+                    <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton50" href="/165/Register-to-Vote" target="_self">
@@ -432,7 +425,7 @@
                     </ul>
                    </div>
                    <div class="col col1 last">
-                    <ul class="semanticList" role="presentation">
+                    <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton52" href="/166/My-Voter-Status" target="_self">
@@ -468,10 +461,10 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid2">
-                 <nav class="widgetGraphicLinksNav">
+                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
                   <div class="row">
                    <div class="col col1 first">
-                    <ul class="semanticList" role="presentation">
+                    <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton53" href="/161/Vote-by-Mail" target="_self">
@@ -488,7 +481,7 @@
                     </ul>
                    </div>
                    <div class="col col1 last">
-                    <ul class="semanticList" role="presentation">
+                    <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton54" href="/171/Early-Voting" target="_self">
@@ -524,10 +517,10 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid2">
-                 <nav class="widgetGraphicLinksNav">
+                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
                   <div class="row">
                    <div class="col col1 first">
-                    <ul class="semanticList" role="presentation">
+                    <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton55" href="/169/Find-My-Polling-Place" target="_self">
@@ -544,7 +537,7 @@
                     </ul>
                    </div>
                    <div class="col col1 last">
-                    <ul class="semanticList" role="presentation">
+                    <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton56" href="/185/Election-Dates-RANDOM" target="_self">
@@ -586,9 +579,9 @@
               <div class="inner col col4 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
                 <section aria-labelledby="headerGUID" class="widget widgetInfoAdvanced skin37 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                 <header class="widgetHeader" id="headerGUID" role="presentation">
+                 <header class="widgetHeader" id="headerGUID">
                   <div class="">
-                   <h3 aria-level="2" role="heading">
+                   <h3>
                     Sarasota Office
                    </h3>
                   </div>
@@ -596,7 +589,7 @@
                  <div class="widgetBody cpGrid cpGrid1">
                   <div class="row">
                    <div class="col col1 first last">
-                    <ol class="pageStyles semanticList" role="presentation">
+                    <ol class="pageStyles semanticList">
                      <li class="InfoAdvanced widgetItem fr-view">
                       <p>
                        Terrace Building
@@ -646,9 +639,9 @@
               <div class="inner col col6 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
                 <section aria-labelledby="headerGUID" class="widget widgetInfoAdvanced skin37 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                 <header class="widgetHeader" id="headerGUID" role="presentation">
+                 <header class="widgetHeader" id="headerGUID">
                   <div class="">
-                   <h3 aria-level="2" role="heading">
+                   <h3>
                     Venice Office
                    </h3>
                   </div>
@@ -656,7 +649,7 @@
                  <div class="widgetBody cpGrid cpGrid1">
                   <div class="row">
                    <div class="col col1 first last">
-                    <ol class="pageStyles semanticList" role="presentation">
+                    <ol class="pageStyles semanticList">
                      <li class="InfoAdvanced widgetItem fr-view">
                       <p>
                        Robert L. Anderson Administration Center
@@ -706,9 +699,9 @@
               <div class="inner col col4 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
                 <section aria-labelledby="headerGUID" class="widget widgetInfoAdvanced skin37 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                 <header class="widgetHeader" id="headerGUID" role="presentation">
+                 <header class="widgetHeader" id="headerGUID">
                   <div class="">
-                   <h3 aria-level="2" role="heading">
+                   <h3>
                     North Port Office
                    </h3>
                   </div>
@@ -716,7 +709,7 @@
                  <div class="widgetBody cpGrid cpGrid1">
                   <div class="row">
                    <div class="col col1 first last">
-                    <ol class="pageStyles semanticList" role="presentation">
+                    <ol class="pageStyles semanticList">
                      <li class="InfoAdvanced widgetItem fr-view">
                       <p>
                        North Port Village
@@ -766,9 +759,9 @@
               <div class="inner col col3 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/QuickLinks/Widget" data-widget-id="GUID">
                 <section aria-labelledby="quickLinksHeaderGUID" class="widget widgetQuickLinks skin37 widgetOptionSet31" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="quickLinks" id="widgetQuicklinkGUID">
-                 <header class="widgetHeader" id="quickLinksHeaderGUID" role="presentation">
+                 <header class="widgetHeader" id="quickLinksHeaderGUID">
                   <div class="">
-                   <h3 aria-level="2" role="heading">
+                   <h3>
                     <a href="/QuickLinks.aspx?CID=16">
                      Site Links
                     </a>
@@ -860,10 +853,10 @@
                   </div>
                  </div>
                  <div class="widgetBody cpGrid cpGrid3">
-                  <nav class="widgetGraphicLinksNav">
+                  <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
                    <div class="row">
                     <div class="col col1 first">
-                     <ul class="semanticList" role="presentation">
+                     <ul class="semanticList">
                       <li class="widgetItem GraphicLinks">
                        <a class="widgetDesc widgetGraphicLinksLink" href="https://www.facebook.com/sarasotaelections/ " target="_self">
                         <img alt="Facebook" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=48'" onfocus="this.src='/ImageRepository/Document?documentID=48'" onmouseout="this.src='/ImageRepository/Document?documentID=48'" onmouseover="this.src='/ImageRepository/Document?documentID=48'" src="/ImageRepository/Document?documentID=48"/>
@@ -872,7 +865,7 @@
                      </ul>
                     </div>
                     <div class="col col1">
-                     <ul class="semanticList" role="presentation">
+                     <ul class="semanticList">
                       <li class="widgetItem GraphicLinks">
                        <a class="widgetDesc widgetGraphicLinksLink" href="https://x.com/sarasotavotes " target="_self">
                         <img alt="X" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=65'" onfocus="this.src='/ImageRepository/Document?documentID=65'" onmouseout="this.src='/ImageRepository/Document?documentID=65'" onmouseover="this.src='/ImageRepository/Document?documentID=65'" src="/ImageRepository/Document?documentID=65"/>
@@ -881,7 +874,7 @@
                      </ul>
                     </div>
                     <div class="col col1 last">
-                     <ul class="semanticList" role="presentation">
+                     <ul class="semanticList">
                       <li class="widgetItem GraphicLinks">
                        <a class="widgetDesc widgetGraphicLinksLink" href="https://www.linkedin.com/company/sarasotavotes " target="_self">
                         <img alt="Linkedin" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=52'" onfocus="this.src='/ImageRepository/Document?documentID=52'" onmouseout="this.src='/ImageRepository/Document?documentID=52'" onmouseover="this.src='/ImageRepository/Document?documentID=52'" src="/ImageRepository/Document?documentID=52"/>
@@ -961,41 +954,6 @@
   <div>
   </div>
   <div id="root-picker-outlet">
-  </div>
-  <div class="frase-answers-bot" id="frase-answers-bot">
-   <div id="frase-wrapper">
-   </div>
-  </div>
-  <div data-nosnippet="" id="ae_app">
-   <div class="ae-module" id="ae_helpers">
-   </div>
-   <div class="ae-module" id="ae_compliance">
-   </div>
-   <aside aria-label="Accessibility options" class="ae-module ae-active ae-cta-position-preset-left-lower" dir="ltr" id="ae_launcher">
-    <button aria-label="Explore your accessibility options">
-     <div class="ae-left">
-      <span>
-       Explore your accessibility options
-      </span>
-     </div>
-     <div class="ae-right">
-      <span class="icomoon-wrapper">
-       <div>
-        <span class="icomoon-cta ae-icon-launcher-universalaccess ae-initial-cta">
-         <span class="icomoon-cta path1 a11y-icon-figure-and-border">
-         </span>
-         <span class="icomoon-cta path2 a11y-icon-background">
-         </span>
-        </span>
-       </div>
-      </span>
-     </div>
-    </button>
-   </aside>
-   <span aria-hidden="true" id="ae_placeholder_toolbar">
-   </span>
-   <span aria-hidden="true" id="ae_placeholder_site-menu">
-   </span>
   </div>
  </body>
 </html>

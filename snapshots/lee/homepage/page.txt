@@ -1,4 +1,5 @@
 Lee County Elections, FL | Official Website
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to Main Content
 Important Notice
 Election Day is Today!
@@ -190,13 +191,13 @@ Town of Fort Myers Beach Regular Election
 Current Press Releases
 Nov. 5 is the deadline to submit vote-by-mail and provisional ballot signature cures
 Read on...
+about Nov. 5 is the deadline to submit vote-by-mail and provisional ballot signature cures
 /CivicAlerts.aspx
 Mailing Address: P.O. Box 2545, Fort Myers, FL 33902-2545
 Phone (all offices):
 239-533-8683
 Hours (all offices): M - F, 8:30 am - 5:00 pm
-Email:
-[email protected]
+Email: elections@lee.vote
 Main Office
 Melvin Morgan Constitutional Complex
 2480 Thompson St, 3rd Floor
@@ -228,3 +229,4 @@ Loading
 Do Not Show Again
 Close
 []
+Explore your accessibility options

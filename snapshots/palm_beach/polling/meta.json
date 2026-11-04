@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votepalmbeach.gov/168/Election-Day-Voting"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T05:04:36Z",
-  "html_sha256": "4d411786935bb6a9a84da156fc1054b2a826c8b6a81a0e583b52f244fd2caba6",
-  "text_sha256": "2e4a77aa5336ad4480fa63d100e94538b4aa2a67db7ff0f842c351bcc9ad00ae",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-04T06:04:37Z",
+  "html_sha256": "1b00edbf5455ba92e486ba92d27452e28bf76757c0a3ad90fa05ed24acfbc94a",
+  "text_sha256": "9b86b48f395f0dafc8e90841ba269fd5efbbea070ad64fd8bb91ee9cabb62844",
+  "byte_size": 54260,
+  "title": "Election Day Voting | Palm Beach County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
