@@ -2,20 +2,19 @@
   "county": "Hernando",
   "page_type": "homepage",
   "requested_url": "https://www.hernandovotes.gov",
-  "final_url": "https://www.hernandovotes.gov/",
+  "final_url": "https://www.hernandovotes.gov",
   "redirect_chain": [
-    "https://www.hernandovotes.gov",
-    "https://www.hernandovotes.gov/"
+    "https://www.hernandovotes.gov"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T10:27:52Z",
-  "html_sha256": "4fc3b7680428a53f26b0a714f054d41ec0a276af64e54b26ff4e5cf28a7a2bc7",
-  "text_sha256": "c1d57c4e58c13f568b26976f6bb76588c600b5473287f14468f39efa1e806bb6",
-  "byte_size": 3329,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-05T11:27:28Z",
+  "html_sha256": "7d0d590a52491df63240924975c3a718dee8803256d69b97de86b4d88fd29f1a",
+  "text_sha256": "9466406a02eeffed04db24421815be5fb5922611cd17e597cda505ac574d8d40",
+  "byte_size": 64835,
+  "title": "Hernando County SOE, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

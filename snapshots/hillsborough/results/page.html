@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="removeSetHeights" lang="en">
+<html lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -14,17 +14,10 @@
   </title>
   <meta content="View past and current election results." name="description"/>
  </head>
- <body class="wide ae-election-results-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
-  <div aria-live="polite" class="ae-blurb-noaudio" data-nosnippet="" id="ae_enabled_site" role="status">
-   <div>
-    <p data-modulename="launcher">
-     This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
-    </p>
-   </div>
-  </div>
+ <body class="wide">
   <div class="cp-PopOver cp-PopOver--modal" id="popoverModal">
    <div class="cp-PopOver-header">
-    <h3 aria-hidden="true" class="cp-PopOver-title" role="presentation" tabindex="-1">
+    <h3 class="cp-PopOver-title">
     </h3>
     <button class="cp-Btn cp-PopOver-close" onclick="closePopOverModal(event)">
     </button>
@@ -40,12 +33,12 @@
   </div>
   <div id="fb-root">
   </div>
-  <div aria-hidden="true" class="ae-exclude" id="skipToContentLinks" role="presentation" tabindex="-1">
-   <a aria-hidden="true" class="skipToContentLink ae-exclude" href="#ccGUID" role="presentation" tabindex="-1" target="_self">
+  <div id="skipToContentLinks">
+   <a class="skipToContentLink" href="#ccGUID" target="_self">
     Skip to Main Content
    </a>
   </div>
-  <form id="frmReferenceFormForTelerikEditorDialogs" role="presentation">
+  <form id="frmReferenceFormForTelerikEditorDialogs">
   </form>
   <input id="GoogleMapsKey" type="hidden"/>
   <input id="cpcDomain" type="hidden"/>
@@ -75,7 +68,7 @@
           </a>
          </div>
         </div>
-        <nav aria-label="Main" class="siteNav mainNav" data-cprole="nav" id="mainNav" role="navigation">
+        <nav class="siteNav mainNav" data-cprole="nav" id="mainNav" role="navigation">
          <ol class="rootNavMenu" data-parent="1" id="mainNavMenu" role="menu">
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="27" id="MainItem27" role="none">
            <a aria-controls="mainNavMegaMenu27" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem1" href="/27/Voting" id="mainNavVoting" role="menuitem" target="_self">
@@ -103,26 +96,26 @@
            </a>
           </li>
          </ol>
-         <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu" role="presentation">
+         <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu">
           <input id="megaMenuPopupDirection" type="hidden"/>
           <input id="megaMenuWidthReference" type="hidden"/>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27">
+          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="menu">
            <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
            </div>
           </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101">
+          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101" role="menu">
            <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
            </div>
           </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31">
+          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31" role="menu">
            <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
            </div>
           </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35">
+          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="menu">
            <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
            </div>
           </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9">
+          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="menu">
            <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
            </div>
           </aside>
@@ -135,10 +128,10 @@
             <div class="row nest first last">
              <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
               <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
-               <section class="widget widgetSearch skin43 widgetOptionSet15" id="widgetPreviewSearch">
+               <section aria-label="Search" class="widget widgetSearch skin43 widgetOptionSet15" id="widgetPreviewSearch">
                 <div class="widgetBody buttonRightInside">
-                 <input aria-label="Search Site" class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
-                 <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon">
+                 <input class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
+                 <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon" role="button">
                   <img alt="Search" class="imageHover" data-hover="/ImageRepository/Document?documentID=90" data-image="/ImageRepository/Document?documentID=89" src="/ImageRepository/Document?documentID=89"/>
                  </a>
                  <label aria-hidden="true" class="searchLabel" for="searchFieldGUID">
@@ -182,58 +175,58 @@
             <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
             </div>
            </aside>
-           <nav aria-label="Secondary" class="siteNav secondaryNav" data-cprole="nav" id="secondaryNav">
-            <ol class="rootNavMenu accordionNav" data-parent="101" id="secondaryMenusecondaryNav">
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="291" id="SideItem291" tabindex="0">
+           <nav class="siteNav secondaryNav" data-cprole="nav" id="secondaryNav">
+            <ol class="rootNavMenu accordionNav" data-parent="101" id="secondaryMenusecondaryNav" role="menu">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="291" id="SideItem291" role="menuitem" tabindex="0">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/291/2026-General-RANDOM" target="_self">
                 2026 General Election
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="281" id="SideItem281" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="281" id="SideItem281" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/281/2026-Primary-RANDOM" target="_self">
                 2026 Primary Election
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="184" id="SideItem184" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="184" id="SideItem184" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/184/Election-Dates-RANDOM" target="_self">
                 Election Dates &amp; Deadlines
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="246" id="SideItem246" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="246" id="SideItem246" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/211/Historical-Voter-Turnout" target="_self">
                 Historical Voter Turnout
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="180" id="SideItem180" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="180" id="SideItem180" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/180/On-the-Ballot" target="_self">
                 On the Ballot
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="179" id="SideItem179" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="179" id="SideItem179" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/179/Poll-Workers" target="_self">
                 Poll Workers
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="182" id="SideItem182" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="182" id="SideItem182" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/182/Election-RANDOM" target="_self">
                 Election Security
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="183" id="SideItem183" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="183" id="SideItem183" role="menuitem" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/183/Election-Results" target="_self">
                 Election Results
@@ -249,7 +242,7 @@
           </div>
           <div class="outerContentWrap" data-cprole="structuralContainer" id="outerContentWrapTS">
            <div class="contentWrap" data-cprole="structuralContainer" id="contentWrapTS">
-            <div aria-label="Breadcrumb" class="breadCrumbContainer" data-cprole="breadCrumbs" id="breadCrumbs" role="navigation">
+            <div class="breadCrumbContainer" data-cprole="breadCrumbs" id="breadCrumbs">
              <ol class="semanticList breadCrumbs">
               <li>
                <a class="breadCrumb" href="/">
@@ -262,7 +255,7 @@
                </a>
               </li>
               <li data-pageid="183" id="currentBCPage">
-               <a aria-current="page" class="breadCrumb" href="" role="button" tabindex="0">
+               <a aria-current="page" class="breadCrumb" href="">
                 Election Results
                </a>
               </li>
@@ -287,16 +280,16 @@
                   <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                    <div class="widget widgetTabbed skin43 accordionTabs" data-widgetid="GUID" id="divTabbedGUID">
                     <div class="cpTabPanels">
-                     <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion" role="presentation">
+                     <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion">
                       <li class="" role="presentation">
-                       <a aria-controls="tabGUID_0" aria-expanded="false" class="tabButton" href="#tabGUID_0" id="tabBtnNarrowGUID_0" role="button" tabindex="0">
+                       <a aria-controls="tabGUID_0" aria-expanded="false" class="tabButton" href="#tabGUID_0" id="tabBtnNarrowGUID_0" role="button">
                         <span class="tabName editable" contenteditable="false" data-sequence="0" data-tabname="2026">
                          2026
                         </span>
                        </a>
                       </li>
                      </ol>
-                     <div class="tabbedWidget cpTabPanel" id="tabGUID_0" role="region">
+                     <div aria-labelledby="tabBtnGUID_0" class="tabbedWidget cpTabPanel" id="tabGUID_0" role="region">
                       <div data-widget-controller-path="/GraphicLinks/Widget" data-widget-id="GUID">
                        <div class="widget widgetGraphicLinks skin43 widgetOptionSet4" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="graphicLinks" id="graphicLinkWidgetGUID">
                         <div class="widgetHeader">
@@ -304,7 +297,7 @@
                          </div>
                         </div>
                         <div class="widgetBody cpGrid cpGrid1">
-                         <nav class="widgetGraphicLinksNav">
+                         <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
                           <ul class="semanticList">
                            <li class="widgetItem GraphicLinks">
                             <div>
@@ -338,7 +331,7 @@
                            </li>
                            <li class="widgetItem GraphicLinks">
                             <div>
-                             <a aria-label="Plant City Annexation Election (PDF) Opens in new window" class="fancyButton fancyButton117 docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/1387/" target="_blank">
+                             <a aria-label="Plant City Annexation Election (PDF) Opens in new window" class="fancyButton fancyButton117" href="https://www.votehillsborough.gov/DocumentCenter/View/1387/" target="_blank">
                               <span>
                                <span>
                                 <span class="text">
@@ -404,16 +397,16 @@
                        </div>
                       </div>
                      </div>
-                     <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion" role="presentation">
+                     <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion">
                       <li class="" role="presentation">
-                       <a aria-controls="tabGUID_1" aria-expanded="false" class="tabButton" href="#tabGUID_1" id="tabBtnNarrowGUID_1" role="button" tabindex="0">
+                       <a aria-controls="tabGUID_1" aria-expanded="false" class="tabButton" href="#tabGUID_1" id="tabBtnNarrowGUID_1" role="button">
                         <span class="tabName editable" contenteditable="false" data-sequence="1" data-tabname="2025">
                          2025
                         </span>
                        </a>
                       </li>
                      </ol>
-                     <div class="tabbedWidget cpTabPanel" id="tabGUID_1" role="region">
+                     <div aria-labelledby="tabBtnGUID_1" class="tabbedWidget cpTabPanel" id="tabGUID_1" role="region">
                       <div data-widget-controller-path="/GraphicLinks/Widget" data-widget-id="GUID">
                        <div class="widget widgetGraphicLinks skin43 widgetOptionSet4" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="graphicLinks" id="graphicLinkWidgetGUID">
                         <div class="widgetHeader">
@@ -421,7 +414,7 @@
                          </div>
                         </div>
                         <div class="widgetBody cpGrid cpGrid1">
-                         <nav class="widgetGraphicLinksNav">
+                         <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
                           <ul class="semanticList">
                            <li class="widgetItem GraphicLinks">
                             <div>
@@ -476,16 +469,16 @@
                        </div>
                       </div>
                      </div>
-                     <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion" role="presentation">
+                     <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion">
                       <li class="" role="presentation">
-                       <a aria-controls="tabGUID_2" aria-expanded="false" class="tabButton" href="#tabGUID_2" id="tabBtnNarrowGUID_2" role="button" tabindex="0">
+                       <a aria-controls="tabGUID_2" aria-expanded="false" class="tabButton" href="#tabGUID_2" id="tabBtnNarrowGUID_2" role="button">
                         <span class="tabName editable" contenteditable="false" data-sequence="2" data-tabname="2024 - 2021">
                          2024 - 2021
                         </span>
                        </a>
                       </li>
                      </ol>
-                     <div class="tabbedWidget cpTabPanel" id="tabGUID_2" role="region">
+                     <div aria-labelledby="tabBtnGUID_2" class="tabbedWidget cpTabPanel" id="tabGUID_2" role="region">
                       <div data-widget-controller-path="/GraphicLinks/Widget" data-widget-id="GUID">
                        <div class="widget widgetGraphicLinks skin43 widgetOptionSet4" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="graphicLinks" id="graphicLinkWidgetGUID">
                         <div class="widgetHeader">
@@ -493,7 +486,7 @@
                          </div>
                         </div>
                         <div class="widgetBody cpGrid cpGrid1">
-                         <nav class="widgetGraphicLinksNav">
+                         <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
                           <ul class="semanticList">
                            <li class="widgetItem GraphicLinks">
                             <div>
@@ -617,7 +610,7 @@
                            </li>
                            <li class="widgetItem GraphicLinks">
                             <div>
-                             <a aria-label="2022 City of Plant City Referendum Election (PDF) Opens in new window" class="fancyButton fancyButton139 docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/177/2022-City-of-Plant-City-RANDOM-RANDOM-RANDOM-Results-PDF" target="_blank">
+                             <a aria-label="2022 City of Plant City Referendum Election (PDF) Opens in new window" class="fancyButton fancyButton139" href="https://www.votehillsborough.gov/DocumentCenter/View/177/2022-City-of-Plant-City-RANDOM-RANDOM-RANDOM-Results-PDF" target="_blank">
                               <span>
                                <span>
                                 <span class="text">
@@ -638,16 +631,16 @@
                        </div>
                       </div>
                      </div>
-                     <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion" role="presentation">
+                     <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion">
                       <li class="" role="presentation">
-                       <a aria-controls="tabGUID_3" aria-expanded="false" class="tabButton" href="#tabGUID_3" id="tabBtnNarrowGUID_3" role="button" tabindex="0">
+                       <a aria-controls="tabGUID_3" aria-expanded="false" class="tabButton" href="#tabGUID_3" id="tabBtnNarrowGUID_3" role="button">
                         <span class="tabName editable" contenteditable="false" data-sequence="3" data-tabname="2020 - 2017">
                          2020 - 2017
                         </span>
                        </a>
                       </li>
                      </ol>
-                     <div class="tabbedWidget cpTabPanel" id="tabGUID_3" role="region">
+                     <div aria-labelledby="tabBtnGUID_3" class="tabbedWidget cpTabPanel" id="tabGUID_3" role="region">
                       <div data-widget-controller-path="/GraphicLinks/Widget" data-widget-id="GUID">
                        <div class="widget widgetGraphicLinks skin43 widgetOptionSet4" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="graphicLinks" id="graphicLinkWidgetGUID">
                         <div class="widgetHeader">
@@ -655,7 +648,7 @@
                          </div>
                         </div>
                         <div class="widgetBody cpGrid cpGrid1">
-                         <nav class="widgetGraphicLinksNav">
+                         <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
                           <ul class="semanticList">
                            <li class="widgetItem GraphicLinks">
                             <div>
@@ -785,16 +778,16 @@
                        </div>
                       </div>
                      </div>
-                     <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion" role="presentation">
+                     <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion">
                       <li class="" role="presentation">
-                       <a aria-controls="tabGUID_4" aria-expanded="false" class="tabButton" href="#tabGUID_4" id="tabBtnNarrowGUID_4" role="button" tabindex="0">
+                       <a aria-controls="tabGUID_4" aria-expanded="false" class="tabButton" href="#tabGUID_4" id="tabBtnNarrowGUID_4" role="button">
                         <span class="tabName editable" contenteditable="false" data-sequence="4" data-tabname="2016 - 2013">
                          2016 - 2013
                         </span>
                        </a>
                       </li>
                      </ol>
-                     <div class="tabbedWidget cpTabPanel" id="tabGUID_4" role="region">
+                     <div aria-labelledby="tabBtnGUID_4" class="tabbedWidget cpTabPanel" id="tabGUID_4" role="region">
                       <div data-widget-controller-path="/GraphicLinks/Widget" data-widget-id="GUID">
                        <div class="widget widgetGraphicLinks skin43 widgetOptionSet4" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="graphicLinks" id="graphicLinkWidgetGUID">
                         <div class="widgetHeader">
@@ -802,7 +795,7 @@
                          </div>
                         </div>
                         <div class="widgetBody cpGrid cpGrid1">
-                         <nav class="widgetGraphicLinksNav">
+                         <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
                           <ul class="semanticList">
                            <li class="widgetItem GraphicLinks">
                             <div>
@@ -992,16 +985,16 @@
                        </div>
                       </div>
                      </div>
-                     <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion" role="presentation">
+                     <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion">
                       <li class="" role="presentation">
-                       <a aria-controls="tabGUID_5" aria-expanded="false" class="tabButton" href="#tabGUID_5" id="tabBtnNarrowGUID_5" role="button" tabindex="0">
+                       <a aria-controls="tabGUID_5" aria-expanded="false" class="tabButton" href="#tabGUID_5" id="tabBtnNarrowGUID_5" role="button">
                         <span class="tabName editable" contenteditable="false" data-sequence="5" data-tabname="2012 - 2009">
                          2012 - 2009
                         </span>
                        </a>
                       </li>
                      </ol>
-                     <div class="tabbedWidget cpTabPanel" id="tabGUID_5" role="region">
+                     <div aria-labelledby="tabBtnGUID_5" class="tabbedWidget cpTabPanel" id="tabGUID_5" role="region">
                       <div class="widget editor pageStyles" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' id="divEditorGUID">
                        <div class="fr-view">
                         <h2 data-pasted="true">
@@ -1009,54 +1002,54 @@
                         </h2>
                         <ul>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/170/2012-General-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/170/2012-General-RANDOM-RANDOM-Results-PDF" target="_blank">
                            2012 General Election (PDF)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/169/2012-General-RANDOM-XLSX" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/169/2012-General-RANDOM-XLSX" target="_blank">
                            2012 General Election (XLSX)
                           </a>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/174/2012-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/174/2012-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/174/2012-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/174/2012-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
                            2012 Primary Election (PDF)
                           </a>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/173/2012-Primary-RANDOM-XLSX" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/173/2012-Primary-RANDOM-XLSX" target="_blank">
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/173/2012-Primary-RANDOM-XLSX" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/173/2012-Primary-RANDOM-XLSX" target="_blank">
                            2012 Primary Election (XLSX)
                           </a>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/172/2012-RANDOM-RANDOM-Primary-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/172/2012-RANDOM-RANDOM-Primary-RANDOM-Results-PDF" target="_blank">
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/172/2012-RANDOM-RANDOM-Primary-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/172/2012-RANDOM-RANDOM-Primary-RANDOM-Results-PDF" target="_blank">
                            2012 Presidential Preference Primary (PDF)
                           </a>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/171/2012-RANDOM-RANDOM-Primary-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/171/2012-RANDOM-RANDOM-Primary-XLS" target="_blank">
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/171/2012-RANDOM-RANDOM-Primary-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/171/2012-RANDOM-RANDOM-Primary-XLS" target="_blank">
                            2012 Presidential Preference Primary (XLS)
                           </a>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/176/2012-Temple-Terrace-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/176/2012-Temple-Terrace-RANDOM-RANDOM-Results-PDF" target="_blank">
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/176/2012-Temple-Terrace-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/176/2012-Temple-Terrace-RANDOM-RANDOM-Results-PDF" target="_blank">
                            2012 City of Temple Terrace Referenda (PDF)
                           </a>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/175/2012-Temple-Terrace-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/175/2012-Temple-Terrace-RANDOM-XLS" target="_blank">
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/175/2012-Temple-Terrace-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/175/2012-Temple-Terrace-RANDOM-XLS" target="_blank">
                            2012 City of Temple Terrace Referenda (XLS)
                           </a>
                          </li>
@@ -1066,24 +1059,24 @@
                         </h2>
                         <ul>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/168/2011-City-of-Tampa-RANDOM-Runoff-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/168/2011-City-of-Tampa-RANDOM-Runoff-RANDOM-RANDOM-Results-PDF" target="_blank">
                            2011 City of Tampa Municipal Runoff Election (PDF)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/167/2011-City-of-Tampa-RANDOM-Runoff-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/167/2011-City-of-Tampa-RANDOM-Runoff-RANDOM-XLS" target="_blank">
                            2011 City of Tampa Municipal Runoff Election (XLS)
                           </a>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/166/2011-City-of-Tampa-RANDOM-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/166/2011-City-of-Tampa-RANDOM-RANDOM-RANDOM-Results-PDF" target="_blank">
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/166/2011-City-of-Tampa-RANDOM-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/166/2011-City-of-Tampa-RANDOM-RANDOM-RANDOM-Results-PDF" target="_blank">
                            2011 City of Tampa Municipal Election (PDF)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/165/2011-City-of-Tampa-RANDOM-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/165/2011-City-of-Tampa-RANDOM-RANDOM-XLS" target="_blank">
                            2011 City of Tampa Municipal Election (XLS)
                           </a>
                          </li>
@@ -1093,50 +1086,50 @@
                         </h2>
                         <ul>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/158/2010-General-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/158/2010-General-RANDOM-RANDOM-Results-PDF" target="_blank">
                            2010 General Election (PDF)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/157/2010-General-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/157/2010-General-RANDOM-XLS" target="_blank">
                            2010 General Election (XLS)
                           </a>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/160/2010-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/160/2010-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/160/2010-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/160/2010-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
                            2010 Primary Election (PDF)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/159/2010-Primary-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/159/2010-Primary-RANDOM-XLS" target="_blank">
                            2010 Primary Election (XLS)
                           </a>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/161/2010-Special-General-RANDOM-House-RANDOM-58-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/161/2010-Special-General-RANDOM-House-RANDOM-58-RANDOM-Results-PDF" target="_blank">
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/161/2010-Special-General-RANDOM-House-RANDOM-58-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/161/2010-Special-General-RANDOM-House-RANDOM-58-RANDOM-Results-PDF" target="_blank">
                            2010 State House District 58 Special General Election (PDF)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/163/2010-State-House-RANDOM-58-Special-General-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/163/2010-State-House-RANDOM-58-Special-General-RANDOM-XLS" target="_blank">
                            2010 State House District 58 Special General Election (XLS)
                           </a>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/162/2010-Special-Primary-RANDOM-House-RANDOM-58-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/162/2010-Special-Primary-RANDOM-House-RANDOM-58-RANDOM-Results-PDF" target="_blank">
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/162/2010-Special-Primary-RANDOM-House-RANDOM-58-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/162/2010-Special-Primary-RANDOM-House-RANDOM-58-RANDOM-Results-PDF" target="_blank">
                            2010 State House District 58 Special Primary Election (PDF)
                           </a>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/164/2010-State-House-RANDOM-58-Special-Primary-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/164/2010-State-House-RANDOM-58-Special-Primary-RANDOM-XLS" target="_blank">
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/164/2010-State-House-RANDOM-58-Special-Primary-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/164/2010-State-House-RANDOM-58-Special-Primary-RANDOM-XLS" target="_blank">
                            2010 State House District 58 Special Primary Election (XLS)
                           </a>
                          </li>
@@ -1144,16 +1137,16 @@
                        </div>
                       </div>
                      </div>
-                     <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion" role="presentation">
+                     <ol aria-hidden="UNRENDERED_EXPR" class="tabbedWidgetNarrow cpTabs accordion">
                       <li class="" role="presentation">
-                       <a aria-controls="tabGUID_6" aria-expanded="false" class="tabButton" href="#tabGUID_6" id="tabBtnNarrowGUID_6" role="button" tabindex="0">
+                       <a aria-controls="tabGUID_6" aria-expanded="false" class="tabButton" href="#tabGUID_6" id="tabBtnNarrowGUID_6" role="button">
                         <span class="tabName editable" contenteditable="false" data-sequence="6" data-tabname="2008 - 2002">
                          2008 - 2002
                         </span>
                        </a>
                       </li>
                      </ol>
-                     <div class="tabbedWidget cpTabPanel" id="tabGUID_6" role="region">
+                     <div aria-labelledby="tabBtnGUID_6" class="tabbedWidget cpTabPanel" id="tabGUID_6" role="region">
                       <div class="widget editor pageStyles" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' id="divEditorGUID">
                        <div class="fr-view">
                         <h2 data-pasted="true">
@@ -1161,44 +1154,44 @@
                         </h2>
                         <ul>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/150/2008-General-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/150/2008-General-RANDOM-RANDOM-Results-PDF" target="_blank">
                            2008 General Election (PDF)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/149/2008-General-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/149/2008-General-RANDOM-XLS" target="_blank">
                            2008 General Election (XLS)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/155/2008-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/155/2008-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
                            2008 Primary Election (PDF)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/154/2008-Primary-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/154/2008-Primary-RANDOM-XLS" target="_blank">
                            2008 Primary Election (XLS)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/156/2008-Special-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/156/2008-Special-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
                            2008 State House District 55 Special Primary Election (PDF)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/153/2008-RANDOM-RANDOM-Primary-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/153/2008-RANDOM-RANDOM-Primary-RANDOM-Results-PDF" target="_blank">
                            2008 Presidential Preference Primary (PDF)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/152/2008-RANDOM-RANDOM-Primary-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/152/2008-RANDOM-RANDOM-Primary-RANDOM-XLS" target="_blank">
                            2008 Presidential Preference Primary (XLS)
                           </a>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/151/2008-Plant-City-RANDOM-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/151/2008-Plant-City-RANDOM-RANDOM-RANDOM-Results-PDF" target="_blank">
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/151/2008-Plant-City-RANDOM-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/151/2008-Plant-City-RANDOM-RANDOM-RANDOM-Results-PDF" target="_blank">
                            2008 City of Plant City Municipal Election (PDF)
                           </a>
                          </li>
@@ -1208,22 +1201,22 @@
                         </h2>
                         <ul>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/148/2007-City-of-Tampa-RANDOM-Runoff-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/148/2007-City-of-Tampa-RANDOM-Runoff-RANDOM-RANDOM-Results-PDF" target="_blank">
                            2007 City of Tampa Municipal Runoff Election (PDF)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/147/2007-City-of-Tampa-RANDOM-Runoff-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/147/2007-City-of-Tampa-RANDOM-Runoff-RANDOM-XLS" target="_blank">
                            2007 City of Tampa Municipal Runoff Election (XLS)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/146/2007-City-of-Tampa-RANDOM-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/146/2007-City-of-Tampa-RANDOM-RANDOM-RANDOM-Results-PDF" target="_blank">
                            2007 City of Tampa Municipal Election (PDF)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/145/2007-City-of-Tampa-RANDOM-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/145/2007-City-of-Tampa-RANDOM-RANDOM-XLS" target="_blank">
                            2007 City of Tampa Municipal Election (XLS)
                           </a>
                          </li>
@@ -1233,24 +1226,24 @@
                         </h2>
                         <ul>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/142/2006-General-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/142/2006-General-RANDOM-RANDOM-Results-PDF" target="_blank">
                            2006 General Election (PDF)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/141/2006-General-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/141/2006-General-RANDOM-XLS" target="_blank">
                            2006 General Election (XLS)
                           </a>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/144/2006-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/144/2006-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://www.votehillsborough.gov/DocumentCenter/View/144/2006-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/144/2006-Primary-RANDOM-RANDOM-Results-PDF" target="_blank">
                            2006 Primary Election (PDF)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/143/2006-Primary-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/143/2006-Primary-RANDOM-XLS" target="_blank">
                            2006 Primary Election (XLS)
                           </a>
                          </li>
@@ -1260,12 +1253,12 @@
                         </h2>
                         <ul>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/140/2005-Temple-Terrace-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/140/2005-Temple-Terrace-RANDOM-XLS" target="_blank">
                            2005 City of Temple Terrace Referendum (XLS)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/139/2005-City-of-Plant-City-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/139/2005-City-of-Plant-City-RANDOM-XLS" target="_blank">
                            2005 City of Plant City Election (XLS)
                           </a>
                          </li>
@@ -1275,12 +1268,12 @@
                         </h2>
                         <ul>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/137/2004-General-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/137/2004-General-RANDOM-XLS" target="_blank">
                            2004 General Election (XLS)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/138/2004-Primary-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/138/2004-Primary-RANDOM-XLS" target="_blank">
                            2004 Primary Election (XLS)
                           </a>
                          </li>
@@ -1290,12 +1283,12 @@
                         </h2>
                         <ul>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/136/2003-City-of-Tampa-RANDOM-Runoff-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/136/2003-City-of-Tampa-RANDOM-Runoff-RANDOM-XLS" target="_blank">
                            2003 City of Tampa Municipal Runoff Election (XLS)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/135/2003-City-of-Tampa-RANDOM-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/135/2003-City-of-Tampa-RANDOM-RANDOM-XLS" target="_blank">
                            2003 City of Tampa Municipal Election (XLS)
                           </a>
                          </li>
@@ -1305,12 +1298,12 @@
                         </h2>
                         <ul>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/133/2002-General-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/133/2002-General-RANDOM-XLS" target="_blank">
                            2002 General Election (XLS)
                           </a>
                          </li>
                          <li>
-                          <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-unprocessable" href="https://www.votehillsborough.gov/DocumentCenter/View/134/2002-Primary-RANDOM-XLS" target="_blank">
+                          <a aria-describedby="audioeye_new_window_message" href="https://www.votehillsborough.gov/DocumentCenter/View/134/2002-Primary-RANDOM-XLS" target="_blank">
                            2002 Primary Election (XLS)
                           </a>
                          </li>
@@ -1353,10 +1346,10 @@
                   </div>
                  </div>
                  <div class="widgetBody cpGrid cpGrid3">
-                  <nav class="widgetGraphicLinksNav">
+                  <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
                    <div class="row">
                     <div class="col col1 first">
-                     <ul class="semanticList" role="presentation">
+                     <ul class="semanticList">
                       <li class="widgetItem GraphicLinks">
                        <div>
                         <a class="fancyButton fancyButton46" href="https://registertovoteflorida.gov/home" target="_self">
@@ -1374,7 +1367,7 @@
                      </ul>
                     </div>
                     <div class="col col1">
-                     <ul class="semanticList" role="presentation">
+                     <ul class="semanticList">
                       <li class="widgetItem GraphicLinks">
                        <div>
                         <a class="fancyButton fancyButton49" href="/169" target="_self">
@@ -1392,7 +1385,7 @@
                      </ul>
                     </div>
                     <div class="col col1 last">
-                     <ul class="semanticList" role="presentation">
+                     <ul class="semanticList">
                       <li class="widgetItem GraphicLinks">
                        <div>
                         <a class="fancyButton fancyButton50" href="/291" target="_self">
@@ -1435,17 +1428,17 @@
              <div class="row nest first">
               <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
-                <section class="widget widgetInfoAdvanced skin61 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                 <header class="widgetHeader" id="headerGUID" role="presentation">
+                <section aria-label="Info Advanced" class="widget widgetInfoAdvanced skin61 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
+                 <header class="widgetHeader" id="headerGUID">
                   <div class="">
                   </div>
                  </header>
                  <div class="widgetBody cpGrid cpGrid1">
                   <div class="row">
                    <div class="col col1 first last">
-                    <ol class="pageStyles semanticList" role="presentation">
+                    <ol class="pageStyles semanticList">
                      <li class="InfoAdvanced widgetItem fr-view">
-                      <h1 aria-level="2" class="headline" role="heading">
+                      <h1 class="headline">
                        Contact
                       </h1>
                      </li>
@@ -1462,15 +1455,15 @@
              <div class="row nest last">
               <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
-                <section class="widget widgetInfoAdvanced skin62 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:54em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                 <header class="widgetHeader" id="headerGUID" role="presentation">
+                <section aria-label="Info Advanced" class="widget widgetInfoAdvanced skin62 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:54em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
+                 <header class="widgetHeader" id="headerGUID">
                   <div class="">
                   </div>
                  </header>
                  <div class="widgetBody cpGrid cpGrid3">
                   <div class="row">
                    <div class="col col1 first">
-                    <ol class="pageStyles semanticList" role="presentation">
+                    <ol class="pageStyles semanticList">
                      <li class="InfoAdvanced widgetItem fr-view">
                       <p>
                        <strong>
@@ -1482,7 +1475,7 @@
                     </ol>
                    </div>
                    <div class="col col1">
-                    <ol class="pageStyles semanticList" role="presentation">
+                    <ol class="pageStyles semanticList">
                      <li class="InfoAdvanced widgetItem fr-view">
                       <p>
                        <strong>
@@ -1496,7 +1489,7 @@
                     </ol>
                    </div>
                    <div class="col col1 last">
-                    <ol class="pageStyles semanticList" role="presentation">
+                    <ol class="pageStyles semanticList">
                      <li class="InfoAdvanced widgetItem fr-view">
                       <p>
                        <strong>
@@ -1524,15 +1517,15 @@
              <div class="row nest first last">
               <div class="inner col col6 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
-                <section class="widget widgetInfoAdvanced skin43 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                 <header class="widgetHeader" id="headerGUID" role="presentation">
+                <section aria-label="Info Advanced" class="widget widgetInfoAdvanced skin43 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
+                 <header class="widgetHeader" id="headerGUID">
                   <div class="">
                   </div>
                  </header>
                  <div class="widgetBody cpGrid cpGrid1">
                   <div class="row">
                    <div class="col col1 first last">
-                    <ol class="pageStyles semanticList" role="presentation">
+                    <ol class="pageStyles semanticList">
                      <li class="InfoAdvanced widgetItem fr-view">
                       <p>
                        <a href="/">
@@ -1563,8 +1556,8 @@
              <div class="row nest first last">
               <div class="inner col col17 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
-                <section class="widget widgetInfoAdvanced skin37 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                 <header class="widgetHeader" id="headerGUID" role="presentation">
+                <section aria-label="Info Advanced" class="widget widgetInfoAdvanced skin37 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
+                 <header class="widgetHeader" id="headerGUID">
                   <div class="">
                   </div>
                  </header>
@@ -1659,17 +1652,17 @@
              <div class="row nest first last">
               <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
-                <section class="widget widgetInfoAdvanced skin63 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                 <header class="widgetHeader" id="headerGUID" role="presentation">
+                <section aria-label="Info Advanced" class="widget widgetInfoAdvanced skin63 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
+                 <header class="widgetHeader" id="headerGUID">
                   <div class="">
                   </div>
                  </header>
                  <div class="widgetBody cpGrid cpGrid1">
                   <div class="row">
                    <div class="col col1 first last">
-                    <ol class="pageStyles semanticList" role="presentation">
+                    <ol class="pageStyles semanticList">
                      <li class="InfoAdvanced widgetItem fr-view">
-                      <h1 aria-level="2" class="headline" role="heading">
+                      <h1 class="headline">
                        <a href="/site/accessibility">
                         <strong>
                          Accessibility Statement
@@ -1703,7 +1696,7 @@
                        <strong>
                         For questions about public records,
                        </strong>
-                       <a href="mailto:publicrecords@votehillsborough.gov">
+                       <a href="/cdn-cgi/l/email-protection#REDACTED">
                         email Public Records
                        </a>
                        <strong>
@@ -1796,37 +1789,6 @@
   <div>
   </div>
   <div id="root-picker-outlet">
-  </div>
-  <div data-nosnippet="" id="ae_app">
-   <div class="ae-module" id="ae_helpers">
-   </div>
-   <div class="ae-module" id="ae_compliance">
-   </div>
-   <aside aria-label="Accessibility options" class="ae-module ae-active ae-cta-position-preset-left-lower" dir="ltr" id="ae_launcher">
-    <button aria-label="Explore your accessibility options">
-     <div class="ae-left">
-      <span>
-       Explore your accessibility options
-      </span>
-     </div>
-     <div class="ae-right">
-      <span class="icomoon-wrapper">
-       <div>
-        <span class="icomoon-cta ae-icon-launcher-universalaccess ae-initial-cta">
-         <span class="icomoon-cta path1 a11y-icon-figure-and-border">
-         </span>
-         <span class="icomoon-cta path2 a11y-icon-background">
-         </span>
-        </span>
-       </div>
-      </span>
-     </div>
-    </button>
-   </aside>
-   <span aria-hidden="true" id="ae_placeholder_toolbar">
-   </span>
-   <span aria-hidden="true" id="ae_placeholder_site-menu">
-   </span>
   </div>
  </body>
 </html>

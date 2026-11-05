@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T10:27:52Z",
-  "html_sha256": "df78d998d003bb8e240086d10989d4a9819fa20f652b5a37a623b135c6e0c459",
+  "fetched_at": "2026-11-05T11:27:28Z",
+  "html_sha256": "fbe237a04fa70a5b9b7aeea1b302875423a0da736af4b601f1e096983d1b8edd",
   "text_sha256": "ff7ac0f645df1d5c65dff89192afc51071296a4f7033939056a892802d14f275",
-  "byte_size": 67693,
+  "byte_size": 67698,
   "title": "Past Election Results – Wakulla County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
