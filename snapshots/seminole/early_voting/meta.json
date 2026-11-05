@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://voteseminole.gov/how-to-vote/early-voting/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "6c3d4f96c41faca08c1abca4712b579481bb5f98041fe2331dfdc5cbd96f1b0c",
-  "text_sha256": "566f70d09a458fa80aad25b4c02a0b87f2d3c58ffd10507e07dd6dae11375aa7",
-  "byte_size": 74191,
-  "title": "Early Voting – voteseminole.gov",
+  "fetched_at": "2026-11-04T23:28:26Z",
+  "html_sha256": "0117d7be8d0448a8dec1c93558c338273bf30ae23923daa42bb91fe34f0349c0",
+  "text_sha256": "c66d28a9eca135e5673a9526afbfdfd70d2ef3a9eb40884772c22cf824fc20c7",
+  "byte_size": 3201,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 4
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

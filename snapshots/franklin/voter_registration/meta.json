@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.votefranklinfl.gov/voter_information/register_to_vote.php"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "f27eab77eb679bfe197b13a50fbf9390973fe9096974ecb6a7cf226ece5ee72f",
-  "text_sha256": "3eb766f37a1b6c7176dfc1220ca7747f85e35eabb8c314ba0e2276f96e58c063",
-  "byte_size": 40023,
-  "title": "Franklin County, FL SOE",
+  "fetched_at": "2026-11-04T23:28:26Z",
+  "html_sha256": "c431d5547cccd082e71393bfeeaf1acd6d42454b00a37df2752861c20b2be997",
+  "text_sha256": "8340d253c70e4ed49306a97fa695aece6452d5fe3a9a631153660102e2396b7a",
+  "byte_size": 3336,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "fvap"
-    ],
-    "count": 4
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

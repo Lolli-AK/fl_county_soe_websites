@@ -2,19 +2,20 @@
   "county": "Hardee",
   "page_type": "homepage",
   "requested_url": "https://hardeeflvotes.gov",
-  "final_url": "https://hardeeflvotes.gov",
+  "final_url": "https://hardeeflvotes.gov/",
   "redirect_chain": [
-    "https://hardeeflvotes.gov"
+    "https://hardeeflvotes.gov",
+    "https://hardeeflvotes.gov/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "e5dd95582d81d77fa4bc64b7dbb6cfbc436d11b4fea9db715eb54ea8d9365b0c",
-  "text_sha256": "24d57b50a767625cf4a3361435cbc6c70f6c4a2d65cc65ec28cb2375367e502d",
-  "byte_size": 87506,
-  "title": "Hardee, FL Elections Website – Hardee, FL Elections Website",
+  "fetched_at": "2026-11-04T23:28:26Z",
+  "html_sha256": "fc02b47128f26b7d053448422440cad754b16060b515428eb5c22c3a6ecbfbdc",
+  "text_sha256": "1e937dab267c1ddbbabd96c355f82e725a29a24aeed9743d74a1a263840d23bc",
+  "byte_size": 4608,
+  "title": "Let's confirm you are human",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

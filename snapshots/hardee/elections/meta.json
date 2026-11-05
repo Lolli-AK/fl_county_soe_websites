@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://hardeeflvotes.gov/election-information/upcoming-elections/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "87456963f6a307d19dd6621e7fdd2dc2076b34c9cb8decd03fdc6949ac00ed41",
-  "text_sha256": "0af2b562851a632dd1b04ff495f5ded3363d60d667a82cc79a9dee1fc7254085",
-  "byte_size": 64430,
-  "title": "Upcoming Elections – Hardee, FL Elections Website",
+  "fetched_at": "2026-11-04T23:28:26Z",
+  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
+  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
+  "byte_size": 4573,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

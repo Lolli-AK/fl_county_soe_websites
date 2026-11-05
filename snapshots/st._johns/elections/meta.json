@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.votesjc.gov/election-dates"
   ],
-  "http_status": 200,
-  "content_type": "text/html;charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "5d0428042af03acc75b738873e51be6804d04cca19e9bcfec01d2e050f2074f2",
-  "text_sha256": "7da75c17fd62a42851a793950f698650de427918a06b624a336180fda08de89a",
-  "byte_size": 150521,
-  "title": "Election Dates",
+  "fetched_at": "2026-11-04T23:28:26Z",
+  "html_sha256": "1f385f5ef5325fb0aada4a4a2cb8065171ba209eff7be93d0137c3297e814572",
+  "text_sha256": "33de722de6e3faecc646352feb8b6a07ce51f7658951c61100c8f8fbc3e0e671",
+  "byte_size": 3329,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 4
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

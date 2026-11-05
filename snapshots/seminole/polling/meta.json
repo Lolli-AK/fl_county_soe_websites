@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://voteseminole.gov/news/seminole-county-supervisor-of-elections-announces-polling-location-changes-new-voter-information-cards-mailed-to-45000-voters/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "a1135aaf7833ff6d25dbbe68eab9af7e9b7c6f48256b3e720db1d5fd1cb1889a",
-  "text_sha256": "bc12edd64b1b2d61233bb7f203d0a686e3786d22f418cb87b12ac0b89aa1b13b",
-  "byte_size": 78428,
-  "title": "Seminole County Supervisor of Elections Announces Polling Location Changes & New Interactive Polling Place Map; New Voter Information Cards Mailed to 45,000 Voters – voteseminole.gov",
+  "fetched_at": "2026-11-04T23:28:26Z",
+  "html_sha256": "20e9b3e31b4be553cec0d73fe49ab0357537a93ffe0b5d19fa449547d29f5b6c",
+  "text_sha256": "c0fe1fc25df0b8ad0c3f5646ddad87f7069592d1344cb669b6ad5df5746d0431",
+  "byte_size": 3201,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

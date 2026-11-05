@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.voteputnamflorida.gov/election_information/upcoming_elections.php"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "fe64fbf38c74c174a1eb02c8bf3e26c9645f224b00b08180eedbd917e793a1b9",
-  "text_sha256": "bf5a094418c1b597fc5ef0c7bad20f3b4218c8f8b6aa56e634a5cf5db7a4a6cf",
-  "byte_size": 62610,
-  "title": "Putnam County, Florida - Supervisor of Elections",
+  "fetched_at": "2026-11-04T23:28:26Z",
+  "html_sha256": "1d614ee7a13cd6f543d0252869b449d72654ea18f9e2d8b0d22bc2cbce2fd962",
+  "text_sha256": "08e4f75c996e4db6c914d5bd66ca1c3d9c90b9961dde2a360702869999e2f91e",
+  "byte_size": 3339,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

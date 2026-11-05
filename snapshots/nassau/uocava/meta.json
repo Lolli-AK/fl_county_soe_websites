@@ -6,30 +6,24 @@
   "redirect_chain": [
     "https://www.votenassaufl.gov/military-overseas-voters"
   ],
-  "http_status": 200,
-  "content_type": "text/html;charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "39bdee465b6f92967c6f4652c523940b01c587e3de2d951455f2f194138f1e8c",
-  "text_sha256": "b4c33b31271e5cba069b0591ebb4fde47d23fef23ba9164c6e78c39aebe3eadd",
-  "byte_size": 97431,
-  "title": "Military Overseas Voters Resources | Nassau County Supervisor of Elections",
+  "fetched_at": "2026-11-04T23:28:26Z",
+  "html_sha256": "6a71ef7dc0de144813364e12761c0609d9170b9577c45b83a36a9457e5a85d2f",
+  "text_sha256": "30f63d96417afd582c97c07d0709cff8de9333a8d05e52edd83cca18965849aa",
+  "byte_size": 3334,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava",
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 38
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://votesantarosa.gov/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "21125db3ca826e9520e15058248e1909d33e88ed79eb65cf431197bdbc44bdb4",
-  "text_sha256": "4ff6bfffabe1ce8479b43d2cd6e50b0032a1022fee3184259766c39e67bc711d",
-  "byte_size": 103746,
-  "title": "Santa Rosa, FL – Santa Rosa, FL – elections website",
+  "fetched_at": "2026-11-04T23:28:26Z",
+  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
+  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
+  "byte_size": 4573,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 3
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

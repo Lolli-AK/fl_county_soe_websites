@@ -2,30 +2,29 @@
   "county": "Nassau",
   "page_type": "homepage",
   "requested_url": "https://www.votenassaufl.gov",
-  "final_url": "https://www.votenassaufl.gov",
+  "final_url": "https://www.votenassaufl.gov/",
   "redirect_chain": [
-    "https://www.votenassaufl.gov"
+    "https://www.votenassaufl.gov",
+    "https://www.votenassaufl.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html;charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "6be6df2fd1f820003caab016f3a3ad99c0f36169dd65f2658e4868a341965ef9",
-  "text_sha256": "4b82764cf1001514020df0cee824e515576854e132124d8d9094b343c2a18625",
-  "byte_size": 152403,
-  "title": "Vote in Nassau County - Supervisor of Elections",
+  "fetched_at": "2026-11-04T23:28:26Z",
+  "html_sha256": "b445f01385cf7af80705d5e9e8487d3e765b6ab13e2eea83476b50e72962c373",
+  "text_sha256": "3fd015479dd82387ca53a8004f1ef3a3939c54ea93fc8214dcdbed0807549748",
+  "byte_size": 3334,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://voteseminole.gov/maps-data-and-records/election-results-archive-by-year/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "52a96e51e763570ab02ca255defff2190cbd6228067116073cef155263a8340e",
-  "text_sha256": "11553b312e28696675a6147a9572cf3666a0d418b6b378c346e70151edc077ad",
-  "byte_size": 84362,
-  "title": "Election Results Archive by Year – voteseminole.gov",
+  "fetched_at": "2026-11-04T23:28:26Z",
+  "html_sha256": "cc80b130ecd82457ba719e8865ac2b5295424d8655ab40371a74edf6e9081d5f",
+  "text_sha256": "ff50073e6f367311fbebbb8620c55fbcc01867de1e8010c61c45e6c4ce281340",
+  "byte_size": 3201,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
