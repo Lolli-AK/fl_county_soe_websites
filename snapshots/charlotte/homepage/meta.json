@@ -7,15 +7,15 @@
     "https://www.soecharlottecountyfl.gov",
     "https://www.soecharlottecountyfl.gov/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T00:42:40Z",
-  "html_sha256": "bda8da1faba0a60225267f776cbdf362dfcafa2c679316a2cb157f3f4dd28b2d",
-  "text_sha256": "d6fb65c4d441694b5b79e7b2f7fa566e8b74a6a6364885e6f9aa790b2107a907",
-  "byte_size": 3332,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-05T01:20:52Z",
+  "html_sha256": "ed9ef207fd53f07c2f07fb8c91455bc7528ccd3461fc7a0e31e6f61ec76a43a4",
+  "text_sha256": "7941c9108e34e159a416061361504852782b78dea53e0ec296b1cf5169e8827c",
+  "byte_size": 50750,
+  "title": "Charlotte County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
