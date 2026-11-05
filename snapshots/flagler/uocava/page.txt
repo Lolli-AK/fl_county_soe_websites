@@ -1,7 +1,6 @@
 Military Overseas Voting | Flagler County Elections Office
 Skip to main content
 opens in new tab or window
-Quick Links:
 Quick Links
 Facebook
 X
@@ -12,8 +11,9 @@ English
 Select this as your preferred language
 Spanish
 Select this as your preferred language
+Select a language to translate to
 English
-is your current preferred language.
+Select this as your preferred language
 Spanish
 Select this as your preferred language
 Open
@@ -102,7 +102,6 @@ Myth Versus Fact
 Outreach Events Calendar
 Outreach Request Form
 Contact Us
-Select the Escape key to close the menu. Focus will then be set to the first menu item.
 Search
 Home
 /
@@ -185,22 +184,16 @@ Learn more:
 Veteran's Photo Display Wall of Honor
 United States Air Force
 (JPG, 206KB)
-Open image in slideshow
 United States Army
 (JPG, 239KB)
-Open image in slideshow
 United States Navy and United States Marine Corps
 (JPG, 263KB)
-Open image in slideshow
 United States Coast Guard
 (JPG, 284KB)
-Open image in slideshow
 United States Family Wall
 (JPG, 233KB)
-Open image in slideshow
 Home of the Free because of the Brave
 (PNG, 989KB)
-Open image in slideshow
 Back to top
 Site Footer
 Office Address
@@ -241,17 +234,11 @@ TTY:
 Email form:
 Contact Us
 Flagler County Active Voter Registration Totals
-11/5/26
 Democrat:
-23,945
 Republican:
-52,187
 NPA:
-20,867
 Other:
-4,517
 Total:
-101,516
 Accessibility
 |
 Privacy Policy
@@ -261,4 +248,6 @@ Sitemap
 Website Feedback
 |
 Contact Us
-© 2026 Flagler County Elections Office
+© 2026 Flagler County Elections Office |
+Powered by
+Granicus

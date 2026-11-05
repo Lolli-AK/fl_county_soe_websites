@@ -130,11 +130,11 @@ Track My Ballot
 Early Voting
 Voting Locations
 Active Registered Voters
-(11/04/2026)
+(11/05/2026)
 Democrats
-2,231
+2,230
 Republicans
-7,322
+7,323
 No Party Affiliation
 1,271
 Other

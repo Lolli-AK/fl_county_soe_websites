@@ -89,12 +89,6 @@ Monroe County Supervisor of Elections
 Early Voting
 Early Voting is when a voter votes a ballot prior to Election Day at one of the Elections offices or at one of the Designated Early Voting Locations and deposits it in the Ballot tabulator machine. The Early Voting tabulators are the same as the equipment used on Election Day.
 When is Early Voting?
-2026
-Primary Election Early Voting
-when:     8/3 -
-8/15/2026    8:30am - 5:00pm
-General Election Early Voting
-when:    10/19 - 10/31/2026    8:30am - 5:00pm
 For elections that contains state or federal races
 :
 Early voting begins 15 days prior to a county election.

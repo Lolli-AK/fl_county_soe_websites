@@ -2,18 +2,19 @@
   "county": "Charlotte",
   "page_type": "homepage",
   "requested_url": "https://www.soecharlottecountyfl.gov",
-  "final_url": "https://www.soecharlottecountyfl.gov",
+  "final_url": "https://www.soecharlottecountyfl.gov/",
   "redirect_chain": [
-    "https://www.soecharlottecountyfl.gov"
+    "https://www.soecharlottecountyfl.gov",
+    "https://www.soecharlottecountyfl.gov/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T15:54:25Z",
-  "html_sha256": "7ba3d01c0b4927ea1cde67ad1cbabd5c28865e0c660104675f29eff27b1cf2b8",
-  "text_sha256": "7941c9108e34e159a416061361504852782b78dea53e0ec296b1cf5169e8827c",
-  "byte_size": 50635,
+  "fetched_at": "2026-11-05T19:37:57Z",
+  "html_sha256": "d6f7f8aa3c61bdfee18c302daa585d055e2160c623b464cdf892d4feeda443f4",
+  "text_sha256": "60ec82bdfa71a16b929e551133093419b75e25413d1edf859458ccf3e4b498b3",
+  "byte_size": 52680,
   "title": "Charlotte County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,

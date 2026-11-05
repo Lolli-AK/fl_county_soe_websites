@@ -1,7 +1,6 @@
 Home | Flagler County Elections Office
 Skip to main content
 opens in new tab or window
-Quick Links:
 Quick Links
 Facebook
 X
@@ -12,8 +11,9 @@ English
 Select this as your preferred language
 Spanish
 Select this as your preferred language
+Select a language to translate to
 English
-is your current preferred language.
+Select this as your preferred language
 Spanish
 Select this as your preferred language
 Open
@@ -102,7 +102,6 @@ Myth Versus Fact
 Outreach Events Calendar
 Outreach Request Form
 Contact Us
-Select the Escape key to close the menu. Focus will then be set to the first menu item.
 Search
 Home
 [rotating image slideshow removed for determinism]
@@ -120,8 +119,6 @@ My Voter Status
 Precinct Finder
 Voter Education
 Election Results
-Events
-News
 Events
 01
 Dec
@@ -157,7 +154,6 @@ Published on December 15, 2025
 The Supervisor of Elections Office was proud to participate in Christmas in Bunnell.
 As part of our holiday outreach, the Elections Team hosted a Kids Christmas Movie Election, giving our youngest community members a fun and engaging way to experience the voting process.
 View More News
-Press left and right keys to move between tabs. Press down to focus tab content.
 Official Election Mail
 All political mailings are required to have identifying disclaimers.
 Get Information
@@ -207,17 +203,11 @@ TTY:
 Email form:
 Contact Us
 Flagler County Active Voter Registration Totals
-11/5/26
 Democrat:
-23,945
 Republican:
-52,187
 NPA:
-20,867
 Other:
-4,517
 Total:
-101,516
 Accessibility
 |
 Privacy Policy
@@ -227,4 +217,6 @@ Sitemap
 Website Feedback
 |
 Contact Us
-© 2026 Flagler County Elections Office
+© 2026 Flagler County Elections Office |
+Powered by
+Granicus
