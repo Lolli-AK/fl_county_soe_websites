@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.hernandovotes.gov/1195/Precincts-Polling-Locations"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T01:20:52Z",
-  "html_sha256": "3a6cdc54cc46ac6c777c945ea2719d982fa5547ed03e12fdb81d549e23c46fa3",
-  "text_sha256": "40a0bef1bc1efb563ab03e17c82070743bd3eeebf28652b5994ae97c938c6240",
-  "byte_size": 3332,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-05T02:20:32Z",
+  "html_sha256": "022ca2917b904caaad09ed5ac1fad606ea5e80fd76b9d1506e0ab36ec79abe9c",
+  "text_sha256": "1618b18d8293b5e70bf72693f0f773a38667549cdb455ed76f82cf5fc01ef28f",
+  "byte_size": 60625,
+  "title": "Precincts & Polling Locations | Hernando County SOE, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

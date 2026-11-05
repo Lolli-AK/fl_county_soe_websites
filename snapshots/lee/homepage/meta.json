@@ -2,19 +2,18 @@
   "county": "Lee",
   "page_type": "homepage",
   "requested_url": "https://www.lee.vote",
-  "final_url": "https://www.lee.vote/",
+  "final_url": "https://www.lee.vote",
   "redirect_chain": [
-    "https://www.lee.vote",
-    "https://www.lee.vote/"
+    "https://www.lee.vote"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T01:20:52Z",
-  "html_sha256": "4581aaddd9c33eb751b073b259c6df7d5804839f288f5d1837d60f10b64ad02a",
-  "text_sha256": "199d0227b9fd31a92d7ef9eb96c0320af1e3e362e519546413ffbed3e448b000",
-  "byte_size": 142786,
+  "fetched_at": "2026-11-05T02:20:32Z",
+  "html_sha256": "c2c67a2afe3fd725d58e359ab16ffdf3c027ae56041cb1cb4eb7e58816451700",
+  "text_sha256": "963f54152f56e2fb05d129d3aad0a46fea2285dbdcfc870ebc685ff4a50c7e23",
+  "byte_size": 109076,
   "title": "Lee County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
