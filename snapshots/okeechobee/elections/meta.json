@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://voteokeechobee.gov/election-information/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T23:28:26Z",
-  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
-  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
-  "byte_size": 4573,
-  "title": "Human Verification",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "5c236392637a2d07c14dc617d062631aa6354aa1c22b9e0ce336bec7f053bd49",
+  "text_sha256": "c5b3818d23fada076dd5c55789ddc3acdee185550ede88853ececb9f375c2e87",
+  "byte_size": 83768,
+  "title": "Election Information – Okeechobee County, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 3
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

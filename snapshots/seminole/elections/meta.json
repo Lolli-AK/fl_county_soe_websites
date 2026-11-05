@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://voteseminole.gov/elections/upcoming-elections/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T23:28:26Z",
-  "html_sha256": "106238dba14e4af682edc0bb34dca4728a35c62e48f6f62006ee9bcc22da4ff1",
-  "text_sha256": "c3b21ff5e2edf61e026f0f6f2d03d83b6d911dca2c323f175eb75f9d2a77f7b9",
-  "byte_size": 3201,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "b036c52836401b00d3fbff3a64d9f0f59f3f66677332cc4c3a3d08100f8cb82b",
+  "text_sha256": "d4411f8992cd2142503ab8467746018b5fd987f7bb94604d86668aeefca04823",
+  "byte_size": 77403,
+  "title": "Upcoming Elections – voteseminole.gov",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

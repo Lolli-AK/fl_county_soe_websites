@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://voteseminole.gov/voters/register-to-vote/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T23:28:26Z",
-  "html_sha256": "921563f49b4a049187c0778c6f8c634e3b90f44fbd5ac70ad217ade16b62982b",
-  "text_sha256": "46695005a8d4858f2a3e48c46a5f881129ee819bc68b3ce73f10f00953b89f00",
-  "byte_size": 3201,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "a3a8ac1fee2b16ca130f7088410776688f6c487f1021ac42eb9766903872b8db",
+  "text_sha256": "8f3749b7e7043508cbea44fd454096021cae7fa8e854fbb7afc9ce4491fa8204",
+  "byte_size": 79584,
+  "title": "Register To Vote – voteseminole.gov",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

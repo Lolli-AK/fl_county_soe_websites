@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://wakullavotes.gov/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T00:13:36Z",
-  "html_sha256": "3bb26ae06c6106ff915a6d963c19cb43f3cbf1239faeb580776a724464d853e5",
-  "text_sha256": "1487f65ccca0dcde9af346c67900d1dcceb084e22e0300614d1df8f41438bd3a",
-  "byte_size": 3334,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "727d9c33895b3bdfc72bf42a7e1fbe903e67fffb280ddb7152527c20df1fada4",
+  "text_sha256": "408c894a14a89218a2138781b9cf4191942068607aefe0a9a12c65345630332a",
+  "byte_size": 87672,
+  "title": "Wakulla County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

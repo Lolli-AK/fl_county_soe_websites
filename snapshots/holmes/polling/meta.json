@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://holmeselectionsfl.gov/voter-information/where-to-vote/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T23:28:26Z",
-  "html_sha256": "1667c91bc432ee1805ff06135063598e3d9808b1e82eb67119ae7f2f6071fc48",
-  "text_sha256": "623a65f6f2b91976816c17d9662a7ab8f3b75501fe88201423b8f3a328badcf4",
-  "byte_size": 3339,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "bfe426464a1df58e29908c369a49f9bb980305baeca8b4b2815f249a0023ff4e",
+  "text_sha256": "c98dbf7edba7cc71dbe7d1ef40fdb27b8e933186f07c16b07eea991b229c751f",
+  "byte_size": 91507,
+  "title": "Where to Vote – Holmes County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

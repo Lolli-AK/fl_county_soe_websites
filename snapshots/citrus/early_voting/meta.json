@@ -6,24 +6,28 @@
   "redirect_chain": [
     "https://www.votecitrus.gov/238/2026-Early-Voting-Sites-Schedule"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T23:28:26Z",
-  "html_sha256": "f5b913cc25f13c51dc64c269776988e783dc0c69b7bde00b4de6a3bba6a4be90",
-  "text_sha256": "2a0f7b86a4dccf5b75c5fc237920cc734c076f9b0b671873e906c6f9af9f16f5",
-  "byte_size": 3207,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "10fb3b55b4826ccb488306fd3a9ba15d24588c4790e3d6078c210a677ef450fb",
+  "text_sha256": "ff0a81fc2e9047588e4c0eb82683df866c4b4f9d3568db5f5b15b70e7e55c8cf",
+  "byte_size": 106991,
+  "title": "2026 Early Voting Sites & Schedule | Citrus County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "military_overseas_voter"
+    ],
+    "count": 6
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

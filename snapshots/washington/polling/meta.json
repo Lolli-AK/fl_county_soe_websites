@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://wcsoe.gov/polling-sites/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T00:13:36Z",
-  "html_sha256": "d2765dcdab699babba061c87dc7a2eb556b8d39337cecafff49b711ae9ea3d2c",
-  "text_sha256": "833276554c39c5a57b5e3d2235d317dc45a48859374f9548e292af051e0bb8ed",
-  "byte_size": 3327,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "ff03e60bdc6faa2fd3030b8dac31355bae8a58aa739655d61f3fb34e66d51c1c",
+  "text_sha256": "f6db5fdaddd67a2b7356173b1ea4e33ac095eb8f7fed843067a77d0987e2b156",
+  "byte_size": 88643,
+  "title": "Precinct Numbers and Polling Locations – Washington County (FL) Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

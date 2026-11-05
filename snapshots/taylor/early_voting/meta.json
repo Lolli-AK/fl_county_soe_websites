@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.taylorelectionsfl.gov/early-voting/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T00:13:36Z",
-  "html_sha256": "f6bdb1a1b4be0a762e43b4168a143612ec0e9b51937cbab9606aabc6c691b838",
-  "text_sha256": "4d95cebae8f2c7263962aa230c925e68def2fc0778b466ee0137abed2a30120c",
-  "byte_size": 3228,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "f90b5456e308bacd957062a4d73c322242bea01ea9d89da1d03f4b5b620fa599",
+  "text_sha256": "69bb1470fc57774208154750e55dbc5706176c7daa300b57104b35393a1dc818",
+  "byte_size": 61634,
+  "title": "Vote Early",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://votedesotofl.gov/election-information/election-dates/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T23:28:26Z",
-  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
-  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
-  "byte_size": 4573,
-  "title": "Human Verification",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "00faf1d2a107b7e69c97ffa98984be79dc6eab981b427adfab41515a2a3d3ca1",
+  "text_sha256": "67404ec37868945bb1cb8fdc817092dd2c09fabf7b8a8bb5a881e77e40e02b20",
+  "byte_size": 66075,
+  "title": "Election Dates – DeSoto, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

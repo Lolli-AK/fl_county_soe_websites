@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://wcsoe.gov/past-election-results/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T00:13:36Z",
-  "html_sha256": "272584797e4d612c274b7d93b1027e2340ee2a234b68e26d7e5169cdb89a9992",
-  "text_sha256": "227a1cd420e8564d2f001598ea017f4c5f4d952d56a62d4df8afb89894988c9b",
-  "byte_size": 3327,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "1830bf7a410d3d4f66df584972d3ab450fd356d229ffec0059e128605c1212ba",
+  "text_sha256": "b87f77775372c47a083c6e974815d67c0d1e46afe3ed4a6ea2e8cb7e64da4004",
+  "byte_size": 58947,
+  "title": "Past Election Results – Washington County (FL) Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

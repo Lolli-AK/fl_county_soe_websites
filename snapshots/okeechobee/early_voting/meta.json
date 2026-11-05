@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://voteokeechobee.gov/voter-education/early-voting/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T23:28:26Z",
-  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
-  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
-  "byte_size": 4573,
-  "title": "Human Verification",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "0066f236c147d4dfd5a2431b973a53a8e57d1f75cb0214fc91b87a201d1dceff",
+  "text_sha256": "46bb0efeec835f7428d257de50b646e4c4c5b4a510b9259674ca1308ef288b80",
+  "byte_size": 80087,
+  "title": "Early Voting – Okeechobee County, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 3
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

@@ -6,24 +6,28 @@
   "redirect_chain": [
     "https://www.votecitrus.gov/229/Precinct-Locations"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T23:28:26Z",
-  "html_sha256": "4316e90885b58f4ce461f9a771ee15677bfec06f022f814b4740e157dcb1ac08",
-  "text_sha256": "f25e290e3a7dd40f7aa37cbf520c24fb1224b3e915b1d5d621a4d14528e8ed44",
-  "byte_size": 3207,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "efc450d213f191812f53400019a2499c73edcf29a0ae100da396b4e7378f8519",
+  "text_sha256": "0a20e51659fa65c70afa71f15ee8e37b83e25718d7ab1e7dfba8890031c1238e",
+  "byte_size": 111733,
+  "title": "Precinct Locations | Citrus County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "military_overseas_voter"
+    ],
+    "count": 6
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

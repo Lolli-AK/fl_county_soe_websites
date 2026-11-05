@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://votesantarosa.gov/historical-information/historical-results/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T23:28:26Z",
-  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
-  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
-  "byte_size": 4573,
-  "title": "Human Verification",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "0fcfd00f65126ee240dc528ebd01558d536dc6bcc44fb0857e3d02a62326727e",
+  "text_sha256": "c6074bf970d3aed640700b28e4db1df1c0f11700ec85a96c497c66e231e0977b",
+  "byte_size": 77266,
+  "title": "Historical Results – Santa Rosa, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 3
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

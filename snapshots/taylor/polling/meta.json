@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.taylorelectionsfl.gov/where-to-vote-in-person/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T00:13:36Z",
-  "html_sha256": "ea538dd302071231ba2d6ee8edbb0b01de61d82b152569fa6f072fc4c3950574",
-  "text_sha256": "fbf7ae5429a0b8e07f8d3aec5ad1ebad0de9820e9a751c59e046555df8fefbd6",
-  "byte_size": 3228,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "2e586c3568c8082ff92ad1aa3fc5605dd6bd449090f365121ab7901f287710ce",
+  "text_sha256": "97be9dc6bb71b5fd320123de14976360f48c3496c30abfc2d8b486194742ab67",
+  "byte_size": 69458,
+  "title": "Where to Vote in Person",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

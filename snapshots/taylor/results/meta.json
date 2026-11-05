@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.taylorelectionsfl.gov/election-results/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T00:13:36Z",
-  "html_sha256": "9c35de41ee405cc5bdeab1ea24d1d0fb67849b1be907a33f15ff6a3227850ba0",
-  "text_sha256": "86a7c445878a20efb8de9b6b0d6d35a4e54284c5bda7ee3514a1c1c6a6f81183",
-  "byte_size": 3228,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "4f1b94d8914bb4aa1f0ebe5058c5f12af747aff9d71f676506555973dbf1f461",
+  "text_sha256": "ba4116e4698c57c498d2b91915b13e56351780e7c3852dd6c320e5ff52d51095",
+  "byte_size": 58647,
+  "title": "Election Results | Taylor County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

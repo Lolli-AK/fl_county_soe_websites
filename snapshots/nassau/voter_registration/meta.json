@@ -6,24 +6,27 @@
   "redirect_chain": [
     "https://www.votenassaufl.gov/register-to-vote"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T23:28:26Z",
-  "html_sha256": "6be3c97a65ac30781e18c1034f889c06539e502d080024d53490ae871728f3a0",
-  "text_sha256": "ad74ad96c60a33c3341335dc2e2c5e3070680009090e2b41ce9e1f3b0ed1f533",
-  "byte_size": 3334,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "ec0f767e871c7df0589407a4d8a17e0b70677b98ffcd7a03f9934512efb54b5c",
+  "text_sha256": "407da5ddc5df0eae172742b5df66a5ea45182c7bc171847fd8a4883041f27fcb",
+  "byte_size": 117091,
+  "title": "Register to Vote | Nassau County - Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 3
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

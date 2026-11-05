@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://holmeselectionsfl.gov/voter-information/register-to-vote/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T23:28:26Z",
-  "html_sha256": "c53f26583b5f3c9d50e64ac808ecbde18ee6b86bfab70b04d24439261353291c",
-  "text_sha256": "630db59a53703ea2c122f617ce86d5cf6ef064833556951e098ef41474fab7ad",
-  "byte_size": 3339,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "5d1045011b87fef02ad5c7073db8067247fea4e2813d47bd7b1713581a1d0c53",
+  "text_sha256": "7117ba87b23e3310f0fb65b30b9649079805d559809fc076cd644a9a77b2e184",
+  "byte_size": 99773,
+  "title": "Register To Vote – Holmes County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

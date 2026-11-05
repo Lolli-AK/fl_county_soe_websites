@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.votenassaufl.gov/election-night-results"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T23:28:26Z",
-  "html_sha256": "fa9e9b61aa514231445f890a047521b7e255270f4dad51149717143c3e5f0425",
-  "text_sha256": "c018ac8cabca00b6332a0123d271524311af087343a15aecf29066b8c97786d1",
-  "byte_size": 3334,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "4ee81365bff4beee89406fef1ccaa64e1f86ae00ebcec56c8ca97dbd61e3d7d7",
+  "text_sha256": "9e6bab4db70412e27daf1cb47b57c42d67ba7398ac9f279e2523740618e164b2",
+  "byte_size": 77986,
+  "title": "Election Night Results | Nassau County Supervisor",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

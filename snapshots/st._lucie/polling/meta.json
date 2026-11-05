@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.stlucievotes.gov/voter_information/find_my_precinct.php"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T00:13:36Z",
-  "html_sha256": "0bccaffef32d1729b30c72262ef80e717e8ad5e418dc47559bf8dd39349a3016",
-  "text_sha256": "c5eaa99d283b5db83b7fab377dd4c1f02b44741adf8327b289325b01fed28fa4",
-  "byte_size": 3334,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "ce64001cd599a06aa081eb116694c194cbdcf24af7bd6bf03821db6424247b30",
+  "text_sha256": "6bfe1d62832733dc6c9728ffc6c1704049e8812dbf2140df03024d9bcf3e271c",
+  "byte_size": 49189,
+  "title": "St. Lucie Supervisor of Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

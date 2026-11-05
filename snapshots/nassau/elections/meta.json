@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.votenassaufl.gov/upcoming-elections"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T23:28:26Z",
-  "html_sha256": "738df58cdbdaf160750878b3b0cf53a4aa0d57cb42039119d01342ecf66b1a73",
-  "text_sha256": "e6632323696c68dd8961d953c6248626104e57c1af5e42e46bf07801c052f738",
-  "byte_size": 3334,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "3e324ee966d7b4dcf3a86caf4ccd6a41aff46e4d0fc5443953866d140d2846e3",
+  "text_sha256": "dc2a9086ab68d41c663494b9a6233857f558faccbc47f308abab834f3e6332dc",
+  "byte_size": 87134,
+  "title": "Upcoming Elections 2026 | Nassau County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

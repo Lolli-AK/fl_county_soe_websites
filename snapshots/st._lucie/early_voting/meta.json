@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.stlucievotes.gov/public_records/public_notices/early_voting_election_dates.php"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T00:13:36Z",
-  "html_sha256": "9592e419c8e953bcff861c89eda6d0f9a5f91e26efe9566136310e5bb7e679dd",
-  "text_sha256": "5349a6b23f6b2b4b8d015cbb1eef156fa02a8825cc8709fbf4e8414d59d495fe",
-  "byte_size": 3334,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "f71565a5d63c01abb8fc82f4396b63d4c922441382186b60ca4e48360c051660",
+  "text_sha256": "2d58ef1b01e5ee0b520d94f22c682a8585d31f4c6590103299be4e236d3df28e",
+  "byte_size": 58562,
+  "title": "Early Voting & Election Dates",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 3
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

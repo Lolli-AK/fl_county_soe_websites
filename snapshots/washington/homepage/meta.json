@@ -6,24 +6,28 @@
   "redirect_chain": [
     "https://wcsoe.gov/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T00:13:36Z",
-  "html_sha256": "4306e35d3ace19c2fecbbaed4819d961502480f968d0aed31116edc7135925b2",
-  "text_sha256": "8405f79903a1d47c7f520b60373b6afc8630d321272196517c7b5f1f14f829cb",
-  "byte_size": 3327,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "6642db7711fe4af9ff1ce71b435f537749dd977a8145618784319d7af594b56d",
+  "text_sha256": "59b38198203cc5991083bff1fc877980b57bda8e8fb12e185bd2542f56bf0636",
+  "byte_size": 83602,
+  "title": "Washington County (FL) Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 7
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

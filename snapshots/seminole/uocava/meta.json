@@ -6,24 +6,29 @@
   "redirect_chain": [
     "https://voteseminole.gov/how-to-vote/military-overseas-voters/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T23:28:26Z",
-  "html_sha256": "c19f9f290018f171a93e0078632301c657c74cb44883a982e061f40257031d34",
-  "text_sha256": "aa510918acaba7f7a06e2967213d00c557d39f1387e13339f42a142c60ef75fb",
-  "byte_size": 3201,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "d18e80e5c6f1a0c6a26d359f4f3a633d81f673b95fc3f6c07ebe2799816e22ab",
+  "text_sha256": "05416395a3a89844a785d9407dfbb383a344740f22dd158256eacea26cdc1480",
+  "byte_size": 72493,
+  "title": "Military / Overseas Voters – voteseminole.gov",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 16
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

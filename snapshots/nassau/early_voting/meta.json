@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.votenassaufl.gov/early-voting"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T23:28:26Z",
-  "html_sha256": "85244b22dbac4546d2f20aa0aad941b35728336bff619ee02c8e6dffccfb9592",
-  "text_sha256": "c41218dd0312a6895ecf8d2d86542f57ab9dd51b062c561b0c2bf9b10e3a498c",
-  "byte_size": 3334,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-05T00:42:40Z",
+  "html_sha256": "a84c93ab2ae0aed2d53fa489647e9085eaa91f37c9a2868f0aa343a9fddd5aa8",
+  "text_sha256": "b4f11a09f5277fd6b07dbac7f2010e868cdb52aeed47853e7efb897c8b9a9af3",
+  "byte_size": 79834,
+  "title": "Early Voting Info | Nassau County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
