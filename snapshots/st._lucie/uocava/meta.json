@@ -6,29 +6,24 @@
   "redirect_chain": [
     "https://www.stlucievotes.gov/voter_information/vote_by_mail/military_and_overseas_citizens_information.php"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "ae5cbcf36cc090e868ce9d58eb4f21c3163e3ccc3963782c8684a9b4531b894c",
-  "text_sha256": "c7eeb5df5fcf73b203d1d766fbf4f682403259e36e48be13d204eab9c74985ff",
-  "byte_size": 50650,
-  "title": "St. Lucie Supervisor of Elections, FL",
+  "fetched_at": "2026-11-05T00:13:36Z",
+  "html_sha256": "e5d37140f4a26afae8a895198e84c4bd7a8c910d0b8120e0c30fe207d5748fb4",
+  "text_sha256": "86d343b5cd731980eb13c773e6b4c823875a9d5965776f5e5f6262f7de1a07e7",
+  "byte_size": 3334,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 19
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

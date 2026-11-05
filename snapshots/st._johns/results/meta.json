@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.votesjc.gov/election-results"
   ],
-  "http_status": 200,
-  "content_type": "text/html;charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "be8bddca198a203fef8d6bab454ddd5ab16215b8c6f2beeb945b7ba5e22d0a64",
-  "text_sha256": "76de13bf6f6b83c0093a6378175e905bae12b4854ae241dc30b0ad11a1adba51",
-  "byte_size": 182074,
-  "title": "Election Results",
+  "fetched_at": "2026-11-05T00:13:36Z",
+  "html_sha256": "b2223a81ccb4fe33dd2d57d97d5432d0f59bae79f1cb61f0f870ee907e06ced3",
+  "text_sha256": "0f900cbea3984bbbc5ac69da6f48cb7d5bc92c02fc932ee3c970a79a59a4efc4",
+  "byte_size": 3329,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 4
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

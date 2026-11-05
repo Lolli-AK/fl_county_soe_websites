@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://wcsoe.gov/early-voting/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "b081be17b558ecf37183f44aa2155e127026f1c672a65cd1d87edc1189d57269",
-  "text_sha256": "da6f33a4324fdd7d747e1401de66a9f3fd71f9f2fad64f150c22d826e72f12c8",
-  "byte_size": 59519,
-  "title": "Early Voting – Washington County (FL) Supervisor of Elections",
+  "fetched_at": "2026-11-05T00:13:36Z",
+  "html_sha256": "eeab8f2cd2b12a3da3e7680aa78364fc77aafab87dd2dd9036a178922a068789",
+  "text_sha256": "b121abf465d21e9dfb7a1872ea212aa7f1e7360af5aa0e42dd6e23d07e2e05f3",
+  "byte_size": 3327,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

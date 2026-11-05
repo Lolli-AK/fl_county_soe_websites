@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://wakullavotes.gov/past-election-results/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "313f7d0b4582ec26fec60dadd54c2b6c7da561158e27a2bb13b665ef80727f2b",
-  "text_sha256": "7ec8493895b949757512e73234694c1635ebb6403883465001d12ffea3f3fe09",
-  "byte_size": 64054,
-  "title": "Past Election Results – Wakulla County Supervisor of Elections",
+  "fetched_at": "2026-11-05T00:13:36Z",
+  "html_sha256": "cab285fac585e3552fcdd34200e022b413afe32ea97507d40a4e688a2870c904",
+  "text_sha256": "7edebbbb7811bdf3fa6a6fb742bd83aff41bec3e15df8fe77a22a1511dc2bb80",
+  "byte_size": 3334,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

@@ -2,30 +2,29 @@
   "county": "Taylor",
   "page_type": "homepage",
   "requested_url": "https://www.taylorelectionsfl.gov",
-  "final_url": "https://www.taylorelectionsfl.gov",
+  "final_url": "https://www.taylorelectionsfl.gov/",
   "redirect_chain": [
-    "https://www.taylorelectionsfl.gov"
+    "https://www.taylorelectionsfl.gov",
+    "https://www.taylorelectionsfl.gov/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "8576f6ea39cd685c2b760593e2fbdc7338e08ceb795fd34b674f8f9dd3fd2db4",
-  "text_sha256": "a917c2d163150f94b694eb38ea3172a380f74007545ac56b0f7b23bc3bc63094",
-  "byte_size": 91897,
-  "title": "Supervisor of Elections | Taylor County, Florida",
+  "fetched_at": "2026-11-05T00:13:36Z",
+  "html_sha256": "07e81ef0e939e0999c3a56d7b5051acc39812cb9c469243193190787821e1cd9",
+  "text_sha256": "def363322a31bdb2f86bde001b29e2e374977ed3895ca83a37be38ab4380e609",
+  "byte_size": 3228,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

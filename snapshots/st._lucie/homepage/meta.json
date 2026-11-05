@@ -2,30 +2,29 @@
   "county": "St. Lucie",
   "page_type": "homepage",
   "requested_url": "https://www.stlucievotes.gov",
-  "final_url": "https://www.stlucievotes.gov",
+  "final_url": "https://www.stlucievotes.gov/",
   "redirect_chain": [
-    "https://www.stlucievotes.gov"
+    "https://www.stlucievotes.gov",
+    "https://www.stlucievotes.gov/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "e6d5621a210d96fe360d294ae72a8cc0916de9fc36ddb5b27d58fa1db347ec82",
-  "text_sha256": "33521647cb804006e1f391712726e0171b68fa4a435fad4dac7db50d68cae37f",
-  "byte_size": 51974,
-  "title": "St. Lucie Supervisor of Elections, FL",
+  "fetched_at": "2026-11-05T00:13:36Z",
+  "html_sha256": "bd0a371c92d1a92a0cb17426ac4bf88b364c3d4910f83300b15fb2b545eced32",
+  "text_sha256": "21f5e9a745c0c8a4d2627fd970f47af261210b73bb2ee6104e66e59077c7803f",
+  "byte_size": 3334,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

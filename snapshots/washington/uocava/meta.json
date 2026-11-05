@@ -6,29 +6,24 @@
   "redirect_chain": [
     "https://wcsoe.gov/military-overseas-voting/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "7ad049094488507ea3e2afd69dd1d80e2dff8b9b77add49b361057c6c4187308",
-  "text_sha256": "0d676badc75cc4e4b552a3eead3a72be0603bb2ae705b1a375f02390b81909ad",
-  "byte_size": 67803,
-  "title": "Military & Overseas Voting – Washington County (FL) Supervisor of Elections",
+  "fetched_at": "2026-11-05T00:13:36Z",
+  "html_sha256": "e44b9be9802c67559ec30d5e21bdef974b4370a2602d8b5f418f22ca74a13d5f",
+  "text_sha256": "43bc918233f5d4a000c49b483125e7baee33ef9a78dedb92c8b0e15483844f3e",
+  "byte_size": 3327,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 21
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

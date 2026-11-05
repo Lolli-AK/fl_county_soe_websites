@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://wcsoe.gov/register-to-vote/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "8429b2bb7cb68328da0522e826699bc8aa4d52de31e359046fc25772b48132b8",
-  "text_sha256": "d3094d2f18007c2ebc373cf06ed660165ef5147acb5b3a3b17ebc7c86674da4e",
-  "byte_size": 60983,
-  "title": "Register to Vote – Washington County (FL) Supervisor of Elections",
+  "fetched_at": "2026-11-05T00:13:36Z",
+  "html_sha256": "47fdf14ab11faa5d86ed95f099ba2fdd2adabf1f31ecea17e4e7b908d13696bb",
+  "text_sha256": "54d29fc304272842906997f429ab5ae959af22e01d80ea39a90561ac4f3732df",
+  "byte_size": 3327,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

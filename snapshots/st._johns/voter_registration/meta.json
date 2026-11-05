@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.votesjc.gov/register-to-vote"
   ],
-  "http_status": 200,
-  "content_type": "text/html;charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T22:28:24Z",
-  "html_sha256": "dba305be075a0e0eb54524a59f85e617b94af2a5f168219a44dc73363f2df966",
-  "text_sha256": "c23e47469fb5621a4da4581f69df23c212d5c64d3a43db137104359c473f0855",
-  "byte_size": 149381,
-  "title": "Register to Vote | St. Augustine, FL",
+  "fetched_at": "2026-11-05T00:13:36Z",
+  "html_sha256": "67473e907e22576506afd191b22d2d7950c57300fc053aecaa85e5024302521f",
+  "text_sha256": "e851f4bb0ecf041fcac60bcb9d1b4023a667d4b6fd22f281ca4ef196543539e2",
+  "byte_size": 3329,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 4
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
