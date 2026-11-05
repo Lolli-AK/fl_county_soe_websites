@@ -34,7 +34,9 @@
    </a>
   </div>
   <form action="/Elections/Election-Results" id="mainForm" method="post" name="mainForm">
-   <input id="ctl04_seamless_script_manager_TSM" name="ctl04_seamless_script_manager_TSM" type="hidden"/>
+   <div>
+    <input id="ctl04_seamless_script_manager_TSM" name="ctl04_seamless_script_manager_TSM" type="hidden"/>
+   </div>
    <div hidden="">
     <span id="new-window-0">
      opens in new tab or window
@@ -687,7 +689,7 @@
         </div>
         <div aria-label="Sitewide search" class="header-search-control-container" id="header-search" role="search">
          <div class="search-inner-container">
-          <div class="sc-search-panel">
+          <div class="sc-search-panel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl08_btnSearch')">
            <label class="sc-search-label" for="ctl08_txtSearch" id="ctl08_lblSearch">
             Search
            </label>
@@ -744,7 +746,7 @@
               <p>
               </p>
               <div class="grid">
-               <div aria-label="Results of Search" class="col-xs-12 col-lg-8" id="uid_1793856095060_4200" role="region">
+               <div aria-label="Results of Search" class="col-xs-12 col-lg-8" id="uid_1793859689238_4200" role="region">
                 <div aria-atomic="true" aria-live="polite" class="listing-results" role="status">
                  83 Result(s) Found
                 </div>
@@ -1319,12 +1321,12 @@
                 </div>
                </div>
                <div class="col-xs-12 col-lg-4">
-                <div aria-controls="uid_1793856095060_4200" aria-label="Search" class="search-filter" role="search">
-                 <div class="search-filter-header" id="uid_1793856095155_4200">
+                <div aria-controls="uid_1793859689238_4200" aria-label="Search" class="search-filter" role="search">
+                 <div class="search-filter-header" id="uid_1793859689317_4200">
                   <h2 class="filter-title">
                    Search
                   </h2>
-                  <span aria-controls="docLibraryListBody" aria-expanded="true" aria-labelledby="uid_1793856095155_4200" class="accordion-trigger search-filter-trigger accordion-opened" data-accordion-all-device="false" data-accordion-body="#docLibraryListBody" data-open="false" role="button" tabindex="0">
+                  <span aria-controls="docLibraryListBody" aria-expanded="true" aria-labelledby="uid_1793859689317_4200" class="accordion-trigger search-filter-trigger accordion-opened" data-accordion-all-device="false" data-accordion-body="#docLibraryListBody" data-open="false" role="button" tabindex="0">
                    <i aria-hidden="true">
                    </i>
                   </span>
@@ -1546,7 +1548,7 @@
                  Democrat:
                 </div>
                 <div class="demValue">
-                 23,922
+                 23,945
                 </div>
                </div>
               </td>
@@ -1558,7 +1560,7 @@
                  Republican:
                 </div>
                 <div class="repValue">
-                 52,162
+                 52,187
                 </div>
                </div>
               </td>
@@ -1570,7 +1572,7 @@
                  NPA:
                 </div>
                 <div class="npaValue">
-                 20,849
+                 20,867
                 </div>
                </div>
               </td>
@@ -1582,7 +1584,7 @@
                  Other:
                 </div>
                 <div class="othValue">
-                 4,520
+                 4,517
                 </div>
                </div>
               </td>
@@ -1594,7 +1596,7 @@
                  Total:
                 </div>
                 <div class="totValue">
-                 101,453
+                 101,516
                 </div>
                </div>
               </td>
