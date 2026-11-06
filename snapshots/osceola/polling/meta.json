@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.voteosceola.gov/en-us/polling-locations/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-06T15:28:05Z",
-  "html_sha256": "808d91c058c01dded3904882c6f6ebc410f243ca421008a8cc49bf0ace34e396",
-  "text_sha256": "9d36af55c14d366c726336f2c53770f6b5df43a0e38f264a742045ec83f5050a",
-  "byte_size": 3184,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-06T19:14:18Z",
+  "html_sha256": "0984ff73223b9c4f435b8a9fddf68cb2fa0f9d3dfbf048582e8ccb7faf2e6b41",
+  "text_sha256": "d955e03fab73816435ef6392480783decff2f7428779bd52914d7c1c9a2ec787",
+  "byte_size": 52554,
+  "title": "Polling Locations – Vote Osceola",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

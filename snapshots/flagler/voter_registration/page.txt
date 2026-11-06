@@ -1,7 +1,6 @@
 Register to Vote | Flagler County Elections Office
 Skip to main content
 opens in new tab or window
-Quick Links:
 Quick Links
 Facebook
 X
@@ -12,8 +11,9 @@ English
 Select this as your preferred language
 Spanish
 Select this as your preferred language
+Select a language to translate to
 English
-is your current preferred language.
+Select this as your preferred language
 Spanish
 Select this as your preferred language
 Open
@@ -102,7 +102,6 @@ Myth Versus Fact
 Outreach Events Calendar
 Outreach Request Form
 Contact Us
-Select the Escape key to close the menu. Focus will then be set to the first menu item.
 Search
 Home
 /
@@ -118,9 +117,6 @@ civil rights
 having been restored pursuant to law
 Not claim the right to vote in another county or state
 How to Register
-Online
-By Mail
-In Person
 Online
 Florida citizens may use online voter registration to register to vote or update their registration details. Use the following link to register to vote online:
 Florida Online Voter Registration System
@@ -175,7 +171,6 @@ Flagler County Health Department
 301 S. Lemon Street
 Bunnell, FL 32110
 (386) 437-7350
-Press left and right keys to move between tabs. Press down to focus tab content.
 Have you recently moved to Florida? Cancel your voter registration in your previous state of residence!
 Your voter registration record is not automatically removed in another state when you register to vote in Florida. You must contact your previous state, county, or local jurisdiction to cancel your voter registration.
 States and local jurisdictions have different options for voters who wish to cancel their voter registration. Some states allow for voters to utilize an online portal to withdraw their voter registration, while some states and jurisdictions have made PDF versions of their cancellation forms available online.
@@ -239,17 +234,11 @@ TTY:
 Email form:
 Contact Us
 Flagler County Active Voter Registration Totals
-11/6/26
 Democrat:
-23,959
 Republican:
-52,197
 NPA:
-20,874
 Other:
-4,521
 Total:
-101,551
 Accessibility
 |
 Privacy Policy
@@ -259,4 +248,6 @@ Sitemap
 Website Feedback
 |
 Contact Us
-© 2026 Flagler County Elections Office
+© 2026 Flagler County Elections Office |
+Powered by
+Granicus

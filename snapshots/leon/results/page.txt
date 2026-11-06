@@ -1,13 +1,18 @@
 Election Results
-English
-Español
-English
 Skip to content
 Leon County
 Supervisor
 of Elections
 Menu
 Official government website
+An Official Government Website
+Official Websites Use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use https
+A lock or https:// means you've safely connected to the .gov website. Only share sensitive information on official, secure websites.
+Official Mail
+Official Election Mail will always contain this symbol.
+Okay!
 How do I?
 Home
 Voting
@@ -125,6 +130,60 @@ Leon County Supervisor of Elections
 Election Results
 This page contains election results for prior elections, as well as various other reports tied to specific elections.
 2026 Elections
+2026 General
+Category
+Report
+Download
+Bookclosing Reports
+District Demographics
+PDF
+|
+Excel
+District Totals
+PDF
+|
+Excel
+Precinct Demographics
+PDF
+|
+Excel
+Precinct Totals
+PDF
+|
+Excel
+Demographics
+District Analysis
+TBD
+Precinct Analysis
+TBD
+Totals by District
+TBD
+Results
+Election Night Reporting
+Webpage
+Election Summary Report
+TBD
+Statement of Votes Cast
+TBD
+Post-Election Audit Comparison of Votes Cast
+TBD
+Miscellaneous
+Early Voting Snapshot
+Date Ascending
+|
+Date Descending
+Election Guide
+PDF
+Sample Ballot Repository
+English
+|
+Spanish
+Polling Place List
+PDF by Name
+|
+PDF by Precinct
+|
+Excel
 2026 Primary
 Category
 Report
@@ -160,16 +219,20 @@ PDF
 |
 Excel
 Results
+Audit Accuracy Report
+PDF
 Election Night Reporting
 Webpage
 Election Summary Report
 Official Results
 City Commission Seat 3 Recount
 Recount Results
-Statement of Votes Cast
-TBD
 Post-Election Audit Comparison of Votes Cast
-TBD
+PDF
+Statement of Votes Cast
+PDF
+|
+Excel
 Miscellaneous
 Early Voting Snapshot
 Date Ascending
@@ -177,38 +240,6 @@ Date Ascending
 Date Descending
 Election Guide
 PDF
-Sample Ballot Repository
-English
-|
-Spanish
-Polling Place List
-PDF by Name
-|
-PDF by Precinct
-|
-Excel
-2026 General
-Category
-Report
-Download
-Bookclosing Reports
-District Demographics
-PDF
-|
-Excel
-District Totals
-PDF
-|
-Excel
-Precinct Demographics
-PDF
-|
-Excel
-Precinct Totals
-PDF
-|
-Excel
-Miscellaneous
 Sample Ballot Repository
 English
 |
@@ -1112,11 +1143,3 @@ Vote@leonvotes.gov
 2990-1 Apalachee Parkway,
 Tallahassee FL 32301
 View on map
-An Official Government Website
-Official Websites Use .gov
-A .gov website belongs to an official government organization in the United States.
-Secure .gov websites use https
-A lock or https:// means you've safely connected to the .gov website. Only share sensitive information on official, secure websites.
-Official Mail
-Official Election Mail will always contain this symbol.
-Okay!

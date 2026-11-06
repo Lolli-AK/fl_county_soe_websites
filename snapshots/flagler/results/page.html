@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="t-chrome t-chrome125 no-applicationcache audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a canvas canvastext geolocation hashchange history inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color postmessage postmessage-structuredclones svg video no-video-ogg video-h264 no-video-h265 video-webm video-vp9 video-hls no-video-av1 webgl websockets cssanimations backgroundsize borderimage borderradius boxshadow csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox flexboxlegacy fontface generatedcontent cssgradients hsla multiplebgs opacity cssreflections rgba textshadow csstransforms supports csstransforms3d csstransitions localstorage sessionstorage no-websqldatabase svgclippaths inlinesvg smil webworkers tablesaw-enhanced no-os-high-contrast breakpoint-sc-size-1 indexeddb" lang="en-US">
+<html lang="en-US">
  <head>
   <meta charset="utf-8"/>
   <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
@@ -37,6 +37,8 @@
    <div>
     <input id="ctl04_seamless_script_manager_TSM" name="ctl04_seamless_script_manager_TSM" type="hidden"/>
    </div>
+   <div class="unsupported-browser-warning js-element">
+   </div>
    <div hidden="">
     <span id="new-window-0">
      opens in new tab or window
@@ -49,10 +51,7 @@
      <header>
       <div class="toolbar-outer-container">
        <div class="toolbar-inner-container clearfix">
-        <div class="toolbar-item toolbar-quicklinks loaded toolbar-item-list toolbar-display-links">
-         <div class="toolbar-item-list-heading visuallyhidden">
-          Quick Links:
-         </div>
+        <div class="toolbar-item toolbar-quicklinks toolbar-display-dropdown">
          <button aria-controls="toolbar-quicklinks-drop-down" aria-expanded="false" class="toolbar-button toolbar-button-quicklinks js-element" type="button">
           <span>
            Quick Links
@@ -60,31 +59,31 @@
           <i aria-hidden="true">
           </i>
          </button>
-         <div class="toolbar-quicklinks-drop-down clearfix toolbar-link-list" id="toolbar-quicklinks-drop-down">
+         <div class="toolbar-drop-down toolbar-quicklinks-drop-down clearfix" id="toolbar-quicklinks-drop-down">
           <ul>
            <li>
-            <a aria-describedby="new-window-0" class="oc-icon-b oc-i-facebook link-type-external link-hide-text opens-in-new-tab" href="https://www.facebook.com/FlaglerElections" target="_blank">
+            <a class="oc-icon-b oc-i-facebook link-type-external link-hide-text" href="https://www.facebook.com/FlaglerElections" target="_blank">
              <span>
               Facebook
              </span>
             </a>
            </li>
            <li>
-            <a aria-describedby="new-window-0" class="oc-icon-b oc-i-x link-type-external link-hide-text opens-in-new-tab" href="https://x.com/flaglersoe" target="_blank">
+            <a class="oc-icon-b oc-i-x link-type-external link-hide-text" href="https://x.com/flaglersoe" target="_blank">
              <span>
               X
              </span>
             </a>
            </li>
            <li>
-            <a aria-describedby="new-window-0" class="oc-icon-b oc-i-nextdoor link-type-external link-hide-text opens-in-new-tab" href="https://nextdoor.com/agency-detail/fl/bunnell/flagler-county-supervisor-of-elections/" target="_blank">
+            <a class="oc-icon-b oc-i-nextdoor link-type-external link-hide-text" href="https://nextdoor.com/agency-detail/fl/bunnell/flagler-county-supervisor-of-elections/" target="_blank">
              <span>
               NextDoor
              </span>
             </a>
            </li>
            <li>
-            <a aria-describedby="new-window-0" class="oc-icon-b oc-i-instagram link-type-external link-hide-text opens-in-new-tab" href="https://www.instagram.com/flaglerelections/" target="_blank">
+            <a class="oc-icon-b oc-i-instagram link-type-external link-hide-text" href="https://www.instagram.com/flaglerelections/" target="_blank">
              <span>
               Instagram
              </span>
@@ -125,16 +124,21 @@
           <span aria-hidden="true" class="toolbar-language-globe-icon">
           </span>
           <span class="current-language" id="toolbar-language-label">
-           English
-          </span>
-          <span class="visuallyhidden">
-           is your current preferred language.
+           Select a language to translate to
           </span>
           <i aria-hidden="true">
           </i>
          </button>
          <div aria-label="Available languages" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix" id="toolbar-language-drop-down" role="listbox">
           <ul role="group">
+           <li role="presentation">
+            <a aria-selected="true" class="lang-item lang-en-us" data-translate-to="en-us" href="https://www.flaglerelections.gov/Elections/Election-Results?oc_lang=en-US" id="toolbar-language-option-en-us" lang="en-US" role="option">
+             English
+             <span class="visuallyhidden">
+              Select this as your preferred language
+             </span>
+            </a>
+           </li>
            <li role="presentation">
             <a aria-selected="false" class="lang-item lang-es" data-translate-to="es" href="https://www.flaglerelections.gov/Elections/Election-Results?oc_lang=es" id="toolbar-language-option-es" lang="en" role="option">
              Spanish
@@ -155,7 +159,7 @@
          </a>
         </div>
         <div class="mobile-search-btn js-element">
-         <button aria-expanded="false" class="not-pressed">
+         <button>
           <i aria-hidden="true">
           </i>
           <span class="mobile-search-btn-text">
@@ -167,10 +171,10 @@
          </button>
         </div>
         <div class="header-website-settings">
-         <button aria-controls="nav" aria-expanded="false" aria-label="Open side Menu" class="not-pressed" id="btn-mob-nav" type="button">
+         <button aria-controls="nav" aria-expanded="false" id="btn-mob-nav" type="button">
           <i aria-hidden="true">
           </i>
-          <span aria-hidden="true" class="side-menu-btn-text">
+          <span class="side-menu-btn-text">
            Menu
           </span>
          </button>
@@ -179,7 +183,7 @@
          <div aria-label="primary" class="navigation-container navigation-container-option-7" data-menu-type="horizontal" id="nav" role="navigation">
           <div class="grid">
            <div class="col-xs-12">
-            <ul aria-describedby="horizontal-menu-description" class="sf-menu sf-js-enabled sf-arrows level-1 sf-desktop" id="sc-main-menu">
+            <ul class="sf-menu" id="sc-main-menu">
              <li class="nav-section-quarters-1 first-item nav-item-seq-1">
               <a class="nav-level-1" href="https://www.flaglerelections.gov/Register-to-Vote" target="">
                <i aria-hidden="true" class="item-icon">
@@ -190,10 +194,10 @@
               </a>
              </li>
              <li class="nav-section-quarters-1 nav-item-seq-2">
-              <a class="nav-level-1 nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/My-Voter-Info" target="">
+              <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/My-Voter-Info" target="">
                My Voter Info
               </a>
-              <button aria-controls="sc-menu-second-level-nav-item-seq-2" aria-expanded="false" aria-haspopup="true" aria-label="Expand My Voter Info" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-2" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
@@ -236,10 +240,10 @@
               </ul>
              </li>
              <li class="nav-section-quarters-2 nav-active-path nav-item-seq-3">
-              <a class="nav-level-1 nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Elections" target="">
+              <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/Elections" target="">
                Elections
               </a>
-              <button aria-controls="sc-menu-second-level-nav-item-seq-3" aria-expanded="false" aria-haspopup="true" aria-label="Expand Elections" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-3" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
@@ -265,10 +269,10 @@
                 </a>
                </li>
                <li class="">
-                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Elections/How-to-Vote" target="">
+                <a class="nav-has-children" href="https://www.flaglerelections.gov/Elections/How-to-Vote" target="">
                  How to Vote
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-5" aria-expanded="false" aria-haspopup="true" aria-label="Expand How to Vote" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-5" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -296,7 +300,7 @@
                 </a>
                </li>
                <li class="nav-active-path nav-active-page">
-                <a aria-current="page" class="" href="https://www.flaglerelections.gov/Elections/Election-Results" target="">
+                <a class="" href="https://www.flaglerelections.gov/Elections/Election-Results" target="">
                  Election Results
                 </a>
                </li>
@@ -333,10 +337,10 @@
               </ul>
              </li>
              <li class="nav-section-quarters-2 nav-item-seq-4">
-              <a class="nav-level-1 nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Candidates" target="">
+              <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/Candidates" target="">
                Candidates
               </a>
-              <button aria-controls="sc-menu-second-level-nav-item-seq-4" aria-expanded="false" aria-haspopup="true" aria-label="Expand Candidates" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-4" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
@@ -394,19 +398,19 @@
               </ul>
              </li>
              <li class="nav-section-quarters-3 nav-item-seq-5">
-              <a class="nav-level-1 nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM" target="">
+              <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM" target="">
                Get Involved
               </a>
-              <button aria-controls="sc-menu-second-level-nav-item-seq-5" aria-expanded="false" aria-haspopup="true" aria-label="Expand Get Involved" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-5" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
               <ul id="sc-menu-second-level-nav-item-seq-5">
                <li class="">
-                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/About-Us" target="">
+                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/About-Us" target="">
                  About Us
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-1" aria-expanded="false" aria-haspopup="true" aria-label="Expand About Us" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-1" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -439,10 +443,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Election-RANDOM" target="">
+                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Election-RANDOM" target="">
                  Election Security
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-2" aria-expanded="false" aria-haspopup="true" aria-label="Expand Election Security" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-2" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -475,10 +479,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/News" target="">
+                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/News" target="">
                  News
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-3" aria-expanded="false" aria-haspopup="true" aria-label="Expand News" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-3" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -496,10 +500,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Legal-Notices" target="">
+                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Legal-Notices" target="">
                  Legal Notices
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-4" aria-expanded="false" aria-haspopup="true" aria-label="Expand Legal Notices" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-4" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -522,10 +526,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Poll-Workers" target="">
+                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Poll-Workers" target="">
                  Poll Workers
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-5" aria-expanded="false" aria-haspopup="true" aria-label="Expand Poll Workers" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-5" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -538,10 +542,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Programs-and-Events" target="">
+                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Programs-and-Events" target="">
                  Programs and Events
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-6" aria-expanded="false" aria-haspopup="true" aria-label="Expand Programs and Events" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-6" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -579,10 +583,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Research-Data" target="">
+                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Research-Data" target="">
                  Research &amp; Data
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-7" aria-expanded="false" aria-haspopup="true" aria-label="Expand Research &amp; Data" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-7" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -615,10 +619,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Voter-RANDOM" target="">
+                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Voter-RANDOM" target="">
                  Voter Education
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-8" aria-expanded="false" aria-haspopup="true" aria-label="Expand Voter Education" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-8" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -678,22 +682,17 @@
               </ul>
              </li>
             </ul>
-            <div class="visuallyhidden list_help" id="horizontal-menu-description">
-             <p>
-              Select the Escape key to close the menu. Focus will then be set to the first menu item.
-             </p>
-            </div>
            </div>
           </div>
          </div>
         </div>
-        <div aria-label="Sitewide search" class="header-search-control-container" id="header-search" role="search">
+        <div class="header-search-control-container" id="header-search">
          <div class="search-inner-container">
           <div class="sc-search-panel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl08_btnSearch')">
            <label class="sc-search-label" for="ctl08_txtSearch" id="ctl08_lblSearch">
             Search
            </label>
-           <input autocomplete="off" class="sc-search-text" id="ctl08_txtSearch" name="ctl08$txtSearch" placeholder="What are you looking for?" type="text"/>
+           <input class="sc-search-text" id="ctl08_txtSearch" name="ctl08$txtSearch" placeholder="What are you looking for?" type="text"/>
            <input class="sc-search-button" id="ctl08_btnSearch" name="ctl08$btnSearch" type="submit" value="Search"/>
           </div>
           <div id="predictiveResults" role="status">
@@ -746,15 +745,15 @@
               <p>
               </p>
               <div class="grid">
-               <div aria-label="Results of Search" class="col-xs-12 col-lg-8" id="uid_1793978998779_4200" role="region">
-                <div aria-atomic="true" aria-live="polite" class="listing-results" role="status">
+               <div class="col-xs-12 col-lg-8">
+                <div class="listing-results">
                  83 Result(s) Found
                 </div>
-                <div class="accordion-list-container document-library-list-container left" role="list">
-                 <div class="accordion-list-item-container" role="listitem">
+                <div class="accordion-list-container document-library-list-container left">
+                 <div class="accordion-list-item-container">
                   <article>
                    <div class="accordion-item-header">
-                    <a aria-controls="docLibBody0" aria-expanded="false" class="accordion-trigger contains-heading accordion-closed" data-accordion-all-device="true" data-accordion-body="#docLibBody0" data-open="false" role="button" tabindex="0">
+                    <a class="accordion-trigger contains-heading" data-accordion-all-device="true" data-accordion-body="#docLibBody0" data-open="false" href="#">
                      <h2 class="item-text">
                       2026 Primary Election Results
                      </h2>
@@ -762,7 +761,7 @@
                      </i>
                     </a>
                    </div>
-                   <div class="accordion-item-body rs_skip" id="docLibBody0">
+                   <div class="accordion-item-body" id="docLibBody0">
                     <p>
                      <strong>
                       Election Day: August 18, 2026
@@ -800,10 +799,10 @@
                    </div>
                   </article>
                  </div>
-                 <div class="accordion-list-item-container" role="listitem">
+                 <div class="accordion-list-item-container">
                   <article>
                    <div class="accordion-item-header">
-                    <a aria-controls="docLibBody1" aria-expanded="false" class="accordion-trigger contains-heading accordion-closed" data-accordion-all-device="true" data-accordion-body="#docLibBody1" data-open="false" role="button" tabindex="0">
+                    <a class="accordion-trigger contains-heading" data-accordion-all-device="true" data-accordion-body="#docLibBody1" data-open="false" href="#">
                      <h2 class="item-text">
                       2026 City of Flagler Beach Election Results
                      </h2>
@@ -811,7 +810,7 @@
                      </i>
                     </a>
                    </div>
-                   <div class="accordion-item-body rs_skip" id="docLibBody1">
+                   <div class="accordion-item-body" id="docLibBody1">
                     <p>
                      <strong>
                       Election Day: March 3, 2026
@@ -839,10 +838,10 @@
                    </div>
                   </article>
                  </div>
-                 <div class="accordion-list-item-container" role="listitem">
+                 <div class="accordion-list-item-container">
                   <article>
                    <div class="accordion-item-header">
-                    <a aria-controls="docLibBody2" aria-expanded="false" class="accordion-trigger contains-heading accordion-closed" data-accordion-all-device="true" data-accordion-body="#docLibBody2" data-open="false" role="button" tabindex="0">
+                    <a class="accordion-trigger contains-heading" data-accordion-all-device="true" data-accordion-body="#docLibBody2" data-open="false" href="#">
                      <h2 class="item-text">
                       2025 City Election Results
                      </h2>
@@ -850,7 +849,7 @@
                      </i>
                     </a>
                    </div>
-                   <div class="accordion-item-body rs_skip" id="docLibBody2">
+                   <div class="accordion-item-body" id="docLibBody2">
                     <p>
                      <strong>
                       Election Day: March 4, 2025
@@ -859,7 +858,7 @@
                     <div class="related-information-section">
                      <ul class="related-information-list">
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/2025_bu_official_summary.pdf" target="_blank" title="City of Bunnell - Official Election Summary Results Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/2025_bu_official_summary.pdf" target="_blank" title="City of Bunnell - Official Election Summary Results Report">
                         <i aria-hidden="true">
                         </i>
                         City of Bunnell - Official Election Summary Results Report
@@ -869,7 +868,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/2025_fb_official_summary.pdf" target="_blank" title="City of Flagler Beach - Official Election Summary Results Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/2025_fb_official_summary.pdf" target="_blank" title="City of Flagler Beach - Official Election Summary Results Report">
                         <i aria-hidden="true">
                         </i>
                         City of Flagler Beach - Official Election Summary Results Report
@@ -879,7 +878,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="opens-in-new-tab" href="https://enr.electionsfl.org/FLA/3796/Summary/" target="_blank" title="Interactive Results for 2025 City of Bunnell and Flagler Beach Election Results">
+                       <a href="https://enr.electionsfl.org/FLA/3796/Summary/" target="_blank" title="Interactive Results for 2025 City of Bunnell and Flagler Beach Election Results">
                         Interactive Results for 2025 City of Bunnell and Flagler Beach Election Results
                        </a>
                       </li>
@@ -888,10 +887,10 @@
                    </div>
                   </article>
                  </div>
-                 <div class="accordion-list-item-container" role="listitem">
+                 <div class="accordion-list-item-container">
                   <article>
                    <div class="accordion-item-header">
-                    <a aria-controls="docLibBody3" aria-expanded="false" class="accordion-trigger contains-heading accordion-closed" data-accordion-all-device="true" data-accordion-body="#docLibBody3" data-open="false" role="button" tabindex="0">
+                    <a class="accordion-trigger contains-heading" data-accordion-all-device="true" data-accordion-body="#docLibBody3" data-open="false" href="#">
                      <h2 class="item-text">
                       2025 Special Primary Results
                      </h2>
@@ -899,7 +898,7 @@
                      </i>
                     </a>
                    </div>
-                   <div class="accordion-item-body rs_skip" id="docLibBody3">
+                   <div class="accordion-item-body" id="docLibBody3">
                     <p>
                      <strong>
                       Election Day: January 28, 2025
@@ -908,7 +907,7 @@
                     <div class="related-information-section">
                      <ul class="related-information-list">
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/2025-pri-summary.pdf" target="_blank" title="Florida Congressional District 6 Official Election Summary Results Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/2025-pri-summary.pdf" target="_blank" title="Florida Congressional District 6 Official Election Summary Results Report">
                         <i aria-hidden="true">
                         </i>
                         Florida Congressional District 6 Official Election Summary Results Report
@@ -918,7 +917,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/2025-pri-precinct.pdf" target="_blank" title="Florida Congressional District 6 Official Results By Precinct Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/2025-pri-precinct.pdf" target="_blank" title="Florida Congressional District 6 Official Results By Precinct Report">
                         <i aria-hidden="true">
                         </i>
                         Florida Congressional District 6 Official Results By Precinct Report
@@ -928,7 +927,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="opens-in-new-tab" href="https://enr.electionsfl.org/FLA/3779/Summary/" target="_blank" title="Florida Congressional District 6 Interactive Results">
+                       <a href="https://enr.electionsfl.org/FLA/3779/Summary/" target="_blank" title="Florida Congressional District 6 Interactive Results">
                         Florida Congressional District 6 Interactive Results
                        </a>
                       </li>
@@ -937,10 +936,10 @@
                    </div>
                   </article>
                  </div>
-                 <div class="accordion-list-item-container" role="listitem">
+                 <div class="accordion-list-item-container">
                   <article>
                    <div class="accordion-item-header">
-                    <a aria-controls="docLibBody4" aria-expanded="false" class="accordion-trigger contains-heading accordion-closed" data-accordion-all-device="true" data-accordion-body="#docLibBody4" data-open="false" role="button" tabindex="0">
+                    <a class="accordion-trigger contains-heading" data-accordion-all-device="true" data-accordion-body="#docLibBody4" data-open="false" href="#">
                      <h2 class="item-text">
                       2025 Special General Election Results
                      </h2>
@@ -948,7 +947,7 @@
                      </i>
                     </a>
                    </div>
-                   <div class="accordion-item-body rs_skip" id="docLibBody4">
+                   <div class="accordion-item-body" id="docLibBody4">
                     <p>
                      <strong>
                       Election Day: April 1, 2025
@@ -957,7 +956,7 @@
                     <div class="related-information-section">
                      <ul class="related-information-list">
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/election-results/2025/2025-gen-summary.pdf" target="_blank" title="Florida Congressional District 6 Official Summary Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/election-results/2025/2025-gen-summary.pdf" target="_blank" title="Florida Congressional District 6 Official Summary Report">
                         <i aria-hidden="true">
                         </i>
                         Florida Congressional District 6 Official Summary Report
@@ -967,7 +966,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/election-results/2025/2025-gen-precinct.pdf" target="_blank" title="Florida Congressional District 6 Official Results By Precinct Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/election-results/2025/2025-gen-precinct.pdf" target="_blank" title="Florida Congressional District 6 Official Results By Precinct Report">
                         <i aria-hidden="true">
                         </i>
                         Florida Congressional District 6 Official Results By Precinct Report
@@ -977,7 +976,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="opens-in-new-tab" href="https://enr.electionsfl.org/FLA/3809/Summary/" target="_blank" title="Florida Congressional District 6 Interactive Results">
+                       <a href="https://enr.electionsfl.org/FLA/3809/Summary/" target="_blank" title="Florida Congressional District 6 Interactive Results">
                         Florida Congressional District 6 Interactive Results
                        </a>
                       </li>
@@ -986,10 +985,10 @@
                    </div>
                   </article>
                  </div>
-                 <div class="accordion-list-item-container" role="listitem">
+                 <div class="accordion-list-item-container">
                   <article>
                    <div class="accordion-item-header">
-                    <a aria-controls="docLibBody5" aria-expanded="false" class="accordion-trigger contains-heading accordion-closed" data-accordion-all-device="true" data-accordion-body="#docLibBody5" data-open="false" role="button" tabindex="0">
+                    <a class="accordion-trigger contains-heading" data-accordion-all-device="true" data-accordion-body="#docLibBody5" data-open="false" href="#">
                      <h2 class="item-text">
                       2024 Primary Election Results
                      </h2>
@@ -997,7 +996,7 @@
                      </i>
                     </a>
                    </div>
-                   <div class="accordion-item-body rs_skip" id="docLibBody5">
+                   <div class="accordion-item-body" id="docLibBody5">
                     <p>
                      <strong>
                       Election Day: August 20, 2024
@@ -1006,7 +1005,7 @@
                     <div class="related-information-section">
                      <ul class="related-information-list">
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/2024-pri-official-summary.pdf" target="_blank" title="2024 Primary Election and City of Palm Coast Official Election Summary Results Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/2024-pri-official-summary.pdf" target="_blank" title="2024 Primary Election and City of Palm Coast Official Election Summary Results Report">
                         <i aria-hidden="true">
                         </i>
                         2024 Primary Election and City of Palm Coast Official Election Summary Results Report
@@ -1016,7 +1015,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/2024-pri-official-pct.pdf" target="_blank" title="2024 Primary Election and City of Palm Coast Official Results By Precinct Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/2024-pri-official-pct.pdf" target="_blank" title="2024 Primary Election and City of Palm Coast Official Results By Precinct Report">
                         <i aria-hidden="true">
                         </i>
                         2024 Primary Election and City of Palm Coast Official Results By Precinct Report
@@ -1026,7 +1025,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="opens-in-new-tab" href="https://enr.electionsfl.org/FLA/3622/Summary/" target="_blank" title="2024 Primary Election and City of Palm Coast Interactive Results">
+                       <a href="https://enr.electionsfl.org/FLA/3622/Summary/" target="_blank" title="2024 Primary Election and City of Palm Coast Interactive Results">
                         2024 Primary Election and City of Palm Coast Interactive Results
                        </a>
                       </li>
@@ -1035,10 +1034,10 @@
                    </div>
                   </article>
                  </div>
-                 <div class="accordion-list-item-container" role="listitem">
+                 <div class="accordion-list-item-container">
                   <article>
                    <div class="accordion-item-header">
-                    <a aria-controls="docLibBody6" aria-expanded="false" class="accordion-trigger contains-heading accordion-closed" data-accordion-all-device="true" data-accordion-body="#docLibBody6" data-open="false" role="button" tabindex="0">
+                    <a class="accordion-trigger contains-heading" data-accordion-all-device="true" data-accordion-body="#docLibBody6" data-open="false" href="#">
                      <h2 class="item-text">
                       2024 Presidential Primary and Flagler Beach Results
                      </h2>
@@ -1046,7 +1045,7 @@
                      </i>
                     </a>
                    </div>
-                   <div class="accordion-item-body rs_skip" id="docLibBody6">
+                   <div class="accordion-item-body" id="docLibBody6">
                     <p>
                      <strong>
                       Election Day: March 19, 2024
@@ -1055,7 +1054,7 @@
                     <div class="related-information-section">
                      <ul class="related-information-list">
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/2024pppfb_official_summary_results.pdf" target="_blank" title="2024 PPP and City of Flagler Beach Official Election Summary Results Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/2024pppfb_official_summary_results.pdf" target="_blank" title="2024 PPP and City of Flagler Beach Official Election Summary Results Report">
                         <i aria-hidden="true">
                         </i>
                         2024 PPP and City of Flagler Beach Official Election Summary Results Report
@@ -1065,7 +1064,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/2024pppfb_official_pct_results.pdf" target="_blank" title="2024 PPP and City of Flagler Beach Official Results By Precinct Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/2024pppfb_official_pct_results.pdf" target="_blank" title="2024 PPP and City of Flagler Beach Official Results By Precinct Report">
                         <i aria-hidden="true">
                         </i>
                         2024 PPP and City of Flagler Beach Official Results By Precinct Report
@@ -1075,7 +1074,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="opens-in-new-tab" href="https://enr.electionsfl.org/FLA/3528/Summary/" target="_blank" title="2024 PPP and City of Flagler Beach Interactive Results">
+                       <a href="https://enr.electionsfl.org/FLA/3528/Summary/" target="_blank" title="2024 PPP and City of Flagler Beach Interactive Results">
                         2024 PPP and City of Flagler Beach Interactive Results
                        </a>
                       </li>
@@ -1084,10 +1083,10 @@
                    </div>
                   </article>
                  </div>
-                 <div class="accordion-list-item-container" role="listitem">
+                 <div class="accordion-list-item-container">
                   <article>
                    <div class="accordion-item-header">
-                    <a aria-controls="docLibBody7" aria-expanded="false" class="accordion-trigger contains-heading accordion-closed" data-accordion-all-device="true" data-accordion-body="#docLibBody7" data-open="false" role="button" tabindex="0">
+                    <a class="accordion-trigger contains-heading" data-accordion-all-device="true" data-accordion-body="#docLibBody7" data-open="false" href="#">
                      <h2 class="item-text">
                       2024 General Election Results
                      </h2>
@@ -1095,7 +1094,7 @@
                      </i>
                     </a>
                    </div>
-                   <div class="accordion-item-body rs_skip" id="docLibBody7">
+                   <div class="accordion-item-body" id="docLibBody7">
                     <p>
                      <strong>
                       Election Day: November 5, 2024
@@ -1104,7 +1103,7 @@
                     <div class="related-information-section">
                      <ul class="related-information-list">
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/2024-gen-official-summary.pdf" target="_blank" title="2024 General Election and City of Palm Coast Official Election Summary Results Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/2024-gen-official-summary.pdf" target="_blank" title="2024 General Election and City of Palm Coast Official Election Summary Results Report">
                         <i aria-hidden="true">
                         </i>
                         2024 General Election and City of Palm Coast Official Election Summary Results Report
@@ -1114,7 +1113,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/2024-gen-official-pct.pdf" target="_blank" title="2024 General Election and City of Palm Coast Official Results By Precinct Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/2024-gen-official-pct.pdf" target="_blank" title="2024 General Election and City of Palm Coast Official Results By Precinct Report">
                         <i aria-hidden="true">
                         </i>
                         2024 General Election and City of Palm Coast Official Results By Precinct Report
@@ -1124,7 +1123,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="opens-in-new-tab" href="https://enr.electionsfl.org/FLA/3750/Summary/" target="_blank" title="2024 General Election and City of Palm Coast Interactive Results">
+                       <a href="https://enr.electionsfl.org/FLA/3750/Summary/" target="_blank" title="2024 General Election and City of Palm Coast Interactive Results">
                         2024 General Election and City of Palm Coast Interactive Results
                        </a>
                       </li>
@@ -1133,10 +1132,10 @@
                    </div>
                   </article>
                  </div>
-                 <div class="accordion-list-item-container" role="listitem">
+                 <div class="accordion-list-item-container">
                   <article>
                    <div class="accordion-item-header">
-                    <a aria-controls="docLibBody8" aria-expanded="false" class="accordion-trigger contains-heading accordion-closed" data-accordion-all-device="true" data-accordion-body="#docLibBody8" data-open="false" role="button" tabindex="0">
+                    <a class="accordion-trigger contains-heading" data-accordion-all-device="true" data-accordion-body="#docLibBody8" data-open="false" href="#">
                      <h2 class="item-text">
                       2023 City Election Results
                      </h2>
@@ -1144,7 +1143,7 @@
                      </i>
                     </a>
                    </div>
-                   <div class="accordion-item-body rs_skip" id="docLibBody8">
+                   <div class="accordion-item-body" id="docLibBody8">
                     <p>
                      <strong>
                       Election Day: March 7, 2023
@@ -1153,7 +1152,7 @@
                     <div class="related-information-section">
                      <ul class="related-information-list">
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/2023-fb-official-summary.pdf" target="_blank" title="2023 City of Flagler Beach - Official Election Summary Results Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/2023-fb-official-summary.pdf" target="_blank" title="2023 City of Flagler Beach - Official Election Summary Results Report">
                         <i aria-hidden="true">
                         </i>
                         2023 City of Flagler Beach - Official Election Summary Results Report
@@ -1163,7 +1162,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/2023-bb-official-summary.pdf" target="_blank" title="2023 Town of Beverly Beach - Official Election Summary Results Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/2023-bb-official-summary.pdf" target="_blank" title="2023 Town of Beverly Beach - Official Election Summary Results Report">
                         <i aria-hidden="true">
                         </i>
                         2023 Town of Beverly Beach - Official Election Summary Results Report
@@ -1173,7 +1172,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="opens-in-new-tab" href="https://enr.electionsfl.org/FLA/3357/Summary/" target="_blank" title="2023 City of Flagler Beach and Town of Beverly Beach Interactive Results">
+                       <a href="https://enr.electionsfl.org/FLA/3357/Summary/" target="_blank" title="2023 City of Flagler Beach and Town of Beverly Beach Interactive Results">
                         2023 City of Flagler Beach and Town of Beverly Beach Interactive Results
                        </a>
                       </li>
@@ -1182,10 +1181,10 @@
                    </div>
                   </article>
                  </div>
-                 <div class="accordion-list-item-container" role="listitem">
+                 <div class="accordion-list-item-container">
                   <article>
                    <div class="accordion-item-header">
-                    <a aria-controls="docLibBody9" aria-expanded="false" class="accordion-trigger contains-heading accordion-closed" data-accordion-all-device="true" data-accordion-body="#docLibBody9" data-open="false" role="button" tabindex="0">
+                    <a class="accordion-trigger contains-heading" data-accordion-all-device="true" data-accordion-body="#docLibBody9" data-open="false" href="#">
                      <h2 class="item-text">
                       2022 General Election Results
                      </h2>
@@ -1193,7 +1192,7 @@
                      </i>
                     </a>
                    </div>
-                   <div class="accordion-item-body rs_skip" id="docLibBody9">
+                   <div class="accordion-item-body" id="docLibBody9">
                     <p>
                      <strong>
                       Election Day: November 8, 2022
@@ -1202,7 +1201,7 @@
                     <div class="related-information-section">
                      <ul class="related-information-list">
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/2022-gen-official-summary.pdf" target="_blank" title="2022 General Election Official Election Summary Results Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/2022-gen-official-summary.pdf" target="_blank" title="2022 General Election Official Election Summary Results Report">
                         <i aria-hidden="true">
                         </i>
                         2022 General Election Official Election Summary Results Report
@@ -1212,7 +1211,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="document ext-pdf opens-in-new-tab" href="/files/assets/elections/v/1/documents/precinct-level-results.pdf" target="_blank" title="2022 General Election Official Precinct-Level Results Report">
+                       <a class="document ext-pdf" href="/files/assets/elections/v/1/documents/precinct-level-results.pdf" target="_blank" title="2022 General Election Official Precinct-Level Results Report">
                         <i aria-hidden="true">
                         </i>
                         2022 General Election Official Precinct-Level Results Report
@@ -1222,7 +1221,7 @@
                        </a>
                       </li>
                       <li>
-                       <a aria-describedby="new-window-0" class="opens-in-new-tab" href="http://enr.electionsfl.org/FLA/3314/Summary/" target="_blank" title="2022 General Election Interactive Results">
+                       <a href="http://enr.electionsfl.org/FLA/3314/Summary/" target="_blank" title="2022 General Election Interactive Results">
                         2022 General Election Interactive Results
                        </a>
                       </li>
@@ -1237,7 +1236,7 @@
                   <span class="button-previous">
                    <input class="btn_scPagingNonJS_disabled" disabled="disabled" name="ctl11$ctl00$ctl05" title="Previous page" type="submit" value="Previous"/>
                   </span>
-                  <div class="seamless-pagination-data">
+                  <div aria-label="Pagination" class="seamless-pagination-data" role="navigation">
                    Page
                    <select class="scSearchInputBox" name="ctl11$ctl00$ctl07" title="Please select the page here.">
                     <option selected="selected" value="1">
@@ -1274,59 +1273,20 @@
                    <input class="btn_scPagingNonJS_enabled" name="ctl11$ctl00$ctl09" title="Next page" type="submit" value="Next"/>
                   </span>
                  </div>
-                 <div aria-label="Pagination" class="seamless-pagination-pages light-theme simple-pagination" role="navigation">
-                  <ul>
-                   <li class="disabled">
-                    <span aria-disabled="true" aria-label="Previous page" class="current prev">
-                     Previous
-                    </span>
-                   </li>
-                   <li class="active">
-                    <a aria-current="page" aria-label="Page 1" class="page-link current" href="#">
-                     1
-                    </a>
-                   </li>
-                   <li>
-                    <a aria-label="page 2" class="page-link" href="#page-2">
-                     2
-                    </a>
-                   </li>
-                   <li>
-                    <a aria-label="page 3" class="page-link" href="#page-3">
-                     3
-                    </a>
-                   </li>
-                   <li class="pagination-ellipse-item" data-max-page="8" data-min-page="4">
-                    <button aria-label="Choose page number between 4 and 8" class="pagination-ellipsis" type="button">
-                     <span aria-hidden="true" class="ellipse clickable">
-                      …
-                     </span>
-                    </button>
-                   </li>
-                   <li>
-                    <a aria-label="page 9" class="page-link" href="#page-9">
-                     9
-                    </a>
-                   </li>
-                   <li>
-                    <a aria-label="Next page" class="page-link next" href="#page-2">
-                     Next
-                    </a>
-                   </li>
-                  </ul>
+                 <div aria-label="Pagination" class="seamless-pagination-pages" role="navigation">
                  </div>
                 </div>
-                <div aria-atomic="true" aria-live="polite" class="seamless-pagination-info right" role="status">
+                <div class="seamless-pagination-info right" role="status">
                  Page 1 of 9
                 </div>
                </div>
                <div class="col-xs-12 col-lg-4">
-                <div aria-controls="uid_1793978998779_4200" aria-label="Search" class="search-filter" role="search">
-                 <div class="search-filter-header" id="uid_1793978998877_4200">
+                <div class="search-filter">
+                 <div class="search-filter-header">
                   <h2 class="filter-title">
                    Search
                   </h2>
-                  <span aria-controls="docLibraryListBody" aria-expanded="true" aria-labelledby="uid_1793978998877_4200" class="accordion-trigger search-filter-trigger accordion-opened" data-accordion-all-device="false" data-accordion-body="#docLibraryListBody" data-open="false" role="button" tabindex="0">
+                  <span class="accordion-trigger search-filter-trigger" data-accordion-all-device="false" data-accordion-body="#docLibraryListBody" data-open="false">
                    <i aria-hidden="true">
                    </i>
                   </span>
@@ -1343,8 +1303,6 @@
                 </div>
                </div>
               </div>
-              <p>
-              </p>
               <p>
                View historical election results from
                <a href="https://www.flaglerelections.gov/Get-RANDOM/Research-Data/Historical-RANDOM-Results">
@@ -1394,7 +1352,7 @@
             <br/>
             Bunnell, FL 32110
             <br/>
-            <a aria-describedby="new-window-0" class="opens-in-new-tab" href="https://maps.app.goo.gl/qDDPYdxb9tD4hqzE8" target="_blank">
+            <a href="https://maps.app.goo.gl/qDDPYdxb9tD4hqzE8" target="_blank">
              View on Map
             </a>
            </span>
@@ -1536,7 +1494,6 @@
                  </strong>
                 </div>
                 <div class="dateValue">
-                 11/6/26
                 </div>
                </div>
               </td>
@@ -1548,7 +1505,6 @@
                  Democrat:
                 </div>
                 <div class="demValue">
-                 23,959
                 </div>
                </div>
               </td>
@@ -1560,7 +1516,6 @@
                  Republican:
                 </div>
                 <div class="repValue">
-                 52,197
                 </div>
                </div>
               </td>
@@ -1572,7 +1527,6 @@
                  NPA:
                 </div>
                 <div class="npaValue">
-                 20,874
                 </div>
                </div>
               </td>
@@ -1584,7 +1538,6 @@
                  Other:
                 </div>
                 <div class="othValue">
-                 4,521
                 </div>
                </div>
               </td>
@@ -1596,7 +1549,6 @@
                  Total:
                 </div>
                 <div class="totValue">
-                 101,551
                 </div>
                </div>
               </td>
@@ -1640,13 +1592,17 @@
          </div>
          <div class="col-xs-12 col-m-5 powered-by">
           <div class="right">
-           © 2026 Flagler County Elections Office
+           © 2026 Flagler County Elections Office |
+           <span class="powered-by">
+            Powered by
+            <a href="https://granicus.com/solution/govaccess/opencities/" target="_blank">
+             Granicus
+            </a>
+           </span>
           </div>
          </div>
         </div>
        </div>
-      </div>
-      <div class="visuallyhidden" id="oc-aria-status" role="status">
       </div>
      </footer>
     </div>

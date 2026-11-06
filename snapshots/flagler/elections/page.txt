@@ -1,7 +1,6 @@
 Upcoming Elections in Flagler County | Flagler County Elections Office
 Skip to main content
 opens in new tab or window
-Quick Links:
 Quick Links
 Facebook
 X
@@ -12,8 +11,9 @@ English
 Select this as your preferred language
 Spanish
 Select this as your preferred language
+Select a language to translate to
 English
-is your current preferred language.
+Select this as your preferred language
 Spanish
 Select this as your preferred language
 Open
@@ -102,7 +102,6 @@ Myth Versus Fact
 Outreach Events Calendar
 Outreach Request Form
 Contact Us
-Select the Escape key to close the menu. Focus will then be set to the first menu item.
 Search
 Home
 /
@@ -220,17 +219,11 @@ TTY:
 Email form:
 Contact Us
 Flagler County Active Voter Registration Totals
-11/6/26
 Democrat:
-23,959
 Republican:
-52,197
 NPA:
-20,874
 Other:
-4,521
 Total:
-101,551
 Accessibility
 |
 Privacy Policy
@@ -240,4 +233,6 @@ Sitemap
 Website Feedback
 |
 Contact Us
-© 2026 Flagler County Elections Office
+© 2026 Flagler County Elections Office |
+Powered by
+Granicus

@@ -146,15 +146,15 @@ Early Voting
 Voting Locations
 Military & Overseas
 active registered voters
-(11/05/2026)
+(11/06/2026)
 Democrats
-25,077
+25,084
 Republicans
-87,150
+87,151
 Other
-37,338
+37,349
 Total
-149,565
+149,584
 Upcoming Elections
 There are currently no upcoming elections.
 Línea directa de soporte en español
