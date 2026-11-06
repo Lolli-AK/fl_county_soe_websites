@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html class="t-chrome t-chrome125 no-applicationcache audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a canvas canvastext geolocation hashchange history inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color postmessage postmessage-structuredclones svg video no-video-ogg video-h264 no-video-h265 video-webm video-vp9 video-hls no-video-av1 webgl websockets cssanimations backgroundsize borderimage borderradius boxshadow csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox flexboxlegacy fontface generatedcontent cssgradients hsla multiplebgs opacity cssreflections rgba textshadow csstransforms supports csstransforms3d csstransitions localstorage sessionstorage no-websqldatabase svgclippaths inlinesvg smil webworkers tablesaw-enhanced no-os-high-contrast breakpoint-sc-size-1 indexeddb" lang="en-US">
  <head>
   <meta charset="utf-8"/>
   <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
@@ -37,8 +37,6 @@
    <div>
     <input id="ctl04_seamless_script_manager_TSM" name="ctl04_seamless_script_manager_TSM" type="hidden"/>
    </div>
-   <div class="unsupported-browser-warning js-element">
-   </div>
    <div hidden="">
     <span id="new-window-0">
      opens in new tab or window
@@ -51,7 +49,10 @@
      <header>
       <div class="toolbar-outer-container">
        <div class="toolbar-inner-container clearfix">
-        <div class="toolbar-item toolbar-quicklinks toolbar-display-dropdown">
+        <div class="toolbar-item toolbar-quicklinks loaded toolbar-item-list toolbar-display-links">
+         <div class="toolbar-item-list-heading visuallyhidden">
+          Quick Links:
+         </div>
          <button aria-controls="toolbar-quicklinks-drop-down" aria-expanded="false" class="toolbar-button toolbar-button-quicklinks js-element" type="button">
           <span>
            Quick Links
@@ -59,31 +60,31 @@
           <i aria-hidden="true">
           </i>
          </button>
-         <div class="toolbar-drop-down toolbar-quicklinks-drop-down clearfix" id="toolbar-quicklinks-drop-down">
+         <div class="toolbar-quicklinks-drop-down clearfix toolbar-link-list" id="toolbar-quicklinks-drop-down">
           <ul>
            <li>
-            <a class="oc-icon-b oc-i-facebook link-type-external link-hide-text" href="https://www.facebook.com/FlaglerElections" target="_blank">
+            <a aria-describedby="new-window-0" class="oc-icon-b oc-i-facebook link-type-external link-hide-text opens-in-new-tab" href="https://www.facebook.com/FlaglerElections" target="_blank">
              <span>
               Facebook
              </span>
             </a>
            </li>
            <li>
-            <a class="oc-icon-b oc-i-x link-type-external link-hide-text" href="https://x.com/flaglersoe" target="_blank">
+            <a aria-describedby="new-window-0" class="oc-icon-b oc-i-x link-type-external link-hide-text opens-in-new-tab" href="https://x.com/flaglersoe" target="_blank">
              <span>
               X
              </span>
             </a>
            </li>
            <li>
-            <a class="oc-icon-b oc-i-nextdoor link-type-external link-hide-text" href="https://nextdoor.com/agency-detail/fl/bunnell/flagler-county-supervisor-of-elections/" target="_blank">
+            <a aria-describedby="new-window-0" class="oc-icon-b oc-i-nextdoor link-type-external link-hide-text opens-in-new-tab" href="https://nextdoor.com/agency-detail/fl/bunnell/flagler-county-supervisor-of-elections/" target="_blank">
              <span>
               NextDoor
              </span>
             </a>
            </li>
            <li>
-            <a class="oc-icon-b oc-i-instagram link-type-external link-hide-text" href="https://www.instagram.com/flaglerelections/" target="_blank">
+            <a aria-describedby="new-window-0" class="oc-icon-b oc-i-instagram link-type-external link-hide-text opens-in-new-tab" href="https://www.instagram.com/flaglerelections/" target="_blank">
              <span>
               Instagram
              </span>
@@ -124,21 +125,16 @@
           <span aria-hidden="true" class="toolbar-language-globe-icon">
           </span>
           <span class="current-language" id="toolbar-language-label">
-           Select a language to translate to
+           English
+          </span>
+          <span class="visuallyhidden">
+           is your current preferred language.
           </span>
           <i aria-hidden="true">
           </i>
          </button>
          <div aria-label="Available languages" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix" id="toolbar-language-drop-down" role="listbox">
           <ul role="group">
-           <li role="presentation">
-            <a aria-selected="true" class="lang-item lang-en-us" data-translate-to="en-us" href="https://www.flaglerelections.gov/Elections/Military-RANDOM-Voting?oc_lang=en-US" id="toolbar-language-option-en-us" lang="en-US" role="option">
-             English
-             <span class="visuallyhidden">
-              Select this as your preferred language
-             </span>
-            </a>
-           </li>
            <li role="presentation">
             <a aria-selected="false" class="lang-item lang-es" data-translate-to="es" href="https://www.flaglerelections.gov/Elections/Military-RANDOM-Voting?oc_lang=es" id="toolbar-language-option-es" lang="en" role="option">
              Spanish
@@ -159,7 +155,7 @@
          </a>
         </div>
         <div class="mobile-search-btn js-element">
-         <button>
+         <button aria-expanded="false" class="not-pressed">
           <i aria-hidden="true">
           </i>
           <span class="mobile-search-btn-text">
@@ -171,10 +167,10 @@
          </button>
         </div>
         <div class="header-website-settings">
-         <button aria-controls="nav" aria-expanded="false" id="btn-mob-nav" type="button">
+         <button aria-controls="nav" aria-expanded="false" aria-label="Open side Menu" class="not-pressed" id="btn-mob-nav" type="button">
           <i aria-hidden="true">
           </i>
-          <span class="side-menu-btn-text">
+          <span aria-hidden="true" class="side-menu-btn-text">
            Menu
           </span>
          </button>
@@ -183,7 +179,7 @@
          <div aria-label="primary" class="navigation-container navigation-container-option-7" data-menu-type="horizontal" id="nav" role="navigation">
           <div class="grid">
            <div class="col-xs-12">
-            <ul class="sf-menu" id="sc-main-menu">
+            <ul aria-describedby="horizontal-menu-description" class="sf-menu sf-js-enabled sf-arrows level-1 sf-desktop" id="sc-main-menu">
              <li class="nav-section-quarters-1 first-item nav-item-seq-1">
               <a class="nav-level-1" href="https://www.flaglerelections.gov/Register-to-Vote" target="">
                <i aria-hidden="true" class="item-icon">
@@ -194,10 +190,10 @@
               </a>
              </li>
              <li class="nav-section-quarters-1 nav-item-seq-2">
-              <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/My-Voter-Info" target="">
+              <a class="nav-level-1 nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/My-Voter-Info" target="">
                My Voter Info
               </a>
-              <button aria-controls="sc-menu-second-level-nav-item-seq-2" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-2" aria-expanded="false" aria-haspopup="true" aria-label="Expand My Voter Info" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
@@ -240,10 +236,10 @@
               </ul>
              </li>
              <li class="nav-section-quarters-2 nav-active-path nav-item-seq-3">
-              <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/Elections" target="">
+              <a class="nav-level-1 nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Elections" target="">
                Elections
               </a>
-              <button aria-controls="sc-menu-second-level-nav-item-seq-3" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-3" aria-expanded="false" aria-haspopup="true" aria-label="Expand Elections" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
@@ -269,10 +265,10 @@
                 </a>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Elections/How-to-Vote" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Elections/How-to-Vote" target="">
                  How to Vote
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-5" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-5" aria-expanded="false" aria-haspopup="true" aria-label="Expand How to Vote" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -310,7 +306,7 @@
                 </a>
                </li>
                <li class="nav-active-path nav-active-page">
-                <a class="" href="https://www.flaglerelections.gov/Elections/Military-RANDOM-Voting" target="">
+                <a aria-current="page" class="" href="https://www.flaglerelections.gov/Elections/Military-RANDOM-Voting" target="">
                  Military Overseas Voting
                 </a>
                </li>
@@ -337,10 +333,10 @@
               </ul>
              </li>
              <li class="nav-section-quarters-2 nav-item-seq-4">
-              <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/Candidates" target="">
+              <a class="nav-level-1 nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Candidates" target="">
                Candidates
               </a>
-              <button aria-controls="sc-menu-second-level-nav-item-seq-4" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-4" aria-expanded="false" aria-haspopup="true" aria-label="Expand Candidates" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
@@ -398,19 +394,19 @@
               </ul>
              </li>
              <li class="nav-section-quarters-3 nav-item-seq-5">
-              <a class="nav-level-1 nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM" target="">
+              <a class="nav-level-1 nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM" target="">
                Get Involved
               </a>
-              <button aria-controls="sc-menu-second-level-nav-item-seq-5" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow">
+              <button aria-controls="sc-menu-second-level-nav-item-seq-5" aria-expanded="false" aria-haspopup="true" aria-label="Expand Get Involved" class="mobnav-subarrow">
                <i aria-hidden="true">
                </i>
               </button>
               <ul id="sc-menu-second-level-nav-item-seq-5">
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/About-Us" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/About-Us" target="">
                  About Us
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-1" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-1" aria-expanded="false" aria-haspopup="true" aria-label="Expand About Us" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -443,10 +439,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Election-RANDOM" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Election-RANDOM" target="">
                  Election Security
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-2" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-2" aria-expanded="false" aria-haspopup="true" aria-label="Expand Election Security" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -479,10 +475,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/News" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/News" target="">
                  News
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-3" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-3" aria-expanded="false" aria-haspopup="true" aria-label="Expand News" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -500,10 +496,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Legal-Notices" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Legal-Notices" target="">
                  Legal Notices
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-4" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-4" aria-expanded="false" aria-haspopup="true" aria-label="Expand Legal Notices" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -526,10 +522,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Poll-Workers" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Poll-Workers" target="">
                  Poll Workers
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-5" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-5" aria-expanded="false" aria-haspopup="true" aria-label="Expand Poll Workers" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -542,10 +538,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Programs-and-Events" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Programs-and-Events" target="">
                  Programs and Events
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-6" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-6" aria-expanded="false" aria-haspopup="true" aria-label="Expand Programs and Events" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -583,10 +579,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Research-Data" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Research-Data" target="">
                  Research &amp; Data
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-7" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-7" aria-expanded="false" aria-haspopup="true" aria-label="Expand Research &amp; Data" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -619,10 +615,10 @@
                 </ul>
                </li>
                <li class="">
-                <a class="nav-has-children" href="https://www.flaglerelections.gov/Get-RANDOM/Voter-RANDOM" target="">
+                <a class="nav-has-children sf-with-ul" href="https://www.flaglerelections.gov/Get-RANDOM/Voter-RANDOM" target="">
                  Voter Education
                 </a>
-                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-8" aria-haspopup="true" aria-label="Expand" class="mobnav-subarrow-child">
+                <button aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-8" aria-expanded="false" aria-haspopup="true" aria-label="Expand Voter Education" class="mobnav-subarrow-child">
                  <i aria-hidden="true">
                  </i>
                 </button>
@@ -682,17 +678,22 @@
               </ul>
              </li>
             </ul>
+            <div class="visuallyhidden list_help" id="horizontal-menu-description">
+             <p>
+              Select the Escape key to close the menu. Focus will then be set to the first menu item.
+             </p>
+            </div>
            </div>
           </div>
          </div>
         </div>
-        <div class="header-search-control-container" id="header-search">
+        <div aria-label="Sitewide search" class="header-search-control-container" id="header-search" role="search">
          <div class="search-inner-container">
           <div class="sc-search-panel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl08_btnSearch')">
            <label class="sc-search-label" for="ctl08_txtSearch" id="ctl08_lblSearch">
             Search
            </label>
-           <input class="sc-search-text" id="ctl08_txtSearch" name="ctl08$txtSearch" placeholder="What are you looking for?" type="text"/>
+           <input autocomplete="off" class="sc-search-text" id="ctl08_txtSearch" name="ctl08$txtSearch" placeholder="What are you looking for?" type="text"/>
            <input class="sc-search-button" id="ctl08_btnSearch" name="ctl08$btnSearch" type="submit" value="Search"/>
           </div>
           <div id="predictiveResults" role="status">
@@ -828,7 +829,7 @@
                 Federal Post Card Application (FPCA)
                </a>
                , which may be obtained from a Voting Assistance Officer (VAO) or through the Federal Voting Assistance Program at
-               <a href="http://www.fvap.gov/election-materials" target="_blank">
+               <a aria-describedby="new-window-0" class="opens-in-new-tab" href="http://www.fvap.gov/election-materials" target="_blank">
                 www.fvap.gov
                </a>
                .
@@ -975,12 +976,10 @@
               </p>
               <p>
               </p>
-              <div class="image-gallery-container masonry-theme" data-theme="masonry">
+              <div class="image-gallery-container masonry-theme images-loaded" data-theme="masonry">
                <div class="grid">
                 <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
                  <a class="document ext-jpg" href="/files/assets/elections/v/1/images/vetwall-airforce.jpg" target="_self">
-                  <i aria-hidden="true">
-                  </i>
                   <figure>
                    <div class="image-container">
                     <img alt="Vet Wall" src="/files/assets/elections/v/1/images/vetwall-airforce.jpg?w=375"/>
@@ -989,17 +988,18 @@
                     <p class="caption">
                      United States Air Force
                     </p>
+                    <span class="file-info">
+                     (JPG, 206KB)
+                    </span>
+                    <span class="visuallyhidden">
+                     Open image in slideshow
+                    </span>
                    </figcaption>
                   </figure>
-                  <span class="file-info">
-                   (JPG, 206KB)
-                  </span>
                  </a>
                 </div>
                 <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
                  <a class="document ext-jpg" href="/files/assets/elections/v/1/images/vetwall-army.jpg" target="_self">
-                  <i aria-hidden="true">
-                  </i>
                   <figure>
                    <div class="image-container">
                     <img alt="Vet Wall" src="/files/assets/elections/v/1/images/vetwall-army.jpg?w=375"/>
@@ -1008,17 +1008,18 @@
                     <p class="caption">
                      United States Army
                     </p>
+                    <span class="file-info">
+                     (JPG, 239KB)
+                    </span>
+                    <span class="visuallyhidden">
+                     Open image in slideshow
+                    </span>
                    </figcaption>
                   </figure>
-                  <span class="file-info">
-                   (JPG, 239KB)
-                  </span>
                  </a>
                 </div>
                 <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
                  <a class="document ext-jpg" href="/files/assets/elections/v/1/images/vetwall-navy-usmc.jpg" target="_self">
-                  <i aria-hidden="true">
-                  </i>
                   <figure>
                    <div class="image-container">
                     <img alt="Vet Wall" src="/files/assets/elections/v/1/images/vetwall-navy-usmc.jpg?w=375"/>
@@ -1027,17 +1028,18 @@
                     <p class="caption">
                      United States Navy and United States Marine Corps
                     </p>
+                    <span class="file-info">
+                     (JPG, 263KB)
+                    </span>
+                    <span class="visuallyhidden">
+                     Open image in slideshow
+                    </span>
                    </figcaption>
                   </figure>
-                  <span class="file-info">
-                   (JPG, 263KB)
-                  </span>
                  </a>
                 </div>
                 <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
                  <a class="document ext-jpg" href="/files/assets/elections/v/1/images/vetwall-coastguard.jpg" target="_self">
-                  <i aria-hidden="true">
-                  </i>
                   <figure>
                    <div class="image-container">
                     <img alt="Vet Wall" src="/files/assets/elections/v/1/images/vetwall-coastguard.jpg?w=375"/>
@@ -1046,17 +1048,18 @@
                     <p class="caption">
                      United States Coast Guard
                     </p>
+                    <span class="file-info">
+                     (JPG, 284KB)
+                    </span>
+                    <span class="visuallyhidden">
+                     Open image in slideshow
+                    </span>
                    </figcaption>
                   </figure>
-                  <span class="file-info">
-                   (JPG, 284KB)
-                  </span>
                  </a>
                 </div>
                 <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
                  <a class="document ext-jpg" href="/files/assets/elections/v/1/images/vetwall-family-wall.jpg" target="_self">
-                  <i aria-hidden="true">
-                  </i>
                   <figure>
                    <div class="image-container">
                     <img alt="Vet Wall" src="/files/assets/elections/v/1/images/vetwall-family-wall.jpg?w=375"/>
@@ -1065,17 +1068,18 @@
                     <p class="caption">
                      United States Family Wall
                     </p>
+                    <span class="file-info">
+                     (JPG, 233KB)
+                    </span>
+                    <span class="visuallyhidden">
+                     Open image in slideshow
+                    </span>
                    </figcaption>
                   </figure>
-                  <span class="file-info">
-                   (JPG, 233KB)
-                  </span>
                  </a>
                 </div>
                 <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
                  <a class="document ext-png" href="/files/assets/elections/v/1/images/home-of-the-free.png" target="_self">
-                  <i aria-hidden="true">
-                  </i>
                   <figure>
                    <div class="image-container">
                     <img alt="Vet Wall decoration" src="/files/assets/elections/v/1/images/home-of-the-free.png?w=375"/>
@@ -1084,15 +1088,20 @@
                     <p class="caption">
                      Home of the Free because of the Brave
                     </p>
+                    <span class="file-info">
+                     (PNG, 989KB)
+                    </span>
+                    <span class="visuallyhidden">
+                     Open image in slideshow
+                    </span>
                    </figcaption>
                   </figure>
-                  <span class="file-info">
-                   (PNG, 989KB)
-                  </span>
                  </a>
                 </div>
                </div>
               </div>
+              <p>
+              </p>
              </div>
             </div>
            </div>
@@ -1136,7 +1145,7 @@
             <br/>
             Bunnell, FL 32110
             <br/>
-            <a href="https://maps.app.goo.gl/qDDPYdxb9tD4hqzE8" target="_blank">
+            <a aria-describedby="new-window-0" class="opens-in-new-tab" href="https://maps.app.goo.gl/qDDPYdxb9tD4hqzE8" target="_blank">
              View on Map
             </a>
            </span>
@@ -1278,6 +1287,7 @@
                  </strong>
                 </div>
                 <div class="dateValue">
+                 11/6/26
                 </div>
                </div>
               </td>
@@ -1289,6 +1299,7 @@
                  Democrat:
                 </div>
                 <div class="demValue">
+                 23,959
                 </div>
                </div>
               </td>
@@ -1300,6 +1311,7 @@
                  Republican:
                 </div>
                 <div class="repValue">
+                 52,197
                 </div>
                </div>
               </td>
@@ -1311,6 +1323,7 @@
                  NPA:
                 </div>
                 <div class="npaValue">
+                 20,874
                 </div>
                </div>
               </td>
@@ -1322,6 +1335,7 @@
                  Other:
                 </div>
                 <div class="othValue">
+                 4,521
                 </div>
                </div>
               </td>
@@ -1333,6 +1347,7 @@
                  Total:
                 </div>
                 <div class="totValue">
+                 101,551
                 </div>
                </div>
               </td>
@@ -1376,17 +1391,13 @@
          </div>
          <div class="col-xs-12 col-m-5 powered-by">
           <div class="right">
-           © 2026 Flagler County Elections Office |
-           <span class="powered-by">
-            Powered by
-            <a href="https://granicus.com/solution/govaccess/opencities/" target="_blank">
-             Granicus
-            </a>
-           </span>
+           © 2026 Flagler County Elections Office
           </div>
          </div>
         </div>
        </div>
+      </div>
+      <div class="visuallyhidden" id="oc-aria-status" role="status">
       </div>
      </footer>
     </div>
