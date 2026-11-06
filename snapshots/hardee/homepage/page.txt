@@ -98,7 +98,7 @@ Florida Political Parties
 Florida Civil Rights Restoration
 Scholarship Information
 [rotating image slideshow removed for determinism]
-Active Registered Voters as of 11/05/2026:
+Active Registered Voters as of 11/06/2026:
 Dem: 2,562
 Rep: 6,674
 Oth: 2,425
@@ -145,9 +145,13 @@ General Election
 9
 10
 11
+1
 12
 13
 14
+Closed in Observance of Veteran's Day
+11/11/2026 - 11/11/2026
+8:00 a.m. - 5:00 p.m.
 15
 16
 17
@@ -178,6 +182,9 @@ November
 2026
 November 3, 2026
 General Election
+November 11, 2026
+Closed in Observance of Veteran's Day
+8:00 a.m. - 5:00 p.m.
 November 26, 2026
 Office Closed for Thanksgiving
 8:00 a.m. - 5:00 p.m.
