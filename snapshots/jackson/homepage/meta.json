@@ -7,25 +7,23 @@
     "https://votejacksonfl.gov/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-06T10:28:56Z",
-  "html_sha256": "61dafd6d3c0565aa29964bc95531a4fac41dee5e498e648b78a1237c2cc74cbb",
-  "text_sha256": "dfacb19e8992251355e8b51580ad6c4c3c7db7f2f6707d6d65aae531ccf6b7b3",
-  "byte_size": 107461,
-  "title": "Jackson County (FL) Supervisor of Elections",
+  "fetched_at": "2026-11-06T15:28:05Z",
+  "html_sha256": "641a318156c4c0a2ebfa0319f3b13f4d57a1a1a02ffd07012f82c70e693fea8e",
+  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
+  "byte_size": 488,
+  "title": "One moment, please...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

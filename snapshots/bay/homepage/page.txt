@@ -166,15 +166,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(11/05/2026)
+(11/06/2026)
 Democrats
-24,488
+24,559
 Republicans
-76,008
+76,118
 Other
-29,522
+29,593
 Total
-130,018
+130,270
 Upcoming Elections
 All Upcoming Elections
 There are currently no upcoming
@@ -190,11 +190,11 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 14 hours ago
-📣📣Bay County Voters!!
-Today, November 5th, at 5:00 PM is the deadline to cure your Vote-by-Mail ballot or submit the required documentation for your provisional ballot from the November 3, 2026 General Election.
-If you received notification that your Vote-by-Mail ballot needs a signature cure, or you voted a provisional ballot and need to provide additional documentation, NOW is the time to act!
-Every vote matters, and we want to ensure every eligible vote is counted!
+posted 1 hour ago
+🎉🎉Thank you!!
+The 2026 General Election would not have been possible without our election workers, and we greatly appreciate their service within our community. Keep up the good work!!
+If you’re interested in becoming an election worker, please visit the link below:
+https://www.bayvotesfl.gov/about/election-workers/
 View Facebook Post
 (opens in a new tab)
 Public Notices
