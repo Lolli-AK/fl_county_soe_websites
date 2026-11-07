@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-07T14:29:42Z",
-  "html_sha256": "f5db3471b154fbbcdd3e2fc9ced08c806021e92c509e738c781cfb7e0950603b",
+  "fetched_at": "2026-11-07T17:32:12Z",
+  "html_sha256": "40a1f15680ef19ef43bf4aafca5d1f59c99c4a9da101dfd8ab3e112b596cc7a1",
   "text_sha256": "d4254e0370097fcd65151008b94af93c8818862becd66614b4779e7f3310c2be",
-  "byte_size": 37921,
+  "byte_size": 37977,
   "title": "Early Voting Locations",
   "noncitizen_voting": {
     "present": false,
