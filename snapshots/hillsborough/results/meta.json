@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votehillsborough.gov/183/Election-Results"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-07T17:32:12Z",
-  "html_sha256": "95021c47135c843e734b89288c86309e8ee20e0ec514b8f6335135690cb9b35d",
-  "text_sha256": "be0129f9e4e68a7c7382f841023f215f8fd307d91b0fb8ab4ed24bfff3d6d407",
-  "byte_size": 127342,
-  "title": "Election Results | Hillsborough County Elections, FL",
+  "fetched_at": "2026-11-07T21:31:43Z",
+  "html_sha256": "82967a1e6f577cc5f8aa76fc5f4acd519057255f2165bbd7aba61257f66d3050",
+  "text_sha256": "449591d64602a9812ed5520b06dc65b52f6e6bf996d233854609abeaa9a686c7",
+  "byte_size": 3225,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
