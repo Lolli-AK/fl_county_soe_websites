@@ -1,5 +1,4 @@
 Hillsborough County Elections, FL | Official Website
-This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to Main Content
 Voting
 Elections
@@ -30,19 +29,15 @@ News
 2026 General - Unofficial Election Night Results
 Hillsborough County Supervisor of Elections Craig Latimer posted unofficial Election Night results for the 2026 General at VoteHillsborough.gov this evening.
 Read on...
-about
 Hillsborough County General Election Update — Last Weekend of Early Voting
 Hillsborough County Supervisor of Elections Craig Latimer is reminding voters they can vote early this weekend. Here’s what they should know ...
 Read on...
-about
 Hillsborough County General Election Update
 Hillsborough County Supervisor of Elections Craig Latimer is reminding voters they can vote this weekend.
 Read on...
-about
 Early Voting Starts Monday in Hillsborough County
 In Hillsborough County, Early Voting for the 2026 General Election starts Monday, October 19 and will be available every day through November 1 from 7 a.m. to 7 p.m.
 Read on...
-about
 /CivicAlerts.aspx
 Check out our monthly newsletter (and subscribe!)
 English
@@ -58,7 +53,7 @@ Main Phone:
 813-744-5900
 Toll Free:
 888-297-4362
-voter@votehillsborough.gov
+[email protected]
 Fred B. Karl County Center
 601 E. Kennedy Blvd., 16th Floor, Tampa, FL 33602
 Tel:
@@ -96,4 +91,3 @@ Loading
 Do Not Show Again
 Close
 []
-Explore your accessibility options
