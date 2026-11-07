@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-06T19:14:18Z",
-  "html_sha256": "154727104e28748886ec9c6b8ab81c18823e9b956874d4ea7e82a5c5af18a654",
+  "fetched_at": "2026-11-07T00:45:13Z",
+  "html_sha256": "222ff07a45699ecd918127a268abf86cbe6257b53836a894f9c95d21b6c6ab90",
   "text_sha256": "eec326efad84f461f19296d1589f25fb1b19f54b67799af25008181c974828b0",
-  "byte_size": 59848,
+  "byte_size": 59872,
   "title": "Mail Ballot ‘Send’ Deadline For Domestic Voters: General Election | Madison County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
