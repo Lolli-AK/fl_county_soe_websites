@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.colliervotes.gov/308/Upcoming-Elections"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-08T12:53:51Z",
-  "html_sha256": "9d066e3a1d1d69f7fa760ebbee7abb5e9d5067619527025df2b863fa7986e1cf",
-  "text_sha256": "afb15fb117a72416d0c6b8f74319e12d18d2f4109c12472581eebbfcc03c2dd6",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-08T14:38:06Z",
+  "html_sha256": "5cf63faf1710123990ff3abef682a14bf552bdfd0a3c8d29edfa247c728dae91",
+  "text_sha256": "9e4763a3f678c8c94f155546361aedbf651c2862d2239a1d769dc7f5aca5e03e",
+  "byte_size": 71207,
+  "title": "Upcoming Elections | Collier County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
