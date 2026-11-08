@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votehillsborough.gov/171/Early-Voting"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-07T21:31:43Z",
-  "html_sha256": "028bf121deba05feecffb49ba121deef1ad16eb9ed358ba3adfafe27d0652fe4",
-  "text_sha256": "3c293fd58a2af176e3ca19f311ff582ad4f882e44cce6dfee8ee96a28b73afe6",
-  "byte_size": 3332,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-08T04:55:05Z",
+  "html_sha256": "f0123626f8d63614f0e1be051d29eb8af598c428008f0ca3e9de91eae309d91d",
+  "text_sha256": "67d04f99311cf088f06487a86368f67462b8a2a82f6250ea926a3efec641022b",
+  "byte_size": 50983,
+  "title": "Early Voting | Hillsborough County Elections, FL",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
