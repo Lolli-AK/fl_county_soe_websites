@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-08T04:55:05Z",
-  "html_sha256": "19feedea7455a0688db7effc680d5c5036d6bce45d9d5721049b3c0e87c7f31b",
+  "fetched_at": "2026-11-08T12:53:51Z",
+  "html_sha256": "f9bbef4cc7b248173a8b374bbf82760c68971a152394bc3d1ea2985cd782560b",
   "text_sha256": "dcf212a20848128c5a2a76e6d1035329a47d9400a29073c50eb21b207b98e9cb",
-  "byte_size": 44689,
+  "byte_size": 44253,
   "title": "Register to Vote | Hillsborough County Elections, FL",
   "noncitizen_voting": {
     "present": false,
