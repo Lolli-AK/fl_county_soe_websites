@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-09T17:56:47Z",
-  "html_sha256": "95cb7208cc270d951e64de06743fec9d84b1c7307e588185dedddefd9c34f623",
+  "fetched_at": "2026-11-09T22:00:34Z",
+  "html_sha256": "609fc5a907acea2647d0d920785f16ad93cc6655f71cc3e89e03eaf9c95b0ce4",
   "text_sha256": "a8c4709d55cad510e6f1a61a3a7c18e0b1ace2579866bf3fc6d2dd50c7d3b732",
-  "byte_size": 66314,
+  "byte_size": 66335,
   "title": "Precinct Finder – DeSoto, FL",
   "noncitizen_voting": {
     "present": false,

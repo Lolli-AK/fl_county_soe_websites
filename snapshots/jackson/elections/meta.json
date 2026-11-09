@@ -7,23 +7,25 @@
     "https://votejacksonfl.gov/election-information/upcoming-elections/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-09T17:56:47Z",
-  "html_sha256": "02ba6550c469a4d2b057be1520f52f3b28669e8735808e8e0bd8aaf6f24616f5",
-  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
-  "byte_size": 488,
-  "title": "One moment, please...",
+  "fetched_at": "2026-11-09T22:00:34Z",
+  "html_sha256": "35ee8ffc7f593c3e9f7b958040abda430700771a673539aa170d463d8989b981",
+  "text_sha256": "c894b4b10011e69e892c70b741664c6a7243318c3c8f202e2134df4ea3edd822",
+  "byte_size": 61418,
+  "title": "Upcoming Elections – Jackson County (FL) Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
   "error": null
 }

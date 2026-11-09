@@ -7,25 +7,23 @@
     "https://wakullavotes.gov/polling-sites/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-09T17:56:47Z",
-  "html_sha256": "f454cdeafb99252a8ab6290c8b780e6d2215f7d9010468255926eb8af1c4d615",
-  "text_sha256": "f28e54fd58c3adb23410bd32a1d6028f4a304053e288c5a0fd67544923770048",
-  "byte_size": 108582,
-  "title": "Polling Sites – Wakulla County Supervisor of Elections",
+  "fetched_at": "2026-11-09T22:00:34Z",
+  "html_sha256": "02ba6550c469a4d2b057be1520f52f3b28669e8735808e8e0bd8aaf6f24616f5",
+  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
+  "byte_size": 488,
+  "title": "One moment, please...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

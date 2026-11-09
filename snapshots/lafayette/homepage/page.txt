@@ -238,13 +238,13 @@ Lafayette County
 Supervisor of Elections
 Active Registered Voter: 11/09/2026
 Democrats:
-590
+0
 Republicans:
-3,345
+0
 Others:
-351
+0
 Total:
-4,286
+0
 We acknowledge some content on this page may not be fully accessible. Please
 contact us
 for any help with accessibility.
@@ -318,7 +318,7 @@ HOURS
 : Monday-Friday, 8:00 am – 5:00 pm
 (386) 294-1261
 (386) 294-2164
-travis@lafayettevotes.com
+[email protected]
 ©2026 Copyright Lafayette County SOE |
 Privacy Policy
 |

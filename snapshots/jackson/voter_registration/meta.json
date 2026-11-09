@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://votejacksonfl.gov/voter-education/register-to-vote-or-update-your-registration/"
   ],
-  "http_status": 200,
+  "http_status": 504,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-09T17:56:47Z",
-  "html_sha256": "1f8e79e79a621fb0b9f74c769e017485de30f3a932276ed9fb21be2fde2c472a",
-  "text_sha256": "74d0cb0c8fce7746c441a7e289b5b77cdcd7fede42f4a7fcaa094c5383ed35ec",
-  "byte_size": 80343,
-  "title": "Update Your Registration – Jackson County (FL) Supervisor of Elections",
+  "fetched_at": "2026-11-09T22:00:34Z",
+  "html_sha256": "a327c8b380e2bc809e1cdc60f77ead6218f36e63a4060de6439be28626a71ab4",
+  "text_sha256": "579f80ccdcc0b1b45382609496de0ce0b4529d520ec25a799fea7fd27c3e6a8e",
+  "byte_size": 6017,
+  "title": "votejacksonfl.gov | 504: Gateway time-out",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }
