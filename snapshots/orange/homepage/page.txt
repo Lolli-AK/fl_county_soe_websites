@@ -154,35 +154,35 @@ Read More
 View Calendar
 VOTER STATISTICS
 Registered Active Voters
-as of 11/07/2026
+as of 11/08/2026
 Switch to details
 Switch to summary
 Party
 Count
 Percentage
 Dem.
-328,360
+328,367
 39.34%
 Rep.
-229,606
+229,610
 27.51%
 Other
 33,923
 4.06%
 NPA
-242,821
+242,826
 29.09%
 Total
-834,710
+834,726
 100%
 Party Name
 Count
 Florida Democratic Party
-328,360
+328,367
 NO PARTY AFFILIATION
-242,821
+242,826
 Republican Party Of Florida
-229,606
+229,610
 Independent Party of Florida
 18,982
 Boricua Party
@@ -214,9 +214,9 @@ Jeffersonian Party of Florida
 MGTOW Party
 6
 Total
-834,710
+834,726
 Vote By Mail Standing Request Totals
-as of 11/07/2026
+as of 11/08/2026
 Election Name
 Count
 Permanent VBM requests 2027-2028
