@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-08T19:22:49Z",
-  "html_sha256": "1c2d5b2744fa4340dec37e98a7f7cdab405e825ab0a090a3a117b985a9b26d88",
-  "text_sha256": "787dee330e3f987239edcee7587f0ba8350502f20f2fe8f6099aaba4f3c6f135",
+  "fetched_at": "2026-11-09T00:36:20Z",
+  "html_sha256": "70299b792f019e438ea20ed63ab82105afcc67c023aab818ef31b1430f58ca69",
+  "text_sha256": "870773c9d0546f2c266aadc64760870aa46b7f05005bde59b95bf3699d2a92b0",
   "byte_size": 118677,
   "title": "Homepage of LeonVotes.gov - the website for the Leon County Supervisor of Elections Office",
   "noncitizen_voting": {
