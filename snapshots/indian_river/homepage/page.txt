@@ -164,8 +164,8 @@ Election Worker Information
 FAQs
 POST 7:00 PM ELECTION DAY VOTE-BY-MAIL REPORTING
 TOTAL
-Unprocessed Vote-By-Mail Ballots as of 7:00 PM
-0
+Unprocessed 10-day UOCAVA Vote-By-Mail Ballots
+7
 UPCOMING
 EVENTS
 See All Events

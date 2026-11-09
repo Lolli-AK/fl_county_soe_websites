@@ -91,9 +91,6 @@ For statewide/multicounty results visit Florida Election Watch
 click here
 See how your community voted.
 See Unofficial Results
-Check Your Provisional Ballot Status
-Voted a provisional ballot? Click below to check its status.
-Check Status
 View Unofficial Turnout Statistics
 Unofficial Turnout Statistics for the November 3, 2026 General Election.
 All Stats
@@ -101,6 +98,9 @@ VBM Stats
 Request Vote-By-Mail Ballot
 Click below to request your Vote-by-Mail ballot for future elections.
 Request Ballot
+Become a Poll Worker
+Help strengthen democracy by serving as a poll worker in future elections.
+Join us
 Announcements
 11/3/2026 Election – Canvassing Board
 Canvassing Board Meeting Notice/Agenda - 11/09/2026 (

@@ -196,17 +196,16 @@ Find your Early Voting Centers, Precincts, Districts and Polling Locations with 
 What to Expect
 Know what to expect before you arrive at the polls.
 Active Registered Voters
-Updated: 10/01
 Democrat:
-108,241
+—
 Republican:
-121,972
+—
 NPA:
-98,382
+—
 Other:
-13,857
+—
 Total:
-342,452
+—
 Your Vote.
 Your Voice.
 Your County.

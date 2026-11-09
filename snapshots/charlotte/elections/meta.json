@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-09T10:59:58Z",
-  "html_sha256": "0ebe8f0f381c0003376f64709349ac4814ff3fde7c892c6a45ea51221f0e9ade",
-  "text_sha256": "8520c7512892e3d560132fac5e427f13080adde1ca627b317fb9574c33247ad8",
+  "fetched_at": "2026-11-09T17:56:47Z",
+  "html_sha256": "759182a55008b0d9de9ed3d226c7341114e71396584d6cd9b795af78ba463145",
+  "text_sha256": "c1fdb401d54527032b9210286163459e168419f738cae955f8a3026c80791f7e",
   "byte_size": 63721,
   "title": "Election Information | Charlotte County Elections, FL",
   "noncitizen_voting": {

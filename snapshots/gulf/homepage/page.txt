@@ -130,7 +130,7 @@ Track My Ballot
 Early Voting
 Voting Locations
 Active Registered Voters
-(11/08/2026)
+(11/09/2026)
 Democrats
 2,237
 Republicans
@@ -203,3 +203,4 @@ Privacy Policy
 Accessibility Policy
 Sitemap
 Site by KMA
+Secret Link

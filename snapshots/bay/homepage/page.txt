@@ -166,15 +166,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(11/08/2026)
+(11/09/2026)
 Democrats
 24,565
 Republicans
-76,130
+76,131
 Other
 29,605
 Total
-130,300
+130,301
 Upcoming Elections
 All Upcoming Elections
 There are currently no upcoming
@@ -188,7 +188,7 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 2 days ago
+posted 3 days ago
 🎉🎉Thank you!!
 The 2026 General Election would not have been possible without our election workers, and we greatly appreciate their service within our community. Keep up the good work!!
 If you’re interested in becoming an election worker, please visit the link below:
