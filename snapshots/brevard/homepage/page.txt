@@ -121,15 +121,15 @@ Tim Bobanic
 Active Registered Voters as of:
 11/10/2026
 Republican
-209,325
+209,363
 Democratic
-113,808
+113,832
 Non-Partisan
-108,260
+108,308
 Others
-19,641
+19,655
 Total
-451,034
+451,158
 2026 General Election Results
 View Election Results
 2026 General Election Unofficial Turnout

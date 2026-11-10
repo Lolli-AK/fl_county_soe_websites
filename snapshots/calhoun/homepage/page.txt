@@ -853,7 +853,7 @@ Track My Mail Ballot
 Division of Elections
 Where Do I Vote?
 Active Registered Voters
-As of 11/09/2026
+As of 11/10/2026
 Democrats
 0
 Republicans
@@ -862,7 +862,7 @@ Others
 0
 Total
 0
-2026 Unofficial General Election Results
+2026 Official General Election Results
 Click here
 Dates to Remember
 View Full Calendar

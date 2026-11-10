@@ -1,5 +1,4 @@
 Duval County Elections, FL Official Website | Official Website
-This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to Main Content
 Voter Information
 Election Information
@@ -29,7 +28,6 @@ November 3, 2026
 Deadline extension for 2026 General Election overseas ballots
 November 2, 2026
 View All News
-Press Release
 /CivicAlerts.aspx
 Public Notice
 Public Notice of Machine and Manual Recount in race of Atlantic Beach
@@ -39,7 +37,6 @@ Notice of Candidate Withdrawal- State Representative District 13
 Notice of General Public Logic and Accuracy Test
 2026 General Canvassing Board Notice
 View All News
-Public Notice
 /CivicAlerts.aspx
 Contact Us
 This form has been modified since it was saved. Please review all fields before submitting.
@@ -103,5 +100,3 @@ Loading
 Do Not Show Again
 Close
 []
-Hi, how can I help?
-Explore your accessibility options

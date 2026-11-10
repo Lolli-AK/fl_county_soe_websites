@@ -145,15 +145,15 @@ Early Voting: Oct 24-31
 Sample Ballot
 Candidate Financial Reporting Login
 2026 Filed Candidates
-Voter Totals as of: 11/09/2026
+Voter Totals as of: 11/10/2026
 Democrats
-2,359
+2,361
 Republicans
-3,812
+3,815
 Other
 1,067
 Total
-7,238
+7,243
 Dates to Remember
 Nov 11, 2026
 Office Closed in Observance of Veterans Day
