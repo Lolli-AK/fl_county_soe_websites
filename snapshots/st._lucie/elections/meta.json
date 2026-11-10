@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-10T16:50:24Z",
-  "html_sha256": "bb56c1319c41e27d6a77825eeb01fccf59e3387775f1ced681ce38724fdd1217",
+  "fetched_at": "2026-11-10T22:56:28Z",
+  "html_sha256": "9de8df6c4f54215e5ec2f49398eed2ea4f3edbb9d568cd30df36ffcff40c3495",
   "text_sha256": "567d1810b09be4fbdcb06754b23c3fc8dc61ea3bb0c3109ef1c19fc6d4b2dee3",
-  "byte_size": 48583,
+  "byte_size": 48556,
   "title": "St. Lucie Supervisor of Elections, FL",
   "noncitizen_voting": {
     "present": false,

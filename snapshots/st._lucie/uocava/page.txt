@@ -182,7 +182,7 @@ Tell you when your ballot is sent
 Confirm when your completed ballot is received
 Tracking Your Vote-by-Mail Ballot
 You can check the status of your Vote-by-Mail ballot online at
-www.elections.myflorida.com
+dos.fl.gov/elections/
 using the Voter Information Lookup, or by using the
 “Track My Vote-by-Mail Ballot”
 option on your local Supervisor of Elections’ website.
@@ -197,7 +197,9 @@ Active-duty military members
 Merchant Marine members
 Their eligible dependents
 U.S. citizens living overseas
-The FWAB can be accessed and printed online using the provided link.
+The FWAB can be accessed and printed online using the provided
+link
+.
 Related pages
 Affidavit Form for Missing/Mismatch Signature
 Military and Overseas Citizens Information

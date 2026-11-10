@@ -730,6 +730,13 @@
      </div>
     </div>
     <main class="bg-white static" id="content">
+     <div :class="{
+  'pt-28 sm:pt-28 md:pt-32 lg:pt-32': scrollPosition &lt;= 0 &amp;&amp; openMenu != 'mobileMenu',
+  'pt-28 sm:pt-20 md:pt-28 lg:pt-24': scrollPosition &gt; 0 || openMenu == 'mobileMenu'
+}" class="w-full relative lg:absolute z-20 border-b-4 border-white" v-cloak="">
+      <alerts>
+      </alerts>
+     </div>
      <section class="w-full h-[47vh] lg:h-[87vh] relative z-10 transition-all duration-1000 grow bg-gray-100">
       <div class="absolute w-full h-[500px] md:h-[60vh] lg:h-screen top-0 z-0 transition-all duration-500">
        <div alt="building" aria-label="building" class="w-full h-full lg:hidden bg-cover bg-center z-0 bg-gray-800" role="img">
@@ -880,13 +887,8 @@
        </div>
       </div>
      </div>
-     <section class="w-full bg-primary-dark px-4 py-8 md:p-8 xl:px-16 xl:py-20 relative z-10 bg-cover bg-center" v-lazy:background-image="'/images/gradient-stars.webp'">
-      <h2 class="flex text-white font-bold uppercase text-2xl md:text-4xl justify-center items-center gap-4 lg:gap-12" tabindex="0">
-       Voter Turnout
-      </h2>
-      <div class="w-full max-w-7xl mx-auto text-center md:p-8 my-8 h-[650px] lg:h-[670px] border-8 border-gray-300 bg-white">
-      </div>
-     </section>
+     <div class="h-4 bg-primary-dark">
+     </div>
      <section class="relative pb-6 bg-cover bg-blend-multiply" v-lazy:background-image="'/images/tan-dots.svg'">
       <div class="relative z-10 mx-auto p-6 lg:py-12 max-w-screen-2xl">
        <div class="w-full grid lg:grid-cols-2 gap-8 xl:gap-12 2xl:gap-20">
@@ -974,6 +976,23 @@
         </div>
        </div>
        <div class="not-prose">
+        <a aria-label="Read full announcement, Office Closure Notice – Veterans Day" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://jeffersonvotesfl.gov/announcements/office-closure-notice-veterans-day/" role="link" tabindex="0">
+         <div class="relative z-10 xl:pr-12">
+          <span class="text-accent text-lg font-extrabold uppercase">
+           November 10, 2026
+          </span>
+          <p class="text-primary-dark font-heading text-3xl md:text-4xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
+           Office Closure Notice – Veterans Day
+          </p>
+          <p class="font-semibold text-gray-800 text-pretty mt-2">
+          </p>
+         </div>
+         <span class="flex-none whitespace-nowrap btn-simple border-primary-dark bg-primary-dark group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
+          Read Full Announcement
+         </span>
+         <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300">
+         </div>
+        </a>
         <a aria-label="Read full announcement, Office Closure (Wednesday, November 11)" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://jeffersonvotesfl.gov/announcements/office-closure-wednesday-november-11/" role="link" tabindex="0">
          <div class="relative z-10 xl:pr-12">
           <span class="text-accent text-lg font-extrabold uppercase">
@@ -1002,24 +1021,6 @@
           </p>
           <p class="font-semibold text-gray-800 text-pretty mt-2">
            Andre R. Tyson 676 Tyson Rd. Monticello, FL 3244 You are hereby notified that…
-          </p>
-         </div>
-         <span class="flex-none whitespace-nowrap btn-simple border-primary-dark bg-primary-dark group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
-          Read Full Announcement
-         </span>
-         <div class="absolute z-0 inset-0 bg-right translate-x-0 transition-all duration-300">
-         </div>
-        </a>
-        <a aria-label="Read full announcement, ALL Online Services Restored as of Friday, October 23, 2026" class="max-w-screen-xl w-full mx-auto p-4 bg-secondary-light lg:shadow-lg md:px-6 md:py-4 lg:px-12 lg:py-8 mb-4 lg:mb-8 group border-4 border-white text-center md:text-left lg:hover:scale-105 transition-all group duration-300 flex flex-col md:flex-row items-center justify-between relative gap-4" href="https://jeffersonvotesfl.gov/announcements/all-online-services-restored-as-of-friday-october-23-2026/" role="link" tabindex="0">
-         <div class="relative z-10 xl:pr-12">
-          <span class="text-accent text-lg font-extrabold uppercase">
-           October 24, 2026
-          </span>
-          <p class="text-primary-dark font-heading text-3xl md:text-4xl mt-1 pb-1 md:pb-2 lg:pb-0 text-center sm:text-left relative subpixel-antialiased text-balance" role="heading">
-           ALL Online Services Restored as of Friday, October 23, 2026
-          </p>
-          <p class="font-semibold text-gray-800 text-pretty mt-2">
-           All online services on our website are now back up and fully operational.
           </p>
          </div>
          <span class="flex-none whitespace-nowrap btn-simple border-primary-dark bg-primary-dark group-hover:bg-white text-white group-hover:text-primary-dark my-auto relative z-10">
@@ -1096,7 +1097,7 @@
          <div class="w-full lg:w-1/2">
           <div class="h-full flex flex-wrap">
            <a aria-label="View link on Facebook" class="block min-w-full max-w-3xl" href="https://www.facebook.com/photo.php" rel="noopener noreferrer" target="_blank">
-            <img alt="Photos shared on Facebook" class="w-full" height="720" v-lazy="'https://scontent.xx.fbcdn.net/v/t39.30808-6/887752236_1110088845353298_6703082109728126668_n.jpg?stp=dst-jpg_s720x720_tt6&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=eGjNWTORD3wQ7kNvwG312Yd&amp;_nc_oc=AdrKpLDls02fsfBvZQc1l0WgZt9UnK-QzE0cuaQTTsVvfzG-MVbEJxuQCHBwxcYXTsk&amp;_nc_zt=23&amp;_nc_ht=scontent.xx&amp;edm=AKIiGfEEAAAA&amp;_nc_gid=G2Cq-WdlNVBLb_Copj2-3Q&amp;_nc_tpa=Q5bMBQL7lv6c-_fyPBQbY26ROcphRb4aNAQ0Okjrx_b3oSg8sqaBOlvmof0Bn7gGhFaXHqSIn-tuutmb&amp;oh=00_AQQZ_Uh9t05ZYw9jWGE1yr67f1txRslfwwD7RixyKP2l1Q&amp;oe=6AF9022A'" width="720"/>
+            <img alt="Photos shared on Facebook" class="w-full" height="720" v-lazy="'https://scontent.xx.fbcdn.net/v/t39.30808-6/887752236_1110088845353298_6703082109728126668_n.jpg?stp=dst-jpg_s720x720_tt6&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=eGjNWTORD3wQ7kNvwG312Yd&amp;_nc_oc=AdrKpLDls02fsfBvZQc1l0WgZt9UnK-QzE0cuaQTTsVvfzG-MVbEJxuQCHBwxcYXTsk&amp;_nc_zt=23&amp;_nc_ht=scontent.xx&amp;edm=AKIiGfEEAAAA&amp;_nc_gid=KPKd5SNh_6rsWZKm9gH-5Q&amp;_nc_tpa=Q5bMBQJEdP1xU2GNf74oCrmOcClYRf9hUWA6LNifq4U6LbP9gewWd0qgbxQhGcCb6RGOK0VmxvkdmgFk&amp;oh=00_AQS1VkNSQ66Myn6vsr09XYZVwInRjIhIdFnEf74X5XO5ig&amp;oe=6AF972AA'" width="720"/>
            </a>
           </div>
          </div>

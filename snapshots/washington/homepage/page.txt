@@ -108,8 +108,8 @@ Total
 Quick Turnout Results
 Stay informed with real-time voter turnout data! See how many voters have cast their ballots by mail, early voting, on Election Day, and provisionally.
 View Voter Turnout
-2026 Mail Ballot
-All Vote by Mail request expire after each General Election. Please be sure to request your Vote By Mail Ballot for the 2026 Election Cycle.
+2028 Mail Ballot
+All Vote by Mail request expire after each General Election. Please be sure to request your Vote By Mail Ballot for the 2028 Election Cycle.
 Request Mail Ballot
 Download Sample Ballot
 General Election
