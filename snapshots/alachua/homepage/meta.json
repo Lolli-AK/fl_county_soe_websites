@@ -2,18 +2,19 @@
   "county": "Alachua",
   "page_type": "homepage",
   "requested_url": "https://www.votealachua.gov",
-  "final_url": "https://www.votealachua.gov",
+  "final_url": "https://www.votealachua.gov/",
   "redirect_chain": [
-    "https://www.votealachua.gov"
+    "https://www.votealachua.gov",
+    "https://www.votealachua.gov/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-11T05:04:39Z",
-  "html_sha256": "aee0b96c56215151aecd52d71a290c43dccb59654523340c4e5ba36bdbaaf0fc",
-  "text_sha256": "f8eb010d0b680dbbf74e93dbb8417ae441ec30a7996edac34b049fa8184330a8",
-  "byte_size": 51714,
+  "fetched_at": "2026-11-11T13:43:15Z",
+  "html_sha256": "4f6978b75a613e326175a745be3cf22eb5d540d5ac9bb187b14552eee2bbdab1",
+  "text_sha256": "c9ea6176ff5d4942ef1a84b734aa0fca5bb0320380e9972a23f3396a67b41e0f",
+  "byte_size": 53098,
   "title": "Alachua County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
