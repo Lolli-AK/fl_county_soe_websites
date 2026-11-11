@@ -252,7 +252,7 @@ Yucatec Maya
 Zapotec
 Zulu
 Active Registered Voters
-As of 10/28/2026
+As of 11/11/2026
 Democrats
 0
 Republicans
@@ -500,6 +500,7 @@ We acknowledge some content on this page may not be fully accessible. Please
 contact us
 for any help with accessibility.
 Election Results and Report
+A dash ( – ) or blank results represents detailed groups (Election Day, Vote By Mail, Early Votes, Provisional) with between 1 and 29 votes in accordance with Florida Statute 98.0981(3)(a).
 2026
 2028
 2030

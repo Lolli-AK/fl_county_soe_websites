@@ -1,5 +1,4 @@
 Polk County SOE, FL | Official Website
-This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to Main Content
 Voter Services
 Election Info
@@ -41,11 +40,9 @@ News & Events
 Stay Up to Date on All Election Related News with Notify Me!
 Notify Me allows you to subscribe to an unlimited number of email lists. Receive email or text message updates regarding the information you have requested. Check out Notify Me today!
 Read on...
-about
 View All News
 /CivicAlerts.aspx
 November 2026
-Calendar
 Sun
 Mon
 Tue
@@ -105,7 +102,7 @@ Tel:
 (863) 534-5888
 Fax: (863) 845-2718
 Email:
-info@polkelections.gov
+[email protected]
 Quick Links
 Voter Services
 Vote-By-Mail
@@ -129,4 +126,3 @@ Loading
 Do Not Show Again
 Close
 []
-Explore your accessibility options
