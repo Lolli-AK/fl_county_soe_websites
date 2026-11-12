@@ -27,7 +27,7 @@ Offices up for Election
 Voting Machine & Software Information
 Election Systems and Software (ES&S) DS300
 ExpressVote
-DS850
+DS950
 VerifyNow Pro
 What to Expect at the Polls
 Find Your Polling Location

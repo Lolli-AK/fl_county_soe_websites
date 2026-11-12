@@ -154,10 +154,10 @@ FL Commission on Ethics
 Santa Rosa County
 [rotating image slideshow removed for determinism]
 Active Registered Voters as of 11/12/2026:
-Dem: 21,240
-Rep: 92,637
-Oth: 31,415
-Total: 145,292
+Dem: 21,242
+Rep: 92,640
+Oth: 31,418
+Total: 145,300
 Register to Vote/Update Voter Information
 My Status/Sample Ballots
 Vote By Mail

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-12T06:09:07Z",
-  "html_sha256": "44d1c904c3d2c989a9b8aec5c9121bb228645ff68ed3a8380a81e05a2a1078cb",
+  "fetched_at": "2026-11-12T16:26:12Z",
+  "html_sha256": "372029d8d9ffe6b04b0bffb6eff7615c6b6f5df37ae48072d76b1dc16833425c",
   "text_sha256": "09e56788d20b74e15021682f94d9899b545e2f59d88858f4b7235454890f5239",
-  "byte_size": 61115,
+  "byte_size": 59843,
   "title": "Upcoming Elections – Gadsden County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

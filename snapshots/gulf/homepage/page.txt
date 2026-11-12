@@ -159,6 +159,9 @@ View Facebook Post
 (opens in a new tab)
 Public Notices
 All Public Notices
+Canvassing Board Timeline
+November 12, 2026
+Read Full Notice
 Temporary Website Service Unavailability
 October 22, 2026
 Read Full Notice
@@ -170,9 +173,6 @@ September 24, 2026
 Read Full Notice
 Logic and Accuracy Test Notice
 September 11, 2026
-Read Full Notice
-All Mail Ballot Requests Expired
-December 31, 2024
 Read Full Notice
 All Public Notices
 Voter Ineligibility Notices
@@ -203,3 +203,4 @@ Privacy Policy
 Accessibility Policy
 Sitemap
 Site by KMA
+Secret Link

@@ -166,15 +166,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(11/11/2026)
+(11/12/2026)
 Democrats
 24,572
 Republicans
-76,152
+76,154
 Other
-29,615
+29,617
 Total
-130,339
+130,343
 Upcoming Elections
 All Upcoming Elections
 Municipal Super Tuesday
