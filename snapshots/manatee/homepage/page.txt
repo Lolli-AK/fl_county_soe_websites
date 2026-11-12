@@ -31,7 +31,7 @@ Voter Turnout
 Legal Notices
 Elections Data
 Elected Officials
-Past Election Results
+Election Results
 Maps
 Election Laws (External Link)
 Ways to Vote
@@ -111,15 +111,6 @@ Attention:
 Notice of Recount for Copperstone CDD, Seat 1
 Manatee County Unofficial Voter Turnout
 Manatee County Unofficial Election Results
-Now Open
-SEASONAL ELECTIONS OFFICE
-Voter Services Available July 6 – November 6, 2026
-Monday – Friday, 9:00 AM – 5:00 PM (Closed for Lunch)
-Learn More
-Manatee County
-Administration Building – East Campus
-9000 Town Center Parkway
-Lakewood Ranch, FL 34202
 Message from Supervisor of Elections
 Scott Farrington
 Welcome to the Manatee County Supervisor of Elections website. Whether you’re a first-time voter, a longtime resident, we want you to know that your voice matters and your participation strengthens our democracy.
@@ -190,7 +181,7 @@ Voter Turnout
 Legal Notices
 Elections Data
 Elected Officials
-Past Election Results
+Election Results
 Maps
 Election Laws (External Link)
 Ways to Vote

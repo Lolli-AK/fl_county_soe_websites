@@ -172,10 +172,10 @@ Federal Post Card Application (FPCA)
 You can get the FPCA from a Voting Assistance Officer, online at
 www.fvap.gov
 , or by contacting your local Supervisor of Elections by mail, fax, or email.
-Once you submit the FPCA, your request for a Vote-by-Mail ballot stays active for all elections through the end of the year following the second general election.
+Once you submit the FPCA, your request for a Vote-by-Mail ballot stays active for all elections through the end of the calendar year of the next regularly scheduled general election.
 Receiving Your Vote-by-Mail Ballot
 Vote-by-Mail ballots are sent
-at least 45 days before each election
+at least 45 days before each presidential preference primary election, primary election, and general election
 . You may choose to receive your ballot by mail, fax, or email. If you provide an email address, the Supervisor of Elections will:
 Confirm your request was received
 Tell you when your ballot is sent
@@ -190,7 +190,7 @@ If You Do Not Receive Your Ballot
 If you do not receive your Vote-by-Mail ballot within
 two weeks of the election
 , contact your county Supervisor of Elections right away for assistance.
-If Election Day is approaching and you still have not received your requested Vote-by-Mail ballot, you may vote in federal elections using the
+If Election Day is approaching and you still have not received your requested Vote-by-Mail ballot, you may vote in federal, state, or local elections using the
 Federal Write-In Absentee Ballot (FWAB)
 . This option is available only to:
 Active-duty military members
