@@ -1,5 +1,4 @@
 Sarasota County Supervisor of Elections, FL | Official Website
-This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to Main Content
 About Us
 Voters
@@ -11,7 +10,6 @@ Message from Supervisor Turner
 Record Turnout for the General Election
 The voters of Sarasota County turned out in a big way for the November 3 General Election.
 Read on...
-about Record Turnout for the General Election
 /CivicAlerts.aspx
 Register to Vote
 My Voter Record
@@ -25,21 +23,16 @@ News Flash
 Vote-by-Mail Ballot Accounting Report
 Access the Vote-by-Mail Ballot Accounting report for the November 3 General Election.
 Read on...
-about Vote-by-Mail Ballot Accounting Report
 New North Port Service Location
 Sarasota County Supervisor of Elections Ron Turner announces the opening of a new customer service office in North Port.
 Read on...
-about New North Port Service Location
 Florida Driver License Changes: What to Know
 Beginning July 31, 2024, all Florida residents who renew their driver license are issued a new number. Learn how this change may impact your voter record.
 Read on...
-about Florida Driver License Changes: What to Know
 Redistricting in Florida: What to Know
 Florida's governor recently signed into law HB 1D, establishing new congressional districts in the state. Here's what Sarasota County voters need to know about the new map.
 Read on...
-about Redistricting in Florida: What to Know
 View All News
-News Flash
 /CivicAlerts.aspx
 Office SCHEDULE
 Elections
@@ -121,4 +114,3 @@ Loading
 Do Not Show Again
 Close
 []
-Explore your accessibility options

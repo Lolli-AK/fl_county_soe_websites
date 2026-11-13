@@ -2,20 +2,19 @@
   "county": "Manatee",
   "page_type": "homepage",
   "requested_url": "https://www.votemanatee.gov",
-  "final_url": "https://www.votemanatee.gov/2026-general-election/",
+  "final_url": "https://www.votemanatee.gov",
   "redirect_chain": [
-    "https://www.votemanatee.gov",
-    "https://www.votemanatee.gov/2026-general-election/"
+    "https://www.votemanatee.gov"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-13T14:04:28Z",
-  "html_sha256": "74542150668fe5dc96ec9ec2ff65a18313e0afc6483257ebff75cc7d0ab4e5d7",
-  "text_sha256": "6ad06c08a2a762cd82ec1a84d23ddebde65755830d616c9fab9223d7c3842478",
-  "byte_size": 137163,
-  "title": "General Election - November 3, 2026 - Vote Manatee",
+  "fetched_at": "2026-11-13T15:46:21Z",
+  "html_sha256": "a2cdacdd7f8e38ef295214e6cdc02d530fdb4a2152c06bf6241b30a76160a0b9",
+  "text_sha256": "5f60e52e2492c802fdcb28262477a63eebd250509410acef78e5328988c85005",
+  "byte_size": 150011,
+  "title": "Home - Vote Manatee",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -24,10 +23,9 @@
   "uocava": {
     "present": true,
     "terms": [
-      "fvap",
-      "military_overseas_voter"
+      "fvap"
     ],
-    "count": 3
+    "count": 2
   },
   "error": null
 }
