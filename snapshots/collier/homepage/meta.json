@@ -2,18 +2,19 @@
   "county": "Collier",
   "page_type": "homepage",
   "requested_url": "https://www.colliervotes.gov",
-  "final_url": "https://www.colliervotes.gov",
+  "final_url": "https://www.colliervotes.gov/",
   "redirect_chain": [
-    "https://www.colliervotes.gov"
+    "https://www.colliervotes.gov",
+    "https://www.colliervotes.gov/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-12T23:17:27Z",
-  "html_sha256": "4be780869da8d3ec5516eb69b41d08c6c9eff69f6e129968b5ae0b420ada091c",
-  "text_sha256": "38220606352c6b702c72c6a59b3d8cbe40a782013883d16b3f8db9885f4f1432",
-  "byte_size": 86078,
+  "fetched_at": "2026-11-13T05:30:57Z",
+  "html_sha256": "b473db9c0a375796a3afd4b4fb3cf110be4163f3eee8254ea83fcf6f08d10f3f",
+  "text_sha256": "48018d3356bc74a3f06c09bcb9bcc4a16791c51a4aeeed6413625c7d075a616e",
+  "byte_size": 90113,
   "title": "Collier County Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,

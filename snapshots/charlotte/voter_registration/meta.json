@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.soecharlottecountyfl.gov/1270/How-To-Register-to-Vote"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-12T23:17:27Z",
-  "html_sha256": "7beeca294c0806cd3dbae1f0d2a7237dcb613cdee5c597e3b521368679f14f4e",
-  "text_sha256": "bd7f4c2c8618c992b5abe3291322fb70ebddf57f7e08df0d7af96a631853b191",
-  "byte_size": 50648,
-  "title": "How To Register to Vote | Charlotte County Elections, FL",
+  "fetched_at": "2026-11-13T05:30:57Z",
+  "html_sha256": "1bcd2cfd5d4df011d421e7d2a51374d3a3110e79fa7ae4290a0088e2943890b3",
+  "text_sha256": "4d4509397cec21ba1919f6895b9979e124465afc5acb5a8859204f10d035abe8",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

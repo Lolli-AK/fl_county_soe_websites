@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.duvalelections.gov/236/Early-Voting"
   ],
-  "http_status": 404,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-12T23:17:27Z",
-  "html_sha256": "deb604fb102da748889f72e0788cc9ceff5dd5e22f28c9179edcccf0c5657d40",
-  "text_sha256": "08c907ec9741aebdbd96aaea8c2774f898a6e500658f13f9d8d4743be1fd90b9",
-  "byte_size": 35512,
-  "title": "Custom404 • Duval County Elections, FL • CivicEngage",
+  "fetched_at": "2026-11-13T05:30:57Z",
+  "html_sha256": "05d85cd5c2c8a04ac4692319191b96c25b93621a5026d8c8fdc6dd69c4d30970",
+  "text_sha256": "cf4aca2a83853415bd7e1e59c3857d27ed96e7f4dcf099a3a6d1c26c1706811e",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

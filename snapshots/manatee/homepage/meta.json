@@ -2,19 +2,20 @@
   "county": "Manatee",
   "page_type": "homepage",
   "requested_url": "https://www.votemanatee.gov",
-  "final_url": "https://www.votemanatee.gov",
+  "final_url": "https://www.votemanatee.gov/become-an-election-worker/",
   "redirect_chain": [
-    "https://www.votemanatee.gov"
+    "https://www.votemanatee.gov",
+    "https://www.votemanatee.gov/become-an-election-worker/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-12T23:17:27Z",
-  "html_sha256": "68863b2286e1e9b1b859b148c73b8e7936af9517a52846debc12ab9b33fe0e87",
-  "text_sha256": "5e7fa141ba3f2bbd1059b1fac3dace3ef9d49cf0e83053070fd43cdb2a165b9c",
-  "byte_size": 151504,
-  "title": "Home - Vote Manatee",
+  "fetched_at": "2026-11-13T05:30:57Z",
+  "html_sha256": "63c5f55b13050920892626624f8d34c91e878867d15d85c44fbb1a0267d73b17",
+  "text_sha256": "0afe12c2e7524bec63e59e71142f31489afcef3cda791254201fbdc0a961c84c",
+  "byte_size": 106190,
+  "title": "Become an Election Worker - Vote Manatee",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
