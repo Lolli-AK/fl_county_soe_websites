@@ -2,18 +2,19 @@
   "county": "Sarasota",
   "page_type": "homepage",
   "requested_url": "https://www.sarasotavotes.gov",
-  "final_url": "https://www.sarasotavotes.gov",
+  "final_url": "https://www.sarasotavotes.gov/",
   "redirect_chain": [
-    "https://www.sarasotavotes.gov"
+    "https://www.sarasotavotes.gov",
+    "https://www.sarasotavotes.gov/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-13T05:30:57Z",
-  "html_sha256": "113f103ad21787b400ac35c2cc33140531bae8a6cc261d67e3c7a2029f2aebc5",
-  "text_sha256": "8050cfa2b7a3c63c687819372ce9ad8e14423a884e0450c4fdd86a0cf7ff3856",
-  "byte_size": 68464,
+  "fetched_at": "2026-11-13T14:04:28Z",
+  "html_sha256": "95744f54270a3811dbb797e4f9203109498965feec10062def61cccfbe55af55",
+  "text_sha256": "553fe913b00f98cbdf7385e9bc04a5ca3a3487a68b5f3ad0802061a5552fe3a4",
+  "byte_size": 72152,
   "title": "Sarasota County Supervisor of Elections, FL | Official Website",
   "noncitizen_voting": {
     "present": false,

@@ -2,20 +2,20 @@
   "county": "Manatee",
   "page_type": "homepage",
   "requested_url": "https://www.votemanatee.gov",
-  "final_url": "https://www.votemanatee.gov/become-an-election-worker/",
+  "final_url": "https://www.votemanatee.gov/2026-general-election/",
   "redirect_chain": [
     "https://www.votemanatee.gov",
-    "https://www.votemanatee.gov/become-an-election-worker/"
+    "https://www.votemanatee.gov/2026-general-election/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-13T05:30:57Z",
-  "html_sha256": "63c5f55b13050920892626624f8d34c91e878867d15d85c44fbb1a0267d73b17",
-  "text_sha256": "0afe12c2e7524bec63e59e71142f31489afcef3cda791254201fbdc0a961c84c",
-  "byte_size": 106190,
-  "title": "Become an Election Worker - Vote Manatee",
+  "fetched_at": "2026-11-13T14:04:28Z",
+  "html_sha256": "74542150668fe5dc96ec9ec2ff65a18313e0afc6483257ebff75cc7d0ab4e5d7",
+  "text_sha256": "6ad06c08a2a762cd82ec1a84d23ddebde65755830d616c9fab9223d7c3842478",
+  "byte_size": 137163,
+  "title": "General Election - November 3, 2026 - Vote Manatee",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -24,9 +24,10 @@
   "uocava": {
     "present": true,
     "terms": [
-      "fvap"
+      "fvap",
+      "military_overseas_voter"
     ],
-    "count": 2
+    "count": 3
   },
   "error": null
 }

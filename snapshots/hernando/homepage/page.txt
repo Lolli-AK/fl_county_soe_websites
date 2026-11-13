@@ -1,4 +1,6 @@
 Hernando County SOE, FL | Official Website
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Election Information
 Voter Information
@@ -11,30 +13,44 @@ Where to Vote
 Ways to Vote
 Election Workers
 Search
+Select Language
+​
+▼
 Active Registered Voters:
+11/13/26
 Democrats:
+31,014
 Republicans:
+72,057
 Other:
+36,272
 Total:
+139,343
 2026 General Election
 (11/03/2026)
 UNOFFICIAL RESULTS
 Latest News
 2026 General Election Canvassing Board Schedule
 Read on...
+about 2026 General Election Canvassing Board Schedule
 Notice of 2026 General Election
 The 2026 General Election will be held on November 3, 2026.
 Read on...
+about Notice of 2026 General Election
 Did You Know?
 Vote-By-Mail requests expire at the end of each election cycle.
 Read on...
+about Did You Know?
 Your Signature Matters!
 Your signature can change over time. It is important to keep it up to date
 Read on...
+about Your Signature Matters!
 View All News
+Latest News
 /CivicAlerts.aspx
 Election Calendar
 November 2026
+Calendar
 S
 M
 T
@@ -82,6 +98,7 @@ General Election - Final Certification / Post Election Audit
 Wed, Nov. 25 - Fri, Nov. 27
 Office Closure - Thanksgiving
 View All Events
+Election Calendar
 /Calendar.aspx
 2026 Elections Information
 Canvassing Board Information
@@ -115,7 +132,7 @@ Monday to Friday: 8:00 a.m. to 4:30 p.m.
 Phone:
 352-754-4125
 Fax: 352-754-4425
-[email protected]
+elections@hernandovotes.gov
 "It is the mission of the Supervisor of Elections office to ensure the integrity of the
 electoral process and empower each voter through continuous education."
 Home
@@ -130,4 +147,7 @@ Loading
 Loading
 Do Not Show Again
 Close
-[]
+Original text
+Rate this translation
+Your feedback will be used to help improve Google Translate
+Explore your accessibility options

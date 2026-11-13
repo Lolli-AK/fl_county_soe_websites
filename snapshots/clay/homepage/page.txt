@@ -134,9 +134,9 @@ Republicans:
 Democrats:
 32208
 NPA:
-29560
+29576
 Others:
-6647
+6653
 Total:
 Loading...
 Subscribe to Alerts
