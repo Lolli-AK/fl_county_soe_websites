@@ -140,7 +140,7 @@ Recursos en Español
 Search Website
 Election Results
 2026 General Election (11/03/2026)
-View Unofficial Results
+View Official Results
 Check Voter Status
 Register to Vote
 Update My Info
@@ -149,15 +149,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 11/12/2026
+Voter Totals as of: 11/13/2026
 Democrats
-6,200
+6,201
 Republicans
-19,095
+19,097
 Other
-5,411
+5,416
 Total
-30,706
+30,714
 Voter Turnout
 Upcoming Elections
 There are currently no upcoming elections.
@@ -172,14 +172,14 @@ There are currently no scheduled events or dates.
 All Upcoming Dates
 Announcements
 View all News & Announcements
+November 13, 2026
+Voter Ineligibility Notice
+Read Full Announcement
 November 12, 2026
 Voter Ineligibility Notice
 Read Full Announcement
 October 30, 2026
 Post-Election Audit Dashboard Available
-Read Full Announcement
-October 30, 2026
-Unofficial Election Results for the 2026 General
 Read Full Announcement
 View all News & Announcements
 Levy County, Florida
