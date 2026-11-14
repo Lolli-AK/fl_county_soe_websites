@@ -6,30 +6,24 @@
   "redirect_chain": [
     "https://www.soecharlottecountyfl.gov/1221/Military-Overseas-Citizens-Voting"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-14T13:06:04Z",
-  "html_sha256": "a934f4a91fdb17eedcb474da1f3f460486d786597c037cc4ddd19b320c80a69d",
-  "text_sha256": "f32318b8d0795d1e26598d67ee5377cb5d0addf49a848f64850594d0917d7d90",
-  "byte_size": 57955,
-  "title": "Military & Overseas Citizens Voting | Charlotte County Elections, FL",
+  "fetched_at": "2026-11-14T14:36:57Z",
+  "html_sha256": "96cd06d8f51b04f719279644232b105ccc46d426a23123e03de886066dbb36ad",
+  "text_sha256": "916995bf86e89550014dd731e8bd272e1037591c3286923ec36b07e04e28be55",
+  "byte_size": 3333,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava",
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 28
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
