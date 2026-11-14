@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-14T05:21:56Z",
-  "html_sha256": "3030c079b1e06aeaf9a21cab976a3398b2a305d6f6ccf2dc36dd4652dced1c99",
-  "text_sha256": "95a4c4609ec2985b9b156f0d9b3bfc1bd13f725ce3716acf711fd87ec989e25a",
+  "fetched_at": "2026-11-14T13:06:04Z",
+  "html_sha256": "fc1377d8c9d6f6ad38ff49401f4cccca679fbf92517718138ea4a17c367fe3d6",
+  "text_sha256": "d18471dd7689cab5676ec445592a2e6f2d2a8c998caa44601f7d6b1b1a4a91b4",
   "byte_size": 138592,
   "title": "Precincts and Polling Places | Lee County Elections, FL",
   "noncitizen_voting": {
