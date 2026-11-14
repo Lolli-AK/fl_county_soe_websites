@@ -105,7 +105,7 @@ Carol A. Dunaway
 SUPERVISOR OF ELECTIONS
 JACKSON COUNTY
 Active Registered Voters
-as of 11/13/2026
+as of 11/14/2026
 Republicans
 0
 Democrats
@@ -129,13 +129,6 @@ JUST SAY YES!
 Keep your Voter Registration up to date!
 Calendar
 Nov
-13
-2:00 pm
--
-5:00 pm
-2026
-Canvassing Board Meeting for Official Results and Post Election Audit
-Nov
 25
 12:00 pm
 -
@@ -157,6 +150,13 @@ Dec
 5:00 pm
 2026
 Closed for Christmas Holiday at noon
+Dec
+24
+December 24
+-
+December 25
+, 2026
+Closed for Christmas
 View Calendar
 View full calendar
 2026 General Election Results
