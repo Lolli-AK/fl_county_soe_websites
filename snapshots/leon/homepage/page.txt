@@ -129,13 +129,13 @@ Leon County
 Active Registered Voters as of Book Closing:
 2026-11-15
 Democratic
-91,291
+91,292
 Republican
-54,956
+54,958
 Others
-43,114
+43,115
 Total
-189,361
+189,365
 Leon County Supervisor of Elections
 Election Resources for the November 3 General Election
 Visit our
