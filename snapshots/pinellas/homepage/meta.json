@@ -2,18 +2,19 @@
   "county": "Pinellas",
   "page_type": "homepage",
   "requested_url": "https://www.votepinellas.gov",
-  "final_url": "https://www.votepinellas.gov",
+  "final_url": "https://www.votepinellas.gov/",
   "redirect_chain": [
-    "https://www.votepinellas.gov"
+    "https://www.votepinellas.gov",
+    "https://www.votepinellas.gov/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-14T19:46:21Z",
-  "html_sha256": "d4a2bd25a6e99890a954baf6fabec09330f739deec10b18f3cb30c021dc2b9f3",
+  "fetched_at": "2026-11-15T00:50:01Z",
+  "html_sha256": "61fcd10ef578511e95e9e8c3ed208694a0d459466bc688d6bc03a1a85a5bc3df",
   "text_sha256": "ec9a1390956d7a3f7dd0e46f11ebe4c4b65a48eda607756161540749aec3efd9",
-  "byte_size": 64126,
+  "byte_size": 64151,
   "title": "Pinellas County Election, FL | Official Website",
   "noncitizen_voting": {
     "present": false,
