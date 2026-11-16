@@ -71,7 +71,7 @@ Poll Worker
 Register or Update
 Voter Info
 Vote by Mail
-Ballot Return
+Early Voting & Ballot Return
 Election Day Precinct
 Ballot Status Notifications
 Announced Candidates
