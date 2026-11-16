@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-16T10:44:17Z",
-  "html_sha256": "2a174d7f0e11a1dcc5a18be849285242e13986a4f49331e5737cf88e084a0c09",
+  "fetched_at": "2026-11-16T17:38:50Z",
+  "html_sha256": "404473e0734cde22dc32ea66e3e59420ab95b87c792dd490ac22344a05d503c0",
   "text_sha256": "b6b23a99a93f9a79bcb2c008f3570962fc7f401214bac2b254d540f76324048f",
-  "byte_size": 61425,
+  "byte_size": 61461,
   "title": "Precinct Finder – Glades, FL",
   "noncitizen_voting": {
     "present": false,

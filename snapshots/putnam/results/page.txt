@@ -758,6 +758,11 @@ document seq
 Voting System Post Election Audit Report
 document seq
 4.00
+2026 General Election
+1 document
+Election Summary Results Report
+document seq
+1.00
 qualifying office
 2509 Crill Ave, Suite 900
 Palatka, FL 32177
