@@ -130,13 +130,13 @@ View All Events
 Clay County Voter Totals
 November 17, 2026
 Republicans:
-89505
+89517
 Democrats:
-32230
+32241
 NPA:
-29579
+29588
 Others:
-6654
+6658
 Total:
 Loading...
 Subscribe to Alerts

@@ -117,15 +117,15 @@ Tim Bobanic
 Active Registered Voters as of:
 11/17/2026
 Republican
-209,464
+209,499
 Democratic
-113,922
+113,929
 Non-Partisan
-108,370
+108,404
 Others
-19,716
+19,728
 Total
-451,472
+451,560
 2026 General Election Results
 View Election Results
 Share Your Christmas Food Drive
@@ -153,11 +153,6 @@ Facebook
 X
 Brevard County Supervisor of Elections
 Upcoming Events
-November 16, 2026
-11:00 AM -
-1:00 PM
-Voter Registration Drive - Bayside High School
-Read More
 November 26, 2026
 All day
 Offices Closed - Thanksgiving Holiday
@@ -172,6 +167,10 @@ December 7, 2026
 Voter Registration Drive - Palm Bay High School
 Read More
 December 24, 2026
+All day
+Offices Closed - Christmas Holiday
+Read More
+December 25, 2026
 All day
 Offices Closed - Christmas Holiday
 Read More

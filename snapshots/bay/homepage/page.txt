@@ -166,15 +166,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(11/16/2026)
+(11/17/2026)
 Democrats
-24,589
+24,597
 Republicans
-76,186
+76,222
 Other
-29,654
+29,671
 Total
-130,429
+130,490
 Upcoming Elections
 All Upcoming Elections
 Municipal Super Tuesday
@@ -200,9 +200,9 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 8 hours ago
+posted 19 hours ago
 🗳️ 2026 GENERAL ELECTION — BAY COUNTY VOTER TURNOUT
-📊 COUNTYWIDE VOTER TURNOUT: 55.1%
+📊 COUNTYWIDE VOTER TURNOUT: 54.95%
 ⭐TOP 3 PRECINCTS BY VOTER TURNOUT
 🥇Precinct 6 — 75.1%
 🥈Precinct 26 — 64.2%

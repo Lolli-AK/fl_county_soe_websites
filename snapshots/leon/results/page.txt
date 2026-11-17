@@ -153,16 +153,22 @@ PDF
 Excel
 Demographics
 District Analysis
-TBD
+PDF
+|
+Excel
 Precinct Analysis
-TBD
+PDF
+|
+Excel
 Totals by District
-TBD
+PDF
+|
+Excel
 Results
 Election Night Reporting
 Webpage
 Election Summary Report
-TBD
+PDF
 Statement of Votes Cast
 TBD
 Post-Election Audit Comparison of Votes Cast

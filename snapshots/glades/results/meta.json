@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-17T06:57:45Z",
-  "html_sha256": "3db940e2c63e0a53b69c8f548dfcaceeebba14dde67ca88f0ea3af0b358e229c",
+  "fetched_at": "2026-11-17T17:11:39Z",
+  "html_sha256": "b22f3d279127fccb4ddff32fb7aaeedad6e032216c72d783f6696178a4055d6d",
   "text_sha256": "ce0379bf392f0c37303a5cd4a2d70382e4fcabe6f9ebed009abd1b2af04c38bc",
-  "byte_size": 61429,
+  "byte_size": 61390,
   "title": "Election Result Archives – Glades, FL",
   "noncitizen_voting": {
     "present": false,
