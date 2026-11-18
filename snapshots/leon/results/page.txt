@@ -165,14 +165,18 @@ PDF
 |
 Excel
 Results
+Audit Accuracy Report
+PDF
 Election Night Reporting
 Webpage
 Election Summary Report
 PDF
-Statement of Votes Cast
-TBD
 Post-Election Audit Comparison of Votes Cast
-TBD
+PDF
+Statement of Votes Cast
+PDF
+|
+Excel
 Miscellaneous
 Early Voting Snapshot
 Date Ascending

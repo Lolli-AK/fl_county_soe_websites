@@ -2,30 +2,29 @@
   "county": "St. Johns",
   "page_type": "homepage",
   "requested_url": "https://www.votesjc.gov",
-  "final_url": "https://www.votesjc.gov",
+  "final_url": "https://www.votesjc.gov/",
   "redirect_chain": [
-    "https://www.votesjc.gov"
+    "https://www.votesjc.gov",
+    "https://www.votesjc.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html;charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-17T18:14:57Z",
-  "html_sha256": "3fa170c28580e0fcd25c3e1e942652ba1db576a67db1c91b477e0f782ee2c4da",
-  "text_sha256": "135fbce5a1438a0751484e3733e27562d9db1d1d19619e34c60a459ec25f5b42",
-  "byte_size": 157942,
-  "title": "Elections Information | Vicky Oakes | St. Johns",
+  "fetched_at": "2026-11-18T16:47:57Z",
+  "html_sha256": "a146b463cf8376e58aeeb84e6ab324b9f2c9430a293c3249b398acd5a3b665c8",
+  "text_sha256": "1656b0fce17419931655f7414e8699064f7059675935986c0cf6b6613f9ebf70",
+  "byte_size": 188,
+  "title": "403 Forbidden",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 4
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

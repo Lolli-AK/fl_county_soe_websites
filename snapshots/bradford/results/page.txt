@@ -156,9 +156,15 @@ Categories always sorted by seq (sub-categories sorted within each category)
 Documents sorted by _RECORDID in Descending Order within category
 RESET
 Election Night Summary Results
-24 documents
+26 documents
 2026
-2 documents
+4 documents
+2026 General Election Results
+document _recordid
+294
+2026 General Election Turnout
+document _recordid
+293
 2026 Primary Election Results
 document _recordid
 268
