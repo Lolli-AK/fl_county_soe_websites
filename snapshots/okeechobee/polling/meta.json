@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-18T16:47:57Z",
-  "html_sha256": "0942257c20c54bc7ca20566aa84687cd3ae31b5679c294b257a02f7f6d66f7d8",
-  "text_sha256": "db4924be80d8669e646b77347e6a057d1bf8fc36743c4f7d8e975e0ce4620756",
+  "fetched_at": "2026-11-19T16:55:12Z",
+  "html_sha256": "cd2b2f6b0cbcf43bb84f2dc54357216a9db21397214150c821cb925c55956a94",
+  "text_sha256": "df20769a6b9dabc0090255285b8b23b6780c68377cb0b486b9d2e408ba843fb1",
   "byte_size": 79076,
   "title": "Sample Ballots – Okeechobee County, FL",
   "noncitizen_voting": {

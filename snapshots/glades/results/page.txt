@@ -27,7 +27,7 @@ Candidate Login
 Candidate File Access
 List of Candidates
 City and County Candidates
-2026 Reporting Dates
+2027 Reporting Dates
 2026 General Canvassing Board Schedule of Events
 Research/Data
 Initiative Petitions
@@ -57,7 +57,7 @@ Candidate Login
 Candidate File Access
 List of Candidates
 City and County Candidates
-2026 Reporting Dates
+2027 Reporting Dates
 2026 General Canvassing Board Schedule of Events
 Research/Data
 Initiative Petitions
@@ -92,7 +92,7 @@ Candidate Login
 Candidate File Access
 List of Candidates
 City and County Candidates
-2026 Reporting Dates
+2027 Reporting Dates
 2026 General Canvassing Board Schedule of Events
 Research/Data
 Initiative Petitions

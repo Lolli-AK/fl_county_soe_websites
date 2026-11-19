@@ -27,7 +27,7 @@ Candidate Login
 Candidate File Access
 List of Candidates
 City and County Candidates
-2026 Reporting Dates
+2027 Reporting Dates
 2026 General Canvassing Board Schedule of Events
 Research/Data
 Initiative Petitions
@@ -57,7 +57,7 @@ Candidate Login
 Candidate File Access
 List of Candidates
 City and County Candidates
-2026 Reporting Dates
+2027 Reporting Dates
 2026 General Canvassing Board Schedule of Events
 Research/Data
 Initiative Petitions
@@ -92,7 +92,7 @@ Candidate Login
 Candidate File Access
 List of Candidates
 City and County Candidates
-2026 Reporting Dates
+2027 Reporting Dates
 2026 General Canvassing Board Schedule of Events
 Research/Data
 Initiative Petitions
@@ -104,20 +104,16 @@ Precinct District Assignments
 Public Notices
 Voting System Post-Election Audit Report
 Election Dates
-Primary Election
-:
-August 18, 2026
+Presidential Preference Primary Election:
+March 21, 2028
 7:00AM to 7:00PM
+Primary Election:
+August 22, 2028
+7:00 AM to 7:00 PM
 General Election
 :
-November 3, 2026
+November 7, 2028
 7:00AM to 7:00PM
-Early Voting Period
-:
-Start
-: October 24, 2026
-End
-: October 31, 2026
 Anticipated Staffing Levels:
 (Includes poll workers, full-time, part-time, and temporary workers)
 Early Voting Period
