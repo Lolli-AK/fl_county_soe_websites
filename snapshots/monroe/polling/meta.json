@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-19T16:55:12Z",
-  "html_sha256": "56bc982d7b905a4710c1c0d4f3c494bd2e9ab99f901d51b655e1e5848a1cfd9d",
-  "text_sha256": "243f69c41134312141b931584fb9fa0151fa7a7a68524fdf27d0c5e0bc6ea82d",
-  "byte_size": 179262,
+  "fetched_at": "2026-11-20T16:29:47Z",
+  "html_sha256": "fecef8bac287332c31dd5b7c23077683e2a92b204a1c1b598b53b55bb651cb9f",
+  "text_sha256": "a27c0ce7a411942310250850ca79dc5c456fff342aa96fd8d74c23122aae8c5a",
+  "byte_size": 176213,
   "title": "Monroe County FL Supervisor of Elections > Where to Vote > Precinct Details & Demographics",
   "noncitizen_voting": {
     "present": false,
@@ -25,7 +25,7 @@
     "terms": [
       "military_overseas_voter"
     ],
-    "count": 5
+    "count": 4
   },
   "error": null
 }

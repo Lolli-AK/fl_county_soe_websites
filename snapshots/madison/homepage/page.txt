@@ -159,15 +159,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 11/19/2026
+Voter Totals as of: 11/20/2026
 Democrats
 3,920
 Republicans
-5,331
+5,334
 Other
 1,372
 Total
-10,623
+10,626
 Upcoming Elections
 There are currently no upcoming elections.
 Voter Assistance Hotline
@@ -181,6 +181,10 @@ There are currently no scheduled events or dates.
 All Upcoming Dates
 Election News
 View all News & Announcements
+November 19, 2026
+Voting System Post-Election Audit Report
+Voting System Post – Election Audit Report – 2026 General Election
+Read Full Announcement
 November 18, 2026
 Holiday
 Your Supervisor of Elections office will be closed on  Thursday, and Friday, November 26–27, 2026,…
@@ -195,10 +199,6 @@ Some website services are currently unavailable. We are working to restore these
 Read Full Announcement
 March 30, 2026
 Active Petition Signature Verification Report
-Read Full Announcement
-March 26, 2026
-2026 General Election Canvassing Board Schedule
-Madison General Election 2026 Canvassing Schedule
 Read Full Announcement
 View all News & Announcements
 Madison County, Florida

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-19T16:55:12Z",
-  "html_sha256": "a6e530ec4acb2c3f2c9089cb1ae45a1dece0489d8c362014dea416e6a40e3737",
-  "text_sha256": "c1eb754fdcd03b37ed156563f6da17e618cf855246874bf4e64b4003d9653618",
-  "byte_size": 88328,
+  "fetched_at": "2026-11-20T16:29:47Z",
+  "html_sha256": "169f7a401d11312cc5cbf8f668226f7e5e9949325b801d5179fa316700e2d2e6",
+  "text_sha256": "f22ae75e3bdaacd33db267c908a59e3d8e4a70a0ddfd2d0d3262571decb2c044",
+  "byte_size": 85279,
   "title": "Monroe County FL Supervisor of Elections > Elections > Upcoming Elections",
   "noncitizen_voting": {
     "present": false,
@@ -25,7 +25,7 @@
     "terms": [
       "military_overseas_voter"
     ],
-    "count": 5
+    "count": 4
   },
   "error": null
 }

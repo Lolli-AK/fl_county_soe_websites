@@ -760,7 +760,7 @@ document seq
 4.00
 2026 General Election
 1 document
-Election Summary Results Report
+Official Election Summary Report
 document seq
 1.00
 qualifying office

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-19T16:55:12Z",
-  "html_sha256": "f37a2cbdca54dfaea608a991162dc7b4b125d14d97486014c6f5eb9b2a20b684",
-  "text_sha256": "1945062d5850ce2e05f6fca65de75e8f0df258678add32788be861daac70daf8",
-  "byte_size": 101047,
+  "fetched_at": "2026-11-20T16:29:47Z",
+  "html_sha256": "013b755ddf45eece70ff0dc3ee13d3b4044303d9f7ca60ae8bf2a8a56a02e31a",
+  "text_sha256": "31f42dfaa85bc33679e32b02f979e43fc1d363575351c8fe732e6ae9317a8e82",
+  "byte_size": 97996,
   "title": "Home",
   "noncitizen_voting": {
     "present": false,
@@ -25,7 +25,7 @@
     "terms": [
       "military_overseas_voter"
     ],
-    "count": 5
+    "count": 4
   },
   "error": null
 }
