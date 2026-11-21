@@ -6,30 +6,24 @@
   "redirect_chain": [
     "https://www.lee.vote/290/How-Do-I-Register-to-Vote"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-20T16:29:47Z",
-  "html_sha256": "c43f24764263468d624801d9ca70f7499f1b0b321b75157652c70043873d0ef4",
-  "text_sha256": "0f299c9fdf7e22f268f6d8889ad1b217064a8dfca6d63e65a4cc0c6696b17489",
-  "byte_size": 82455,
-  "title": "How Do I Register to Vote? | Lee County Elections, FL",
+  "fetched_at": "2026-11-21T15:44:51Z",
+  "html_sha256": "176d0d218fb34e490a59bb938d1733216afdb3a29ecca39ef4e1f6e59f1cff4a",
+  "text_sha256": "1457e9d2eb9fd68ebe367050836037cd182824067c47664ef5be7e35fded30b6",
+  "byte_size": 3330,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava",
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 11
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

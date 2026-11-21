@@ -85,14 +85,14 @@ Supervisor of Elections
 Monroe County
 Active Registered Voters
 Democratic
-14,969
+14,971
 Republican
-25,492
+25,498
 Others
-15,029
+15,032
 Total
-55,490
-Last updated 2026-11-20
+55,501
+Last updated 2026-11-21
 Election Night Results
 November 3, 2026 - General Election
 View Official Results
@@ -135,6 +135,10 @@ Florida Department of State - Division of Elections Website
 .
 Monroe County Supervisor of Elections
 Important Information
+New Marathon Office Location
+Effective 1/4/2027
+:
+New Marathon Office, coming soon!
 Hours
 The Elections Office is open:
 Monday – Friday: 8:30am – 5:00pm
@@ -161,8 +165,8 @@ Key West, Florida 33040
 View on map
 (305) 292-3416
 Marathon Branch
-100th Street Center
-10015 Overseas Hwy
+New Location, Effective 1/4/2027:
+2955 Overseas Highway
 Marathon, Florida 33050
 View on map
 (305) 289-6017

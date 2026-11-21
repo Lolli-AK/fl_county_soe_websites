@@ -125,7 +125,7 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 11/20/2026
+Voter Totals as of: 11/21/2026
 Democrats
 3,862
 Republicans
@@ -161,7 +161,7 @@ Read Full Announcement
 View all News & Announcements
 Latest News
 Jefferson County Supervisor of Elections - Michelle Milligan
-posted 2 days ago
+posted 3 days ago
 2026 General Election Post-Election Audit Complete! ✔️
 The Jefferson County Canvassing Board has officially completed the post-election audit of the November 3, 2026, General Election.
 The audit included 100% of the ballots cast, encompassing all 16 precincts and all races.

@@ -140,15 +140,15 @@ Request a Mail Ballot
 Become a Poll Worker
 Early Voting
 Candidate Financial Reporting Login
-Voter Totals as of: 11/20/2026
+Voter Totals as of: 11/21/2026
 Democrats
-2,367
+2,368
 Republicans
 3,822
 Other
-1,068
+1,069
 Total
-7,257
+7,259
 Dates to Remember
 Nov 26, 2026
 Office Closed in Observance of Thanksgiving

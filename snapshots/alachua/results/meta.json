@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votealachua.gov/263/Election-Results"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-20T16:29:47Z",
-  "html_sha256": "f5c7c1fe85c214f18865d3fceb8b0d570e3511f7e062dc4a2454ea18c15cd919",
-  "text_sha256": "382bbb89d55a82a51a411e9255583c6a4227b91d8eea976f3cb1fb1b2046da85",
-  "byte_size": 223872,
-  "title": "Election Results | Alachua County Elections, FL",
+  "fetched_at": "2026-11-21T15:44:51Z",
+  "html_sha256": "1cbe025bba0707fa3615e940919bab505ad3f7d295f29db62e2e58a45e8ce529",
+  "text_sha256": "3bc936833deffdb1a2e97329467b841a4ee5fbe25a984ac6b700fbd6087e2401",
+  "byte_size": 3330,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

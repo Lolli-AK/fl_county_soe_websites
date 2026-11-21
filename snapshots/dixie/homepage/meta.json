@@ -2,30 +2,29 @@
   "county": "Dixie",
   "page_type": "homepage",
   "requested_url": "https://dixievotes.gov/",
-  "final_url": "https://dixievotes.gov/",
+  "final_url": "https://static.dixievotes.gov/",
   "redirect_chain": [
-    "https://dixievotes.gov/"
+    "https://dixievotes.gov/",
+    "https://static.dixievotes.gov/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-20T16:29:47Z",
-  "html_sha256": "9037e91c57e7cbe5ac2754c71481ec630184f22b2ea9ae1182a70e0f440033ab",
-  "text_sha256": "ef8aac51856b3c04fea56e4074ba2a8747729d2bbe9b643e919d9331a555917f",
-  "byte_size": 143888,
-  "title": "Dixie County Supervisor of Elections – Darbi Chaires",
+  "fetched_at": "2026-11-21T15:44:51Z",
+  "html_sha256": "e6d0a092dd7cf2277206e70890526a1b30b213384ec94aae5c9e7009e981872e",
+  "text_sha256": "24b01526b9ebb91ba525270ac66d2474d83e0204055ce2dfaa335519b597a262",
+  "byte_size": 2484,
+  "title": "Dixie County - Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 4
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }
