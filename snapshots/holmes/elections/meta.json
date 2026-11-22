@@ -2,20 +2,19 @@
   "county": "Holmes",
   "page_type": "elections",
   "requested_url": "https://holmeselectionsfl.gov/voter-information/",
-  "final_url": "https://static.holmeselectionsfl.gov/voter-information/",
+  "final_url": "https://holmeselectionsfl.gov/voter-information/",
   "redirect_chain": [
-    "https://holmeselectionsfl.gov/voter-information/",
-    "https://static.holmeselectionsfl.gov/voter-information/"
+    "https://holmeselectionsfl.gov/voter-information/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-21T15:44:51Z",
-  "html_sha256": "813449278e7493be811105a58ea45f98d9429e673c2b1138f8cbe43f210a3ec0",
-  "text_sha256": "0b5225ae05312fa33d623b06334c0214b17d93eaac090442a906c2d251193158",
-  "byte_size": 2585,
-  "title": "Holmes County - Supervisor of Elections",
+  "fetched_at": "2026-11-22T15:46:56Z",
+  "html_sha256": "88783f5ebef1a25363bba5a952e40f2464d2a27275c01263ed0f56e3de0af169",
+  "text_sha256": "1754517ab68b5334df7a6a66c4eeecdd5152c69fb8b3a0cdb96f5d5def16a589",
+  "byte_size": 99228,
+  "title": "Voter Information – Holmes County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

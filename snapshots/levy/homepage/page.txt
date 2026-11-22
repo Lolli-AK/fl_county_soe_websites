@@ -149,15 +149,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 11/20/2026
+Voter Totals as of: 11/21/2026
 Democrats
-6,228
+6,184
 Republicans
-19,135
+19,013
 Other
-5,427
+5,375
 Total
-30,790
+30,572
 Voter Turnout
 Upcoming Elections
 There are currently no upcoming elections.

@@ -1,5 +1,6 @@
 Sarasota County Supervisor of Elections, FL | Official Website
 This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Thanksgiving closure
 November 25-27
@@ -71,17 +72,11 @@ Elections
 Registered Voters
 SARASOTA COUNTY, FL
 As of:
-11/21/26
 Democrats:
-82,838
 Republicans:
-167,643
 No Party Affiliation:
-74,869
 Other:
-13,050
 Total:
-338,400
 Stay Connected
 READ AND SUBSCRIBE TO OUR ELECTION CONNECTION NEWSLETTER
 Election Connection
@@ -380,7 +375,6 @@ Zapotec
 Zulu
 Powered by
 Translate
-[]
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate

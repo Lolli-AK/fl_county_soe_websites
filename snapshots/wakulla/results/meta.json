@@ -2,29 +2,30 @@
   "county": "Wakulla",
   "page_type": "results",
   "requested_url": "https://wakullavotes.gov/past-election-results/",
-  "final_url": "https://static.wakullavotes.gov/past-election-results/",
+  "final_url": "https://wakullavotes.gov/past-election-results/",
   "redirect_chain": [
-    "https://wakullavotes.gov/past-election-results/",
-    "https://static.wakullavotes.gov/past-election-results/"
+    "https://wakullavotes.gov/past-election-results/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-21T15:44:51Z",
-  "html_sha256": "b149f9e07949bc168399faeff1bf75cecd0da50fa7c80accf0553c26f0a012fc",
-  "text_sha256": "27601b7d79e52bd78d15ed6525763561e968e97507a4684fde3910ff8b16bf5f",
-  "byte_size": 2412,
-  "title": "Wakulla County - Supervisor of Elections",
+  "fetched_at": "2026-11-22T15:46:56Z",
+  "html_sha256": "13e6a1e675ea07f8d9a85d68c143346dc3dab24956f7fe6dd7745b471ffe8972",
+  "text_sha256": "82a91c70c6b0589cbfc96c6d29b8b6c04fdd6265e9f59c4862034f312674e927",
+  "byte_size": 63396,
+  "title": "Past Election Results – Wakulla County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
   "error": null
 }
