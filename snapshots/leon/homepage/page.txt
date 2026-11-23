@@ -1,5 +1,7 @@
 Homepage of LeonVotes.gov - the website for the Leon County Supervisor of Elections Office
 Skip to content
+We will be closed in observance of Thanksgiving starting on Wednesday, November 25. We will reopen at 8:30 a.m. on Monday, November 30.
+Dismiss
 Leon County
 Supervisor
 of Elections
@@ -127,7 +129,7 @@ Mark S. Earley
 Supervisor of Elections
 Leon County
 Active Registered Voters as of Book Closing:
-2026-11-22
+2026-11-23
 Democratic
 91,273
 Republican

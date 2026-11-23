@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-22T15:46:56Z",
-  "html_sha256": "363945b2e102219f2dbd8ab61433892b20501e3acb305e3743d0a8bc026e0b83",
+  "fetched_at": "2026-11-23T19:40:54Z",
+  "html_sha256": "09991ee3dc1eaaad0ad4bd59034507554917c60eca1644be7ab7d5a15fc4ad16",
   "text_sha256": "4dc07f7ea5c239844fc1e6cd10338d1a9817efd8b0dc4909fb2ed6764ab4a725",
-  "byte_size": 68157,
+  "byte_size": 67888,
   "title": "Online Voter Registration | Hernando County SOE, FL",
   "noncitizen_voting": {
     "present": false,

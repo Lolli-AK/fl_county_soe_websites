@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-22T15:46:56Z",
-  "html_sha256": "cdea276d2d6978e10b7974fcb855a366a75d7afa649ad33ef72b035e3cdaaff3",
+  "fetched_at": "2026-11-23T19:40:54Z",
+  "html_sha256": "2ab7af11b6d7b5fe5e02c76bd5a381aa87ffced2b6f792351c11018432519b04",
   "text_sha256": "0957f32c02a621799bdadb5def8b6fbb420b9f21231d0f70435b8af146476895",
-  "byte_size": 90244,
+  "byte_size": 90308,
   "title": "Early Voting Sites - Clay County Supervisor of Elections",
   "noncitizen_voting": {
     "present": false,

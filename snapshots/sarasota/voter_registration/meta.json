@@ -6,27 +6,24 @@
   "redirect_chain": [
     "https://www.sarasotavotes.gov/165/Register-to-Vote"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-22T15:46:56Z",
-  "html_sha256": "ce68cb5e4e0e87ca297b1daf27c620851b041b5bfd6b96f394558f7fb7bc48ef",
-  "text_sha256": "4cae1c1e8b8d8a084676381cf2c319b53187abb80da9a131c2ef1dae1a65d4ce",
-  "byte_size": 78940,
-  "title": "Register to Vote | Sarasota County Supervisor of Elections, FL",
+  "fetched_at": "2026-11-23T19:40:54Z",
+  "html_sha256": "9ee33dc5729c573a3b68f9a1173b8a20fed75cc2b783369b7773f20331636047",
+  "text_sha256": "72c57ca2a41222c084c3010540d2594f264b3542f466f4f94d38bef3d50c4da5",
+  "byte_size": 3329,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 3
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

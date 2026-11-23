@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-22T15:46:56Z",
-  "html_sha256": "29e85f6e6c3f125780334f83ed6d6cf10eac73424d797fe14958f5036ed4657d",
+  "fetched_at": "2026-11-23T19:40:54Z",
+  "html_sha256": "f25c444baba20a900c2f6ac9ce24421886cd8eeb4802c338c245efb1ba41dbf0",
   "text_sha256": "2312e8b20b94e6f501afb44e3bdb5d7b9ffbf27bb700ccdb3da21a7cc51dc645",
-  "byte_size": 89252,
+  "byte_size": 89298,
   "title": "Monroe County FL Supervisor of Elections > Voter Information > Voter Registration",
   "noncitizen_voting": {
     "present": false,

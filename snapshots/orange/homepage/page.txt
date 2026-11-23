@@ -137,7 +137,7 @@ Stay in the know.
 Here you’ll find all of the important dates for upcoming elections in Orange County, including registration deadlines, early voting windows, public meeting schedules, and more.
 VOTER STATISTICS
 Registered Active Voters
-as of 11/21/2026
+as of 11/22/2026
 Switch to details
 Switch to summary
 Party
@@ -201,7 +201,7 @@ UNKNOWN PARTY
 Total
 836,418
 Vote By Mail Standing Request Totals
-as of 11/21/2026
+as of 11/22/2026
 Election Name
 Count
 Permanent VBM requests 2027-2028

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-22T15:46:56Z",
-  "html_sha256": "c035141894e1313d899f6e98bef37d26d3dbc91982d9ab57f3050f7d5bce54e2",
+  "fetched_at": "2026-11-23T19:40:54Z",
+  "html_sha256": "3320417f247ba097d0c2a18572fa1597b24b0a00cf22421bebdf710c221a8a07",
   "text_sha256": "5fafe96f62e9b8f0877b80bdb09b58a13e151e4e70f02056526daab7595b5b72",
-  "byte_size": 79658,
+  "byte_size": 79369,
   "title": "Request a Ballot  | Duval County Elections, FL Official Website",
   "noncitizen_voting": {
     "present": false,

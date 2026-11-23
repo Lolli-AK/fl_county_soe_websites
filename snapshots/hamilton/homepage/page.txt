@@ -140,7 +140,7 @@ Request a Mail Ballot
 Become a Poll Worker
 Early Voting
 Candidate Financial Reporting Login
-Voter Totals as of: 11/22/2026
+Voter Totals as of: 11/23/2026
 Democrats
 2,368
 Republicans
@@ -150,9 +150,9 @@ Other
 Total
 7,259
 Dates to Remember
-Nov 26, 2026
+Nov 25, 2026
 Office Closed in Observance of Thanksgiving
-Dec 24, 2026
+Dec 23, 2026
 Office Closed in Observance of Christmas
 Dec 31, 2026
 Office Closed in Observance of the New Year
@@ -161,7 +161,7 @@ Announcements & Notices
 View all News & Announcements
 November 19, 2026
 Voting System Post-Election Audit Report
-Voting System Post-Election Audit Report - 2026 General Election
+Voting System Post-Election Audit Report - 2026 General Election Voting System Post-Election Audit Report -…
 Read Full Announcement
 November 17, 2026
 Notice to Potentially Ineligible Voters

@@ -29,7 +29,6 @@ Current & Upcoming Elections
 Events & Dates to Remember
 Election Results
 Upcoming Elections
-2024 Primary Election Preparation Report
 Closed Primary Elections
 Election Laws
 About Municipal Elections
@@ -102,7 +101,6 @@ Current & Upcoming Elections
 Events & Dates to Remember
 Election Results
 Upcoming Elections
-2024 Primary Election Preparation Report
 Closed Primary Elections
 Election Laws
 About Municipal Elections
@@ -159,7 +157,7 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 11/22/2026
+Voter Totals as of: 11/23/2026
 Democrats
 3,966
 Republicans

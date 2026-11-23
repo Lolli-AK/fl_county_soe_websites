@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-22T15:46:56Z",
-  "html_sha256": "ac3b00af4c40b2f2aff0f5437571a6e8ba206f3be60603e133c740a7df33c2cd",
+  "fetched_at": "2026-11-23T19:40:54Z",
+  "html_sha256": "1ee53757d5cdc0a4e56519ca41e332e78846d2b7ec6062f067f3920608bdc0c5",
   "text_sha256": "769515201020b0f747db9385974412c93cebd9c7b3f5745eecde197bca70e0e7",
-  "byte_size": 56631,
+  "byte_size": 56339,
   "title": "Election Dates & Deadlines | Palm Beach County Elections, FL",
   "noncitizen_voting": {
     "present": false,
