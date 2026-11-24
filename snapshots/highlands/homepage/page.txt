@@ -203,15 +203,15 @@ Contact & Feedback
 Contact Us
 Active Voters
 as of
-10/05/2026
+11/24/2026
 Democrats
-13,671
+13,973
 Republicans
-35,241
+35,675
 Others
-14,467
+14,740
 Total
-63,379
+64,388
 Active Voters
 as of
 8/20/26
@@ -247,7 +247,7 @@ Dec
 23
 Office Closure
 Details:
-Office Closed in Observance of Thanksgiving
+Office Closed in Observance of Christmas
 Petition Status Report
 Florida citizens have the right to propose amendments to the Florida Constitution through an initiative petition process. Highlands County Supervisor of Elections verifies thousands of initiative petitions each year signed by voters in Highlands County. Sponsors of these initiatives must secure the required number of valid signatures in order for their initiative to be placed on a General Election ballot.
 Pursuant to Florida Statute 100.371(11)(b), Highlands County's actual cost of signature verification of an initiative petition is $4.78 as of March 1, 2026.

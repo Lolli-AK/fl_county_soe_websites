@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-23T19:40:54Z",
-  "html_sha256": "54f6039d31b1da4cd515ed3a3b510993c3afb8e43f6520d6ff676e246d1006e3",
-  "text_sha256": "9a706ab22b9e8ac60f0cea80391d9eebb5ca680cb77b09e75bc5e71dbd1801db",
+  "fetched_at": "2026-11-24T19:11:33Z",
+  "html_sha256": "b8ab25cf04ea87eea35c4ce9ff7d50fcd3935e1b90c91ced588dca1e19afb028",
+  "text_sha256": "c46683fd38329a6df05061bd50a2d4a8456e8a2ce6790e1a9632b015cc7d1745",
   "byte_size": 152470,
   "title": "Home - Vote Manatee",
   "noncitizen_voting": {

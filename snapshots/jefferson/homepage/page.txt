@@ -125,15 +125,15 @@ Request a Mail Ballot
 Track My Ballot
 Early Voting
 Voting Locations
-Voter Totals as of: 11/23/2026
+Voter Totals as of: 11/24/2026
 Democrats
-3,862
+3,860
 Republicans
-4,791
+4,794
 Other
-1,417
+1,418
 Total
-10,070
+10,072
 Upcoming Elections
 There are currently no upcoming elections.
 Voter Assistance Hotline
@@ -147,6 +147,10 @@ There are currently no scheduled events or dates.
 All Upcoming Dates
 Election News
 View all News & Announcements
+November 24, 2026
+Office Closure November 25 - 27, (Wednesday - Friday)
+Office Closure November 25-27, (Wednesday-Friday) - In observance of Thanksgiving Holidays
+Read Full Announcement
 November 18, 2026
 2026 General Election - Voting System Audit Results
 Pursuant to Section 101.591, Florida Statutes, the Jefferson County Canvassing Board completed the post-election voting…
@@ -155,13 +159,10 @@ November 13, 2026
 Public Notice-Post Election Audit
 The Post-Election Audit for the 2026 General will take place at the Supervisor of Elections…
 Read Full Announcement
-November 10, 2026
-Office Closure Notice – Veterans Day
-Read Full Announcement
 View all News & Announcements
 Latest News
 Jefferson County Supervisor of Elections - Michelle Milligan
-posted 5 days ago
+posted 6 days ago
 2026 General Election Post-Election Audit Complete! ✔️
 The Jefferson County Canvassing Board has officially completed the post-election audit of the November 3, 2026, General Election.
 The audit included 100% of the ballots cast, encompassing all 16 precincts and all races.

@@ -88,15 +88,15 @@ Home
 »
 Register to Vote
 Register to Vote
-As of 11/23/26
+As of 11/24/26
 Republicans
-144,715
+144,783
 Democrats
-69,850
+69,912
 Others
-76,347
+76,394
 Total
-290,912
+291,089
 To register to vote in Florida, you must:
 Be a citizen of the United States
 Be a legal Florida Resident.
