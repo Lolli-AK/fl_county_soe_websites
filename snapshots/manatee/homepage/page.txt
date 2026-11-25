@@ -92,17 +92,17 @@ Florida Commission on Ethics (External Link)
 search
 Active Registered Voters
 as of:
-11/24/2026
+11/25/2026
 Democratic
-69,912
+69,980
 Republican
-144,783
+144,875
 No Party Affiliation
-65,988
+66,039
 Other
-10,406
+10,423
 Total
-291,089
+291,317
 Check your Voter Registration Status
 Am I Registered?
 Link to Register to Vote

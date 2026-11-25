@@ -126,17 +126,22 @@ Dec
 24,
 2026
 Christmas
+Tue,
+Apr
+13,
+2027
+Municipal Super Tuesday Election
 View All Events
 Clay County Voter Totals
-November 24, 2026
+November 25, 2026
 Republicans:
-89681
+89790
 Democrats:
-32348
+32417
 NPA:
-29686
+29740
 Others:
-6695
+6718
 Total:
 Loading...
 Subscribe to Alerts

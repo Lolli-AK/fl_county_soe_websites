@@ -80,7 +80,13 @@ All Event Type
 Holiday
 Office Closed
 Elections
-Event not found
+13
+April
+Tuesday
+Elections
+Municipal Super Tuesday Election
+April 13, 2027
+More Details
 Voter Information
 My Registration Status
 Register to Vote/Update Your Information
