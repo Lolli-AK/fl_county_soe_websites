@@ -146,15 +146,15 @@ Early Voting
 Voting Locations
 Military & Overseas
 active registered voters
-(11/24/2026)
+(11/25/2026)
 Democrats
-25,178
+25,175
 Republicans
-87,190
+87,203
 Other
-37,459
+37,468
 Total
-149,827
+149,846
 Upcoming Elections
 March 9, 2027
 Municipal Election

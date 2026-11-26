@@ -1,4 +1,5 @@
 Alachua County Elections, FL | Official Website
+Loading
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
@@ -29,22 +30,28 @@ Read on...
 View All News
 /CivicAlerts.aspx
 Upcoming Events
-Wed, Nov. 25
-Office Closed
 Thu, Nov. 26 - Fri, Nov. 27
 Thanksgiving Day Office Closure
 Tue, Dec. 1
 City of Waldo 2026 Election
 Thu, Dec. 24 - Fri, Dec. 25
 Christmas Day Office Closure
+Mon, Jan. 18
+Martin Luther King (MLK) Day
 View All Events
 /Calendar.aspx
 As of:
+11/26/26
 Democrats:
+77,034
 Republicans:
+49,415
 No Party Affiliation:
+39,001
 Other:
+6,162
 Total:
+171,612
 Kim A. Barton, Supervisor of Elections, Alachua County
 Josiah T. Walls Building • 515 North Main Street, Suite 300 • Gainesville, FL 32601
 Hours
@@ -81,4 +88,3 @@ Loading
 Loading
 Do Not Show Again
 Close
-[]

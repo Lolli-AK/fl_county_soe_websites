@@ -140,7 +140,7 @@ Request a Mail Ballot
 Become a Poll Worker
 Early Voting
 Candidate Financial Reporting Login
-Voter Totals as of: 11/25/2026
+Voter Totals as of: 11/26/2026
 Democrats
 2,367
 Republicans

@@ -166,15 +166,15 @@ Election Worker Resources
 Election Worker Login
 Active Registered
 Voters
-(11/25/2026)
+(11/26/2026)
 Democrats
 24,631
 Republicans
 76,383
 Other
-29,730
+29,731
 Total
-130,744
+130,745
 Upcoming Elections
 All Upcoming Elections
 Municipal Super Tuesday
@@ -200,7 +200,7 @@ All Upcoming Dates
 Stay Up to Date
 Bay County
 Supervisor of Elections
-posted 2 days ago
+posted 3 days ago
 In observance of the Thanksgiving Holiday, the Supervisor of Elections office will be closed November 25th - November 27th. Normal business hours will resume on November 30, 2026.
 Remember, voter registration services are always available online at
 www.bayvotesfl.gov
