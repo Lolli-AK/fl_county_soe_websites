@@ -117,11 +117,6 @@ My Ballot
 Calendar
 All Events
 Thu,
-Nov
-26,
-2026
-Thanksgiving
-Thu,
 Dec
 24,
 2026
@@ -133,7 +128,7 @@ Apr
 Municipal Super Tuesday Election
 View All Events
 Clay County Voter Totals
-November 26, 2026
+November 27, 2026
 Republicans:
 89805
 Democrats:
