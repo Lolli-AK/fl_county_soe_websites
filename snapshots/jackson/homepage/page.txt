@@ -105,7 +105,7 @@ Carol A. Dunaway
 SUPERVISOR OF ELECTIONS
 JACKSON COUNTY
 Active Registered Voters
-as of 11/27/2026
+as of 11/28/2026
 Republicans
 0
 Democrats
@@ -128,10 +128,6 @@ for any help with accessibility.
 JUST SAY YES!
 Keep your Voter Registration up to date!
 Calendar
-Nov
-27
-All day, 2026
-Closed for Thanksgiving Holiday
 Dec
 15
 8:00 am
@@ -154,6 +150,13 @@ Dec
 5:00 pm
 2026
 Closed for Christmas Holiday
+Dec
+30
+12:00 pm
+-
+5:00 pm
+2026
+Closed for New Year’s Holiday beginning at noon
 View Calendar
 View full calendar
 2026 General Election Results

@@ -1,6 +1,6 @@
 Okeechobee County, FL
 Skip to content
-Active Registered Voters as of 11/27/2026:
+Active Registered Voters as of 11/28/2026:
 Dem: 4,486
 Rep: 12,667
 Oth: 927
@@ -184,9 +184,6 @@ Election Results
 voter turnout
 ×
 CALENDAR
-NOV
-26
-Thanksgiving – Office Closed
 DEC
 24
 Christmas Eve – Office Closed
@@ -214,7 +211,7 @@ elections@voteokeechobee.gov
 Contact Us Form
 Site powered by
 SOE Software
-Active Registered Voters as of 11/27/2026:
+Active Registered Voters as of 11/28/2026:
 Dem: 4,486
 Rep: 12,667
 Oth: 927

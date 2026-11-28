@@ -4,11 +4,11 @@ Error code 522
 Visit
 cloudflare.com
 for more information.
-2026-11-27 17:44:27 UTC
+2026-11-28 16:29:56 UTC
 You
 Browser
 Working
-Seattle
+Minneapolis
 Cloudflare
 Working
 votebakerfl.gov
@@ -23,11 +23,11 @@ If you're the owner of this website:
 Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.
 Additional troubleshooting information here.
 Cloudflare Ray ID:
-a612f0686d89d9cd
+a61ac09faead8312
 •
 Your IP:
 Click to reveal
-52.156.110.230
+20.118.215.107
 •
 Performance & security by
 Cloudflare

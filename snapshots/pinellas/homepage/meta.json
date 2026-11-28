@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-27T17:43:07Z",
-  "html_sha256": "352fb4c57d9522d4894a1edd0dd87a42572d29cc09c268e073673c1a7be0164e",
+  "fetched_at": "2026-11-28T16:28:36Z",
+  "html_sha256": "f22bcc32ac5a461028eada74706d3599fee86c55eb341bf81d78f2ef32d734ab",
   "text_sha256": "7ea7d04e713fa7bf0647c717655a22918a0098055733ee0171ffce1122f83d05",
-  "byte_size": 61948,
+  "byte_size": 61860,
   "title": "Pinellas County Election, FL | Official Website",
   "noncitizen_voting": {
     "present": false,

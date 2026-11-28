@@ -96,7 +96,7 @@ Election Night Results
 Click Here
 2026 Election Night Results
 Active Registered Voters
-As of 11/27/2026
+As of 11/28/2026
 Democrats
 0
 Republicans
@@ -117,15 +117,15 @@ General Election
 Days Until Next Election
 View Events Calendar
 Dates to Remember
-Office Closed for Thanksgiving
-In observance of the Thanksgiving holiday, our office will be closed Friday, November 27, 2026. Our office will reopen on Monday, November 30, 2026, at 8am.
-2026-11-27
 Office Closed for Christmas
 In observance of the Christmas holiday, our office will be closed Wednesday, December 23, 2026. Our office will reopen on Monday, December 28, 2026, at 8am.
 2026-12-23
 Office closed for Christmas
 In observance of the Christmas holiday, our office will be closed Thursday, December 24, 2026. Our office will reopen on Monday, December 28, 2026, at 8am.
 2026-12-24
+Office closed for Christmas
+In observance of the Christmas holiday, our office will be closed Friday, December 25, 2026. Our office will reopen on Monday, December 28, 2026, at 8am.
+2026-12-25
 View full Calendar
 News & Announcements
 Military & Overseas Voting
